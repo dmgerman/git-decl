@@ -1,0 +1,9 @@
+DECL|function|add_buffer
+DECL|function|finish_buffer
+DECL|function|init_buffer
+DECL|function|main
+DECL|function|prepend_integer
+DECL|function|remove_special
+DECL|macro|BLOCKING
+DECL|macro|MAXPARENT
+DECL|macro|ORIG_OFFSET
