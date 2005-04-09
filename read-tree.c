@@ -1,4 +1,3 @@
-DECL|function|create_directories
-DECL|function|create_file
 DECL|function|main
-DECL|function|unpack
+DECL|function|read_one_entry
+DECL|function|read_tree
