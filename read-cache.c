@@ -1,3 +1,5 @@
+DECL|function|cache_name_compare
+DECL|function|cache_name_pos
 DECL|function|check_sha1_signature
 DECL|function|error
 DECL|function|get_sha1_hex
