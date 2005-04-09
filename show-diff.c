@@ -1,9 +1,2 @@
 DECL|function|main
-DECL|function|match_stat
 DECL|function|show_differences
-DECL|macro|CTIME_CHANGED
-DECL|macro|DATA_CHANGED
-DECL|macro|INODE_CHANGED
-DECL|macro|MODE_CHANGED
-DECL|macro|MTIME_CHANGED
-DECL|macro|OWNER_CHANGED
