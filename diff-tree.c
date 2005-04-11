@@ -3,6 +3,8 @@ DECL|function|diff_tree
 DECL|function|diff_tree_sha1
 DECL|function|extract
 DECL|function|main
+DECL|function|malloc_base
 DECL|function|show_file
+DECL|function|show_tree
 DECL|function|update_tree_entry
 DECL|variable|recursive
