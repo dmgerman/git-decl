@@ -1,0 +1,12 @@
+DECL|function|add_relationship
+DECL|function|already_seen
+DECL|function|find_relationship
+DECL|function|main
+DECL|function|parse_commit
+DECL|function|read_cache_file
+DECL|member|parent
+DECL|member|sha1
+DECL|struct|relationship
+DECL|variable|nr_rels
+DECL|variable|rel_allocs
+DECL|variable|rels
