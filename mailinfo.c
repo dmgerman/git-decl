@@ -13,6 +13,7 @@ DECL|function|show_filename
 DECL|function|usage
 DECL|variable|cmitmsg
 DECL|variable|email
+DECL|variable|filelist
 DECL|variable|line
 DECL|variable|name
 DECL|variable|patchfile
