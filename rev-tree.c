@@ -16,6 +16,7 @@ DECL|member|parent
 DECL|member|sha1
 DECL|struct|parent
 DECL|struct|revision
+DECL|variable|basemask
 DECL|variable|nr_revs
 DECL|variable|rev_allocs
 DECL|variable|revs
