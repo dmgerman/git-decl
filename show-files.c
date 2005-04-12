@@ -1,0 +1,12 @@
+DECL|function|add_name
+DECL|function|cmp_name
+DECL|function|main
+DECL|function|read_directory
+DECL|function|show_files
+DECL|variable|dir
+DECL|variable|dir_alloc
+DECL|variable|nr_dir
+DECL|variable|show_cached
+DECL|variable|show_deleted
+DECL|variable|show_ignored
+DECL|variable|show_others
