@@ -25,7 +25,6 @@ DECL|member|sha1
 DECL|struct|parent
 DECL|struct|revision
 DECL|variable|head_sha1
-DECL|variable|head_supplied
 DECL|variable|nr_revs
 DECL|variable|rev_allocs
 DECL|variable|revs
