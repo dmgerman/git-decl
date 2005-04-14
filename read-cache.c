@@ -3,6 +3,7 @@ DECL|function|cache_match_stat
 DECL|function|cache_name_compare
 DECL|function|cache_name_pos
 DECL|function|check_sha1_signature
+DECL|function|collision_check
 DECL|function|die
 DECL|function|error
 DECL|function|get_sha1_hex
