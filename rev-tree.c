@@ -1,7 +1,4 @@
-DECL|function|add_relationship
-DECL|function|find_rev
 DECL|function|interesting
-DECL|function|lookup_rev
 DECL|function|main
 DECL|function|mark_sha1_path
 DECL|function|parse_commit
@@ -9,19 +6,6 @@ DECL|function|parse_commit_date
 DECL|function|parse_time
 DECL|function|read_cache_file
 DECL|macro|MAX_COMMITS
-DECL|macro|SEEN
 DECL|macro|_XOPEN_SOURCE
-DECL|macro|marked
-DECL|member|date
-DECL|member|flags
-DECL|member|next
-DECL|member|parent
-DECL|member|parent
-DECL|member|sha1
-DECL|struct|parent
-DECL|struct|revision
 DECL|variable|basemask
-DECL|variable|nr_revs
-DECL|variable|rev_allocs
-DECL|variable|revs
 DECL|variable|show_edges
