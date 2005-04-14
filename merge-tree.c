@@ -1,0 +1,13 @@
+DECL|function|main
+DECL|function|merge
+DECL|function|merge_entry
+DECL|function|merge_tree
+DECL|function|read_tree
+DECL|function|same
+DECL|function|show
+DECL|function|smaller
+DECL|member|mode
+DECL|member|next
+DECL|member|path
+DECL|member|sha1
+DECL|struct|tree_entry
