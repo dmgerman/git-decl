@@ -1,3 +1,4 @@
+DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
 DECL|function|compare_data
 DECL|function|fill_stat_cache_info
