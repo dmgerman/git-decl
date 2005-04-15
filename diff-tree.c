@@ -7,4 +7,5 @@ DECL|function|malloc_base
 DECL|function|show_file
 DECL|function|show_tree
 DECL|function|update_tree_entry
+DECL|variable|line_termination
 DECL|variable|recursive
