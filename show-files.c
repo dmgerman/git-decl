@@ -5,6 +5,7 @@ DECL|function|read_directory
 DECL|function|show_files
 DECL|variable|dir
 DECL|variable|dir_alloc
+DECL|variable|line_terminator
 DECL|variable|nr_dir
 DECL|variable|show_cached
 DECL|variable|show_deleted
