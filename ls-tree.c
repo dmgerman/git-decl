@@ -1,2 +1,10 @@
+DECL|function|_usage
 DECL|function|list
+DECL|function|list_recursive
 DECL|function|main
+DECL|function|print_path_prefix
+DECL|member|name
+DECL|member|prev
+DECL|struct|path_prefix
+DECL|variable|line_termination
+DECL|variable|recursive
