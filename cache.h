@@ -1,8 +1,7 @@
 DECL|macro|CACHE_H
 DECL|macro|CACHE_SIGNATURE
 DECL|macro|CE_NAMEMASK
-DECL|macro|CE_STAGE1
-DECL|macro|CE_STAGE2
+DECL|macro|CE_STAGEMASK
 DECL|macro|CTIME_CHANGED
 DECL|macro|DATA_CHANGED
 DECL|macro|DB_ENVIRONMENT
@@ -15,6 +14,7 @@ DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
 DECL|macro|ce_namelen
 DECL|macro|ce_size
+DECL|macro|create_ce_flags
 DECL|member|ce_ctime
 DECL|member|ce_dev
 DECL|member|ce_flags
