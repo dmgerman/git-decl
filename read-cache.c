@@ -11,8 +11,10 @@ DECL|function|hexval
 DECL|function|map_sha1_file
 DECL|function|read_cache
 DECL|function|read_sha1_file
+DECL|function|remove_entry_at
 DECL|function|remove_file_from_cache
 DECL|function|report
+DECL|function|same_name
 DECL|function|sha1_file_name
 DECL|function|sha1_to_hex
 DECL|function|unpack_sha1_file
