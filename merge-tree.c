@@ -11,3 +11,5 @@ DECL|member|next
 DECL|member|path
 DECL|member|sha1
 DECL|struct|tree_entry
+DECL|variable|line_termination
+DECL|variable|merge_tree_usage
