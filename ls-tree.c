@@ -1,4 +1,3 @@
-DECL|function|_usage
 DECL|function|list
 DECL|function|list_recursive
 DECL|function|main
@@ -7,4 +6,5 @@ DECL|member|name
 DECL|member|prev
 DECL|struct|path_prefix
 DECL|variable|line_termination
+DECL|variable|ls_tree_usage
 DECL|variable|recursive
