@@ -11,3 +11,4 @@ DECL|variable|show_cached
 DECL|variable|show_deleted
 DECL|variable|show_ignored
 DECL|variable|show_others
+DECL|variable|show_stage
