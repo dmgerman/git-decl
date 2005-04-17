@@ -15,6 +15,7 @@ DECL|member|next
 DECL|member|parent
 DECL|member|parent
 DECL|member|sha1
+DECL|member|tag
 DECL|struct|parent
 DECL|struct|revision
 DECL|variable|nr_revs
