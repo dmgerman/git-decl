@@ -1,4 +1,5 @@
 DECL|function|add_buffer
+DECL|function|check_valid
 DECL|function|finish_buffer
 DECL|function|init_buffer
 DECL|function|main
