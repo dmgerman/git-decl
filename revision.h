@@ -2,6 +2,8 @@ DECL|function|add_relationship
 DECL|function|find_rev
 DECL|function|lookup_rev
 DECL|function|mark_reachable
+DECL|function|parse_commit
+DECL|function|parse_commit_date
 DECL|macro|REACHABLE
 DECL|macro|REVISION_H
 DECL|macro|SEEN

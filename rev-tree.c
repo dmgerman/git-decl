@@ -1,9 +1,6 @@
 DECL|function|interesting
 DECL|function|main
 DECL|function|mark_sha1_path
-DECL|function|parse_commit
-DECL|function|parse_commit_date
-DECL|function|parse_time
 DECL|function|read_cache_file
 DECL|macro|MAX_COMMITS
 DECL|macro|_BSD_SOURCE
