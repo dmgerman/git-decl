@@ -1,3 +1,3 @@
-DECL|function|better
-DECL|function|common_parent
+DECL|function|common_ancestor
 DECL|function|main
+DECL|function|process_list
