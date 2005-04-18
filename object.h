@@ -1,0 +1,13 @@
+DECL|macro|OBJECT_H
+DECL|member|flags
+DECL|member|item
+DECL|member|next
+DECL|member|parsed
+DECL|member|refs
+DECL|member|sha1
+DECL|member|type
+DECL|member|used
+DECL|struct|object
+DECL|struct|object_list
+DECL|variable|nr_objs
+DECL|variable|objs

@@ -1,0 +1,9 @@
+DECL|macro|COMMIT_H
+DECL|member|date
+DECL|member|item
+DECL|member|next
+DECL|member|object
+DECL|member|parents
+DECL|member|tree
+DECL|struct|commit
+DECL|struct|commit_list
