@@ -1,4 +1,3 @@
-DECL|function|create_temp_file
 DECL|function|main
 DECL|function|merge_all
 DECL|function|merge_entry
