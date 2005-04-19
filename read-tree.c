@@ -1,5 +1,6 @@
 DECL|function|main
 DECL|function|merge_entries
+DECL|function|merge_stat_info
 DECL|function|path_matches
 DECL|function|read_one_entry
 DECL|function|read_tree
