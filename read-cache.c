@@ -2,12 +2,17 @@ DECL|function|add_cache_entry
 DECL|function|cache_match_stat
 DECL|function|cache_name_compare
 DECL|function|cache_name_pos
+DECL|function|ce_flush
+DECL|function|ce_write
 DECL|function|read_cache
 DECL|function|remove_entry_at
 DECL|function|remove_file_from_cache
 DECL|function|same_name
 DECL|function|verify_hdr
 DECL|function|write_cache
+DECL|macro|WRITE_BUFFER_SIZE
 DECL|variable|active_alloc
 DECL|variable|active_cache
 DECL|variable|active_nr
+DECL|variable|write_buffer
+DECL|variable|write_buffer_len
