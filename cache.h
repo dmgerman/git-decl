@@ -35,7 +35,6 @@ DECL|member|name
 DECL|member|nsec
 DECL|member|sec
 DECL|member|sha1
-DECL|member|sha1
 DECL|struct|cache_entry
 DECL|struct|cache_header
 DECL|struct|cache_time
