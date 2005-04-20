@@ -1,0 +1,11 @@
+DECL|function|compare_tree_entry
+DECL|function|diff_cache
+DECL|function|extract
+DECL|function|main
+DECL|function|malloc_base
+DECL|function|show_file
+DECL|function|show_tree
+DECL|function|update_tree_entry
+DECL|variable|cached_only
+DECL|variable|line_termination
+DECL|variable|recursive
