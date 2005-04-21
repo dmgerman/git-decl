@@ -4,6 +4,7 @@ DECL|function|get_sha1_hex
 DECL|function|hexval
 DECL|function|map_sha1_file
 DECL|function|read_sha1_file
+DECL|function|read_tree_with_tree_or_commit_sha1
 DECL|function|sha1_file_name
 DECL|function|sha1_to_hex
 DECL|function|unpack_sha1_file
