@@ -1,4 +1,3 @@
-DECL|function|commit_to_tree
 DECL|function|compare_tree_entry
 DECL|function|diff_tree
 DECL|function|diff_tree_sha1
