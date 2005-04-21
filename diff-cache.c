@@ -7,5 +7,6 @@ DECL|function|show_file
 DECL|function|show_tree
 DECL|function|update_tree_entry
 DECL|variable|cached_only
+DECL|variable|diff_cache_usage
 DECL|variable|line_termination
 DECL|variable|recursive

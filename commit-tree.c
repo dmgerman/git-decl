@@ -10,5 +10,6 @@ DECL|function|skipfws
 DECL|macro|BLOCKING
 DECL|macro|MAXPARENT
 DECL|macro|ORIG_OFFSET
+DECL|variable|commit_tree_usage
 DECL|variable|month_names
 DECL|variable|weekday_names

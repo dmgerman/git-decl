@@ -7,5 +7,6 @@ DECL|function|malloc_base
 DECL|function|show_file
 DECL|function|show_tree
 DECL|function|update_tree_entry
+DECL|variable|diff_tree_usage
 DECL|variable|line_termination
 DECL|variable|recursive
