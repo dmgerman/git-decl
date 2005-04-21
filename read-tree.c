@@ -4,6 +4,7 @@ DECL|function|merge_stat_info
 DECL|function|path_matches
 DECL|function|read_one_entry
 DECL|function|read_tree
+DECL|function|read_tree_recursive
 DECL|function|remove_lock_file
 DECL|function|same
 DECL|function|trivially_merge_cache
