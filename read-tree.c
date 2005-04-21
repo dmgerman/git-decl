@@ -8,6 +8,6 @@ DECL|function|read_tree_recursive
 DECL|function|remove_lock_file
 DECL|function|same
 DECL|function|trivially_merge_cache
+DECL|variable|lockfile_name
 DECL|variable|read_tree_usage
-DECL|variable|remove_lock
 DECL|variable|stage

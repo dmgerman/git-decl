@@ -11,4 +11,4 @@ DECL|function|remove_lock_file
 DECL|function|verify_path
 DECL|variable|allow_add
 DECL|variable|allow_remove
-DECL|variable|remove_lock
+DECL|variable|lockfile_name
