@@ -6,4 +6,5 @@ DECL|function|create_file
 DECL|function|main
 DECL|function|write_entry
 DECL|variable|force
+DECL|variable|not_new
 DECL|variable|quiet
