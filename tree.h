@@ -1,4 +1,13 @@
 DECL|macro|TREE_H
+DECL|member|blob
+DECL|member|directory
+DECL|member|entries
+DECL|member|executable
 DECL|member|has_full_path
+DECL|member|item
+DECL|member|name
+DECL|member|next
 DECL|member|object
+DECL|member|tree
 DECL|struct|tree
+DECL|struct|tree_entry_list
