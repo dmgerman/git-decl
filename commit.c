@@ -1,5 +1,9 @@
+DECL|function|commit_list_insert
 DECL|function|free_commit_list
+DECL|function|insert_by_date
 DECL|function|lookup_commit
 DECL|function|parse_commit
 DECL|function|parse_commit_date
+DECL|function|pop_most_recent_commit
+DECL|function|sort_by_date
 DECL|variable|commit_type
