@@ -1,4 +1,5 @@
 DECL|function|check_connectivity
+DECL|function|fsck_blob
 DECL|function|fsck_commit
 DECL|function|fsck_dir
 DECL|function|fsck_entry
