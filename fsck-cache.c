@@ -9,4 +9,5 @@ DECL|function|fsck_tree
 DECL|function|main
 DECL|macro|REACHABLE
 DECL|variable|head_sha1
+DECL|variable|show_tags
 DECL|variable|show_unreachable
