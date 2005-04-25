@@ -1,15 +1,12 @@
 DECL|function|add_buffer
 DECL|function|check_valid
-DECL|function|finish_buffer
 DECL|function|init_buffer
 DECL|function|main
 DECL|function|parse_rfc2822_date
-DECL|function|prepend_integer
 DECL|function|remove_special
 DECL|function|skipfws
 DECL|macro|BLOCKING
 DECL|macro|MAXPARENT
-DECL|macro|ORIG_OFFSET
 DECL|variable|commit_tree_usage
 DECL|variable|month_names
 DECL|variable|weekday_names

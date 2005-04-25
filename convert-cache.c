@@ -9,10 +9,8 @@ DECL|function|insert_new
 DECL|function|lookup_entry
 DECL|function|main
 DECL|function|parse_oldstyle_date
-DECL|function|prepend_integer
 DECL|function|write_subdirectory
 DECL|macro|MAXOBJECTS
-DECL|macro|ORIG_OFFSET
 DECL|macro|_XOPEN_SOURCE
 DECL|member|converted
 DECL|member|new_sha1
