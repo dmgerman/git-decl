@@ -1,12 +1,5 @@
-DECL|function|fserr
 DECL|function|main
-DECL|function|map_whole_file
 DECL|function|matches_pathspec
 DECL|function|parse_diff_tree_output
 DECL|function|parse_oneside_change
-DECL|function|sha1err
-DECL|function|show_diff
-DECL|macro|STATUS_ABSENT
-DECL|macro|STATUS_CACHED
-DECL|macro|STATUS_UNCACHED
 DECL|variable|diff_tree_helper_usage
