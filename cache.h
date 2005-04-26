@@ -1,3 +1,5 @@
+DECL|function|xmalloc
+DECL|function|xrealloc
 DECL|macro|CACHE_H
 DECL|macro|CACHE_SIGNATURE
 DECL|macro|CE_NAMEMASK
