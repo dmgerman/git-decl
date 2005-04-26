@@ -11,6 +11,7 @@ DECL|function|match_data
 DECL|function|refresh_cache
 DECL|function|refresh_entry
 DECL|function|remove_lock_file
+DECL|function|remove_lock_file_on_signal
 DECL|function|verify_path
 DECL|variable|allow_add
 DECL|variable|allow_remove
