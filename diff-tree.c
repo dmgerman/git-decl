@@ -9,6 +9,7 @@ DECL|function|show_file
 DECL|function|show_tree
 DECL|function|update_tree_entry
 DECL|variable|diff_tree_usage
+DECL|variable|generate_patch
 DECL|variable|line_termination
 DECL|variable|nr_paths
 DECL|variable|pathlens
