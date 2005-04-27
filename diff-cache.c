@@ -5,4 +5,5 @@ DECL|function|show_file
 DECL|function|show_modified
 DECL|variable|cached_only
 DECL|variable|diff_cache_usage
+DECL|variable|generate_patch
 DECL|variable|line_termination
