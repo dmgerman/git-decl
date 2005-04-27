@@ -2,4 +2,6 @@ DECL|function|main
 DECL|function|matches_pathspec
 DECL|function|parse_diff_tree_output
 DECL|function|parse_oneside_change
+DECL|macro|PLEASE_WARN
+DECL|macro|WARNED_OURSELVES
 DECL|variable|diff_tree_helper_usage
