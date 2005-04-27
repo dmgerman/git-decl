@@ -1,10 +1,11 @@
 DECL|function|builtin_diff
+DECL|function|diff_addremove
+DECL|function|diff_change
+DECL|function|diff_unmerge
 DECL|function|external_diff
 DECL|function|prepare_temp_file
 DECL|function|remove_tempfile
 DECL|function|run_external_diff
-DECL|function|show_diff_empty
-DECL|function|show_differences
 DECL|function|sq_expand
 DECL|member|hex
 DECL|member|mode
