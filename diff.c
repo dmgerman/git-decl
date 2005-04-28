@@ -12,6 +12,5 @@ DECL|member|mode
 DECL|member|name
 DECL|member|tmp_path
 DECL|struct|diff_tempfile
-DECL|variable|diff_cmd
 DECL|variable|diff_opts
 DECL|variable|diff_temp
