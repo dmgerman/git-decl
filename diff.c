@@ -5,6 +5,7 @@ DECL|function|diff_unmerge
 DECL|function|external_diff
 DECL|function|prepare_temp_file
 DECL|function|remove_tempfile
+DECL|function|remove_tempfile_on_signal
 DECL|function|run_external_diff
 DECL|function|sq_expand
 DECL|member|hex
