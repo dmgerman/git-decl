@@ -1,14 +1,9 @@
 DECL|function|fetch
 DECL|function|fwrite_sha1_file
 DECL|function|main
-DECL|function|process_commit
-DECL|function|process_tree
-DECL|variable|all
 DECL|variable|base
 DECL|variable|c
-DECL|variable|commits
 DECL|variable|curl
 DECL|variable|local
 DECL|variable|stream
-DECL|variable|tree
 DECL|variable|zret

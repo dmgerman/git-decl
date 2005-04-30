@@ -1,9 +1,4 @@
 DECL|function|fetch
 DECL|function|main
-DECL|function|process_commit
-DECL|function|process_tree
-DECL|variable|all
-DECL|variable|commits
 DECL|variable|fd_in
 DECL|variable|fd_out
-DECL|variable|tree
