@@ -11,6 +11,7 @@ DECL|function|reliable_write
 DECL|function|traverse_tree
 DECL|function|write_blocked
 DECL|function|write_extended_header
+DECL|function|write_global_extended_header
 DECL|function|write_header
 DECL|function|write_if_needed
 DECL|function|write_trailer
