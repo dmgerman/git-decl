@@ -11,11 +11,11 @@ DECL|variable|dir_alloc
 DECL|variable|excludes
 DECL|variable|excludes_alloc
 DECL|variable|line_terminator
+DECL|variable|ls_files_usage
 DECL|variable|nr_dir
 DECL|variable|nr_excludes
 DECL|variable|show_cached
 DECL|variable|show_deleted
-DECL|variable|show_files_usage
 DECL|variable|show_ignored
 DECL|variable|show_others
 DECL|variable|show_stage
