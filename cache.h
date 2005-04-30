@@ -23,6 +23,7 @@ DECL|macro|ce_size
 DECL|macro|ce_stage
 DECL|macro|create_ce_flags
 DECL|macro|create_ce_mode
+DECL|macro|deflateBound
 DECL|macro|get_index_file
 DECL|macro|get_object_directory
 DECL|member|ce_ctime
