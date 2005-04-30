@@ -6,6 +6,7 @@ DECL|function|match_tz
 DECL|function|my_mktime
 DECL|function|parse_date
 DECL|macro|NR_TZ
+DECL|member|dst
 DECL|member|name
 DECL|member|offset
 DECL|variable|month_names
