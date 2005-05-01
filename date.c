@@ -7,6 +7,7 @@ DECL|function|match_string
 DECL|function|match_tz
 DECL|function|my_mktime
 DECL|function|parse_date
+DECL|function|skip_alpha
 DECL|macro|NR_TZ
 DECL|member|dst
 DECL|member|name
