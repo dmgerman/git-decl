@@ -8,6 +8,7 @@ DECL|function|fsck_tag
 DECL|function|fsck_tree
 DECL|function|ino_compare
 DECL|function|main
+DECL|function|verify_ordered
 DECL|macro|MAX_SHA1_ENTRIES
 DECL|macro|REACHABLE
 DECL|member|entry

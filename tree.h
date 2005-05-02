@@ -3,7 +3,6 @@ DECL|member|blob
 DECL|member|directory
 DECL|member|entries
 DECL|member|executable
-DECL|member|has_full_path
 DECL|member|item
 DECL|member|name
 DECL|member|next
