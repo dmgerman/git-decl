@@ -4,6 +4,7 @@ DECL|function|cleanup_space
 DECL|function|cleanup_subject
 DECL|function|eatspace
 DECL|function|handle_body
+DECL|function|handle_date
 DECL|function|handle_from
 DECL|function|handle_rest
 DECL|function|handle_subject
@@ -12,6 +13,7 @@ DECL|function|sanity_check
 DECL|function|show_filename
 DECL|function|usage
 DECL|variable|cmitmsg
+DECL|variable|date
 DECL|variable|email
 DECL|variable|filelist
 DECL|variable|line
