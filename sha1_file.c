@@ -5,6 +5,7 @@ DECL|function|get_sha1_file
 DECL|function|get_sha1_hex
 DECL|function|has_sha1_file
 DECL|function|hexval
+DECL|function|index_fd
 DECL|function|map_sha1_file
 DECL|function|read_object_with_reference
 DECL|function|read_sha1_file
