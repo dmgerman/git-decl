@@ -1,6 +1,5 @@
 DECL|function|check_sha1_signature
 DECL|function|collision_check
-DECL|function|get_parent
 DECL|function|get_sha1
 DECL|function|get_sha1_file
 DECL|function|get_sha1_hex
