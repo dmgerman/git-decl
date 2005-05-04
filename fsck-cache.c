@@ -17,6 +17,7 @@ DECL|member|nr
 DECL|member|sha1
 DECL|struct|sha1_entry
 DECL|variable|head_sha1
+DECL|variable|keep_cache_objects
 DECL|variable|sha1_list
 DECL|variable|show_root
 DECL|variable|show_tags
