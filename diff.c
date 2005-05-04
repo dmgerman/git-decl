@@ -8,6 +8,7 @@ DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
 DECL|function|run_external_diff
 DECL|function|sq_expand
+DECL|function|work_tree_matches
 DECL|member|hex
 DECL|member|mode
 DECL|member|name
