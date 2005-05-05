@@ -9,3 +9,4 @@ DECL|variable|cached_only
 DECL|variable|diff_cache_usage
 DECL|variable|generate_patch
 DECL|variable|line_termination
+DECL|variable|match_nonexisting
