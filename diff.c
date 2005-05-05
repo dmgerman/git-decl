@@ -3,6 +3,7 @@ DECL|function|diff_addremove
 DECL|function|diff_change
 DECL|function|diff_unmerge
 DECL|function|external_diff
+DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
