@@ -1,3 +1,4 @@
+DECL|function|create_ce_mode
 DECL|function|xmalloc
 DECL|function|xrealloc
 DECL|macro|CACHE_H
@@ -20,6 +21,7 @@ DECL|macro|INODE_CHANGED
 DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
 DECL|macro|OWNER_CHANGED
+DECL|macro|TYPE_CHANGED
 DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
 DECL|macro|ce_namelen
@@ -27,7 +29,6 @@ DECL|macro|ce_permissions
 DECL|macro|ce_size
 DECL|macro|ce_stage
 DECL|macro|create_ce_flags
-DECL|macro|create_ce_mode
 DECL|macro|deflateBound
 DECL|macro|get_index_file
 DECL|macro|get_object_directory
