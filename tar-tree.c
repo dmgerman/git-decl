@@ -1,9 +1,11 @@
 DECL|function|append_char
-DECL|function|append_long
+DECL|function|append_extended_header
+DECL|function|append_extended_header_prefix
 DECL|function|append_path
 DECL|function|append_path_prefix
 DECL|function|append_string
 DECL|function|commit_time
+DECL|function|extended_header_len
 DECL|function|get_record
 DECL|function|main
 DECL|function|path_len
