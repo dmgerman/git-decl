@@ -15,5 +15,4 @@ DECL|function|write_sha1_file
 DECL|function|write_sha1_from_fd
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
-DECL|variable|sha1_file_directory
 DECL|variable|sha1_file_open_flag
