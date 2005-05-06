@@ -4,6 +4,7 @@ DECL|function|append_path
 DECL|function|append_path_prefix
 DECL|function|append_string
 DECL|function|commit_time
+DECL|function|get_record
 DECL|function|main
 DECL|function|path_len
 DECL|function|path_prefix_len
