@@ -13,6 +13,7 @@ DECL|function|write_cache
 DECL|macro|WRITE_BUFFER_SIZE
 DECL|variable|active_alloc
 DECL|variable|active_cache
+DECL|variable|active_cache_changed
 DECL|variable|active_nr
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len

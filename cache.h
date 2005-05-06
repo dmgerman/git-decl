@@ -53,5 +53,6 @@ DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|variable|active_alloc
 DECL|variable|active_cache
+DECL|variable|active_cache_changed
 DECL|variable|active_nr
 DECL|variable|sha1_file_directory
