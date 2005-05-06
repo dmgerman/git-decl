@@ -5,6 +5,7 @@ DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
 DECL|function|add_file_to_cache_1
 DECL|function|compare_data
+DECL|function|compare_link
 DECL|function|fill_stat_cache_info
 DECL|function|main
 DECL|function|match_data
