@@ -18,6 +18,11 @@ DECL|function|write_if_needed
 DECL|function|write_trailer
 DECL|macro|BLOCKSIZE
 DECL|macro|RECORDSIZE
+DECL|macro|TYPEFLAG_AUTO
+DECL|macro|TYPEFLAG_DIR
+DECL|macro|TYPEFLAG_EXT_HEADER
+DECL|macro|TYPEFLAG_GLOBAL_HEADER
+DECL|macro|TYPEFLAG_REG
 DECL|member|name
 DECL|member|prev
 DECL|struct|path_prefix
