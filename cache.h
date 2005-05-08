@@ -1,6 +1,8 @@
 DECL|function|create_ce_mode
 DECL|function|xmalloc
 DECL|function|xrealloc
+DECL|macro|ADD_CACHE_OK_TO_ADD
+DECL|macro|ADD_CACHE_OK_TO_REPLACE
 DECL|macro|ALTERNATE_DB_ENVIRONMENT
 DECL|macro|CACHE_H
 DECL|macro|CACHE_SIGNATURE
