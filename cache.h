@@ -35,6 +35,7 @@ DECL|macro|create_ce_flags
 DECL|macro|deflateBound
 DECL|macro|get_index_file
 DECL|macro|get_object_directory
+DECL|macro|gitenv
 DECL|member|ce_ctime
 DECL|member|ce_dev
 DECL|member|ce_flags
