@@ -51,7 +51,3 @@ DECL|member|sha1
 DECL|struct|cache_entry
 DECL|struct|cache_header
 DECL|struct|cache_time
-DECL|variable|active_alloc
-DECL|variable|active_cache
-DECL|variable|active_cache_changed
-DECL|variable|active_nr

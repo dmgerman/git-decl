@@ -9,5 +9,3 @@ DECL|member|type
 DECL|member|used
 DECL|struct|object
 DECL|struct|object_list
-DECL|variable|nr_objs
-DECL|variable|objs
