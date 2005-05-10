@@ -12,13 +12,13 @@ DECL|macro|CE_STAGESHIFT
 DECL|macro|CTIME_CHANGED
 DECL|macro|DATA_CHANGED
 DECL|macro|DB_ENVIRONMENT
-DECL|macro|DEFAULT_DB_ENVIRONMENT
-DECL|macro|DEFAULT_INDEX_ENVIRONMENT
+DECL|macro|DEFAULT_GIT_DIR_ENVIRONMENT
 DECL|macro|DTYPE
 DECL|macro|DTYPE
 DECL|macro|DT_DIR
 DECL|macro|DT_REG
 DECL|macro|DT_UNKNOWN
+DECL|macro|GIT_DIR_ENVIRONMENT
 DECL|macro|INDEX_ENVIRONMENT
 DECL|macro|INODE_CHANGED
 DECL|macro|MODE_CHANGED
@@ -33,8 +33,6 @@ DECL|macro|ce_size
 DECL|macro|ce_stage
 DECL|macro|create_ce_flags
 DECL|macro|deflateBound
-DECL|macro|get_index_file
-DECL|macro|get_object_directory
 DECL|macro|gitenv
 DECL|member|ce_ctime
 DECL|member|ce_dev
