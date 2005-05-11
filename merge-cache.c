@@ -5,4 +5,5 @@ DECL|function|merge_file
 DECL|function|run_program
 DECL|variable|arguments
 DECL|variable|err
+DECL|variable|one_shot
 DECL|variable|pgm
