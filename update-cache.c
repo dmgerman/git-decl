@@ -15,5 +15,6 @@ DECL|function|remove_lock_file_on_signal
 DECL|function|verify_path
 DECL|variable|allow_add
 DECL|variable|allow_remove
+DECL|variable|allow_replace
 DECL|variable|lockfile_name
 DECL|variable|not_new

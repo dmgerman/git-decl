@@ -11,6 +11,8 @@ DECL|function|main
 DECL|function|verify_ordered
 DECL|macro|MAX_SHA1_ENTRIES
 DECL|macro|REACHABLE
+DECL|macro|TREE_HAS_DUPS
+DECL|macro|TREE_UNORDERED
 DECL|member|entry
 DECL|member|ino
 DECL|member|nr
