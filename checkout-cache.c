@@ -4,6 +4,7 @@ DECL|function|checkout_file
 DECL|function|create_directories
 DECL|function|create_file
 DECL|function|main
+DECL|function|remove_subtree
 DECL|function|write_entry
 DECL|variable|force
 DECL|variable|not_new
