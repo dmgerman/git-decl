@@ -6,6 +6,10 @@ DECL|function|excluded
 DECL|function|main
 DECL|function|read_directory
 DECL|function|show_files
+DECL|function|show_killed_files
+DECL|member|len
+DECL|member|name
+DECL|struct|nond_on_fs
 DECL|variable|dir
 DECL|variable|dir_alloc
 DECL|variable|excludes
@@ -17,10 +21,12 @@ DECL|variable|nr_excludes
 DECL|variable|show_cached
 DECL|variable|show_deleted
 DECL|variable|show_ignored
+DECL|variable|show_killed
 DECL|variable|show_others
 DECL|variable|show_stage
 DECL|variable|show_unmerged
 DECL|variable|tag_cached
+DECL|variable|tag_killed
 DECL|variable|tag_other
 DECL|variable|tag_removed
 DECL|variable|tag_unmerged
