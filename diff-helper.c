@@ -1,5 +1,5 @@
 DECL|function|main
 DECL|function|matches_pathspec
-DECL|function|parse_diff_tree_output
+DECL|function|parse_diff_raw_output
 DECL|function|parse_oneside_change
-DECL|variable|diff_tree_helper_usage
+DECL|variable|diff_helper_usage
