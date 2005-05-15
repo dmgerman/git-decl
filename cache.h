@@ -48,10 +48,13 @@ DECL|member|ce_uid
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version
+DECL|member|lockfile
 DECL|member|name
+DECL|member|next
 DECL|member|nsec
 DECL|member|sec
 DECL|member|sha1
 DECL|struct|cache_entry
+DECL|struct|cache_file
 DECL|struct|cache_header
 DECL|struct|cache_time

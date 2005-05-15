@@ -6,6 +6,7 @@ DECL|function|ce_match_stat
 DECL|function|ce_same_name
 DECL|function|ce_write
 DECL|function|check_file_directory_conflict
+DECL|function|fill_stat_cache_info
 DECL|function|read_cache
 DECL|function|remove_cache_entry_at
 DECL|function|remove_file_from_cache

@@ -9,3 +9,4 @@ DECL|function|write_entry
 DECL|variable|force
 DECL|variable|not_new
 DECL|variable|quiet
+DECL|variable|refresh_cache
