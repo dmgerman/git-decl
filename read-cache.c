@@ -1,8 +1,8 @@
 DECL|function|add_cache_entry
-DECL|function|cache_match_stat
 DECL|function|cache_name_compare
 DECL|function|cache_name_pos
 DECL|function|ce_flush
+DECL|function|ce_match_stat
 DECL|function|ce_write
 DECL|function|check_file_directory_conflict
 DECL|function|read_cache
