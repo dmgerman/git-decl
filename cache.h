@@ -1,4 +1,5 @@
 DECL|function|create_ce_mode
+DECL|function|xcalloc
 DECL|function|xmalloc
 DECL|function|xrealloc
 DECL|macro|ADD_CACHE_OK_TO_ADD
