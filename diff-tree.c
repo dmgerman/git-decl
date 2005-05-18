@@ -1,6 +1,7 @@
 DECL|function|add_author_info
 DECL|function|compare_tree_entry
 DECL|function|diff_tree
+DECL|function|diff_tree_commit
 DECL|function|diff_tree_sha1
 DECL|function|diff_tree_stdin
 DECL|function|extract
