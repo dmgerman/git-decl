@@ -1,13 +1,16 @@
 DECL|function|add_sha1_list
 DECL|function|check_connectivity
+DECL|function|find_file_objects
 DECL|function|fsck_commit
 DECL|function|fsck_dir
 DECL|function|fsck_sha1
 DECL|function|fsck_sha1_list
 DECL|function|fsck_tag
 DECL|function|fsck_tree
+DECL|function|get_default_heads
 DECL|function|ino_compare
 DECL|function|main
+DECL|function|read_sha1_reference
 DECL|function|verify_ordered
 DECL|macro|MAX_SHA1_ENTRIES
 DECL|macro|REACHABLE
