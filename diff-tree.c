@@ -1,5 +1,6 @@
 DECL|function|add_author_info
 DECL|function|compare_tree_entry
+DECL|function|diff_root_tree
 DECL|function|diff_tree
 DECL|function|diff_tree_commit
 DECL|function|diff_tree_sha1
@@ -26,5 +27,6 @@ DECL|variable|pathlens
 DECL|variable|paths
 DECL|variable|read_stdin
 DECL|variable|recursive
+DECL|variable|show_root_diff
 DECL|variable|silent
 DECL|variable|verbose_header
