@@ -16,6 +16,7 @@ DECL|function|show_file
 DECL|function|show_tree
 DECL|function|update_tree_entry
 DECL|variable|detect_rename
+DECL|variable|diff_score_opt
 DECL|variable|diff_tree_usage
 DECL|variable|generate_patch
 DECL|variable|header

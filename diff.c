@@ -2,6 +2,7 @@ DECL|function|builtin_diff
 DECL|function|diff_addremove
 DECL|function|diff_change
 DECL|function|diff_flush
+DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_unmerge
 DECL|function|estimate_similarity
@@ -10,6 +11,7 @@ DECL|function|flush_remaining_diff
 DECL|function|flush_rename_pair
 DECL|function|free_data
 DECL|function|free_held_diff
+DECL|function|git_object_type
 DECL|function|hold_diff
 DECL|function|is_exact_match
 DECL|function|matches_pathspec
@@ -22,8 +24,9 @@ DECL|function|run_external_diff
 DECL|function|score_compare
 DECL|function|sq_expand
 DECL|function|work_tree_matches
+DECL|macro|DEFAULT_MINIMUM_SCORE
 DECL|macro|MATCHED
-DECL|macro|MINIMUM_SCORE
+DECL|macro|MAX_SCORE
 DECL|macro|SHOULD_FREE
 DECL|macro|SHOULD_MUNMAP
 DECL|member|blob_sha1
@@ -51,8 +54,9 @@ DECL|variable|createdfile
 DECL|variable|deletedfile
 DECL|variable|detect_rename
 DECL|variable|diff_opts
-DECL|variable|diff_rename_minimum_score
+DECL|variable|diff_raw_output
 DECL|variable|diff_temp
+DECL|variable|minimum_score
 DECL|variable|null_sha1
 DECL|variable|pathspec
 DECL|variable|reverse_diff
