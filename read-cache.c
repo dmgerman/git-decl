@@ -1,4 +1,5 @@
 DECL|function|add_cache_entry
+DECL|function|base_name_compare
 DECL|function|cache_name_compare
 DECL|function|cache_name_pos
 DECL|function|ce_flush
