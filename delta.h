@@ -1,0 +1,1 @@
+DECL|macro|DELTA_H

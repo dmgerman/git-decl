@@ -1,4 +1,6 @@
 DECL|macro|OBJECT_H
+DECL|member|attached_deltas
+DECL|member|delta
 DECL|member|flags
 DECL|member|item
 DECL|member|next
