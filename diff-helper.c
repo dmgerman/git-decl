@@ -5,3 +5,4 @@ DECL|variable|detect_rename
 DECL|variable|diff_helper_usage
 DECL|variable|diff_score_opt
 DECL|variable|generate_patch
+DECL|variable|pickaxe

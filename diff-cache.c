@@ -12,4 +12,5 @@ DECL|variable|diff_score_opt
 DECL|variable|generate_patch
 DECL|variable|line_termination
 DECL|variable|match_nonexisting
+DECL|variable|pickaxe
 DECL|variable|reverse_diff

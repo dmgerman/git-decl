@@ -8,5 +8,6 @@ DECL|variable|diff_files_usage
 DECL|variable|diff_score_opt
 DECL|variable|generate_patch
 DECL|variable|line_termination
+DECL|variable|pickaxe
 DECL|variable|reverse_diff
 DECL|variable|silent

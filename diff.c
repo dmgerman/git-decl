@@ -36,6 +36,7 @@ DECL|variable|diff_temp
 DECL|variable|minimum_score
 DECL|variable|null_sha1
 DECL|variable|pathspec
+DECL|variable|pickaxe
 DECL|variable|queued_diff
 DECL|variable|reverse_diff
 DECL|variable|speccnt

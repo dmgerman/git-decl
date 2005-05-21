@@ -22,6 +22,6 @@ DECL|member|two
 DECL|member|xfrm_flags
 DECL|member|xfrm_msg
 DECL|member|xfrm_work
-DECL|struct|diff_file_pair
+DECL|struct|diff_filepair
 DECL|struct|diff_filespec
 DECL|struct|diff_queue_struct

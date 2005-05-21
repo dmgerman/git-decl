@@ -26,6 +26,7 @@ DECL|variable|line_termination
 DECL|variable|nr_paths
 DECL|variable|pathlens
 DECL|variable|paths
+DECL|variable|pickaxe
 DECL|variable|read_stdin
 DECL|variable|recursive
 DECL|variable|reverse_diff
