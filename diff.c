@@ -9,6 +9,7 @@ DECL|function|diff_flush_raw
 DECL|function|diff_free_filespec_data
 DECL|function|diff_populate_filespec
 DECL|function|diff_queue
+DECL|function|diff_queue_is_empty
 DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_unmerge
@@ -29,14 +30,11 @@ DECL|member|mode
 DECL|member|name
 DECL|member|tmp_path
 DECL|struct|diff_tempfile
-DECL|variable|detect_rename
 DECL|variable|diff_opts
+DECL|variable|diff_queued_diff
 DECL|variable|diff_raw_output
 DECL|variable|diff_temp
-DECL|variable|minimum_score
 DECL|variable|null_sha1
 DECL|variable|pathspec
-DECL|variable|pickaxe
-DECL|variable|queued_diff
 DECL|variable|reverse_diff
 DECL|variable|speccnt

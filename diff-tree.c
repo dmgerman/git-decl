@@ -1,4 +1,6 @@
 DECL|function|add_author_info
+DECL|function|call_diff_flush
+DECL|function|call_diff_setup
 DECL|function|compare_tree_entry
 DECL|function|diff_root_tree
 DECL|function|diff_tree
