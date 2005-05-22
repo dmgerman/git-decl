@@ -7,6 +7,7 @@ DECL|function|diff_flush_one
 DECL|function|diff_flush_patch
 DECL|function|diff_flush_raw
 DECL|function|diff_free_filespec_data
+DECL|function|diff_guif
 DECL|function|diff_populate_filespec
 DECL|function|diff_queue
 DECL|function|diff_queue_is_empty
@@ -15,7 +16,6 @@ DECL|function|diff_setup
 DECL|function|diff_unmerge
 DECL|function|external_diff
 DECL|function|fill_filespec
-DECL|function|git_object_type
 DECL|function|identical
 DECL|function|matches_pathspec
 DECL|function|prep_temp_blob
@@ -32,8 +32,10 @@ DECL|member|tmp_path
 DECL|struct|diff_tempfile
 DECL|variable|diff_opts
 DECL|variable|diff_queued_diff
-DECL|variable|diff_raw_output
 DECL|variable|diff_temp
+DECL|variable|generate_patch
+DECL|variable|inter_name_termination
+DECL|variable|line_termination
 DECL|variable|null_sha1
 DECL|variable|pathspec
 DECL|variable|reverse_diff

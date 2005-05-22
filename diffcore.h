@@ -1,4 +1,5 @@
 DECL|macro|DEFAULT_MINIMUM_SCORE
+DECL|macro|DIFF_FILE_VALID
 DECL|macro|MAX_SCORE
 DECL|macro|RENAME_DST_MATCHED
 DECL|macro|RENAME_SCORE_SHIFT
@@ -6,7 +7,6 @@ DECL|macro|RENAME_SRC_GONE
 DECL|macro|_DIFFCORE_H_
 DECL|member|alloc
 DECL|member|data
-DECL|member|file_valid
 DECL|member|mode
 DECL|member|nr
 DECL|member|one

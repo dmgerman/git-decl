@@ -1,8 +1,9 @@
 DECL|function|main
-DECL|function|parse_diff_raw_output
-DECL|function|parse_oneside_change
+DECL|function|parse_diff_raw
 DECL|variable|detect_rename
 DECL|variable|diff_helper_usage
+DECL|variable|diff_output_style
 DECL|variable|diff_score_opt
-DECL|variable|generate_patch
+DECL|variable|inter_name_termination
+DECL|variable|line_termination
 DECL|variable|pickaxe
