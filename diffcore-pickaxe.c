@@ -1,2 +1,2 @@
 DECL|function|contains
-DECL|function|diff_pickaxe
+DECL|function|diffcore_pickaxe

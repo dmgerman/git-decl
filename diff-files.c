@@ -1,5 +1,4 @@
 DECL|function|main
-DECL|function|matches_pathspec
 DECL|function|show_file
 DECL|function|show_modified
 DECL|function|show_unmerge
