@@ -3,11 +3,10 @@ DECL|function|builtin_diff
 DECL|function|diff_addremove
 DECL|function|diff_change
 DECL|function|diff_flush
-DECL|function|diff_flush_one
 DECL|function|diff_flush_patch
 DECL|function|diff_flush_raw
 DECL|function|diff_free_filespec_data
-DECL|function|diff_guif
+DECL|function|diff_helper_input
 DECL|function|diff_needs_to_stay
 DECL|function|diff_populate_filespec
 DECL|function|diff_q
