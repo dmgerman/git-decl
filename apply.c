@@ -6,9 +6,11 @@ DECL|function|find_header
 DECL|function|linelen
 DECL|function|main
 DECL|function|match_word
+DECL|function|parse_fragment_header
 DECL|function|parse_git_header
 DECL|function|parse_num
 DECL|function|read_patch_file
 DECL|macro|CHUNKSIZE
 DECL|variable|apply_usage
+DECL|variable|linenr
 DECL|variable|merge_patch
