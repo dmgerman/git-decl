@@ -4,7 +4,6 @@ DECL|function|diff_scoreopt_parse
 DECL|function|diffcore_rename
 DECL|function|estimate_similarity
 DECL|function|is_exact_match
-DECL|function|needs_to_stay
 DECL|function|rank_compare
 DECL|function|record_rename_pair
 DECL|function|score_compare

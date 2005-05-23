@@ -14,6 +14,8 @@ DECL|member|one
 DECL|member|orig_order
 DECL|member|path
 DECL|member|queue
+DECL|member|rename_rank
+DECL|member|score
 DECL|member|sha1
 DECL|member|sha1_valid
 DECL|member|should_free
@@ -21,8 +23,6 @@ DECL|member|should_munmap
 DECL|member|size
 DECL|member|two
 DECL|member|xfrm_flags
-DECL|member|xfrm_msg
-DECL|member|xfrm_work
 DECL|struct|diff_filepair
 DECL|struct|diff_filespec
 DECL|struct|diff_queue_struct
