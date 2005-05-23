@@ -1,0 +1,14 @@
+DECL|function|apply_chunk
+DECL|function|apply_fragment
+DECL|function|apply_patch
+DECL|function|apply_single_patch
+DECL|function|find_header
+DECL|function|linelen
+DECL|function|main
+DECL|function|match_word
+DECL|function|parse_git_header
+DECL|function|parse_num
+DECL|function|read_patch_file
+DECL|macro|CHUNKSIZE
+DECL|variable|apply_usage
+DECL|variable|merge_patch
