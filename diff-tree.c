@@ -32,5 +32,4 @@ DECL|variable|read_stdin
 DECL|variable|recursive
 DECL|variable|reverse_diff
 DECL|variable|show_root_diff
-DECL|variable|silent
 DECL|variable|verbose_header
