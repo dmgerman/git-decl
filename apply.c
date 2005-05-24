@@ -17,6 +17,7 @@ DECL|function|gitdiff_renamedst
 DECL|function|gitdiff_renamesrc
 DECL|function|gitdiff_similarity
 DECL|function|gitdiff_unrecognized
+DECL|function|gitdiff_verify_name
 DECL|function|is_dev_null
 DECL|function|linelen
 DECL|function|main
