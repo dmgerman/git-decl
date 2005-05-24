@@ -9,6 +9,7 @@ DECL|function|main
 DECL|function|match_data
 DECL|function|refresh_cache
 DECL|function|refresh_entry
+DECL|function|verify_dotfile
 DECL|function|verify_path
 DECL|variable|allow_add
 DECL|variable|allow_remove
