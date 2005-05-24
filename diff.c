@@ -2,6 +2,9 @@ DECL|function|alloc_filespec
 DECL|function|builtin_diff
 DECL|function|diff_addremove
 DECL|function|diff_change
+DECL|function|diff_debug_filepair
+DECL|function|diff_debug_filespec
+DECL|function|diff_debug_queue
 DECL|function|diff_flush
 DECL|function|diff_flush_patch
 DECL|function|diff_flush_raw
