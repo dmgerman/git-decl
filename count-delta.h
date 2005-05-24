@@ -1,0 +1,1 @@
+DECL|macro|COUNT_DELTA_H
