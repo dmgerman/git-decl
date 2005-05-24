@@ -16,9 +16,11 @@ DECL|function|gitdiff_oldname
 DECL|function|gitdiff_renamedst
 DECL|function|gitdiff_renamesrc
 DECL|function|gitdiff_similarity
+DECL|function|gitdiff_unrecognized
 DECL|function|is_dev_null
 DECL|function|linelen
 DECL|function|main
+DECL|function|name_terminate
 DECL|function|parse_fragment_header
 DECL|function|parse_git_header
 DECL|function|parse_num
@@ -26,6 +28,9 @@ DECL|function|parse_traditional_patch
 DECL|function|read_patch_file
 DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
+DECL|macro|TERM_EXIST
+DECL|macro|TERM_SPACE
+DECL|macro|TERM_TAB
 DECL|variable|apply_usage
 DECL|variable|def_name
 DECL|variable|is_copy
