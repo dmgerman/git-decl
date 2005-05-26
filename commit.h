@@ -1,4 +1,5 @@
 DECL|macro|COMMIT_H
+DECL|member|buffer
 DECL|member|date
 DECL|member|item
 DECL|member|next
