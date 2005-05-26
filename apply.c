@@ -3,6 +3,7 @@ DECL|function|apply_patch_list
 DECL|function|check_patch
 DECL|function|find_header
 DECL|function|find_name
+DECL|function|git_header_name
 DECL|function|gitdiff_copydst
 DECL|function|gitdiff_copysrc
 DECL|function|gitdiff_delete
@@ -37,6 +38,7 @@ DECL|macro|SLOP
 DECL|macro|TERM_EXIST
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
+DECL|member|def_name
 DECL|member|fragments
 DECL|member|is_copy
 DECL|member|is_delete
@@ -60,7 +62,6 @@ DECL|struct|fragment
 DECL|struct|patch
 DECL|variable|apply_usage
 DECL|variable|check
-DECL|variable|def_name
 DECL|variable|diffstat
 DECL|variable|linenr
 DECL|variable|max_change
