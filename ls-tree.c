@@ -1,7 +1,11 @@
 DECL|function|list
 DECL|function|list_recursive
 DECL|function|main
+DECL|function|pathcmp
 DECL|function|print_path_prefix
+DECL|function|qcmp
+DECL|function|string_path_prefix
+DECL|macro|DEBUG
 DECL|member|name
 DECL|member|prev
 DECL|struct|path_prefix
