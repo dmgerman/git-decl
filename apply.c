@@ -1,5 +1,6 @@
 DECL|function|apply_patch
 DECL|function|apply_patch_list
+DECL|function|check_patch
 DECL|function|find_header
 DECL|function|find_name
 DECL|function|gitdiff_copydst
@@ -25,6 +26,7 @@ DECL|function|parse_fragment
 DECL|function|parse_fragment_header
 DECL|function|parse_git_header
 DECL|function|parse_num
+DECL|function|parse_range
 DECL|function|parse_single_patch
 DECL|function|parse_traditional_patch
 DECL|function|patch_stats
@@ -57,7 +59,9 @@ DECL|member|size
 DECL|struct|fragment
 DECL|struct|patch
 DECL|variable|apply_usage
+DECL|variable|check
 DECL|variable|def_name
+DECL|variable|diffstat
 DECL|variable|linenr
 DECL|variable|max_change
 DECL|variable|max_len
