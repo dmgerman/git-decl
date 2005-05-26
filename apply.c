@@ -1,6 +1,6 @@
 DECL|function|apply_patch
-DECL|function|apply_patch_list
 DECL|function|check_patch
+DECL|function|check_patch_list
 DECL|function|find_header
 DECL|function|find_name
 DECL|function|git_header_name
@@ -32,7 +32,10 @@ DECL|function|parse_single_patch
 DECL|function|parse_traditional_patch
 DECL|function|patch_stats
 DECL|function|read_patch_file
+DECL|function|show_file
+DECL|function|show_file_list
 DECL|function|show_stats
+DECL|function|stat_patch_list
 DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
 DECL|macro|TERM_EXIST
@@ -60,6 +63,7 @@ DECL|member|patch
 DECL|member|size
 DECL|struct|fragment
 DECL|struct|patch
+DECL|variable|apply
 DECL|variable|apply_usage
 DECL|variable|check
 DECL|variable|diffstat
@@ -69,3 +73,4 @@ DECL|variable|max_len
 DECL|variable|merge_patch
 DECL|variable|minuses
 DECL|variable|pluses
+DECL|variable|show_files
