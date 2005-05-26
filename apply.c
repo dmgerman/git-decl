@@ -27,7 +27,9 @@ DECL|function|parse_git_header
 DECL|function|parse_num
 DECL|function|parse_single_patch
 DECL|function|parse_traditional_patch
+DECL|function|patch_stats
 DECL|function|read_patch_file
+DECL|function|show_stats
 DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
 DECL|macro|TERM_EXIST
@@ -38,6 +40,8 @@ DECL|member|is_copy
 DECL|member|is_delete
 DECL|member|is_new
 DECL|member|is_rename
+DECL|member|lines_added
+DECL|member|lines_deleted
 DECL|member|new_mode
 DECL|member|new_name
 DECL|member|newlines
@@ -55,4 +59,8 @@ DECL|struct|patch
 DECL|variable|apply_usage
 DECL|variable|def_name
 DECL|variable|linenr
+DECL|variable|max_change
+DECL|variable|max_len
 DECL|variable|merge_patch
+DECL|variable|minuses
+DECL|variable|pluses
