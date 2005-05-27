@@ -20,6 +20,7 @@ DECL|function|update_tree_entry
 DECL|variable|detect_rename
 DECL|variable|diff_output_format
 DECL|variable|diff_score_opt
+DECL|variable|diff_setup_opt
 DECL|variable|diff_tree_usage
 DECL|variable|header
 DECL|variable|header_prefix
@@ -30,7 +31,6 @@ DECL|variable|paths
 DECL|variable|pickaxe
 DECL|variable|read_stdin
 DECL|variable|recursive
-DECL|variable|reverse_diff
 DECL|variable|show_root_diff
 DECL|variable|show_tree_entry_in_recursive
 DECL|variable|verbose_header

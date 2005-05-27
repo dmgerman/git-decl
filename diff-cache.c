@@ -10,6 +10,6 @@ DECL|variable|detect_rename
 DECL|variable|diff_cache_usage
 DECL|variable|diff_output_format
 DECL|variable|diff_score_opt
+DECL|variable|diff_setup_opt
 DECL|variable|match_nonexisting
 DECL|variable|pickaxe
-DECL|variable|reverse_diff
