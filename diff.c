@@ -21,6 +21,7 @@ DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
 DECL|function|external_diff
 DECL|function|fill_filespec
+DECL|function|locate_size_cache
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|remove_tempfile
@@ -32,10 +33,17 @@ DECL|function|work_tree_matches
 DECL|member|hex
 DECL|member|mode
 DECL|member|name
+DECL|member|sha1
+DECL|member|size
 DECL|member|tmp_path
 DECL|struct|diff_tempfile
+DECL|struct|sha1_size_cache
 DECL|variable|diff_opts
 DECL|variable|diff_queued_diff
 DECL|variable|diff_temp
 DECL|variable|null_sha1
 DECL|variable|reverse_diff
+DECL|variable|sha1_size_cache
+DECL|variable|sha1_size_cache_alloc
+DECL|variable|sha1_size_cache_nr
+DECL|variable|use_size_cache
