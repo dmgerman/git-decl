@@ -8,6 +8,7 @@ DECL|function|diff_debug_queue
 DECL|function|diff_flush
 DECL|function|diff_flush_patch
 DECL|function|diff_flush_raw
+DECL|function|diff_free_filepair
 DECL|function|diff_free_filespec_data
 DECL|function|diff_helper_input
 DECL|function|diff_needs_to_stay
