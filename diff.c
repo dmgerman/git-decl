@@ -11,7 +11,6 @@ DECL|function|diff_flush_raw
 DECL|function|diff_free_filepair
 DECL|function|diff_free_filespec_data
 DECL|function|diff_helper_input
-DECL|function|diff_needs_to_stay
 DECL|function|diff_populate_filespec
 DECL|function|diff_q
 DECL|function|diff_queue
