@@ -13,3 +13,4 @@ DECL|variable|diff_score_opt
 DECL|variable|diff_setup_opt
 DECL|variable|match_nonexisting
 DECL|variable|pickaxe
+DECL|variable|pickaxe_opts

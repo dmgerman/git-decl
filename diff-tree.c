@@ -29,6 +29,7 @@ DECL|variable|nr_paths
 DECL|variable|pathlens
 DECL|variable|paths
 DECL|variable|pickaxe
+DECL|variable|pickaxe_opts
 DECL|variable|read_stdin
 DECL|variable|recursive
 DECL|variable|show_root_diff
