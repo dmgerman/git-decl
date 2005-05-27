@@ -9,7 +9,6 @@ DECL|function|score_compare
 DECL|member|dst
 DECL|member|one
 DECL|member|pair
-DECL|member|rank
 DECL|member|score
 DECL|member|src
 DECL|member|src_used
