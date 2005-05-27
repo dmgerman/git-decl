@@ -3,15 +3,15 @@ DECL|function|diffcore_rename
 DECL|function|estimate_similarity
 DECL|function|is_exact_match
 DECL|function|locate_rename_dst
-DECL|function|locate_rename_src
 DECL|function|record_rename_pair
+DECL|function|register_rename_src
 DECL|function|score_compare
 DECL|member|dst
 DECL|member|one
 DECL|member|pair
 DECL|member|score
 DECL|member|src
-DECL|member|src_used
+DECL|member|src_stays
 DECL|member|two
 DECL|struct|diff_rename_dst
 DECL|struct|diff_rename_src

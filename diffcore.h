@@ -24,6 +24,7 @@ DECL|member|sha1_valid
 DECL|member|should_free
 DECL|member|should_munmap
 DECL|member|size
+DECL|member|source_stays
 DECL|member|status
 DECL|member|two
 DECL|member|xfrm_flags
