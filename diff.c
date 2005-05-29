@@ -19,6 +19,7 @@ DECL|function|diff_resolve_rename_copy
 DECL|function|diff_setup
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
+DECL|function|diffcore_std
 DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|locate_size_cache
