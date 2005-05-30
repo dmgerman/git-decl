@@ -2,8 +2,13 @@ DECL|function|create_delta_object
 DECL|function|create_object
 DECL|function|expand_delta
 DECL|function|get_buffer
-DECL|function|get_object_size
 DECL|function|main
 DECL|function|replace_object
 DECL|function|restore_original_object
+DECL|member|buf
+DECL|member|depth
+DECL|member|links
+DECL|member|sha1
+DECL|member|size
+DECL|struct|delta
 DECL|variable|mkdelta_usage
