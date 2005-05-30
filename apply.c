@@ -7,6 +7,7 @@ DECL|function|git_header_name
 DECL|function|gitdiff_copydst
 DECL|function|gitdiff_copysrc
 DECL|function|gitdiff_delete
+DECL|function|gitdiff_dissimilarity
 DECL|function|gitdiff_hdrend
 DECL|function|gitdiff_newfile
 DECL|function|gitdiff_newmode
