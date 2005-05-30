@@ -27,6 +27,7 @@ DECL|variable|header
 DECL|variable|header_prefix
 DECL|variable|ignore_merges
 DECL|variable|nr_paths
+DECL|variable|orderfile
 DECL|variable|pathlens
 DECL|variable|paths
 DECL|variable|pickaxe

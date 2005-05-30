@@ -8,6 +8,7 @@ DECL|variable|diff_files_usage
 DECL|variable|diff_output_format
 DECL|variable|diff_score_opt
 DECL|variable|diff_setup_opt
+DECL|variable|orderfile
 DECL|variable|pickaxe
 DECL|variable|pickaxe_opts
 DECL|variable|silent
