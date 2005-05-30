@@ -7,6 +7,7 @@ DECL|function|show_modified
 DECL|function|show_new_file
 DECL|variable|cached_only
 DECL|variable|detect_rename
+DECL|variable|diff_break_opt
 DECL|variable|diff_cache_usage
 DECL|variable|diff_output_format
 DECL|variable|diff_score_opt

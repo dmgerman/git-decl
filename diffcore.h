@@ -1,7 +1,9 @@
-DECL|macro|DEFAULT_MINIMUM_SCORE
+DECL|macro|DEFAULT_BREAK_SCORE
+DECL|macro|DEFAULT_RENAME_SCORE
 DECL|macro|DIFF_DEBUG
 DECL|macro|DIFF_FILE_CANON_MODE
 DECL|macro|DIFF_FILE_VALID
+DECL|macro|DIFF_PAIR_BROKEN
 DECL|macro|DIFF_PAIR_MODE_CHANGED
 DECL|macro|DIFF_PAIR_RENAME
 DECL|macro|DIFF_PAIR_TYPE_CHANGED
@@ -13,6 +15,7 @@ DECL|macro|diff_debug_filepair
 DECL|macro|diff_debug_filespec
 DECL|macro|diff_debug_queue
 DECL|member|alloc
+DECL|member|broken_pair
 DECL|member|data
 DECL|member|mode
 DECL|member|nr
