@@ -39,7 +39,6 @@ DECL|function|show_stats
 DECL|function|stat_patch_list
 DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
-DECL|macro|TERM_EXIST
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
 DECL|member|def_name
