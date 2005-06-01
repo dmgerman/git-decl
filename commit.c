@@ -1,6 +1,8 @@
+DECL|function|add_author_info
 DECL|function|check_commit
 DECL|function|commit_list_insert
 DECL|function|free_commit_list
+DECL|function|get_one_line
 DECL|function|insert_by_date
 DECL|function|lookup_commit
 DECL|function|lookup_commit_reference
@@ -8,5 +10,6 @@ DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
 DECL|function|pop_most_recent_commit
+DECL|function|pretty_print_commit
 DECL|function|sort_by_date
 DECL|variable|commit_type

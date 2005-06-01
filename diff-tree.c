@@ -1,4 +1,3 @@
-DECL|function|add_author_info
 DECL|function|call_diff_flush
 DECL|function|call_diff_setup
 DECL|function|compare_tree_entry
@@ -10,7 +9,6 @@ DECL|function|diff_tree_sha1_top
 DECL|function|diff_tree_stdin
 DECL|function|extract
 DECL|function|generate_header
-DECL|function|get_one_line
 DECL|function|interesting
 DECL|function|main
 DECL|function|malloc_base
