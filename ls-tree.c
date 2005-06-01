@@ -1,7 +1,6 @@
 DECL|function|entry_hex
 DECL|function|entry_type
 DECL|function|find_entry
-DECL|function|find_entry_0
 DECL|function|list
 DECL|function|list_one
 DECL|function|main
