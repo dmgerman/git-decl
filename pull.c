@@ -8,6 +8,7 @@ DECL|variable|blobS
 DECL|variable|commitS
 DECL|variable|current_commit_sha1
 DECL|variable|get_all
+DECL|variable|get_delta
 DECL|variable|get_history
 DECL|variable|get_tree
 DECL|variable|get_verbosely
