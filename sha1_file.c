@@ -17,6 +17,7 @@ DECL|function|setup_git_env
 DECL|function|sha1_file_name
 DECL|function|sha1_to_hex
 DECL|function|unpack_sha1_file
+DECL|function|unpack_sha1_header
 DECL|function|write_sha1_file
 DECL|function|write_sha1_from_fd
 DECL|macro|O_NOATIME
