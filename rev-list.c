@@ -1,4 +1,5 @@
 DECL|function|everybody_uninteresting
+DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_parents_uninteresting
 DECL|function|show_commit
