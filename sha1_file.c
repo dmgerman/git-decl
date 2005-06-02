@@ -10,6 +10,7 @@ DECL|function|has_sha1_file
 DECL|function|hexval
 DECL|function|index_fd
 DECL|function|map_sha1_file
+DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb
 DECL|function|read_object_with_reference
 DECL|function|read_sha1_file
@@ -18,6 +19,7 @@ DECL|function|sha1_file_name
 DECL|function|sha1_to_hex
 DECL|function|unpack_sha1_file
 DECL|function|unpack_sha1_header
+DECL|function|unpack_sha1_rest
 DECL|function|write_sha1_file
 DECL|function|write_sha1_from_fd
 DECL|macro|O_NOATIME
