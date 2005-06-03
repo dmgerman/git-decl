@@ -1,2 +1,4 @@
 DECL|function|diffcore_break
-DECL|function|very_different
+DECL|function|diffcore_merge_broken
+DECL|function|merge_broken
+DECL|function|should_break
