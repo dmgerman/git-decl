@@ -1,4 +1,3 @@
-DECL|function|diff_scoreopt_parse
 DECL|function|diffcore_rename
 DECL|function|estimate_similarity
 DECL|function|is_exact_match

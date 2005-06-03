@@ -16,6 +16,7 @@ DECL|function|diff_q
 DECL|function|diff_queue
 DECL|function|diff_queue_is_empty
 DECL|function|diff_resolve_rename_copy
+DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
@@ -23,6 +24,7 @@ DECL|function|diffcore_std
 DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|locate_size_cache
+DECL|function|parse_num
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|remove_tempfile
