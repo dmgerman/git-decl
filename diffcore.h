@@ -8,7 +8,6 @@ DECL|macro|DIFF_PAIR_RENAME
 DECL|macro|DIFF_PAIR_TYPE_CHANGED
 DECL|macro|DIFF_PAIR_UNMERGED
 DECL|macro|MAX_SCORE
-DECL|macro|RENAME_DST_MATCHED
 DECL|macro|_DIFFCORE_H_
 DECL|macro|diff_debug_filepair
 DECL|macro|diff_debug_filespec
