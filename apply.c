@@ -46,6 +46,8 @@ DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
+DECL|member|alloc
+DECL|member|buffer
 DECL|member|def_name
 DECL|member|fragments
 DECL|member|is_copy
@@ -68,6 +70,8 @@ DECL|member|patch
 DECL|member|result
 DECL|member|resultsize
 DECL|member|size
+DECL|member|size
+DECL|struct|buffer_desc
 DECL|struct|fragment
 DECL|struct|patch
 DECL|variable|apply
