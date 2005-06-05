@@ -1,8 +1,12 @@
+DECL|function|apply_data
+DECL|function|apply_fragments
+DECL|function|apply_one_fragment
 DECL|function|apply_patch
 DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|find_header
 DECL|function|find_name
+DECL|function|find_offset
 DECL|function|git_header_name
 DECL|function|gitdiff_copydst
 DECL|function|gitdiff_copysrc
@@ -32,6 +36,7 @@ DECL|function|parse_range
 DECL|function|parse_single_patch
 DECL|function|parse_traditional_patch
 DECL|function|patch_stats
+DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|show_file
 DECL|function|show_file_list
@@ -60,12 +65,15 @@ DECL|member|old_name
 DECL|member|oldlines
 DECL|member|oldpos
 DECL|member|patch
+DECL|member|result
+DECL|member|resultsize
 DECL|member|size
 DECL|struct|fragment
 DECL|struct|patch
 DECL|variable|apply
 DECL|variable|apply_usage
 DECL|variable|check
+DECL|variable|check_index
 DECL|variable|diffstat
 DECL|variable|linenr
 DECL|variable|max_change
