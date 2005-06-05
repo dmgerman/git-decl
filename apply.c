@@ -1,9 +1,11 @@
+DECL|function|add_index_file
 DECL|function|apply_data
 DECL|function|apply_fragments
 DECL|function|apply_one_fragment
 DECL|function|apply_patch
 DECL|function|check_patch
 DECL|function|check_patch_list
+DECL|function|create_file
 DECL|function|find_header
 DECL|function|find_name
 DECL|function|find_offset
@@ -38,10 +40,13 @@ DECL|function|parse_traditional_patch
 DECL|function|patch_stats
 DECL|function|read_old_data
 DECL|function|read_patch_file
+DECL|function|remove_file
 DECL|function|show_file
 DECL|function|show_file_list
 DECL|function|show_stats
 DECL|function|stat_patch_list
+DECL|function|write_out_one_result
+DECL|function|write_out_results
 DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
@@ -76,6 +81,7 @@ DECL|struct|fragment
 DECL|struct|patch
 DECL|variable|apply
 DECL|variable|apply_usage
+DECL|variable|cache_file
 DECL|variable|check
 DECL|variable|check_index
 DECL|variable|diffstat
@@ -86,3 +92,4 @@ DECL|variable|merge_patch
 DECL|variable|minuses
 DECL|variable|pluses
 DECL|variable|show_files
+DECL|variable|write_index
