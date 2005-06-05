@@ -4,6 +4,7 @@ DECL|function|commit_list_insert
 DECL|function|free_commit_list
 DECL|function|get_one_line
 DECL|function|insert_by_date
+DECL|function|is_empty_line
 DECL|function|lookup_commit
 DECL|function|lookup_commit_reference
 DECL|function|parse_commit

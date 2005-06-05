@@ -1,4 +1,5 @@
 DECL|function|everybody_uninteresting
+DECL|function|get_commit_format
 DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_parents_uninteresting
@@ -7,12 +8,12 @@ DECL|function|show_commit_list
 DECL|macro|INTERESTING
 DECL|macro|SEEN
 DECL|macro|UNINTERESTING
+DECL|variable|commit_format
 DECL|variable|hdr_termination
 DECL|variable|max_age
 DECL|variable|max_count
 DECL|variable|min_age
 DECL|variable|prefix
-DECL|variable|pretty_print
 DECL|variable|rev_list_usage
 DECL|variable|show_parents
 DECL|variable|verbose_header

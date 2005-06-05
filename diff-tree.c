@@ -15,6 +15,7 @@ DECL|function|malloc_base
 DECL|function|show_file
 DECL|function|show_tree
 DECL|function|update_tree_entry
+DECL|variable|commit_format
 DECL|variable|detect_rename
 DECL|variable|diff_break_opt
 DECL|variable|diff_output_format

@@ -1,3 +1,8 @@
+DECL|enumerator|CMIT_FMT_DEFAULT
+DECL|enumerator|CMIT_FMT_MEDIUM
+DECL|enumerator|CMIT_FMT_RAW
+DECL|enumerator|CMIT_FMT_SHORT
+DECL|enum|cmit_fmt
 DECL|macro|COMMIT_H
 DECL|member|buffer
 DECL|member|date
