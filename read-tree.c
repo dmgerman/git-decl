@@ -1,3 +1,4 @@
+DECL|function|check_updates
 DECL|function|main
 DECL|function|merge_entries
 DECL|function|merge_stat_info
@@ -6,9 +7,11 @@ DECL|function|reject_merge
 DECL|function|remove_lock_file
 DECL|function|same
 DECL|function|trivially_merge_cache
+DECL|function|twoway_merge
 DECL|function|unpack_tree
 DECL|function|verify_uptodate
 DECL|macro|CHECK_OLD
 DECL|variable|lockfile_name
 DECL|variable|read_tree_usage
 DECL|variable|stage
+DECL|variable|update
