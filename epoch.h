@@ -1,0 +1,10 @@
+DECL|macro|BOUNDARY
+DECL|macro|CONTINUE
+DECL|macro|DISCONTINUITY
+DECL|macro|DO
+DECL|macro|DUPCHECK
+DECL|macro|EPOCH_H
+DECL|macro|STOP
+DECL|macro|UNINTERESTING
+DECL|macro|VISITED
+DECL|typedef|emitter_func
