@@ -1,14 +1,4 @@
 DECL|function|checkout_all
-DECL|function|checkout_entry
 DECL|function|checkout_file
-DECL|function|create_directories
-DECL|function|create_file
 DECL|function|main
-DECL|function|remove_subtree
-DECL|function|write_entry
-DECL|variable|base_dir
-DECL|variable|base_dir_len
-DECL|variable|force
-DECL|variable|not_new
-DECL|variable|quiet
-DECL|variable|refresh_cache
+DECL|variable|state
