@@ -11,6 +11,7 @@ DECL|function|threeway_merge
 DECL|function|twoway_merge
 DECL|function|unpack_tree
 DECL|function|verify_uptodate
+DECL|typedef|merge_fn_t
 DECL|variable|cache_file
 DECL|variable|read_tree_usage
 DECL|variable|stage
