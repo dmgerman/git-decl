@@ -7,6 +7,7 @@ DECL|function|reject_merge
 DECL|function|remove_lock_file
 DECL|function|same
 DECL|function|trivially_merge_cache
+DECL|function|twoway_check
 DECL|function|twoway_merge
 DECL|function|unpack_tree
 DECL|function|verify_uptodate
