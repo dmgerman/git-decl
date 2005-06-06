@@ -1,0 +1,10 @@
+DECL|function|check_ref_format
+DECL|function|get_ref_sha1
+DECL|function|lock_ref_file
+DECL|function|lock_ref_sha1
+DECL|function|read_ref_file
+DECL|function|ref_file_name
+DECL|function|ref_lock_file_name
+DECL|function|write_ref_file
+DECL|function|write_ref_sha1
+DECL|function|write_ref_sha1_unlocked

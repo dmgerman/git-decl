@@ -3,6 +3,7 @@ DECL|function|fill_sha1_path
 DECL|function|find_sha1_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
+DECL|function|get_refs_directory
 DECL|function|get_sha1
 DECL|function|get_sha1_file
 DECL|function|get_sha1_hex
@@ -33,4 +34,5 @@ DECL|variable|alt_odb
 DECL|variable|git_dir
 DECL|variable|git_index_file
 DECL|variable|git_object_dir
+DECL|variable|git_refs_dir
 DECL|variable|sha1_file_open_flag
