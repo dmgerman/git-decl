@@ -1,4 +1,5 @@
 DECL|function|fetch
+DECL|function|fetch_ref
 DECL|function|get_version
 DECL|function|main
 DECL|variable|fd_in

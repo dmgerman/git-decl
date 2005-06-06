@@ -1,4 +1,5 @@
 DECL|function|fetch
+DECL|function|fetch_ref
 DECL|function|fwrite_sha1_file
 DECL|function|main
 DECL|variable|base
