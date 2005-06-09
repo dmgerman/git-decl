@@ -1,0 +1,10 @@
+DECL|function|main
+DECL|variable|detect_rename
+DECL|variable|diff_break_opt
+DECL|variable|diff_output_format
+DECL|variable|diff_score_opt
+DECL|variable|diff_setup_opt
+DECL|variable|diff_stages_usage
+DECL|variable|orderfile
+DECL|variable|pickaxe
+DECL|variable|pickaxe_opts
