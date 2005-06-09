@@ -5,6 +5,7 @@ DECL|function|merge_entries
 DECL|function|merged_entry
 DECL|function|oneway_merge
 DECL|function|path_matches
+DECL|function|read_cache_unmerged
 DECL|function|reject_merge
 DECL|function|same
 DECL|function|threeway_merge
