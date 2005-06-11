@@ -1,3 +1,4 @@
+DECL|function|diff_stages
 DECL|function|main
 DECL|variable|detect_rename
 DECL|variable|diff_break_opt
