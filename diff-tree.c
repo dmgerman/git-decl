@@ -23,6 +23,7 @@ DECL|variable|diff_output_format
 DECL|variable|diff_score_opt
 DECL|variable|diff_setup_opt
 DECL|variable|diff_tree_usage
+DECL|variable|find_copies_harder
 DECL|variable|header
 DECL|variable|header_prefix
 DECL|variable|ignore_merges
