@@ -9,6 +9,7 @@ DECL|function|path_matches
 DECL|function|read_cache_unmerged
 DECL|function|reject_merge
 DECL|function|same
+DECL|function|setup_emu23
 DECL|function|threeway_merge
 DECL|function|twoway_merge
 DECL|function|unpack_tree
