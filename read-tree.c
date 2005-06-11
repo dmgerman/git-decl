@@ -1,3 +1,4 @@
+DECL|function|causes_df_conflict
 DECL|function|check_updates
 DECL|function|deleted_entry
 DECL|function|main
