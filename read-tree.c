@@ -4,6 +4,8 @@ DECL|function|main
 DECL|function|merge_cache
 DECL|function|merge_entries
 DECL|function|merged_entry
+DECL|function|merged_entry_allow_dirty
+DECL|function|merged_entry_internal
 DECL|function|oneway_merge
 DECL|function|path_matches
 DECL|function|read_cache_unmerged
