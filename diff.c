@@ -20,7 +20,9 @@ DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
+DECL|function|diffcore_apply_filter
 DECL|function|diffcore_std
+DECL|function|diffcore_std_no_resolve
 DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|locate_size_cache
