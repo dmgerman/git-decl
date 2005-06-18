@@ -1,4 +1,5 @@
 DECL|function|add_author_info
+DECL|function|add_parent_info
 DECL|function|check_commit
 DECL|function|commit_list_insert
 DECL|function|count_parents
