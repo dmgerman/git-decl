@@ -13,6 +13,7 @@ DECL|variable|diff_filter
 DECL|variable|diff_output_format
 DECL|variable|diff_score_opt
 DECL|variable|diff_setup_opt
+DECL|variable|find_copies_harder
 DECL|variable|match_nonexisting
 DECL|variable|orderfile
 DECL|variable|pickaxe
