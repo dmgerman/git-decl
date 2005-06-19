@@ -1,5 +1,7 @@
 DECL|function|alloc_filespec
 DECL|function|builtin_diff
+DECL|function|copy_file
+DECL|function|count_lines
 DECL|function|diff_addremove
 DECL|function|diff_change
 DECL|function|diff_debug_filepair
@@ -23,12 +25,14 @@ DECL|function|diff_unmodified_pair
 DECL|function|diffcore_apply_filter
 DECL|function|diffcore_std
 DECL|function|diffcore_std_no_resolve
+DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|locate_size_cache
 DECL|function|parse_num
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
+DECL|function|print_line_count
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
 DECL|function|run_diff
