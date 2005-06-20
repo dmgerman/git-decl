@@ -13,6 +13,7 @@ DECL|function|show_commit_list
 DECL|macro|COUNTED
 DECL|macro|INTERESTING
 DECL|macro|SEEN
+DECL|macro|SHOWN
 DECL|variable|bisect_list
 DECL|variable|commit_format
 DECL|variable|hdr_termination
