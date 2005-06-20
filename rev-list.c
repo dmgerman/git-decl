@@ -25,4 +25,5 @@ DECL|variable|prefix
 DECL|variable|rev_list_usage
 DECL|variable|show_breaks
 DECL|variable|show_parents
+DECL|variable|stop_traversal
 DECL|variable|verbose_header
