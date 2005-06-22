@@ -46,8 +46,12 @@ DECL|function|read_patch_file
 DECL|function|remove_file
 DECL|function|show_file
 DECL|function|show_file_list
+DECL|function|show_file_mode_name
+DECL|function|show_mode_change
+DECL|function|show_rename_copy
 DECL|function|show_stats
 DECL|function|stat_patch_list
+DECL|function|summary_patch_list
 DECL|function|write_out_one_result
 DECL|function|write_out_results
 DECL|macro|CHUNKSIZE
@@ -77,6 +81,7 @@ DECL|member|oldpos
 DECL|member|patch
 DECL|member|result
 DECL|member|resultsize
+DECL|member|score
 DECL|member|size
 DECL|member|size
 DECL|struct|buffer_desc
@@ -95,4 +100,5 @@ DECL|variable|merge_patch
 DECL|variable|minuses
 DECL|variable|pluses
 DECL|variable|show_files
+DECL|variable|summary
 DECL|variable|write_index
