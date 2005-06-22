@@ -1,7 +1,12 @@
 DECL|function|fetch
 DECL|function|fetch_ref
+DECL|function|fwrite_buffer
 DECL|function|fwrite_sha1_file
 DECL|function|main
+DECL|member|buffer
+DECL|member|posn
+DECL|member|size
+DECL|struct|buffer
 DECL|variable|base
 DECL|variable|c
 DECL|variable|curl
