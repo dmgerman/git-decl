@@ -2,6 +2,7 @@ DECL|function|add_ref
 DECL|function|created_object
 DECL|function|find_object
 DECL|function|lookup_object
+DECL|function|lookup_object_type
 DECL|function|mark_reachable
 DECL|function|parse_object
 DECL|variable|nr_objs
