@@ -6,6 +6,9 @@ DECL|function|apply_patch
 DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|create_file
+DECL|function|create_regular_file
+DECL|function|create_subdirectories
+DECL|function|create_symlink
 DECL|function|find_header
 DECL|function|find_name
 DECL|function|find_offset
