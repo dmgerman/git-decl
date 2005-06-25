@@ -1,0 +1,11 @@
+DECL|function|check_index
+DECL|function|main
+DECL|function|map_file
+DECL|function|sort_by_offset
+DECL|member|offset
+DECL|member|sha1
+DECL|struct|pack_entry
+DECL|variable|base_name
+DECL|variable|nr_entries
+DECL|variable|pack_list
+DECL|variable|unpack_usage
