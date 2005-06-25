@@ -2,10 +2,15 @@ DECL|function|check_index
 DECL|function|main
 DECL|function|map_file
 DECL|function|sort_by_offset
+DECL|function|unpack_all
+DECL|function|unpack_entry
 DECL|member|offset
 DECL|member|sha1
 DECL|struct|pack_entry
 DECL|variable|base_name
+DECL|variable|dry_run
 DECL|variable|nr_entries
+DECL|variable|pack_base
 DECL|variable|pack_list
+DECL|variable|pack_size
 DECL|variable|unpack_usage
