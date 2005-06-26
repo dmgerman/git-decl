@@ -39,7 +39,6 @@ DECL|struct|unpacked
 DECL|typedef|entry_sort_t
 DECL|variable|base_name
 DECL|variable|current_sort
-DECL|variable|delta_window
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
 DECL|variable|objects
