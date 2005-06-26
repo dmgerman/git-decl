@@ -28,7 +28,7 @@ DECL|member|delta_size
 DECL|member|depth
 DECL|member|entry
 DECL|member|fd
-DECL|member|flags
+DECL|member|hash
 DECL|member|offset
 DECL|member|sha1
 DECL|member|size
