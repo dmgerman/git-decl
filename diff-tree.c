@@ -9,7 +9,6 @@ DECL|function|diff_tree_sha1_top
 DECL|function|diff_tree_stdin
 DECL|function|extract
 DECL|function|generate_header
-DECL|function|get_commit_format
 DECL|function|interesting
 DECL|function|main
 DECL|function|malloc_base

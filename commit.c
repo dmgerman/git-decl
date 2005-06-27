@@ -1,9 +1,10 @@
-DECL|function|add_author_info
 DECL|function|add_parent_info
+DECL|function|add_user_info
 DECL|function|check_commit
 DECL|function|commit_list_insert
 DECL|function|count_parents
 DECL|function|free_commit_list
+DECL|function|get_commit_format
 DECL|function|get_one_line
 DECL|function|insert_by_date
 DECL|function|is_empty_line

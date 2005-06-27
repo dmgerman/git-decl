@@ -4,7 +4,6 @@ DECL|function|count_distance
 DECL|function|everybody_uninteresting
 DECL|function|filter_commit
 DECL|function|find_bisection
-DECL|function|get_commit_format
 DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_blob_uninteresting
