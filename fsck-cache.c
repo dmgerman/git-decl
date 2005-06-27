@@ -1,6 +1,5 @@
 DECL|function|add_sha1_list
 DECL|function|check_connectivity
-DECL|function|expand_deltas
 DECL|function|find_file_objects
 DECL|function|fsck_commit
 DECL|function|fsck_dir
@@ -25,7 +24,6 @@ DECL|struct|sha1_entry
 DECL|variable|head_sha1
 DECL|variable|keep_cache_objects
 DECL|variable|sha1_list
-DECL|variable|show_max_delta_depth
 DECL|variable|show_root
 DECL|variable|show_tags
 DECL|variable|show_unreachable
