@@ -36,6 +36,7 @@ DECL|variable|current_sort
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
 DECL|variable|objects
+DECL|variable|pack_file_sha1
 DECL|variable|pack_usage
 DECL|variable|sorted_by_sha
 DECL|variable|sorted_by_type
