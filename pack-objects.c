@@ -2,6 +2,7 @@ DECL|function|add_object_entry
 DECL|function|check_object
 DECL|function|create_sorted_list
 DECL|function|delta_against
+DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|get_object_details
 DECL|function|main
