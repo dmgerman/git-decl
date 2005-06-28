@@ -1,9 +1,3 @@
-DECL|enumerator|OBJ_BLOB
-DECL|enumerator|OBJ_COMMIT
-DECL|enumerator|OBJ_DELTA
-DECL|enumerator|OBJ_NONE
-DECL|enumerator|OBJ_TREE
-DECL|enum|object_type
 DECL|function|add_object_entry
 DECL|function|check_object
 DECL|function|create_sorted_list
