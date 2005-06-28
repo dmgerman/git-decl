@@ -16,6 +16,7 @@ DECL|function|hexval
 DECL|function|index_fd
 DECL|function|map_sha1_file
 DECL|function|map_sha1_file_internal
+DECL|function|packed_delta_info
 DECL|function|packed_object_info
 DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb
