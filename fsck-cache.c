@@ -3,6 +3,7 @@ DECL|function|check_connectivity
 DECL|function|find_file_objects
 DECL|function|fsck_commit
 DECL|function|fsck_dir
+DECL|function|fsck_object_dir
 DECL|function|fsck_sha1
 DECL|function|fsck_sha1_list
 DECL|function|fsck_tag
@@ -21,6 +22,7 @@ DECL|member|ino
 DECL|member|nr
 DECL|member|sha1
 DECL|struct|sha1_entry
+DECL|variable|check_full
 DECL|variable|head_sha1
 DECL|variable|keep_cache_objects
 DECL|variable|sha1_list
