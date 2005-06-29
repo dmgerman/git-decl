@@ -69,6 +69,7 @@ DECL|member|pack_base
 DECL|member|pack_last_used
 DECL|member|pack_name
 DECL|member|pack_size
+DECL|member|pack_use_cnt
 DECL|member|quiet
 DECL|member|refresh_cache
 DECL|member|sec
