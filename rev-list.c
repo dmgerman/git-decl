@@ -1,4 +1,5 @@
 DECL|function|add_object
+DECL|function|add_pending_object
 DECL|function|clear_distance
 DECL|function|count_distance
 DECL|function|everybody_uninteresting
@@ -27,6 +28,7 @@ DECL|variable|max_age
 DECL|variable|max_count
 DECL|variable|merge_order
 DECL|variable|min_age
+DECL|variable|pending_objects
 DECL|variable|prefix
 DECL|variable|rev_list_usage
 DECL|variable|show_breaks
