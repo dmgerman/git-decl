@@ -12,6 +12,7 @@ DECL|function|try_delta
 DECL|function|type_size_sort
 DECL|function|write_index_file
 DECL|function|write_object
+DECL|function|write_one
 DECL|function|write_pack_file
 DECL|member|data
 DECL|member|delta
