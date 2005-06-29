@@ -9,6 +9,7 @@ DECL|function|unpack_delta_entry
 DECL|function|unpack_non_delta_entry
 DECL|function|unpack_one
 DECL|function|use
+DECL|function|write_object
 DECL|member|base_sha1
 DECL|member|delta
 DECL|member|next
