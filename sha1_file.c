@@ -20,6 +20,7 @@ DECL|function|nth_packed_object_sha1
 DECL|function|num_packed_objects
 DECL|function|packed_delta_info
 DECL|function|packed_object_info
+DECL|function|parse_delta_size
 DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb
 DECL|function|prepare_packed_git
