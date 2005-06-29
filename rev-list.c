@@ -4,6 +4,7 @@ DECL|function|count_distance
 DECL|function|everybody_uninteresting
 DECL|function|filter_commit
 DECL|function|find_bisection
+DECL|function|get_commit_reference
 DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_blob_uninteresting
@@ -31,5 +32,6 @@ DECL|variable|rev_list_usage
 DECL|variable|show_breaks
 DECL|variable|show_parents
 DECL|variable|stop_traversal
+DECL|variable|tag_objects
 DECL|variable|tree_objects
 DECL|variable|verbose_header
