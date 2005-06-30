@@ -1,6 +1,13 @@
 DECL|function|main
+DECL|function|read_ref
 DECL|function|send_pack
 DECL|function|setup_connection
 DECL|function|shell_safe
+DECL|member|name
+DECL|member|new_sha1
+DECL|member|next
+DECL|member|old_sha1
+DECL|struct|ref
 DECL|variable|exec
+DECL|variable|ref_list
 DECL|variable|send_pack_usage
