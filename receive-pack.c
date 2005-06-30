@@ -6,9 +6,11 @@ DECL|function|read_ref
 DECL|function|show_ref
 DECL|function|unpack
 DECL|function|write_head_info
-DECL|member|data
+DECL|member|new_sha1
 DECL|member|next
-DECL|struct|line
+DECL|member|old_sha1
+DECL|member|ref_name
+DECL|struct|command
 DECL|variable|commands
 DECL|variable|receive_pack_usage
 DECL|variable|unpacker
