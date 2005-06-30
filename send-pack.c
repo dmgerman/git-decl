@@ -9,5 +9,6 @@ DECL|member|next
 DECL|member|old_sha1
 DECL|struct|ref
 DECL|variable|exec
+DECL|variable|last_ref
 DECL|variable|ref_list
 DECL|variable|send_pack_usage
