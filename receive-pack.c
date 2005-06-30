@@ -5,6 +5,8 @@ DECL|function|read_head_info
 DECL|function|read_ref
 DECL|function|show_ref
 DECL|function|unpack
+DECL|function|update
+DECL|function|verify_old_ref
 DECL|function|write_head_info
 DECL|member|new_sha1
 DECL|member|next
