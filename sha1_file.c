@@ -3,7 +3,7 @@ DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
 DECL|function|fill_sha1_path
 DECL|function|find_pack_entry
-DECL|function|find_pack_entry_1
+DECL|function|find_pack_entry_one
 DECL|function|find_sha1_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
@@ -33,6 +33,7 @@ DECL|function|sha1_object_info
 DECL|function|sha1_to_hex
 DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
+DECL|function|unpack_entry_gently
 DECL|function|unpack_non_delta_entry
 DECL|function|unpack_object_header
 DECL|function|unpack_sha1_file
@@ -47,10 +48,6 @@ DECL|function|write_sha1_from_fd
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
 DECL|macro|PACK_MAX_SZ
-DECL|member|offset
-DECL|member|p
-DECL|member|sha1
-DECL|struct|pack_entry
 DECL|variable|alt_odb
 DECL|variable|git_dir
 DECL|variable|git_index_file

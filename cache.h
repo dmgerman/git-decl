@@ -65,6 +65,8 @@ DECL|member|next
 DECL|member|next
 DECL|member|not_new
 DECL|member|nsec
+DECL|member|offset
+DECL|member|p
 DECL|member|pack_base
 DECL|member|pack_last_used
 DECL|member|pack_name
@@ -74,10 +76,12 @@ DECL|member|quiet
 DECL|member|refresh_cache
 DECL|member|sec
 DECL|member|sha1
+DECL|member|sha1
 DECL|struct|alternate_object_database
 DECL|struct|cache_entry
 DECL|struct|cache_file
 DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|struct|checkout
+DECL|struct|pack_entry
 DECL|struct|packed_git
