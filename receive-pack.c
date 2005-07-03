@@ -2,7 +2,6 @@ DECL|function|execute_commands
 DECL|function|is_all_zeroes
 DECL|function|main
 DECL|function|read_head_info
-DECL|function|read_ref
 DECL|function|show_ref
 DECL|function|unpack
 DECL|function|update
