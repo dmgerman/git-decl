@@ -3,6 +3,7 @@ DECL|function|check_connectivity
 DECL|function|fsck_commit
 DECL|function|fsck_dir
 DECL|function|fsck_handle_ref
+DECL|function|fsck_head_link
 DECL|function|fsck_object_dir
 DECL|function|fsck_sha1
 DECL|function|fsck_sha1_list
