@@ -36,4 +36,5 @@ DECL|variable|show_parents
 DECL|variable|stop_traversal
 DECL|variable|tag_objects
 DECL|variable|tree_objects
+DECL|variable|unpacked
 DECL|variable|verbose_header
