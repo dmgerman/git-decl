@@ -33,6 +33,7 @@ DECL|variable|incremental
 DECL|variable|non_empty
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
+DECL|variable|object_list_sha1
 DECL|variable|objects
 DECL|variable|pack_file_sha1
 DECL|variable|pack_usage
