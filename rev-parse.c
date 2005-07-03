@@ -5,6 +5,7 @@ DECL|function|main
 DECL|function|show_arg
 DECL|function|show_default
 DECL|function|show_norev
+DECL|function|show_reference
 DECL|function|show_rev
 DECL|function|show_rev_arg
 DECL|macro|NORMAL
