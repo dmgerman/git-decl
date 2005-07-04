@@ -2,7 +2,6 @@ DECL|function|exec_pack_objects
 DECL|function|exec_rev_list
 DECL|function|main
 DECL|function|pack_objects
-DECL|function|path_match
 DECL|function|read_ref
 DECL|function|rev_list
 DECL|function|send_pack
