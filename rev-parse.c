@@ -5,6 +5,7 @@ DECL|function|get_parent
 DECL|function|get_short_sha1
 DECL|function|is_rev_argument
 DECL|function|main
+DECL|function|match_sha
 DECL|function|show_arg
 DECL|function|show_default
 DECL|function|show_norev
