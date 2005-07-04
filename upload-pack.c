@@ -4,6 +4,7 @@ DECL|function|got_sha1
 DECL|function|main
 DECL|function|receive_needs
 DECL|function|send_ref
+DECL|function|strip
 DECL|function|upload_pack
 DECL|macro|MAX_HAS
 DECL|macro|MAX_NEEDS
