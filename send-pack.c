@@ -6,8 +6,6 @@ DECL|function|path_match
 DECL|function|read_ref
 DECL|function|rev_list
 DECL|function|send_pack
-DECL|function|setup_connection
-DECL|function|shell_safe
 DECL|member|name
 DECL|member|new_sha1
 DECL|member|next
