@@ -1,8 +1,6 @@
-DECL|function|check_ref
 DECL|function|fetch_pack
 DECL|function|find_common
 DECL|function|get_ack
-DECL|function|get_old_sha1
 DECL|function|get_remote_heads
 DECL|function|main
 DECL|variable|exec
