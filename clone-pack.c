@@ -1,0 +1,13 @@
+DECL|function|clone_handshake
+DECL|function|clone_pack
+DECL|function|get_remote_refs
+DECL|function|is_master
+DECL|function|main
+DECL|function|write_one_ref
+DECL|function|write_refs
+DECL|member|name
+DECL|member|next
+DECL|member|sha1
+DECL|struct|ref
+DECL|variable|clone_pack_usage
+DECL|variable|exec
