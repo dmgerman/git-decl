@@ -2,6 +2,7 @@ DECL|function|check_ref_format
 DECL|function|do_for_each_ref
 DECL|function|for_each_ref
 DECL|function|get_ref_sha1
+DECL|function|head_ref
 DECL|function|lock_ref_file
 DECL|function|lock_ref_sha1
 DECL|function|read_ref
