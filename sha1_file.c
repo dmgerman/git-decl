@@ -30,6 +30,7 @@ DECL|function|prepare_packed_git_one
 DECL|function|read_object_with_reference
 DECL|function|read_packed_sha1
 DECL|function|read_sha1_file
+DECL|function|safe_create_leading_directories
 DECL|function|setup_git_env
 DECL|function|sha1_file_name
 DECL|function|sha1_object_info
