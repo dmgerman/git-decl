@@ -16,6 +16,8 @@ DECL|macro|NORMAL
 DECL|macro|REVERSED
 DECL|variable|def
 DECL|variable|do_rev_argument
+DECL|variable|flags_only
+DECL|variable|no_flags
 DECL|variable|no_revs
 DECL|variable|output_revs
 DECL|variable|revs_only
