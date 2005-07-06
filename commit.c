@@ -17,4 +17,8 @@ DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
 DECL|function|pretty_print_commit
 DECL|function|sort_by_date
+DECL|function|sort_in_topological_order
+DECL|member|indegree
+DECL|member|list_item
+DECL|struct|sort_node
 DECL|variable|commit_type
