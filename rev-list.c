@@ -17,6 +17,7 @@ DECL|function|process_tree
 DECL|function|show_commit
 DECL|function|show_commit_list
 DECL|macro|COUNTED
+DECL|macro|DUPCHECK
 DECL|macro|INTERESTING
 DECL|macro|SEEN
 DECL|macro|SHOWN
