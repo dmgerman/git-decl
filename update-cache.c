@@ -16,5 +16,6 @@ DECL|variable|allow_remove
 DECL|variable|allow_replace
 DECL|variable|cache_file
 DECL|variable|force_remove
+DECL|variable|info_only
 DECL|variable|not_new
 DECL|variable|quiet
