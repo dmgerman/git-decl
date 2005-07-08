@@ -11,7 +11,6 @@ DECL|function|get_refs_directory
 DECL|function|get_sha1
 DECL|function|get_sha1_file
 DECL|function|get_sha1_hex
-DECL|function|git_path
 DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
 DECL|function|hexval
