@@ -6,7 +6,6 @@ DECL|function|add_file_to_cache
 DECL|function|compare_data
 DECL|function|compare_link
 DECL|function|main
-DECL|function|match_data
 DECL|function|refresh_cache
 DECL|function|refresh_entry
 DECL|function|verify_dotfile
