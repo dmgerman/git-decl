@@ -1,0 +1,1 @@
+DECL|macro|QUOTE_H
