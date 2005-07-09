@@ -22,4 +22,5 @@ DECL|variable|dry_run
 DECL|variable|eof
 DECL|variable|len
 DECL|variable|offset
+DECL|variable|quiet
 DECL|variable|unpack_usage
