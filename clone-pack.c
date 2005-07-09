@@ -11,3 +11,4 @@ DECL|member|sha1
 DECL|struct|ref
 DECL|variable|clone_pack_usage
 DECL|variable|exec
+DECL|variable|quiet
