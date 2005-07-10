@@ -6,3 +6,4 @@ DECL|function|service
 DECL|variable|local_version
 DECL|variable|remote_version
 DECL|variable|ssh_push_usage
+DECL|variable|verbose

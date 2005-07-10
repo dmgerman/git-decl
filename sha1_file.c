@@ -48,6 +48,7 @@ DECL|function|use_packed_git
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
 DECL|function|write_sha1_from_fd
+DECL|function|write_sha1_to_fd
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
 DECL|macro|PACK_MAX_SZ
