@@ -15,7 +15,6 @@ DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
 DECL|function|hexval
 DECL|function|index_fd
-DECL|function|map_sha1_file
 DECL|function|map_sha1_file_internal
 DECL|function|nth_packed_object_sha1
 DECL|function|num_packed_objects
