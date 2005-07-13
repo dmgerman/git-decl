@@ -10,6 +10,7 @@ DECL|struct|buffer
 DECL|variable|base
 DECL|variable|c
 DECL|variable|curl
+DECL|variable|curl_ssl_verify
 DECL|variable|local
 DECL|variable|stream
 DECL|variable|zret
