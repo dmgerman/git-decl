@@ -4,6 +4,7 @@ DECL|function|cache_name_compare
 DECL|function|cache_name_pos
 DECL|function|ce_flush
 DECL|function|ce_match_stat
+DECL|function|ce_path_match
 DECL|function|ce_same_name
 DECL|function|ce_write
 DECL|function|check_file_directory_conflict

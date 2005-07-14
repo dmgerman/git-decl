@@ -1,4 +1,3 @@
-DECL|function|ce_path_match
 DECL|function|diff_cache
 DECL|function|get_stat_data
 DECL|function|main
