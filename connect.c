@@ -1,4 +1,11 @@
+DECL|enumerator|PROTO_GIT
+DECL|enumerator|PROTO_LOCAL
+DECL|enumerator|PROTO_SSH
+DECL|enum|protocol
 DECL|function|finish_connect
 DECL|function|get_ack
+DECL|function|get_protocol
 DECL|function|git_connect
+DECL|function|git_tcp_connect
+DECL|function|lookup_host
 DECL|function|path_match
