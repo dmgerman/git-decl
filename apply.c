@@ -6,9 +6,8 @@ DECL|function|apply_patch
 DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|create_file
-DECL|function|create_regular_file
+DECL|function|create_one_file
 DECL|function|create_subdirectories
-DECL|function|create_symlink
 DECL|function|find_header
 DECL|function|find_name
 DECL|function|find_offset
@@ -52,6 +51,7 @@ DECL|function|show_rename_copy
 DECL|function|show_stats
 DECL|function|stat_patch_list
 DECL|function|summary_patch_list
+DECL|function|try_create_file
 DECL|function|write_out_one_result
 DECL|function|write_out_results
 DECL|macro|CHUNKSIZE
