@@ -1,4 +1,5 @@
 DECL|function|lookup_tree
+DECL|function|match_tree_entry
 DECL|function|parse_tree
 DECL|function|parse_tree_buffer
 DECL|function|read_one_entry
