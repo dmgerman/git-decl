@@ -6,6 +6,7 @@ DECL|variable|detect_rename
 DECL|variable|diff_break_opt
 DECL|variable|diff_files_usage
 DECL|variable|diff_filter
+DECL|variable|diff_line_termination
 DECL|variable|diff_output_format
 DECL|variable|diff_score_opt
 DECL|variable|diff_setup_opt
