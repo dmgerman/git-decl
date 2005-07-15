@@ -2,6 +2,8 @@ DECL|function|add_raw
 DECL|function|copy
 DECL|function|crud
 DECL|function|get_ident
+DECL|function|git_author_info
+DECL|function|git_committer_info
 DECL|function|setup_ident
 DECL|variable|real_date
 DECL|variable|real_email

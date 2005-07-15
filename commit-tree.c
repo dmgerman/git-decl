@@ -1,7 +1,5 @@
 DECL|function|add_buffer
 DECL|function|check_valid
-DECL|function|git_author_info
-DECL|function|git_committer_info
 DECL|function|init_buffer
 DECL|function|main
 DECL|function|new_parent
