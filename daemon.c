@@ -1,6 +1,10 @@
+DECL|function|child_handler
 DECL|function|execute
 DECL|function|handle
 DECL|function|main
 DECL|function|serve
 DECL|function|upload
+DECL|variable|children_reaped
+DECL|variable|children_spawned
 DECL|variable|daemon_usage
+DECL|variable|max_connections
