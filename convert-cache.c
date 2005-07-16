@@ -4,6 +4,7 @@ DECL|function|convert_commit
 DECL|function|convert_date
 DECL|function|convert_date_line
 DECL|function|convert_entry
+DECL|function|convert_mode
 DECL|function|convert_tree
 DECL|function|insert_new
 DECL|function|lookup_entry
