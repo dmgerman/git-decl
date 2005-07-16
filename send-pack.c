@@ -8,11 +8,6 @@ DECL|function|ref_newer
 DECL|function|rev_list
 DECL|function|send_pack
 DECL|function|try_to_match
-DECL|member|name
-DECL|member|new_sha1
-DECL|member|next
-DECL|member|old_sha1
-DECL|struct|ref
 DECL|variable|exec
 DECL|variable|local_last_ref
 DECL|variable|local_ref_list

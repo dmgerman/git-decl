@@ -5,6 +5,7 @@ DECL|enum|protocol
 DECL|function|finish_connect
 DECL|function|get_ack
 DECL|function|get_protocol
+DECL|function|get_remote_heads
 DECL|function|git_connect
 DECL|function|git_tcp_connect
 DECL|function|lookup_host

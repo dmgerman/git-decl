@@ -62,11 +62,15 @@ DECL|member|index_size
 DECL|member|lockfile
 DECL|member|name
 DECL|member|name
+DECL|member|name
+DECL|member|new_sha1
+DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|not_new
 DECL|member|nsec
 DECL|member|offset
+DECL|member|old_sha1
 DECL|member|p
 DECL|member|pack_base
 DECL|member|pack_last_used
@@ -86,3 +90,4 @@ DECL|struct|cache_time
 DECL|struct|checkout
 DECL|struct|pack_entry
 DECL|struct|packed_git
+DECL|struct|ref
