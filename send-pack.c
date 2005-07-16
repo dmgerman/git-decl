@@ -14,7 +14,9 @@ DECL|member|next
 DECL|member|old_sha1
 DECL|struct|ref
 DECL|variable|exec
+DECL|variable|local_last_ref
 DECL|variable|local_ref_list
 DECL|variable|local_ref_match
 DECL|variable|local_ref_nr_match
+DECL|variable|send_all
 DECL|variable|send_pack_usage
