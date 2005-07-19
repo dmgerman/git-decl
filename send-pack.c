@@ -9,6 +9,7 @@ DECL|function|rev_list
 DECL|function|send_pack
 DECL|function|try_to_match
 DECL|variable|exec
+DECL|variable|force_update
 DECL|variable|local_last_ref
 DECL|variable|local_ref_list
 DECL|variable|local_ref_match
