@@ -8,5 +8,6 @@ DECL|function|get_protocol
 DECL|function|get_remote_heads
 DECL|function|git_connect
 DECL|function|git_tcp_connect
-DECL|function|lookup_host
 DECL|function|path_match
+DECL|macro|STR
+DECL|macro|STR_
