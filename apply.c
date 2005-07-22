@@ -52,6 +52,7 @@ DECL|function|show_stats
 DECL|function|stat_patch_list
 DECL|function|summary_patch_list
 DECL|function|try_create_file
+DECL|function|use_patch
 DECL|function|write_out_one_result
 DECL|function|write_out_results
 DECL|macro|CHUNKSIZE
@@ -74,17 +75,20 @@ DECL|member|newlines
 DECL|member|newpos
 DECL|member|next
 DECL|member|next
+DECL|member|next
 DECL|member|old_mode
 DECL|member|old_name
 DECL|member|oldlines
 DECL|member|oldpos
 DECL|member|patch
+DECL|member|path
 DECL|member|result
 DECL|member|resultsize
 DECL|member|score
 DECL|member|size
 DECL|member|size
 DECL|struct|buffer_desc
+DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
 DECL|variable|apply
@@ -93,6 +97,7 @@ DECL|variable|cache_file
 DECL|variable|check
 DECL|variable|check_index
 DECL|variable|diffstat
+DECL|variable|excludes
 DECL|variable|linenr
 DECL|variable|max_change
 DECL|variable|max_len
