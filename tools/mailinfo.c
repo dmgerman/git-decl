@@ -1,4 +1,3 @@
-DECL|function|add_subject_line
 DECL|function|check_line
 DECL|function|cleanup_space
 DECL|function|cleanup_subject
@@ -9,6 +8,7 @@ DECL|function|handle_from
 DECL|function|handle_rest
 DECL|function|handle_subject
 DECL|function|main
+DECL|function|read_one_header_line
 DECL|function|sanity_check
 DECL|function|usage
 DECL|variable|cmitmsg
