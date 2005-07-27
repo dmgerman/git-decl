@@ -11,5 +11,6 @@ DECL|member|object
 DECL|member|parent
 DECL|member|symlink
 DECL|member|tree
+DECL|member|zeropad
 DECL|struct|tree
 DECL|struct|tree_entry_list
