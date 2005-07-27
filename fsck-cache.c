@@ -23,6 +23,7 @@ DECL|member|nr
 DECL|member|sha1
 DECL|struct|sha1_entry
 DECL|variable|check_full
+DECL|variable|check_strict
 DECL|variable|default_refs
 DECL|variable|head_sha1
 DECL|variable|keep_cache_objects
