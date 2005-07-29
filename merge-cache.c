@@ -7,3 +7,4 @@ DECL|variable|arguments
 DECL|variable|err
 DECL|variable|one_shot
 DECL|variable|pgm
+DECL|variable|quiet
