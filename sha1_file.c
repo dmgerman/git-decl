@@ -5,6 +5,7 @@ DECL|function|fill_sha1_path
 DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_file
+DECL|function|get_graft_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
 DECL|function|get_refs_directory
@@ -53,6 +54,7 @@ DECL|macro|O_NOATIME
 DECL|macro|PACK_MAX_SZ
 DECL|variable|alt_odb
 DECL|variable|git_dir
+DECL|variable|git_graft_file
 DECL|variable|git_index_file
 DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
