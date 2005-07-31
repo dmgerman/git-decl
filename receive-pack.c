@@ -2,6 +2,7 @@ DECL|function|execute_commands
 DECL|function|is_all_zeroes
 DECL|function|main
 DECL|function|read_head_info
+DECL|function|run_update_hook
 DECL|function|show_ref
 DECL|function|unpack
 DECL|function|update
@@ -15,3 +16,4 @@ DECL|struct|command
 DECL|variable|commands
 DECL|variable|receive_pack_usage
 DECL|variable|unpacker
+DECL|variable|update_hook

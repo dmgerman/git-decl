@@ -1,0 +1,2 @@
+DECL|function|run_command
+DECL|function|run_external_command
