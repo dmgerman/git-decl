@@ -3,7 +3,6 @@ DECL|function|fetch_ref
 DECL|function|fwrite_buffer
 DECL|function|fwrite_sha1_file
 DECL|function|main
-DECL|macro|curl_easy_setopt
 DECL|macro|curl_global_cleanup
 DECL|macro|curl_global_init
 DECL|member|buffer
