@@ -83,6 +83,7 @@ DECL|member|refresh_cache
 DECL|member|sec
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|sha1
 DECL|struct|alternate_object_database
 DECL|struct|cache_entry
 DECL|struct|cache_file

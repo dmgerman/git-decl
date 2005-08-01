@@ -5,6 +5,7 @@ DECL|function|fill_sha1_path
 DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_file
+DECL|function|find_sha1_pack
 DECL|function|get_graft_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
@@ -12,16 +13,20 @@ DECL|function|get_refs_directory
 DECL|function|get_sha1
 DECL|function|get_sha1_file
 DECL|function|get_sha1_hex
+DECL|function|has_pack_file
+DECL|function|has_pack_index
 DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
 DECL|function|hexval
 DECL|function|index_fd
+DECL|function|install_packed_git
 DECL|function|map_sha1_file_internal
 DECL|function|nth_packed_object_sha1
 DECL|function|num_packed_objects
 DECL|function|packed_delta_info
 DECL|function|packed_object_info
 DECL|function|packed_object_info_detail
+DECL|function|parse_pack_index
 DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb
 DECL|function|prepare_packed_git
@@ -33,6 +38,8 @@ DECL|function|safe_create_leading_directories
 DECL|function|setup_git_env
 DECL|function|sha1_file_name
 DECL|function|sha1_object_info
+DECL|function|sha1_pack_index_name
+DECL|function|sha1_pack_name
 DECL|function|sha1_to_hex
 DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
