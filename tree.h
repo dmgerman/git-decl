@@ -1,4 +1,5 @@
 DECL|macro|TREE_H
+DECL|member|any
 DECL|member|blob
 DECL|member|directory
 DECL|member|entries
