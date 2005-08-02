@@ -3,6 +3,7 @@ DECL|function|is_all_zeroes
 DECL|function|main
 DECL|function|read_head_info
 DECL|function|run_update_hook
+DECL|function|run_update_post_hook
 DECL|function|show_ref
 DECL|function|unpack
 DECL|function|update
@@ -12,8 +13,10 @@ DECL|member|new_sha1
 DECL|member|next
 DECL|member|old_sha1
 DECL|member|ref_name
+DECL|member|updated
 DECL|struct|command
 DECL|variable|commands
 DECL|variable|receive_pack_usage
 DECL|variable|unpacker
 DECL|variable|update_hook
+DECL|variable|update_post_hook
