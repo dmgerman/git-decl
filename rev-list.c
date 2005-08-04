@@ -6,6 +6,7 @@ DECL|function|everybody_uninteresting
 DECL|function|filter_commit
 DECL|function|find_bisection
 DECL|function|get_commit_reference
+DECL|function|handle_one_commit
 DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_blob_uninteresting
