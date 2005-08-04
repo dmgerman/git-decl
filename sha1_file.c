@@ -10,8 +10,6 @@ DECL|function|get_graft_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
 DECL|function|get_refs_directory
-DECL|function|get_sha1
-DECL|function|get_sha1_file
 DECL|function|get_sha1_hex
 DECL|function|has_pack_file
 DECL|function|has_pack_index
