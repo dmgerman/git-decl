@@ -8,6 +8,7 @@ DECL|function|pack_objects
 DECL|function|ref_newer
 DECL|function|rev_list
 DECL|function|send_pack
+DECL|function|unmark_and_free
 DECL|variable|exec
 DECL|variable|force_update
 DECL|variable|local_refs
