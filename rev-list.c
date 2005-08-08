@@ -29,6 +29,7 @@ DECL|variable|max_age
 DECL|variable|max_count
 DECL|variable|merge_order
 DECL|variable|min_age
+DECL|variable|no_merges
 DECL|variable|pending_objects
 DECL|variable|prefix
 DECL|variable|rev_list_usage
