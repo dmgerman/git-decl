@@ -33,6 +33,7 @@ DECL|macro|NORETURN
 DECL|macro|NORETURN
 DECL|macro|OWNER_CHANGED
 DECL|macro|TYPE_CHANGED
+DECL|macro|__attribute
 DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
 DECL|macro|ce_namelen
