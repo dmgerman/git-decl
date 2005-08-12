@@ -3,6 +3,7 @@ DECL|function|loop
 DECL|function|make_sure_we_have_it
 DECL|function|process
 DECL|function|process_commit
+DECL|function|process_object
 DECL|function|process_tag
 DECL|function|process_tree
 DECL|function|pull
