@@ -4,3 +4,4 @@ DECL|function|main
 DECL|variable|exec
 DECL|variable|fetch_pack_usage
 DECL|variable|quiet
+DECL|variable|verbose
