@@ -18,6 +18,7 @@ DECL|function|has_sha1_pack
 DECL|function|hexval
 DECL|function|index_fd
 DECL|function|install_packed_git
+DECL|function|link_alt_odb_entries
 DECL|function|map_sha1_file_internal
 DECL|function|nth_packed_object_sha1
 DECL|function|num_packed_objects
@@ -57,7 +58,8 @@ DECL|function|write_sha1_to_fd
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
 DECL|macro|PACK_MAX_SZ
-DECL|variable|alt_odb
+DECL|variable|alt_odb_list
+DECL|variable|alt_odb_tail
 DECL|variable|git_dir
 DECL|variable|git_graft_file
 DECL|variable|git_index_file
