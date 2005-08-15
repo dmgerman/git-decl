@@ -69,6 +69,7 @@ DECL|member|new_sha1
 DECL|member|next
 DECL|member|next
 DECL|member|next
+DECL|member|next
 DECL|member|not_new
 DECL|member|nsec
 DECL|member|offset
