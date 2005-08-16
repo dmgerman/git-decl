@@ -26,6 +26,7 @@ DECL|function|packed_delta_info
 DECL|function|packed_object_info
 DECL|function|packed_object_info_detail
 DECL|function|parse_pack_index
+DECL|function|parse_pack_index_file
 DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb
 DECL|function|prepare_packed_git
