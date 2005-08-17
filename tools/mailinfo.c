@@ -14,7 +14,9 @@ DECL|function|usage
 DECL|variable|cmitmsg
 DECL|variable|date
 DECL|variable|email
+DECL|variable|keep_subject
 DECL|variable|line
+DECL|variable|mailinfo_usage
 DECL|variable|name
 DECL|variable|patchfile
 DECL|variable|subject
