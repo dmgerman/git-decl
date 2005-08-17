@@ -19,3 +19,4 @@ DECL|variable|output_sq
 DECL|variable|revs_only
 DECL|variable|show_type
 DECL|variable|single_rev
+DECL|variable|symbolic
