@@ -1,0 +1,2 @@
+DECL|function|get_pathspec
+DECL|function|setup_git_directory
