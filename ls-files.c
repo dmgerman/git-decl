@@ -5,8 +5,8 @@ DECL|function|add_name
 DECL|function|cmp_name
 DECL|function|excluded
 DECL|function|excluded_1
-DECL|function|extend_prefix
 DECL|function|main
+DECL|function|match
 DECL|function|pop_exclude_per_directory
 DECL|function|prune_cache
 DECL|function|push_exclude_per_directory
@@ -15,6 +15,7 @@ DECL|function|show_ce_entry
 DECL|function|show_dir_entry
 DECL|function|show_files
 DECL|function|show_killed_files
+DECL|function|verify_pathspec
 DECL|macro|EXC_CMDL
 DECL|macro|EXC_DIRS
 DECL|macro|EXC_FILE
@@ -33,10 +34,10 @@ DECL|variable|dir
 DECL|variable|dir_alloc
 DECL|variable|exclude_list
 DECL|variable|exclude_per_dir
-DECL|variable|glob
 DECL|variable|line_terminator
 DECL|variable|ls_files_usage
 DECL|variable|nr_dir
+DECL|variable|pathspec
 DECL|variable|prefix
 DECL|variable|prefix_len
 DECL|variable|prefix_offset

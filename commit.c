@@ -12,6 +12,7 @@ DECL|function|is_empty_line
 DECL|function|lookup_commit
 DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference
+DECL|function|lookup_commit_reference_gently
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
