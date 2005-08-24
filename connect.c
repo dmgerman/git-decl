@@ -19,5 +19,6 @@ DECL|function|try_explicit_object_name
 DECL|macro|STR
 DECL|macro|STR_
 DECL|member|dst
+DECL|member|force
 DECL|member|src
 DECL|struct|refspec

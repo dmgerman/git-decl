@@ -56,6 +56,7 @@ DECL|member|ce_mtime
 DECL|member|ce_size
 DECL|member|ce_uid
 DECL|member|force
+DECL|member|force
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version
