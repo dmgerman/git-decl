@@ -24,6 +24,7 @@ DECL|macro|SHOWN
 DECL|variable|bisect_list
 DECL|variable|blob_objects
 DECL|variable|commit_format
+DECL|variable|commit_prefix
 DECL|variable|hdr_termination
 DECL|variable|max_age
 DECL|variable|max_count
@@ -31,7 +32,6 @@ DECL|variable|merge_order
 DECL|variable|min_age
 DECL|variable|no_merges
 DECL|variable|pending_objects
-DECL|variable|prefix
 DECL|variable|rev_list_usage
 DECL|variable|show_breaks
 DECL|variable|show_parents
