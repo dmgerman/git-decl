@@ -1,3 +1,4 @@
 DECL|function|get_pathspec
+DECL|function|is_toplevel_directory
 DECL|function|prefix_path
 DECL|function|setup_git_directory
