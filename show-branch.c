@@ -1,6 +1,7 @@
 DECL|function|append_head_ref
 DECL|function|append_ref
 DECL|function|append_tag_ref
+DECL|function|compare_ref_name
 DECL|function|interesting
 DECL|function|join_revs
 DECL|function|main
@@ -12,6 +13,7 @@ DECL|function|rev_is_head
 DECL|function|show_merge_base
 DECL|function|show_one_commit
 DECL|function|snarf_refs
+DECL|function|sort_ref_range
 DECL|macro|MAX_REVS
 DECL|macro|REV_SHIFT
 DECL|macro|UNINTERESTING
