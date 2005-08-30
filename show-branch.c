@@ -7,6 +7,8 @@ DECL|function|join_revs
 DECL|function|main
 DECL|function|mark_seen
 DECL|function|name_commit
+DECL|function|name_commits
+DECL|function|name_first_parent_chain
 DECL|function|name_parent
 DECL|function|pop_one_commit
 DECL|function|rev_is_head
@@ -18,7 +20,7 @@ DECL|macro|MAX_REVS
 DECL|macro|REV_SHIFT
 DECL|macro|UNINTERESTING
 DECL|member|generation
-DECL|member|head_rev
+DECL|member|head_name
 DECL|struct|commit_name
 DECL|variable|ref_name
 DECL|variable|ref_name_cnt
