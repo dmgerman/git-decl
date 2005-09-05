@@ -5,6 +5,7 @@ DECL|function|lookup_object
 DECL|function|lookup_object_type
 DECL|function|lookup_unknown_object
 DECL|function|mark_reachable
+DECL|function|object_list_append
 DECL|function|object_list_contains
 DECL|function|object_list_insert
 DECL|function|object_list_length
