@@ -9,6 +9,7 @@ DECL|function|oneway_merge
 DECL|function|read_cache_unmerged
 DECL|function|reject_merge
 DECL|function|same
+DECL|function|show_stage_entry
 DECL|function|threeway_merge
 DECL|function|twoway_merge
 DECL|function|unpack_trees
