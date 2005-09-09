@@ -12,6 +12,7 @@ DECL|function|name_first_parent_chain
 DECL|function|name_parent
 DECL|function|pop_one_commit
 DECL|function|rev_is_head
+DECL|function|show_independent
 DECL|function|show_merge_base
 DECL|function|show_one_commit
 DECL|function|snarf_refs
