@@ -42,8 +42,6 @@ DECL|macro|ce_size
 DECL|macro|ce_stage
 DECL|macro|create_ce_flags
 DECL|macro|deflateBound
-DECL|macro|gitenv
-DECL|macro|gitenv
 DECL|member|base
 DECL|member|base_dir
 DECL|member|base_dir_len
