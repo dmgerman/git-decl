@@ -21,6 +21,7 @@ DECL|variable|cache_file
 DECL|variable|df_conflict_entry
 DECL|variable|df_conflict_list
 DECL|variable|head_idx
+DECL|variable|index_only
 DECL|variable|merge
 DECL|variable|merge_size
 DECL|variable|read_tree_usage
