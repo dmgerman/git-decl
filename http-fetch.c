@@ -20,6 +20,7 @@ DECL|variable|curl
 DECL|variable|curl_ssl_verify
 DECL|variable|got_indices
 DECL|variable|local
+DECL|variable|no_pragma_header
 DECL|variable|packs
 DECL|variable|stream
 DECL|variable|zret
