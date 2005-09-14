@@ -12,12 +12,10 @@ DECL|function|parse_head_def
 DECL|function|parse_object_cheap
 DECL|function|parse_pack_def
 DECL|function|read_pack_info_file
-DECL|function|record_rev_cache_ref
 DECL|function|show
 DECL|function|stat_ref
 DECL|function|update_info_packs
 DECL|function|update_info_refs
-DECL|function|update_info_revs
 DECL|function|update_server_info
 DECL|function|write_pack_info_file
 DECL|macro|EMITTED
