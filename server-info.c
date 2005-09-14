@@ -13,7 +13,6 @@ DECL|function|parse_object_cheap
 DECL|function|parse_pack_def
 DECL|function|read_pack_info_file
 DECL|function|show
-DECL|function|stat_ref
 DECL|function|update_info_packs
 DECL|function|update_info_refs
 DECL|function|update_server_info
@@ -32,8 +31,6 @@ DECL|member|p
 DECL|struct|pack_info
 DECL|variable|info
 DECL|variable|info_ref_fp
-DECL|variable|info_ref_is_stale
-DECL|variable|info_ref_time
 DECL|variable|num_pack
 DECL|variable|objdir
 DECL|variable|objdirlen
