@@ -33,3 +33,4 @@ DECL|variable|commit_graft
 DECL|variable|commit_graft_alloc
 DECL|variable|commit_graft_nr
 DECL|variable|commit_type
+DECL|variable|save_commit_buffer
