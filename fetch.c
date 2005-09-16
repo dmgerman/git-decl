@@ -10,6 +10,7 @@ DECL|function|process_tree
 DECL|function|pull
 DECL|function|pull_say
 DECL|function|report_missing
+DECL|macro|COMPLETE
 DECL|variable|complete
 DECL|variable|current_commit_sha1
 DECL|variable|current_ref
