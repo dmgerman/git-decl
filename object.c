@@ -19,3 +19,4 @@ DECL|union|any_object
 DECL|variable|nr_objs
 DECL|variable|obj_allocs
 DECL|variable|objs
+DECL|variable|track_object_refs

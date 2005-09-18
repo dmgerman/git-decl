@@ -10,6 +10,7 @@ DECL|function|handle_one_commit
 DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_blob_uninteresting
+DECL|function|mark_edges_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
 DECL|function|process_blob

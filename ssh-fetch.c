@@ -4,9 +4,13 @@ DECL|function|force_write
 DECL|function|get_version
 DECL|function|main
 DECL|function|prefetch
+DECL|macro|COUNTERPART_ENV_NAME
+DECL|macro|COUNTERPART_PROGRAM_NAME
+DECL|macro|MY_PROGRAM_NAME
 DECL|variable|conn_buf
 DECL|variable|conn_buf_posn
 DECL|variable|fd_in
 DECL|variable|fd_out
 DECL|variable|local_version
 DECL|variable|remote_version
+DECL|variable|ssh_fetch_usage

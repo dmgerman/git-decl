@@ -1,6 +1,6 @@
 DECL|function|interpret_target
 DECL|function|loop
-DECL|function|make_sure_we_have_it
+DECL|function|mark_complete
 DECL|function|process
 DECL|function|process_commit
 DECL|function|process_object
@@ -9,6 +9,11 @@ DECL|function|process_tree
 DECL|function|pull
 DECL|function|pull_say
 DECL|function|report_missing
+DECL|macro|COMPLETE
+DECL|macro|SCANNED
+DECL|macro|TO_FETCH
+DECL|macro|TO_SCAN
+DECL|variable|complete
 DECL|variable|current_commit_sha1
 DECL|variable|current_ref
 DECL|variable|get_all
