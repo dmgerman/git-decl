@@ -2,8 +2,11 @@ DECL|function|add_cache_entry
 DECL|function|base_name_compare
 DECL|function|cache_name_compare
 DECL|function|cache_name_pos
+DECL|function|ce_compare_data
+DECL|function|ce_compare_link
 DECL|function|ce_flush
 DECL|function|ce_match_stat
+DECL|function|ce_modified
 DECL|function|ce_path_match
 DECL|function|ce_same_name
 DECL|function|ce_write

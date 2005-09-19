@@ -45,11 +45,13 @@ DECL|variable|show_cached
 DECL|variable|show_deleted
 DECL|variable|show_ignored
 DECL|variable|show_killed
+DECL|variable|show_modified
 DECL|variable|show_others
 DECL|variable|show_stage
 DECL|variable|show_unmerged
 DECL|variable|tag_cached
 DECL|variable|tag_killed
+DECL|variable|tag_modified
 DECL|variable|tag_other
 DECL|variable|tag_removed
 DECL|variable|tag_unmerged

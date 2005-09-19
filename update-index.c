@@ -3,8 +3,6 @@ DECL|function|IS_ERR
 DECL|function|PTR_ERR
 DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
-DECL|function|compare_data
-DECL|function|compare_link
 DECL|function|main
 DECL|function|refresh_cache
 DECL|function|refresh_entry
