@@ -1,5 +1,6 @@
 DECL|function|add_raw
 DECL|function|copy
+DECL|function|copy_gecos
 DECL|function|crud
 DECL|function|get_ident
 DECL|function|git_author_info
