@@ -12,6 +12,9 @@ DECL|function|fsck_tree
 DECL|function|get_default_heads
 DECL|function|ino_compare
 DECL|function|main
+DECL|function|objerror
+DECL|function|objreport
+DECL|function|objwarning
 DECL|function|verify_ordered
 DECL|macro|MAX_SHA1_ENTRIES
 DECL|macro|REACHABLE
