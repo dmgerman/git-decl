@@ -10,7 +10,6 @@ DECL|function|pull
 DECL|function|pull_say
 DECL|function|report_missing
 DECL|macro|COMPLETE
-DECL|macro|SCANNED
 DECL|macro|SEEN
 DECL|macro|TO_FETCH
 DECL|macro|TO_SCAN
