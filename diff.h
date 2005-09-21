@@ -21,3 +21,17 @@ DECL|macro|DIFF_STATUS_RENAMED
 DECL|macro|DIFF_STATUS_TYPE_CHANGED
 DECL|macro|DIFF_STATUS_UNKNOWN
 DECL|macro|DIFF_STATUS_UNMERGED
+DECL|member|break_opt
+DECL|member|detect_rename
+DECL|member|filter
+DECL|member|find_copies_harder
+DECL|member|line_termination
+DECL|member|orderfile
+DECL|member|output_format
+DECL|member|paths
+DECL|member|pickaxe
+DECL|member|pickaxe_opts
+DECL|member|rename_score
+DECL|member|reverse_diff
+DECL|member|setup
+DECL|struct|diff_options
