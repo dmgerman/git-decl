@@ -31,6 +31,7 @@ DECL|member|output_format
 DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
+DECL|member|rename_limit
 DECL|member|rename_score
 DECL|member|reverse_diff
 DECL|member|setup
