@@ -1,3 +1,4 @@
+DECL|function|date_string
 DECL|function|datestamp
 DECL|function|is_date
 DECL|function|match_alpha
