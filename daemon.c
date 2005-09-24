@@ -5,7 +5,7 @@ DECL|function|execute
 DECL|function|handle
 DECL|function|kill_some_children
 DECL|function|logerror
-DECL|function|lognotice
+DECL|function|loginfo
 DECL|function|logreport
 DECL|function|main
 DECL|function|remove_child
