@@ -22,5 +22,6 @@ DECL|variable|children_spawned
 DECL|variable|daemon_usage
 DECL|variable|dead_child
 DECL|variable|live_child
+DECL|variable|log_syslog
 DECL|variable|max_connections
 DECL|variable|verbose
