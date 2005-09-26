@@ -24,6 +24,7 @@ DECL|struct|buffer
 DECL|variable|alt
 DECL|variable|c
 DECL|variable|curl
+DECL|variable|curl_errorstr
 DECL|variable|curl_ssl_verify
 DECL|variable|got_alternates
 DECL|variable|initial_base
