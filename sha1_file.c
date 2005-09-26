@@ -6,6 +6,7 @@ DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_file
 DECL|function|find_sha1_pack
+DECL|function|get_git_dir
 DECL|function|get_graft_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
