@@ -6,6 +6,7 @@ DECL|function|add_file_to_cache
 DECL|function|main
 DECL|function|refresh_cache
 DECL|function|refresh_entry
+DECL|function|update_one
 DECL|function|verify_dotfile
 DECL|function|verify_path
 DECL|variable|allow_add
