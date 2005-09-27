@@ -30,5 +30,9 @@ DECL|variable|got_alternates
 DECL|variable|initial_base
 DECL|variable|local
 DECL|variable|no_pragma_header
+DECL|variable|ssl_cainfo
+DECL|variable|ssl_capath
+DECL|variable|ssl_cert
+DECL|variable|ssl_key
 DECL|variable|stream
 DECL|variable|zret
