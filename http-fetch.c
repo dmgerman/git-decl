@@ -9,7 +9,10 @@ DECL|function|fwrite_buffer
 DECL|function|fwrite_sha1_file
 DECL|function|main
 DECL|function|prefetch
+DECL|function|relink_or_rename
 DECL|function|setup_index
+DECL|macro|PREV_BUF_SIZE
+DECL|macro|RANGE_HEADER_SIZE
 DECL|macro|curl_global_cleanup
 DECL|macro|curl_global_init
 DECL|member|base
@@ -30,6 +33,7 @@ DECL|variable|got_alternates
 DECL|variable|initial_base
 DECL|variable|local
 DECL|variable|no_pragma_header
+DECL|variable|no_range_header
 DECL|variable|ssl_cainfo
 DECL|variable|ssl_capath
 DECL|variable|ssl_cert
