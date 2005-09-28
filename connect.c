@@ -10,6 +10,7 @@ DECL|function|get_protocol
 DECL|function|get_remote_heads
 DECL|function|git_connect
 DECL|function|git_tcp_connect
+DECL|function|git_tcp_connect
 DECL|function|link_dst_tail
 DECL|function|match_explicit_refs
 DECL|function|match_refs
