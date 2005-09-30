@@ -52,7 +52,6 @@ DECL|struct|sha1_size_cache
 DECL|variable|diff_opts
 DECL|variable|diff_queued_diff
 DECL|variable|diff_temp
-DECL|variable|null_sha1
 DECL|variable|sha1_size_cache
 DECL|variable|sha1_size_cache_alloc
 DECL|variable|sha1_size_cache_nr

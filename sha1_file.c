@@ -67,6 +67,7 @@ DECL|variable|git_graft_file
 DECL|variable|git_index_file
 DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
+DECL|variable|null_sha1
 DECL|variable|pack_mapped
 DECL|variable|pack_used_ctr
 DECL|variable|packed_git
