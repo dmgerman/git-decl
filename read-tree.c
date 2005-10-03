@@ -24,6 +24,8 @@ DECL|variable|head_idx
 DECL|variable|index_only
 DECL|variable|merge
 DECL|variable|merge_size
+DECL|variable|nontrivial_merge
 DECL|variable|read_tree_usage
 DECL|variable|trees
+DECL|variable|trivial_merges_only
 DECL|variable|update

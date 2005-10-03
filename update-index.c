@@ -12,6 +12,7 @@ DECL|function|verify_path
 DECL|variable|allow_add
 DECL|variable|allow_remove
 DECL|variable|allow_replace
+DECL|variable|allow_unmerged
 DECL|variable|cache_file
 DECL|variable|force_remove
 DECL|variable|info_only

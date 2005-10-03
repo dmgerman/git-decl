@@ -30,6 +30,7 @@ DECL|function|gitdiff_verify_name
 DECL|function|is_dev_null
 DECL|function|linelen
 DECL|function|main
+DECL|function|metadata_changes
 DECL|function|name_terminate
 DECL|function|parse_chunk
 DECL|function|parse_fragment
