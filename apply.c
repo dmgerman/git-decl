@@ -102,7 +102,6 @@ DECL|variable|excludes
 DECL|variable|linenr
 DECL|variable|max_change
 DECL|variable|max_len
-DECL|variable|merge_patch
 DECL|variable|minuses
 DECL|variable|pluses
 DECL|variable|show_files
