@@ -6,7 +6,9 @@ DECL|function|everybody_uninteresting
 DECL|function|filter_commit
 DECL|function|find_bisection
 DECL|function|get_commit_reference
+DECL|function|handle_all
 DECL|function|handle_one_commit
+DECL|function|include_one_commit
 DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_blob_uninteresting
@@ -26,6 +28,7 @@ DECL|variable|bisect_list
 DECL|variable|blob_objects
 DECL|variable|commit_format
 DECL|variable|commit_prefix
+DECL|variable|global_lst
 DECL|variable|hdr_termination
 DECL|variable|max_age
 DECL|variable|max_count
