@@ -9,8 +9,11 @@ DECL|macro|COUNTERPART_PROGRAM_NAME
 DECL|macro|MY_PROGRAM_NAME
 DECL|variable|conn_buf
 DECL|variable|conn_buf_posn
+DECL|variable|end_of_transit
 DECL|variable|fd_in
 DECL|variable|fd_out
+DECL|variable|in_transit
 DECL|variable|local_version
+DECL|variable|prefetches
 DECL|variable|remote_version
 DECL|variable|ssh_fetch_usage
