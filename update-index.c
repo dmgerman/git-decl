@@ -4,6 +4,7 @@ DECL|function|PTR_ERR
 DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
 DECL|function|main
+DECL|function|read_index_info
 DECL|function|refresh_cache
 DECL|function|refresh_entry
 DECL|function|update_one
