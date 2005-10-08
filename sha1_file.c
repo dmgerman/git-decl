@@ -21,7 +21,9 @@ DECL|function|index_fd
 DECL|function|index_path
 DECL|function|install_packed_git
 DECL|function|link_alt_odb_entries
+DECL|function|link_temp_to_file
 DECL|function|map_sha1_file_internal
+DECL|function|move_temp_to_file
 DECL|function|nth_packed_object_sha1
 DECL|function|num_packed_objects
 DECL|function|packed_delta_info
