@@ -1,10 +1,2 @@
 DECL|function|gitfakemmap
 DECL|function|gitfakemunmap
-DECL|member|fd
-DECL|member|length
-DECL|member|next
-DECL|member|offset
-DECL|member|start
-DECL|struct|fakemmapwritable
-DECL|typedef|fakemmapwritable
-DECL|variable|writablelist
