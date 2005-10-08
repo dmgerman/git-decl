@@ -8,7 +8,6 @@ DECL|function|prepare_children
 DECL|function|prepare_root
 DECL|function|show_children
 DECL|function|show_entry
-DECL|function|show_entry_name
 DECL|macro|LS_RECURSIVE
 DECL|macro|LS_TREE_ONLY
 DECL|variable|line_termination
