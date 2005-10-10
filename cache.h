@@ -100,3 +100,4 @@ DECL|struct|checkout
 DECL|struct|pack_entry
 DECL|struct|packed_git
 DECL|struct|ref
+DECL|typedef|config_fn_t

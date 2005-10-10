@@ -24,5 +24,6 @@ DECL|variable|active_alloc
 DECL|variable|active_cache
 DECL|variable|active_cache_changed
 DECL|variable|active_nr
+DECL|variable|trust_executable_bit
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len
