@@ -76,6 +76,7 @@ DECL|variable|got_alternates
 DECL|variable|max_requests
 DECL|variable|no_pragma_header
 DECL|variable|no_range_header
+DECL|variable|pragma_header
 DECL|variable|request_queue_head
 DECL|variable|ssl_cainfo
 DECL|variable|ssl_capath
