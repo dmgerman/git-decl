@@ -19,7 +19,6 @@ DECL|function|prefetch
 DECL|function|process_curl_messages
 DECL|function|process_request_queue
 DECL|function|release_request
-DECL|function|relink_or_rename
 DECL|function|run_active_slot
 DECL|function|setup_index
 DECL|function|start_active_slot
