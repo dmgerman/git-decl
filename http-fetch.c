@@ -71,7 +71,6 @@ DECL|variable|curl_errorstr
 DECL|variable|curl_ssl_verify
 DECL|variable|curlm
 DECL|variable|data_received
-DECL|variable|got_alternates
 DECL|variable|max_requests
 DECL|variable|no_pragma_header
 DECL|variable|no_range_header
