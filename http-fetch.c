@@ -14,10 +14,13 @@ DECL|function|finish_request
 DECL|function|fwrite_buffer
 DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
+DECL|function|hex
 DECL|function|main
+DECL|function|needs_quote
 DECL|function|prefetch
 DECL|function|process_curl_messages
 DECL|function|process_request_queue
+DECL|function|quote_ref_url
 DECL|function|release_request
 DECL|function|run_active_slot
 DECL|function|setup_index
