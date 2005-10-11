@@ -27,6 +27,7 @@ DECL|function|start_request
 DECL|macro|DEFAULT_MAX_REQUESTS
 DECL|macro|PREV_BUF_SIZE
 DECL|macro|RANGE_HEADER_SIZE
+DECL|macro|USE_CURL_MULTI
 DECL|macro|curl_global_cleanup
 DECL|macro|curl_global_init
 DECL|member|base
