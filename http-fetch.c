@@ -12,6 +12,7 @@ DECL|function|fetch_pack
 DECL|function|fetch_ref
 DECL|function|finish_request
 DECL|function|fwrite_buffer
+DECL|function|fwrite_buffer_dynamic
 DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
 DECL|function|hex
