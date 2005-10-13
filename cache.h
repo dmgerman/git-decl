@@ -1,4 +1,5 @@
 DECL|function|create_ce_mode
+DECL|function|sane_case
 DECL|function|xcalloc
 DECL|function|xmalloc
 DECL|function|xrealloc
@@ -23,7 +24,10 @@ DECL|macro|DT_DIR
 DECL|macro|DT_LNK
 DECL|macro|DT_REG
 DECL|macro|DT_UNKNOWN
+DECL|macro|GIT_ALPHA
+DECL|macro|GIT_DIGIT
 DECL|macro|GIT_DIR_ENVIRONMENT
+DECL|macro|GIT_SPACE
 DECL|macro|GRAFT_ENVIRONMENT
 DECL|macro|INDEX_ENVIRONMENT
 DECL|macro|INODE_CHANGED
@@ -47,6 +51,19 @@ DECL|macro|ce_size
 DECL|macro|ce_stage
 DECL|macro|create_ce_flags
 DECL|macro|deflateBound
+DECL|macro|isalnum
+DECL|macro|isalnum
+DECL|macro|isalpha
+DECL|macro|isalpha
+DECL|macro|isdigit
+DECL|macro|isdigit
+DECL|macro|isspace
+DECL|macro|isspace
+DECL|macro|sane_istest
+DECL|macro|tolower
+DECL|macro|tolower
+DECL|macro|toupper
+DECL|macro|toupper
 DECL|member|base
 DECL|member|base_dir
 DECL|member|base_dir_len
