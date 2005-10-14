@@ -1,3 +1,4 @@
+DECL|function|bad_ref_char
 DECL|function|check_ref_format
 DECL|function|create_symref
 DECL|function|do_for_each_ref
