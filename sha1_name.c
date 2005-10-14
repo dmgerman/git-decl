@@ -9,5 +9,6 @@ DECL|function|get_sha1_1
 DECL|function|get_sha1_basic
 DECL|function|get_short_sha1
 DECL|function|match_sha
+DECL|function|peel_onion
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
