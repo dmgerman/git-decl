@@ -15,6 +15,7 @@ DECL|function|fwrite_buffer
 DECL|function|fwrite_buffer_dynamic
 DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
+DECL|function|get_curl_handle
 DECL|function|hex
 DECL|function|http_options
 DECL|function|main
@@ -29,6 +30,7 @@ DECL|function|setup_index
 DECL|function|start_active_slot
 DECL|function|start_request
 DECL|macro|DEFAULT_MAX_REQUESTS
+DECL|macro|NO_CURL_EASY_DUPHANDLE
 DECL|macro|PREV_BUF_SIZE
 DECL|macro|RANGE_HEADER_SIZE
 DECL|macro|USE_CURL_MULTI
