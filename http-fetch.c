@@ -16,6 +16,7 @@ DECL|function|fwrite_buffer_dynamic
 DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
 DECL|function|hex
+DECL|function|http_options
 DECL|function|main
 DECL|function|needs_quote
 DECL|function|prefetch
