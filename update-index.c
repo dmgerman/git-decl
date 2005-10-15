@@ -8,6 +8,7 @@ DECL|function|main
 DECL|function|read_index_info
 DECL|function|refresh_cache
 DECL|function|refresh_entry
+DECL|function|report
 DECL|function|update_one
 DECL|function|verify_dotfile
 DECL|function|verify_path
@@ -20,3 +21,4 @@ DECL|variable|force_remove
 DECL|variable|info_only
 DECL|variable|not_new
 DECL|variable|quiet
+DECL|variable|verbose
