@@ -36,6 +36,8 @@ DECL|function|parse_num
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|print_line_count
+DECL|function|quote_one
+DECL|function|quote_two
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
 DECL|function|run_diff
