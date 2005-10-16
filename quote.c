@@ -1,1 +1,9 @@
+DECL|function|quote_c_style
 DECL|function|sq_quote
+DECL|function|unquote_c_style
+DECL|function|write_name_quoted
+DECL|macro|EMIT
+DECL|macro|EMIT
+DECL|macro|EMIT
+DECL|macro|EMIT
+DECL|macro|EMITQ
