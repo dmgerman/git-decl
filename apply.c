@@ -51,6 +51,7 @@ DECL|function|show_mode_change
 DECL|function|show_rename_copy
 DECL|function|show_stats
 DECL|function|stat_patch_list
+DECL|function|stop_at_slash
 DECL|function|summary_patch_list
 DECL|function|try_create_file
 DECL|function|use_patch
