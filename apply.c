@@ -46,8 +46,6 @@ DECL|function|patch_stats
 DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|remove_file
-DECL|function|show_file
-DECL|function|show_file_list
 DECL|function|show_file_mode_name
 DECL|function|show_index_list
 DECL|function|show_mode_change
@@ -111,7 +109,6 @@ DECL|variable|max_change
 DECL|variable|max_len
 DECL|variable|minuses
 DECL|variable|pluses
-DECL|variable|show_files
 DECL|variable|show_index_info
 DECL|variable|summary
 DECL|variable|write_index
