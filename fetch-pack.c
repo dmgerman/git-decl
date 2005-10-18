@@ -1,3 +1,4 @@
+DECL|function|everything_local
 DECL|function|fetch_pack
 DECL|function|find_common
 DECL|function|main
