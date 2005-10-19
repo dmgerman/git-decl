@@ -24,8 +24,10 @@ DECL|variable|children_spawned
 DECL|variable|daemon_usage
 DECL|variable|dead_child
 DECL|variable|export_all_trees
+DECL|variable|init_timeout
 DECL|variable|live_child
 DECL|variable|log_syslog
 DECL|variable|max_connections
 DECL|variable|ok_paths
+DECL|variable|timeout
 DECL|variable|verbose
