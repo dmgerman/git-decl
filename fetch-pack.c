@@ -2,6 +2,10 @@ DECL|function|everything_local
 DECL|function|fetch_pack
 DECL|function|find_common
 DECL|function|main
+DECL|function|mark_complete
+DECL|function|mark_recent_complete_commits
+DECL|macro|COMPLETE
+DECL|variable|complete
 DECL|variable|exec
 DECL|variable|fetch_pack_usage
 DECL|variable|quiet
