@@ -11,6 +11,7 @@ DECL|function|main
 DECL|function|path_ok
 DECL|function|remove_child
 DECL|function|serve
+DECL|function|set_dir
 DECL|function|upload
 DECL|macro|MAX_CHILDREN
 DECL|member|address
