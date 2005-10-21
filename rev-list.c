@@ -1,8 +1,11 @@
 DECL|function|add_object
+DECL|function|add_parents_to_list
 DECL|function|add_pending_object
 DECL|function|clear_distance
 DECL|function|count_distance
 DECL|function|everybody_uninteresting
+DECL|function|file_add_remove
+DECL|function|file_change
 DECL|function|filter_commit
 DECL|function|find_bisection
 DECL|function|get_commit_reference
@@ -20,6 +23,7 @@ DECL|function|process_commit
 DECL|function|process_tree
 DECL|function|show_commit
 DECL|function|show_commit_list
+DECL|function|try_to_simplify_merge
 DECL|macro|COUNTED
 DECL|macro|INTERESTING
 DECL|macro|SEEN
@@ -28,13 +32,16 @@ DECL|variable|bisect_list
 DECL|variable|blob_objects
 DECL|variable|commit_format
 DECL|variable|commit_prefix
+DECL|variable|diff_opt
 DECL|variable|global_lst
 DECL|variable|hdr_termination
+DECL|variable|is_different
 DECL|variable|max_age
 DECL|variable|max_count
 DECL|variable|merge_order
 DECL|variable|min_age
 DECL|variable|no_merges
+DECL|variable|paths
 DECL|variable|pending_objects
 DECL|variable|rev_list_usage
 DECL|variable|show_breaks
