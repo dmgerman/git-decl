@@ -3,6 +3,7 @@ DECL|function|get_common_commits
 DECL|function|got_sha1
 DECL|function|main
 DECL|function|receive_needs
+DECL|function|reset_timeout
 DECL|function|send_ref
 DECL|function|strip
 DECL|function|upload_pack
@@ -12,4 +13,5 @@ DECL|variable|has_sha1
 DECL|variable|needs_sha1
 DECL|variable|nr_has
 DECL|variable|nr_needs
+DECL|variable|timeout
 DECL|variable|upload_pack_usage

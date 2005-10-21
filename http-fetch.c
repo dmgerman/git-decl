@@ -75,6 +75,8 @@ DECL|variable|active_requests
 DECL|variable|alt
 DECL|variable|curl_default
 DECL|variable|curl_errorstr
+DECL|variable|curl_low_speed_limit
+DECL|variable|curl_low_speed_time
 DECL|variable|curl_ssl_verify
 DECL|variable|curlm
 DECL|variable|data_received
