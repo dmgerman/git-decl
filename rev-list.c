@@ -2,6 +2,7 @@ DECL|function|add_object
 DECL|function|add_parents_to_list
 DECL|function|add_pending_object
 DECL|function|clear_distance
+DECL|function|compress_list
 DECL|function|count_distance
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
@@ -21,6 +22,9 @@ DECL|function|mark_tree_uninteresting
 DECL|function|process_blob
 DECL|function|process_commit
 DECL|function|process_tree
+DECL|function|rewrite_one
+DECL|function|rewrite_parents
+DECL|function|same_tree
 DECL|function|show_commit
 DECL|function|show_commit_list
 DECL|function|try_to_simplify_merge
@@ -28,10 +32,12 @@ DECL|macro|COUNTED
 DECL|macro|INTERESTING
 DECL|macro|SEEN
 DECL|macro|SHOWN
+DECL|macro|TREECHANGE
 DECL|variable|bisect_list
 DECL|variable|blob_objects
 DECL|variable|commit_format
 DECL|variable|commit_prefix
+DECL|variable|dense
 DECL|variable|diff_opt
 DECL|variable|global_lst
 DECL|variable|hdr_termination
