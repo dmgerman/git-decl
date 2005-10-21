@@ -47,6 +47,7 @@ DECL|member|errorstr
 DECL|member|filename
 DECL|member|got_indices
 DECL|member|http_code
+DECL|member|http_code
 DECL|member|in_use
 DECL|member|local
 DECL|member|local
@@ -80,6 +81,7 @@ DECL|variable|curl_low_speed_time
 DECL|variable|curl_ssl_verify
 DECL|variable|curlm
 DECL|variable|data_received
+DECL|variable|got_alternates
 DECL|variable|max_requests
 DECL|variable|no_pragma_header
 DECL|variable|no_range_header
