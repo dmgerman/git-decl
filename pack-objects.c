@@ -6,6 +6,8 @@ DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|get_object_details
 DECL|function|main
+DECL|function|prepare_pack
+DECL|function|reuse_cached_pack
 DECL|function|sha1_sort
 DECL|function|sort_comparator
 DECL|function|try_delta
