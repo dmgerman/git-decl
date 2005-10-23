@@ -1,4 +1,6 @@
+DECL|function|need_bs_quote
 DECL|function|quote_c_style
+DECL|function|sq_dequote
 DECL|function|sq_quote
 DECL|function|sq_quote_buf
 DECL|function|unquote_c_style
