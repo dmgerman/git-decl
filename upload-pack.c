@@ -9,6 +9,7 @@ DECL|function|strip
 DECL|function|upload_pack
 DECL|macro|MAX_HAS
 DECL|macro|MAX_NEEDS
+DECL|macro|THEY_HAVE
 DECL|variable|has_sha1
 DECL|variable|needs_sha1
 DECL|variable|nr_has
