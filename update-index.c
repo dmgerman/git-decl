@@ -21,4 +21,5 @@ DECL|variable|force_remove
 DECL|variable|info_only
 DECL|variable|not_new
 DECL|variable|quiet
+DECL|variable|update_index_usage
 DECL|variable|verbose
