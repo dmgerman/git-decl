@@ -25,6 +25,7 @@ DECL|function|process_tree
 DECL|function|rewrite_one
 DECL|function|rewrite_parents
 DECL|function|same_tree
+DECL|function|same_tree_as_empty
 DECL|function|show_commit
 DECL|function|show_commit_list
 DECL|function|try_to_simplify_merge
