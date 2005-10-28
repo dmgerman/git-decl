@@ -1,3 +1,4 @@
+DECL|function|ambiguous_path
 DECL|function|find_short_object_filename
 DECL|function|find_short_packed_object
 DECL|function|find_unique_abbrev
