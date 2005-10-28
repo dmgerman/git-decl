@@ -1,5 +1,6 @@
 DECL|function|everything_local
 DECL|function|fetch_pack
+DECL|function|filter_refs
 DECL|function|find_common
 DECL|function|get_rev
 DECL|function|main
