@@ -13,6 +13,7 @@ DECL|macro|OUR_REF
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
 DECL|variable|has_sha1
+DECL|variable|multi_ack
 DECL|variable|needs_sha1
 DECL|variable|nr_has
 DECL|variable|nr_needs
