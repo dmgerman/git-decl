@@ -10,6 +10,7 @@ DECL|function|upload_pack
 DECL|macro|MAX_HAS
 DECL|macro|MAX_NEEDS
 DECL|macro|OUR_REF
+DECL|macro|THEY_HAVE
 DECL|macro|WANTED
 DECL|variable|has_sha1
 DECL|variable|needs_sha1
