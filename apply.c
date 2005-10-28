@@ -34,6 +34,7 @@ DECL|function|linelen
 DECL|function|main
 DECL|function|metadata_changes
 DECL|function|name_terminate
+DECL|function|numstat_patch_list
 DECL|function|parse_chunk
 DECL|function|parse_fragment
 DECL|function|parse_fragment_header
@@ -108,6 +109,7 @@ DECL|variable|linenr
 DECL|variable|max_change
 DECL|variable|max_len
 DECL|variable|minuses
+DECL|variable|numstat
 DECL|variable|pluses
 DECL|variable|show_index_info
 DECL|variable|summary
