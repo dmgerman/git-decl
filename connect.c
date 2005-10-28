@@ -16,6 +16,7 @@ DECL|function|match_explicit_refs
 DECL|function|match_refs
 DECL|function|parse_ref_spec
 DECL|function|path_match
+DECL|function|server_supports
 DECL|function|try_explicit_object_name
 DECL|macro|STR
 DECL|macro|STR_
@@ -23,3 +24,4 @@ DECL|member|dst
 DECL|member|force
 DECL|member|src
 DECL|struct|refspec
+DECL|variable|server_capabilities
