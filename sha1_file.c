@@ -6,11 +6,6 @@ DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_file
 DECL|function|find_sha1_pack
-DECL|function|get_git_dir
-DECL|function|get_graft_file
-DECL|function|get_index_file
-DECL|function|get_object_directory
-DECL|function|get_refs_directory
 DECL|function|get_sha1_hex
 DECL|function|has_pack_file
 DECL|function|has_pack_index
@@ -18,9 +13,12 @@ DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
 DECL|function|hexval
 DECL|function|index_fd
+DECL|function|index_path
 DECL|function|install_packed_git
 DECL|function|link_alt_odb_entries
+DECL|function|link_temp_to_file
 DECL|function|map_sha1_file_internal
+DECL|function|move_temp_to_file
 DECL|function|nth_packed_object_sha1
 DECL|function|num_packed_objects
 DECL|function|packed_delta_info
@@ -36,7 +34,6 @@ DECL|function|read_object_with_reference
 DECL|function|read_packed_sha1
 DECL|function|read_sha1_file
 DECL|function|safe_create_leading_directories
-DECL|function|setup_git_env
 DECL|function|sha1_file_name
 DECL|function|sha1_object_info
 DECL|function|sha1_pack_index_name
@@ -62,11 +59,6 @@ DECL|macro|O_NOATIME
 DECL|macro|PACK_MAX_SZ
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail
-DECL|variable|git_dir
-DECL|variable|git_graft_file
-DECL|variable|git_index_file
-DECL|variable|git_object_dir
-DECL|variable|git_refs_dir
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
 DECL|variable|pack_used_ctr

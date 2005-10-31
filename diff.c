@@ -7,6 +7,7 @@ DECL|function|diff_change
 DECL|function|diff_debug_filepair
 DECL|function|diff_debug_filespec
 DECL|function|diff_debug_queue
+DECL|function|diff_fill_sha1_info
 DECL|function|diff_flush
 DECL|function|diff_flush_name
 DECL|function|diff_flush_patch
@@ -35,6 +36,8 @@ DECL|function|parse_num
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|print_line_count
+DECL|function|quote_one
+DECL|function|quote_two
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
 DECL|function|run_diff

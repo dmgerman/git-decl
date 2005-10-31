@@ -17,6 +17,7 @@ DECL|function|gitdiff_copysrc
 DECL|function|gitdiff_delete
 DECL|function|gitdiff_dissimilarity
 DECL|function|gitdiff_hdrend
+DECL|function|gitdiff_index
 DECL|function|gitdiff_newfile
 DECL|function|gitdiff_newmode
 DECL|function|gitdiff_newname
@@ -28,10 +29,12 @@ DECL|function|gitdiff_similarity
 DECL|function|gitdiff_unrecognized
 DECL|function|gitdiff_verify_name
 DECL|function|is_dev_null
+DECL|function|is_null_sha1
 DECL|function|linelen
 DECL|function|main
 DECL|function|metadata_changes
 DECL|function|name_terminate
+DECL|function|numstat_patch_list
 DECL|function|parse_chunk
 DECL|function|parse_fragment
 DECL|function|parse_fragment_header
@@ -44,9 +47,8 @@ DECL|function|patch_stats
 DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|remove_file
-DECL|function|show_file
-DECL|function|show_file_list
 DECL|function|show_file_mode_name
+DECL|function|show_index_list
 DECL|function|show_mode_change
 DECL|function|show_rename_copy
 DECL|function|show_stats
@@ -73,6 +75,7 @@ DECL|member|lines_added
 DECL|member|lines_deleted
 DECL|member|new_mode
 DECL|member|new_name
+DECL|member|new_sha1_prefix
 DECL|member|newlines
 DECL|member|newpos
 DECL|member|next
@@ -80,6 +83,7 @@ DECL|member|next
 DECL|member|next
 DECL|member|old_mode
 DECL|member|old_name
+DECL|member|old_sha1_prefix
 DECL|member|oldlines
 DECL|member|oldpos
 DECL|member|patch
@@ -100,12 +104,13 @@ DECL|variable|check
 DECL|variable|check_index
 DECL|variable|diffstat
 DECL|variable|excludes
+DECL|variable|line_termination
 DECL|variable|linenr
 DECL|variable|max_change
 DECL|variable|max_len
-DECL|variable|merge_patch
 DECL|variable|minuses
+DECL|variable|numstat
 DECL|variable|pluses
-DECL|variable|show_files
+DECL|variable|show_index_info
 DECL|variable|summary
 DECL|variable|write_index

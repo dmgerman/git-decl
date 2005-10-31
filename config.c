@@ -1,0 +1,12 @@
+DECL|function|get_base_var
+DECL|function|get_next_char
+DECL|function|get_value
+DECL|function|git_config
+DECL|function|git_config_bool
+DECL|function|git_config_int
+DECL|function|git_default_config
+DECL|function|git_parse_file
+DECL|function|parse_value
+DECL|macro|MAXNAME
+DECL|variable|config_file
+DECL|variable|config_linenr

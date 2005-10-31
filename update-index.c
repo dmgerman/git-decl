@@ -3,9 +3,12 @@ DECL|function|IS_ERR
 DECL|function|PTR_ERR
 DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
+DECL|function|chmod_path
 DECL|function|main
+DECL|function|read_index_info
 DECL|function|refresh_cache
 DECL|function|refresh_entry
+DECL|function|report
 DECL|function|update_one
 DECL|function|verify_dotfile
 DECL|function|verify_path
@@ -18,3 +21,5 @@ DECL|variable|force_remove
 DECL|variable|info_only
 DECL|variable|not_new
 DECL|variable|quiet
+DECL|variable|update_index_usage
+DECL|variable|verbose

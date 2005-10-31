@@ -3,6 +3,7 @@ DECL|function|main
 DECL|function|show
 DECL|function|show_datestring
 DECL|function|show_default
+DECL|function|show_file
 DECL|function|show_flag
 DECL|function|show_reference
 DECL|function|show_rev

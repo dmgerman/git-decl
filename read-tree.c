@@ -12,6 +12,7 @@ DECL|function|same
 DECL|function|show_stage_entry
 DECL|function|threeway_merge
 DECL|function|twoway_merge
+DECL|function|unlink_entry
 DECL|function|unpack_trees
 DECL|function|unpack_trees_rec
 DECL|function|verify_uptodate
