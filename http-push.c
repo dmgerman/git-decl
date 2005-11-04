@@ -32,6 +32,7 @@ DECL|function|process_curl_messages
 DECL|function|process_request_queue
 DECL|function|process_waiting_requests
 DECL|function|quote_ref_url
+DECL|function|refresh_lock
 DECL|function|release_request
 DECL|function|run_active_slot
 DECL|function|setup_index
@@ -51,7 +52,9 @@ DECL|macro|DAV_PROPFIND
 DECL|macro|DAV_PUT
 DECL|macro|DAV_UNLOCK
 DECL|macro|DEFAULT_MAX_REQUESTS
+DECL|macro|LOCK_REFRESH
 DECL|macro|LOCK_REQUEST
+DECL|macro|LOCK_TIME
 DECL|macro|NO_CURL_EASY_DUPHANDLE
 DECL|macro|PROPFIND_REQUEST
 DECL|macro|RANGE_HEADER_SIZE
@@ -91,6 +94,7 @@ DECL|member|owner
 DECL|member|packs
 DECL|member|posn
 DECL|member|real_sha1
+DECL|member|refreshing
 DECL|member|rename
 DECL|member|sha1
 DECL|member|size
@@ -102,6 +106,7 @@ DECL|member|supported_lock
 DECL|member|timeout
 DECL|member|tmpfile
 DECL|member|token
+DECL|member|url
 DECL|member|url
 DECL|member|url
 DECL|member|zret
