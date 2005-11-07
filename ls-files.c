@@ -15,6 +15,7 @@ DECL|function|show_ce_entry
 DECL|function|show_dir_entry
 DECL|function|show_files
 DECL|function|show_killed_files
+DECL|function|show_other_files
 DECL|function|verify_pathspec
 DECL|macro|EXC_CMDL
 DECL|macro|EXC_DIRS
