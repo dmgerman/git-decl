@@ -6,6 +6,9 @@ DECL|enumerator|RUN_HEAD
 DECL|enumerator|RUN_MKCOL
 DECL|enumerator|RUN_MOVE
 DECL|enumerator|RUN_PUT
+DECL|enumerator|XML_STATUS_ERROR
+DECL|enumerator|XML_STATUS_OK
+DECL|enum|XML_Status
 DECL|enum|transfer_state
 DECL|function|activelock_cdata
 DECL|function|add_request
@@ -59,6 +62,8 @@ DECL|macro|NO_CURL_EASY_DUPHANDLE
 DECL|macro|PROPFIND_REQUEST
 DECL|macro|RANGE_HEADER_SIZE
 DECL|macro|USE_CURL_MULTI
+DECL|macro|XML_STATUS_ERROR
+DECL|macro|XML_STATUS_OK
 DECL|macro|curl_global_cleanup
 DECL|macro|curl_global_init
 DECL|member|buffer
