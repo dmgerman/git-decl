@@ -135,6 +135,7 @@ DECL|variable|push_all
 DECL|variable|push_verbosely
 DECL|variable|pushing
 DECL|variable|remote
+DECL|variable|remote_dir_exists
 DECL|variable|request_queue_head
 DECL|variable|ssl_cainfo
 DECL|variable|ssl_capath
