@@ -38,6 +38,6 @@ DECL|struct|pack_list
 DECL|struct|pll
 DECL|variable|all
 DECL|variable|all_objects
-DECL|variable|pack_intersect_usage
 DECL|variable|pack_list
+DECL|variable|pack_redundant_usage
 DECL|variable|verbose
