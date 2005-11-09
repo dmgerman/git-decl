@@ -67,6 +67,7 @@ DECL|member|alloc
 DECL|member|buffer
 DECL|member|def_name
 DECL|member|fragments
+DECL|member|is_binary
 DECL|member|is_copy
 DECL|member|is_delete
 DECL|member|is_new
