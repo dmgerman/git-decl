@@ -1,5 +1,6 @@
 DECL|enumerator|CMIT_FMT_DEFAULT
 DECL|enumerator|CMIT_FMT_FULL
+DECL|enumerator|CMIT_FMT_FULLER
 DECL|enumerator|CMIT_FMT_MEDIUM
 DECL|enumerator|CMIT_FMT_ONELINE
 DECL|enumerator|CMIT_FMT_RAW
