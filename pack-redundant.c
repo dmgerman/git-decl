@@ -11,7 +11,7 @@ DECL|function|llist_init
 DECL|function|llist_insert
 DECL|function|llist_insert_back
 DECL|function|llist_insert_sorted_unique
-DECL|function|llist_sorted_difference
+DECL|function|llist_sorted_difference_inplace
 DECL|function|llist_sorted_remove
 DECL|function|load_all
 DECL|function|load_all_objects
@@ -19,6 +19,7 @@ DECL|function|main
 DECL|function|minimize
 DECL|function|pack_list_difference
 DECL|function|pack_list_insert
+DECL|function|pack_list_size
 DECL|function|pack_set_bytecount
 DECL|function|sizeof_union
 DECL|member|all_objects
@@ -36,8 +37,10 @@ DECL|struct|llist
 DECL|struct|llist_item
 DECL|struct|pack_list
 DECL|struct|pll
-DECL|variable|all
 DECL|variable|all_objects
-DECL|variable|pack_list
+DECL|variable|alt_odb
+DECL|variable|altodb_packs
+DECL|variable|load_all_packs
+DECL|variable|local_packs
 DECL|variable|pack_redundant_usage
 DECL|variable|verbose
