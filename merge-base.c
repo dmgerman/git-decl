@@ -1,5 +1,6 @@
 DECL|function|interesting
 DECL|function|main
+DECL|function|mark_reachable_commits
 DECL|function|merge_base
 DECL|macro|PARENT1
 DECL|macro|PARENT2

@@ -110,6 +110,7 @@ DECL|variable|linenr
 DECL|variable|max_change
 DECL|variable|max_len
 DECL|variable|minuses
+DECL|variable|no_add
 DECL|variable|numstat
 DECL|variable|pluses
 DECL|variable|show_index_info
