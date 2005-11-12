@@ -21,6 +21,7 @@ DECL|function|http_options
 DECL|function|main
 DECL|function|needs_quote
 DECL|function|prefetch
+DECL|function|process_alternates
 DECL|function|process_curl_messages
 DECL|function|process_request_queue
 DECL|function|quote_ref_url
@@ -37,8 +38,12 @@ DECL|macro|USE_CURL_MULTI
 DECL|macro|curl_global_cleanup
 DECL|macro|curl_global_init
 DECL|member|base
+DECL|member|base
+DECL|member|buffer
 DECL|member|buffer
 DECL|member|c
+DECL|member|callback_data
+DECL|member|callback_func
 DECL|member|curl
 DECL|member|curl_result
 DECL|member|curl_result
@@ -48,6 +53,7 @@ DECL|member|filename
 DECL|member|got_indices
 DECL|member|http_code
 DECL|member|http_code
+DECL|member|http_specific
 DECL|member|in_use
 DECL|member|local
 DECL|member|local
@@ -62,13 +68,16 @@ DECL|member|repo
 DECL|member|sha1
 DECL|member|size
 DECL|member|slot
+DECL|member|slot
 DECL|member|state
 DECL|member|stream
 DECL|member|tmpfile
 DECL|member|url
+DECL|member|url
 DECL|member|zret
 DECL|struct|active_request_slot
 DECL|struct|alt_base
+DECL|struct|alt_request
 DECL|struct|buffer
 DECL|struct|transfer_request
 DECL|variable|active_queue_head
