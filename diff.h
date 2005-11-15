@@ -29,6 +29,7 @@ DECL|member|change
 DECL|member|detect_rename
 DECL|member|filter
 DECL|member|find_copies_harder
+DECL|member|full_index
 DECL|member|line_termination
 DECL|member|orderfile
 DECL|member|output_format
