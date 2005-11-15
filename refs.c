@@ -15,4 +15,3 @@ DECL|function|write_ref_file
 DECL|function|write_ref_sha1
 DECL|function|write_ref_sha1_unlocked
 DECL|macro|MAXDEPTH
-DECL|macro|USE_SYMLINK_HEAD
