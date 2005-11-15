@@ -3,9 +3,11 @@ DECL|function|main
 DECL|function|mput_char
 DECL|function|prepend_to_path
 DECL|function|pretty_print_string_list
+DECL|function|show_man_page
 DECL|function|term_columns
 DECL|function|usage
 DECL|macro|PATH_MAX
+DECL|macro|PATH_TO_MAN
 DECL|member|len
 DECL|member|next
 DECL|member|str
