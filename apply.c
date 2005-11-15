@@ -98,6 +98,7 @@ DECL|struct|buffer_desc
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
+DECL|variable|allow_binary_replacement
 DECL|variable|apply
 DECL|variable|apply_usage
 DECL|variable|cache_file
