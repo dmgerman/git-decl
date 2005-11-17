@@ -21,6 +21,7 @@ DECL|function|pack_list_difference
 DECL|function|pack_list_insert
 DECL|function|pack_list_size
 DECL|function|pack_set_bytecount
+DECL|function|pll_insert
 DECL|function|sizeof_union
 DECL|member|all_objects
 DECL|member|back
@@ -30,6 +31,7 @@ DECL|member|next
 DECL|member|next
 DECL|member|pack
 DECL|member|pl
+DECL|member|pl_size
 DECL|member|sha1
 DECL|member|size
 DECL|member|unique_objects
