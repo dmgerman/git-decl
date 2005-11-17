@@ -1,4 +1,7 @@
+DECL|function|canonical_path
 DECL|function|cleanup_path
+DECL|function|current_dir
+DECL|function|enter_repo
 DECL|function|git_mkstemp
 DECL|function|git_path
 DECL|function|mkpath
