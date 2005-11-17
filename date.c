@@ -1,3 +1,5 @@
+DECL|function|approxidate
+DECL|function|approxidate_alpha
 DECL|function|date_string
 DECL|function|datestamp
 DECL|function|is_date
@@ -10,10 +12,16 @@ DECL|function|my_mktime
 DECL|function|parse_date
 DECL|function|show_date
 DECL|function|skip_alpha
+DECL|function|update_tm
 DECL|macro|NR_TZ
 DECL|member|dst
+DECL|member|length
 DECL|member|name
 DECL|member|offset
+DECL|member|type
+DECL|struct|typelen
 DECL|variable|month_names
+DECL|variable|number_name
 DECL|variable|timezone_names
+DECL|variable|typelen
 DECL|variable|weekday_names
