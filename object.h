@@ -1,9 +1,11 @@
 DECL|macro|OBJECT_H
+DECL|member|count
 DECL|member|flags
 DECL|member|item
 DECL|member|name
 DECL|member|next
 DECL|member|parsed
+DECL|member|ref
 DECL|member|refs
 DECL|member|sha1
 DECL|member|type
@@ -11,3 +13,4 @@ DECL|member|used
 DECL|member|util
 DECL|struct|object
 DECL|struct|object_list
+DECL|struct|object_refs

@@ -54,6 +54,7 @@ DECL|struct|diff_tempfile
 DECL|struct|sha1_size_cache
 DECL|variable|diff_opts
 DECL|variable|diff_queued_diff
+DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
 DECL|variable|sha1_size_cache
 DECL|variable|sha1_size_cache_alloc

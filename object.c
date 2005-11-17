@@ -1,4 +1,5 @@
-DECL|function|add_ref
+DECL|function|alloc_object_refs
+DECL|function|compare_object_pointers
 DECL|function|created_object
 DECL|function|find_object
 DECL|function|lookup_object
@@ -10,6 +11,7 @@ DECL|function|object_list_contains
 DECL|function|object_list_insert
 DECL|function|object_list_length
 DECL|function|parse_object
+DECL|function|set_object_refs
 DECL|member|blob
 DECL|member|commit
 DECL|member|object
