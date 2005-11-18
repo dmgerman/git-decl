@@ -1,6 +1,6 @@
 DECL|function|add_pack
 DECL|function|add_pack_file
-DECL|function|cmp_packs
+DECL|function|cmp_local_packs
 DECL|function|cmp_two_packs
 DECL|function|get_all_permutations
 DECL|function|get_pack_redundancy
@@ -22,6 +22,7 @@ DECL|function|pack_list_insert
 DECL|function|pack_list_size
 DECL|function|pack_set_bytecount
 DECL|function|pll_insert
+DECL|function|scan_alt_odb_packs
 DECL|function|sizeof_union
 DECL|member|all_objects
 DECL|member|back
