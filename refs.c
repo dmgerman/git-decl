@@ -11,7 +11,6 @@ DECL|function|read_ref
 DECL|function|ref_file_name
 DECL|function|ref_lock_file_name
 DECL|function|resolve_ref
-DECL|function|validate_symref
 DECL|function|write_ref_file
 DECL|function|write_ref_sha1
 DECL|function|write_ref_sha1_unlocked
