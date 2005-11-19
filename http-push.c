@@ -24,7 +24,6 @@ DECL|function|is_ancestor
 DECL|function|lock_remote
 DECL|function|locking_available
 DECL|function|main
-DECL|function|main
 DECL|function|needs_quote
 DECL|function|process_response
 DECL|function|quote_ref_url
