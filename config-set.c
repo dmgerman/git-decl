@@ -1,2 +1,9 @@
+DECL|function|get_value
 DECL|function|main
+DECL|function|show_config
+DECL|variable|do_all
 DECL|variable|git_config_set_usage
+DECL|variable|key
+DECL|variable|regex
+DECL|variable|seen
+DECL|variable|value

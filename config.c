@@ -2,6 +2,7 @@ DECL|enumerator|KEY_SEEN
 DECL|enumerator|SECTION_END_SEEN
 DECL|enumerator|SECTION_SEEN
 DECL|enumerator|START
+DECL|function|find_beginning_of_line
 DECL|function|get_base_var
 DECL|function|get_next_char
 DECL|function|get_value
@@ -17,8 +18,10 @@ DECL|function|store_aux
 DECL|function|store_write_pair
 DECL|function|store_write_section
 DECL|macro|MAXNAME
+DECL|macro|MAX_MATCHES
 DECL|member|baselen
 DECL|member|key
+DECL|member|multi_replace
 DECL|member|offset
 DECL|member|seen
 DECL|member|state
