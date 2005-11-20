@@ -13,6 +13,7 @@ DECL|function|git_config_set
 DECL|function|git_config_set_multivar
 DECL|function|git_default_config
 DECL|function|git_parse_file
+DECL|function|matches
 DECL|function|parse_value
 DECL|function|store_aux
 DECL|function|store_write_pair
@@ -20,6 +21,7 @@ DECL|function|store_write_section
 DECL|macro|MAXNAME
 DECL|macro|MAX_MATCHES
 DECL|member|baselen
+DECL|member|do_not_match
 DECL|member|key
 DECL|member|multi_replace
 DECL|member|offset
