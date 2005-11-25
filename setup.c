@@ -1,3 +1,5 @@
+DECL|function|check_repository_format
+DECL|function|check_repository_format_version
 DECL|function|get_pathspec
 DECL|function|is_toplevel_directory
 DECL|function|prefix_path
