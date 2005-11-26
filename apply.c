@@ -114,6 +114,8 @@ DECL|variable|minuses
 DECL|variable|no_add
 DECL|variable|numstat
 DECL|variable|pluses
+DECL|variable|prefix
+DECL|variable|prefix_length
 DECL|variable|show_index_info
 DECL|variable|summary
 DECL|variable|write_index
