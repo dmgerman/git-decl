@@ -12,7 +12,6 @@ DECL|function|path_ok
 DECL|function|remove_child
 DECL|function|serve
 DECL|function|service_loop
-DECL|function|set_dir
 DECL|function|socksetup
 DECL|function|socksetup
 DECL|function|upload
@@ -32,5 +31,6 @@ DECL|variable|live_child
 DECL|variable|log_syslog
 DECL|variable|max_connections
 DECL|variable|ok_paths
+DECL|variable|strict_paths
 DECL|variable|timeout
 DECL|variable|verbose

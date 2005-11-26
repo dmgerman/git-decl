@@ -9,8 +9,11 @@ DECL|function|get_ack
 DECL|function|get_protocol
 DECL|function|get_remote_heads
 DECL|function|git_connect
+DECL|function|git_proxy_command_options
+DECL|function|git_proxy_connect
 DECL|function|git_tcp_connect
 DECL|function|git_tcp_connect
+DECL|function|git_use_proxy
 DECL|function|link_dst_tail
 DECL|function|match_explicit_refs
 DECL|function|match_refs
@@ -24,4 +27,7 @@ DECL|member|dst
 DECL|member|force
 DECL|member|src
 DECL|struct|refspec
+DECL|variable|git_proxy_command
+DECL|variable|rhost_len
+DECL|variable|rhost_name
 DECL|variable|server_capabilities
