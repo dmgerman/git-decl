@@ -8,6 +8,7 @@ DECL|function|get_next_char
 DECL|function|get_value
 DECL|function|git_config
 DECL|function|git_config_bool
+DECL|function|git_config_from_file
 DECL|function|git_config_int
 DECL|function|git_config_set
 DECL|function|git_config_set_multivar
@@ -29,5 +30,6 @@ DECL|member|seen
 DECL|member|state
 DECL|member|value_regex
 DECL|variable|config_file
+DECL|variable|config_file_name
 DECL|variable|config_linenr
 DECL|variable|store
