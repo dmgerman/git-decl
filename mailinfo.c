@@ -48,7 +48,7 @@ DECL|variable|email
 DECL|variable|keep_subject
 DECL|variable|line
 DECL|variable|mailinfo_usage
-DECL|variable|metainfo_utf8
+DECL|variable|metainfo_charset
 DECL|variable|multipart_boundary
 DECL|variable|multipart_boundary_len
 DECL|variable|name
