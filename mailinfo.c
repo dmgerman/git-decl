@@ -31,7 +31,6 @@ DECL|function|main
 DECL|function|read_one_header_line
 DECL|function|sanity_check
 DECL|function|slurp_attr
-DECL|function|usage
 DECL|macro|SEEN_DATE
 DECL|macro|SEEN_FROM
 DECL|macro|SEEN_SUBJECT
