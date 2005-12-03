@@ -1,4 +1,5 @@
 DECL|function|add_child
+DECL|function|avoid_alias
 DECL|function|check_max_connections
 DECL|function|child_handler
 DECL|function|execute
