@@ -4,6 +4,7 @@ DECL|function|get_index_file
 DECL|function|get_object_directory
 DECL|function|get_refs_directory
 DECL|function|setup_git_env
+DECL|variable|git_commit_encoding
 DECL|variable|git_default_email
 DECL|variable|git_default_name
 DECL|variable|git_dir
@@ -12,4 +13,5 @@ DECL|variable|git_index_file
 DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
 DECL|variable|only_use_symrefs
+DECL|variable|repository_format_version
 DECL|variable|trust_executable_bit

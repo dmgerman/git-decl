@@ -31,7 +31,6 @@ DECL|function|main
 DECL|function|read_one_header_line
 DECL|function|sanity_check
 DECL|function|slurp_attr
-DECL|function|usage
 DECL|macro|SEEN_DATE
 DECL|macro|SEEN_FROM
 DECL|macro|SEEN_SUBJECT
@@ -48,7 +47,7 @@ DECL|variable|email
 DECL|variable|keep_subject
 DECL|variable|line
 DECL|variable|mailinfo_usage
-DECL|variable|metainfo_utf8
+DECL|variable|metainfo_charset
 DECL|variable|multipart_boundary
 DECL|variable|multipart_boundary_len
 DECL|variable|name

@@ -1,3 +1,4 @@
+DECL|macro|READ_TREE_RECURSIVE
 DECL|macro|TREE_H
 DECL|member|any
 DECL|member|blob
@@ -15,3 +16,4 @@ DECL|member|tree
 DECL|member|zeropad
 DECL|struct|tree
 DECL|struct|tree_entry_list
+DECL|typedef|read_tree_fn_t
