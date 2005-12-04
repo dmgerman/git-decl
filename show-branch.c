@@ -1,7 +1,10 @@
 DECL|function|append_head_ref
+DECL|function|append_matching_ref
+DECL|function|append_one_rev
 DECL|function|append_ref
 DECL|function|append_tag_ref
 DECL|function|compare_ref_name
+DECL|function|count_slash
 DECL|function|interesting
 DECL|function|join_revs
 DECL|function|main
@@ -23,6 +26,8 @@ DECL|macro|UNINTERESTING
 DECL|member|generation
 DECL|member|head_name
 DECL|struct|commit_name
+DECL|variable|match_ref_pattern
+DECL|variable|match_ref_slash
 DECL|variable|ref_name
 DECL|variable|ref_name_cnt
 DECL|variable|show_branch_usage
