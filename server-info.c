@@ -7,7 +7,6 @@ DECL|function|find_pack_info
 DECL|function|find_pack_info_one
 DECL|function|get_latest_commit_date
 DECL|function|init_pack_info
-DECL|function|parse_depend_def
 DECL|function|parse_head_def
 DECL|function|parse_object_cheap
 DECL|function|parse_pack_def
@@ -18,9 +17,7 @@ DECL|function|update_info_refs
 DECL|function|update_server_info
 DECL|function|write_pack_info_file
 DECL|macro|EMITTED
-DECL|macro|INTERNAL
 DECL|macro|REFERENCED
-DECL|member|dep
 DECL|member|head
 DECL|member|latest
 DECL|member|new_num
