@@ -1,4 +1,5 @@
 DECL|function|add_cmdname
+DECL|function|cmd_usage
 DECL|function|cmdname_compare
 DECL|function|list_commands
 DECL|function|main
@@ -8,7 +9,6 @@ DECL|function|prepend_to_path
 DECL|function|pretty_print_string_list
 DECL|function|show_man_page
 DECL|function|term_columns
-DECL|function|usage
 DECL|macro|PATH_MAX
 DECL|member|len
 DECL|member|name
