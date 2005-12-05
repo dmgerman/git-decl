@@ -1,9 +1,7 @@
 DECL|function|add_info_ref
 DECL|function|compare_info
 DECL|function|find_pack_by_name
-DECL|function|find_pack_by_old_num
 DECL|function|init_pack_info
-DECL|function|parse_object_cheap
 DECL|function|parse_pack_def
 DECL|function|read_pack_info_file
 DECL|function|update_info_packs
