@@ -5,7 +5,6 @@ DECL|function|find_pack_by_name
 DECL|function|find_pack_by_old_num
 DECL|function|find_pack_info
 DECL|function|find_pack_info_one
-DECL|function|get_latest_commit_date
 DECL|function|init_pack_info
 DECL|function|parse_head_def
 DECL|function|parse_object_cheap
@@ -19,7 +18,6 @@ DECL|function|write_pack_info_file
 DECL|macro|EMITTED
 DECL|macro|REFERENCED
 DECL|member|head
-DECL|member|latest
 DECL|member|new_num
 DECL|member|nr_alloc
 DECL|member|nr_heads
