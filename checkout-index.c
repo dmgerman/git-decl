@@ -3,6 +3,7 @@ DECL|function|checkout_file
 DECL|function|main
 DECL|variable|cache_file
 DECL|variable|checkout_cache_usage
+DECL|variable|checkout_stage
 DECL|variable|prefix
 DECL|variable|prefix_length
 DECL|variable|state

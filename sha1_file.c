@@ -14,6 +14,7 @@ DECL|function|has_sha1_pack
 DECL|function|hexval
 DECL|function|index_fd
 DECL|function|index_path
+DECL|function|index_pipe
 DECL|function|install_packed_git
 DECL|function|link_alt_odb_entries
 DECL|function|link_temp_to_file

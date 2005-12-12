@@ -10,7 +10,6 @@ DECL|member|mode
 DECL|member|name
 DECL|member|next
 DECL|member|object
-DECL|member|parent
 DECL|member|symlink
 DECL|member|tree
 DECL|member|zeropad
