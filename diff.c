@@ -23,6 +23,7 @@ DECL|function|diff_resolve_rename_copy
 DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_setup_done
+DECL|function|diff_unique_abbrev
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
 DECL|function|diffcore_apply_filter
