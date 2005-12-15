@@ -1,6 +1,7 @@
 DECL|enumerator|TE_BASE64
 DECL|enumerator|TE_DONTCARE
 DECL|enumerator|TE_QP
+DECL|function|bogus_from
 DECL|function|check_header
 DECL|function|check_header_line
 DECL|function|check_subheader_line
