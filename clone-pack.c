@@ -1,7 +1,5 @@
 DECL|function|clone_handshake
 DECL|function|clone_pack
-DECL|function|clone_without_unpack
-DECL|function|finish_pack
 DECL|function|is_master
 DECL|function|main
 DECL|function|write_one_ref
