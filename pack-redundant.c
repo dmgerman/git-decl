@@ -2,8 +2,8 @@ DECL|function|add_pack
 DECL|function|add_pack_file
 DECL|function|cmp_local_packs
 DECL|function|cmp_two_packs
-DECL|function|get_all_permutations
 DECL|function|get_pack_redundancy
+DECL|function|get_permutations
 DECL|function|is_superset
 DECL|function|llist_copy
 DECL|function|llist_free
@@ -23,9 +23,10 @@ DECL|function|pack_list_difference
 DECL|function|pack_list_insert
 DECL|function|pack_list_size
 DECL|function|pack_set_bytecount
-DECL|function|pll_insert
+DECL|function|pll_free
 DECL|function|scan_alt_odb_packs
 DECL|function|sizeof_union
+DECL|macro|BLKSIZE
 DECL|member|all_objects
 DECL|member|back
 DECL|member|front
@@ -34,7 +35,6 @@ DECL|member|next
 DECL|member|next
 DECL|member|pack
 DECL|member|pl
-DECL|member|pl_size
 DECL|member|sha1
 DECL|member|size
 DECL|member|unique_objects
