@@ -7,6 +7,7 @@ DECL|function|ce_compare_link
 DECL|function|ce_flush
 DECL|function|ce_match_stat
 DECL|function|ce_modified
+DECL|function|ce_modified_check_fs
 DECL|function|ce_path_match
 DECL|function|ce_same_name
 DECL|function|ce_write
@@ -24,5 +25,6 @@ DECL|variable|active_alloc
 DECL|variable|active_cache
 DECL|variable|active_cache_changed
 DECL|variable|active_nr
+DECL|variable|index_file_timestamp
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len
