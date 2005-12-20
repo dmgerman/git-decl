@@ -1,7 +1,9 @@
 DECL|function|sane_case
 DECL|function|xcalloc
 DECL|function|xmalloc
+DECL|function|xread
 DECL|function|xrealloc
+DECL|function|xwrite
 DECL|macro|GIT_ALPHA
 DECL|macro|GIT_COMPAT_UTIL_H
 DECL|macro|GIT_DIGIT
