@@ -1,5 +1,4 @@
 DECL|function|call_diff_flush
-DECL|function|call_diff_setup_done
 DECL|function|diff_root_tree
 DECL|function|diff_tree_commit
 DECL|function|diff_tree_sha1_top
