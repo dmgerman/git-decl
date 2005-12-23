@@ -21,6 +21,7 @@ DECL|member|address
 DECL|member|addrlen
 DECL|member|pid
 DECL|struct|child
+DECL|variable|base_path
 DECL|variable|children_deleted
 DECL|variable|children_reaped
 DECL|variable|children_spawned
