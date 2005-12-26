@@ -5,6 +5,7 @@ DECL|function|is_zero_sha1
 DECL|function|main
 DECL|function|one_local_ref
 DECL|function|pack_objects
+DECL|function|receive_status
 DECL|function|ref_newer
 DECL|function|rev_list
 DECL|function|send_pack
