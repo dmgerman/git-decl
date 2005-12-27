@@ -4,12 +4,15 @@ DECL|function|describe
 DECL|function|get_name
 DECL|function|main
 DECL|function|match
+DECL|macro|DEFAULT_ABBREV
 DECL|macro|SEEN
 DECL|member|commit
 DECL|member|path
 DECL|struct|commit_name
+DECL|variable|abbrev
 DECL|variable|all
 DECL|variable|allocs
 DECL|variable|describe_usage
 DECL|variable|name_array
 DECL|variable|names
+DECL|variable|tags
