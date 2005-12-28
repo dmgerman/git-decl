@@ -8,6 +8,7 @@ DECL|macro|DEFAULT_ABBREV
 DECL|macro|SEEN
 DECL|member|commit
 DECL|member|path
+DECL|member|prio
 DECL|struct|commit_name
 DECL|variable|abbrev
 DECL|variable|all
