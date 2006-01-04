@@ -3,6 +3,7 @@ DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_1
 DECL|function|add_name
 DECL|function|cmp_name
+DECL|function|dir_exists
 DECL|function|excluded
 DECL|function|excluded_1
 DECL|function|main
@@ -47,6 +48,7 @@ DECL|variable|show_deleted
 DECL|variable|show_ignored
 DECL|variable|show_killed
 DECL|variable|show_modified
+DECL|variable|show_other_directories
 DECL|variable|show_others
 DECL|variable|show_stage
 DECL|variable|show_unmerged
