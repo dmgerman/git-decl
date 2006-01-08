@@ -1,6 +1,7 @@
 DECL|function|add_parent_info
 DECL|function|add_user_info
 DECL|function|check_commit
+DECL|function|clear_commit_marks
 DECL|function|commit_graft_pos
 DECL|function|commit_list_insert
 DECL|function|count_parents
