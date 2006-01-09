@@ -6,6 +6,7 @@ DECL|function|append_tag_ref
 DECL|function|compare_ref_name
 DECL|function|count_slash
 DECL|function|find_digit_prefix
+DECL|function|git_show_branch_config
 DECL|function|interesting
 DECL|function|join_revs
 DECL|function|main
@@ -28,6 +29,9 @@ DECL|macro|UNINTERESTING
 DECL|member|generation
 DECL|member|head_name
 DECL|struct|commit_name
+DECL|variable|default_alloc
+DECL|variable|default_arg
+DECL|variable|default_num
 DECL|variable|match_ref_pattern
 DECL|variable|match_ref_slash
 DECL|variable|ref_name
