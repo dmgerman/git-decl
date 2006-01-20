@@ -16,8 +16,12 @@ DECL|function|objerror
 DECL|function|objreport
 DECL|function|objwarning
 DECL|function|verify_ordered
+DECL|macro|DIRENT_SORT_HINT
+DECL|macro|DIRENT_SORT_HINT
 DECL|macro|MAX_SHA1_ENTRIES
 DECL|macro|REACHABLE
+DECL|macro|SORT_DIRENT
+DECL|macro|SORT_DIRENT
 DECL|macro|TREE_HAS_DUPS
 DECL|macro|TREE_UNORDERED
 DECL|member|entry
