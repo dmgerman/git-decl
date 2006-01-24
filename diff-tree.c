@@ -7,6 +7,7 @@ DECL|function|generate_header
 DECL|function|main
 DECL|variable|combine_merges
 DECL|variable|commit_format
+DECL|variable|dense_combined_merges
 DECL|variable|diff_options
 DECL|variable|diff_tree_usage
 DECL|variable|header
