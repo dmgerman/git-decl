@@ -35,3 +35,4 @@ DECL|macro|tolower
 DECL|macro|tolower
 DECL|macro|toupper
 DECL|macro|toupper
+DECL|macro|unsetenv
