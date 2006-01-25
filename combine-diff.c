@@ -5,7 +5,8 @@ DECL|function|dump_sline
 DECL|function|grab_blob
 DECL|function|interesting
 DECL|function|intersect_paths
-DECL|function|line_diff_parents
+DECL|function|line_all_diff
+DECL|function|line_common_diff
 DECL|function|make_hunks
 DECL|function|parse_hunk_header
 DECL|function|parse_num
