@@ -1,13 +1,16 @@
+DECL|function|adjust_hunk_tail
 DECL|function|append_lost
 DECL|function|combine_diff
 DECL|function|diff_tree_combined_merge
 DECL|function|dump_sline
+DECL|function|give_context
 DECL|function|grab_blob
 DECL|function|interesting
 DECL|function|intersect_paths
 DECL|function|line_all_diff
 DECL|function|line_common_diff
 DECL|function|make_hunks
+DECL|function|next_interesting
 DECL|function|parse_hunk_header
 DECL|function|parse_num
 DECL|function|show_combined_diff
