@@ -33,9 +33,13 @@ DECL|member|detect_rename
 DECL|member|filter
 DECL|member|find_copies_harder
 DECL|member|full_index
+DECL|member|len
 DECL|member|line_termination
+DECL|member|next
 DECL|member|orderfile
 DECL|member|output_format
+DECL|member|parent_sha1
+DECL|member|path
 DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
@@ -44,8 +48,10 @@ DECL|member|rename_limit
 DECL|member|rename_score
 DECL|member|reverse_diff
 DECL|member|setup
+DECL|member|sha1
 DECL|member|size
 DECL|member|tree_in_recursive
+DECL|struct|combine_diff_path
 DECL|struct|diff_options
 DECL|struct|tree_desc
 DECL|typedef|add_remove_fn_t
