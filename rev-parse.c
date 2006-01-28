@@ -13,6 +13,7 @@ DECL|macro|DO_NOREV
 DECL|macro|DO_REVS
 DECL|macro|NORMAL
 DECL|macro|REVERSED
+DECL|variable|abbrev
 DECL|variable|def
 DECL|variable|filter
 DECL|variable|output_sq

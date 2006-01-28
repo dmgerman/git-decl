@@ -4,7 +4,6 @@ DECL|function|describe
 DECL|function|get_name
 DECL|function|main
 DECL|function|match
-DECL|macro|DEFAULT_ABBREV
 DECL|macro|SEEN
 DECL|member|commit
 DECL|member|path

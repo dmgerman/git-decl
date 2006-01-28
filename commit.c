@@ -1,4 +1,4 @@
-DECL|function|add_parent_info
+DECL|function|add_merge_info
 DECL|function|add_user_info
 DECL|function|check_commit
 DECL|function|clear_commit_marks
