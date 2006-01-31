@@ -113,6 +113,7 @@ DECL|variable|max_len
 DECL|variable|minuses
 DECL|variable|no_add
 DECL|variable|numstat
+DECL|variable|p_value
 DECL|variable|pluses
 DECL|variable|prefix
 DECL|variable|prefix_length
