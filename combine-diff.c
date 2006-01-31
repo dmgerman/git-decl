@@ -13,6 +13,7 @@ DECL|function|parse_hunk_header
 DECL|function|parse_num
 DECL|function|reuse_combine_diff
 DECL|function|show_combined_diff
+DECL|function|show_parent_lno
 DECL|function|uninteresting
 DECL|function|write_temp_blob
 DECL|function|write_to_temp_file
@@ -26,6 +27,7 @@ DECL|member|line
 DECL|member|lost_head
 DECL|member|lost_tail
 DECL|member|next
+DECL|member|p_lno
 DECL|member|parent_map
 DECL|struct|lline
 DECL|struct|sline
