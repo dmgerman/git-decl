@@ -7,8 +7,6 @@ DECL|function|give_context
 DECL|function|grab_blob
 DECL|function|interesting
 DECL|function|intersect_paths
-DECL|function|line_all_diff
-DECL|function|line_common_diff
 DECL|function|make_hunks
 DECL|function|next_interesting
 DECL|function|parse_hunk_header
