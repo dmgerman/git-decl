@@ -3,12 +3,12 @@ DECL|function|append_lost
 DECL|function|combine_diff
 DECL|function|diff_tree_combined_merge
 DECL|function|dump_sline
+DECL|function|find_next
 DECL|function|give_context
 DECL|function|grab_blob
 DECL|function|interesting
 DECL|function|intersect_paths
 DECL|function|make_hunks
-DECL|function|next_interesting
 DECL|function|parse_hunk_header
 DECL|function|parse_num
 DECL|function|reuse_combine_diff
