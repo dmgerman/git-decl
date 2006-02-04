@@ -1,4 +1,3 @@
-DECL|function|adler32
 DECL|function|cha_alloc
 DECL|function|cha_free
 DECL|function|cha_init
@@ -6,18 +5,11 @@ DECL|function|delta_cleanup
 DECL|function|delta_prepare
 DECL|function|diff_delta
 DECL|function|hashbits
-DECL|macro|BASE
 DECL|macro|BLK_SIZE
 DECL|macro|COPYOP_SIZE
-DECL|macro|DO1
-DECL|macro|DO16
-DECL|macro|DO2
-DECL|macro|DO4
-DECL|macro|DO8
 DECL|macro|GR_PRIME
 DECL|macro|HASH
 DECL|macro|MIN
-DECL|macro|NMAX
 DECL|member|ancur
 DECL|member|cha
 DECL|member|fp
