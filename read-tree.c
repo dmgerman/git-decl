@@ -18,6 +18,7 @@ DECL|function|unpack_trees_rec
 DECL|function|verify_uptodate
 DECL|macro|DBRT_DEBUG
 DECL|typedef|merge_fn_t
+DECL|variable|aggressive
 DECL|variable|cache_file
 DECL|variable|df_conflict_entry
 DECL|variable|df_conflict_list
