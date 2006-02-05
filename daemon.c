@@ -37,4 +37,5 @@ DECL|variable|ok_paths
 DECL|variable|reuseaddr
 DECL|variable|strict_paths
 DECL|variable|timeout
+DECL|variable|user_path
 DECL|variable|verbose
