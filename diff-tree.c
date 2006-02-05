@@ -5,6 +5,7 @@ DECL|function|diff_tree_sha1_top
 DECL|function|diff_tree_stdin
 DECL|function|generate_header
 DECL|function|main
+DECL|variable|always_show_header
 DECL|variable|combine_merges
 DECL|variable|commit_format
 DECL|variable|dense_combined_merges
