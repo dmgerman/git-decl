@@ -16,6 +16,5 @@ DECL|variable|header_prefix
 DECL|variable|ignore_merges
 DECL|variable|no_commit_id
 DECL|variable|read_stdin
-DECL|variable|show_empty_combined
 DECL|variable|show_root_diff
 DECL|variable|verbose_header
