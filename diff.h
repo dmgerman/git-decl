@@ -22,6 +22,7 @@ DECL|macro|DIFF_STATUS_RENAMED
 DECL|macro|DIFF_STATUS_TYPE_CHANGED
 DECL|macro|DIFF_STATUS_UNKNOWN
 DECL|macro|DIFF_STATUS_UNMERGED
+DECL|macro|combine_diff_path_size
 DECL|member|abbrev
 DECL|member|add_remove
 DECL|member|break_opt
@@ -33,10 +34,12 @@ DECL|member|find_copies_harder
 DECL|member|full_index
 DECL|member|len
 DECL|member|line_termination
+DECL|member|mode
+DECL|member|mode
 DECL|member|next
 DECL|member|orderfile
 DECL|member|output_format
-DECL|member|parent_sha1
+DECL|member|parent
 DECL|member|path
 DECL|member|paths
 DECL|member|pickaxe
@@ -47,8 +50,10 @@ DECL|member|rename_score
 DECL|member|reverse_diff
 DECL|member|setup
 DECL|member|sha1
+DECL|member|sha1
 DECL|member|size
 DECL|member|tree_in_recursive
+DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path
 DECL|struct|diff_options
 DECL|struct|tree_desc
