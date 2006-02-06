@@ -1,6 +1,7 @@
 DECL|function|call_diff_flush
 DECL|function|diff_root_tree
 DECL|function|diff_tree_commit
+DECL|function|diff_tree_commit_sha1
 DECL|function|diff_tree_sha1_top
 DECL|function|diff_tree_stdin
 DECL|function|generate_header
