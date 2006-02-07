@@ -1,3 +1,4 @@
+DECL|function|closedown_active_slot
 DECL|function|finish_active_slot
 DECL|function|finish_all_active_slots
 DECL|function|fread_buffer
@@ -9,6 +10,7 @@ DECL|function|http_cleanup
 DECL|function|http_init
 DECL|function|http_options
 DECL|function|process_curl_messages
+DECL|function|release_active_slot
 DECL|function|run_active_slot
 DECL|function|start_active_slot
 DECL|function|step_active_slots

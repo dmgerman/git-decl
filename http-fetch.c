@@ -3,6 +3,7 @@ DECL|enumerator|ACTIVE
 DECL|enumerator|COMPLETE
 DECL|enumerator|WAITING
 DECL|enum|object_request_state
+DECL|function|abort_object_request
 DECL|function|fetch
 DECL|function|fetch_alternates
 DECL|function|fetch_index
