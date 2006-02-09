@@ -14,9 +14,11 @@ DECL|function|parse_num
 DECL|function|reuse_combine_diff
 DECL|function|show_combined_diff
 DECL|function|show_parent_lno
+DECL|function|show_raw_diff
 DECL|function|uninteresting
 DECL|function|write_temp_blob
 DECL|function|write_to_temp_file
+DECL|macro|COLONS
 DECL|macro|MAXLINELEN
 DECL|macro|TMPPATHLEN
 DECL|member|bol
