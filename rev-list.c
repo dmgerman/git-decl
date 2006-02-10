@@ -37,6 +37,7 @@ DECL|macro|TREECHANGE
 DECL|macro|TREE_DIFFERENT
 DECL|macro|TREE_NEW
 DECL|macro|TREE_SAME
+DECL|variable|abbrev
 DECL|variable|bisect_list
 DECL|variable|blob_objects
 DECL|variable|commit_format
