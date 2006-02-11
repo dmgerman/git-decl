@@ -6,3 +6,4 @@ DECL|function|write_one_ref
 DECL|function|write_refs
 DECL|variable|clone_pack_usage
 DECL|variable|exec
+DECL|variable|quiet
