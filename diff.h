@@ -52,6 +52,7 @@ DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|size
+DECL|member|status
 DECL|member|tree_in_recursive
 DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path
