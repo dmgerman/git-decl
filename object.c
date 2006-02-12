@@ -2,6 +2,7 @@ DECL|function|alloc_object_refs
 DECL|function|compare_object_pointers
 DECL|function|created_object
 DECL|function|find_object
+DECL|function|hashtable_index
 DECL|function|lookup_object
 DECL|function|lookup_object_type
 DECL|function|lookup_unknown_object
