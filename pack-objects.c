@@ -40,5 +40,6 @@ DECL|variable|object_list_sha1
 DECL|variable|objects
 DECL|variable|pack_file_sha1
 DECL|variable|pack_usage
+DECL|variable|progress
 DECL|variable|sorted_by_sha
 DECL|variable|sorted_by_type
