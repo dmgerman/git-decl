@@ -1,3 +1,6 @@
+DECL|enumerator|T_BOOL
+DECL|enumerator|T_INT
+DECL|enumerator|T_RAW
 DECL|function|get_value
 DECL|function|main
 DECL|function|show_config
@@ -7,4 +10,5 @@ DECL|variable|git_config_set_usage
 DECL|variable|key
 DECL|variable|regexp
 DECL|variable|seen
+DECL|variable|type
 DECL|variable|value
