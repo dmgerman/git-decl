@@ -52,6 +52,7 @@ DECL|variable|show_other_directories
 DECL|variable|show_others
 DECL|variable|show_stage
 DECL|variable|show_unmerged
+DECL|variable|show_valid_bit
 DECL|variable|tag_cached
 DECL|variable|tag_killed
 DECL|variable|tag_modified
