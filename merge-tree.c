@@ -7,6 +7,7 @@ DECL|function|main
 DECL|function|merge_trees
 DECL|function|resolve
 DECL|function|same_entry
+DECL|function|sha1_to_hex_zero
 DECL|function|unresolved
 DECL|function|unresolved_directory
 DECL|member|mode
