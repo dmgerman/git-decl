@@ -34,6 +34,7 @@ DECL|struct|exclude_list
 DECL|struct|nond_on_fs
 DECL|variable|dir
 DECL|variable|dir_alloc
+DECL|variable|error_unmatch
 DECL|variable|exclude_list
 DECL|variable|exclude_per_dir
 DECL|variable|line_terminator
@@ -43,6 +44,7 @@ DECL|variable|pathspec
 DECL|variable|prefix
 DECL|variable|prefix_len
 DECL|variable|prefix_offset
+DECL|variable|ps_matched
 DECL|variable|show_cached
 DECL|variable|show_deleted
 DECL|variable|show_ignored
