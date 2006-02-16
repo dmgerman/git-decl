@@ -28,6 +28,7 @@ DECL|member|data
 DECL|member|delta
 DECL|member|delta_size
 DECL|member|depth
+DECL|member|edge
 DECL|member|entry
 DECL|member|hash
 DECL|member|in_pack
@@ -47,6 +48,7 @@ DECL|variable|base_name
 DECL|variable|current_sort
 DECL|variable|incremental
 DECL|variable|local
+DECL|variable|no_reuse_delta
 DECL|variable|non_empty
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
@@ -60,6 +62,8 @@ DECL|variable|pack_revindex_hashsz
 DECL|variable|pack_usage
 DECL|variable|progress
 DECL|variable|reused
+DECL|variable|reused_delta
 DECL|variable|sorted_by_sha
 DECL|variable|sorted_by_type
 DECL|variable|written
+DECL|variable|written_delta
