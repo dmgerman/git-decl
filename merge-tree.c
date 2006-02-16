@@ -8,6 +8,8 @@ DECL|function|merge_trees
 DECL|function|resolve
 DECL|function|same_entry
 DECL|function|sha1_to_hex_zero
+DECL|function|threeway_callback
+DECL|function|traverse_trees
 DECL|function|unresolved
 DECL|function|unresolved_directory
 DECL|member|mode
@@ -15,5 +17,6 @@ DECL|member|path
 DECL|member|pathlen
 DECL|member|sha1
 DECL|struct|name_entry
+DECL|typedef|traverse_callback_t
 DECL|variable|merge_tree_usage
 DECL|variable|resolve_directories
