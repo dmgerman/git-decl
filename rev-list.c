@@ -46,6 +46,7 @@ DECL|variable|dense
 DECL|variable|diff_opt
 DECL|variable|global_lst
 DECL|variable|hdr_termination
+DECL|variable|lifo
 DECL|variable|max_age
 DECL|variable|max_count
 DECL|variable|merge_order
