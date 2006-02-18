@@ -1,4 +1,5 @@
 DECL|function|add_object_entry
+DECL|function|check_delta_limit
 DECL|function|check_object
 DECL|function|cmp_offset
 DECL|function|create_sorted_list
@@ -26,9 +27,11 @@ DECL|function|write_one
 DECL|function|write_pack_file
 DECL|member|data
 DECL|member|delta
+DECL|member|delta_child
+DECL|member|delta_limit
+DECL|member|delta_sibling
 DECL|member|delta_size
 DECL|member|depth
-DECL|member|edge
 DECL|member|entry
 DECL|member|hash
 DECL|member|in_pack
