@@ -6,4 +6,7 @@ DECL|function|get_ident
 DECL|function|git_author_info
 DECL|function|git_committer_info
 DECL|function|setup_ident
+DECL|variable|au_env
+DECL|variable|co_env
+DECL|variable|env_hint
 DECL|variable|git_default_date
