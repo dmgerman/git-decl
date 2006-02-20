@@ -20,3 +20,4 @@ DECL|variable|nr_needs
 DECL|variable|nr_our_refs
 DECL|variable|timeout
 DECL|variable|upload_pack_usage
+DECL|variable|use_thin_pack
