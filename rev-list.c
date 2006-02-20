@@ -16,6 +16,7 @@ DECL|function|include_one_commit
 DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_blob_uninteresting
+DECL|function|mark_edge_parents_uninteresting
 DECL|function|mark_edges_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
@@ -44,6 +45,7 @@ DECL|variable|commit_format
 DECL|variable|commit_prefix
 DECL|variable|dense
 DECL|variable|diff_opt
+DECL|variable|edge_hint
 DECL|variable|global_lst
 DECL|variable|hdr_termination
 DECL|variable|lifo
