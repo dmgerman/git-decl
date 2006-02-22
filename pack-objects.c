@@ -16,6 +16,7 @@ DECL|function|pack_revindex_ix
 DECL|function|prepare_pack
 DECL|function|prepare_pack_ix
 DECL|function|prepare_pack_revindex
+DECL|function|progress_interval
 DECL|function|reuse_cached_pack
 DECL|function|sha1_sort
 DECL|function|sort_comparator
@@ -64,6 +65,7 @@ DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz
 DECL|variable|pack_usage
 DECL|variable|progress
+DECL|variable|progress_update
 DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|sorted_by_sha
