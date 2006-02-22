@@ -9,6 +9,7 @@ DECL|macro|BLK_SIZE
 DECL|macro|COPYOP_SIZE
 DECL|macro|GR_PRIME
 DECL|macro|HASH
+DECL|macro|MAX_OP_SIZE
 DECL|macro|MIN
 DECL|member|ancur
 DECL|member|cha
