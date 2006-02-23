@@ -14,6 +14,7 @@ DECL|function|get_object_details
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
 DECL|function|main
+DECL|function|name_hash
 DECL|function|pack_revindex_ix
 DECL|function|prepare_pack
 DECL|function|prepare_pack_ix
@@ -36,11 +37,13 @@ DECL|member|delta_limit
 DECL|member|delta_sibling
 DECL|member|delta_size
 DECL|member|depth
+DECL|member|elem
 DECL|member|entry
 DECL|member|hash
 DECL|member|in_pack
 DECL|member|in_pack_offset
 DECL|member|in_pack_type
+DECL|member|len
 DECL|member|offset
 DECL|member|p
 DECL|member|preferred_base
@@ -48,6 +51,8 @@ DECL|member|revindex
 DECL|member|sha1
 DECL|member|size
 DECL|member|type
+DECL|member|up
+DECL|struct|name_path
 DECL|struct|object_entry
 DECL|struct|pack_revindex
 DECL|struct|unpacked
