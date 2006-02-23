@@ -20,6 +20,7 @@ DECL|function|mark_edge_parents_uninteresting
 DECL|function|mark_edges_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
+DECL|function|path_name
 DECL|function|process_blob
 DECL|function|process_commit
 DECL|function|process_tree
@@ -38,6 +39,10 @@ DECL|macro|TREECHANGE
 DECL|macro|TREE_DIFFERENT
 DECL|macro|TREE_NEW
 DECL|macro|TREE_SAME
+DECL|member|elem
+DECL|member|elem_len
+DECL|member|up
+DECL|struct|name_path
 DECL|variable|abbrev
 DECL|variable|bisect_list
 DECL|variable|blob_objects
