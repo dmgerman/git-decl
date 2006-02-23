@@ -6,6 +6,7 @@ DECL|function|list_tree
 DECL|function|main
 DECL|function|merged_entry
 DECL|function|oneway_merge
+DECL|function|progress_interval
 DECL|function|read_cache_unmerged
 DECL|function|reject_merge
 DECL|function|same
@@ -27,7 +28,9 @@ DECL|variable|index_only
 DECL|variable|merge
 DECL|variable|merge_size
 DECL|variable|nontrivial_merge
+DECL|variable|progress_update
 DECL|variable|read_tree_usage
 DECL|variable|trees
 DECL|variable|trivial_merges_only
 DECL|variable|update
+DECL|variable|verbose_update
