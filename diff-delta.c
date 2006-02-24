@@ -1,7 +1,12 @@
 DECL|function|delta_index
 DECL|function|diff_delta
+DECL|macro|BLK_SIZE
 DECL|macro|COPYOP_SIZE
+DECL|macro|GR_PRIME
+DECL|macro|HASH
 DECL|macro|MAX_OP_SIZE
+DECL|macro|MIN
 DECL|member|next
 DECL|member|ptr
+DECL|member|val
 DECL|struct|index
