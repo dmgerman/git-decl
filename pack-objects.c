@@ -29,6 +29,7 @@ DECL|function|write_index_file
 DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
+DECL|macro|DIRBITS
 DECL|member|based_on_preferred
 DECL|member|data
 DECL|member|delta
