@@ -16,9 +16,11 @@ DECL|function|include_one_commit
 DECL|function|limit_list
 DECL|function|main
 DECL|function|mark_blob_uninteresting
+DECL|function|mark_edge_parents_uninteresting
 DECL|function|mark_edges_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
+DECL|function|path_name
 DECL|function|process_blob
 DECL|function|process_commit
 DECL|function|process_tree
@@ -37,6 +39,10 @@ DECL|macro|TREECHANGE
 DECL|macro|TREE_DIFFERENT
 DECL|macro|TREE_NEW
 DECL|macro|TREE_SAME
+DECL|member|elem
+DECL|member|elem_len
+DECL|member|up
+DECL|struct|name_path
 DECL|variable|abbrev
 DECL|variable|bisect_list
 DECL|variable|blob_objects
@@ -44,6 +50,7 @@ DECL|variable|commit_format
 DECL|variable|commit_prefix
 DECL|variable|dense
 DECL|variable|diff_opt
+DECL|variable|edge_hint
 DECL|variable|global_lst
 DECL|variable|hdr_termination
 DECL|variable|lifo
