@@ -1,3 +1,7 @@
+DECL|enumerator|error_on_whitespace
+DECL|enumerator|nowarn
+DECL|enumerator|warn_on_whitespace
+DECL|enum|whitespace_eol
 DECL|function|add_index_file
 DECL|function|apply_data
 DECL|function|apply_fragments
@@ -110,6 +114,7 @@ DECL|variable|linenr
 DECL|variable|max_change
 DECL|variable|max_len
 DECL|variable|minuses
+DECL|variable|new_whitespace
 DECL|variable|no_add
 DECL|variable|numstat
 DECL|variable|p_value
