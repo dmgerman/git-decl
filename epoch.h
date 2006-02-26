@@ -5,6 +5,5 @@ DECL|macro|DO
 DECL|macro|EPOCH_H
 DECL|macro|LAST_EPOCH_FLAG
 DECL|macro|STOP
-DECL|macro|UNINTERESTING
 DECL|macro|VISITED
 DECL|typedef|emitter_func
