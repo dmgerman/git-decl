@@ -44,6 +44,7 @@ DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
 DECL|function|run_diff
 DECL|function|run_external_diff
+DECL|function|spawn_prog
 DECL|function|work_tree_matches
 DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|hex
