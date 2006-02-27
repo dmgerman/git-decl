@@ -35,7 +35,6 @@ DECL|variable|diff_opt
 DECL|variable|hdr_termination
 DECL|variable|merge_order
 DECL|variable|no_merges
-DECL|variable|pending_objects
 DECL|variable|rev_list_usage
 DECL|variable|revs
 DECL|variable|show_breaks
