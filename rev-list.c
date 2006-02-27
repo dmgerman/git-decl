@@ -41,5 +41,4 @@ DECL|variable|show_breaks
 DECL|variable|show_parents
 DECL|variable|stop_traversal
 DECL|variable|tree_difference
-DECL|variable|unpacked
 DECL|variable|verbose_header
