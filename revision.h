@@ -8,6 +8,7 @@ DECL|member|edge_hint
 DECL|member|elem
 DECL|member|elem_len
 DECL|member|lifo
+DECL|member|limited
 DECL|member|max_age
 DECL|member|max_count
 DECL|member|min_age
@@ -18,6 +19,7 @@ DECL|member|remove_empty_trees
 DECL|member|tag_objects
 DECL|member|topo_order
 DECL|member|tree_objects
+DECL|member|unpacked
 DECL|member|up
 DECL|struct|name_path
 DECL|struct|rev_info
