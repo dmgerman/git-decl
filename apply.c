@@ -1,6 +1,6 @@
 DECL|enumerator|error_on_whitespace
-DECL|enumerator|nowarn
-DECL|enumerator|strip_and_apply
+DECL|enumerator|nowarn_whitespace
+DECL|enumerator|strip_whitespace
 DECL|enumerator|warn_on_whitespace
 DECL|enum|whitespace_eol
 DECL|function|add_index_file
@@ -16,6 +16,7 @@ DECL|function|create_one_file
 DECL|function|find_header
 DECL|function|find_name
 DECL|function|find_offset
+DECL|function|git_apply_config
 DECL|function|git_header_name
 DECL|function|gitdiff_copydst
 DECL|function|gitdiff_copysrc
@@ -48,6 +49,7 @@ DECL|function|parse_num
 DECL|function|parse_range
 DECL|function|parse_single_patch
 DECL|function|parse_traditional_patch
+DECL|function|parse_whitespace_option
 DECL|function|patch_stats
 DECL|function|read_old_data
 DECL|function|read_patch_file
@@ -104,6 +106,7 @@ DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
 DECL|variable|allow_binary_replacement
+DECL|variable|applied_after_stripping
 DECL|variable|apply
 DECL|variable|apply_usage
 DECL|variable|cache_file
@@ -125,6 +128,7 @@ DECL|variable|pluses
 DECL|variable|prefix
 DECL|variable|prefix_length
 DECL|variable|show_index_info
+DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
 DECL|variable|whitespace_error
 DECL|variable|write_index
