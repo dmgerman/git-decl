@@ -1,9 +1,0 @@
-DECL|macro|BOUNDARY
-DECL|macro|CONTINUE
-DECL|macro|DISCONTINUITY
-DECL|macro|DO
-DECL|macro|EPOCH_H
-DECL|macro|LAST_EPOCH_FLAG
-DECL|macro|STOP
-DECL|macro|VISITED
-DECL|typedef|emitter_func

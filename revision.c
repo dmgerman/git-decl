@@ -16,6 +16,8 @@ DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
 DECL|function|path_name
 DECL|function|prepare_revision_walk
+DECL|function|rewrite_one
+DECL|function|rewrite_parents
 DECL|function|same_tree_as_empty
 DECL|function|setup_revisions
 DECL|function|try_to_simplify_commit
