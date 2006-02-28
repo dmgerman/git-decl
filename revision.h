@@ -1,5 +1,6 @@
 DECL|macro|REVISION_H
 DECL|macro|SEEN
+DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
 DECL|member|blob_objects
 DECL|member|commits
