@@ -35,6 +35,7 @@ DECL|member|based_on_preferred
 DECL|member|data
 DECL|member|delta
 DECL|member|delta_child
+DECL|member|delta_index
 DECL|member|delta_limit
 DECL|member|delta_sibling
 DECL|member|delta_size
