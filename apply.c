@@ -54,6 +54,7 @@ DECL|function|patch_stats
 DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|remove_file
+DECL|function|set_default_whitespace_mode
 DECL|function|show_file_mode_name
 DECL|function|show_index_list
 DECL|function|show_mode_change
