@@ -1,0 +1,2 @@
+DECL|function|diffcore_count_changes
+DECL|function|diffcore_count_changes_1
