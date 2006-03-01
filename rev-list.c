@@ -9,7 +9,6 @@ DECL|function|process_tree
 DECL|function|show_commit
 DECL|function|show_commit_list
 DECL|macro|COUNTED
-DECL|macro|TMP_MARK
 DECL|variable|abbrev
 DECL|variable|bisect_list
 DECL|variable|commit_format
