@@ -1,5 +1,7 @@
 DECL|macro|REVISION_H
 DECL|macro|SEEN
+DECL|macro|SHOWN
+DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
 DECL|member|blob_objects
 DECL|member|commits
@@ -12,6 +14,7 @@ DECL|member|limited
 DECL|member|max_age
 DECL|member|max_count
 DECL|member|min_age
+DECL|member|no_merges
 DECL|member|paths
 DECL|member|pending_objects
 DECL|member|prefix
