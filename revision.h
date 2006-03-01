@@ -1,6 +1,7 @@
 DECL|macro|REVISION_H
 DECL|macro|SEEN
 DECL|macro|SHOWN
+DECL|macro|TMP_MARK
 DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
 DECL|member|blob_objects
