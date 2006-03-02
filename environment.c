@@ -4,6 +4,7 @@ DECL|function|get_index_file
 DECL|function|get_object_directory
 DECL|function|get_refs_directory
 DECL|function|setup_git_env
+DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
 DECL|variable|git_commit_encoding
 DECL|variable|git_default_email
