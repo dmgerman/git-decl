@@ -5,6 +5,7 @@ DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
 DECL|function|chmod_path
 DECL|function|main
+DECL|function|mark_valid
 DECL|function|read_index_info
 DECL|function|refresh_cache
 DECL|function|refresh_entry
@@ -12,6 +13,8 @@ DECL|function|report
 DECL|function|update_one
 DECL|function|verify_dotfile
 DECL|function|verify_path
+DECL|macro|MARK_VALID
+DECL|macro|UNMARK_VALID
 DECL|variable|allow_add
 DECL|variable|allow_remove
 DECL|variable|allow_replace
@@ -19,6 +22,7 @@ DECL|variable|allow_unmerged
 DECL|variable|cache_file
 DECL|variable|force_remove
 DECL|variable|info_only
+DECL|variable|mark_valid_only
 DECL|variable|not_new
 DECL|variable|quiet
 DECL|variable|update_index_usage

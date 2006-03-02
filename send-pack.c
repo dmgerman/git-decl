@@ -18,4 +18,5 @@ DECL|variable|remote_refs
 DECL|variable|remote_tail
 DECL|variable|send_all
 DECL|variable|send_pack_usage
+DECL|variable|use_thin_pack
 DECL|variable|verbose
