@@ -1,19 +1,19 @@
 DECL|function|alloc_line_map
-DECL|function|copy_line_map
 DECL|function|fill_line_map
 DECL|function|fill_util_info
 DECL|function|free_patch
 DECL|function|get_blob
 DECL|function|get_blob_sha1
 DECL|function|get_blob_sha1_internal
-DECL|function|get_commit_list
 DECL|function|get_patch
+DECL|function|init_first_commit
 DECL|function|main
 DECL|function|map_line
+DECL|function|print_map
 DECL|function|print_patch
 DECL|function|process_commits
 DECL|macro|DEBUG
-DECL|macro|SEEN
+DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|buf
 DECL|member|chunks
 DECL|member|len1
@@ -33,3 +33,4 @@ DECL|variable|blob_sha1
 DECL|variable|num_blame_lines
 DECL|variable|num_commits
 DECL|variable|num_get_patch
+DECL|variable|patch_time
