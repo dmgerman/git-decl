@@ -1,10 +1,12 @@
 DECL|function|alloc_line_map
 DECL|function|fill_line_map
 DECL|function|fill_util_info
+DECL|function|format_time
 DECL|function|free_patch
 DECL|function|get_blob
 DECL|function|get_blob_sha1
 DECL|function|get_blob_sha1_internal
+DECL|function|get_commit_info
 DECL|function|get_patch
 DECL|function|init_first_commit
 DECL|function|main
@@ -13,6 +15,10 @@ DECL|function|print_patch
 DECL|function|process_commits
 DECL|macro|DEBUG
 DECL|macro|TEMPFILE_PATH_LEN
+DECL|member|author
+DECL|member|author_mail
+DECL|member|author_time
+DECL|member|author_tz
 DECL|member|buf
 DECL|member|chunks
 DECL|member|len1
@@ -25,9 +31,13 @@ DECL|member|off2
 DECL|member|sha1
 DECL|member|size
 DECL|struct|chunk
+DECL|struct|commit_info
 DECL|struct|patch
 DECL|struct|util_info
+DECL|variable|blame_contents
+DECL|variable|blame_len
 DECL|variable|blame_lines
+DECL|variable|blame_usage
 DECL|variable|blob_sha1
 DECL|variable|num_blame_lines
 DECL|variable|num_commits
