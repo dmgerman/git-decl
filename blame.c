@@ -9,7 +9,6 @@ DECL|function|get_patch
 DECL|function|init_first_commit
 DECL|function|main
 DECL|function|map_line
-DECL|function|print_map
 DECL|function|print_patch
 DECL|function|process_commits
 DECL|macro|DEBUG
