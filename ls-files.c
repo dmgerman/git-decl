@@ -32,6 +32,7 @@ DECL|member|pattern
 DECL|struct|exclude
 DECL|struct|exclude_list
 DECL|struct|nond_on_fs
+DECL|variable|abbrev
 DECL|variable|dir
 DECL|variable|dir_alloc
 DECL|variable|error_unmatch
