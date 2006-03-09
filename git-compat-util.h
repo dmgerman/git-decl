@@ -4,6 +4,7 @@ DECL|function|xmalloc
 DECL|function|xread
 DECL|function|xrealloc
 DECL|function|xwrite
+DECL|macro|ARRAY_SIZE
 DECL|macro|FLEX_ARRAY
 DECL|macro|FLEX_ARRAY
 DECL|macro|GIT_ALPHA

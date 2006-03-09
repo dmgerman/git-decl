@@ -6,6 +6,7 @@ DECL|function|cmd_version
 DECL|function|cmdname_compare
 DECL|function|handle_internal_command
 DECL|function|list_commands
+DECL|function|list_common_cmds_help
 DECL|function|main
 DECL|function|mput_char
 DECL|function|oom
@@ -13,7 +14,6 @@ DECL|function|prepend_to_path
 DECL|function|pretty_print_string_list
 DECL|function|show_man_page
 DECL|function|term_columns
-DECL|macro|ARRAY_SIZE
 DECL|macro|LOGSIZE
 DECL|macro|PATH_MAX
 DECL|member|len
