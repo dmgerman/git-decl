@@ -6,6 +6,7 @@ DECL|function|cmd_version
 DECL|function|cmdname_compare
 DECL|function|handle_internal_command
 DECL|function|list_commands
+DECL|function|list_common_cmds_help
 DECL|function|main
 DECL|function|mput_char
 DECL|function|oom
