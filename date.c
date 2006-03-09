@@ -18,7 +18,6 @@ DECL|function|parse_date
 DECL|function|show_date
 DECL|function|skip_alpha
 DECL|function|update_tm
-DECL|macro|NR_TZ
 DECL|member|dst
 DECL|member|fn
 DECL|member|length

@@ -13,7 +13,6 @@ DECL|function|prepend_to_path
 DECL|function|pretty_print_string_list
 DECL|function|show_man_page
 DECL|function|term_columns
-DECL|macro|ARRAY_SIZE
 DECL|macro|LOGSIZE
 DECL|macro|PATH_MAX
 DECL|member|len
