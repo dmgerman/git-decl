@@ -23,6 +23,9 @@ DECL|function|prepare_commit_graft
 DECL|function|pretty_print_commit
 DECL|function|sort_by_date
 DECL|function|sort_in_topological_order
+DECL|function|sort_in_topological_order_fn
+DECL|function|topo_sort_default_getter
+DECL|function|topo_sort_default_setter
 DECL|member|indegree
 DECL|member|list_item
 DECL|member|nr_parent
