@@ -1,6 +1,8 @@
 DECL|function|alloc_line_map
+DECL|function|compare_tree_path
 DECL|function|fill_line_map
 DECL|function|fill_util_info
+DECL|function|find_rename
 DECL|function|format_time
 DECL|function|free_patch
 DECL|function|get_blob
@@ -8,12 +10,17 @@ DECL|function|get_blob_sha1
 DECL|function|get_blob_sha1_internal
 DECL|function|get_commit_info
 DECL|function|get_patch
+DECL|function|get_util
 DECL|function|init_first_commit
 DECL|function|main
 DECL|function|map_line
 DECL|function|print_map
 DECL|function|print_patch
 DECL|function|process_commits
+DECL|function|same_tree_as_empty_path
+DECL|function|simplify_commit
+DECL|function|topo_getter
+DECL|function|topo_setter
 DECL|macro|DEBUG
 DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|author
@@ -29,8 +36,10 @@ DECL|member|num
 DECL|member|num_lines
 DECL|member|off1
 DECL|member|off2
+DECL|member|pathname
 DECL|member|sha1
 DECL|member|size
+DECL|member|topo_data
 DECL|struct|chunk
 DECL|struct|commit_info
 DECL|struct|patch

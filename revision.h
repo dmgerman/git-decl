@@ -1,4 +1,7 @@
 DECL|macro|REVISION_H
+DECL|macro|REV_TREE_DIFFERENT
+DECL|macro|REV_TREE_NEW
+DECL|macro|REV_TREE_SAME
 DECL|macro|SEEN
 DECL|macro|SHOWN
 DECL|macro|TMP_MARK
@@ -16,14 +19,18 @@ DECL|member|max_age
 DECL|member|max_count
 DECL|member|min_age
 DECL|member|no_merges
-DECL|member|paths
 DECL|member|pending_objects
 DECL|member|prefix
+DECL|member|prune_data
+DECL|member|prune_fn
 DECL|member|remove_empty_trees
 DECL|member|tag_objects
+DECL|member|topo_getter
 DECL|member|topo_order
+DECL|member|topo_setter
 DECL|member|tree_objects
 DECL|member|unpacked
 DECL|member|up
 DECL|struct|name_path
 DECL|struct|rev_info
+DECL|typedef|prune_fn_t
