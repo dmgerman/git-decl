@@ -9,6 +9,7 @@ DECL|enumerator|XML_STATUS_OK
 DECL|enum|XML_Status
 DECL|enum|transfer_state
 DECL|function|add_request
+DECL|function|check_locks
 DECL|function|fetch_index
 DECL|function|fetch_indices
 DECL|function|fetch_ref
@@ -85,7 +86,6 @@ DECL|macro|RECURSIVE
 DECL|macro|REMOTE
 DECL|macro|XML_STATUS_ERROR
 DECL|macro|XML_STATUS_OK
-DECL|member|active
 DECL|member|buffer
 DECL|member|c
 DECL|member|cdata
@@ -100,6 +100,7 @@ DECL|member|headers
 DECL|member|http_code
 DECL|member|len
 DECL|member|lock
+DECL|member|locks
 DECL|member|name
 DECL|member|next
 DECL|member|next
@@ -145,7 +146,6 @@ DECL|variable|push_verbosely
 DECL|variable|pushing
 DECL|variable|remote
 DECL|variable|remote_dir_exists
-DECL|variable|remote_locks
 DECL|variable|remote_refs
 DECL|variable|remote_tail
 DECL|variable|request_queue_head
