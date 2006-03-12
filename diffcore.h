@@ -16,6 +16,7 @@ DECL|macro|diff_debug_filespec
 DECL|macro|diff_debug_queue
 DECL|member|alloc
 DECL|member|broken_pair
+DECL|member|cnt_data
 DECL|member|data
 DECL|member|mode
 DECL|member|nr
