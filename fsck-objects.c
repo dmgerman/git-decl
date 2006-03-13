@@ -38,4 +38,3 @@ DECL|variable|sha1_list
 DECL|variable|show_root
 DECL|variable|show_tags
 DECL|variable|show_unreachable
-DECL|variable|standalone
