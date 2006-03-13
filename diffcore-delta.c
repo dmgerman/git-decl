@@ -4,6 +4,7 @@ DECL|function|hash_chars
 DECL|function|spanhash_find
 DECL|function|spanhash_rehash
 DECL|macro|HASHBASE
+DECL|macro|INITIAL_FREE
 DECL|macro|INITIAL_HASH_SIZE
 DECL|member|alloc_log2
 DECL|member|cnt
