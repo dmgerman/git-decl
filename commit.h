@@ -16,3 +16,5 @@ DECL|member|parents
 DECL|member|tree
 DECL|struct|commit
 DECL|struct|commit_list
+DECL|typedef|topo_sort_get_fn_t
+DECL|typedef|topo_sort_set_fn_t
