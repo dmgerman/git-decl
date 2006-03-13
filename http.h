@@ -10,6 +10,7 @@ DECL|member|callback_func
 DECL|member|curl
 DECL|member|curl_result
 DECL|member|curl_result
+DECL|member|finished
 DECL|member|http_code
 DECL|member|http_code
 DECL|member|in_use
