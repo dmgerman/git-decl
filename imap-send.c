@@ -11,6 +11,7 @@ DECL|function|free_generic_messages
 DECL|function|free_list
 DECL|function|get_cmd_result
 DECL|function|git_imap_config
+DECL|function|git_vasprintf
 DECL|function|imap_close_server
 DECL|function|imap_close_store
 DECL|function|imap_exec
@@ -37,7 +38,6 @@ DECL|function|socket_read
 DECL|function|socket_write
 DECL|function|split_msg
 DECL|function|v_issue_imap_cmd
-DECL|function|vasprintf
 DECL|function|warn
 DECL|macro|CAP
 DECL|macro|CHUNKSIZE
