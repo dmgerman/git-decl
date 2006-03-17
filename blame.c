@@ -45,6 +45,7 @@ DECL|struct|commit_info
 DECL|struct|patch
 DECL|struct|util_info
 DECL|variable|blame_contents
+DECL|variable|blame_file
 DECL|variable|blame_len
 DECL|variable|blame_lines
 DECL|variable|blame_usage
