@@ -15,9 +15,11 @@ DECL|function|add_fetch_request
 DECL|function|add_remote_info_ref
 DECL|function|add_send_request
 DECL|function|check_locks
+DECL|function|delete_remote_branch
 DECL|function|fetch_index
 DECL|function|fetch_indices
 DECL|function|fetch_ref
+DECL|function|fetch_symref
 DECL|function|fill_active_slots
 DECL|function|finish_request
 DECL|function|fwrite_sha1_file
@@ -60,6 +62,7 @@ DECL|function|unlock_remote
 DECL|function|unmark_and_free
 DECL|function|update_remote
 DECL|function|update_remote_info_refs
+DECL|function|verify_merge_base
 DECL|function|xml_cdata
 DECL|function|xml_end_tag
 DECL|function|xml_start_tag
@@ -69,6 +72,7 @@ DECL|macro|DAV_ACTIVELOCK_TOKEN
 DECL|macro|DAV_CTX_LOCKENTRY
 DECL|macro|DAV_CTX_LOCKTYPE_EXCLUSIVE
 DECL|macro|DAV_CTX_LOCKTYPE_WRITE
+DECL|macro|DAV_DELETE
 DECL|macro|DAV_LOCK
 DECL|macro|DAV_LOCK_OK
 DECL|macro|DAV_MKCOL
@@ -87,6 +91,7 @@ DECL|macro|LOCAL
 DECL|macro|LOCK_REFRESH
 DECL|macro|LOCK_REQUEST
 DECL|macro|LOCK_TIME
+DECL|macro|MAXDEPTH
 DECL|macro|PREV_BUF_SIZE
 DECL|macro|PROCESS_DIRS
 DECL|macro|PROCESS_FILES

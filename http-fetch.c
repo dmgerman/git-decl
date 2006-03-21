@@ -56,6 +56,7 @@ DECL|struct|alt_base
 DECL|struct|alternates_request
 DECL|struct|object_request
 DECL|variable|alt
+DECL|variable|corrupt_object_found
 DECL|variable|got_alternates
 DECL|variable|no_pragma_header
 DECL|variable|object_queue_head
