@@ -36,6 +36,7 @@ DECL|function|fill_mmfile
 DECL|function|fn_out
 DECL|function|git_diff_config
 DECL|function|locate_size_cache
+DECL|function|mmfile_is_binary
 DECL|function|parse_num
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
@@ -48,14 +49,17 @@ DECL|function|run_diff
 DECL|function|run_external_diff
 DECL|function|spawn_prog
 DECL|function|work_tree_matches
+DECL|macro|FIRST_FEW_BYTES
 DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|hex
+DECL|member|label_path
 DECL|member|mode
 DECL|member|name
 DECL|member|sha1
 DECL|member|size
 DECL|member|tmp_path
 DECL|struct|diff_tempfile
+DECL|struct|emit_callback
 DECL|struct|sha1_size_cache
 DECL|variable|diff_opts
 DECL|variable|diff_queued_diff
