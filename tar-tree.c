@@ -11,6 +11,7 @@ DECL|function|path_len
 DECL|function|path_prefix_len
 DECL|function|reliable_write
 DECL|function|strbuf_append_ext_header
+DECL|function|strbuf_append_string
 DECL|function|traverse_tree
 DECL|function|ustar_header_chksum
 DECL|function|write_blocked
