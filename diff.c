@@ -32,6 +32,8 @@ DECL|function|diffcore_std_no_resolve
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec
+DECL|function|fill_mmfile
+DECL|function|fn_out
 DECL|function|git_diff_config
 DECL|function|locate_size_cache
 DECL|function|parse_num
