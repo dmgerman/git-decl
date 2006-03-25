@@ -1,3 +1,4 @@
+DECL|function|get_path_prefix
 DECL|function|get_record
 DECL|function|main
 DECL|function|reliable_write
