@@ -10,8 +10,11 @@ DECL|function|main
 DECL|function|path_len
 DECL|function|path_prefix_len
 DECL|function|reliable_write
+DECL|function|strbuf_append_ext_header
 DECL|function|traverse_tree
+DECL|function|ustar_header_chksum
 DECL|function|write_blocked
+DECL|function|write_entry
 DECL|function|write_extended_header
 DECL|function|write_global_extended_header
 DECL|function|write_header
@@ -21,12 +24,6 @@ DECL|macro|BLOCKSIZE
 DECL|macro|EXT_HEADER_LINKPATH
 DECL|macro|EXT_HEADER_PATH
 DECL|macro|RECORDSIZE
-DECL|macro|TYPEFLAG_AUTO
-DECL|macro|TYPEFLAG_DIR
-DECL|macro|TYPEFLAG_EXT_HEADER
-DECL|macro|TYPEFLAG_GLOBAL_HEADER
-DECL|macro|TYPEFLAG_LNK
-DECL|macro|TYPEFLAG_REG
 DECL|member|name
 DECL|member|prev
 DECL|struct|path_prefix
