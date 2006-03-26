@@ -18,3 +18,4 @@ DECL|variable|only_use_symrefs
 DECL|variable|repository_format_version
 DECL|variable|shared_repository
 DECL|variable|trust_executable_bit
+DECL|variable|warn_ambiguous_refs
