@@ -46,6 +46,7 @@ DECL|function|quote_two
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
 DECL|function|run_diff
+DECL|function|run_diff_cmd
 DECL|function|run_external_diff
 DECL|function|spawn_prog
 DECL|function|work_tree_matches
@@ -61,7 +62,6 @@ DECL|member|tmp_path
 DECL|struct|diff_tempfile
 DECL|struct|emit_callback
 DECL|struct|sha1_size_cache
-DECL|variable|diff_opts
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
