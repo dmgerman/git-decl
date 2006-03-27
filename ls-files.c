@@ -38,6 +38,7 @@ DECL|variable|dir_alloc
 DECL|variable|error_unmatch
 DECL|variable|exclude_list
 DECL|variable|exclude_per_dir
+DECL|variable|hide_empty_directories
 DECL|variable|line_terminator
 DECL|variable|ls_files_usage
 DECL|variable|nr_dir
