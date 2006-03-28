@@ -1,3 +1,4 @@
+DECL|macro|BOUNDARY
 DECL|macro|REVISION_H
 DECL|macro|REV_TREE_DIFFERENT
 DECL|macro|REV_TREE_NEW
@@ -8,6 +9,7 @@ DECL|macro|TMP_MARK
 DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
 DECL|member|blob_objects
+DECL|member|boundary
 DECL|member|commits
 DECL|member|dense
 DECL|member|edge_hint
