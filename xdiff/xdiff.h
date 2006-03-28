@@ -3,6 +3,7 @@ DECL|macro|XDIFF_H
 DECL|macro|XDL_BDOP_CPY
 DECL|macro|XDL_BDOP_INS
 DECL|macro|XDL_BDOP_INSB
+DECL|macro|XDL_EMIT_FUNCNAMES
 DECL|macro|XDL_MMB_READONLY
 DECL|macro|XDL_MMF_ATOMIC
 DECL|macro|XDL_PATCH_IGNOREBSPACE
@@ -14,6 +15,7 @@ DECL|macro|xdl_malloc
 DECL|macro|xdl_realloc
 DECL|member|bsize
 DECL|member|ctxlen
+DECL|member|flags
 DECL|member|flags
 DECL|member|outf
 DECL|member|priv
