@@ -1,0 +1,7 @@
+DECL|function|entry_clear
+DECL|function|entry_compare
+DECL|function|entry_extract
+DECL|function|fill_tree_descriptor
+DECL|function|traverse_trees
+DECL|function|tree_entry_extract
+DECL|function|update_tree_entry

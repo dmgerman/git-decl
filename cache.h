@@ -40,6 +40,7 @@ DECL|macro|OWNER_CHANGED
 DECL|macro|TYPE_CHANGED
 DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
+DECL|macro|canon_mode
 DECL|macro|ce_namelen
 DECL|macro|ce_permissions
 DECL|macro|ce_size

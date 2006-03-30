@@ -1,7 +1,6 @@
 DECL|macro|COMMON_DIFF_OPTIONS_HELP
 DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
-DECL|macro|DIFF_FILE_CANON_MODE
 DECL|macro|DIFF_FORMAT_NAME
 DECL|macro|DIFF_FORMAT_NAME_STATUS
 DECL|macro|DIFF_FORMAT_NO_OUTPUT
@@ -26,7 +25,6 @@ DECL|macro|combine_diff_path_size
 DECL|member|abbrev
 DECL|member|add_remove
 DECL|member|break_opt
-DECL|member|buf
 DECL|member|change
 DECL|member|detect_rename
 DECL|member|filter
@@ -51,12 +49,10 @@ DECL|member|reverse_diff
 DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
-DECL|member|size
 DECL|member|status
 DECL|member|tree_in_recursive
 DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path
 DECL|struct|diff_options
-DECL|struct|tree_desc
 DECL|typedef|add_remove_fn_t
 DECL|typedef|change_fn_t
