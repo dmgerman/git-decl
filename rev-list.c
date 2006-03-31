@@ -16,6 +16,5 @@ DECL|variable|commit_prefix
 DECL|variable|hdr_termination
 DECL|variable|rev_list_usage
 DECL|variable|revs
-DECL|variable|show_parents
 DECL|variable|show_timestamp
 DECL|variable|verbose_header
