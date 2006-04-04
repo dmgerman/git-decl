@@ -1,4 +1,5 @@
 DECL|function|xdl_atol
+DECL|function|xdl_bogosqrt
 DECL|function|xdl_cha_alloc
 DECL|function|xdl_cha_first
 DECL|function|xdl_cha_free
