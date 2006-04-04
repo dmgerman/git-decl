@@ -10,6 +10,7 @@ DECL|function|progress_interval
 DECL|function|read_cache_unmerged
 DECL|function|reject_merge
 DECL|function|same
+DECL|function|setup_progress_signal
 DECL|function|show_stage_entry
 DECL|function|threeway_merge
 DECL|function|twoway_merge
