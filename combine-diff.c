@@ -10,8 +10,6 @@ DECL|function|grab_blob
 DECL|function|interesting
 DECL|function|intersect_paths
 DECL|function|make_hunks
-DECL|function|parse_hunk_header
-DECL|function|parse_num
 DECL|function|reuse_combine_diff
 DECL|function|show_combined_diff
 DECL|function|show_parent_lno
