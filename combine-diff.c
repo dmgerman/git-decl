@@ -1,7 +1,6 @@
 DECL|function|adjust_hunk_tail
 DECL|function|append_lost
 DECL|function|combine_diff
-DECL|function|combine_diff_outf
 DECL|function|consume_line
 DECL|function|diff_tree_combined_merge
 DECL|function|dump_sline
@@ -39,9 +38,8 @@ DECL|member|ob
 DECL|member|on
 DECL|member|p_lno
 DECL|member|parent_map
-DECL|member|remainder
-DECL|member|remainder_size
 DECL|member|sline
+DECL|member|xm
 DECL|struct|combine_diff_state
 DECL|struct|lline
 DECL|struct|sline
