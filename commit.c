@@ -21,6 +21,9 @@ DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
 DECL|function|prepare_commit_graft
 DECL|function|pretty_print_commit
+DECL|function|read_graft_file
+DECL|function|read_graft_line
+DECL|function|register_commit_graft
 DECL|function|sort_by_date
 DECL|function|sort_in_topological_order
 DECL|function|sort_in_topological_order_fn
@@ -28,10 +31,6 @@ DECL|function|topo_sort_default_getter
 DECL|function|topo_sort_default_setter
 DECL|member|indegree
 DECL|member|list_item
-DECL|member|nr_parent
-DECL|member|parent
-DECL|member|sha1
-DECL|struct|commit_graft
 DECL|struct|sort_node
 DECL|variable|commit_graft
 DECL|variable|commit_graft_alloc
