@@ -11,10 +11,14 @@ DECL|member|buffer
 DECL|member|date
 DECL|member|item
 DECL|member|next
+DECL|member|nr_parent
 DECL|member|object
+DECL|member|parent
 DECL|member|parents
+DECL|member|sha1
 DECL|member|tree
 DECL|struct|commit
+DECL|struct|commit_graft
 DECL|struct|commit_list
 DECL|typedef|topo_sort_get_fn_t
 DECL|typedef|topo_sort_set_fn_t

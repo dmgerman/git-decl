@@ -18,6 +18,7 @@ DECL|function|print_map
 DECL|function|print_patch
 DECL|function|process_commits
 DECL|function|process_u0_diff
+DECL|function|read_ancestry
 DECL|function|same_tree_as_empty_path
 DECL|function|simplify_commit
 DECL|function|topo_getter
