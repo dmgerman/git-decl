@@ -10,6 +10,7 @@ DECL|function|show_commit
 DECL|function|show_commit_list
 DECL|macro|COUNTED
 DECL|variable|abbrev
+DECL|variable|abbrev_commit
 DECL|variable|bisect_list
 DECL|variable|commit_format
 DECL|variable|commit_prefix
