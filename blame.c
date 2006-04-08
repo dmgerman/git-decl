@@ -17,12 +17,13 @@ DECL|function|map_line
 DECL|function|print_map
 DECL|function|print_patch
 DECL|function|process_commits
+DECL|function|process_u0_diff
+DECL|function|read_ancestry
 DECL|function|same_tree_as_empty_path
 DECL|function|simplify_commit
 DECL|function|topo_getter
 DECL|function|topo_setter
 DECL|macro|DEBUG
-DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|author
 DECL|member|author_mail
 DECL|member|author_time
@@ -37,9 +38,12 @@ DECL|member|num_lines
 DECL|member|off1
 DECL|member|off2
 DECL|member|pathname
+DECL|member|ret
 DECL|member|sha1
 DECL|member|size
 DECL|member|topo_data
+DECL|member|xm
+DECL|struct|blame_diff_state
 DECL|struct|chunk
 DECL|struct|commit_info
 DECL|struct|patch
