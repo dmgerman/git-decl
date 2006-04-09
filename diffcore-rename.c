@@ -10,6 +10,7 @@ DECL|member|dst
 DECL|member|one
 DECL|member|pair
 DECL|member|score
+DECL|member|score
 DECL|member|src
 DECL|member|src_path_left
 DECL|member|two
