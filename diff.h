@@ -40,7 +40,6 @@ DECL|member|orderfile
 DECL|member|output_format
 DECL|member|parent
 DECL|member|path
-DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
 DECL|member|recursive
