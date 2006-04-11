@@ -33,6 +33,7 @@ DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
+DECL|function|flush_one_pair
 DECL|function|fn_out
 DECL|function|git_diff_config
 DECL|function|locate_size_cache
