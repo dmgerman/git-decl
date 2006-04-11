@@ -40,7 +40,6 @@ DECL|member|orderfile
 DECL|member|output_format
 DECL|member|parent
 DECL|member|path
-DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
 DECL|member|recursive
@@ -52,6 +51,7 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|member|status
 DECL|member|tree_in_recursive
+DECL|member|with_raw
 DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path
 DECL|struct|diff_options
