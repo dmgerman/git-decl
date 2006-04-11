@@ -24,5 +24,4 @@ DECL|function|setup_revisions
 DECL|function|try_to_simplify_commit
 DECL|variable|all_flags
 DECL|variable|all_revs
-DECL|variable|diff_opt
 DECL|variable|tree_difference
