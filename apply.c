@@ -54,6 +54,8 @@ DECL|function|patch_stats
 DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|remove_file
+DECL|function|remove_first_line
+DECL|function|remove_last_line
 DECL|function|set_default_whitespace_mode
 DECL|function|show_file_mode_name
 DECL|function|show_index_list
@@ -80,6 +82,7 @@ DECL|member|is_copy
 DECL|member|is_delete
 DECL|member|is_new
 DECL|member|is_rename
+DECL|member|leading
 DECL|member|lines_added
 DECL|member|lines_deleted
 DECL|member|new_mode
@@ -102,6 +105,7 @@ DECL|member|resultsize
 DECL|member|score
 DECL|member|size
 DECL|member|size
+DECL|member|trailing
 DECL|struct|buffer_desc
 DECL|struct|excludes
 DECL|struct|fragment
@@ -123,6 +127,7 @@ DECL|variable|minuses
 DECL|variable|new_whitespace
 DECL|variable|no_add
 DECL|variable|numstat
+DECL|variable|p_context
 DECL|variable|p_value
 DECL|variable|patch_input_file
 DECL|variable|pluses
