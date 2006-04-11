@@ -36,10 +36,13 @@ DECL|member|line_termination
 DECL|member|mode
 DECL|member|mode
 DECL|member|next
+DECL|member|nr_paths
 DECL|member|orderfile
 DECL|member|output_format
 DECL|member|parent
 DECL|member|path
+DECL|member|pathlens
+DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
 DECL|member|recursive

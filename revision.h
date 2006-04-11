@@ -13,6 +13,7 @@ DECL|member|blob_objects
 DECL|member|boundary
 DECL|member|commits
 DECL|member|dense
+DECL|member|diffopt
 DECL|member|edge_hint
 DECL|member|elem
 DECL|member|elem_len
