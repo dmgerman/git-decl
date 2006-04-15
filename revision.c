@@ -1,13 +1,13 @@
 DECL|function|add_object
+DECL|function|add_one_commit
 DECL|function|add_parents_to_list
 DECL|function|add_pending_object
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change
-DECL|function|get_reference
+DECL|function|get_commit_reference
 DECL|function|get_revision
 DECL|function|handle_all
-DECL|function|handle_commit
 DECL|function|handle_one_ref
 DECL|function|init_revisions
 DECL|function|limit_list
