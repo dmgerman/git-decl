@@ -2,6 +2,7 @@ DECL|function|add_cmdname
 DECL|function|cmd_help
 DECL|function|cmd_log
 DECL|function|cmd_log_wc
+DECL|function|cmd_show
 DECL|function|cmd_usage
 DECL|function|cmd_version
 DECL|function|cmd_wc

@@ -35,6 +35,7 @@ DECL|member|max_count
 DECL|member|min_age
 DECL|member|no_commit_id
 DECL|member|no_merges
+DECL|member|no_walk
 DECL|member|parents
 DECL|member|pending_objects
 DECL|member|prefix
