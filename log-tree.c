@@ -5,3 +5,4 @@ DECL|function|init_log_tree_opt
 DECL|function|log_tree_commit
 DECL|function|log_tree_diff_flush
 DECL|function|log_tree_opt_parse
+DECL|function|parse_whatchanged_opt
