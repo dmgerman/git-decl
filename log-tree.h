@@ -4,7 +4,6 @@ DECL|member|abbrev_commit
 DECL|member|always_show_header
 DECL|member|combine_merges
 DECL|member|commit_format
-DECL|member|commit_format
 DECL|member|dense_combined_merges
 DECL|member|diffopt
 DECL|member|do_diff
