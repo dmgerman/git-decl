@@ -1,0 +1,1 @@
+DECL|macro|RABIN_WINDOW_SIZE
