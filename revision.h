@@ -51,6 +51,7 @@ DECL|member|topo_setter
 DECL|member|tree_objects
 DECL|member|unpacked
 DECL|member|up
+DECL|member|use_precomputed_header
 DECL|member|verbose_header
 DECL|struct|name_path
 DECL|struct|rev_info
