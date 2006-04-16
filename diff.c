@@ -64,6 +64,8 @@ DECL|member|alloc
 DECL|member|deleted
 DECL|member|files
 DECL|member|hex
+DECL|member|is_binary
+DECL|member|is_unmerged
 DECL|member|label_path
 DECL|member|mode
 DECL|member|name
