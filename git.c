@@ -5,7 +5,7 @@ DECL|function|cmd_log_wc
 DECL|function|cmd_show
 DECL|function|cmd_usage
 DECL|function|cmd_version
-DECL|function|cmd_whatchanged
+DECL|function|cmd_wc
 DECL|function|cmdname_compare
 DECL|function|handle_internal_command
 DECL|function|list_commands
