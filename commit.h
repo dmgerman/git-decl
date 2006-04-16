@@ -5,6 +5,7 @@ DECL|enumerator|CMIT_FMT_MEDIUM
 DECL|enumerator|CMIT_FMT_ONELINE
 DECL|enumerator|CMIT_FMT_RAW
 DECL|enumerator|CMIT_FMT_SHORT
+DECL|enumerator|CMIT_FMT_UNSPECIFIED
 DECL|enum|cmit_fmt
 DECL|macro|COMMIT_H
 DECL|member|buffer
