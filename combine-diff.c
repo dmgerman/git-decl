@@ -3,6 +3,7 @@ DECL|function|append_lost
 DECL|function|combine_diff
 DECL|function|consume_line
 DECL|function|diff_tree_combined_merge
+DECL|function|dump_quoted_path
 DECL|function|dump_sline
 DECL|function|find_next
 DECL|function|give_context
