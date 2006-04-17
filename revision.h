@@ -25,11 +25,10 @@ DECL|member|edge_hint
 DECL|member|elem
 DECL|member|elem_len
 DECL|member|full_diff
-DECL|member|header
-DECL|member|header_prefix
 DECL|member|ignore_merges
 DECL|member|lifo
 DECL|member|limited
+DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
 DECL|member|min_age
@@ -44,6 +43,7 @@ DECL|member|prune_fn
 DECL|member|pruning
 DECL|member|remove_empty_trees
 DECL|member|show_root_diff
+DECL|member|shown_one
 DECL|member|tag_objects
 DECL|member|topo_getter
 DECL|member|topo_order
@@ -51,7 +51,6 @@ DECL|member|topo_setter
 DECL|member|tree_objects
 DECL|member|unpacked
 DECL|member|up
-DECL|member|use_precomputed_header
 DECL|member|verbose_header
 DECL|struct|name_path
 DECL|struct|rev_info

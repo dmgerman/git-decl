@@ -11,6 +11,7 @@ DECL|function|show_commit_list
 DECL|macro|COUNTED
 DECL|variable|bisect_list
 DECL|variable|hdr_termination
+DECL|variable|header_prefix
 DECL|variable|rev_list_usage
 DECL|variable|revs
 DECL|variable|show_timestamp
