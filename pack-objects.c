@@ -49,6 +49,7 @@ DECL|member|delta_size
 DECL|member|depth
 DECL|member|elem
 DECL|member|entry
+DECL|member|fingerprint
 DECL|member|hash
 DECL|member|in_pack
 DECL|member|in_pack_offset
