@@ -12,6 +12,7 @@ DECL|function|handle_one_ref
 DECL|function|init_revisions
 DECL|function|limit_list
 DECL|function|mark_blob_uninteresting
+DECL|function|mark_boundary_to_show
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
 DECL|function|path_name
