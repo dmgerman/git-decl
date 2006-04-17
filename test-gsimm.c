@@ -1,4 +1,3 @@
-DECL|function|dist
 DECL|function|main
 DECL|function|md_to_str
 DECL|function|process_file
