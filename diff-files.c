@@ -5,6 +5,6 @@ DECL|function|show_unmerge
 DECL|variable|combine_merges
 DECL|variable|dense_combined_merges
 DECL|variable|diff_files_usage
-DECL|variable|diff_options
 DECL|variable|diff_unmerged_stage
+DECL|variable|rev
 DECL|variable|silent
