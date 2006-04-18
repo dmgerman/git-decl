@@ -1,13 +1,4 @@
 DECL|macro|LOG_TREE_H
-DECL|member|always_show_header
-DECL|member|combine_merges
-DECL|member|commit_format
-DECL|member|dense_combined_merges
-DECL|member|diffopt
-DECL|member|header
-DECL|member|header_prefix
-DECL|member|ignore_merges
-DECL|member|no_commit_id
-DECL|member|show_root_diff
-DECL|member|verbose_header
-DECL|struct|log_tree_opt
+DECL|member|commit
+DECL|member|parent
+DECL|struct|log_info
