@@ -43,6 +43,7 @@ DECL|function|git_diff_config
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
 DECL|function|parse_num
+DECL|function|pprint_rename
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|print_line_count
@@ -65,6 +66,7 @@ DECL|member|deleted
 DECL|member|files
 DECL|member|hex
 DECL|member|is_binary
+DECL|member|is_renamed
 DECL|member|is_unmerged
 DECL|member|label_path
 DECL|member|mode
