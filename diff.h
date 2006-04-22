@@ -53,6 +53,7 @@ DECL|member|reverse_diff
 DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|silent_on_remove
 DECL|member|status
 DECL|member|tree_in_recursive
 DECL|member|with_raw
