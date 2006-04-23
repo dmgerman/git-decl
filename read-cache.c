@@ -18,10 +18,12 @@ DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
 DECL|function|read_cache
+DECL|function|read_cache_1
 DECL|function|remove_cache_entry_at
 DECL|function|remove_file_from_cache
 DECL|function|verify_hdr
 DECL|function|write_cache
+DECL|function|write_cache_1
 DECL|macro|WRITE_BUFFER_SIZE
 DECL|variable|active_alloc
 DECL|variable|active_cache
