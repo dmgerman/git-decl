@@ -110,6 +110,8 @@ DECL|struct|buffer_desc
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
+DECL|variable|active_cache_sha1
+DECL|variable|active_cache_tree
 DECL|variable|allow_binary_replacement
 DECL|variable|applied_after_stripping
 DECL|variable|apply
