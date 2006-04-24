@@ -4,12 +4,16 @@ DECL|function|PTR_ERR
 DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
 DECL|function|chmod_path
+DECL|function|do_unresolve
 DECL|function|main
 DECL|function|mark_valid
+DECL|function|read_head_pointers
 DECL|function|read_index_info
+DECL|function|read_one_ent
 DECL|function|refresh_cache
 DECL|function|refresh_entry
 DECL|function|report
+DECL|function|unresolve_one
 DECL|function|update_one
 DECL|function|verify_dotfile
 DECL|function|verify_path
@@ -21,8 +25,10 @@ DECL|variable|allow_replace
 DECL|variable|allow_unmerged
 DECL|variable|cache_file
 DECL|variable|force_remove
+DECL|variable|head_sha1
 DECL|variable|info_only
 DECL|variable|mark_valid_only
+DECL|variable|merge_head_sha1
 DECL|variable|not_new
 DECL|variable|quiet
 DECL|variable|update_index_usage
