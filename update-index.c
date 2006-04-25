@@ -15,8 +15,6 @@ DECL|function|verify_dotfile
 DECL|function|verify_path
 DECL|macro|MARK_VALID
 DECL|macro|UNMARK_VALID
-DECL|variable|active_cache_sha1
-DECL|variable|active_cache_tree
 DECL|variable|allow_add
 DECL|variable|allow_remove
 DECL|variable|allow_replace
