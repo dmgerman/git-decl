@@ -1,15 +1,14 @@
 DECL|function|cache_tree
 DECL|function|cache_tree_free
+DECL|function|cache_tree_fully_valid
 DECL|function|cache_tree_invalidate_path
 DECL|function|cache_tree_read
 DECL|function|cache_tree_update
 DECL|function|cache_tree_write
 DECL|function|discard_unused_subtrees
 DECL|function|find_subtree
-DECL|function|read_cache_tree
 DECL|function|read_one
 DECL|function|update_one
 DECL|function|verify_cache
-DECL|function|write_cache_tree
 DECL|function|write_one
 DECL|macro|DEBUG
