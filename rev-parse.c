@@ -1,3 +1,4 @@
+DECL|function|die_badfile
 DECL|function|is_rev_argument
 DECL|function|main
 DECL|function|show
