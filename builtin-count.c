@@ -1,0 +1,3 @@
+DECL|function|cmd_count_objects
+DECL|function|count_objects
+DECL|variable|count_objects_usage
