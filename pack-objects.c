@@ -53,6 +53,7 @@ DECL|member|hash
 DECL|member|in_pack
 DECL|member|in_pack_offset
 DECL|member|in_pack_type
+DECL|member|index
 DECL|member|len
 DECL|member|next
 DECL|member|offset
