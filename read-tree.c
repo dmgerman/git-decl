@@ -7,6 +7,8 @@ DECL|function|list_tree
 DECL|function|main
 DECL|function|merged_entry
 DECL|function|oneway_merge
+DECL|function|prime_cache_tree
+DECL|function|prime_cache_tree_rec
 DECL|function|progress_interval
 DECL|function|read_cache_unmerged
 DECL|function|reject_merge
