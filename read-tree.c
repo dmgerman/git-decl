@@ -1,6 +1,7 @@
 DECL|function|check_updates
 DECL|function|deleted_entry
 DECL|function|entcmp
+DECL|function|invalidate_ce_path
 DECL|function|keep_entry
 DECL|function|list_tree
 DECL|function|main
