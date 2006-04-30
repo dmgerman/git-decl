@@ -4,6 +4,8 @@ DECL|function|do_push
 DECL|function|expand_one_ref
 DECL|function|expand_refspecs
 DECL|function|get_branches_uri
+DECL|function|get_config_remotes_uri
+DECL|function|get_remote_config
 DECL|function|get_remotes_uri
 DECL|function|read_config
 DECL|function|set_refspecs
@@ -11,6 +13,11 @@ DECL|macro|BUF_SIZE
 DECL|macro|MAX_URI
 DECL|variable|all
 DECL|variable|buffer
+DECL|variable|config_current_uri
+DECL|variable|config_get_refspecs
+DECL|variable|config_repo
+DECL|variable|config_repo_len
+DECL|variable|config_uri
 DECL|variable|execute
 DECL|variable|force
 DECL|variable|push_usage
