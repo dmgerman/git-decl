@@ -5,7 +5,7 @@ DECL|function|expand_one_ref
 DECL|function|expand_refspecs
 DECL|function|get_branches_uri
 DECL|function|get_remotes_uri
-DECL|function|get_uri
+DECL|function|read_config
 DECL|function|set_refspecs
 DECL|macro|BUF_SIZE
 DECL|macro|MAX_URI
