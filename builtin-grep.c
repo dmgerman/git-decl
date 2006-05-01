@@ -10,6 +10,7 @@ DECL|function|pathspec_matches
 DECL|function|show_line
 DECL|member|invert
 DECL|member|linenum
+DECL|member|name_only
 DECL|member|pattern
 DECL|member|post_context
 DECL|member|pre_context
