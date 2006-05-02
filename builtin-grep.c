@@ -10,6 +10,7 @@ DECL|function|grep_sha1
 DECL|function|grep_tree
 DECL|function|pathspec_matches
 DECL|function|show_line
+DECL|member|count
 DECL|member|invert
 DECL|member|linenum
 DECL|member|name_only
