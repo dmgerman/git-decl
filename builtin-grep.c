@@ -10,6 +10,7 @@ DECL|function|grep_sha1
 DECL|function|grep_tree
 DECL|function|pathspec_matches
 DECL|function|show_line
+DECL|function|word_char
 DECL|member|count
 DECL|member|invert
 DECL|member|linenum
@@ -23,6 +24,7 @@ DECL|member|pre_context
 DECL|member|regexp
 DECL|member|regexp
 DECL|member|regflags
+DECL|member|word_regexp
 DECL|struct|grep_opt
 DECL|struct|grep_pat
 DECL|variable|builtin_grep_usage
