@@ -1,4 +1,6 @@
+DECL|function|add_pattern
 DECL|function|cmd_grep
+DECL|function|compile_patterns
 DECL|function|end_of_line
 DECL|function|grep_buffer
 DECL|function|grep_cache
@@ -11,10 +13,15 @@ DECL|function|show_line
 DECL|member|invert
 DECL|member|linenum
 DECL|member|name_only
+DECL|member|next
 DECL|member|pattern
+DECL|member|pattern_list
+DECL|member|pattern_tail
 DECL|member|post_context
 DECL|member|pre_context
 DECL|member|regexp
+DECL|member|regexp
 DECL|member|regflags
 DECL|struct|grep_opt
+DECL|struct|grep_pat
 DECL|variable|builtin_grep_usage
