@@ -15,4 +15,3 @@ DECL|variable|seen
 DECL|variable|show_keys
 DECL|variable|type
 DECL|variable|use_key_regexp
-DECL|variable|value
