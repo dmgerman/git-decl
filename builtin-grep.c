@@ -1,4 +1,5 @@
 DECL|function|add_pattern
+DECL|function|buffer_is_binary
 DECL|function|cmd_grep
 DECL|function|compile_patterns
 DECL|function|end_of_line
@@ -11,6 +12,11 @@ DECL|function|grep_tree
 DECL|function|pathspec_matches
 DECL|function|show_line
 DECL|function|word_char
+DECL|macro|FIRST_FEW_BYTES
+DECL|macro|GREP_BINARY_DEFAULT
+DECL|macro|GREP_BINARY_NOMATCH
+DECL|macro|GREP_BINARY_TEXT
+DECL|member|binary
 DECL|member|count
 DECL|member|invert
 DECL|member|linenum
@@ -24,6 +30,7 @@ DECL|member|pre_context
 DECL|member|regexp
 DECL|member|regexp
 DECL|member|regflags
+DECL|member|unmatch_name_only
 DECL|member|word_regexp
 DECL|struct|grep_opt
 DECL|struct|grep_pat
