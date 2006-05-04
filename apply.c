@@ -4,6 +4,7 @@ DECL|enumerator|strip_whitespace
 DECL|enumerator|warn_on_whitespace
 DECL|enum|whitespace_eol
 DECL|function|add_index_file
+DECL|function|apply_binary
 DECL|function|apply_data
 DECL|function|apply_fragments
 DECL|function|apply_line
@@ -41,6 +42,7 @@ DECL|function|main
 DECL|function|metadata_changes
 DECL|function|name_terminate
 DECL|function|numstat_patch_list
+DECL|function|parse_binary
 DECL|function|parse_chunk
 DECL|function|parse_fragment
 DECL|function|parse_fragment_header

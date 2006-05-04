@@ -33,7 +33,9 @@ DECL|function|diffcore_std
 DECL|function|diffcore_std_no_resolve
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
+DECL|function|emit_binary_diff
 DECL|function|emit_rewrite_diff
+DECL|function|encode_delta_size
 DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
@@ -55,6 +57,7 @@ DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
+DECL|function|safe_diff_delta
 DECL|function|show_stats
 DECL|function|spawn_prog
 DECL|function|work_tree_matches
