@@ -9,7 +9,9 @@ DECL|variable|do_all
 DECL|variable|do_not_match
 DECL|variable|git_config_set_usage
 DECL|variable|key
+DECL|variable|key_regexp
 DECL|variable|regexp
 DECL|variable|seen
+DECL|variable|show_keys
 DECL|variable|type
-DECL|variable|value
+DECL|variable|use_key_regexp
