@@ -5,3 +5,4 @@ DECL|function|cmd_show
 DECL|function|cmd_whatchanged
 DECL|function|istitlechar
 DECL|function|reopen_stdout
+DECL|variable|realstdout
