@@ -5,6 +5,7 @@ DECL|enumerator|warn_on_whitespace
 DECL|enum|whitespace_eol
 DECL|function|add_index_file
 DECL|function|apply_binary
+DECL|function|apply_binary_fragment
 DECL|function|apply_data
 DECL|function|apply_fragments
 DECL|function|apply_line
@@ -35,6 +36,7 @@ DECL|function|gitdiff_renamesrc
 DECL|function|gitdiff_similarity
 DECL|function|gitdiff_unrecognized
 DECL|function|gitdiff_verify_name
+DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|is_null_sha1
 DECL|function|linelen
@@ -71,6 +73,8 @@ DECL|function|try_create_file
 DECL|function|use_patch
 DECL|function|write_out_one_result
 DECL|function|write_out_results
+DECL|macro|BINARY_DELTA_DEFLATED
+DECL|macro|BINARY_LITERAL_DEFLATED
 DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
@@ -78,6 +82,7 @@ DECL|macro|TERM_TAB
 DECL|member|alloc
 DECL|member|buffer
 DECL|member|def_name
+DECL|member|deflate_origlen
 DECL|member|fragments
 DECL|member|is_binary
 DECL|member|is_copy
