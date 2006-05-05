@@ -3,6 +3,7 @@ DECL|function|builtin_diff
 DECL|function|builtin_diffstat
 DECL|function|copy_file
 DECL|function|count_lines
+DECL|function|deflate_it
 DECL|function|diff_addremove
 DECL|function|diff_change
 DECL|function|diff_debug_filepair
@@ -33,6 +34,7 @@ DECL|function|diffcore_std
 DECL|function|diffcore_std_no_resolve
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
+DECL|function|emit_binary_diff
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec

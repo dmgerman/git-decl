@@ -1,0 +1,13 @@
+DECL|function|decode_85
+DECL|function|encode_85
+DECL|function|main
+DECL|function|prep_base85
+DECL|macro|DEBUG_85
+DECL|macro|say
+DECL|macro|say
+DECL|macro|say1
+DECL|macro|say1
+DECL|macro|say2
+DECL|macro|say2
+DECL|variable|de85
+DECL|variable|en85
