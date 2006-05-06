@@ -4,6 +4,7 @@ DECL|function|PTR_ERR
 DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
 DECL|function|chmod_path
+DECL|function|do_reupdate
 DECL|function|do_unresolve
 DECL|function|main
 DECL|function|mark_valid
