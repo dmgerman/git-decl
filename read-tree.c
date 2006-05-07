@@ -1,3 +1,4 @@
+DECL|function|bind_merge
 DECL|function|check_updates
 DECL|function|deleted_entry
 DECL|function|entcmp
@@ -32,6 +33,7 @@ DECL|variable|index_only
 DECL|variable|merge
 DECL|variable|merge_size
 DECL|variable|nontrivial_merge
+DECL|variable|prefix
 DECL|variable|progress_update
 DECL|variable|read_tree_usage
 DECL|variable|trees

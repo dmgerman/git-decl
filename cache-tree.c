@@ -1,4 +1,5 @@
 DECL|function|cache_tree
+DECL|function|cache_tree_find
 DECL|function|cache_tree_free
 DECL|function|cache_tree_fully_valid
 DECL|function|cache_tree_invalidate_path
