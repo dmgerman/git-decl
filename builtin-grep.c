@@ -22,6 +22,8 @@ DECL|member|invert
 DECL|member|linenum
 DECL|member|name_only
 DECL|member|next
+DECL|member|no
+DECL|member|origin
 DECL|member|pattern
 DECL|member|pattern_list
 DECL|member|pattern_tail
