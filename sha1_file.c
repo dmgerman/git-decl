@@ -19,6 +19,7 @@ DECL|function|index_path
 DECL|function|index_pipe
 DECL|function|install_packed_git
 DECL|function|link_alt_odb_entries
+DECL|function|link_alt_odb_entry
 DECL|function|link_temp_to_file
 DECL|function|map_sha1_file_internal
 DECL|function|move_temp_to_file
@@ -33,6 +34,7 @@ DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb
 DECL|function|prepare_packed_git
 DECL|function|prepare_packed_git_one
+DECL|function|read_info_alternates
 DECL|function|read_object_with_reference
 DECL|function|read_packed_sha1
 DECL|function|read_sha1_file
