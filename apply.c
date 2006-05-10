@@ -132,6 +132,7 @@ DECL|variable|max_change
 DECL|variable|max_len
 DECL|variable|minuses
 DECL|variable|new_whitespace
+DECL|variable|newfd
 DECL|variable|no_add
 DECL|variable|numstat
 DECL|variable|p_context
