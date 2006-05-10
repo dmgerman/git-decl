@@ -3,6 +3,7 @@ DECL|function|buffer_is_binary
 DECL|function|cmd_grep
 DECL|function|compile_patterns
 DECL|function|end_of_line
+DECL|function|fixmatch
 DECL|function|grep_buffer
 DECL|function|grep_cache
 DECL|function|grep_file
@@ -18,6 +19,7 @@ DECL|macro|GREP_BINARY_NOMATCH
 DECL|macro|GREP_BINARY_TEXT
 DECL|member|binary
 DECL|member|count
+DECL|member|fixed
 DECL|member|invert
 DECL|member|linenum
 DECL|member|name_only
