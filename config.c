@@ -4,6 +4,7 @@ DECL|enumerator|SECTION_SEEN
 DECL|enumerator|START
 DECL|function|find_beginning_of_line
 DECL|function|get_base_var
+DECL|function|get_extended_base_var
 DECL|function|get_next_char
 DECL|function|get_value
 DECL|function|git_config
