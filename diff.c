@@ -44,6 +44,7 @@ DECL|function|fn_out
 DECL|function|git_diff_config
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
+DECL|function|opt_arg
 DECL|function|parse_num
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
