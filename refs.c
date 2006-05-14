@@ -2,7 +2,10 @@ DECL|function|bad_ref_char
 DECL|function|check_ref_format
 DECL|function|create_symref
 DECL|function|do_for_each_ref
+DECL|function|for_each_branch_ref
 DECL|function|for_each_ref
+DECL|function|for_each_remote_ref
+DECL|function|for_each_tag_ref
 DECL|function|get_ref_sha1
 DECL|function|head_ref
 DECL|function|lock_ref_file
