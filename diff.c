@@ -26,6 +26,7 @@ DECL|function|diff_resolve_rename_copy
 DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_setup_done
+DECL|function|diff_summary
 DECL|function|diff_unique_abbrev
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
@@ -57,6 +58,9 @@ DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
+DECL|function|show_file_mode_name
+DECL|function|show_mode_change
+DECL|function|show_rename_copy
 DECL|function|show_stats
 DECL|function|spawn_prog
 DECL|function|work_tree_matches
