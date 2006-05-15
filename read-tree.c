@@ -36,6 +36,7 @@ DECL|variable|nontrivial_merge
 DECL|variable|prefix
 DECL|variable|progress_update
 DECL|variable|read_tree_usage
+DECL|variable|reset
 DECL|variable|trees
 DECL|variable|trivial_merges_only
 DECL|variable|update
