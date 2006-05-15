@@ -15,11 +15,13 @@ DECL|function|grep_tree
 DECL|function|pathspec_matches
 DECL|function|show_line
 DECL|function|word_char
+DECL|macro|ARGBUF
 DECL|macro|FIRST_FEW_BYTES
 DECL|macro|GREP_BINARY_DEFAULT
 DECL|macro|GREP_BINARY_NOMATCH
 DECL|macro|GREP_BINARY_TEXT
 DECL|macro|MAXARGS
+DECL|macro|push_arg
 DECL|member|binary
 DECL|member|count
 DECL|member|fixed
