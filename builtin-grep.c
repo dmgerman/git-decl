@@ -3,6 +3,8 @@ DECL|function|buffer_is_binary
 DECL|function|cmd_grep
 DECL|function|compile_patterns
 DECL|function|end_of_line
+DECL|function|exec_grep
+DECL|function|external_grep
 DECL|function|fixmatch
 DECL|function|grep_buffer
 DECL|function|grep_cache
@@ -17,6 +19,7 @@ DECL|macro|FIRST_FEW_BYTES
 DECL|macro|GREP_BINARY_DEFAULT
 DECL|macro|GREP_BINARY_NOMATCH
 DECL|macro|GREP_BINARY_TEXT
+DECL|macro|MAXARGS
 DECL|member|binary
 DECL|member|count
 DECL|member|fixed
