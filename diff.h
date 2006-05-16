@@ -29,6 +29,7 @@ DECL|member|add_remove
 DECL|member|binary
 DECL|member|break_opt
 DECL|member|change
+DECL|member|context
 DECL|member|detect_rename
 DECL|member|filter
 DECL|member|find_copies_harder
