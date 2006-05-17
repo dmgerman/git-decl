@@ -21,6 +21,7 @@ DECL|function|twoway_merge
 DECL|function|unlink_entry
 DECL|function|unpack_trees
 DECL|function|unpack_trees_rec
+DECL|function|verify_absent
 DECL|function|verify_uptodate
 DECL|macro|DBRT_DEBUG
 DECL|typedef|merge_fn_t
