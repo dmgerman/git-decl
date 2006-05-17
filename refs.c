@@ -11,6 +11,7 @@ DECL|function|head_ref
 DECL|function|lock_any_ref_for_update
 DECL|function|lock_ref_sha1
 DECL|function|lock_ref_sha1_basic
+DECL|function|log_ref_write
 DECL|function|read_ref
 DECL|function|resolve_ref
 DECL|function|unlock_ref
