@@ -3,6 +3,7 @@ DECL|function|cmd_add
 DECL|function|common_prefix
 DECL|function|fill_directory
 DECL|function|match
+DECL|function|match_one
 DECL|function|prune_directory
 DECL|variable|builtin_add_usage
 DECL|variable|cache_file
