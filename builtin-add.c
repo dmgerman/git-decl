@@ -1,0 +1,8 @@
+DECL|function|add_file_to_index
+DECL|function|cmd_add
+DECL|function|common_prefix
+DECL|function|fill_directory
+DECL|function|match
+DECL|function|prune_directory
+DECL|variable|builtin_add_usage
+DECL|variable|cache_file
