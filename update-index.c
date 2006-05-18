@@ -16,8 +16,6 @@ DECL|function|refresh_entry
 DECL|function|report
 DECL|function|unresolve_one
 DECL|function|update_one
-DECL|function|verify_dotfile
-DECL|function|verify_path
 DECL|macro|MARK_VALID
 DECL|macro|UNMARK_VALID
 DECL|variable|allow_add
