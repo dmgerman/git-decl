@@ -1,4 +1,5 @@
 DECL|macro|REFS_H
+DECL|member|force_write
 DECL|member|lock_fd
 DECL|member|lock_file
 DECL|member|log_file
