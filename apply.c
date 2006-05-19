@@ -122,6 +122,7 @@ DECL|variable|applied_after_stripping
 DECL|variable|apply
 DECL|variable|apply_usage
 DECL|variable|cache_file
+DECL|variable|cached
 DECL|variable|check
 DECL|variable|check_index
 DECL|variable|diffstat
