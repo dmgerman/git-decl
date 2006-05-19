@@ -1,7 +1,7 @@
 DECL|function|clear_distance
+DECL|function|cmd_rev_list
 DECL|function|count_distance
 DECL|function|find_bisection
-DECL|function|main
 DECL|function|mark_edge_parents_uninteresting
 DECL|function|mark_edges_uninteresting
 DECL|function|process_blob
