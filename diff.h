@@ -57,6 +57,7 @@ DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|silent_on_remove
+DECL|member|stat_sep
 DECL|member|status
 DECL|member|summary
 DECL|member|tree_in_recursive
