@@ -1,0 +1,12 @@
+DECL|macro|CACHE_TREE_H
+DECL|member|cache_tree
+DECL|member|down
+DECL|member|entry_count
+DECL|member|name
+DECL|member|namelen
+DECL|member|sha1
+DECL|member|subtree_alloc
+DECL|member|subtree_nr
+DECL|member|used
+DECL|struct|cache_tree
+DECL|struct|cache_tree_sub

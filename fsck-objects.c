@@ -1,5 +1,6 @@
 DECL|function|add_sha1_list
 DECL|function|check_connectivity
+DECL|function|fsck_cache_tree
 DECL|function|fsck_commit
 DECL|function|fsck_dir
 DECL|function|fsck_handle_ref
