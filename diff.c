@@ -1,6 +1,8 @@
 DECL|function|alloc_filespec
+DECL|function|builtin_checkdiff
 DECL|function|builtin_diff
 DECL|function|builtin_diffstat
+DECL|function|checkdiff_consume
 DECL|function|copy_file
 DECL|function|count_lines
 DECL|function|deflate_it
@@ -11,6 +13,7 @@ DECL|function|diff_debug_filespec
 DECL|function|diff_debug_queue
 DECL|function|diff_fill_sha1_info
 DECL|function|diff_flush
+DECL|function|diff_flush_checkdiff
 DECL|function|diff_flush_name
 DECL|function|diff_flush_patch
 DECL|function|diff_flush_raw
@@ -55,6 +58,7 @@ DECL|function|quote_one
 DECL|function|quote_two
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
+DECL|function|run_checkdiff
 DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
@@ -70,12 +74,14 @@ DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|added
 DECL|member|alloc
 DECL|member|deleted
+DECL|member|filename
 DECL|member|files
 DECL|member|hex
 DECL|member|is_binary
 DECL|member|is_renamed
 DECL|member|is_unmerged
 DECL|member|label_path
+DECL|member|lineno
 DECL|member|mode
 DECL|member|name
 DECL|member|name
@@ -84,6 +90,8 @@ DECL|member|sha1
 DECL|member|size
 DECL|member|tmp_path
 DECL|member|xm
+DECL|member|xm
+DECL|struct|checkdiff_t
 DECL|struct|diff_tempfile
 DECL|struct|diffstat_file
 DECL|struct|diffstat_t
