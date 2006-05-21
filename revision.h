@@ -32,6 +32,7 @@ DECL|member|limited
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
+DECL|member|mime_boundary
 DECL|member|min_age
 DECL|member|no_commit_id
 DECL|member|no_merges
