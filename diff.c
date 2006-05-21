@@ -1,8 +1,11 @@
 DECL|function|alloc_filespec
+DECL|function|builtin_checkdiff
 DECL|function|builtin_diff
 DECL|function|builtin_diffstat
+DECL|function|checkdiff_consume
 DECL|function|copy_file
 DECL|function|count_lines
+DECL|function|deflate_it
 DECL|function|diff_addremove
 DECL|function|diff_change
 DECL|function|diff_debug_filepair
@@ -10,6 +13,7 @@ DECL|function|diff_debug_filespec
 DECL|function|diff_debug_queue
 DECL|function|diff_fill_sha1_info
 DECL|function|diff_flush
+DECL|function|diff_flush_checkdiff
 DECL|function|diff_flush_name
 DECL|function|diff_flush_patch
 DECL|function|diff_flush_raw
@@ -25,6 +29,7 @@ DECL|function|diff_resolve_rename_copy
 DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_setup_done
+DECL|function|diff_summary
 DECL|function|diff_unique_abbrev
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
@@ -33,6 +38,7 @@ DECL|function|diffcore_std
 DECL|function|diffcore_std_no_resolve
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
+DECL|function|emit_binary_diff
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec
@@ -42,6 +48,7 @@ DECL|function|fn_out
 DECL|function|git_diff_config
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
+DECL|function|opt_arg
 DECL|function|parse_num
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
@@ -51,10 +58,14 @@ DECL|function|quote_one
 DECL|function|quote_two
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
+DECL|function|run_checkdiff
 DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
+DECL|function|show_file_mode_name
+DECL|function|show_mode_change
+DECL|function|show_rename_copy
 DECL|function|show_stats
 DECL|function|spawn_prog
 DECL|function|work_tree_matches
@@ -63,12 +74,14 @@ DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|added
 DECL|member|alloc
 DECL|member|deleted
+DECL|member|filename
 DECL|member|files
 DECL|member|hex
 DECL|member|is_binary
 DECL|member|is_renamed
 DECL|member|is_unmerged
 DECL|member|label_path
+DECL|member|lineno
 DECL|member|mode
 DECL|member|name
 DECL|member|name
@@ -77,6 +90,8 @@ DECL|member|sha1
 DECL|member|size
 DECL|member|tmp_path
 DECL|member|xm
+DECL|member|xm
+DECL|struct|checkdiff_t
 DECL|struct|diff_tempfile
 DECL|struct|diffstat_file
 DECL|struct|diffstat_t

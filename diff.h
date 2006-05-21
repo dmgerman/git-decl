@@ -1,6 +1,7 @@
 DECL|macro|COMMON_DIFF_OPTIONS_HELP
 DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
+DECL|macro|DIFF_FORMAT_CHECKDIFF
 DECL|macro|DIFF_FORMAT_DIFFSTAT
 DECL|macro|DIFF_FORMAT_NAME
 DECL|macro|DIFF_FORMAT_NAME_STATUS
@@ -26,8 +27,10 @@ DECL|macro|DIFF_STATUS_UNMERGED
 DECL|macro|combine_diff_path_size
 DECL|member|abbrev
 DECL|member|add_remove
+DECL|member|binary
 DECL|member|break_opt
 DECL|member|change
+DECL|member|context
 DECL|member|detect_rename
 DECL|member|filter
 DECL|member|find_copies_harder
@@ -55,6 +58,7 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|member|silent_on_remove
 DECL|member|status
+DECL|member|summary
 DECL|member|tree_in_recursive
 DECL|member|with_raw
 DECL|member|with_stat

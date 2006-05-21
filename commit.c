@@ -29,9 +29,14 @@ DECL|function|sort_in_topological_order
 DECL|function|sort_in_topological_order_fn
 DECL|function|topo_sort_default_getter
 DECL|function|topo_sort_default_setter
+DECL|member|cmp_len
 DECL|member|indegree
 DECL|member|list_item
+DECL|member|n
+DECL|member|v
+DECL|struct|cmt_fmt_map
 DECL|struct|sort_node
+DECL|variable|cmt_fmts
 DECL|variable|commit_graft
 DECL|variable|commit_graft_alloc
 DECL|variable|commit_graft_nr

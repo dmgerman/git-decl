@@ -17,6 +17,7 @@ DECL|function|twoway_merge
 DECL|function|unlink_entry
 DECL|function|unpack_trees
 DECL|function|unpack_trees_rec
+DECL|function|verify_absent
 DECL|function|verify_uptodate
 DECL|macro|DBRT_DEBUG
 DECL|typedef|merge_fn_t
@@ -31,6 +32,7 @@ DECL|variable|merge_size
 DECL|variable|nontrivial_merge
 DECL|variable|progress_update
 DECL|variable|read_tree_usage
+DECL|variable|reset
 DECL|variable|trees
 DECL|variable|trivial_merges_only
 DECL|variable|update
