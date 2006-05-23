@@ -1,4 +1,5 @@
 DECL|function|add_merge_info
+DECL|function|add_rfc2047
 DECL|function|add_user_info
 DECL|function|check_commit
 DECL|function|clear_commit_marks
@@ -10,6 +11,7 @@ DECL|function|get_commit_format
 DECL|function|get_one_line
 DECL|function|insert_by_date
 DECL|function|is_empty_line
+DECL|function|is_rfc2047_special
 DECL|function|lookup_commit
 DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference
