@@ -1,7 +1,9 @@
 DECL|function|cmd_tar_tree
+DECL|function|generate_tar
 DECL|function|get_path_prefix
 DECL|function|get_record
 DECL|function|reliable_write
+DECL|function|remote_tar
 DECL|function|strbuf_append_ext_header
 DECL|function|strbuf_append_string
 DECL|function|traverse_tree
@@ -15,5 +17,6 @@ DECL|macro|BLOCKSIZE
 DECL|macro|RECORDSIZE
 DECL|variable|archive_time
 DECL|variable|block
+DECL|variable|exec
 DECL|variable|offset
 DECL|variable|tar_tree_usage
