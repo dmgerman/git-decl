@@ -1,4 +1,4 @@
-DECL|function|main
+DECL|function|cmd_ls_tree
 DECL|function|show_recursive
 DECL|function|show_tree
 DECL|macro|LS_NAME_ONLY
