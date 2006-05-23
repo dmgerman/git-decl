@@ -1,6 +1,6 @@
+DECL|function|cmd_tar_tree
 DECL|function|get_path_prefix
 DECL|function|get_record
-DECL|function|main
 DECL|function|reliable_write
 DECL|function|strbuf_append_ext_header
 DECL|function|strbuf_append_string
