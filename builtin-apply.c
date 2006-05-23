@@ -13,6 +13,7 @@ DECL|function|apply_one_fragment
 DECL|function|apply_patch
 DECL|function|check_patch
 DECL|function|check_patch_list
+DECL|function|cmd_apply
 DECL|function|create_file
 DECL|function|create_one_file
 DECL|function|find_header
@@ -40,7 +41,6 @@ DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|is_null_sha1
 DECL|function|linelen
-DECL|function|main
 DECL|function|metadata_changes
 DECL|function|name_terminate
 DECL|function|numstat_patch_list
