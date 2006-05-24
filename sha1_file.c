@@ -39,6 +39,7 @@ DECL|function|read_object_with_reference
 DECL|function|read_packed_sha1
 DECL|function|read_pipe
 DECL|function|read_sha1_file
+DECL|function|repack_object
 DECL|function|safe_create_leading_directories
 DECL|function|sha1_file_name
 DECL|function|sha1_object_info
@@ -56,6 +57,7 @@ DECL|function|unpack_sha1_rest
 DECL|function|unuse_one_packed_git
 DECL|function|unuse_packed_git
 DECL|function|use_packed_git
+DECL|function|write_buffer
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
 DECL|function|write_sha1_from_fd
