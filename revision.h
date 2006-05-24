@@ -32,10 +32,12 @@ DECL|member|limited
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
+DECL|member|mime_boundary
 DECL|member|min_age
 DECL|member|no_commit_id
 DECL|member|no_merges
 DECL|member|no_walk
+DECL|member|nr
 DECL|member|parents
 DECL|member|pending_objects
 DECL|member|prefix
@@ -49,6 +51,7 @@ DECL|member|tag_objects
 DECL|member|topo_getter
 DECL|member|topo_order
 DECL|member|topo_setter
+DECL|member|total
 DECL|member|tree_objects
 DECL|member|unpacked
 DECL|member|up

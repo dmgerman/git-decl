@@ -14,7 +14,6 @@ DECL|macro|SEEN
 DECL|macro|TO_SCAN
 DECL|variable|complete
 DECL|variable|current_commit_sha1
-DECL|variable|current_ref
 DECL|variable|get_all
 DECL|variable|get_history
 DECL|variable|get_recover

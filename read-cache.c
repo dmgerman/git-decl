@@ -1,3 +1,6 @@
+DECL|function|ERR_PTR
+DECL|function|IS_ERR
+DECL|function|PTR_ERR
 DECL|function|add_cache_entry
 DECL|function|base_name_compare
 DECL|function|cache_name_compare
@@ -18,9 +21,13 @@ DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
 DECL|function|read_cache
+DECL|function|refresh_cache
+DECL|function|refresh_entry
 DECL|function|remove_cache_entry_at
 DECL|function|remove_file_from_cache
+DECL|function|verify_dotfile
 DECL|function|verify_hdr
+DECL|function|verify_path
 DECL|function|write_cache
 DECL|macro|WRITE_BUFFER_SIZE
 DECL|variable|active_alloc

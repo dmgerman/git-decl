@@ -1,9 +1,9 @@
 DECL|function|check_updates
+DECL|function|cmd_read_tree
 DECL|function|deleted_entry
 DECL|function|entcmp
 DECL|function|keep_entry
 DECL|function|list_tree
-DECL|function|main
 DECL|function|merged_entry
 DECL|function|oneway_merge
 DECL|function|progress_interval
@@ -17,6 +17,7 @@ DECL|function|twoway_merge
 DECL|function|unlink_entry
 DECL|function|unpack_trees
 DECL|function|unpack_trees_rec
+DECL|function|verify_absent
 DECL|function|verify_uptodate
 DECL|macro|DBRT_DEBUG
 DECL|typedef|merge_fn_t
