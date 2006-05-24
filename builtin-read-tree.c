@@ -1,9 +1,9 @@
 DECL|function|check_updates
+DECL|function|cmd_read_tree
 DECL|function|deleted_entry
 DECL|function|entcmp
 DECL|function|keep_entry
 DECL|function|list_tree
-DECL|function|main
 DECL|function|merged_entry
 DECL|function|oneway_merge
 DECL|function|progress_interval

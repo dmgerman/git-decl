@@ -1,2 +1,2 @@
-DECL|function|main
+DECL|function|cmd_diff_files
 DECL|variable|diff_files_usage

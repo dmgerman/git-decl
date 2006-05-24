@@ -3,13 +3,13 @@ DECL|function|append_matching_ref
 DECL|function|append_one_rev
 DECL|function|append_ref
 DECL|function|append_tag_ref
+DECL|function|cmd_show_branch
 DECL|function|compare_ref_name
 DECL|function|count_slash
 DECL|function|find_digit_prefix
 DECL|function|git_show_branch_config
 DECL|function|interesting
 DECL|function|join_revs
-DECL|function|main
 DECL|function|mark_seen
 DECL|function|name_commit
 DECL|function|name_commits

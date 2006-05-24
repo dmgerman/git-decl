@@ -100,6 +100,7 @@ DECL|struct|sha1_size_cache
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
+DECL|variable|mime_boundary_leader
 DECL|variable|minuses
 DECL|variable|pluses
 DECL|variable|sha1_size_cache
