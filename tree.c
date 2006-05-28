@@ -1,3 +1,5 @@
+DECL|function|create_tree_entry_list
+DECL|function|free_tree_entry_list
 DECL|function|lookup_tree
 DECL|function|match_tree_entry
 DECL|function|parse_tree
@@ -6,4 +8,5 @@ DECL|function|parse_tree_indirect
 DECL|function|read_one_entry
 DECL|function|read_tree
 DECL|function|read_tree_recursive
+DECL|function|track_tree_refs
 DECL|variable|tree_type

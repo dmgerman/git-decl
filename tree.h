@@ -2,7 +2,6 @@ DECL|macro|READ_TREE_RECURSIVE
 DECL|macro|TREE_H
 DECL|member|buffer
 DECL|member|directory
-DECL|member|entries
 DECL|member|executable
 DECL|member|mode
 DECL|member|name
