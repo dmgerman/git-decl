@@ -2,6 +2,7 @@ DECL|macro|READ_TREE_RECURSIVE
 DECL|macro|TREE_H
 DECL|member|any
 DECL|member|blob
+DECL|member|buffer
 DECL|member|directory
 DECL|member|entries
 DECL|member|executable
@@ -10,6 +11,7 @@ DECL|member|mode
 DECL|member|name
 DECL|member|next
 DECL|member|object
+DECL|member|size
 DECL|member|symlink
 DECL|member|tree
 DECL|member|zeropad
