@@ -3,6 +3,7 @@ DECL|function|builtin_diff
 DECL|function|builtin_diffstat
 DECL|function|copy_file
 DECL|function|count_lines
+DECL|function|deflate_it
 DECL|function|diff_addremove
 DECL|function|diff_change
 DECL|function|diff_debug_filepair
@@ -25,6 +26,7 @@ DECL|function|diff_resolve_rename_copy
 DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_setup_done
+DECL|function|diff_summary
 DECL|function|diff_unique_abbrev
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
@@ -33,6 +35,7 @@ DECL|function|diffcore_std
 DECL|function|diffcore_std_no_resolve
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
+DECL|function|emit_binary_diff
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec
@@ -42,6 +45,7 @@ DECL|function|fn_out
 DECL|function|git_diff_config
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
+DECL|function|opt_arg
 DECL|function|parse_num
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
@@ -55,6 +59,9 @@ DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
+DECL|function|show_file_mode_name
+DECL|function|show_mode_change
+DECL|function|show_rename_copy
 DECL|function|show_stats
 DECL|function|spawn_prog
 DECL|function|work_tree_matches

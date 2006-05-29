@@ -7,3 +7,4 @@ DECL|function|prefix_path
 DECL|function|setup_git_directory
 DECL|function|setup_git_directory_gently
 DECL|function|verify_filename
+DECL|function|verify_non_filename
