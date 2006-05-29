@@ -10,7 +10,6 @@ DECL|member|object
 DECL|member|sha1
 DECL|member|size
 DECL|member|symlink
-DECL|member|zeropad
 DECL|struct|tree
 DECL|struct|tree_entry_list
 DECL|typedef|read_tree_fn_t
