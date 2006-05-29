@@ -1,15 +1,7 @@
 DECL|macro|READ_TREE_RECURSIVE
 DECL|macro|TREE_H
 DECL|member|buffer
-DECL|member|directory
-DECL|member|executable
-DECL|member|mode
-DECL|member|name
-DECL|member|next
 DECL|member|object
-DECL|member|sha1
 DECL|member|size
-DECL|member|symlink
 DECL|struct|tree
-DECL|struct|tree_entry_list
 DECL|typedef|read_tree_fn_t
