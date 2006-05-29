@@ -1,6 +1,7 @@
 DECL|macro|COMMON_DIFF_OPTIONS_HELP
 DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
+DECL|macro|DIFF_FORMAT_CHECKDIFF
 DECL|macro|DIFF_FORMAT_DIFFSTAT
 DECL|macro|DIFF_FORMAT_NAME
 DECL|macro|DIFF_FORMAT_NAME_STATUS
@@ -56,6 +57,7 @@ DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|silent_on_remove
+DECL|member|stat_sep
 DECL|member|status
 DECL|member|summary
 DECL|member|tree_in_recursive

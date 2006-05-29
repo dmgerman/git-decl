@@ -1,3 +1,3 @@
+DECL|function|cmd_cat_file
 DECL|function|flush_buffer
-DECL|function|main
 DECL|function|pprint_tag

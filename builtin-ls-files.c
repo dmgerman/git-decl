@@ -1,4 +1,4 @@
-DECL|function|main
+DECL|function|cmd_ls_files
 DECL|function|match
 DECL|function|prune_cache
 DECL|function|show_ce_entry

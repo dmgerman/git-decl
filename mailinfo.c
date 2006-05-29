@@ -28,12 +28,15 @@ DECL|function|handle_subcontent_type
 DECL|function|handle_subject
 DECL|function|hexval
 DECL|function|is_multipart_boundary
+DECL|function|is_rfc2822_header
 DECL|function|main
 DECL|function|read_one_header_line
 DECL|function|sanity_check
 DECL|function|slurp_attr
+DECL|macro|SEEN_BOGUS_UNIX_FROM
 DECL|macro|SEEN_DATE
 DECL|macro|SEEN_FROM
+DECL|macro|SEEN_PREFIX
 DECL|macro|SEEN_SUBJECT
 DECL|macro|_GNU_SOURCE
 DECL|member|func
