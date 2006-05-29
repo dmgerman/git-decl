@@ -21,6 +21,7 @@ DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
 DECL|function|read_cache
+DECL|function|read_index_extension
 DECL|function|refresh_cache
 DECL|function|refresh_entry
 DECL|function|remove_cache_entry_at
@@ -29,10 +30,14 @@ DECL|function|verify_dotfile
 DECL|function|verify_hdr
 DECL|function|verify_path
 DECL|function|write_cache
+DECL|function|write_index_ext_header
+DECL|macro|CACHE_EXT
+DECL|macro|CACHE_EXT_TREE
 DECL|macro|WRITE_BUFFER_SIZE
 DECL|variable|active_alloc
 DECL|variable|active_cache
 DECL|variable|active_cache_changed
+DECL|variable|active_cache_tree
 DECL|variable|active_nr
 DECL|variable|index_file_timestamp
 DECL|variable|write_buffer
