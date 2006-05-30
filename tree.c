@@ -1,5 +1,3 @@
-DECL|function|create_tree_entry_list
-DECL|function|free_tree_entry_list
 DECL|function|lookup_tree
 DECL|function|match_tree_entry
 DECL|function|parse_tree

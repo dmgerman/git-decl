@@ -1,6 +1,7 @@
 DECL|function|bind_merge
 DECL|function|check_updates
 DECL|function|cmd_read_tree
+DECL|function|create_tree_entry_list
 DECL|function|deleted_entry
 DECL|function|entcmp
 DECL|function|invalidate_ce_path
@@ -24,6 +25,14 @@ DECL|function|unpack_trees_rec
 DECL|function|verify_absent
 DECL|function|verify_uptodate
 DECL|macro|DBRT_DEBUG
+DECL|member|directory
+DECL|member|executable
+DECL|member|mode
+DECL|member|name
+DECL|member|next
+DECL|member|sha1
+DECL|member|symlink
+DECL|struct|tree_entry_list
 DECL|typedef|merge_fn_t
 DECL|variable|aggressive
 DECL|variable|cache_file
