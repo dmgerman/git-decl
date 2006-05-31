@@ -6,5 +6,6 @@ DECL|function|find_tree_entry
 DECL|function|get_mode
 DECL|function|get_tree_entry
 DECL|function|traverse_trees
+DECL|function|tree_entry
 DECL|function|tree_entry_extract
 DECL|function|update_tree_entry
