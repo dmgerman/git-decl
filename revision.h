@@ -12,6 +12,7 @@ DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
 DECL|member|abbrev
 DECL|member|abbrev_commit
+DECL|member|add_signoff
 DECL|member|always_show_header
 DECL|member|blob_objects
 DECL|member|boundary
