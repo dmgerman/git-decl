@@ -26,6 +26,7 @@ DECL|member|diffopt
 DECL|member|edge_hint
 DECL|member|elem
 DECL|member|elem_len
+DECL|member|extra_headers
 DECL|member|full_diff
 DECL|member|ignore_merges
 DECL|member|lifo
