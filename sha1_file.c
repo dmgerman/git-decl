@@ -40,6 +40,7 @@ DECL|function|read_packed_sha1
 DECL|function|read_pipe
 DECL|function|read_sha1_file
 DECL|function|repack_object
+DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
 DECL|function|sha1_file_name
 DECL|function|sha1_object_info
@@ -71,4 +72,5 @@ DECL|variable|null_sha1
 DECL|variable|pack_mapped
 DECL|variable|pack_used_ctr
 DECL|variable|packed_git
+DECL|variable|prepare_packed_git_run_once
 DECL|variable|sha1_file_open_flag
