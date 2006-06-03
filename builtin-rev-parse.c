@@ -1,5 +1,5 @@
+DECL|function|cmd_rev_parse
 DECL|function|is_rev_argument
-DECL|function|main
 DECL|function|show
 DECL|function|show_datestring
 DECL|function|show_default
