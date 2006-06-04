@@ -14,6 +14,7 @@ DECL|variable|git_graft_file
 DECL|variable|git_index_file
 DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
+DECL|variable|log_all_ref_updates
 DECL|variable|prefer_symlink_refs
 DECL|variable|repository_format_version
 DECL|variable|shared_repository

@@ -22,3 +22,4 @@ DECL|variable|get_verbosely
 DECL|variable|process_queue
 DECL|variable|process_queue_end
 DECL|variable|write_ref
+DECL|variable|write_ref_log_details
