@@ -12,6 +12,7 @@ DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
 DECL|member|abbrev
 DECL|member|abbrev_commit
+DECL|member|add_signoff
 DECL|member|always_show_header
 DECL|member|blob_objects
 DECL|member|boundary
@@ -25,6 +26,7 @@ DECL|member|diffopt
 DECL|member|edge_hint
 DECL|member|elem
 DECL|member|elem_len
+DECL|member|extra_headers
 DECL|member|full_diff
 DECL|member|ignore_merges
 DECL|member|lifo
