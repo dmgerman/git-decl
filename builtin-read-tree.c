@@ -34,11 +34,11 @@ DECL|member|symlink
 DECL|struct|tree_entry_list
 DECL|typedef|merge_fn_t
 DECL|variable|aggressive
-DECL|variable|cache_file
 DECL|variable|df_conflict_entry
 DECL|variable|df_conflict_list
 DECL|variable|head_idx
 DECL|variable|index_only
+DECL|variable|lock_file
 DECL|variable|merge
 DECL|variable|merge_size
 DECL|variable|nontrivial_merge

@@ -121,7 +121,6 @@ DECL|variable|allow_binary_replacement
 DECL|variable|applied_after_stripping
 DECL|variable|apply
 DECL|variable|apply_usage
-DECL|variable|cache_file
 DECL|variable|cached
 DECL|variable|check
 DECL|variable|check_index
@@ -129,6 +128,7 @@ DECL|variable|diffstat
 DECL|variable|excludes
 DECL|variable|line_termination
 DECL|variable|linenr
+DECL|variable|lock_file
 DECL|variable|max_change
 DECL|variable|max_len
 DECL|variable|minuses
