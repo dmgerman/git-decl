@@ -63,6 +63,7 @@ DECL|member|ce_mode
 DECL|member|ce_mtime
 DECL|member|ce_size
 DECL|member|ce_uid
+DECL|member|filename
 DECL|member|force
 DECL|member|force
 DECL|member|hdr_entries
@@ -70,7 +71,6 @@ DECL|member|hdr_signature
 DECL|member|hdr_version
 DECL|member|index_base
 DECL|member|index_size
-DECL|member|lockfile
 DECL|member|name
 DECL|member|name
 DECL|member|name
@@ -99,10 +99,10 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|struct|alternate_object_database
 DECL|struct|cache_entry
-DECL|struct|cache_file
 DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|struct|checkout
+DECL|struct|lock_file
 DECL|struct|pack_entry
 DECL|struct|packed_git
 DECL|struct|ref

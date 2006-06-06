@@ -3,4 +3,4 @@ DECL|function|cmd_add
 DECL|function|fill_directory
 DECL|function|prune_directory
 DECL|variable|builtin_add_usage
-DECL|variable|cache_file
+DECL|variable|lock_file

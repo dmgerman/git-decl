@@ -1,6 +1,0 @@
-DECL|function|commit_index_file
-DECL|function|hold_index_file_for_update
-DECL|function|remove_lock_file
-DECL|function|remove_lock_file_on_signal
-DECL|function|rollback_index_file
-DECL|variable|cache_file_list

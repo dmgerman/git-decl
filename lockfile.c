@@ -1,0 +1,6 @@
+DECL|function|commit_lock_file
+DECL|function|hold_lock_file_for_update
+DECL|function|remove_lock_file
+DECL|function|remove_lock_file_on_signal
+DECL|function|rollback_lock_file
+DECL|variable|lock_file_list

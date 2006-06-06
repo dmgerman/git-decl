@@ -16,10 +16,10 @@ DECL|macro|UNMARK_VALID
 DECL|variable|allow_add
 DECL|variable|allow_remove
 DECL|variable|allow_replace
-DECL|variable|cache_file
 DECL|variable|force_remove
 DECL|variable|head_sha1
 DECL|variable|info_only
+DECL|variable|lock_file
 DECL|variable|mark_valid_only
 DECL|variable|merge_head_sha1
 DECL|variable|update_index_usage
