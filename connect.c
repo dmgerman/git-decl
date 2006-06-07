@@ -12,7 +12,8 @@ DECL|function|git_connect
 DECL|function|git_proxy_command_options
 DECL|function|git_proxy_connect
 DECL|function|git_tcp_connect
-DECL|function|git_tcp_connect
+DECL|function|git_tcp_connect_sock
+DECL|function|git_tcp_connect_sock
 DECL|function|git_use_proxy
 DECL|function|link_dst_tail
 DECL|function|match_explicit_refs
