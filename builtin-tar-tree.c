@@ -1,3 +1,4 @@
+DECL|function|cmd_get_tar_commit_id
 DECL|function|cmd_tar_tree
 DECL|function|generate_tar
 DECL|function|get_path_prefix
@@ -14,6 +15,7 @@ DECL|function|write_global_extended_header
 DECL|function|write_if_needed
 DECL|function|write_trailer
 DECL|macro|BLOCKSIZE
+DECL|macro|HEADERSIZE
 DECL|macro|RECORDSIZE
 DECL|variable|archive_time
 DECL|variable|block
