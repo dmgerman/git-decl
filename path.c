@@ -1,3 +1,4 @@
+DECL|function|adjust_shared_perm
 DECL|function|cleanup_path
 DECL|function|enter_repo
 DECL|function|git_mkstemp
