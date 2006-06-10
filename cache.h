@@ -1,3 +1,7 @@
+DECL|enumerator|PERM_EVERYBODY
+DECL|enumerator|PERM_GROUP
+DECL|enumerator|PERM_UMASK
+DECL|enum|sharedrepo
 DECL|function|create_ce_mode
 DECL|macro|ADD_CACHE_OK_TO_ADD
 DECL|macro|ADD_CACHE_OK_TO_REPLACE
