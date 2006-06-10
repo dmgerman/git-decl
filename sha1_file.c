@@ -1,5 +1,4 @@
 DECL|function|add_packed_git
-DECL|function|adjust_shared_perm
 DECL|function|check_packed_git_idx
 DECL|function|check_reuse_pack_delta
 DECL|function|check_sha1_signature
