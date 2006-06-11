@@ -49,6 +49,7 @@ DECL|member|pruning
 DECL|member|remove_empty_trees
 DECL|member|show_root_diff
 DECL|member|shown_one
+DECL|member|simplify_history
 DECL|member|tag_objects
 DECL|member|topo_getter
 DECL|member|topo_order
