@@ -1,9 +1,9 @@
 DECL|function|add_cacheinfo
 DECL|function|add_file_to_cache
 DECL|function|chmod_path
+DECL|function|cmd_update_index
 DECL|function|do_reupdate
 DECL|function|do_unresolve
-DECL|function|main
 DECL|function|mark_valid
 DECL|function|read_head_pointers
 DECL|function|read_index_info
@@ -19,7 +19,6 @@ DECL|variable|allow_replace
 DECL|variable|force_remove
 DECL|variable|head_sha1
 DECL|variable|info_only
-DECL|variable|lock_file
 DECL|variable|mark_valid_only
 DECL|variable|merge_head_sha1
 DECL|variable|update_index_usage
