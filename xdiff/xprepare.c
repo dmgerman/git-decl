@@ -12,6 +12,7 @@ DECL|function|xdl_trim_ends
 DECL|macro|XDL_KPDIS_RUN
 DECL|macro|XDL_MAX_EQLIMIT
 DECL|member|count
+DECL|member|flags
 DECL|member|ha
 DECL|member|hbits
 DECL|member|hsize

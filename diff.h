@@ -64,6 +64,7 @@ DECL|member|summary
 DECL|member|tree_in_recursive
 DECL|member|with_raw
 DECL|member|with_stat
+DECL|member|xdl_opts
 DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path
 DECL|struct|diff_options
