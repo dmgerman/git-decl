@@ -1,4 +1,13 @@
+DECL|function|typename
+DECL|macro|FLAG_BITS
 DECL|macro|OBJECT_H
+DECL|macro|TYPE_BAD
+DECL|macro|TYPE_BITS
+DECL|macro|TYPE_BLOB
+DECL|macro|TYPE_COMMIT
+DECL|macro|TYPE_NONE
+DECL|macro|TYPE_TAG
+DECL|macro|TYPE_TREE
 DECL|member|count
 DECL|member|flags
 DECL|member|item
