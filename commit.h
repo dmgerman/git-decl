@@ -19,6 +19,7 @@ DECL|member|parent
 DECL|member|parents
 DECL|member|sha1
 DECL|member|tree
+DECL|member|util
 DECL|struct|commit
 DECL|struct|commit_graft
 DECL|struct|commit_list

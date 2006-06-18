@@ -19,7 +19,6 @@ DECL|member|refs
 DECL|member|sha1
 DECL|member|type
 DECL|member|used
-DECL|member|util
 DECL|struct|object
 DECL|struct|object_list
 DECL|struct|object_refs
