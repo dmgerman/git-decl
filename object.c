@@ -1,18 +1,14 @@
-DECL|function|alloc_object_refs
-DECL|function|compare_object_pointers
 DECL|function|created_object
 DECL|function|find_object
 DECL|function|hashtable_index
 DECL|function|lookup_object
 DECL|function|lookup_object_type
 DECL|function|lookup_unknown_object
-DECL|function|mark_reachable
 DECL|function|object_list_append
 DECL|function|object_list_contains
 DECL|function|object_list_insert
 DECL|function|object_list_length
 DECL|function|parse_object
-DECL|function|set_object_refs
 DECL|member|blob
 DECL|member|commit
 DECL|member|object
@@ -22,5 +18,4 @@ DECL|union|any_object
 DECL|variable|nr_objs
 DECL|variable|obj_allocs
 DECL|variable|objs
-DECL|variable|track_object_refs
 DECL|variable|type_names
