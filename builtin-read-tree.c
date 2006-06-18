@@ -1,3 +1,4 @@
+DECL|function|bind_merge
 DECL|function|check_updates
 DECL|function|cmd_read_tree
 DECL|function|create_tree_entry_list
@@ -42,6 +43,7 @@ DECL|variable|lock_file
 DECL|variable|merge
 DECL|variable|merge_size
 DECL|variable|nontrivial_merge
+DECL|variable|prefix
 DECL|variable|progress_update
 DECL|variable|read_tree_usage
 DECL|variable|reset
