@@ -1,8 +1,14 @@
+DECL|enumerator|DIFF_FILE_NEW
+DECL|enumerator|DIFF_FILE_OLD
+DECL|enumerator|DIFF_METAINFO
+DECL|enumerator|DIFF_PLAIN
+DECL|enum|color_diff
 DECL|function|alloc_filespec
 DECL|function|builtin_checkdiff
 DECL|function|builtin_diff
 DECL|function|builtin_diffstat
 DECL|function|checkdiff_consume
+DECL|function|color_diff
 DECL|function|copy_file
 DECL|function|count_lines
 DECL|function|deflate_it
@@ -44,7 +50,7 @@ DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
 DECL|function|flush_one_pair
-DECL|function|fn_out
+DECL|function|fn_out_consume
 DECL|function|git_diff_config
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
@@ -73,6 +79,7 @@ DECL|macro|FIRST_FEW_BYTES
 DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|added
 DECL|member|alloc
+DECL|member|color_diff
 DECL|member|deleted
 DECL|member|filename
 DECL|member|files
@@ -85,10 +92,12 @@ DECL|member|lineno
 DECL|member|mode
 DECL|member|name
 DECL|member|name
+DECL|member|nparents
 DECL|member|nr
 DECL|member|sha1
 DECL|member|size
 DECL|member|tmp_path
+DECL|member|xm
 DECL|member|xm
 DECL|member|xm
 DECL|struct|checkdiff_t
@@ -97,6 +106,7 @@ DECL|struct|diffstat_file
 DECL|struct|diffstat_t
 DECL|struct|emit_callback
 DECL|struct|sha1_size_cache
+DECL|variable|diff_colors
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
