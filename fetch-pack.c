@@ -12,6 +12,7 @@ DECL|function|rev_list_push
 DECL|macro|COMMON
 DECL|macro|COMMON_REF
 DECL|macro|COMPLETE
+DECL|macro|MAX_IN_VAIN
 DECL|macro|POPPED
 DECL|macro|SEEN
 DECL|variable|complete
