@@ -1,0 +1,13 @@
+DECL|function|add_object_refs
+DECL|function|alloc_object_refs
+DECL|function|compare_object_pointers
+DECL|function|grow_refs_hash
+DECL|function|hash_obj
+DECL|function|insert_ref_hash
+DECL|function|lookup_object_refs
+DECL|function|mark_reachable
+DECL|function|set_object_refs
+DECL|variable|nr_object_refs
+DECL|variable|refs_hash
+DECL|variable|refs_hash_size
+DECL|variable|track_object_refs

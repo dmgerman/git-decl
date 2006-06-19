@@ -8,6 +8,7 @@ DECL|macro|TYPE_COMMIT
 DECL|macro|TYPE_NONE
 DECL|macro|TYPE_TAG
 DECL|macro|TYPE_TREE
+DECL|member|base
 DECL|member|count
 DECL|member|flags
 DECL|member|item
@@ -15,7 +16,6 @@ DECL|member|name
 DECL|member|next
 DECL|member|parsed
 DECL|member|ref
-DECL|member|refs
 DECL|member|sha1
 DECL|member|type
 DECL|member|used
