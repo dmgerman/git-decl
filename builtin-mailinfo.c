@@ -7,6 +7,7 @@ DECL|function|check_header_line
 DECL|function|check_subheader_line
 DECL|function|cleanup_space
 DECL|function|cleanup_subject
+DECL|function|cmd_mailinfo
 DECL|function|convert_to_utf8
 DECL|function|decode_b_segment
 DECL|function|decode_header_bq
@@ -29,7 +30,7 @@ DECL|function|handle_subject
 DECL|function|hexval
 DECL|function|is_multipart_boundary
 DECL|function|is_rfc2822_header
-DECL|function|main
+DECL|function|mailinfo
 DECL|function|read_one_header_line
 DECL|function|sanity_check
 DECL|function|slurp_attr
@@ -48,6 +49,8 @@ DECL|variable|charset
 DECL|variable|cmitmsg
 DECL|variable|date
 DECL|variable|email
+DECL|variable|fin
+DECL|variable|fout
 DECL|variable|keep_subject
 DECL|variable|line
 DECL|variable|mailinfo_usage
