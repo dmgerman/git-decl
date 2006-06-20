@@ -41,7 +41,7 @@ DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
 DECL|member|parents
-DECL|member|pending_objects
+DECL|member|pending
 DECL|member|prefix
 DECL|member|prune_data
 DECL|member|prune_fn
