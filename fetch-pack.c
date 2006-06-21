@@ -24,5 +24,6 @@ DECL|variable|multi_ack
 DECL|variable|non_common_revs
 DECL|variable|quiet
 DECL|variable|rev_list
+DECL|variable|use_sideband
 DECL|variable|use_thin_pack
 DECL|variable|verbose
