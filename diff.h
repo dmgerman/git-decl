@@ -30,6 +30,7 @@ DECL|member|add_remove
 DECL|member|binary
 DECL|member|break_opt
 DECL|member|change
+DECL|member|color_diff
 DECL|member|context
 DECL|member|detect_rename
 DECL|member|filter
