@@ -1,2 +1,2 @@
-DECL|function|main
+DECL|function|cmd_update_ref
 DECL|variable|git_update_ref_usage
