@@ -1,3 +1,4 @@
+DECL|function|add_object_array
 DECL|function|created_object
 DECL|function|find_object
 DECL|function|hashtable_index

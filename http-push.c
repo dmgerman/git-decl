@@ -12,6 +12,7 @@ DECL|enumerator|XML_STATUS_OK
 DECL|enum|XML_Status
 DECL|enum|transfer_state
 DECL|function|add_fetch_request
+DECL|function|add_one_object
 DECL|function|add_remote_info_ref
 DECL|function|add_send_request
 DECL|function|check_locks
