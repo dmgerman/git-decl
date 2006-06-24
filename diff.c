@@ -9,6 +9,7 @@ DECL|function|alloc_filespec
 DECL|function|builtin_checkdiff
 DECL|function|builtin_diff
 DECL|function|builtin_diffstat
+DECL|function|check_pair_status
 DECL|function|checkdiff_consume
 DECL|function|copy_file
 DECL|function|count_lines

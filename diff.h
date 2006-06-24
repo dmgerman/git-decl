@@ -8,6 +8,7 @@ DECL|macro|DIFF_FORMAT_NAME_STATUS
 DECL|macro|DIFF_FORMAT_NO_OUTPUT
 DECL|macro|DIFF_FORMAT_PATCH
 DECL|macro|DIFF_FORMAT_RAW
+DECL|macro|DIFF_FORMAT_SUMMARY
 DECL|macro|DIFF_H
 DECL|macro|DIFF_PICKAXE_ALL
 DECL|macro|DIFF_PICKAXE_REGEX
@@ -60,10 +61,7 @@ DECL|member|sha1
 DECL|member|silent_on_remove
 DECL|member|stat_sep
 DECL|member|status
-DECL|member|summary
 DECL|member|tree_in_recursive
-DECL|member|with_raw
-DECL|member|with_stat
 DECL|member|xdl_opts
 DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path
