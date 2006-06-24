@@ -57,6 +57,8 @@ DECL|function|git_diff_config
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
 DECL|function|opt_arg
+DECL|function|parse_diff_color_slot
+DECL|function|parse_diff_color_value
 DECL|function|parse_num
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
@@ -82,9 +84,7 @@ DECL|macro|COLOR_BLINK
 DECL|macro|COLOR_BLUE
 DECL|macro|COLOR_BOLD
 DECL|macro|COLOR_CYAN
-DECL|macro|COLOR_CYANBG
 DECL|macro|COLOR_DIM
-DECL|macro|COLOR_GRAYBG
 DECL|macro|COLOR_GREEN
 DECL|macro|COLOR_MAGENTA
 DECL|macro|COLOR_NORMAL
@@ -129,6 +129,7 @@ DECL|variable|diff_colors
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
+DECL|variable|diff_use_color_default
 DECL|variable|mime_boundary_leader
 DECL|variable|minuses
 DECL|variable|pluses
