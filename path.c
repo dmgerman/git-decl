@@ -4,7 +4,6 @@ DECL|function|enter_repo
 DECL|function|git_mkstemp
 DECL|function|git_path
 DECL|function|mkpath
-DECL|function|safe_strncpy
 DECL|function|user_path
 DECL|function|validate_symref
 DECL|variable|bad_path
