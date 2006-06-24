@@ -84,6 +84,7 @@ DECL|member|buffer
 DECL|member|def_name
 DECL|member|deflate_origlen
 DECL|member|fragments
+DECL|member|inaccurate_eof
 DECL|member|is_binary
 DECL|member|is_copy
 DECL|member|is_delete
