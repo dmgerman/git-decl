@@ -8,7 +8,6 @@ DECL|function|get_patch_ids
 DECL|function|git_format_config
 DECL|function|istitlechar
 DECL|function|reopen_stdout
-DECL|function|reset_all_objects_flags
 DECL|variable|extra_headers
 DECL|variable|extra_headers_size
 DECL|variable|output_directory
