@@ -55,6 +55,7 @@ DECL|function|flush_one_pair
 DECL|function|fn_out_consume
 DECL|function|get_color
 DECL|function|git_diff_config
+DECL|function|is_summary_empty
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
 DECL|function|opt_arg
