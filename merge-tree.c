@@ -5,8 +5,12 @@ DECL|function|get_tree_descriptor
 DECL|function|link_entry
 DECL|function|main
 DECL|function|merge_trees
+DECL|function|origin
 DECL|function|resolve
+DECL|function|result
 DECL|function|same_entry
+DECL|function|show_diff
+DECL|function|show_outf
 DECL|function|show_result
 DECL|function|show_result_list
 DECL|function|threeway_callback
