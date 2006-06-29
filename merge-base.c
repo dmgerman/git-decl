@@ -1,3 +1,4 @@
+DECL|function|get_merge_bases
 DECL|function|interesting
 DECL|function|main
 DECL|function|mark_reachable_commits
