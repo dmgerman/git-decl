@@ -23,10 +23,12 @@ DECL|function|diff_flush
 DECL|function|diff_flush_checkdiff
 DECL|function|diff_flush_name
 DECL|function|diff_flush_patch
+DECL|function|diff_flush_patch_id
 DECL|function|diff_flush_raw
 DECL|function|diff_flush_stat
 DECL|function|diff_free_filepair
 DECL|function|diff_free_filespec_data
+DECL|function|diff_get_patch_id
 DECL|function|diff_opt_parse
 DECL|function|diff_populate_filespec
 DECL|function|diff_q
@@ -60,12 +62,14 @@ DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
 DECL|function|parse_diff_color_value
 DECL|function|parse_num
+DECL|function|patch_id_consume
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|print_line_count
 DECL|function|quote_one
 DECL|function|quote_two
+DECL|function|remove_space
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
 DECL|function|run_checkdiff
@@ -99,6 +103,7 @@ DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|added
 DECL|member|alloc
 DECL|member|color_diff
+DECL|member|ctx
 DECL|member|deleted
 DECL|member|filename
 DECL|member|files
@@ -113,9 +118,11 @@ DECL|member|name
 DECL|member|name
 DECL|member|nparents
 DECL|member|nr
+DECL|member|patchlen
 DECL|member|sha1
 DECL|member|size
 DECL|member|tmp_path
+DECL|member|xm
 DECL|member|xm
 DECL|member|xm
 DECL|member|xm
@@ -124,6 +131,7 @@ DECL|struct|diff_tempfile
 DECL|struct|diffstat_file
 DECL|struct|diffstat_t
 DECL|struct|emit_callback
+DECL|struct|patch_id_t
 DECL|struct|sha1_size_cache
 DECL|variable|diff_colors
 DECL|variable|diff_queued_diff
