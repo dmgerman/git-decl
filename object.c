@@ -1,6 +1,8 @@
 DECL|function|add_object_array
 DECL|function|created_object
 DECL|function|find_object
+DECL|function|get_indexed_object
+DECL|function|get_max_object_index
 DECL|function|hashtable_index
 DECL|function|lookup_object
 DECL|function|lookup_object_type
