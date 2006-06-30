@@ -1,9 +1,11 @@
 DECL|function|add_object_array
 DECL|function|created_object
-DECL|function|find_object
 DECL|function|get_indexed_object
 DECL|function|get_max_object_index
+DECL|function|grow_object_hash
+DECL|function|hash_obj
 DECL|function|hashtable_index
+DECL|function|insert_obj_hash
 DECL|function|lookup_object
 DECL|function|lookup_object_type
 DECL|function|lookup_unknown_object
@@ -19,6 +21,6 @@ DECL|member|tag
 DECL|member|tree
 DECL|union|any_object
 DECL|variable|nr_objs
-DECL|variable|obj_allocs
-DECL|variable|objs
+DECL|variable|obj_hash
+DECL|variable|obj_hash_size
 DECL|variable|type_names
