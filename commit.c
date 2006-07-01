@@ -9,6 +9,7 @@ DECL|function|count_parents
 DECL|function|free_commit_list
 DECL|function|get_commit_format
 DECL|function|get_merge_bases
+DECL|function|get_merge_bases_clean
 DECL|function|get_one_line
 DECL|function|insert_by_date
 DECL|function|interesting
