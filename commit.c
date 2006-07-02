@@ -36,7 +36,7 @@ DECL|function|topo_sort_default_getter
 DECL|function|topo_sort_default_setter
 DECL|macro|PARENT1
 DECL|macro|PARENT2
-DECL|macro|UNINTERESTING
+DECL|macro|STALE
 DECL|member|cmp_len
 DECL|member|indegree
 DECL|member|list_item
