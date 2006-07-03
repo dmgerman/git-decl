@@ -1,4 +1,5 @@
 DECL|function|add_object_array
+DECL|function|clear_object_marks
 DECL|function|created_object
 DECL|function|find_object
 DECL|function|hashtable_index
