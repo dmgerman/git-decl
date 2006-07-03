@@ -19,6 +19,7 @@ DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
 DECL|function|path_name
 DECL|function|prepare_revision_walk
+DECL|function|prepare_show_merge
 DECL|function|rev_compare_tree
 DECL|function|rev_same_tree_as_empty
 DECL|function|rewrite_one
