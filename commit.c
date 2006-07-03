@@ -6,6 +6,7 @@ DECL|function|clear_commit_marks
 DECL|function|commit_graft_pos
 DECL|function|commit_list_insert
 DECL|function|count_parents
+DECL|function|free_commit_grafts
 DECL|function|free_commit_list
 DECL|function|get_commit_format
 DECL|function|get_one_line
