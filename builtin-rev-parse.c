@@ -7,6 +7,7 @@ DECL|function|show_file
 DECL|function|show_flag
 DECL|function|show_reference
 DECL|function|show_rev
+DECL|function|try_difference
 DECL|macro|DO_FLAGS
 DECL|macro|DO_NONFLAGS
 DECL|macro|DO_NOREV
