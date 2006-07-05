@@ -1,5 +1,4 @@
 DECL|function|add_object_array
-DECL|function|clear_object_marks
 DECL|function|created_object
 DECL|function|get_indexed_object
 DECL|function|get_max_object_index
