@@ -44,3 +44,6 @@ DECL|member|word_regexp
 DECL|struct|grep_opt
 DECL|struct|grep_pat
 DECL|variable|builtin_grep_usage
+DECL|variable|emsg_invalid_context_len
+DECL|variable|emsg_missing_argument
+DECL|variable|emsg_missing_context_len
