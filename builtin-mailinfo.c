@@ -10,6 +10,7 @@ DECL|function|cleanup_subject
 DECL|function|cmd_mailinfo
 DECL|function|convert_to_utf8
 DECL|function|decode_b_segment
+DECL|function|decode_header
 DECL|function|decode_header_bq
 DECL|function|decode_q_segment
 DECL|function|decode_transfer_encoding
