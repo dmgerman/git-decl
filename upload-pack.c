@@ -14,9 +14,9 @@ DECL|macro|OUR_REF
 DECL|macro|PACKET_MAX
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
-DECL|variable|has_sha1
+DECL|variable|has_tip
 DECL|variable|multi_ack
-DECL|variable|needs_sha1
+DECL|variable|needs_tip
 DECL|variable|nr_has
 DECL|variable|nr_needs
 DECL|variable|nr_our_refs
