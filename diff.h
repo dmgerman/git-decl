@@ -62,6 +62,7 @@ DECL|member|sha1
 DECL|member|silent_on_remove
 DECL|member|stat_sep
 DECL|member|status
+DECL|member|text
 DECL|member|tree_in_recursive
 DECL|member|xdl_opts
 DECL|struct|combine_diff_parent
