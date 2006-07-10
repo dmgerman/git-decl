@@ -56,7 +56,7 @@ DECL|function|fill_mmfile
 DECL|function|flush_one_pair
 DECL|function|fn_out_consume
 DECL|function|get_color
-DECL|function|git_diff_config
+DECL|function|git_diff_ui_config
 DECL|function|is_summary_empty
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
@@ -136,6 +136,7 @@ DECL|struct|emit_callback
 DECL|struct|patch_id_t
 DECL|struct|sha1_size_cache
 DECL|variable|diff_colors
+DECL|variable|diff_detect_rename_default
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
