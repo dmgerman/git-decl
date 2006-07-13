@@ -18,6 +18,7 @@ DECL|function|service_loop
 DECL|function|set_reuse_addr
 DECL|function|socksetup
 DECL|function|socksetup
+DECL|function|store_pid
 DECL|function|upload
 DECL|macro|MAX_CHILDREN
 DECL|member|address
