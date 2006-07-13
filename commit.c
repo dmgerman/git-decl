@@ -18,7 +18,7 @@ DECL|function|lookup_commit
 DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference
 DECL|function|lookup_commit_reference_gently
-DECL|function|mark_reachable_commits
+DECL|function|merge_bases
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
@@ -36,6 +36,7 @@ DECL|function|topo_sort_default_getter
 DECL|function|topo_sort_default_setter
 DECL|macro|PARENT1
 DECL|macro|PARENT2
+DECL|macro|RESULT
 DECL|macro|STALE
 DECL|member|cmp_len
 DECL|member|indegree
