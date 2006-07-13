@@ -2,6 +2,7 @@ DECL|function|add_child
 DECL|function|avoid_alias
 DECL|function|check_max_connections
 DECL|function|child_handler
+DECL|function|daemon_die
 DECL|function|execute
 DECL|function|handle
 DECL|function|kill_some_children
