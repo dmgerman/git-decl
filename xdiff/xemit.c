@@ -1,3 +1,4 @@
+DECL|function|xdl_emit_common
 DECL|function|xdl_emit_diff
 DECL|function|xdl_emit_record
 DECL|function|xdl_find_func
