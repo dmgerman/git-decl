@@ -1,0 +1,15 @@
+DECL|function|add_cache_refs
+DECL|function|add_cache_tree
+DECL|function|add_one_ref
+DECL|function|add_one_tree
+DECL|function|cmd_prune
+DECL|function|process_blob
+DECL|function|process_tag
+DECL|function|process_tree
+DECL|function|prune_dir
+DECL|function|prune_object
+DECL|function|prune_object_dir
+DECL|function|walk_commit_list
+DECL|variable|prune_usage
+DECL|variable|revs
+DECL|variable|show_only
