@@ -12,6 +12,7 @@ DECL|function|logreport
 DECL|function|main
 DECL|function|path_ok
 DECL|function|remove_child
+DECL|function|sanitize_stdfds
 DECL|function|serve
 DECL|function|service_loop
 DECL|function|set_reuse_addr
