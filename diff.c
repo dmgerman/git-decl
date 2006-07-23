@@ -1,10 +1,3 @@
-DECL|enumerator|DIFF_FILE_NEW
-DECL|enumerator|DIFF_FILE_OLD
-DECL|enumerator|DIFF_FRAGINFO
-DECL|enumerator|DIFF_METAINFO
-DECL|enumerator|DIFF_PLAIN
-DECL|enumerator|DIFF_RESET
-DECL|enum|color_diff
 DECL|function|alloc_filespec
 DECL|function|builtin_checkdiff
 DECL|function|builtin_diff
@@ -29,6 +22,7 @@ DECL|function|diff_flush_raw
 DECL|function|diff_flush_stat
 DECL|function|diff_free_filepair
 DECL|function|diff_free_filespec_data
+DECL|function|diff_get_color
 DECL|function|diff_get_patch_id
 DECL|function|diff_opt_parse
 DECL|function|diff_populate_filespec
@@ -55,7 +49,6 @@ DECL|function|fill_filespec
 DECL|function|fill_mmfile
 DECL|function|flush_one_pair
 DECL|function|fn_out_consume
-DECL|function|get_color
 DECL|function|git_diff_ui_config
 DECL|function|is_summary_empty
 DECL|function|locate_size_cache
