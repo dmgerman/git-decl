@@ -14,6 +14,7 @@ DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|find_packed_object_size
 DECL|function|get_object_details
+DECL|function|git_pack_config
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
 DECL|function|main
@@ -100,5 +101,6 @@ DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|sorted_by_sha
 DECL|variable|sorted_by_type
+DECL|variable|window
 DECL|variable|written
 DECL|variable|written_delta
