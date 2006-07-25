@@ -34,6 +34,7 @@ DECL|member|limited
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
+DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
 DECL|member|no_commit_id
@@ -46,6 +47,7 @@ DECL|member|prefix
 DECL|member|prune_data
 DECL|member|prune_fn
 DECL|member|pruning
+DECL|member|ref_message_id
 DECL|member|remove_empty_trees
 DECL|member|show_root_diff
 DECL|member|shown_one
