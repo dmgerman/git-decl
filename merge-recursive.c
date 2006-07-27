@@ -55,8 +55,8 @@ DECL|struct|merge_file_info
 DECL|struct|rename
 DECL|struct|stage_data
 DECL|variable|cache_dirty
-DECL|variable|currentDirectorySet
-DECL|variable|currentFileSet
+DECL|variable|current_directory_set
+DECL|variable|current_file_set
 DECL|variable|index_only
 DECL|variable|original_index_file
 DECL|variable|output_indent
