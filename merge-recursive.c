@@ -15,7 +15,6 @@ DECL|function|git_unpack_file
 DECL|function|git_write_tree
 DECL|function|has_sha
 DECL|function|insert_stage_data
-DECL|function|ls_files
 DECL|function|main
 DECL|function|make_cache_entry
 DECL|function|make_virtual_commit
@@ -32,13 +31,10 @@ DECL|function|remove_path
 DECL|function|save_files_dirs
 DECL|function|setup_index
 DECL|function|sha_eq
-DECL|function|show_ce_entry
 DECL|function|unique_path
 DECL|function|update_file
 DECL|function|update_file_flags
 DECL|function|update_stages
-DECL|macro|debug
-DECL|macro|debug
 DECL|member|clean
 DECL|member|dst_entry
 DECL|member|merge
