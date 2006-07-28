@@ -1,6 +1,7 @@
 DECL|function|git_alias_config
 DECL|function|handle_alias
 DECL|function|handle_internal_command
+DECL|function|handle_options
 DECL|function|main
 DECL|function|prepend_to_path
 DECL|function|split_cmdline
