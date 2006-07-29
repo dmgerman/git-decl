@@ -16,6 +16,7 @@ DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
 DECL|variable|log_all_ref_updates
 DECL|variable|pager_in_use
+DECL|variable|pager_use_color
 DECL|variable|prefer_symlink_refs
 DECL|variable|repository_format_version
 DECL|variable|shared_repository
