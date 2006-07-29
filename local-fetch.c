@@ -7,6 +7,7 @@ DECL|function|main
 DECL|function|prefetch
 DECL|function|setup_index
 DECL|function|setup_indices
+DECL|variable|commits_on_stdin
 DECL|variable|local_pull_usage
 DECL|variable|packs
 DECL|variable|path
