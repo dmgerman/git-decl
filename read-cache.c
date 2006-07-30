@@ -1,7 +1,5 @@
-DECL|function|ERR_PTR
-DECL|function|IS_ERR
-DECL|function|PTR_ERR
 DECL|function|add_cache_entry
+DECL|function|add_file_to_index
 DECL|function|base_name_compare
 DECL|function|cache_name_compare
 DECL|function|cache_name_pos
@@ -21,9 +19,10 @@ DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
 DECL|function|read_cache
+DECL|function|read_cache_from
 DECL|function|read_index_extension
 DECL|function|refresh_cache
-DECL|function|refresh_entry
+DECL|function|refresh_cache_entry
 DECL|function|remove_cache_entry_at
 DECL|function|remove_file_from_cache
 DECL|function|verify_dotfile
@@ -39,6 +38,9 @@ DECL|variable|active_cache
 DECL|variable|active_cache_changed
 DECL|variable|active_cache_tree
 DECL|variable|active_nr
+DECL|variable|cache_errno
+DECL|variable|cache_mmap
+DECL|variable|cache_mmap_size
 DECL|variable|index_file_timestamp
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len
