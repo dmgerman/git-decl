@@ -5,6 +5,7 @@ DECL|function|handle_options
 DECL|function|main
 DECL|function|prepend_to_path
 DECL|function|split_cmdline
+DECL|macro|NEEDS_PREFIX
 DECL|variable|alias_command
 DECL|variable|alias_string
 DECL|variable|git_version_string
