@@ -12,7 +12,6 @@ DECL|variable|error_unmatch
 DECL|variable|line_terminator
 DECL|variable|ls_files_usage
 DECL|variable|pathspec
-DECL|variable|prefix
 DECL|variable|prefix_len
 DECL|variable|prefix_offset
 DECL|variable|ps_matched
