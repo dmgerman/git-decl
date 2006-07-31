@@ -1,4 +1,5 @@
 DECL|function|add_cache_entry
+DECL|function|add_file_to_index
 DECL|function|base_name_compare
 DECL|function|cache_name_compare
 DECL|function|cache_name_pos

@@ -2,6 +2,7 @@ DECL|function|cmd_get_tar_commit_id
 DECL|function|cmd_tar_tree
 DECL|function|generate_tar
 DECL|function|get_path_prefix
+DECL|function|git_tar_config
 DECL|function|reliable_write
 DECL|function|remote_tar
 DECL|function|strbuf_append_ext_header
@@ -21,3 +22,4 @@ DECL|variable|block
 DECL|variable|exec
 DECL|variable|offset
 DECL|variable|tar_tree_usage
+DECL|variable|tar_umask

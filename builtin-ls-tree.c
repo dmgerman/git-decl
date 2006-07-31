@@ -9,6 +9,6 @@ DECL|variable|abbrev
 DECL|variable|chomp_prefix
 DECL|variable|line_termination
 DECL|variable|ls_options
+DECL|variable|ls_tree_prefix
 DECL|variable|ls_tree_usage
 DECL|variable|pathspec
-DECL|variable|prefix

@@ -4,6 +4,7 @@ DECL|function|cmd_log_init
 DECL|function|cmd_log_walk
 DECL|function|cmd_show
 DECL|function|cmd_whatchanged
+DECL|function|gen_message_id
 DECL|function|get_patch_id
 DECL|function|get_patch_ids
 DECL|function|git_format_config
