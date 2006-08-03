@@ -1,5 +1,5 @@
+DECL|function|cmd_name_rev
 DECL|function|get_rev_name
-DECL|function|main
 DECL|function|name_ref
 DECL|function|name_rev
 DECL|macro|ishex
