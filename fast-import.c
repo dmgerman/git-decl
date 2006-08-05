@@ -1,0 +1,14 @@
+DECL|function|encode_header
+DECL|function|fixup_header_footer
+DECL|function|init_pack_header
+DECL|function|main
+DECL|function|write_blob
+DECL|function|yread
+DECL|function|ywrite
+DECL|variable|current_depth
+DECL|variable|lastdat
+DECL|variable|lastdatlen
+DECL|variable|lastsha1
+DECL|variable|max_depth
+DECL|variable|object_count
+DECL|variable|packfd
