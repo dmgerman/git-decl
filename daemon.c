@@ -2,6 +2,8 @@ DECL|function|add_child
 DECL|function|avoid_alias
 DECL|function|check_max_connections
 DECL|function|child_handler
+DECL|function|daemon_die
+DECL|function|daemonize
 DECL|function|execute
 DECL|function|handle
 DECL|function|kill_some_children
@@ -11,11 +13,13 @@ DECL|function|logreport
 DECL|function|main
 DECL|function|path_ok
 DECL|function|remove_child
+DECL|function|sanitize_stdfds
 DECL|function|serve
 DECL|function|service_loop
 DECL|function|set_reuse_addr
 DECL|function|socksetup
 DECL|function|socksetup
+DECL|function|store_pid
 DECL|function|upload
 DECL|macro|MAX_CHILDREN
 DECL|member|address

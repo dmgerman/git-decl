@@ -4,6 +4,7 @@ DECL|function|quote_c_style_counted
 DECL|function|sq_dequote
 DECL|function|sq_quote
 DECL|function|sq_quote_buf
+DECL|function|sq_quote_print
 DECL|function|unquote_c_style
 DECL|function|write_name_quoted
 DECL|macro|EMIT

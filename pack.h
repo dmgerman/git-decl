@@ -1,10 +1,3 @@
-DECL|enumerator|OBJ_BLOB
-DECL|enumerator|OBJ_COMMIT
-DECL|enumerator|OBJ_DELTA
-DECL|enumerator|OBJ_EXT
-DECL|enumerator|OBJ_TAG
-DECL|enumerator|OBJ_TREE
-DECL|enum|object_type
 DECL|macro|PACK_H
 DECL|macro|PACK_SIGNATURE
 DECL|macro|PACK_VERSION

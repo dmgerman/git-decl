@@ -60,6 +60,7 @@ DECL|function|read_patch_file
 DECL|function|remove_file
 DECL|function|remove_first_line
 DECL|function|remove_last_line
+DECL|function|reverse_patches
 DECL|function|set_default_whitespace_mode
 DECL|function|show_file_mode_name
 DECL|function|show_index_list
@@ -79,6 +80,8 @@ DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
+DECL|macro|myswap
+DECL|macro|swap
 DECL|member|alloc
 DECL|member|buffer
 DECL|member|def_name
@@ -90,6 +93,7 @@ DECL|member|is_copy
 DECL|member|is_delete
 DECL|member|is_new
 DECL|member|is_rename
+DECL|member|is_reverse
 DECL|member|leading
 DECL|member|lines_added
 DECL|member|lines_deleted

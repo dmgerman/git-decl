@@ -1,2 +1,1 @@
 DECL|macro|BUILTIN_H
-DECL|macro|PATH_MAX

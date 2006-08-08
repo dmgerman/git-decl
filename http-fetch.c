@@ -93,6 +93,7 @@ DECL|struct|object_request
 DECL|struct|remote_ls_ctx
 DECL|struct|xml_ctx
 DECL|variable|alt
+DECL|variable|commits_on_stdin
 DECL|variable|corrupt_object_found
 DECL|variable|got_alternates
 DECL|variable|no_pragma_header

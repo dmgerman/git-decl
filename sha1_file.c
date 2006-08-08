@@ -41,6 +41,7 @@ DECL|function|read_sha1_file
 DECL|function|repack_object
 DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
+DECL|function|setup_object_header
 DECL|function|sha1_file_name
 DECL|function|sha1_object_info
 DECL|function|sha1_pack_index_name
@@ -57,6 +58,7 @@ DECL|function|unpack_sha1_rest
 DECL|function|unuse_one_packed_git
 DECL|function|unuse_packed_git
 DECL|function|use_packed_git
+DECL|function|write_binary_header
 DECL|function|write_buffer
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
