@@ -4,6 +4,7 @@ DECL|function|fixup_header_footer
 DECL|function|init_pack_header
 DECL|function|insert_object
 DECL|function|main
+DECL|function|new_blob
 DECL|function|new_object
 DECL|function|oecmp
 DECL|function|store_object
@@ -27,9 +28,11 @@ DECL|struct|object_entry_block
 DECL|variable|alloc_count
 DECL|variable|blocks
 DECL|variable|duplicate_count
+DECL|variable|duplicate_count_by_type
 DECL|variable|last_blob
 DECL|variable|max_depth
 DECL|variable|object_count
+DECL|variable|object_count_by_type
 DECL|variable|object_table
 DECL|variable|pack_fd
 DECL|variable|pack_offset
