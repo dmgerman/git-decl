@@ -28,6 +28,7 @@ DECL|function|process_entry
 DECL|function|process_renames
 DECL|function|remove_file
 DECL|function|remove_path
+DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
 DECL|function|setup_index
 DECL|function|sha_eq
