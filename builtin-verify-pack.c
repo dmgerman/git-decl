@@ -1,3 +1,3 @@
-DECL|function|main
+DECL|function|cmd_verify_pack
 DECL|function|verify_one_pack
 DECL|variable|verify_pack_usage
