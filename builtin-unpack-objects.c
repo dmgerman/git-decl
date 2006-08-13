@@ -1,8 +1,8 @@
 DECL|function|add_delta_to_list
 DECL|function|added_object
+DECL|function|cmd_unpack_objects
 DECL|function|fill
 DECL|function|get_data
-DECL|function|main
 DECL|function|resolve_delta
 DECL|function|unpack_all
 DECL|function|unpack_delta_entry
