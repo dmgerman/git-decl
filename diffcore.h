@@ -23,6 +23,7 @@ DECL|member|nr
 DECL|member|one
 DECL|member|path
 DECL|member|queue
+DECL|member|renamed_pair
 DECL|member|score
 DECL|member|sha1
 DECL|member|sha1_valid

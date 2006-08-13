@@ -6,6 +6,8 @@ DECL|function|main
 DECL|function|prepend_to_path
 DECL|function|split_cmdline
 DECL|macro|NEEDS_PREFIX
+DECL|macro|USE_PAGER
 DECL|variable|alias_command
 DECL|variable|alias_string
+DECL|variable|git_usage_string
 DECL|variable|git_version_string
