@@ -73,6 +73,7 @@ DECL|member|str_dat
 DECL|member|str_len
 DECL|member|table_next_branch
 DECL|member|tree
+DECL|member|type
 DECL|struct|atom_str
 DECL|struct|avail_tree_content
 DECL|struct|branch
