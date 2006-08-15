@@ -39,7 +39,6 @@ DECL|function|gitdiff_unrecognized
 DECL|function|gitdiff_verify_name
 DECL|function|inflate_it
 DECL|function|is_dev_null
-DECL|function|is_null_sha1
 DECL|function|linelen
 DECL|function|metadata_changes
 DECL|function|name_terminate
