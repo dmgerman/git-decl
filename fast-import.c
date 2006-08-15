@@ -1,4 +1,6 @@
 DECL|function|alloc_objects
+DECL|function|cmd_data
+DECL|function|cmd_mark
 DECL|function|cmd_new_blob
 DECL|function|cmd_new_branch
 DECL|function|cmd_new_commit
@@ -23,11 +25,10 @@ DECL|function|new_object
 DECL|function|new_tree_content
 DECL|function|new_tree_entry
 DECL|function|oecmp
-DECL|function|optional_read
 DECL|function|pool_alloc
 DECL|function|pool_calloc
 DECL|function|pool_strdup
-DECL|function|read_path
+DECL|function|read_next_command
 DECL|function|release_tree_content
 DECL|function|release_tree_entry
 DECL|function|store_object
@@ -95,6 +96,8 @@ DECL|variable|blocks
 DECL|variable|branch_count
 DECL|variable|branch_table
 DECL|variable|branch_table_sz
+DECL|variable|command_buf
+DECL|variable|command_mark
 DECL|variable|cur_active_branches
 DECL|variable|duplicate_count
 DECL|variable|duplicate_count_by_type
