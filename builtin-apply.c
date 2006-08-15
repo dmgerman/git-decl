@@ -45,6 +45,7 @@ DECL|function|metadata_changes
 DECL|function|name_terminate
 DECL|function|numstat_patch_list
 DECL|function|parse_binary
+DECL|function|parse_binary_hunk
 DECL|function|parse_chunk
 DECL|function|parse_fragment
 DECL|function|parse_fragment_header
@@ -80,6 +81,7 @@ DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
+DECL|macro|binary_patch_method
 DECL|macro|myswap
 DECL|macro|swap
 DECL|member|alloc
@@ -93,7 +95,6 @@ DECL|member|is_copy
 DECL|member|is_delete
 DECL|member|is_new
 DECL|member|is_rename
-DECL|member|is_reverse
 DECL|member|leading
 DECL|member|lines_added
 DECL|member|lines_deleted
@@ -125,6 +126,7 @@ DECL|struct|patch
 DECL|variable|allow_binary_replacement
 DECL|variable|applied_after_stripping
 DECL|variable|apply
+DECL|variable|apply_in_reverse
 DECL|variable|apply_usage
 DECL|variable|cached
 DECL|variable|check

@@ -68,9 +68,11 @@ DECL|member|pattern_list
 DECL|member|pattern_tail
 DECL|member|post_context
 DECL|member|pre_context
+DECL|member|prefix_length
 DECL|member|regexp
 DECL|member|regexp
 DECL|member|regflags
+DECL|member|relative
 DECL|member|right
 DECL|member|token
 DECL|member|u

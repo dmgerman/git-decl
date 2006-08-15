@@ -40,6 +40,7 @@ DECL|member|binary
 DECL|member|break_opt
 DECL|member|change
 DECL|member|color_diff
+DECL|member|color_diff_words
 DECL|member|context
 DECL|member|detect_rename
 DECL|member|filter
