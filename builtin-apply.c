@@ -45,6 +45,7 @@ DECL|function|metadata_changes
 DECL|function|name_terminate
 DECL|function|numstat_patch_list
 DECL|function|parse_binary
+DECL|function|parse_binary_hunk
 DECL|function|parse_chunk
 DECL|function|parse_fragment
 DECL|function|parse_fragment_header
@@ -80,6 +81,7 @@ DECL|macro|CHUNKSIZE
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
+DECL|macro|binary_patch_method
 DECL|macro|myswap
 DECL|macro|swap
 DECL|member|alloc
