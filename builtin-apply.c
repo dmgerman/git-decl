@@ -93,7 +93,6 @@ DECL|member|is_copy
 DECL|member|is_delete
 DECL|member|is_new
 DECL|member|is_rename
-DECL|member|is_reverse
 DECL|member|leading
 DECL|member|lines_added
 DECL|member|lines_deleted
@@ -125,6 +124,7 @@ DECL|struct|patch
 DECL|variable|allow_binary_replacement
 DECL|variable|applied_after_stripping
 DECL|variable|apply
+DECL|variable|apply_in_reverse
 DECL|variable|apply_usage
 DECL|variable|cached
 DECL|variable|check
