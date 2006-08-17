@@ -3,6 +3,7 @@ DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
 DECL|enum|sharedrepo
 DECL|function|create_ce_mode
+DECL|function|hashcmp
 DECL|function|is_null_sha1
 DECL|macro|ADD_CACHE_OK_TO_ADD
 DECL|macro|ADD_CACHE_OK_TO_REPLACE
