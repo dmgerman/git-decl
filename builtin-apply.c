@@ -72,6 +72,7 @@ DECL|function|stop_at_slash
 DECL|function|summary_patch_list
 DECL|function|try_create_file
 DECL|function|use_patch
+DECL|function|write_out_one_reject
 DECL|function|write_out_one_result
 DECL|function|write_out_results
 DECL|macro|BINARY_DELTA_DEFLATED
@@ -112,6 +113,8 @@ DECL|member|oldlines
 DECL|member|oldpos
 DECL|member|patch
 DECL|member|path
+DECL|member|rejected
+DECL|member|rejected
 DECL|member|result
 DECL|member|resultsize
 DECL|member|score
@@ -127,6 +130,7 @@ DECL|variable|applied_after_stripping
 DECL|variable|apply
 DECL|variable|apply_in_reverse
 DECL|variable|apply_usage
+DECL|variable|apply_with_reject
 DECL|variable|cached
 DECL|variable|check
 DECL|variable|check_index
