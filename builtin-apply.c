@@ -61,6 +61,7 @@ DECL|function|remove_file
 DECL|function|remove_first_line
 DECL|function|remove_last_line
 DECL|function|reverse_patches
+DECL|function|say_patch_name
 DECL|function|set_default_whitespace_mode
 DECL|function|show_file_mode_name
 DECL|function|show_index_list
@@ -130,6 +131,7 @@ DECL|variable|applied_after_stripping
 DECL|variable|apply
 DECL|variable|apply_in_reverse
 DECL|variable|apply_usage
+DECL|variable|apply_verbosely
 DECL|variable|apply_with_reject
 DECL|variable|cached
 DECL|variable|check
