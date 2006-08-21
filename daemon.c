@@ -25,6 +25,7 @@ DECL|function|socksetup
 DECL|function|socksetup
 DECL|function|store_pid
 DECL|function|upload_pack
+DECL|function|upload_tar
 DECL|macro|MAX_CHILDREN
 DECL|member|address
 DECL|member|addrlen
