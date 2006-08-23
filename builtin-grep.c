@@ -20,7 +20,6 @@ DECL|function|compile_pattern_not
 DECL|function|compile_pattern_or
 DECL|function|compile_patterns
 DECL|function|compile_regexp
-DECL|function|dump_pattern_exp
 DECL|function|end_of_line
 DECL|function|exec_grep
 DECL|function|external_grep
@@ -31,8 +30,6 @@ DECL|function|grep_file
 DECL|function|grep_object
 DECL|function|grep_sha1
 DECL|function|grep_tree
-DECL|function|indent
-DECL|function|looking_at
 DECL|function|match_expr
 DECL|function|match_expr_eval
 DECL|function|match_line
@@ -46,7 +43,6 @@ DECL|macro|GREP_BINARY_DEFAULT
 DECL|macro|GREP_BINARY_NOMATCH
 DECL|macro|GREP_BINARY_TEXT
 DECL|macro|MAXARGS
-DECL|macro|looking_at
 DECL|macro|push_arg
 DECL|member|atom
 DECL|member|binary
@@ -68,9 +64,11 @@ DECL|member|pattern_list
 DECL|member|pattern_tail
 DECL|member|post_context
 DECL|member|pre_context
+DECL|member|prefix_length
 DECL|member|regexp
 DECL|member|regexp
 DECL|member|regflags
+DECL|member|relative
 DECL|member|right
 DECL|member|token
 DECL|member|u

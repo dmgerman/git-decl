@@ -5,6 +5,7 @@ DECL|function|add_preferred_base_object
 DECL|function|check_delta_limit
 DECL|function|check_object
 DECL|function|check_pbase_path
+DECL|function|cmd_pack_objects
 DECL|function|cmp_offset
 DECL|function|create_final_object_list
 DECL|function|create_sorted_list
@@ -17,7 +18,6 @@ DECL|function|get_object_details
 DECL|function|git_pack_config
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
-DECL|function|main
 DECL|function|name_cmp_len
 DECL|function|name_hash
 DECL|function|pack_revindex_ix
