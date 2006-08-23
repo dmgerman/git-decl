@@ -8,6 +8,7 @@ DECL|function|dump_branches
 DECL|function|encode_header
 DECL|function|file_change_d
 DECL|function|file_change_m
+DECL|function|find_mark
 DECL|function|find_object
 DECL|function|fixup_header_footer
 DECL|function|get_mode
@@ -15,6 +16,7 @@ DECL|function|grow_tree_content
 DECL|function|hc_entries
 DECL|function|hc_str
 DECL|function|init_pack_header
+DECL|function|insert_mark
 DECL|function|insert_object
 DECL|function|load_branch
 DECL|function|load_tree
@@ -45,6 +47,7 @@ DECL|function|ywrite
 DECL|member|active_next_branch
 DECL|member|branch_tree
 DECL|member|data
+DECL|member|data
 DECL|member|depth
 DECL|member|end
 DECL|member|end
@@ -55,6 +58,7 @@ DECL|member|entry_capacity
 DECL|member|entry_count
 DECL|member|last_commit
 DECL|member|len
+DECL|member|marked
 DECL|member|mode
 DECL|member|name
 DECL|member|name
@@ -66,10 +70,12 @@ DECL|member|next_free
 DECL|member|next_pool
 DECL|member|next_pool
 DECL|member|offset
+DECL|member|sets
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|shift
 DECL|member|space
 DECL|member|str_dat
 DECL|member|str_len
@@ -80,6 +86,7 @@ DECL|struct|atom_str
 DECL|struct|avail_tree_content
 DECL|struct|branch
 DECL|struct|last_object
+DECL|struct|mark_set
 DECL|struct|mem_pool
 DECL|struct|object_entry
 DECL|struct|object_entry_pool
@@ -98,16 +105,18 @@ DECL|variable|branch_count
 DECL|variable|branch_table
 DECL|variable|branch_table_sz
 DECL|variable|command_buf
-DECL|variable|command_mark
 DECL|variable|cur_active_branches
 DECL|variable|duplicate_count
 DECL|variable|duplicate_count_by_type
 DECL|variable|fast_import_usage
 DECL|variable|last_blob
+DECL|variable|marks
+DECL|variable|marks_set_count
 DECL|variable|max_active_branches
 DECL|variable|max_depth
 DECL|variable|mem_pool
 DECL|variable|mem_pool_alloc
+DECL|variable|next_mark
 DECL|variable|object_count
 DECL|variable|object_count_by_type
 DECL|variable|object_entry_alloc
