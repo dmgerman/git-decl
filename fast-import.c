@@ -102,6 +102,7 @@ DECL|variable|command_mark
 DECL|variable|cur_active_branches
 DECL|variable|duplicate_count
 DECL|variable|duplicate_count_by_type
+DECL|variable|fast_import_usage
 DECL|variable|last_blob
 DECL|variable|max_active_branches
 DECL|variable|max_depth
