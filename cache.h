@@ -3,6 +3,7 @@ DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
 DECL|enum|sharedrepo
 DECL|function|create_ce_mode
+DECL|function|hashclr
 DECL|function|hashcmp
 DECL|function|hashcpy
 DECL|function|is_null_sha1
