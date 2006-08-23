@@ -30,6 +30,7 @@ DECL|function|pool_calloc
 DECL|function|pool_strdup
 DECL|function|read_next_command
 DECL|function|release_tree_content
+DECL|function|release_tree_content_recursive
 DECL|function|release_tree_entry
 DECL|function|store_object
 DECL|function|store_tree
