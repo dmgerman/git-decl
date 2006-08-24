@@ -1,8 +1,8 @@
 DECL|function|alloc_objects
 DECL|function|cmd_data
+DECL|function|cmd_from
 DECL|function|cmd_mark
 DECL|function|cmd_new_blob
-DECL|function|cmd_new_branch
 DECL|function|cmd_new_commit
 DECL|function|cmd_new_tag
 DECL|function|dump_branches
