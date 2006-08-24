@@ -24,6 +24,7 @@ DECL|function|load_branch
 DECL|function|load_tree
 DECL|function|lookup_branch
 DECL|function|main
+DECL|function|map_pack
 DECL|function|new_branch
 DECL|function|new_object
 DECL|function|new_tree_content
@@ -43,6 +44,10 @@ DECL|function|to_atom
 DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|unload_one_branch
+DECL|function|unpack_delta_entry
+DECL|function|unpack_entry
+DECL|function|unpack_non_delta_entry
+DECL|function|unpack_object_header
 DECL|function|write_index
 DECL|function|yread
 DECL|function|ywrite
@@ -130,8 +135,11 @@ DECL|variable|object_count
 DECL|variable|object_count_by_type
 DECL|variable|object_entry_alloc
 DECL|variable|object_table
+DECL|variable|pack_base
 DECL|variable|pack_fd
-DECL|variable|pack_offset
+DECL|variable|pack_mlen
 DECL|variable|pack_sha1
+DECL|variable|pack_size
+DECL|variable|remap_count
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
