@@ -4,7 +4,9 @@ DECL|function|cmd_mark
 DECL|function|cmd_new_blob
 DECL|function|cmd_new_branch
 DECL|function|cmd_new_commit
+DECL|function|cmd_new_tag
 DECL|function|dump_branches
+DECL|function|dump_tags
 DECL|function|encode_header
 DECL|function|file_change_d
 DECL|function|file_change_m
@@ -62,6 +64,7 @@ DECL|member|marked
 DECL|member|mode
 DECL|member|name
 DECL|member|name
+DECL|member|name
 DECL|member|next
 DECL|member|next_atom
 DECL|member|next_avail
@@ -69,8 +72,10 @@ DECL|member|next_free
 DECL|member|next_free
 DECL|member|next_pool
 DECL|member|next_pool
+DECL|member|next_tag
 DECL|member|offset
 DECL|member|sets
+DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
@@ -90,6 +95,7 @@ DECL|struct|mark_set
 DECL|struct|mem_pool
 DECL|struct|object_entry
 DECL|struct|object_entry_pool
+DECL|struct|tag
 DECL|struct|tree_content
 DECL|struct|tree_entry
 DECL|variable|active_branches
@@ -110,7 +116,9 @@ DECL|variable|cur_active_branches
 DECL|variable|duplicate_count
 DECL|variable|duplicate_count_by_type
 DECL|variable|fast_import_usage
+DECL|variable|first_tag
 DECL|variable|last_blob
+DECL|variable|last_tag
 DECL|variable|marks
 DECL|variable|marks_set_count
 DECL|variable|max_active_branches
