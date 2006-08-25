@@ -6,6 +6,8 @@ DECL|function|cmd_new_blob
 DECL|function|cmd_new_commit
 DECL|function|cmd_new_tag
 DECL|function|dump_branches
+DECL|function|dump_marks
+DECL|function|dump_marks_helper
 DECL|function|dump_tags
 DECL|function|encode_header
 DECL|function|file_change_d
@@ -124,6 +126,7 @@ DECL|variable|fast_import_usage
 DECL|variable|first_tag
 DECL|variable|last_blob
 DECL|variable|last_tag
+DECL|variable|mark_file
 DECL|variable|marks
 DECL|variable|marks_set_count
 DECL|variable|max_active_branches
