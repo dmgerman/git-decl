@@ -116,6 +116,7 @@ DECL|variable|avail_tree_table_sz
 DECL|variable|blocks
 DECL|variable|branch_count
 DECL|variable|branch_load_count
+DECL|variable|branch_log
 DECL|variable|branch_table
 DECL|variable|branch_table_sz
 DECL|variable|command_buf
