@@ -48,10 +48,10 @@ DECL|function|sha1_object_info
 DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sha1_to_hex
+DECL|function|unpack_compressed_entry
 DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
 DECL|function|unpack_entry_gently
-DECL|function|unpack_non_delta_entry
 DECL|function|unpack_object_header
 DECL|function|unpack_sha1_file
 DECL|function|unpack_sha1_header
