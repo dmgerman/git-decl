@@ -5,6 +5,7 @@ DECL|function|cmd_mark
 DECL|function|cmd_new_blob
 DECL|function|cmd_new_commit
 DECL|function|cmd_new_tag
+DECL|function|cmd_reset_branch
 DECL|function|dump_branches
 DECL|function|dump_marks
 DECL|function|dump_marks_helper
