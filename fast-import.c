@@ -142,8 +142,10 @@ DECL|variable|object_table
 DECL|variable|pack_base
 DECL|variable|pack_fd
 DECL|variable|pack_mlen
+DECL|variable|pack_moff
 DECL|variable|pack_sha1
 DECL|variable|pack_size
+DECL|variable|page_size
 DECL|variable|remap_count
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
