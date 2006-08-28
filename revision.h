@@ -48,6 +48,7 @@ DECL|member|prune_data
 DECL|member|prune_fn
 DECL|member|pruning
 DECL|member|ref_message_id
+DECL|member|relative_date
 DECL|member|remove_empty_trees
 DECL|member|show_root_diff
 DECL|member|shown_one
