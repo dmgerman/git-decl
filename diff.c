@@ -45,6 +45,7 @@ DECL|function|diffcore_std_no_resolve
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
 DECL|function|emit_binary_diff
+DECL|function|emit_binary_diff_body
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec
