@@ -41,6 +41,7 @@ DECL|function|read_next_command
 DECL|function|release_tree_content
 DECL|function|release_tree_content_recursive
 DECL|function|release_tree_entry
+DECL|function|size_dbuf
 DECL|function|store_object
 DECL|function|store_tree
 DECL|function|tecmp0
@@ -145,6 +146,7 @@ DECL|variable|max_active_branches
 DECL|variable|max_depth
 DECL|variable|mem_pool
 DECL|variable|mem_pool_alloc
+DECL|variable|new_data
 DECL|variable|new_tree
 DECL|variable|next_mark
 DECL|variable|object_count
