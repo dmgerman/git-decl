@@ -56,7 +56,6 @@ DECL|function|unpack_non_delta_entry
 DECL|function|unpack_object_header
 DECL|function|write_index
 DECL|function|yread
-DECL|function|ywrite
 DECL|member|active_next_branch
 DECL|member|branch_tree
 DECL|member|buffer
