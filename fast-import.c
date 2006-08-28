@@ -58,6 +58,8 @@ DECL|function|yread
 DECL|function|ywrite
 DECL|member|active_next_branch
 DECL|member|branch_tree
+DECL|member|buffer
+DECL|member|capacity
 DECL|member|data
 DECL|member|data
 DECL|member|delta_depth
@@ -84,6 +86,7 @@ DECL|member|next_free
 DECL|member|next_pool
 DECL|member|next_pool
 DECL|member|next_tag
+DECL|member|no_free
 DECL|member|offset
 DECL|member|sets
 DECL|member|sha1
@@ -102,6 +105,7 @@ DECL|member|versions
 DECL|struct|atom_str
 DECL|struct|avail_tree_content
 DECL|struct|branch
+DECL|struct|dbuf
 DECL|struct|last_object
 DECL|struct|mark_set
 DECL|struct|mem_pool
@@ -141,11 +145,13 @@ DECL|variable|max_active_branches
 DECL|variable|max_depth
 DECL|variable|mem_pool
 DECL|variable|mem_pool_alloc
+DECL|variable|new_tree
 DECL|variable|next_mark
 DECL|variable|object_count
 DECL|variable|object_count_by_type
 DECL|variable|object_entry_alloc
 DECL|variable|object_table
+DECL|variable|old_tree
 DECL|variable|pack_base
 DECL|variable|pack_fd
 DECL|variable|pack_mlen
