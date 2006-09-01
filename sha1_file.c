@@ -53,6 +53,7 @@ DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
 DECL|function|unpack_entry_gently
 DECL|function|unpack_object_header
+DECL|function|unpack_object_header_gently
 DECL|function|unpack_sha1_file
 DECL|function|unpack_sha1_header
 DECL|function|unpack_sha1_rest
