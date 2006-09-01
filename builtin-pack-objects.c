@@ -31,6 +31,9 @@ DECL|function|prepare_pack_revindex
 DECL|function|progress_interval
 DECL|function|rehash_objects
 DECL|function|reuse_cached_pack
+DECL|function|revalidate_loose_object
+DECL|function|revalidate_one
+DECL|function|revalidate_pack_entry
 DECL|function|setup_progress_signal
 DECL|function|sha1_sort
 DECL|function|sort_comparator
@@ -92,6 +95,7 @@ DECL|variable|objects
 DECL|variable|pack_file_sha1
 DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz
+DECL|variable|pack_to_stdout
 DECL|variable|pack_usage
 DECL|variable|pbase_tree
 DECL|variable|pbase_tree_cache
