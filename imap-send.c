@@ -11,7 +11,6 @@ DECL|function|free_generic_messages
 DECL|function|free_list
 DECL|function|get_cmd_result
 DECL|function|git_imap_config
-DECL|function|git_vasprintf
 DECL|function|imap_close_server
 DECL|function|imap_close_store
 DECL|function|imap_exec
@@ -26,7 +25,6 @@ DECL|function|issue_imap_cmd
 DECL|function|main
 DECL|function|next_arg
 DECL|function|nfsnprintf
-DECL|function|nfvasprintf
 DECL|function|parse_capability
 DECL|function|parse_imap_list
 DECL|function|parse_imap_list_l
