@@ -3,6 +3,7 @@ DECL|function|add_pbase_object
 DECL|function|add_preferred_base
 DECL|function|add_preferred_base_object
 DECL|function|check_delta_limit
+DECL|function|check_inflate
 DECL|function|check_object
 DECL|function|check_pbase_path
 DECL|function|cmd_pack_objects
@@ -32,7 +33,6 @@ DECL|function|progress_interval
 DECL|function|rehash_objects
 DECL|function|reuse_cached_pack
 DECL|function|revalidate_loose_object
-DECL|function|revalidate_one
 DECL|function|revalidate_pack_entry
 DECL|function|setup_progress_signal
 DECL|function|sha1_sort
