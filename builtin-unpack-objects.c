@@ -18,7 +18,9 @@ DECL|struct|delta_info
 DECL|variable|buffer
 DECL|variable|ctx
 DECL|variable|delta_list
+DECL|variable|desperate
 DECL|variable|dry_run
+DECL|variable|has_errors
 DECL|variable|len
 DECL|variable|offset
 DECL|variable|quiet
