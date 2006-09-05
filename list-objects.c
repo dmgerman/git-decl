@@ -1,0 +1,3 @@
+DECL|function|process_blob
+DECL|function|process_tree
+DECL|function|traverse_commit_list
