@@ -1,11 +1,3 @@
-DECL|enumerator|OBJ_BAD
-DECL|enumerator|OBJ_BLOB
-DECL|enumerator|OBJ_COMMIT
-DECL|enumerator|OBJ_DELTA
-DECL|enumerator|OBJ_NONE
-DECL|enumerator|OBJ_TAG
-DECL|enumerator|OBJ_TREE
-DECL|enum|object_type
 DECL|function|typename
 DECL|macro|FLAG_BITS
 DECL|macro|OBJECT_H

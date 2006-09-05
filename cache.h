@@ -1,6 +1,14 @@
+DECL|enumerator|OBJ_BAD
+DECL|enumerator|OBJ_BLOB
+DECL|enumerator|OBJ_COMMIT
+DECL|enumerator|OBJ_DELTA
+DECL|enumerator|OBJ_NONE
+DECL|enumerator|OBJ_TAG
+DECL|enumerator|OBJ_TREE
 DECL|enumerator|PERM_EVERYBODY
 DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
+DECL|enum|object_type
 DECL|enum|sharedrepo
 DECL|function|create_ce_mode
 DECL|function|hashclr
