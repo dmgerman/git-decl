@@ -29,6 +29,7 @@ DECL|member|elem_len
 DECL|member|extra_headers
 DECL|member|full_diff
 DECL|member|ignore_merges
+DECL|member|ignore_packed
 DECL|member|lifo
 DECL|member|limited
 DECL|member|loginfo
@@ -41,6 +42,7 @@ DECL|member|no_commit_id
 DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
+DECL|member|num_ignore_packed
 DECL|member|parents
 DECL|member|pending
 DECL|member|prefix

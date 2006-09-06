@@ -1,3 +1,4 @@
+DECL|function|add_ignore_packed
 DECL|function|add_object
 DECL|function|add_parents_only
 DECL|function|add_parents_to_list
