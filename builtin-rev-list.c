@@ -6,6 +6,7 @@ DECL|function|mark_edge_parents_uninteresting
 DECL|function|mark_edges_uninteresting
 DECL|function|process_blob
 DECL|function|process_tree
+DECL|function|read_revisions_from_stdin
 DECL|function|show_commit
 DECL|function|show_commit_list
 DECL|macro|COUNTED
