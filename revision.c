@@ -11,6 +11,7 @@ DECL|function|get_revision
 DECL|function|handle_all
 DECL|function|handle_commit
 DECL|function|handle_one_ref
+DECL|function|handle_revision_arg
 DECL|function|init_revisions
 DECL|function|limit_list
 DECL|function|mark_blob_uninteresting
