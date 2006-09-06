@@ -2,10 +2,9 @@ DECL|function|clear_distance
 DECL|function|cmd_rev_list
 DECL|function|count_distance
 DECL|function|find_bisection
-DECL|function|mark_edge_parents_uninteresting
-DECL|function|mark_edges_uninteresting
 DECL|function|read_revisions_from_stdin
 DECL|function|show_commit
+DECL|function|show_edge
 DECL|function|show_object
 DECL|macro|COUNTED
 DECL|variable|bisect_list

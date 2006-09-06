@@ -20,8 +20,6 @@ DECL|function|get_object_list
 DECL|function|git_pack_config
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
-DECL|function|mark_edge_parents_uninteresting
-DECL|function|mark_edges_uninteresting
 DECL|function|name_cmp_len
 DECL|function|name_hash
 DECL|function|pack_revindex_ix
@@ -41,6 +39,7 @@ DECL|function|revalidate_pack_entry
 DECL|function|setup_progress_signal
 DECL|function|sha1_sort
 DECL|function|show_commit
+DECL|function|show_edge
 DECL|function|show_object
 DECL|function|sort_comparator
 DECL|function|try_delta
@@ -94,6 +93,7 @@ DECL|variable|non_empty
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
 DECL|variable|nr_result
+DECL|variable|num_preferred_base
 DECL|variable|object_ix
 DECL|variable|object_ix_hashsz
 DECL|variable|object_list_sha1
