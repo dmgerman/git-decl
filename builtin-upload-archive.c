@@ -1,0 +1,2 @@
+DECL|function|cmd_upload_archive
+DECL|variable|upload_archive_usage
