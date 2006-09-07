@@ -12,6 +12,8 @@ DECL|function|write_blocked
 DECL|function|write_entry
 DECL|function|write_global_extended_header
 DECL|function|write_if_needed
+DECL|function|write_tar_archive
+DECL|function|write_tar_entry
 DECL|function|write_trailer
 DECL|macro|BLOCKSIZE
 DECL|macro|HEADERSIZE
