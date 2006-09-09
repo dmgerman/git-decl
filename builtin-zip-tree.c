@@ -3,6 +3,7 @@ DECL|function|construct_path
 DECL|function|copy_le16
 DECL|function|copy_le32
 DECL|function|dos_time
+DECL|function|parse_extra_zip_args
 DECL|function|write_zip_archive
 DECL|function|write_zip_entry
 DECL|function|write_zip_trailer
