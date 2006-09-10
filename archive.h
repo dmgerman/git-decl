@@ -8,7 +8,6 @@ DECL|member|extra
 DECL|member|name
 DECL|member|parse_extra
 DECL|member|pathspec
-DECL|member|remote
 DECL|member|time
 DECL|member|tree
 DECL|member|write_archive
