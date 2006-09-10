@@ -24,3 +24,4 @@ DECL|variable|exec
 DECL|variable|offset
 DECL|variable|tar_tree_usage
 DECL|variable|tar_umask
+DECL|variable|verbose

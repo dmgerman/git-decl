@@ -10,6 +10,7 @@ DECL|member|parse_extra
 DECL|member|pathspec
 DECL|member|time
 DECL|member|tree
+DECL|member|verbose
 DECL|member|write_archive
 DECL|struct|archiver
 DECL|struct|archiver_args
