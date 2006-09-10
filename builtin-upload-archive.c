@@ -1,2 +1,4 @@
 DECL|function|cmd_upload_archive
+DECL|function|run_upload_archive
+DECL|variable|deadchild
 DECL|variable|upload_archive_usage
