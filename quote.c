@@ -1,3 +1,4 @@
+DECL|function|add_to_string
 DECL|function|need_bs_quote
 DECL|function|quote_c_style
 DECL|function|quote_c_style_counted
