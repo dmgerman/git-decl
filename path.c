@@ -1,10 +1,10 @@
 DECL|function|adjust_shared_perm
 DECL|function|cleanup_path
 DECL|function|enter_repo
+DECL|function|get_pathname
 DECL|function|git_mkstemp
 DECL|function|git_path
 DECL|function|mkpath
 DECL|function|user_path
 DECL|function|validate_symref
 DECL|variable|bad_path
-DECL|variable|pathname
