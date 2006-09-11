@@ -9,7 +9,6 @@ DECL|function|send_ref
 DECL|function|strip
 DECL|function|upload_pack
 DECL|macro|OUR_REF
-DECL|macro|PACKET_MAX
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
 DECL|variable|have_obj
