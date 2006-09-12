@@ -9,5 +9,6 @@ DECL|member|branch
 DECL|member|commitable
 DECL|member|is_initial
 DECL|member|reference
+DECL|member|untracked
 DECL|member|verbose
 DECL|struct|wt_status
