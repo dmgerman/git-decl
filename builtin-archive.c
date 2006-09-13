@@ -1,5 +1,4 @@
 DECL|function|cmd_archive
-DECL|function|default_parse_extra
 DECL|function|extract_remote_arg
 DECL|function|init_archiver
 DECL|function|parse_archive_args
