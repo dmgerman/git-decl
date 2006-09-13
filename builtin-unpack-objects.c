@@ -19,7 +19,9 @@ DECL|variable|buffer
 DECL|variable|ctx
 DECL|variable|delta_list
 DECL|variable|dry_run
+DECL|variable|has_errors
 DECL|variable|len
 DECL|variable|offset
 DECL|variable|quiet
+DECL|variable|recover
 DECL|variable|unpack_usage
