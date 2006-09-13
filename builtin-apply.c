@@ -126,7 +126,6 @@ DECL|struct|buffer_desc
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
-DECL|variable|allow_binary_replacement
 DECL|variable|applied_after_stripping
 DECL|variable|apply
 DECL|variable|apply_in_reverse
