@@ -58,6 +58,7 @@ DECL|member|next
 DECL|member|no
 DECL|member|node
 DECL|member|origin
+DECL|member|pathname
 DECL|member|pattern
 DECL|member|pattern_expression
 DECL|member|pattern_list
