@@ -1,5 +1,7 @@
 DECL|function|add_to_string
 DECL|function|need_bs_quote
+DECL|function|perl_quote_print
+DECL|function|python_quote_print
 DECL|function|quote_c_style
 DECL|function|quote_c_style_counted
 DECL|function|sq_dequote
