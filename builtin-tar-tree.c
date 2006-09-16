@@ -6,7 +6,6 @@ DECL|function|git_tar_config
 DECL|function|remote_tar
 DECL|function|strbuf_append_ext_header
 DECL|function|strbuf_append_string
-DECL|function|traverse_tree
 DECL|function|ustar_header_chksum
 DECL|function|write_blocked
 DECL|function|write_entry
