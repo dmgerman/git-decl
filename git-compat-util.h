@@ -17,6 +17,7 @@ DECL|macro|MAP_FAILED
 DECL|macro|MAP_PRIVATE
 DECL|macro|NORETURN
 DECL|macro|NORETURN
+DECL|macro|PATH_MAX
 DECL|macro|PROT_READ
 DECL|macro|PROT_WRITE
 DECL|macro|__attribute__
