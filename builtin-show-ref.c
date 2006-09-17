@@ -2,6 +2,7 @@ DECL|function|cmd_show_ref
 DECL|function|show_ref
 DECL|variable|deref_tags
 DECL|variable|found_match
+DECL|variable|hash_only
 DECL|variable|heads_only
 DECL|variable|pattern
 DECL|variable|quiet
