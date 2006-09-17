@@ -1,0 +1,9 @@
+DECL|function|cmd_archive
+DECL|function|extract_remote_arg
+DECL|function|init_archiver
+DECL|function|parse_archive_args
+DECL|function|parse_pathspec_arg
+DECL|function|parse_treeish_arg
+DECL|function|run_remote_archiver
+DECL|variable|archive_usage
+DECL|variable|archivers
