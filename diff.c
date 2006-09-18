@@ -59,10 +59,7 @@ DECL|function|is_summary_empty
 DECL|function|locate_size_cache
 DECL|function|mmfile_is_binary
 DECL|function|opt_arg
-DECL|function|parse_attr
-DECL|function|parse_color
 DECL|function|parse_diff_color_slot
-DECL|function|parse_diff_color_value
 DECL|function|parse_num
 DECL|function|patch_id_consume
 DECL|function|pprint_rename
