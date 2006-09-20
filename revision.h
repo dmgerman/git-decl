@@ -28,7 +28,7 @@ DECL|member|elem
 DECL|member|elem_len
 DECL|member|extra_headers
 DECL|member|full_diff
-DECL|member|header_filter
+DECL|member|grep_filter
 DECL|member|ignore_merges
 DECL|member|ignore_packed
 DECL|member|lifo
@@ -36,7 +36,6 @@ DECL|member|limited
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
-DECL|member|message_filter
 DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
