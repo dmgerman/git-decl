@@ -1,5 +1,7 @@
 DECL|enumerator|GREP_AND
 DECL|enumerator|GREP_CLOSE_PAREN
+DECL|enumerator|GREP_CONTEXT_BODY
+DECL|enumerator|GREP_CONTEXT_HEAD
 DECL|enumerator|GREP_NODE_AND
 DECL|enumerator|GREP_NODE_ATOM
 DECL|enumerator|GREP_NODE_NOT
@@ -8,6 +10,9 @@ DECL|enumerator|GREP_NOT
 DECL|enumerator|GREP_OPEN_PAREN
 DECL|enumerator|GREP_OR
 DECL|enumerator|GREP_PATTERN
+DECL|enumerator|GREP_PATTERN_BODY
+DECL|enumerator|GREP_PATTERN_HEAD
+DECL|enum|grep_context
 DECL|enum|grep_expr_node
 DECL|enum|grep_pat_token
 DECL|macro|GREP_BINARY_DEFAULT
