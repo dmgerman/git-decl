@@ -24,6 +24,7 @@ DECL|function|set_reuse_addr
 DECL|function|socksetup
 DECL|function|socksetup
 DECL|function|store_pid
+DECL|function|upload_archive
 DECL|function|upload_pack
 DECL|macro|MAX_CHILDREN
 DECL|member|address

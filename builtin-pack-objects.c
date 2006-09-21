@@ -16,6 +16,7 @@ DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|find_packed_object_size
 DECL|function|get_object_details
+DECL|function|get_object_list
 DECL|function|git_pack_config
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
@@ -30,12 +31,16 @@ DECL|function|prepare_pack
 DECL|function|prepare_pack_ix
 DECL|function|prepare_pack_revindex
 DECL|function|progress_interval
+DECL|function|read_object_list_from_stdin
 DECL|function|rehash_objects
 DECL|function|reuse_cached_pack
 DECL|function|revalidate_loose_object
 DECL|function|revalidate_pack_entry
 DECL|function|setup_progress_signal
 DECL|function|sha1_sort
+DECL|function|show_commit
+DECL|function|show_edge
+DECL|function|show_object
 DECL|function|sort_comparator
 DECL|function|try_delta
 DECL|function|type_size_sort
@@ -88,6 +93,7 @@ DECL|variable|non_empty
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
 DECL|variable|nr_result
+DECL|variable|num_preferred_base
 DECL|variable|object_ix
 DECL|variable|object_ix_hashsz
 DECL|variable|object_list_sha1

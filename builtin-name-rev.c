@@ -10,4 +10,3 @@ DECL|struct|rev_name
 DECL|typedef|rev_name
 DECL|variable|cutoff
 DECL|variable|name_rev_usage
-DECL|variable|tags_only
