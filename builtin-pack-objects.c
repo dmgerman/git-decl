@@ -81,6 +81,7 @@ DECL|struct|pbase_tree
 DECL|struct|pbase_tree_cache
 DECL|struct|unpacked
 DECL|typedef|entry_sort_t
+DECL|variable|allow_ofs_delta
 DECL|variable|base_name
 DECL|variable|current_sort
 DECL|variable|done_pbase_paths
