@@ -24,6 +24,7 @@ DECL|function|unlock_ref
 DECL|function|verify_lock
 DECL|function|write_ref_sha1
 DECL|macro|MAXDEPTH
+DECL|member|flag
 DECL|member|name
 DECL|member|next
 DECL|member|sha1
