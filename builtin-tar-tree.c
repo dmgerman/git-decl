@@ -6,12 +6,13 @@ DECL|function|git_tar_config
 DECL|function|remote_tar
 DECL|function|strbuf_append_ext_header
 DECL|function|strbuf_append_string
-DECL|function|traverse_tree
 DECL|function|ustar_header_chksum
 DECL|function|write_blocked
 DECL|function|write_entry
 DECL|function|write_global_extended_header
 DECL|function|write_if_needed
+DECL|function|write_tar_archive
+DECL|function|write_tar_entry
 DECL|function|write_trailer
 DECL|macro|BLOCKSIZE
 DECL|macro|HEADERSIZE
@@ -22,3 +23,4 @@ DECL|variable|exec
 DECL|variable|offset
 DECL|variable|tar_tree_usage
 DECL|variable|tar_umask
+DECL|variable|verbose

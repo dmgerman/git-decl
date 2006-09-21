@@ -7,6 +7,7 @@ DECL|function|common_prefix
 DECL|function|dir_exists
 DECL|function|excluded
 DECL|function|excluded_1
+DECL|function|file_exists
 DECL|function|match_one
 DECL|function|match_pathspec
 DECL|function|pop_exclude_per_directory

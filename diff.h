@@ -9,6 +9,7 @@ DECL|enum|color_diff
 DECL|macro|COMMON_DIFF_OPTIONS_HELP
 DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
+DECL|macro|DIFF_FORMAT_CALLBACK
 DECL|macro|DIFF_FORMAT_CHECKDIFF
 DECL|macro|DIFF_FORMAT_DIFFSTAT
 DECL|macro|DIFF_FORMAT_NAME
@@ -45,6 +46,8 @@ DECL|member|context
 DECL|member|detect_rename
 DECL|member|filter
 DECL|member|find_copies_harder
+DECL|member|format_callback
+DECL|member|format_callback_data
 DECL|member|full_index
 DECL|member|len
 DECL|member|line_termination
@@ -79,3 +82,4 @@ DECL|struct|combine_diff_path
 DECL|struct|diff_options
 DECL|typedef|add_remove_fn_t
 DECL|typedef|change_fn_t
+DECL|typedef|diff_format_fn_t

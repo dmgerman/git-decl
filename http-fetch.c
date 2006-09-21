@@ -20,6 +20,7 @@ DECL|function|fwrite_sha1_file
 DECL|function|handle_remote_ls_ctx
 DECL|function|hex
 DECL|function|main
+DECL|function|missing__target
 DECL|function|needs_quote
 DECL|function|prefetch
 DECL|function|process_alternates_response
@@ -46,6 +47,7 @@ DECL|macro|RANGE_HEADER_SIZE
 DECL|macro|RECURSIVE
 DECL|macro|XML_STATUS_ERROR
 DECL|macro|XML_STATUS_OK
+DECL|macro|missing_target
 DECL|member|base
 DECL|member|base
 DECL|member|buffer
