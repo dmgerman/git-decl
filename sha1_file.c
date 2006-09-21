@@ -7,6 +7,7 @@ DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_file
 DECL|function|find_sha1_pack
+DECL|function|get_delta_base
 DECL|function|get_sha1_hex
 DECL|function|has_pack_file
 DECL|function|has_pack_index
