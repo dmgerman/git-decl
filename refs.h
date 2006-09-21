@@ -6,3 +6,4 @@ DECL|member|log_file
 DECL|member|old_sha1
 DECL|member|ref_name
 DECL|struct|ref_lock
+DECL|typedef|each_ref_fn
