@@ -5,6 +5,7 @@ DECL|enumerator|DIFF_FRAGINFO
 DECL|enumerator|DIFF_METAINFO
 DECL|enumerator|DIFF_PLAIN
 DECL|enumerator|DIFF_RESET
+DECL|enumerator|DIFF_WHITESPACE
 DECL|enum|color_diff
 DECL|macro|COMMON_DIFF_OPTIONS_HELP
 DECL|macro|DIFF_DETECT_COPY
