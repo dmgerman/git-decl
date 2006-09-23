@@ -14,6 +14,8 @@ DECL|function|delta_against
 DECL|function|done_pbase_path_pos
 DECL|function|encode_header
 DECL|function|find_deltas
+DECL|function|find_packed_object
+DECL|function|find_packed_object_name
 DECL|function|find_packed_object_size
 DECL|function|get_object_details
 DECL|function|get_object_list
@@ -35,7 +37,6 @@ DECL|function|read_object_list_from_stdin
 DECL|function|rehash_objects
 DECL|function|reuse_cached_pack
 DECL|function|revalidate_loose_object
-DECL|function|revalidate_pack_entry
 DECL|function|setup_progress_signal
 DECL|function|sha1_sort
 DECL|function|show_commit
@@ -48,6 +49,7 @@ DECL|function|write_index_file
 DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
+DECL|macro|in_pack_header_size
 DECL|member|data
 DECL|member|delta
 DECL|member|delta_child
@@ -62,6 +64,8 @@ DECL|member|in_pack_offset
 DECL|member|in_pack_type
 DECL|member|index
 DECL|member|next
+DECL|member|nr
+DECL|member|offset
 DECL|member|offset
 DECL|member|p
 DECL|member|pcache
@@ -79,6 +83,7 @@ DECL|struct|object_entry
 DECL|struct|pack_revindex
 DECL|struct|pbase_tree
 DECL|struct|pbase_tree_cache
+DECL|struct|revindex_entry
 DECL|struct|unpacked
 DECL|typedef|entry_sort_t
 DECL|variable|allow_ofs_delta
