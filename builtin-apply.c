@@ -13,6 +13,7 @@ DECL|function|apply_one_fragment
 DECL|function|apply_patch
 DECL|function|check_patch
 DECL|function|check_patch_list
+DECL|function|check_whitespace
 DECL|function|cmd_apply
 DECL|function|create_file
 DECL|function|create_one_file
