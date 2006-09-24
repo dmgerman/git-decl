@@ -1,9 +1,5 @@
 DECL|function|cmd_get_tar_commit_id
 DECL|function|cmd_tar_tree
-DECL|function|generate_tar
-DECL|function|remote_tar
-DECL|macro|BLOCKSIZE
 DECL|macro|HEADERSIZE
 DECL|macro|RECORDSIZE
-DECL|variable|exec
 DECL|variable|tar_tree_usage
