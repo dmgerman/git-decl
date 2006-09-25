@@ -28,6 +28,7 @@ DECL|member|elem
 DECL|member|elem_len
 DECL|member|extra_headers
 DECL|member|full_diff
+DECL|member|grep_filter
 DECL|member|ignore_merges
 DECL|member|ignore_packed
 DECL|member|lifo
