@@ -77,8 +77,11 @@ DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
+DECL|function|scale_linear
 DECL|function|show_file_mode_name
+DECL|function|show_graph
 DECL|function|show_mode_change
+DECL|function|show_name
 DECL|function|show_rename_copy
 DECL|function|show_stats
 DECL|function|spawn_prog
@@ -135,8 +138,6 @@ DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
 DECL|variable|mime_boundary_leader
-DECL|variable|minuses
-DECL|variable|pluses
 DECL|variable|sha1_size_cache
 DECL|variable|sha1_size_cache_alloc
 DECL|variable|sha1_size_cache_nr
