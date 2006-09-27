@@ -14,6 +14,7 @@ DECL|function|object_list_contains
 DECL|function|object_list_insert
 DECL|function|object_list_length
 DECL|function|parse_object
+DECL|function|parse_object_buffer
 DECL|member|blob
 DECL|member|commit
 DECL|member|object
