@@ -1,5 +1,4 @@
 DECL|function|execute_commands
-DECL|function|is_all_zeroes
 DECL|function|main
 DECL|function|read_head_info
 DECL|function|report
@@ -8,7 +7,6 @@ DECL|function|run_update_post_hook
 DECL|function|show_ref
 DECL|function|unpack
 DECL|function|update
-DECL|function|verify_old_ref
 DECL|function|write_head_info
 DECL|member|error_string
 DECL|member|new_sha1
