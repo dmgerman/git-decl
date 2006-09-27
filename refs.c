@@ -2,6 +2,7 @@ DECL|function|add_ref
 DECL|function|bad_ref_char
 DECL|function|check_ref_format
 DECL|function|create_symref
+DECL|function|delete_ref
 DECL|function|do_for_each_ref
 DECL|function|for_each_branch_ref
 DECL|function|for_each_ref
