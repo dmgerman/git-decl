@@ -9,6 +9,8 @@ DECL|function|compile_pattern_or
 DECL|function|compile_regexp
 DECL|function|end_of_line
 DECL|function|fixmatch
+DECL|function|free_grep_patterns
+DECL|function|free_pattern_expr
 DECL|function|grep_buffer
 DECL|function|match_expr
 DECL|function|match_expr_eval
