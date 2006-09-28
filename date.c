@@ -1,8 +1,10 @@
 DECL|function|approxidate
 DECL|function|approxidate_alpha
 DECL|function|approxidate_digit
+DECL|function|date_am
 DECL|function|date_midnight
 DECL|function|date_noon
+DECL|function|date_pm
 DECL|function|date_string
 DECL|function|date_tea
 DECL|function|date_time
