@@ -1,5 +1,6 @@
 DECL|function|approxidate
 DECL|function|approxidate_alpha
+DECL|function|approxidate_digit
 DECL|function|date_midnight
 DECL|function|date_noon
 DECL|function|date_string
