@@ -28,6 +28,7 @@ DECL|function|socksetup
 DECL|function|store_pid
 DECL|function|upload_archive
 DECL|function|upload_pack
+DECL|macro|HOST_NAME_MAX
 DECL|macro|INTERP_SLOT_CANON_HOST
 DECL|macro|INTERP_SLOT_DIR
 DECL|macro|INTERP_SLOT_HOST
