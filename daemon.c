@@ -14,6 +14,7 @@ DECL|function|loginfo
 DECL|function|logreport
 DECL|function|main
 DECL|function|make_service_overridable
+DECL|function|parse_extra_args
 DECL|function|path_ok
 DECL|function|remove_child
 DECL|function|run_service
@@ -26,6 +27,9 @@ DECL|function|socksetup
 DECL|function|store_pid
 DECL|function|upload_archive
 DECL|function|upload_pack
+DECL|macro|INTERP_SLOT_DIR
+DECL|macro|INTERP_SLOT_HOST
+DECL|macro|INTERP_SLOT_PERCENT
 DECL|macro|MAX_CHILDREN
 DECL|member|address
 DECL|member|addrlen
@@ -47,11 +51,14 @@ DECL|variable|daemon_usage
 DECL|variable|dead_child
 DECL|variable|export_all_trees
 DECL|variable|init_timeout
+DECL|variable|interp_table
+DECL|variable|interpolated_path
 DECL|variable|live_child
 DECL|variable|log_syslog
 DECL|variable|max_connections
 DECL|variable|ok_paths
 DECL|variable|reuseaddr
+DECL|variable|saw_extended_args
 DECL|variable|service_enabled
 DECL|variable|service_looking_at
 DECL|variable|strict_paths

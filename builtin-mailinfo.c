@@ -28,7 +28,6 @@ DECL|function|handle_multipart_one_part
 DECL|function|handle_patch
 DECL|function|handle_subcontent_type
 DECL|function|handle_subject
-DECL|function|hexval
 DECL|function|is_multipart_boundary
 DECL|function|is_rfc2822_header
 DECL|function|mailinfo

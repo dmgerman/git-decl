@@ -1,4 +1,3 @@
-DECL|function|cmd_zip_tree
 DECL|function|construct_path
 DECL|function|copy_le16
 DECL|function|copy_le32
@@ -56,4 +55,3 @@ DECL|variable|zip_dir_offset
 DECL|variable|zip_dir_size
 DECL|variable|zip_offset
 DECL|variable|zip_time
-DECL|variable|zip_tree_usage

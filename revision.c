@@ -1,9 +1,13 @@
+DECL|function|add_grep
+DECL|function|add_header_grep
 DECL|function|add_ignore_packed
+DECL|function|add_message_grep
 DECL|function|add_object
 DECL|function|add_parents_only
 DECL|function|add_parents_to_list
 DECL|function|add_pending_commit_list
 DECL|function|add_pending_object
+DECL|function|commit_match
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change

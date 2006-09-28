@@ -12,7 +12,6 @@ DECL|function|has_pack_file
 DECL|function|has_pack_index
 DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
-DECL|function|hexval
 DECL|function|index_fd
 DECL|function|index_path
 DECL|function|index_pipe
@@ -71,6 +70,7 @@ DECL|macro|O_NOATIME
 DECL|macro|PACK_MAX_SZ
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail
+DECL|variable|hexval_table
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
 DECL|variable|pack_used_ctr
