@@ -20,6 +20,8 @@ DECL|function|log_ref_write
 DECL|function|parse_ref_line
 DECL|function|read_ref
 DECL|function|read_ref_at
+DECL|function|remove_empty_dir_recursive
+DECL|function|remove_empty_directories
 DECL|function|resolve_ref
 DECL|function|unlock_ref
 DECL|function|verify_lock
