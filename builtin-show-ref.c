@@ -1,5 +1,6 @@
 DECL|function|cmd_show_ref
 DECL|function|show_ref
+DECL|variable|abbrev
 DECL|variable|deref_tags
 DECL|variable|found_match
 DECL|variable|hash_only
