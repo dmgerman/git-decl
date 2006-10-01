@@ -6,6 +6,7 @@ DECL|function|daemon_die
 DECL|function|daemonize
 DECL|function|enable_service
 DECL|function|execute
+DECL|function|fill_in_extra_table_entries
 DECL|function|git_daemon_config
 DECL|function|handle
 DECL|function|kill_some_children
@@ -27,9 +28,13 @@ DECL|function|socksetup
 DECL|function|store_pid
 DECL|function|upload_archive
 DECL|function|upload_pack
+DECL|macro|HOST_NAME_MAX
+DECL|macro|INTERP_SLOT_CANON_HOST
 DECL|macro|INTERP_SLOT_DIR
 DECL|macro|INTERP_SLOT_HOST
+DECL|macro|INTERP_SLOT_IP
 DECL|macro|INTERP_SLOT_PERCENT
+DECL|macro|INTERP_SLOT_PORT
 DECL|macro|MAX_CHILDREN
 DECL|member|address
 DECL|member|addrlen
