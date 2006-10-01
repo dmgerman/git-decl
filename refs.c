@@ -41,3 +41,4 @@ DECL|member|sha1
 DECL|struct|cached_refs
 DECL|struct|ref_list
 DECL|variable|cached_refs
+DECL|variable|packlock
