@@ -1,5 +1,6 @@
 DECL|function|alloc_line_map
 DECL|function|compare_tree_path
+DECL|function|emit_meta
 DECL|function|fill_line_map
 DECL|function|fill_util_info
 DECL|function|find_orig_linenum
