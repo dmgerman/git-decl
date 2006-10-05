@@ -2,6 +2,7 @@ DECL|function|alloc_line_map
 DECL|function|compare_tree_path
 DECL|function|fill_line_map
 DECL|function|fill_util_info
+DECL|function|find_orig_linenum
 DECL|function|find_rename
 DECL|function|format_time
 DECL|function|free_patch
@@ -12,6 +13,7 @@ DECL|function|get_commit_info
 DECL|function|get_patch
 DECL|function|get_util
 DECL|function|init_first_commit
+DECL|function|lineno_width
 DECL|function|main
 DECL|function|map_line
 DECL|function|print_map
