@@ -12,6 +12,7 @@ DECL|function|has_pack_file
 DECL|function|has_pack_index
 DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
+DECL|function|hash_sha1_file
 DECL|function|index_fd
 DECL|function|index_path
 DECL|function|index_pipe
