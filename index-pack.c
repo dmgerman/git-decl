@@ -12,6 +12,7 @@ DECL|function|sha1_object
 DECL|function|unpack_entry_data
 DECL|function|unpack_raw_entry
 DECL|function|write_index_file
+DECL|macro|UNION_BASE_SZ
 DECL|member|base
 DECL|member|obj
 DECL|member|offset
