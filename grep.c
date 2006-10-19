@@ -1,5 +1,7 @@
 DECL|function|append_grep_pattern
 DECL|function|buffer_is_binary
+DECL|function|chk_hit_marker
+DECL|function|clr_hit_marker
 DECL|function|compile_grep_patterns
 DECL|function|compile_pattern_and
 DECL|function|compile_pattern_atom
@@ -12,6 +14,7 @@ DECL|function|fixmatch
 DECL|function|free_grep_patterns
 DECL|function|free_pattern_expr
 DECL|function|grep_buffer
+DECL|function|grep_buffer_1
 DECL|function|match_expr
 DECL|function|match_expr_eval
 DECL|function|match_line
