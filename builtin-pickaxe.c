@@ -5,11 +5,14 @@ DECL|function|blame_overlap
 DECL|function|cmd_pickaxe
 DECL|function|coalesce
 DECL|function|compare_buffer
+DECL|function|copy_split_if_better
 DECL|function|dup_entry
 DECL|function|emit_other
 DECL|function|emit_porcelain
 DECL|function|find_alignment
+DECL|function|find_copy_in_blob
 DECL|function|find_last_in_target
+DECL|function|find_move_in_parent
 DECL|function|find_origin
 DECL|function|find_rename
 DECL|function|format_time
@@ -39,6 +42,7 @@ DECL|macro|OUTPUT_PORCELAIN
 DECL|macro|OUTPUT_RAW_TIMESTAMP
 DECL|macro|OUTPUT_SHOW_NAME
 DECL|macro|OUTPUT_SHOW_NUMBER
+DECL|macro|PICKAXE_BLAME_MOVE
 DECL|member|author
 DECL|member|author_mail
 DECL|member|author_time
