@@ -9,6 +9,7 @@ DECL|function|copy_split_if_better
 DECL|function|dup_entry
 DECL|function|emit_other
 DECL|function|emit_porcelain
+DECL|function|ent_score
 DECL|function|find_alignment
 DECL|function|find_copy_in_blob
 DECL|function|find_copy_in_parent
@@ -33,7 +34,6 @@ DECL|function|process_u_diff
 DECL|function|read_ancestry
 DECL|function|split_blame
 DECL|function|split_overlap
-DECL|macro|DEBUG
 DECL|macro|MAXPARENT
 DECL|macro|METAINFO_SHOWN
 DECL|macro|MORE_THAN_ONE_PATH
@@ -43,6 +43,7 @@ DECL|macro|OUTPUT_PORCELAIN
 DECL|macro|OUTPUT_RAW_TIMESTAMP
 DECL|macro|OUTPUT_SHOW_NAME
 DECL|macro|OUTPUT_SHOW_NUMBER
+DECL|macro|OUTPUT_SHOW_SCORE
 DECL|macro|PICKAXE_BLAME_COPY
 DECL|macro|PICKAXE_BLAME_COPY_HARDER
 DECL|macro|PICKAXE_BLAME_MOVE
@@ -77,6 +78,7 @@ DECL|member|prev
 DECL|member|ret
 DECL|member|s_lno
 DECL|member|same
+DECL|member|score
 DECL|member|summary
 DECL|member|suspect
 DECL|member|t_next
@@ -92,4 +94,5 @@ DECL|variable|longest_author
 DECL|variable|longest_file
 DECL|variable|max_digits
 DECL|variable|max_orig_digits
+DECL|variable|max_score_digits
 DECL|variable|pickaxe_usage
