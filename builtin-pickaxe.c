@@ -11,6 +11,7 @@ DECL|function|emit_other
 DECL|function|emit_porcelain
 DECL|function|find_alignment
 DECL|function|find_copy_in_blob
+DECL|function|find_copy_in_parent
 DECL|function|find_last_in_target
 DECL|function|find_move_in_parent
 DECL|function|find_origin
@@ -42,6 +43,8 @@ DECL|macro|OUTPUT_PORCELAIN
 DECL|macro|OUTPUT_RAW_TIMESTAMP
 DECL|macro|OUTPUT_SHOW_NAME
 DECL|macro|OUTPUT_SHOW_NUMBER
+DECL|macro|PICKAXE_BLAME_COPY
+DECL|macro|PICKAXE_BLAME_COPY_HARDER
 DECL|macro|PICKAXE_BLAME_MOVE
 DECL|member|author
 DECL|member|author_mail
