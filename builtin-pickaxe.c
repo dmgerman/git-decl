@@ -27,6 +27,7 @@ DECL|function|has_path_in_work_tree
 DECL|function|lineno_width
 DECL|function|nth_line
 DECL|function|output
+DECL|function|parse_score
 DECL|function|pass_blame
 DECL|function|pass_blame_to_parent
 DECL|function|prepare_lines
@@ -34,6 +35,8 @@ DECL|function|process_u_diff
 DECL|function|read_ancestry
 DECL|function|split_blame
 DECL|function|split_overlap
+DECL|macro|BLAME_DEFAULT_COPY_SCORE
+DECL|macro|BLAME_DEFAULT_MOVE_SCORE
 DECL|macro|MAXPARENT
 DECL|macro|METAINFO_SHOWN
 DECL|macro|MORE_THAN_ONE_PATH
@@ -90,6 +93,8 @@ DECL|struct|commit_info
 DECL|struct|origin
 DECL|struct|patch
 DECL|struct|scoreboard
+DECL|variable|blame_copy_score
+DECL|variable|blame_move_score
 DECL|variable|longest_author
 DECL|variable|longest_file
 DECL|variable|max_digits
