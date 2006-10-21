@@ -3,6 +3,7 @@ DECL|function|assign_blame
 DECL|function|blame_chunk
 DECL|function|blame_overlap
 DECL|function|cmd_pickaxe
+DECL|function|cmp_suspect
 DECL|function|coalesce
 DECL|function|compare_buffer
 DECL|function|copy_split_if_better
