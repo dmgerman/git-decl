@@ -1,6 +1,7 @@
 DECL|function|bad_object
 DECL|function|compare_delta_entry
 DECL|function|fill
+DECL|function|final
 DECL|function|find_delta
 DECL|function|find_delta_childs
 DECL|function|get_data_from_pack
@@ -31,13 +32,15 @@ DECL|struct|object_entry
 DECL|union|delta_base
 DECL|variable|consumed_bytes
 DECL|variable|deltas
+DECL|variable|from_stdin
 DECL|variable|index_pack_usage
 DECL|variable|input_buffer
 DECL|variable|input_ctx
 DECL|variable|input_fd
 DECL|variable|input_len
 DECL|variable|input_offset
+DECL|variable|mmap_fd
 DECL|variable|nr_deltas
 DECL|variable|nr_objects
 DECL|variable|objects
-DECL|variable|pack_name
+DECL|variable|output_fd
