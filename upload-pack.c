@@ -16,6 +16,7 @@ DECL|variable|multi_ack
 DECL|variable|nr_our_refs
 DECL|variable|timeout
 DECL|variable|upload_pack_usage
+DECL|variable|use_ofs_delta
 DECL|variable|use_sideband
 DECL|variable|use_thin_pack
 DECL|variable|want_obj
