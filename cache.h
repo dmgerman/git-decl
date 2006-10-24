@@ -1,8 +1,9 @@
 DECL|enumerator|OBJ_BAD
 DECL|enumerator|OBJ_BLOB
 DECL|enumerator|OBJ_COMMIT
-DECL|enumerator|OBJ_DELTA
 DECL|enumerator|OBJ_NONE
+DECL|enumerator|OBJ_OFS_DELTA
+DECL|enumerator|OBJ_REF_DELTA
 DECL|enumerator|OBJ_TAG
 DECL|enumerator|OBJ_TREE
 DECL|enumerator|PERM_EVERYBODY

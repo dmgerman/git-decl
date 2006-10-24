@@ -84,6 +84,7 @@ DECL|function|show_file_mode_name
 DECL|function|show_graph
 DECL|function|show_mode_change
 DECL|function|show_name
+DECL|function|show_numstat
 DECL|function|show_rename_copy
 DECL|function|show_stats
 DECL|function|spawn_prog

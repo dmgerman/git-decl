@@ -19,12 +19,14 @@ DECL|macro|GREP_BINARY_DEFAULT
 DECL|macro|GREP_BINARY_NOMATCH
 DECL|macro|GREP_BINARY_TEXT
 DECL|macro|GREP_H
+DECL|member|all_match
 DECL|member|atom
 DECL|member|binary
 DECL|member|binary
 DECL|member|count
 DECL|member|extended
 DECL|member|fixed
+DECL|member|hit
 DECL|member|invert
 DECL|member|left
 DECL|member|linenum
