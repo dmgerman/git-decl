@@ -1,10 +1,13 @@
 DECL|function|alloc_line_map
 DECL|function|compare_tree_path
+DECL|function|emit_meta
 DECL|function|fill_line_map
 DECL|function|fill_util_info
+DECL|function|find_orig_linenum
 DECL|function|find_rename
 DECL|function|format_time
 DECL|function|free_patch
+DECL|function|get_ac_line
 DECL|function|get_blob
 DECL|function|get_blob_sha1
 DECL|function|get_blob_sha1_internal
@@ -12,6 +15,7 @@ DECL|function|get_commit_info
 DECL|function|get_patch
 DECL|function|get_util
 DECL|function|init_first_commit
+DECL|function|lineno_width
 DECL|function|main
 DECL|function|map_line
 DECL|function|print_map
@@ -30,9 +34,14 @@ DECL|member|author_time
 DECL|member|author_tz
 DECL|member|buf
 DECL|member|chunks
+DECL|member|committer
+DECL|member|committer_mail
+DECL|member|committer_time
+DECL|member|committer_tz
 DECL|member|len1
 DECL|member|len2
 DECL|member|line_map
+DECL|member|meta_given
 DECL|member|num
 DECL|member|num_lines
 DECL|member|off1
@@ -41,6 +50,7 @@ DECL|member|pathname
 DECL|member|ret
 DECL|member|sha1
 DECL|member|size
+DECL|member|summary
 DECL|member|topo_data
 DECL|member|xm
 DECL|struct|blame_diff_state
