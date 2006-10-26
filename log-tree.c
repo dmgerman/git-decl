@@ -1,6 +1,5 @@
 DECL|function|append_signoff
 DECL|function|detect_any_signoff
-DECL|function|diff_root_tree
 DECL|function|do_diff_combined
 DECL|function|log_tree_commit
 DECL|function|log_tree_diff
