@@ -2,6 +2,7 @@ DECL|function|append_obj_to_pack
 DECL|function|bad_object
 DECL|function|compare_delta_entry
 DECL|function|delta_pos_compare
+DECL|function|display_progress
 DECL|function|fill
 DECL|function|final
 DECL|function|find_delta
@@ -13,8 +14,10 @@ DECL|function|main
 DECL|function|open_pack_file
 DECL|function|parse_pack_header
 DECL|function|parse_pack_objects
+DECL|function|progress_interval
 DECL|function|readjust_pack_header_and_sha1
 DECL|function|resolve_delta
+DECL|function|setup_progress_signal
 DECL|function|sha1_compare
 DECL|function|sha1_object
 DECL|function|unpack_entry_data
@@ -51,3 +54,5 @@ DECL|variable|nr_objects
 DECL|variable|nr_resolved_deltas
 DECL|variable|objects
 DECL|variable|output_fd
+DECL|variable|progress_update
+DECL|variable|verbose
