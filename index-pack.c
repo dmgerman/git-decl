@@ -6,7 +6,7 @@ DECL|function|display_progress
 DECL|function|fill
 DECL|function|final
 DECL|function|find_delta
-DECL|function|find_delta_childs
+DECL|function|find_delta_children
 DECL|function|fix_unresolved_deltas
 DECL|function|flush
 DECL|function|get_data_from_pack
