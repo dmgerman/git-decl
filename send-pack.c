@@ -13,6 +13,7 @@ DECL|function|send_pack
 DECL|function|unmark_and_free
 DECL|variable|exec
 DECL|variable|force_update
+DECL|variable|keep_pack
 DECL|variable|local_refs
 DECL|variable|local_tail
 DECL|variable|remote_refs

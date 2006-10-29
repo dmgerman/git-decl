@@ -19,6 +19,8 @@ DECL|struct|command
 DECL|variable|capabilities
 DECL|variable|capabilities_sent
 DECL|variable|commands
+DECL|variable|keep_pack
+DECL|variable|keep_packer
 DECL|variable|receive_pack_usage
 DECL|variable|report_status
 DECL|variable|unpacker
