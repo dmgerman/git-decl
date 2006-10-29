@@ -7,6 +7,7 @@ DECL|function|cmp_suspect
 DECL|function|coalesce
 DECL|function|compare_buffer
 DECL|function|copy_split_if_better
+DECL|function|decref_split
 DECL|function|dup_entry
 DECL|function|emit_other
 DECL|function|emit_porcelain
@@ -27,6 +28,8 @@ DECL|function|get_patch
 DECL|function|has_path_in_work_tree
 DECL|function|lineno_width
 DECL|function|nth_line
+DECL|function|origin_decref
+DECL|function|origin_incref
 DECL|function|output
 DECL|function|parse_score
 DECL|function|pass_blame
@@ -34,10 +37,12 @@ DECL|function|pass_blame_to_parent
 DECL|function|prepare_lines
 DECL|function|process_u_diff
 DECL|function|read_ancestry
+DECL|function|sanity_check_refcnt
 DECL|function|split_blame
 DECL|function|split_overlap
 DECL|macro|BLAME_DEFAULT_COPY_SCORE
 DECL|macro|BLAME_DEFAULT_MOVE_SCORE
+DECL|macro|DEBUG
 DECL|macro|MAXPARENT
 DECL|macro|METAINFO_SHOWN
 DECL|macro|MORE_THAN_ONE_PATH
@@ -79,6 +84,7 @@ DECL|member|p_next
 DECL|member|path
 DECL|member|path
 DECL|member|prev
+DECL|member|refcnt
 DECL|member|ret
 DECL|member|s_lno
 DECL|member|same
