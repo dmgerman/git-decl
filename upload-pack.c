@@ -13,9 +13,12 @@ DECL|function|show_edge
 DECL|function|show_object
 DECL|function|strip
 DECL|function|upload_pack
+DECL|macro|CLIENT_SHALLOW
 DECL|macro|COMMON_KNOWN
+DECL|macro|NOT_SHALLOW
 DECL|macro|OUR_REF
 DECL|macro|REACHABLE
+DECL|macro|SHALLOW
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
 DECL|variable|have_obj
