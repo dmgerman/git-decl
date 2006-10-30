@@ -6,7 +6,6 @@ DECL|function|get_refs_directory
 DECL|function|setup_git_env
 DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
-DECL|variable|deny_non_fast_forwards
 DECL|variable|git_commit_encoding
 DECL|variable|git_default_email
 DECL|variable|git_default_name

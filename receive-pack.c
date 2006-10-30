@@ -2,6 +2,7 @@ DECL|function|execute_commands
 DECL|function|is_all_zeroes
 DECL|function|main
 DECL|function|read_head_info
+DECL|function|receive_pack_config
 DECL|function|report
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
@@ -19,6 +20,7 @@ DECL|struct|command
 DECL|variable|capabilities
 DECL|variable|capabilities_sent
 DECL|variable|commands
+DECL|variable|deny_non_fast_forwards
 DECL|variable|receive_pack_usage
 DECL|variable|report_status
 DECL|variable|unpacker
