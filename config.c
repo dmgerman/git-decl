@@ -15,6 +15,7 @@ DECL|function|git_config_set
 DECL|function|git_config_set_multivar
 DECL|function|git_default_config
 DECL|function|git_parse_file
+DECL|function|iskeychar
 DECL|function|matches
 DECL|function|parse_value
 DECL|function|store_aux
