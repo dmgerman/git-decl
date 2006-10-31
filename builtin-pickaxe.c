@@ -19,6 +19,7 @@ DECL|function|find_copy_in_parent
 DECL|function|find_last_in_target
 DECL|function|find_move_in_parent
 DECL|function|find_origin
+DECL|function|find_rename
 DECL|function|format_time
 DECL|function|free_patch
 DECL|function|get_ac_line
