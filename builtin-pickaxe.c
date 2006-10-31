@@ -57,6 +57,7 @@ DECL|macro|OUTPUT_SHOW_SCORE
 DECL|macro|PICKAXE_BLAME_COPY
 DECL|macro|PICKAXE_BLAME_COPY_HARDER
 DECL|macro|PICKAXE_BLAME_MOVE
+DECL|macro|cmp_suspect
 DECL|member|author
 DECL|member|author_mail
 DECL|member|author_time
