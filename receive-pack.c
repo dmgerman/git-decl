@@ -20,6 +20,7 @@ DECL|variable|capabilities
 DECL|variable|capabilities_sent
 DECL|variable|commands
 DECL|variable|deny_non_fast_forwards
+DECL|variable|pack_lockfile
 DECL|variable|receive_pack_usage
 DECL|variable|report_status
 DECL|variable|unpack_limit
