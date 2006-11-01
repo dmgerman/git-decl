@@ -1,0 +1,13 @@
+DECL|function|append_ref
+DECL|function|cmd_branch
+DECL|function|create_branch
+DECL|function|delete_branches
+DECL|function|in_merge_bases
+DECL|function|print_ref_list
+DECL|function|ref_cmp
+DECL|variable|builtin_branch_usage
+DECL|variable|head
+DECL|variable|head_sha1
+DECL|variable|ref_alloc
+DECL|variable|ref_index
+DECL|variable|ref_list
