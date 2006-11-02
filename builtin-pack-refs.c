@@ -3,6 +3,7 @@ DECL|function|do_not_prune
 DECL|function|handle_one_ref
 DECL|function|prune_ref
 DECL|function|prune_refs
+DECL|member|all
 DECL|member|name
 DECL|member|next
 DECL|member|prune
