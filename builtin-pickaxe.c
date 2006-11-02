@@ -1,4 +1,5 @@
 DECL|function|add_blame_entry
+DECL|function|add_prefix
 DECL|function|assign_blame
 DECL|function|blame_chunk
 DECL|function|blame_overlap
