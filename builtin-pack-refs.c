@@ -1,0 +1,16 @@
+DECL|function|cmd_pack_refs
+DECL|function|do_not_prune
+DECL|function|handle_one_ref
+DECL|function|prune_ref
+DECL|function|prune_refs
+DECL|member|all
+DECL|member|name
+DECL|member|next
+DECL|member|prune
+DECL|member|ref_to_prune
+DECL|member|refs_file
+DECL|member|sha1
+DECL|struct|pack_refs_cb_data
+DECL|struct|ref_to_prune
+DECL|variable|builtin_pack_refs_usage
+DECL|variable|packed

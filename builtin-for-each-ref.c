@@ -19,7 +19,6 @@ DECL|function|grab_commit_values
 DECL|function|grab_common_values
 DECL|function|grab_date
 DECL|function|grab_person
-DECL|function|grab_refs
 DECL|function|grab_single_ref
 DECL|function|grab_sub_body_contents
 DECL|function|grab_tag_values
@@ -39,6 +38,9 @@ DECL|macro|QUOTE_PYTHON
 DECL|macro|QUOTE_SHELL
 DECL|member|atom
 DECL|member|cmp_type
+DECL|member|grab_array
+DECL|member|grab_cnt
+DECL|member|grab_pattern
 DECL|member|name
 DECL|member|next
 DECL|member|objectname
@@ -48,12 +50,10 @@ DECL|member|s
 DECL|member|ul
 DECL|member|value
 DECL|struct|atom_value
+DECL|struct|grab_ref_cbdata
 DECL|struct|ref_sort
 DECL|struct|refinfo
 DECL|typedef|cmp_type
-DECL|variable|grab_array
-DECL|variable|grab_cnt
-DECL|variable|grab_pattern
 DECL|variable|need_tagged
 DECL|variable|ref_sort
 DECL|variable|sort_atom_limit
