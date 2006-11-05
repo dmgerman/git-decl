@@ -40,6 +40,7 @@ DECL|function|prepare_lines
 DECL|function|process_u_diff
 DECL|function|read_ancestry
 DECL|function|sanity_check_refcnt
+DECL|function|setup_blame_list
 DECL|function|split_blame
 DECL|function|split_overlap
 DECL|macro|BLAME_DEFAULT_COPY_SCORE
@@ -71,6 +72,7 @@ DECL|member|committer_mail
 DECL|member|committer_time
 DECL|member|committer_tz
 DECL|member|ent
+DECL|member|ent
 DECL|member|final
 DECL|member|final_buf
 DECL|member|final_buf_size
@@ -92,12 +94,14 @@ DECL|member|ret
 DECL|member|s_lno
 DECL|member|same
 DECL|member|score
+DECL|member|split
 DECL|member|summary
 DECL|member|suspect
 DECL|member|t_next
 DECL|member|xm
 DECL|struct|blame_diff_state
 DECL|struct|blame_entry
+DECL|struct|blame_list
 DECL|struct|chunk
 DECL|struct|commit_info
 DECL|struct|origin
