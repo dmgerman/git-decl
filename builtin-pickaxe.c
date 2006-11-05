@@ -29,6 +29,7 @@ DECL|function|get_origin
 DECL|function|get_patch
 DECL|function|has_path_in_work_tree
 DECL|function|lineno_width
+DECL|function|make_origin
 DECL|function|nth_line
 DECL|function|origin_decref
 DECL|function|origin_incref
