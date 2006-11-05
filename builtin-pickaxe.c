@@ -14,6 +14,7 @@ DECL|function|emit_other
 DECL|function|emit_porcelain
 DECL|function|ent_score
 DECL|function|fill_blob_sha1
+DECL|function|fill_origin_blob
 DECL|function|find_alignment
 DECL|function|find_copy_in_blob
 DECL|function|find_copy_in_parent
@@ -37,6 +38,7 @@ DECL|function|output
 DECL|function|parse_score
 DECL|function|pass_blame
 DECL|function|pass_blame_to_parent
+DECL|function|pass_whole_blame
 DECL|function|prepare_lines
 DECL|function|process_u_diff
 DECL|function|read_ancestry
@@ -74,6 +76,7 @@ DECL|member|committer_time
 DECL|member|committer_tz
 DECL|member|ent
 DECL|member|ent
+DECL|member|file
 DECL|member|final
 DECL|member|final_buf
 DECL|member|final_buf_size
@@ -115,4 +118,7 @@ DECL|variable|longest_file
 DECL|variable|max_digits
 DECL|variable|max_orig_digits
 DECL|variable|max_score_digits
+DECL|variable|num_commits
+DECL|variable|num_get_patch
+DECL|variable|num_read_blob
 DECL|variable|pickaxe_usage
