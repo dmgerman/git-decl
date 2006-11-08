@@ -74,6 +74,7 @@ DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|silent_on_remove
+DECL|member|single_follow
 DECL|member|stat_name_width
 DECL|member|stat_sep
 DECL|member|stat_width

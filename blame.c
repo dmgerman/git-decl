@@ -67,4 +67,5 @@ DECL|variable|blob_sha1
 DECL|variable|num_blame_lines
 DECL|variable|num_commits
 DECL|variable|num_get_patch
+DECL|variable|num_read_blob
 DECL|variable|patch_time
