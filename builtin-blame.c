@@ -3,7 +3,7 @@ DECL|function|add_prefix
 DECL|function|assign_blame
 DECL|function|blame_chunk
 DECL|function|blame_overlap
-DECL|function|cmd_pickaxe
+DECL|function|cmd_blame
 DECL|function|cmp_suspect
 DECL|function|coalesce
 DECL|function|compare_buffer
@@ -115,6 +115,7 @@ DECL|struct|patch
 DECL|struct|scoreboard
 DECL|variable|blame_copy_score
 DECL|variable|blame_move_score
+DECL|variable|blame_usage
 DECL|variable|longest_author
 DECL|variable|longest_file
 DECL|variable|max_digits
@@ -123,4 +124,3 @@ DECL|variable|max_score_digits
 DECL|variable|num_commits
 DECL|variable|num_get_patch
 DECL|variable|num_read_blob
-DECL|variable|pickaxe_usage
