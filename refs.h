@@ -1,5 +1,6 @@
 DECL|macro|REFS_H
 DECL|macro|REF_ISPACKED
+DECL|macro|REF_ISPEELED
 DECL|macro|REF_ISSYMREF
 DECL|member|force_write
 DECL|member|lk

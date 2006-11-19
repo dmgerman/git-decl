@@ -21,6 +21,7 @@ DECL|function|lock_ref_sha1
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_write
 DECL|function|parse_ref_line
+DECL|function|peel_ref
 DECL|function|read_ref
 DECL|function|read_ref_at
 DECL|function|remove_empty_dir_recursive
