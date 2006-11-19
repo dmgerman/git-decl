@@ -4,6 +4,6 @@ DECL|function|get_from_rev
 DECL|function|insert_author_oneline
 DECL|function|map_email
 DECL|function|read_from_stdin
+DECL|function|read_mailmap
 DECL|variable|mailmap
-DECL|variable|mailmap_list
 DECL|variable|shortlog_usage
