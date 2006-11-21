@@ -1,0 +1,16 @@
+DECL|function|xdl_append_merge
+DECL|function|xdl_cleanup_merge
+DECL|function|xdl_do_merge
+DECL|function|xdl_fill_merge_buffer
+DECL|function|xdl_merge
+DECL|function|xdl_merge_cmp_lines
+DECL|function|xdl_recs_copy
+DECL|function|xdl_refine_conflicts
+DECL|member|chg1
+DECL|member|chg2
+DECL|member|i1
+DECL|member|i2
+DECL|member|mode
+DECL|member|next
+DECL|struct|s_xdmerge
+DECL|typedef|xdmerge_t
