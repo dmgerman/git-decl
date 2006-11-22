@@ -22,6 +22,7 @@ DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_write
 DECL|function|parse_ref_line
 DECL|function|peel_ref
+DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
 DECL|function|remove_empty_dir_recursive
@@ -32,6 +33,7 @@ DECL|function|unlock_ref
 DECL|function|verify_lock
 DECL|function|write_ref_sha1
 DECL|macro|MAXDEPTH
+DECL|macro|REF_KNOWS_PEELED
 DECL|member|did_loose
 DECL|member|did_packed
 DECL|member|flag
@@ -39,6 +41,7 @@ DECL|member|loose
 DECL|member|name
 DECL|member|next
 DECL|member|packed
+DECL|member|peeled
 DECL|member|sha1
 DECL|struct|cached_refs
 DECL|struct|ref_list
