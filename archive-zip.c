@@ -8,6 +8,12 @@ DECL|function|write_zip_entry
 DECL|function|write_zip_trailer
 DECL|function|zlib_deflate
 DECL|macro|ZIP_DIRECTORY_MIN_SIZE
+DECL|macro|ZIP_DIR_HEADER_SIZE
+DECL|macro|ZIP_DIR_TRAILER_SIZE
+DECL|macro|ZIP_LOCAL_HEADER_SIZE
+DECL|member|_end
+DECL|member|_end
+DECL|member|_end
 DECL|member|attr1
 DECL|member|attr2
 DECL|member|comment_length
