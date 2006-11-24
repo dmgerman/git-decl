@@ -1,3 +1,4 @@
+DECL|function|delete_only
 DECL|function|execute_commands
 DECL|function|main
 DECL|function|parse_pack_header
