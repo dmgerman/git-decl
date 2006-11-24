@@ -10,9 +10,11 @@ DECL|function|gen_message_id
 DECL|function|get_patch_id
 DECL|function|get_patch_ids
 DECL|function|git_format_config
+DECL|function|git_log_config
 DECL|function|istitlechar
 DECL|function|reopen_stdout
 DECL|variable|cherry_usage
+DECL|variable|default_show_root
 DECL|variable|extra_headers
 DECL|variable|extra_headers_size
 DECL|variable|output_directory
