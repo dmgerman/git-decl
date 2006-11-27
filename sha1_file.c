@@ -45,6 +45,7 @@ DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
 DECL|function|setup_object_header
 DECL|function|sha1_file_name
+DECL|function|sha1_loose_object_info
 DECL|function|sha1_object_info
 DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
