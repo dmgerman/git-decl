@@ -16,6 +16,7 @@ DECL|function|get_ref_dir
 DECL|function|get_ref_sha1
 DECL|function|head_ref
 DECL|function|invalidate_cached_refs
+DECL|function|is_refname_available
 DECL|function|lock_any_ref_for_update
 DECL|function|lock_ref_sha1
 DECL|function|lock_ref_sha1_basic
@@ -27,6 +28,7 @@ DECL|function|read_ref
 DECL|function|read_ref_at
 DECL|function|remove_empty_dir_recursive
 DECL|function|remove_empty_directories
+DECL|function|rename_ref
 DECL|function|repack_without_ref
 DECL|function|resolve_ref
 DECL|function|unlock_ref
