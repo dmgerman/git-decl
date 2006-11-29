@@ -3,6 +3,7 @@ DECL|function|commit_list_count
 DECL|function|conflict_rename_dir
 DECL|function|conflict_rename_rename
 DECL|function|conflict_rename_rename_2
+DECL|function|fill_mm
 DECL|function|flush_buffer
 DECL|function|flush_cache
 DECL|function|get_files_dirs
@@ -11,7 +12,6 @@ DECL|function|get_renames
 DECL|function|get_unmerged
 DECL|function|git_merge_trees
 DECL|function|git_read_tree
-DECL|function|git_unpack_file
 DECL|function|git_write_tree
 DECL|function|has_sha
 DECL|function|insert_stage_data
