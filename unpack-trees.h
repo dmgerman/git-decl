@@ -1,6 +1,7 @@
 DECL|macro|UNPACK_TREES_H
 DECL|member|aggressive
 DECL|member|df_conflict_entry
+DECL|member|dir
 DECL|member|fn
 DECL|member|head_idx
 DECL|member|index_only
