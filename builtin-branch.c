@@ -16,6 +16,7 @@ DECL|function|parse_branch_color_slot
 DECL|function|print_ref_info
 DECL|function|print_ref_list
 DECL|function|ref_cmp
+DECL|function|rename_branch
 DECL|macro|REF_LOCAL_BRANCH
 DECL|macro|REF_REMOTE_BRANCH
 DECL|macro|REF_TAG
