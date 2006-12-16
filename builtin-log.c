@@ -13,6 +13,8 @@ DECL|function|git_format_config
 DECL|function|git_log_config
 DECL|function|istitlechar
 DECL|function|reopen_stdout
+DECL|function|show_object
+DECL|function|show_tree_object
 DECL|variable|cherry_usage
 DECL|variable|default_show_root
 DECL|variable|extra_headers
