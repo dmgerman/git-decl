@@ -32,6 +32,7 @@ DECL|member|full_diff
 DECL|member|grep_filter
 DECL|member|ignore_merges
 DECL|member|ignore_packed
+DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
 DECL|member|loginfo
