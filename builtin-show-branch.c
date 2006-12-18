@@ -24,6 +24,7 @@ DECL|function|show_one_commit
 DECL|function|snarf_refs
 DECL|function|sort_ref_range
 DECL|function|version_cmp
+DECL|macro|DEFAULT_REFLOG
 DECL|macro|MAX_REVS
 DECL|macro|REV_SHIFT
 DECL|macro|UNINTERESTING
