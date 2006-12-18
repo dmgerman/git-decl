@@ -1,4 +1,6 @@
+DECL|function|add_existing
 DECL|function|cmd_show_ref
+DECL|function|exclude_existing
 DECL|function|show_ref
 DECL|variable|abbrev
 DECL|variable|deref_tags
