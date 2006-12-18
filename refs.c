@@ -7,6 +7,7 @@ DECL|function|do_for_each_ref
 DECL|function|do_one_ref
 DECL|function|for_each_branch_ref
 DECL|function|for_each_ref
+DECL|function|for_each_reflog_ent
 DECL|function|for_each_remote_ref
 DECL|function|for_each_tag_ref
 DECL|function|free_ref_list
