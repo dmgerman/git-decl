@@ -26,6 +26,7 @@ DECL|function|use
 DECL|function|write_compressed
 DECL|function|write_index_file
 DECL|macro|UNION_BASE_SZ
+DECL|macro|_XOPEN_SOURCE
 DECL|member|base
 DECL|member|hdr_size
 DECL|member|obj_no
@@ -48,11 +49,11 @@ DECL|variable|input_ctx
 DECL|variable|input_fd
 DECL|variable|input_len
 DECL|variable|input_offset
-DECL|variable|mmap_fd
 DECL|variable|nr_deltas
 DECL|variable|nr_objects
 DECL|variable|nr_resolved_deltas
 DECL|variable|objects
 DECL|variable|output_fd
+DECL|variable|pack_fd
 DECL|variable|progress_update
 DECL|variable|verbose
