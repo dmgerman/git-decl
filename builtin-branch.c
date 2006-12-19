@@ -11,7 +11,6 @@ DECL|function|create_branch
 DECL|function|delete_branches
 DECL|function|free_ref_list
 DECL|function|git_branch_config
-DECL|function|in_merge_bases
 DECL|function|parse_branch_color_slot
 DECL|function|print_ref_info
 DECL|function|print_ref_list
