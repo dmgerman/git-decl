@@ -26,7 +26,6 @@ DECL|function|use
 DECL|function|write_compressed
 DECL|function|write_index_file
 DECL|macro|UNION_BASE_SZ
-DECL|macro|_XOPEN_SOURCE
 DECL|member|base
 DECL|member|hdr_size
 DECL|member|obj_no
