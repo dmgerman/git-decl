@@ -42,7 +42,6 @@ DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
 DECL|member|no_commit_id
-DECL|member|no_left_right
 DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
