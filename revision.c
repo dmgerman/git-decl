@@ -16,6 +16,9 @@ DECL|function|get_revision
 DECL|function|handle_all
 DECL|function|handle_commit
 DECL|function|handle_one_ref
+DECL|function|handle_one_reflog
+DECL|function|handle_one_reflog_ent
+DECL|function|handle_reflog
 DECL|function|handle_revision_arg
 DECL|function|init_revisions
 DECL|function|limit_list
@@ -32,6 +35,8 @@ DECL|function|rewrite_one
 DECL|function|rewrite_parents
 DECL|function|setup_revisions
 DECL|function|try_to_simplify_commit
-DECL|variable|all_flags
-DECL|variable|all_revs
+DECL|member|all_flags
+DECL|member|all_revs
+DECL|member|name_for_errormsg
+DECL|struct|all_refs_cb
 DECL|variable|tree_difference
