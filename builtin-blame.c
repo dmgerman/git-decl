@@ -28,6 +28,7 @@ DECL|function|get_ac_line
 DECL|function|get_commit_info
 DECL|function|get_origin
 DECL|function|get_patch
+DECL|function|git_blame_config
 DECL|function|has_path_in_work_tree
 DECL|function|lineno_width
 DECL|function|make_origin
@@ -116,6 +117,7 @@ DECL|struct|scoreboard
 DECL|variable|blame_copy_score
 DECL|variable|blame_move_score
 DECL|variable|blame_usage
+DECL|variable|blank_boundary
 DECL|variable|longest_author
 DECL|variable|longest_file
 DECL|variable|max_digits
@@ -124,3 +126,4 @@ DECL|variable|max_score_digits
 DECL|variable|num_commits
 DECL|variable|num_get_patch
 DECL|variable|num_read_blob
+DECL|variable|show_root
