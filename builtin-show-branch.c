@@ -2,6 +2,7 @@ DECL|function|append_head_ref
 DECL|function|append_matching_ref
 DECL|function|append_one_rev
 DECL|function|append_ref
+DECL|function|append_remote_ref
 DECL|function|append_tag_ref
 DECL|function|cmd_show_branch
 DECL|function|compare_ref_name
