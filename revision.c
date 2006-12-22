@@ -17,6 +17,7 @@ DECL|function|handle_all
 DECL|function|handle_commit
 DECL|function|handle_one_ref
 DECL|function|handle_one_reflog
+DECL|function|handle_one_reflog_commit
 DECL|function|handle_one_reflog_ent
 DECL|function|handle_reflog
 DECL|function|handle_revision_arg
@@ -38,5 +39,6 @@ DECL|function|try_to_simplify_commit
 DECL|member|all_flags
 DECL|member|all_revs
 DECL|member|name_for_errormsg
+DECL|member|warned_bad_reflog
 DECL|struct|all_refs_cb
 DECL|variable|tree_difference
