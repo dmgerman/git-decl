@@ -15,10 +15,11 @@ DECL|function|imap_close_server
 DECL|function|imap_close_store
 DECL|function|imap_exec
 DECL|function|imap_exec_m
+DECL|function|imap_info
 DECL|function|imap_make_flags
 DECL|function|imap_open_store
 DECL|function|imap_store_msg
-DECL|function|info
+DECL|function|imap_warn
 DECL|function|is_atom
 DECL|function|is_list
 DECL|function|issue_imap_cmd
@@ -36,7 +37,6 @@ DECL|function|socket_read
 DECL|function|socket_write
 DECL|function|split_msg
 DECL|function|v_issue_imap_cmd
-DECL|function|warn
 DECL|macro|CAP
 DECL|macro|CHUNKSIZE
 DECL|macro|DRV_BOX_BAD
