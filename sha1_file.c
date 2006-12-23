@@ -45,6 +45,7 @@ DECL|function|read_sha1_file
 DECL|function|repack_object
 DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
+DECL|function|scan_windows
 DECL|function|setup_object_header
 DECL|function|sha1_file_name
 DECL|function|sha1_loose_object_info
