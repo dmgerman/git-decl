@@ -3,11 +3,13 @@ DECL|function|add_pbase_object
 DECL|function|add_preferred_base
 DECL|function|add_preferred_base_object
 DECL|function|check_delta_limit
-DECL|function|check_inflate
+DECL|function|check_loose_inflate
 DECL|function|check_object
+DECL|function|check_pack_inflate
 DECL|function|check_pbase_path
 DECL|function|cmd_pack_objects
 DECL|function|cmp_offset
+DECL|function|copy_pack_data
 DECL|function|create_final_object_list
 DECL|function|create_sorted_list
 DECL|function|delta_against
