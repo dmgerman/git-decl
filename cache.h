@@ -76,6 +76,7 @@ DECL|macro|ce_stage
 DECL|macro|create_ce_flags
 DECL|macro|deflateBound
 DECL|member|base
+DECL|member|base
 DECL|member|base_dir
 DECL|member|base_dir_len
 DECL|member|ce_ctime
@@ -95,6 +96,9 @@ DECL|member|hdr_signature
 DECL|member|hdr_version
 DECL|member|index_base
 DECL|member|index_size
+DECL|member|inuse_cnt
+DECL|member|last_used
+DECL|member|len
 DECL|member|name
 DECL|member|name
 DECL|member|name
@@ -103,17 +107,16 @@ DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|next
+DECL|member|next
 DECL|member|not_new
 DECL|member|nsec
 DECL|member|offset
+DECL|member|offset
 DECL|member|old_sha1
 DECL|member|p
-DECL|member|pack_base
-DECL|member|pack_last_used
 DECL|member|pack_local
 DECL|member|pack_name
 DECL|member|pack_size
-DECL|member|pack_use_cnt
 DECL|member|peer_ref
 DECL|member|quiet
 DECL|member|refresh_cache
@@ -121,6 +124,7 @@ DECL|member|sec
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|windows
 DECL|struct|alternate_object_database
 DECL|struct|cache_entry
 DECL|struct|cache_header
@@ -128,6 +132,7 @@ DECL|struct|cache_time
 DECL|struct|checkout
 DECL|struct|lock_file
 DECL|struct|pack_entry
+DECL|struct|pack_window
 DECL|struct|packed_git
 DECL|struct|ref
 DECL|typedef|config_fn_t
