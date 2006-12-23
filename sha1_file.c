@@ -28,6 +28,7 @@ DECL|function|move_temp_to_file
 DECL|function|nth_packed_object_sha1
 DECL|function|num_packed_objects
 DECL|function|open_packed_git
+DECL|function|pack_report
 DECL|function|packed_delta_info
 DECL|function|packed_object_info
 DECL|function|packed_object_info_detail
@@ -77,8 +78,12 @@ DECL|variable|alt_odb_tail
 DECL|variable|hexval_table
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
+DECL|variable|pack_mmap_calls
+DECL|variable|pack_open_windows
 DECL|variable|pack_used_ctr
 DECL|variable|packed_git
 DECL|variable|page_size
+DECL|variable|peak_pack_mapped
+DECL|variable|peak_pack_open_windows
 DECL|variable|prepare_packed_git_run_once
 DECL|variable|sha1_file_open_flag
