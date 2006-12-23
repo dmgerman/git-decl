@@ -26,6 +26,7 @@ DECL|function|matches_pack_name
 DECL|function|move_temp_to_file
 DECL|function|nth_packed_object_sha1
 DECL|function|num_packed_objects
+DECL|function|open_packed_git
 DECL|function|packed_delta_info
 DECL|function|packed_object_info
 DECL|function|packed_object_info_detail
