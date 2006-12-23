@@ -59,7 +59,7 @@ DECL|function|unpack_object_header_gently
 DECL|function|unpack_sha1_file
 DECL|function|unpack_sha1_header
 DECL|function|unpack_sha1_rest
-DECL|function|unuse_one_packed_git
+DECL|function|unuse_one_window
 DECL|function|unuse_pack
 DECL|function|use_pack
 DECL|function|write_binary_header
