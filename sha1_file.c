@@ -69,7 +69,6 @@ DECL|function|write_sha1_from_fd
 DECL|function|write_sha1_to_fd
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
-DECL|macro|PACK_MAX_SZ
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail
 DECL|variable|hexval_table
