@@ -13,6 +13,7 @@ DECL|function|has_pack_index
 DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
 DECL|function|hash_sha1_file
+DECL|function|in_window
 DECL|function|index_fd
 DECL|function|index_path
 DECL|function|index_pipe
@@ -77,5 +78,6 @@ DECL|variable|null_sha1
 DECL|variable|pack_mapped
 DECL|variable|pack_used_ctr
 DECL|variable|packed_git
+DECL|variable|page_size
 DECL|variable|prepare_packed_git_run_once
 DECL|variable|sha1_file_open_flag
