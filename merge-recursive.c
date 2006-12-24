@@ -1,4 +1,5 @@
 DECL|function|add_cacheinfo
+DECL|function|better_branch_name
 DECL|function|commit_list_count
 DECL|function|conflict_rename_dir
 DECL|function|conflict_rename_rename
