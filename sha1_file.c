@@ -43,6 +43,7 @@ DECL|function|read_object_with_reference
 DECL|function|read_packed_sha1
 DECL|function|read_pipe
 DECL|function|read_sha1_file
+DECL|function|release_pack_memory
 DECL|function|repack_object
 DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
