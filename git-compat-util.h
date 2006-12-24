@@ -2,6 +2,7 @@ DECL|function|has_extension
 DECL|function|sane_case
 DECL|function|xcalloc
 DECL|function|xmalloc
+DECL|function|xmmap
 DECL|function|xread
 DECL|function|xrealloc
 DECL|function|xstrdup
