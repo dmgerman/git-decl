@@ -2,6 +2,9 @@ DECL|macro|DIR_H
 DECL|macro|EXC_CMDL
 DECL|macro|EXC_DIRS
 DECL|macro|EXC_FILE
+DECL|macro|MATCHED_EXACTLY
+DECL|macro|MATCHED_FNMATCH
+DECL|macro|MATCHED_RECURSIVELY
 DECL|member|alloc
 DECL|member|alloc
 DECL|member|base
