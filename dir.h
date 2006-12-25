@@ -14,11 +14,13 @@ DECL|member|exclude_list
 DECL|member|exclude_per_dir
 DECL|member|excludes
 DECL|member|hide_empty_directories
+DECL|member|ignored_entry
 DECL|member|len
 DECL|member|name
 DECL|member|nr
 DECL|member|nr
 DECL|member|pattern
+DECL|member|show_both
 DECL|member|show_ignored
 DECL|member|show_other_directories
 DECL|struct|dir_entry
