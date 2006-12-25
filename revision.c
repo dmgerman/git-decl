@@ -13,6 +13,7 @@ DECL|function|file_add_remove
 DECL|function|file_change
 DECL|function|get_reference
 DECL|function|get_revision
+DECL|function|get_revision_1
 DECL|function|handle_all
 DECL|function|handle_commit
 DECL|function|handle_one_ref
