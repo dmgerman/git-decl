@@ -35,6 +35,7 @@ DECL|member|ignore_packed
 DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
+DECL|member|log_reencode
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count

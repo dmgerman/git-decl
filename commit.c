@@ -8,12 +8,14 @@ DECL|function|commit_list_insert
 DECL|function|count_parents
 DECL|function|free_commit_list
 DECL|function|get_commit_format
+DECL|function|get_header
 DECL|function|get_merge_bases
 DECL|function|get_one_line
 DECL|function|insert_by_date
 DECL|function|interesting
 DECL|function|is_empty_line
 DECL|function|is_rfc2047_special
+DECL|function|logmsg_reencode
 DECL|function|lookup_commit
 DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference
