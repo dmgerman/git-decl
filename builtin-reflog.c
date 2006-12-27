@@ -3,6 +3,7 @@ DECL|function|cmd_reflog_expire
 DECL|function|expire_reflog
 DECL|function|expire_reflog_ent
 DECL|function|keep_entry
+DECL|function|reflog_expire_config
 DECL|function|tree_is_complete
 DECL|member|dry_run
 DECL|member|expire_total
@@ -14,5 +15,7 @@ DECL|member|ref
 DECL|member|ref_commit
 DECL|struct|cmd_reflog_expire_cb
 DECL|struct|expire_reflog_cb
+DECL|variable|default_reflog_expire
+DECL|variable|default_reflog_expire_unreachable
 DECL|variable|reflog_expire_usage
 DECL|variable|reflog_usage
