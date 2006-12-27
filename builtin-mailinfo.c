@@ -39,7 +39,6 @@ DECL|macro|SEEN_DATE
 DECL|macro|SEEN_FROM
 DECL|macro|SEEN_PREFIX
 DECL|macro|SEEN_SUBJECT
-DECL|macro|_GNU_SOURCE
 DECL|member|func
 DECL|member|name
 DECL|member|namelen

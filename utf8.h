@@ -1,0 +1,1 @@
+DECL|macro|GIT_UTF8_H

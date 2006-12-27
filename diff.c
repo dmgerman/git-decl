@@ -74,6 +74,7 @@ DECL|function|quote_two
 DECL|function|remove_space
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
+DECL|function|reuse_worktree_file
 DECL|function|run_checkdiff
 DECL|function|run_diff
 DECL|function|run_diff_cmd
@@ -86,9 +87,11 @@ DECL|function|show_mode_change
 DECL|function|show_name
 DECL|function|show_numstat
 DECL|function|show_rename_copy
+DECL|function|show_shortstats
 DECL|function|show_stats
 DECL|function|spawn_prog
-DECL|function|work_tree_matches
+DECL|macro|FAST_WORKING_DIRECTORY
+DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FIRST_FEW_BYTES
 DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|added

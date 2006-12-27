@@ -20,6 +20,10 @@ DECL|macro|NORETURN
 DECL|macro|PATH_MAX
 DECL|macro|PROT_READ
 DECL|macro|PROT_WRITE
+DECL|macro|_BSD_SOURCE
+DECL|macro|_GNU_SOURCE
+DECL|macro|_XOPEN_SOURCE
+DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|macro|__attribute__
 DECL|macro|isalnum
 DECL|macro|isalnum

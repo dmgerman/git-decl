@@ -3,6 +3,7 @@ DECL|function|get_graft_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
 DECL|function|get_refs_directory
+DECL|function|is_bare_git_dir
 DECL|function|setup_git_env
 DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged

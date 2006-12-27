@@ -7,6 +7,7 @@ DECL|macro|REV_TREE_NEW
 DECL|macro|REV_TREE_SAME
 DECL|macro|SEEN
 DECL|macro|SHOWN
+DECL|macro|SYMMETRIC_LEFT
 DECL|macro|TMP_MARK
 DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
@@ -31,6 +32,7 @@ DECL|member|full_diff
 DECL|member|grep_filter
 DECL|member|ignore_merges
 DECL|member|ignore_packed
+DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
 DECL|member|loginfo
@@ -56,6 +58,7 @@ DECL|member|remove_empty_trees
 DECL|member|show_root_diff
 DECL|member|shown_one
 DECL|member|simplify_history
+DECL|member|skip_count
 DECL|member|tag_objects
 DECL|member|topo_getter
 DECL|member|topo_order

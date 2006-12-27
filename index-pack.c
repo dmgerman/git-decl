@@ -48,11 +48,11 @@ DECL|variable|input_ctx
 DECL|variable|input_fd
 DECL|variable|input_len
 DECL|variable|input_offset
-DECL|variable|mmap_fd
 DECL|variable|nr_deltas
 DECL|variable|nr_objects
 DECL|variable|nr_resolved_deltas
 DECL|variable|objects
 DECL|variable|output_fd
+DECL|variable|pack_fd
 DECL|variable|progress_update
 DECL|variable|verbose

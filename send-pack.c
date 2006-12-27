@@ -11,6 +11,7 @@ DECL|function|rev_list
 DECL|function|rev_list_generate
 DECL|function|send_pack
 DECL|function|unmark_and_free
+DECL|function|verify_remote_names
 DECL|variable|exec
 DECL|variable|force_update
 DECL|variable|local_refs
