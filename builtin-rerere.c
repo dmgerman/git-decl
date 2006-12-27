@@ -5,6 +5,7 @@ DECL|function|diff_two
 DECL|function|do_plain_rerere
 DECL|function|find_conflict
 DECL|function|garbage_collect
+DECL|function|git_rerere_config
 DECL|function|handle_file
 DECL|function|merge
 DECL|function|outf
