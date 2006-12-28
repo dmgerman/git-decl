@@ -35,6 +35,8 @@ DECL|function|sort_in_topological_order
 DECL|function|sort_in_topological_order_fn
 DECL|function|topo_sort_default_getter
 DECL|function|topo_sort_default_setter
+DECL|function|unregister_shallow
+DECL|function|write_shallow_commits
 DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT

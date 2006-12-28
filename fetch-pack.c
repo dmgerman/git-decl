@@ -21,6 +21,7 @@ DECL|macro|MAX_IN_VAIN
 DECL|macro|POPPED
 DECL|macro|SEEN
 DECL|variable|complete
+DECL|variable|depth
 DECL|variable|exec
 DECL|variable|fetch_all
 DECL|variable|fetch_pack_usage
