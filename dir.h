@@ -14,6 +14,8 @@ DECL|member|exclude_list
 DECL|member|exclude_per_dir
 DECL|member|excludes
 DECL|member|hide_empty_directories
+DECL|member|ignored
+DECL|member|ignored_dir
 DECL|member|len
 DECL|member|name
 DECL|member|nr
