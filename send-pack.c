@@ -1,7 +1,6 @@
 DECL|function|exec_pack_objects
 DECL|function|exec_rev_list
 DECL|function|get_local_heads
-DECL|function|is_zero_sha1
 DECL|function|main
 DECL|function|one_local_ref
 DECL|function|pack_objects
