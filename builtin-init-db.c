@@ -5,4 +5,6 @@ DECL|function|copy_templates_1
 DECL|function|create_default_files
 DECL|function|safe_create_dir
 DECL|macro|DEFAULT_GIT_TEMPLATE_DIR
+DECL|macro|TEST_FILEMODE
+DECL|macro|TEST_FILEMODE
 DECL|variable|init_db_usage

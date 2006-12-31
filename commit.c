@@ -32,6 +32,7 @@ DECL|function|pretty_print_commit
 DECL|function|read_graft_file
 DECL|function|read_graft_line
 DECL|function|register_commit_graft
+DECL|function|replace_encoding_header
 DECL|function|sort_by_date
 DECL|function|sort_in_topological_order
 DECL|function|sort_in_topological_order_fn
