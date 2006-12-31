@@ -1,13 +1,9 @@
-DECL|function|exec_pack_objects
-DECL|function|exec_rev_list
 DECL|function|get_local_heads
 DECL|function|main
 DECL|function|one_local_ref
 DECL|function|pack_objects
 DECL|function|receive_status
 DECL|function|ref_newer
-DECL|function|rev_list
-DECL|function|rev_list_generate
 DECL|function|send_pack
 DECL|function|unmark_and_free
 DECL|function|verify_remote_names
