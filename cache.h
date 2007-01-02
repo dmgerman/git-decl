@@ -104,6 +104,7 @@ DECL|member|not_new
 DECL|member|nsec
 DECL|member|offset
 DECL|member|old_sha1
+DECL|member|on_list
 DECL|member|p
 DECL|member|pack_base
 DECL|member|pack_last_used
