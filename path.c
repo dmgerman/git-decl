@@ -6,5 +6,5 @@ DECL|function|git_mkstemp
 DECL|function|git_path
 DECL|function|mkpath
 DECL|function|user_path
-DECL|function|validate_symref
+DECL|function|validate_headref
 DECL|variable|bad_path
