@@ -12,7 +12,7 @@ DECL|function|delete_branches
 DECL|function|free_ref_list
 DECL|function|git_branch_config
 DECL|function|parse_branch_color_slot
-DECL|function|print_ref_info
+DECL|function|print_ref_item
 DECL|function|print_ref_list
 DECL|function|ref_cmp
 DECL|function|rename_branch
