@@ -12,5 +12,4 @@ DECL|function|prune_object
 DECL|function|prune_object_dir
 DECL|function|walk_commit_list
 DECL|variable|prune_usage
-DECL|variable|revs
 DECL|variable|show_only
