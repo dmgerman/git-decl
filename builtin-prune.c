@@ -1,6 +1,7 @@
 DECL|function|add_cache_refs
 DECL|function|add_cache_tree
 DECL|function|add_one_ref
+DECL|function|add_one_reflog
 DECL|function|add_one_reflog_ent
 DECL|function|add_one_tree
 DECL|function|cmd_prune
