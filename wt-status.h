@@ -11,4 +11,5 @@ DECL|member|is_initial
 DECL|member|reference
 DECL|member|untracked
 DECL|member|verbose
+DECL|member|workdir_clean
 DECL|struct|wt_status

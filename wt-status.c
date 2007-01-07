@@ -4,6 +4,7 @@ DECL|function|parse_status_slot
 DECL|function|quote_crlf
 DECL|function|wt_status_prepare
 DECL|function|wt_status_print
+DECL|function|wt_status_print_cached_header
 DECL|function|wt_status_print_changed
 DECL|function|wt_status_print_changed_cb
 DECL|function|wt_status_print_filepair
