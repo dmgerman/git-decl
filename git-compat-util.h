@@ -39,6 +39,7 @@ DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|mmap
 DECL|macro|munmap
+DECL|macro|pread
 DECL|macro|sane_istest
 DECL|macro|setenv
 DECL|macro|strcasestr
