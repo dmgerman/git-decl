@@ -51,6 +51,7 @@ DECL|member|n
 DECL|member|v
 DECL|struct|cmt_fmt_map
 DECL|struct|sort_node
+DECL|variable|all_flags
 DECL|variable|cmt_fmts
 DECL|variable|commit_graft
 DECL|variable|commit_graft_alloc
