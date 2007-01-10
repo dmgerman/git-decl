@@ -1,8 +1,8 @@
 DECL|function|add_to_known_names
+DECL|function|cmd_describe
 DECL|function|compare_names
 DECL|function|describe
 DECL|function|get_name
-DECL|function|main
 DECL|function|match
 DECL|macro|SEEN
 DECL|member|commit
