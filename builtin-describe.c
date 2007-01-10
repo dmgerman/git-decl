@@ -4,11 +4,14 @@ DECL|function|compare_names
 DECL|function|describe
 DECL|function|get_name
 DECL|function|match
-DECL|macro|SEEN
 DECL|member|commit
+DECL|member|depth
+DECL|member|name
+DECL|member|next
 DECL|member|path
 DECL|member|prio
 DECL|struct|commit_name
+DECL|struct|possible_tag
 DECL|variable|abbrev
 DECL|variable|all
 DECL|variable|allocs
