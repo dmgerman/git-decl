@@ -16,5 +16,7 @@ DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_updated_cb
 DECL|function|wt_status_print_verbose
 DECL|variable|use_add_msg
+DECL|variable|use_add_rm_msg
+DECL|variable|use_add_to_include_msg
 DECL|variable|wt_status_colors
 DECL|variable|wt_status_use_color
