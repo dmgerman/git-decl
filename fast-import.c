@@ -2,6 +2,7 @@ DECL|function|alloc_objects
 DECL|function|cmd_data
 DECL|function|cmd_from
 DECL|function|cmd_mark
+DECL|function|cmd_merge
 DECL|function|cmd_new_blob
 DECL|function|cmd_new_commit
 DECL|function|cmd_new_tag
@@ -79,6 +80,7 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|next
+DECL|member|next
 DECL|member|next_atom
 DECL|member|next_avail
 DECL|member|next_free
@@ -89,6 +91,7 @@ DECL|member|next_tag
 DECL|member|no_free
 DECL|member|offset
 DECL|member|sets
+DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
@@ -106,6 +109,7 @@ DECL|struct|atom_str
 DECL|struct|avail_tree_content
 DECL|struct|branch
 DECL|struct|dbuf
+DECL|struct|hash_list
 DECL|struct|last_object
 DECL|struct|mark_set
 DECL|struct|mem_pool
