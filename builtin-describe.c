@@ -4,10 +4,12 @@ DECL|function|compare_names
 DECL|function|describe
 DECL|function|get_name
 DECL|function|match
+DECL|macro|MAX_TAGS
+DECL|macro|SEEN
 DECL|member|commit
 DECL|member|depth
+DECL|member|flag_within
 DECL|member|name
-DECL|member|next
 DECL|member|path
 DECL|member|prio
 DECL|struct|commit_name
@@ -15,7 +17,9 @@ DECL|struct|possible_tag
 DECL|variable|abbrev
 DECL|variable|all
 DECL|variable|allocs
+DECL|variable|debug
 DECL|variable|describe_usage
+DECL|variable|max_candidates
 DECL|variable|name_array
 DECL|variable|names
 DECL|variable|tags
