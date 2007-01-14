@@ -50,7 +50,7 @@ DECL|member|stages
 DECL|struct|merge_file_info
 DECL|struct|rename
 DECL|struct|stage_data
+DECL|variable|call_depth
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
 DECL|variable|index_only
-DECL|variable|output_indent
