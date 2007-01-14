@@ -22,6 +22,7 @@ DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference
 DECL|function|lookup_commit_reference_gently
 DECL|function|merge_bases
+DECL|function|non_ascii
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
