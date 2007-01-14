@@ -29,7 +29,6 @@ DECL|function|load_branch
 DECL|function|load_tree
 DECL|function|lookup_branch
 DECL|function|main
-DECL|function|map_pack
 DECL|function|mktree
 DECL|function|new_branch
 DECL|function|new_object
@@ -52,9 +51,6 @@ DECL|function|to_atom
 DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|unload_one_branch
-DECL|function|unpack_delta_entry
-DECL|function|unpack_non_delta_entry
-DECL|function|unpack_object_header
 DECL|function|write_index
 DECL|function|yread
 DECL|member|active_next_branch
@@ -90,8 +86,8 @@ DECL|member|next_pool
 DECL|member|next_tag
 DECL|member|no_free
 DECL|member|offset
+DECL|member|offset
 DECL|member|sets
-DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
@@ -157,13 +153,10 @@ DECL|variable|object_count_by_type
 DECL|variable|object_entry_alloc
 DECL|variable|object_table
 DECL|variable|old_tree
-DECL|variable|pack_base
+DECL|variable|pack_data
 DECL|variable|pack_fd
-DECL|variable|pack_mlen
-DECL|variable|pack_moff
 DECL|variable|pack_sha1
 DECL|variable|pack_size
-DECL|variable|page_size
 DECL|variable|remap_count
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
