@@ -18,6 +18,7 @@ DECL|function|main
 DECL|function|make_cache_entry
 DECL|function|make_virtual_commit
 DECL|function|merge
+DECL|function|merge_config
 DECL|function|merge_file
 DECL|function|merge_trees
 DECL|function|mkdir_p
@@ -30,6 +31,7 @@ DECL|function|remove_path
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
 DECL|function|sha_eq
+DECL|function|show
 DECL|function|unique_path
 DECL|function|unmerged_index
 DECL|function|update_file
@@ -54,3 +56,4 @@ DECL|variable|call_depth
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
 DECL|variable|index_only
+DECL|variable|verbosity
