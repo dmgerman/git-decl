@@ -13,6 +13,7 @@ DECL|function|apply_one_fragment
 DECL|function|apply_patch
 DECL|function|check_patch
 DECL|function|check_patch_list
+DECL|function|check_whitespace
 DECL|function|cmd_apply
 DECL|function|create_file
 DECL|function|create_one_file
@@ -61,6 +62,7 @@ DECL|function|remove_file
 DECL|function|remove_first_line
 DECL|function|remove_last_line
 DECL|function|reverse_patches
+DECL|function|say_patch_name
 DECL|function|set_default_whitespace_mode
 DECL|function|show_file_mode_name
 DECL|function|show_index_list
@@ -72,6 +74,7 @@ DECL|function|stop_at_slash
 DECL|function|summary_patch_list
 DECL|function|try_create_file
 DECL|function|use_patch
+DECL|function|write_out_one_reject
 DECL|function|write_out_one_result
 DECL|function|write_out_results
 DECL|macro|BINARY_DELTA_DEFLATED
@@ -112,6 +115,8 @@ DECL|member|oldlines
 DECL|member|oldpos
 DECL|member|patch
 DECL|member|path
+DECL|member|rejected
+DECL|member|rejected
 DECL|member|result
 DECL|member|resultsize
 DECL|member|score
@@ -122,11 +127,12 @@ DECL|struct|buffer_desc
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
-DECL|variable|allow_binary_replacement
 DECL|variable|applied_after_stripping
 DECL|variable|apply
 DECL|variable|apply_in_reverse
 DECL|variable|apply_usage
+DECL|variable|apply_verbosely
+DECL|variable|apply_with_reject
 DECL|variable|cached
 DECL|variable|check
 DECL|variable|check_index
@@ -151,5 +157,6 @@ DECL|variable|prefix_length
 DECL|variable|show_index_info
 DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
+DECL|variable|unidiff_zero
 DECL|variable|whitespace_error
 DECL|variable|write_index

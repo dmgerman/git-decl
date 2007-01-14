@@ -5,6 +5,7 @@ DECL|function|handle_options
 DECL|function|main
 DECL|function|prepend_to_path
 DECL|function|split_cmdline
+DECL|macro|NOT_BARE
 DECL|macro|RUN_SETUP
 DECL|macro|USE_PAGER
 DECL|variable|alias_command

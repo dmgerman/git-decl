@@ -18,6 +18,7 @@ DECL|function|find_mark
 DECL|function|find_object
 DECL|function|fixup_header_footer
 DECL|function|get_mode
+DECL|function|gfi_unpack_entry
 DECL|function|grow_tree_content
 DECL|function|hc_entries
 DECL|function|hc_str
@@ -52,7 +53,6 @@ DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|unload_one_branch
 DECL|function|unpack_delta_entry
-DECL|function|unpack_entry
 DECL|function|unpack_non_delta_entry
 DECL|function|unpack_object_header
 DECL|function|write_index

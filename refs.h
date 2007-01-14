@@ -1,8 +1,12 @@
 DECL|macro|REFS_H
+DECL|macro|REF_ISPACKED
+DECL|macro|REF_ISSYMREF
 DECL|member|force_write
 DECL|member|lk
 DECL|member|lock_fd
 DECL|member|log_file
 DECL|member|old_sha1
-DECL|member|ref_file
+DECL|member|ref_name
 DECL|struct|ref_lock
+DECL|typedef|each_ref_fn
+DECL|typedef|each_reflog_ent_fn

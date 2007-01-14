@@ -1,12 +1,13 @@
 DECL|function|add_exclude
 DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_1
-DECL|function|add_name
 DECL|function|cmp_name
 DECL|function|common_prefix
+DECL|function|dir_add_name
 DECL|function|dir_exists
 DECL|function|excluded
 DECL|function|excluded_1
+DECL|function|file_exists
 DECL|function|match_one
 DECL|function|match_pathspec
 DECL|function|pop_exclude_per_directory

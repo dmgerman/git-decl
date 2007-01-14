@@ -1,0 +1,2 @@
+DECL|macro|COLOR_H
+DECL|macro|COLOR_MAXLEN

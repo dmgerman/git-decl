@@ -23,6 +23,7 @@ DECL|function|parse_ref_spec
 DECL|function|path_match
 DECL|function|server_supports
 DECL|function|try_explicit_object_name
+DECL|macro|MAX_CMD_LEN
 DECL|macro|STR
 DECL|macro|STR_
 DECL|member|dst

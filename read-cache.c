@@ -16,6 +16,7 @@ DECL|function|ce_smudge_racily_clean_entry
 DECL|function|ce_write
 DECL|function|ce_write_flush
 DECL|function|check_file_directory_conflict
+DECL|function|discard_cache
 DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name

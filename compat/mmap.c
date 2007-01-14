@@ -1,2 +1,2 @@
-DECL|function|gitfakemmap
-DECL|function|gitfakemunmap
+DECL|function|git_mmap
+DECL|function|git_munmap

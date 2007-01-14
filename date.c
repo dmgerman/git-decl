@@ -1,12 +1,16 @@
 DECL|function|approxidate
 DECL|function|approxidate_alpha
+DECL|function|approxidate_digit
+DECL|function|date_am
 DECL|function|date_midnight
 DECL|function|date_noon
+DECL|function|date_pm
 DECL|function|date_string
 DECL|function|date_tea
 DECL|function|date_time
 DECL|function|date_yesterday
 DECL|function|datestamp
+DECL|function|gm_time_t
 DECL|function|is_date
 DECL|function|match_alpha
 DECL|function|match_digit

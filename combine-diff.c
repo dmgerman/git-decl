@@ -9,6 +9,7 @@ DECL|function|dump_sline
 DECL|function|find_next
 DECL|function|give_context
 DECL|function|grab_blob
+DECL|function|hunk_comment_line
 DECL|function|interesting
 DECL|function|intersect_paths
 DECL|function|make_hunks

@@ -7,6 +7,7 @@ DECL|macro|REV_TREE_NEW
 DECL|macro|REV_TREE_SAME
 DECL|macro|SEEN
 DECL|macro|SHOWN
+DECL|macro|SYMMETRIC_LEFT
 DECL|macro|TMP_MARK
 DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
@@ -28,9 +29,13 @@ DECL|member|elem
 DECL|member|elem_len
 DECL|member|extra_headers
 DECL|member|full_diff
+DECL|member|grep_filter
 DECL|member|ignore_merges
+DECL|member|ignore_packed
+DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
+DECL|member|log_reencode
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
@@ -41,6 +46,7 @@ DECL|member|no_commit_id
 DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
+DECL|member|num_ignore_packed
 DECL|member|parents
 DECL|member|pending
 DECL|member|prefix
@@ -48,10 +54,12 @@ DECL|member|prune_data
 DECL|member|prune_fn
 DECL|member|pruning
 DECL|member|ref_message_id
+DECL|member|relative_date
 DECL|member|remove_empty_trees
 DECL|member|show_root_diff
 DECL|member|shown_one
 DECL|member|simplify_history
+DECL|member|skip_count
 DECL|member|tag_objects
 DECL|member|topo_getter
 DECL|member|topo_order

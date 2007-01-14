@@ -5,17 +5,21 @@ DECL|enumerator|DIFF_FRAGINFO
 DECL|enumerator|DIFF_METAINFO
 DECL|enumerator|DIFF_PLAIN
 DECL|enumerator|DIFF_RESET
+DECL|enumerator|DIFF_WHITESPACE
 DECL|enum|color_diff
 DECL|macro|COMMON_DIFF_OPTIONS_HELP
 DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
+DECL|macro|DIFF_FORMAT_CALLBACK
 DECL|macro|DIFF_FORMAT_CHECKDIFF
 DECL|macro|DIFF_FORMAT_DIFFSTAT
 DECL|macro|DIFF_FORMAT_NAME
 DECL|macro|DIFF_FORMAT_NAME_STATUS
 DECL|macro|DIFF_FORMAT_NO_OUTPUT
+DECL|macro|DIFF_FORMAT_NUMSTAT
 DECL|macro|DIFF_FORMAT_PATCH
 DECL|macro|DIFF_FORMAT_RAW
+DECL|macro|DIFF_FORMAT_SHORTSTAT
 DECL|macro|DIFF_FORMAT_SUMMARY
 DECL|macro|DIFF_H
 DECL|macro|DIFF_PICKAXE_ALL
@@ -45,6 +49,8 @@ DECL|member|context
 DECL|member|detect_rename
 DECL|member|filter
 DECL|member|find_copies_harder
+DECL|member|format_callback
+DECL|member|format_callback_data
 DECL|member|full_index
 DECL|member|len
 DECL|member|line_termination
@@ -69,7 +75,10 @@ DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|silent_on_remove
+DECL|member|single_follow
+DECL|member|stat_name_width
 DECL|member|stat_sep
+DECL|member|stat_width
 DECL|member|status
 DECL|member|text
 DECL|member|tree_in_recursive
@@ -79,3 +88,4 @@ DECL|struct|combine_diff_path
 DECL|struct|diff_options
 DECL|typedef|add_remove_fn_t
 DECL|typedef|change_fn_t
+DECL|typedef|diff_format_fn_t

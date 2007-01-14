@@ -12,9 +12,6 @@ DECL|function|main
 DECL|function|parse_oldstyle_date
 DECL|function|write_subdirectory
 DECL|macro|MAXOBJECTS
-DECL|macro|_GNU_SOURCE
-DECL|macro|_XOPEN_SOURCE
-DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|member|converted
 DECL|member|new_sha1
 DECL|member|old_sha1

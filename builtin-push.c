@@ -25,3 +25,4 @@ DECL|variable|refspec
 DECL|variable|refspec_nr
 DECL|variable|tags
 DECL|variable|thin
+DECL|variable|verbose

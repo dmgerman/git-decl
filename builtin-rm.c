@@ -1,4 +1,5 @@
 DECL|function|add_list
+DECL|function|check_local_mod
 DECL|function|cmd_rm
 DECL|function|remove_file
 DECL|member|alloc
