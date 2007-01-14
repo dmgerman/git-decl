@@ -4,6 +4,7 @@ DECL|function|commit_list_count
 DECL|function|conflict_rename_dir
 DECL|function|conflict_rename_rename
 DECL|function|conflict_rename_rename_2
+DECL|function|display_progress
 DECL|function|fill_mm
 DECL|function|flush_buffer
 DECL|function|flush_output
@@ -27,10 +28,12 @@ DECL|function|output
 DECL|function|output_commit_title
 DECL|function|process_entry
 DECL|function|process_renames
+DECL|function|progress_interval
 DECL|function|remove_file
 DECL|function|remove_path
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
+DECL|function|setup_progress_signal
 DECL|function|sha_eq
 DECL|function|show
 DECL|function|unique_path
@@ -60,7 +63,12 @@ DECL|variable|buffer_output
 DECL|variable|call_depth
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
+DECL|variable|do_progress
 DECL|variable|index_only
+DECL|variable|last_percent
+DECL|variable|merged_cnt
 DECL|variable|output_end
 DECL|variable|output_list
+DECL|variable|progress_update
+DECL|variable|total_cnt
 DECL|variable|verbosity
