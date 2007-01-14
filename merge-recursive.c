@@ -6,6 +6,7 @@ DECL|function|conflict_rename_rename
 DECL|function|conflict_rename_rename_2
 DECL|function|fill_mm
 DECL|function|flush_buffer
+DECL|function|flush_output
 DECL|function|get_files_dirs
 DECL|function|get_ref
 DECL|function|get_renames
@@ -42,6 +43,7 @@ DECL|member|dst_entry
 DECL|member|merge
 DECL|member|mode
 DECL|member|mode
+DECL|member|next
 DECL|member|pair
 DECL|member|processed
 DECL|member|processed
@@ -49,11 +51,16 @@ DECL|member|sha
 DECL|member|sha
 DECL|member|src_entry
 DECL|member|stages
+DECL|member|str
 DECL|struct|merge_file_info
+DECL|struct|output_buffer
 DECL|struct|rename
 DECL|struct|stage_data
+DECL|variable|buffer_output
 DECL|variable|call_depth
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
 DECL|variable|index_only
+DECL|variable|output_end
+DECL|variable|output_list
 DECL|variable|verbosity
