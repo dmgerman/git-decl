@@ -134,7 +134,6 @@ DECL|variable|branch_table_sz
 DECL|variable|command_buf
 DECL|variable|cur_active_branches
 DECL|variable|delta_count_by_type
-DECL|variable|duplicate_count
 DECL|variable|duplicate_count_by_type
 DECL|variable|fast_import_usage
 DECL|variable|first_tag
