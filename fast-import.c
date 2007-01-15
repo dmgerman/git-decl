@@ -1,4 +1,5 @@
 DECL|function|alloc_objects
+DECL|function|checkpoint
 DECL|function|cmd_checkpoint
 DECL|function|cmd_data
 DECL|function|cmd_from
@@ -148,6 +149,8 @@ DECL|variable|marks
 DECL|variable|marks_set_count
 DECL|variable|max_active_branches
 DECL|variable|max_depth
+DECL|variable|max_objects
+DECL|variable|max_packsize
 DECL|variable|mem_pool
 DECL|variable|mem_pool_alloc
 DECL|variable|new_data
