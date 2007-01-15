@@ -22,6 +22,7 @@ DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference
 DECL|function|lookup_commit_reference_gently
 DECL|function|merge_bases
+DECL|function|non_ascii
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
@@ -51,6 +52,7 @@ DECL|member|n
 DECL|member|v
 DECL|struct|cmt_fmt_map
 DECL|struct|sort_node
+DECL|variable|all_flags
 DECL|variable|cmt_fmts
 DECL|variable|commit_graft
 DECL|variable|commit_graft_alloc

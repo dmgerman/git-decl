@@ -18,6 +18,7 @@ DECL|member|alloc
 DECL|member|broken_pair
 DECL|member|cnt_data
 DECL|member|data
+DECL|member|is_unmerged
 DECL|member|mode
 DECL|member|nr
 DECL|member|one

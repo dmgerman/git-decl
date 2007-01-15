@@ -6,13 +6,11 @@ DECL|function|conflict_rename_rename
 DECL|function|conflict_rename_rename_2
 DECL|function|fill_mm
 DECL|function|flush_buffer
-DECL|function|flush_cache
 DECL|function|get_files_dirs
 DECL|function|get_ref
 DECL|function|get_renames
 DECL|function|get_unmerged
 DECL|function|git_merge_trees
-DECL|function|git_read_tree
 DECL|function|git_write_tree
 DECL|function|has_sha
 DECL|function|insert_stage_data
@@ -31,9 +29,9 @@ DECL|function|remove_file
 DECL|function|remove_path
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
-DECL|function|setup_index
 DECL|function|sha_eq
 DECL|function|unique_path
+DECL|function|unmerged_index
 DECL|function|update_file
 DECL|function|update_file_flags
 DECL|function|update_stages
@@ -52,11 +50,7 @@ DECL|member|stages
 DECL|struct|merge_file_info
 DECL|struct|rename
 DECL|struct|stage_data
-DECL|variable|cache_dirty
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
-DECL|variable|current_index_file
 DECL|variable|index_only
-DECL|variable|original_index_file
 DECL|variable|output_indent
-DECL|variable|temporary_index_file

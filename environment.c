@@ -3,7 +3,7 @@ DECL|function|get_graft_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
 DECL|function|get_refs_directory
-DECL|function|is_bare_git_dir
+DECL|function|is_bare_repository
 DECL|function|setup_git_env
 DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
@@ -16,7 +16,10 @@ DECL|variable|git_index_file
 DECL|variable|git_log_output_encoding
 DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
+DECL|variable|is_bare_repository_cfg
 DECL|variable|log_all_ref_updates
+DECL|variable|packed_git_limit
+DECL|variable|packed_git_window_size
 DECL|variable|pager_in_use
 DECL|variable|pager_use_color
 DECL|variable|prefer_symlink_refs

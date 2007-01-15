@@ -22,6 +22,7 @@ DECL|function|parse_value
 DECL|function|store_aux
 DECL|function|store_write_pair
 DECL|function|store_write_section
+DECL|function|write_error
 DECL|macro|MAXNAME
 DECL|macro|MAX_MATCHES
 DECL|member|baselen

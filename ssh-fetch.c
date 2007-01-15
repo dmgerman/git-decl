@@ -1,6 +1,5 @@
 DECL|function|fetch
 DECL|function|fetch_ref
-DECL|function|force_write
 DECL|function|get_version
 DECL|function|main
 DECL|function|prefetch

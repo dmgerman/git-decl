@@ -2,11 +2,15 @@ DECL|function|has_extension
 DECL|function|sane_case
 DECL|function|xcalloc
 DECL|function|xmalloc
+DECL|function|xmmap
 DECL|function|xread
 DECL|function|xrealloc
 DECL|function|xstrdup
 DECL|function|xwrite
 DECL|macro|ARRAY_SIZE
+DECL|macro|DEFAULT_PACKED_GIT_LIMIT
+DECL|macro|DEFAULT_PACKED_GIT_WINDOW_SIZE
+DECL|macro|DEFAULT_PACKED_GIT_WINDOW_SIZE
 DECL|macro|FLEX_ARRAY
 DECL|macro|FLEX_ARRAY
 DECL|macro|GIT_ALPHA
@@ -35,6 +39,7 @@ DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|mmap
 DECL|macro|munmap
+DECL|macro|pread
 DECL|macro|sane_istest
 DECL|macro|setenv
 DECL|macro|strcasestr
