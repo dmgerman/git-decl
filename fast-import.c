@@ -1,4 +1,5 @@
 DECL|function|alloc_objects
+DECL|function|cmd_checkpoint
 DECL|function|cmd_data
 DECL|function|cmd_from
 DECL|function|cmd_mark
@@ -88,6 +89,7 @@ DECL|member|next_tag
 DECL|member|no_free
 DECL|member|offset
 DECL|member|offset
+DECL|member|pack_id
 DECL|member|sets
 DECL|member|sha1
 DECL|member|sha1
@@ -117,6 +119,7 @@ DECL|struct|tree_content
 DECL|struct|tree_entry
 DECL|struct|tree_entry_ms
 DECL|variable|active_branches
+DECL|variable|all_packs
 DECL|variable|alloc_count
 DECL|variable|atom_cnt
 DECL|variable|atom_table
@@ -155,10 +158,9 @@ DECL|variable|object_count_by_type
 DECL|variable|object_entry_alloc
 DECL|variable|object_table
 DECL|variable|old_tree
-DECL|variable|pack_count
 DECL|variable|pack_data
 DECL|variable|pack_fd
-DECL|variable|pack_name
+DECL|variable|pack_id
 DECL|variable|pack_sha1
 DECL|variable|pack_size
 DECL|variable|total_allocd
