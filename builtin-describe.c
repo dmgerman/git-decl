@@ -1,13 +1,10 @@
 DECL|function|add_to_known_names
 DECL|function|cmd_describe
-DECL|function|compare_names
 DECL|function|compare_pt
 DECL|function|describe
 DECL|function|get_name
-DECL|function|match
 DECL|macro|MAX_TAGS
 DECL|macro|SEEN
-DECL|member|commit
 DECL|member|depth
 DECL|member|flag_within
 DECL|member|found_order
@@ -18,11 +15,8 @@ DECL|struct|commit_name
 DECL|struct|possible_tag
 DECL|variable|abbrev
 DECL|variable|all
-DECL|variable|allocs
 DECL|variable|debug
 DECL|variable|describe_usage
 DECL|variable|max_candidates
-DECL|variable|name_array
-DECL|variable|names
 DECL|variable|prio_names
 DECL|variable|tags
