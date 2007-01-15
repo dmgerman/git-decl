@@ -12,6 +12,7 @@ DECL|function|dump_marks
 DECL|function|dump_marks_helper
 DECL|function|dump_tags
 DECL|function|encode_header
+DECL|function|end_packfile
 DECL|function|file_change_d
 DECL|function|file_change_m
 DECL|function|find_mark
@@ -22,7 +23,6 @@ DECL|function|gfi_unpack_entry
 DECL|function|grow_tree_content
 DECL|function|hc_entries
 DECL|function|hc_str
-DECL|function|init_pack_header
 DECL|function|insert_mark
 DECL|function|insert_object
 DECL|function|load_branch
@@ -43,6 +43,7 @@ DECL|function|release_tree_content
 DECL|function|release_tree_content_recursive
 DECL|function|release_tree_entry
 DECL|function|size_dbuf
+DECL|function|start_packfile
 DECL|function|store_object
 DECL|function|store_tree
 DECL|function|tecmp0
@@ -123,6 +124,7 @@ DECL|variable|atom_table_sz
 DECL|variable|avail_tree_entry
 DECL|variable|avail_tree_table
 DECL|variable|avail_tree_table_sz
+DECL|variable|base_name
 DECL|variable|blocks
 DECL|variable|branch_count
 DECL|variable|branch_load_count
@@ -136,6 +138,7 @@ DECL|variable|duplicate_count
 DECL|variable|duplicate_count_by_type
 DECL|variable|fast_import_usage
 DECL|variable|first_tag
+DECL|variable|idx_name
 DECL|variable|last_blob
 DECL|variable|last_tag
 DECL|variable|mark_file
@@ -153,10 +156,11 @@ DECL|variable|object_count_by_type
 DECL|variable|object_entry_alloc
 DECL|variable|object_table
 DECL|variable|old_tree
+DECL|variable|pack_count
 DECL|variable|pack_data
 DECL|variable|pack_fd
+DECL|variable|pack_name
 DECL|variable|pack_sha1
 DECL|variable|pack_size
-DECL|variable|remap_count
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
