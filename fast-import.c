@@ -161,7 +161,6 @@ DECL|variable|object_entry_alloc
 DECL|variable|object_table
 DECL|variable|old_tree
 DECL|variable|pack_data
-DECL|variable|pack_fd
 DECL|variable|pack_id
 DECL|variable|pack_size
 DECL|variable|total_allocd
