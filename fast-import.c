@@ -92,6 +92,8 @@ DECL|member|no_free
 DECL|member|offset
 DECL|member|offset
 DECL|member|pack_id
+DECL|member|pack_id
+DECL|member|pack_id
 DECL|member|sets
 DECL|member|sha1
 DECL|member|sha1
