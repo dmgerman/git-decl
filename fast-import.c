@@ -9,6 +9,7 @@ DECL|function|cmd_new_blob
 DECL|function|cmd_new_commit
 DECL|function|cmd_new_tag
 DECL|function|cmd_reset_branch
+DECL|function|create_index
 DECL|function|dump_branches
 DECL|function|dump_marks
 DECL|function|dump_marks_helper
@@ -27,6 +28,7 @@ DECL|function|hc_entries
 DECL|function|hc_str
 DECL|function|insert_mark
 DECL|function|insert_object
+DECL|function|keep_pack
 DECL|function|load_branch
 DECL|function|load_tree
 DECL|function|lookup_branch
@@ -53,8 +55,8 @@ DECL|function|tecmp1
 DECL|function|to_atom
 DECL|function|tree_content_remove
 DECL|function|tree_content_set
+DECL|function|unkeep_all_packs
 DECL|function|unload_one_branch
-DECL|function|write_index
 DECL|member|active_next_branch
 DECL|member|branch_tree
 DECL|member|buffer
@@ -127,7 +129,6 @@ DECL|variable|atom_table_sz
 DECL|variable|avail_tree_entry
 DECL|variable|avail_tree_table
 DECL|variable|avail_tree_table_sz
-DECL|variable|base_name
 DECL|variable|blocks
 DECL|variable|branch_count
 DECL|variable|branch_load_count
@@ -140,7 +141,6 @@ DECL|variable|delta_count_by_type
 DECL|variable|duplicate_count_by_type
 DECL|variable|fast_import_usage
 DECL|variable|first_tag
-DECL|variable|idx_name
 DECL|variable|last_blob
 DECL|variable|last_tag
 DECL|variable|mark_file
