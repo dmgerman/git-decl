@@ -163,7 +163,6 @@ DECL|variable|old_tree
 DECL|variable|pack_data
 DECL|variable|pack_fd
 DECL|variable|pack_id
-DECL|variable|pack_sha1
 DECL|variable|pack_size
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
