@@ -1,5 +1,6 @@
 DECL|function|append_fetch_head
 DECL|function|cmd_fetch__tool
+DECL|function|expand_refs_wildcard
 DECL|function|fetch_native_store
 DECL|function|find_local_name
 DECL|function|parse_reflist
