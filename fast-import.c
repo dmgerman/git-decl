@@ -55,7 +55,6 @@ DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|unload_one_branch
 DECL|function|write_index
-DECL|function|yread
 DECL|member|active_next_branch
 DECL|member|branch_tree
 DECL|member|buffer
