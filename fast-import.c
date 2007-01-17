@@ -57,6 +57,8 @@ DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|unkeep_all_packs
 DECL|function|unload_one_branch
+DECL|macro|MAX_PACK_ID
+DECL|macro|PACK_ID_BITS
 DECL|member|active_next_branch
 DECL|member|branch_tree
 DECL|member|buffer
