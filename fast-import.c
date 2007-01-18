@@ -152,7 +152,6 @@ DECL|variable|marks
 DECL|variable|marks_set_count
 DECL|variable|max_active_branches
 DECL|variable|max_depth
-DECL|variable|max_objects
 DECL|variable|max_packsize
 DECL|variable|mem_pool
 DECL|variable|mem_pool_alloc
