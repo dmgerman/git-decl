@@ -1,4 +1,5 @@
 DECL|macro|PACK_H
+DECL|macro|PACK_IDX_SIGNATURE
 DECL|macro|PACK_SIGNATURE
 DECL|macro|PACK_VERSION
 DECL|macro|pack_version_ok
