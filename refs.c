@@ -27,6 +27,7 @@ DECL|function|peel_ref
 DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
+DECL|function|ref_msg
 DECL|function|remove_empty_dir_recursive
 DECL|function|remove_empty_directories
 DECL|function|rename_ref
