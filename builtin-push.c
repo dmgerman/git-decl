@@ -14,6 +14,7 @@ DECL|macro|MAX_URI
 DECL|variable|all
 DECL|variable|buffer
 DECL|variable|config_current_uri
+DECL|variable|config_get_receivepack
 DECL|variable|config_get_refspecs
 DECL|variable|config_repo
 DECL|variable|config_repo_len
