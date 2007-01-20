@@ -57,6 +57,7 @@ DECL|member|ref_message_id
 DECL|member|reflog_info
 DECL|member|relative_date
 DECL|member|remove_empty_trees
+DECL|member|reverse
 DECL|member|show_root_diff
 DECL|member|shown_one
 DECL|member|simplify_history
