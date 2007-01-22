@@ -1,5 +1,8 @@
 DECL|function|add_sha1_list
 DECL|function|check_connectivity
+DECL|function|check_object
+DECL|function|check_reachable_object
+DECL|function|check_unreachable_object
 DECL|function|fsck_cache_tree
 DECL|function|fsck_commit
 DECL|function|fsck_dir
