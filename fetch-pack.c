@@ -1,11 +1,9 @@
 DECL|function|everything_local
-DECL|function|explode_rx_pack
 DECL|function|fetch_pack
 DECL|function|filter_refs
 DECL|function|find_common
 DECL|function|get_pack
 DECL|function|get_rev
-DECL|function|keep_rx_pack
 DECL|function|main
 DECL|function|mark_common
 DECL|function|mark_complete
@@ -24,6 +22,7 @@ DECL|variable|complete
 DECL|variable|depth
 DECL|variable|fetch_all
 DECL|variable|fetch_pack_usage
+DECL|variable|keep_auto
 DECL|variable|keep_pack
 DECL|variable|lock
 DECL|variable|multi_ack
