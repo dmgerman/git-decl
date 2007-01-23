@@ -8,6 +8,7 @@ DECL|function|getpwnam
 DECL|function|getuid
 DECL|function|link
 DECL|function|mingw_mkdir
+DECL|function|mingw_unlink
 DECL|function|pipe
 DECL|function|readlink
 DECL|function|symlink
@@ -48,6 +49,7 @@ DECL|macro|mkdir
 DECL|macro|open
 DECL|macro|sigemptyset
 DECL|macro|st_blocks
+DECL|macro|unlink
 DECL|member|events
 DECL|member|fd
 DECL|member|it_interval
