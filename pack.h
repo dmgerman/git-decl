@@ -2,6 +2,9 @@ DECL|macro|PACK_H
 DECL|macro|PACK_IDX_SIGNATURE
 DECL|macro|PACK_SIGNATURE
 DECL|macro|PACK_VERSION
+DECL|macro|PH_ERROR_EOF
+DECL|macro|PH_ERROR_PACK_SIGNATURE
+DECL|macro|PH_ERROR_PROTOCOL
 DECL|macro|pack_version_ok
 DECL|member|hdr_entries
 DECL|member|hdr_signature
