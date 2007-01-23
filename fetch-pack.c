@@ -22,7 +22,6 @@ DECL|macro|POPPED
 DECL|macro|SEEN
 DECL|variable|complete
 DECL|variable|depth
-DECL|variable|exec
 DECL|variable|fetch_all
 DECL|variable|fetch_pack_usage
 DECL|variable|keep_pack
@@ -31,6 +30,7 @@ DECL|variable|multi_ack
 DECL|variable|non_common_revs
 DECL|variable|quiet
 DECL|variable|rev_list
+DECL|variable|uploadpack
 DECL|variable|use_sideband
 DECL|variable|use_thin_pack
 DECL|variable|verbose
