@@ -23,12 +23,14 @@ DECL|variable|complete
 DECL|variable|depth
 DECL|variable|fetch_all
 DECL|variable|fetch_pack_usage
+DECL|variable|fetch_unpack_limit
 DECL|variable|keep_pack
 DECL|variable|lock
 DECL|variable|multi_ack
 DECL|variable|non_common_revs
 DECL|variable|quiet
 DECL|variable|rev_list
+DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|uploadpack
 DECL|variable|use_sideband
