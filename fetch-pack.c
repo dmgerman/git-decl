@@ -1,5 +1,6 @@
 DECL|function|everything_local
 DECL|function|fetch_pack
+DECL|function|fetch_pack_config
 DECL|function|filter_refs
 DECL|function|find_common
 DECL|function|get_pack
@@ -22,13 +23,13 @@ DECL|variable|complete
 DECL|variable|depth
 DECL|variable|fetch_all
 DECL|variable|fetch_pack_usage
-DECL|variable|keep_auto
 DECL|variable|keep_pack
 DECL|variable|lock
 DECL|variable|multi_ack
 DECL|variable|non_common_revs
 DECL|variable|quiet
 DECL|variable|rev_list
+DECL|variable|unpack_limit
 DECL|variable|uploadpack
 DECL|variable|use_sideband
 DECL|variable|use_thin_pack
