@@ -2,6 +2,7 @@ DECL|function|add_to_known_names
 DECL|function|cmd_describe
 DECL|function|compare_pt
 DECL|function|describe
+DECL|function|finish_depth_computation
 DECL|function|get_name
 DECL|macro|MAX_TAGS
 DECL|macro|SEEN
