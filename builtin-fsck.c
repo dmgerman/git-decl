@@ -3,6 +3,7 @@ DECL|function|check_connectivity
 DECL|function|check_object
 DECL|function|check_reachable_object
 DECL|function|check_unreachable_object
+DECL|function|cmd_fsck
 DECL|function|fsck_cache_tree
 DECL|function|fsck_commit
 DECL|function|fsck_dir
@@ -16,7 +17,6 @@ DECL|function|fsck_tag
 DECL|function|fsck_tree
 DECL|function|get_default_heads
 DECL|function|ino_compare
-DECL|function|main
 DECL|function|objerror
 DECL|function|objreport
 DECL|function|objwarning
