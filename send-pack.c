@@ -7,10 +7,10 @@ DECL|function|ref_newer
 DECL|function|send_pack
 DECL|function|unmark_and_free
 DECL|function|verify_remote_names
-DECL|variable|exec
 DECL|variable|force_update
 DECL|variable|local_refs
 DECL|variable|local_tail
+DECL|variable|receivepack
 DECL|variable|remote_refs
 DECL|variable|remote_tail
 DECL|variable|send_all

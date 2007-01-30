@@ -23,6 +23,7 @@ DECL|function|find_move_in_parent
 DECL|function|find_origin
 DECL|function|find_rename
 DECL|function|format_time
+DECL|function|found_guilty_entry
 DECL|function|free_patch
 DECL|function|get_ac_line
 DECL|function|get_commit_info
@@ -49,6 +50,7 @@ DECL|function|sanity_check_refcnt
 DECL|function|setup_blame_list
 DECL|function|split_blame
 DECL|function|split_overlap
+DECL|function|write_filename_info
 DECL|macro|BLAME_DEFAULT_COPY_SCORE
 DECL|macro|BLAME_DEFAULT_MOVE_SCORE
 DECL|macro|DEBUG
@@ -118,6 +120,7 @@ DECL|variable|blame_copy_score
 DECL|variable|blame_move_score
 DECL|variable|blame_usage
 DECL|variable|blank_boundary
+DECL|variable|incremental
 DECL|variable|longest_author
 DECL|variable|longest_file
 DECL|variable|max_digits

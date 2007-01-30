@@ -3,9 +3,11 @@ DECL|function|check_repository_format_version
 DECL|function|get_pathspec
 DECL|function|git_config_perm
 DECL|function|is_git_directory
+DECL|function|is_inside_git_dir
 DECL|function|prefix_filename
 DECL|function|prefix_path
 DECL|function|setup_git_directory
 DECL|function|setup_git_directory_gently
 DECL|function|verify_filename
 DECL|function|verify_non_filename
+DECL|variable|inside_git_dir

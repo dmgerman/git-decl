@@ -23,7 +23,9 @@ DECL|variable|commands
 DECL|variable|deny_non_fast_forwards
 DECL|variable|pack_lockfile
 DECL|variable|receive_pack_usage
+DECL|variable|receive_unpack_limit
 DECL|variable|report_status
+DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|update_hook
 DECL|variable|update_post_hook

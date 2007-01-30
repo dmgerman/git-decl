@@ -17,6 +17,7 @@ DECL|function|name_commits
 DECL|function|name_first_parent_chain
 DECL|function|name_parent
 DECL|function|omit_in_dense
+DECL|function|parse_reflog_param
 DECL|function|pop_one_commit
 DECL|function|rev_is_head
 DECL|function|show_independent
@@ -40,3 +41,4 @@ DECL|variable|match_ref_slash
 DECL|variable|ref_name
 DECL|variable|ref_name_cnt
 DECL|variable|show_branch_usage
+DECL|variable|show_branch_usage_reflog

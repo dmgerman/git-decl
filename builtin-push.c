@@ -14,13 +14,14 @@ DECL|macro|MAX_URI
 DECL|variable|all
 DECL|variable|buffer
 DECL|variable|config_current_uri
+DECL|variable|config_get_receivepack
 DECL|variable|config_get_refspecs
 DECL|variable|config_repo
 DECL|variable|config_repo_len
 DECL|variable|config_uri
-DECL|variable|execute
 DECL|variable|force
 DECL|variable|push_usage
+DECL|variable|receivepack
 DECL|variable|refspec
 DECL|variable|refspec_nr
 DECL|variable|tags

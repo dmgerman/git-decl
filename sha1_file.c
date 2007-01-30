@@ -40,6 +40,7 @@ DECL|function|prepare_packed_git
 DECL|function|prepare_packed_git_one
 DECL|function|read_info_alternates
 DECL|function|read_object_with_reference
+DECL|function|read_pack_header
 DECL|function|read_packed_sha1
 DECL|function|read_pipe
 DECL|function|read_sha1_file

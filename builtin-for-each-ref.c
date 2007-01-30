@@ -36,6 +36,7 @@ DECL|macro|QUOTE_NONE
 DECL|macro|QUOTE_PERL
 DECL|macro|QUOTE_PYTHON
 DECL|macro|QUOTE_SHELL
+DECL|macro|QUOTE_TCL
 DECL|member|atom
 DECL|member|cmp_type
 DECL|member|grab_array
