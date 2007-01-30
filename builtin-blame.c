@@ -13,6 +13,7 @@ DECL|function|dup_entry
 DECL|function|emit_other
 DECL|function|emit_porcelain
 DECL|function|ent_score
+DECL|function|fake_working_tree_commit
 DECL|function|fill_blob_sha1
 DECL|function|fill_origin_blob
 DECL|function|find_alignment

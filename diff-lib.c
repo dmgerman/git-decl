@@ -1,5 +1,6 @@
 DECL|function|diff_cache
 DECL|function|diff_index_show_file
+DECL|function|do_diff_cache
 DECL|function|get_stat_data
 DECL|function|mark_merge_entries
 DECL|function|run_diff_files
