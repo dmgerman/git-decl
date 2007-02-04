@@ -1,4 +1,5 @@
 DECL|function|ambiguous_path
+DECL|function|dwim_log
 DECL|function|dwim_ref
 DECL|function|find_short_object_filename
 DECL|function|find_short_packed_object
@@ -15,3 +16,4 @@ DECL|function|match_sha
 DECL|function|peel_onion
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
+DECL|variable|ref_fmt
