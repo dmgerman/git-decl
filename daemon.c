@@ -17,6 +17,7 @@ DECL|function|main
 DECL|function|make_service_overridable
 DECL|function|parse_extra_args
 DECL|function|path_ok
+DECL|function|receive_pack
 DECL|function|remove_child
 DECL|function|run_service
 DECL|function|sanitize_stdfds
