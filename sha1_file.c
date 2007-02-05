@@ -2,6 +2,7 @@ DECL|function|add_packed_git
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
 DECL|function|fill_sha1_path
+DECL|function|find_cached_object
 DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_file
@@ -39,6 +40,7 @@ DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb
 DECL|function|prepare_packed_git
 DECL|function|prepare_packed_git_one
+DECL|function|pretend_sha1_file
 DECL|function|read_info_alternates
 DECL|function|read_object_with_reference
 DECL|function|read_pack_header
@@ -78,8 +80,16 @@ DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
 DECL|macro|SZ_FMT
 DECL|macro|SZ_FMT
+DECL|member|buf
+DECL|member|sha1
+DECL|member|size
+DECL|member|type
+DECL|struct|cached_object
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail
+DECL|variable|cached_object_alloc
+DECL|variable|cached_object_nr
+DECL|variable|cached_objects
 DECL|variable|hexval_table
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
