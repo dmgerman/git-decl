@@ -8,6 +8,7 @@ DECL|function|fsck_cache_tree
 DECL|function|fsck_commit
 DECL|function|fsck_dir
 DECL|function|fsck_handle_ref
+DECL|function|fsck_handle_reflog
 DECL|function|fsck_handle_reflog_ent
 DECL|function|fsck_head_link
 DECL|function|fsck_object_dir
