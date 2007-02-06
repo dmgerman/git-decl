@@ -121,6 +121,7 @@ DECL|variable|blame_copy_score
 DECL|variable|blame_move_score
 DECL|variable|blame_usage
 DECL|variable|blank_boundary
+DECL|variable|cmd_is_annotate
 DECL|variable|incremental
 DECL|variable|longest_author
 DECL|variable|longest_file
