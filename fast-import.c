@@ -1,3 +1,6 @@
+DECL|enumerator|WHENSPEC_NOW
+DECL|enumerator|WHENSPEC_RAW
+DECL|enumerator|WHENSPEC_RFC2822
 DECL|function|alloc_objects
 DECL|function|checkpoint
 DECL|function|cmd_checkpoint
@@ -39,6 +42,7 @@ DECL|function|new_object
 DECL|function|new_tree_content
 DECL|function|new_tree_entry
 DECL|function|oecmp
+DECL|function|parse_ident
 DECL|function|pool_alloc
 DECL|function|pool_calloc
 DECL|function|pool_strdup
@@ -57,6 +61,7 @@ DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|unkeep_all_packs
 DECL|function|unload_one_branch
+DECL|function|validate_raw_date
 DECL|macro|MAX_PACK_ID
 DECL|macro|PACK_ID_BITS
 DECL|member|active_next_branch
@@ -124,6 +129,7 @@ DECL|struct|tag
 DECL|struct|tree_content
 DECL|struct|tree_entry
 DECL|struct|tree_entry_ms
+DECL|typedef|whenspec_type
 DECL|variable|active_branches
 DECL|variable|all_packs
 DECL|variable|alloc_count
@@ -167,3 +173,4 @@ DECL|variable|pack_id
 DECL|variable|pack_size
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
+DECL|variable|whenspec
