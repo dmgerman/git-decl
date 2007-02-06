@@ -61,6 +61,7 @@ DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|unkeep_all_packs
 DECL|function|unload_one_branch
+DECL|function|update_branch
 DECL|function|validate_raw_date
 DECL|macro|MAX_PACK_ID
 DECL|macro|PACK_ID_BITS
@@ -148,8 +149,10 @@ DECL|variable|command_buf
 DECL|variable|cur_active_branches
 DECL|variable|delta_count_by_type
 DECL|variable|duplicate_count_by_type
+DECL|variable|failure
 DECL|variable|fast_import_usage
 DECL|variable|first_tag
+DECL|variable|force_update
 DECL|variable|last_blob
 DECL|variable|last_tag
 DECL|variable|mark_file
