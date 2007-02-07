@@ -2,7 +2,6 @@ DECL|enumerator|WHENSPEC_NOW
 DECL|enumerator|WHENSPEC_RAW
 DECL|enumerator|WHENSPEC_RFC2822
 DECL|function|alloc_objects
-DECL|function|checkpoint
 DECL|function|cmd_checkpoint
 DECL|function|cmd_data
 DECL|function|cmd_from
@@ -13,6 +12,7 @@ DECL|function|cmd_new_commit
 DECL|function|cmd_new_tag
 DECL|function|cmd_reset_branch
 DECL|function|create_index
+DECL|function|cycle_packfile
 DECL|function|dump_branches
 DECL|function|dump_marks
 DECL|function|dump_marks_helper
