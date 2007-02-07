@@ -20,6 +20,7 @@ DECL|function|dump_tags
 DECL|function|encode_header
 DECL|function|end_packfile
 DECL|function|file_change_d
+DECL|function|file_change_deleteall
 DECL|function|file_change_m
 DECL|function|find_mark
 DECL|function|find_object
