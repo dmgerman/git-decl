@@ -3,6 +3,7 @@ DECL|function|cmd_cherry
 DECL|function|cmd_format_patch
 DECL|function|cmd_log
 DECL|function|cmd_log_init
+DECL|function|cmd_log_reflog
 DECL|function|cmd_log_walk
 DECL|function|cmd_show
 DECL|function|cmd_whatchanged
