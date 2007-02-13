@@ -3,10 +3,12 @@ DECL|function|cmd_fetch__tool
 DECL|function|expand_refs_wildcard
 DECL|function|fetch_native_store
 DECL|function|find_local_name
+DECL|function|get_stdin
 DECL|function|parse_reflist
 DECL|function|remove_keep
 DECL|function|remove_keep_on_signal
 DECL|function|show_new
 DECL|function|update_local_ref
 DECL|function|update_ref
+DECL|macro|CHUNK_SIZE
 DECL|variable|keep
