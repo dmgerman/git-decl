@@ -11,6 +11,7 @@ DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
 DECL|enum|object_type
 DECL|enum|sharedrepo
+DECL|function|ce_mode_from_stat
 DECL|function|create_ce_mode
 DECL|function|hashclr
 DECL|function|hashcmp
