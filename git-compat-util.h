@@ -1,4 +1,5 @@
 DECL|function|has_extension
+DECL|function|prefixcmp
 DECL|function|sane_case
 DECL|function|xcalloc
 DECL|function|xmalloc
