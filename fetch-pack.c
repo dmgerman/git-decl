@@ -27,6 +27,7 @@ DECL|variable|fetch_unpack_limit
 DECL|variable|keep_pack
 DECL|variable|lock
 DECL|variable|multi_ack
+DECL|variable|no_progress
 DECL|variable|non_common_revs
 DECL|variable|quiet
 DECL|variable|rev_list
