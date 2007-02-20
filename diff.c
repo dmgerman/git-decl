@@ -48,6 +48,7 @@ DECL|function|emit_add_line
 DECL|function|emit_binary_diff
 DECL|function|emit_binary_diff_body
 DECL|function|emit_line
+DECL|function|emit_line_with_ws
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec
@@ -97,6 +98,7 @@ DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|added
 DECL|member|alloc
 DECL|member|alloc
+DECL|member|color_diff
 DECL|member|color_diff
 DECL|member|ctx
 DECL|member|current
