@@ -47,6 +47,7 @@ DECL|macro|sane_istest
 DECL|macro|setenv
 DECL|macro|strcasestr
 DECL|macro|strlcpy
+DECL|macro|strtoumax
 DECL|macro|tolower
 DECL|macro|tolower
 DECL|macro|toupper
