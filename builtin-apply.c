@@ -56,6 +56,8 @@ DECL|function|parse_single_patch
 DECL|function|parse_traditional_patch
 DECL|function|parse_whitespace_option
 DECL|function|patch_stats
+DECL|function|prefix_one
+DECL|function|prefix_patches
 DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|remove_file
