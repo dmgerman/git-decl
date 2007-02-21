@@ -99,6 +99,7 @@ DECL|member|is_copy
 DECL|member|is_delete
 DECL|member|is_new
 DECL|member|is_rename
+DECL|member|is_toplevel_relative
 DECL|member|leading
 DECL|member|lines_added
 DECL|member|lines_deleted
