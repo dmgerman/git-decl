@@ -18,5 +18,6 @@ DECL|member|references
 DECL|member|sha1
 DECL|struct|bundle_header
 DECL|struct|ref_list
+DECL|struct|ref_list_entry
 DECL|variable|bundle_signature
 DECL|variable|bundle_usage
