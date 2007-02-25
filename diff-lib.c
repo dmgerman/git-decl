@@ -1,6 +1,7 @@
 DECL|function|diff_cache
 DECL|function|diff_index_show_file
 DECL|function|do_diff_cache
+DECL|function|get_mode
 DECL|function|get_stat_data
 DECL|function|handle_diff_files_args
 DECL|function|is_in_index
