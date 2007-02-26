@@ -15,6 +15,7 @@ DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|check_whitespace
 DECL|function|cmd_apply
+DECL|function|count_slashes
 DECL|function|create_file
 DECL|function|create_one_file
 DECL|function|find_header
@@ -38,6 +39,7 @@ DECL|function|gitdiff_renamesrc
 DECL|function|gitdiff_similarity
 DECL|function|gitdiff_unrecognized
 DECL|function|gitdiff_verify_name
+DECL|function|guess_p_value
 DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|linelen
@@ -56,6 +58,8 @@ DECL|function|parse_single_patch
 DECL|function|parse_traditional_patch
 DECL|function|parse_whitespace_option
 DECL|function|patch_stats
+DECL|function|prefix_one
+DECL|function|prefix_patches
 DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|remove_file
@@ -97,6 +101,7 @@ DECL|member|is_copy
 DECL|member|is_delete
 DECL|member|is_new
 DECL|member|is_rename
+DECL|member|is_toplevel_relative
 DECL|member|leading
 DECL|member|lines_added
 DECL|member|lines_deleted
@@ -150,6 +155,7 @@ DECL|variable|no_add
 DECL|variable|numstat
 DECL|variable|p_context
 DECL|variable|p_value
+DECL|variable|p_value_known
 DECL|variable|patch_input_file
 DECL|variable|pluses
 DECL|variable|prefix

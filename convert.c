@@ -1,0 +1,10 @@
+DECL|function|convert_to_git
+DECL|function|convert_to_working_tree
+DECL|function|gather_stats
+DECL|function|is_binary
+DECL|member|cr
+DECL|member|crlf
+DECL|member|lf
+DECL|member|nonprintable
+DECL|member|printable
+DECL|struct|text_stat
