@@ -1,4 +1,3 @@
-DECL|function|typename
 DECL|macro|FLAG_BITS
 DECL|macro|OBJECT_H
 DECL|macro|TYPE_BITS

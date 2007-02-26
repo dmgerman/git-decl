@@ -15,6 +15,8 @@ DECL|function|object_list_insert
 DECL|function|object_list_length
 DECL|function|parse_object
 DECL|function|parse_object_buffer
+DECL|function|type_from_string
+DECL|function|typename
 DECL|member|blob
 DECL|member|commit
 DECL|member|object
@@ -24,4 +26,4 @@ DECL|union|any_object
 DECL|variable|nr_objs
 DECL|variable|obj_hash
 DECL|variable|obj_hash_size
-DECL|variable|type_names
+DECL|variable|object_type_strings
