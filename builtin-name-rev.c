@@ -5,7 +5,10 @@ DECL|function|name_rev
 DECL|macro|ishex
 DECL|member|generation
 DECL|member|merge_traversals
+DECL|member|ref_filter
+DECL|member|tags_only
 DECL|member|tip_name
+DECL|struct|name_ref_data
 DECL|struct|rev_name
 DECL|typedef|rev_name
 DECL|variable|cutoff

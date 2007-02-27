@@ -97,7 +97,6 @@ DECL|variable|pack_mmap_calls
 DECL|variable|pack_open_windows
 DECL|variable|pack_used_ctr
 DECL|variable|packed_git
-DECL|variable|page_size
 DECL|variable|peak_pack_mapped
 DECL|variable|peak_pack_open_windows
 DECL|variable|prepare_packed_git_run_once

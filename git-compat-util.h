@@ -1,4 +1,5 @@
 DECL|function|has_extension
+DECL|function|prefixcmp
 DECL|function|sane_case
 DECL|function|xcalloc
 DECL|function|xmalloc
@@ -28,6 +29,7 @@ DECL|macro|_ALL_SOURCE
 DECL|macro|_ALL_SOURCE
 DECL|macro|_ALL_SOURCE
 DECL|macro|_BSD_SOURCE
+DECL|macro|_FILE_OFFSET_BITS
 DECL|macro|_GNU_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
@@ -47,6 +49,7 @@ DECL|macro|sane_istest
 DECL|macro|setenv
 DECL|macro|strcasestr
 DECL|macro|strlcpy
+DECL|macro|strtoumax
 DECL|macro|tolower
 DECL|macro|tolower
 DECL|macro|toupper
