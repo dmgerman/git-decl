@@ -51,6 +51,7 @@ DECL|member|filter
 DECL|member|find_copies_harder
 DECL|member|format_callback
 DECL|member|format_callback_data
+DECL|member|found_changes
 DECL|member|full_index
 DECL|member|len
 DECL|member|line_termination

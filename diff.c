@@ -106,6 +106,7 @@ DECL|member|deleted
 DECL|member|diff_words
 DECL|member|filename
 DECL|member|files
+DECL|member|found_changesp
 DECL|member|hex
 DECL|member|is_binary
 DECL|member|is_renamed
