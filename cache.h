@@ -1,6 +1,7 @@
 DECL|enumerator|OBJ_BAD
 DECL|enumerator|OBJ_BLOB
 DECL|enumerator|OBJ_COMMIT
+DECL|enumerator|OBJ_MAX
 DECL|enumerator|OBJ_NONE
 DECL|enumerator|OBJ_OFS_DELTA
 DECL|enumerator|OBJ_REF_DELTA
