@@ -6,6 +6,8 @@ DECL|function|clear_commit_marks
 DECL|function|commit_graft_pos
 DECL|function|commit_list_insert
 DECL|function|count_parents
+DECL|function|fill_person
+DECL|function|format_commit_message
 DECL|function|free_commit_list
 DECL|function|get_commit_format
 DECL|function|get_header
@@ -41,6 +43,7 @@ DECL|function|topo_sort_default_getter
 DECL|function|topo_sort_default_setter
 DECL|function|unregister_shallow
 DECL|function|write_shallow_commits
+DECL|function|xstrndup
 DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT
@@ -59,3 +62,4 @@ DECL|variable|commit_graft_alloc
 DECL|variable|commit_graft_nr
 DECL|variable|commit_type
 DECL|variable|save_commit_buffer
+DECL|variable|user_format

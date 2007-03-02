@@ -1,3 +1,6 @@
+DECL|enumerator|DATE_NORMAL
+DECL|enumerator|DATE_RELATIVE
+DECL|enumerator|DATE_SHORT
 DECL|enumerator|OBJ_BAD
 DECL|enumerator|OBJ_BLOB
 DECL|enumerator|OBJ_COMMIT
@@ -10,6 +13,7 @@ DECL|enumerator|OBJ_TREE
 DECL|enumerator|PERM_EVERYBODY
 DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
+DECL|enum|date_mode
 DECL|enum|object_type
 DECL|enum|sharedrepo
 DECL|function|ce_mode_from_stat
