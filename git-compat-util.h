@@ -30,6 +30,8 @@ DECL|macro|_ALL_SOURCE
 DECL|macro|_BSD_SOURCE
 DECL|macro|_GNU_SOURCE
 DECL|macro|_XOPEN_SOURCE
+DECL|macro|_XOPEN_SOURCE
+DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|macro|__attribute__
 DECL|macro|isalnum
