@@ -32,6 +32,8 @@ DECL|macro|_BSD_SOURCE
 DECL|macro|_FILE_OFFSET_BITS
 DECL|macro|_GNU_SOURCE
 DECL|macro|_XOPEN_SOURCE
+DECL|macro|_XOPEN_SOURCE
+DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|macro|__attribute__
 DECL|macro|isalnum

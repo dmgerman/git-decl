@@ -9,3 +9,6 @@ DECL|function|wcwidth
 DECL|member|first
 DECL|member|last
 DECL|struct|interval
+DECL|typedef|iconv_ibp
+DECL|typedef|iconv_ibp
+DECL|typedef|ucs_char_t
