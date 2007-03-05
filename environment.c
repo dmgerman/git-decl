@@ -17,6 +17,7 @@ DECL|variable|git_index_file
 DECL|variable|git_log_output_encoding
 DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
+DECL|variable|has_symlinks
 DECL|variable|is_bare_repository_cfg
 DECL|variable|log_all_ref_updates
 DECL|variable|packed_git_limit
