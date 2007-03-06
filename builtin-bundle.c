@@ -3,6 +3,7 @@ DECL|function|cmd_bundle
 DECL|function|create_bundle
 DECL|function|fork_with_pipe
 DECL|function|list_heads
+DECL|function|list_refs
 DECL|function|read_header
 DECL|function|read_string
 DECL|function|show_commit
