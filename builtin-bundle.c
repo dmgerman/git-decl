@@ -6,6 +6,7 @@ DECL|function|list_heads
 DECL|function|read_header
 DECL|function|read_string
 DECL|function|show_commit
+DECL|function|show_edge
 DECL|function|show_object
 DECL|function|unbundle
 DECL|function|verify_bundle
