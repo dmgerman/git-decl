@@ -10,6 +10,7 @@ DECL|function|show_edge
 DECL|function|show_object
 DECL|function|unbundle
 DECL|function|verify_bundle
+DECL|macro|PREREQ_MARK
 DECL|member|alloc
 DECL|member|list
 DECL|member|name
