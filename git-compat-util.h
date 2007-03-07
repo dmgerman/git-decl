@@ -6,6 +6,7 @@ DECL|function|xmalloc
 DECL|function|xmmap
 DECL|function|xread
 DECL|function|xrealloc
+DECL|function|xsize_t
 DECL|function|xstrdup
 DECL|function|xwrite
 DECL|macro|ARRAY_SIZE
