@@ -30,6 +30,7 @@ DECL|function|gfi_unpack_entry
 DECL|function|grow_tree_content
 DECL|function|hc_entries
 DECL|function|hc_str
+DECL|function|import_marks
 DECL|function|insert_mark
 DECL|function|insert_object
 DECL|function|keep_pack
