@@ -66,7 +66,6 @@ DECL|function|update_branch
 DECL|function|validate_raw_date
 DECL|macro|MAX_PACK_ID
 DECL|macro|PACK_ID_BITS
-DECL|macro|PRIuMAX
 DECL|member|active
 DECL|member|active_next_branch
 DECL|member|branch_tree
