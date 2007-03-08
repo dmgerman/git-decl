@@ -19,6 +19,7 @@ DECL|function|git_parse_file
 DECL|function|iskeychar
 DECL|function|matches
 DECL|function|parse_value
+DECL|function|section_name_match
 DECL|function|store_aux
 DECL|function|store_write_pair
 DECL|function|store_write_section
