@@ -105,6 +105,7 @@ DECL|member|index_size
 DECL|member|inuse_cnt
 DECL|member|last_used
 DECL|member|len
+DECL|member|mtime
 DECL|member|name
 DECL|member|name
 DECL|member|name
