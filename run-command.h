@@ -8,3 +8,8 @@ DECL|macro|RUN_COMMAND_H
 DECL|macro|RUN_COMMAND_NO_STDIN
 DECL|macro|RUN_COMMAND_STDOUT_TO_STDERR
 DECL|macro|RUN_GIT_CMD
+DECL|member|argv
+DECL|member|git_cmd
+DECL|member|no_stdin
+DECL|member|stdout_to_stderr
+DECL|struct|child_process
