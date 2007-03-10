@@ -11,5 +11,6 @@ DECL|macro|RUN_GIT_CMD
 DECL|member|argv
 DECL|member|git_cmd
 DECL|member|no_stdin
+DECL|member|pid
 DECL|member|stdout_to_stderr
 DECL|struct|child_process
