@@ -1,5 +1,1 @@
-DECL|function|run_command
-DECL|function|run_command_opt
-DECL|function|run_command_v
 DECL|function|run_command_v_opt
-DECL|function|run_command_va_opt
