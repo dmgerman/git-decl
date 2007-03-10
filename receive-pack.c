@@ -7,6 +7,7 @@ DECL|function|read_head_info
 DECL|function|receive_pack_config
 DECL|function|report
 DECL|function|run_hook
+DECL|function|run_update_hook
 DECL|function|run_update_post_hook
 DECL|function|show_ref
 DECL|function|unpack
@@ -30,5 +31,4 @@ DECL|variable|receive_unpack_limit
 DECL|variable|report_status
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
-DECL|variable|update_hook
 DECL|variable|update_post_hook
