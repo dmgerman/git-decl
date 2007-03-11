@@ -24,6 +24,8 @@ DECL|function|objwarning
 DECL|function|verify_ordered
 DECL|macro|DIRENT_SORT_HINT
 DECL|macro|DIRENT_SORT_HINT
+DECL|macro|ERROR_OBJECT
+DECL|macro|ERROR_REACHABLE
 DECL|macro|MAX_SHA1_ENTRIES
 DECL|macro|REACHABLE
 DECL|macro|SEEN
@@ -39,6 +41,8 @@ DECL|struct|sha1_entry
 DECL|variable|check_full
 DECL|variable|check_strict
 DECL|variable|default_refs
+DECL|variable|errors_found
+DECL|variable|fsck_usage
 DECL|variable|head_sha1
 DECL|variable|keep_cache_objects
 DECL|variable|sha1_list
