@@ -65,6 +65,7 @@ DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
 DECL|function|parse_num
 DECL|function|patch_id_consume
+DECL|function|populate_from_stdin
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
@@ -94,6 +95,7 @@ DECL|function|spawn_prog
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FIRST_FEW_BYTES
+DECL|macro|INCREMENT
 DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|added
 DECL|member|alloc
