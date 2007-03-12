@@ -29,6 +29,7 @@ DECL|function|handle_patch
 DECL|function|is_multipart_boundary
 DECL|function|is_rfc2822_header
 DECL|function|mailinfo
+DECL|function|patchbreak
 DECL|function|read_one_header_line
 DECL|function|sanity_check
 DECL|function|slurp_attr
