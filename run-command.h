@@ -15,6 +15,7 @@ DECL|member|close_out
 DECL|member|git_cmd
 DECL|member|in
 DECL|member|no_stdin
+DECL|member|no_stdout
 DECL|member|out
 DECL|member|pid
 DECL|member|stdout_to_stderr
