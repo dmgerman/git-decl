@@ -7,6 +7,7 @@ DECL|function|grep_object
 DECL|function|grep_sha1
 DECL|function|grep_tree
 DECL|function|pathspec_matches
+DECL|function|strtoul_ui
 DECL|macro|ARGBUF
 DECL|macro|MAXARGS
 DECL|macro|push_arg
