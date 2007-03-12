@@ -11,9 +11,11 @@ DECL|macro|RUN_COMMAND_STDOUT_TO_STDERR
 DECL|macro|RUN_GIT_CMD
 DECL|member|argv
 DECL|member|close_in
+DECL|member|close_out
 DECL|member|git_cmd
 DECL|member|in
 DECL|member|no_stdin
+DECL|member|out
 DECL|member|pid
 DECL|member|stdout_to_stderr
 DECL|struct|child_process
