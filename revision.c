@@ -11,6 +11,7 @@ DECL|function|commit_match
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change
+DECL|function|gc_boundary
 DECL|function|get_reference
 DECL|function|get_revision
 DECL|function|get_revision_1
@@ -25,7 +26,6 @@ DECL|function|handle_revision_arg
 DECL|function|init_revisions
 DECL|function|limit_list
 DECL|function|mark_blob_uninteresting
-DECL|function|mark_boundary_to_show
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
 DECL|function|path_name

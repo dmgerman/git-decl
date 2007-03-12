@@ -1,6 +1,6 @@
 DECL|macro|ADDED
 DECL|macro|BOUNDARY
-DECL|macro|BOUNDARY_SHOW
+DECL|macro|CHILD_SHOWN
 DECL|macro|REVISION_H
 DECL|macro|REV_TREE_DIFFERENT
 DECL|macro|REV_TREE_NEW
@@ -17,6 +17,7 @@ DECL|member|add_signoff
 DECL|member|always_show_header
 DECL|member|blob_objects
 DECL|member|boundary
+DECL|member|boundary_commits
 DECL|member|combine_merges
 DECL|member|commit_format
 DECL|member|commits

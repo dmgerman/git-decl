@@ -3,13 +3,12 @@ DECL|function|cmd_bundle
 DECL|function|create_bundle
 DECL|function|fork_with_pipe
 DECL|function|list_heads
+DECL|function|list_refs
 DECL|function|read_header
 DECL|function|read_string
-DECL|function|show_commit
-DECL|function|show_edge
-DECL|function|show_object
 DECL|function|unbundle
 DECL|function|verify_bundle
+DECL|macro|PREREQ_MARK
 DECL|member|alloc
 DECL|member|list
 DECL|member|name
