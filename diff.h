@@ -47,12 +47,14 @@ DECL|member|color_diff
 DECL|member|color_diff_words
 DECL|member|context
 DECL|member|detect_rename
+DECL|member|exit_with_status
 DECL|member|filter
 DECL|member|find_copies_harder
 DECL|member|format_callback
 DECL|member|format_callback_data
 DECL|member|found_changes
 DECL|member|full_index
+DECL|member|has_changes
 DECL|member|len
 DECL|member|line_termination
 DECL|member|mode
