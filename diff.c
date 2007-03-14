@@ -41,7 +41,6 @@ DECL|function|diff_words_append
 DECL|function|diff_words_show
 DECL|function|diffcore_apply_filter
 DECL|function|diffcore_std
-DECL|function|diffcore_std_no_resolve
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
 DECL|function|emit_add_line
