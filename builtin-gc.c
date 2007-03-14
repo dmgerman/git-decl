@@ -1,0 +1,10 @@
+DECL|function|cmd_gc
+DECL|function|gc_config
+DECL|macro|FAILED_RUN
+DECL|variable|argv_pack_refs
+DECL|variable|argv_prune
+DECL|variable|argv_reflog
+DECL|variable|argv_repack
+DECL|variable|argv_rerere
+DECL|variable|builtin_gc_usage
+DECL|variable|pack_refs
