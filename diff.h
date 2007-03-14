@@ -70,6 +70,7 @@ DECL|member|pathlens
 DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
+DECL|member|quiet
 DECL|member|recursive
 DECL|member|rename_limit
 DECL|member|rename_score
