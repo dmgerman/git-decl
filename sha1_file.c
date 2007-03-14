@@ -47,6 +47,7 @@ DECL|function|read_pack_header
 DECL|function|read_packed_sha1
 DECL|function|read_pipe
 DECL|function|read_sha1_file
+DECL|function|rearrange_packed_git
 DECL|function|release_pack_memory
 DECL|function|repack_object
 DECL|function|reprepare_packed_git
@@ -59,6 +60,7 @@ DECL|function|sha1_object_info
 DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sha1_to_hex
+DECL|function|sort_pack
 DECL|function|unpack_compressed_entry
 DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
