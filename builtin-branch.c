@@ -19,6 +19,7 @@ DECL|function|print_ref_list
 DECL|function|ref_cmp
 DECL|function|rename_branch
 DECL|function|set_branch_defaults
+DECL|function|set_branch_merge
 DECL|macro|REF_LOCAL_BRANCH
 DECL|macro|REF_REMOTE_BRANCH
 DECL|macro|REF_TAG
