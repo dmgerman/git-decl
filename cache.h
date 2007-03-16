@@ -100,8 +100,9 @@ DECL|member|force
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version
-DECL|member|index_base
+DECL|member|index_data
 DECL|member|index_size
+DECL|member|index_version
 DECL|member|inuse_cnt
 DECL|member|last_used
 DECL|member|len

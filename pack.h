@@ -9,4 +9,7 @@ DECL|macro|pack_version_ok
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version
+DECL|member|idx_signature
+DECL|member|idx_version
 DECL|struct|pack_header
+DECL|struct|pack_idx_header
