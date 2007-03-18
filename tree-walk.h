@@ -1,3 +1,4 @@
+DECL|function|tree_entry_len
 DECL|macro|TREE_WALK_H
 DECL|member|buf
 DECL|member|mode
