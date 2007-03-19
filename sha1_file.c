@@ -90,7 +90,10 @@ DECL|macro|SZ_FMT
 DECL|member|base_offset
 DECL|member|buf
 DECL|member|data
+DECL|member|lru
+DECL|member|next
 DECL|member|p
+DECL|member|prev
 DECL|member|sha1
 DECL|member|size
 DECL|member|size
@@ -98,12 +101,14 @@ DECL|member|type
 DECL|member|type
 DECL|struct|cached_object
 DECL|struct|delta_base_cache_entry
+DECL|struct|delta_base_cache_lru_list
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail
 DECL|variable|cached_object_alloc
 DECL|variable|cached_object_nr
 DECL|variable|cached_objects
 DECL|variable|delta_base_cache
+DECL|variable|delta_base_cache_lru
 DECL|variable|delta_base_cached
 DECL|variable|hexval_table
 DECL|variable|null_sha1
