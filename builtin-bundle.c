@@ -1,7 +1,6 @@
 DECL|function|add_to_ref_list
 DECL|function|cmd_bundle
 DECL|function|create_bundle
-DECL|function|fork_with_pipe
 DECL|function|list_heads
 DECL|function|list_refs
 DECL|function|read_header
