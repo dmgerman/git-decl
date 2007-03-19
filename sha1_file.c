@@ -51,6 +51,7 @@ DECL|function|read_packed_sha1
 DECL|function|read_pipe
 DECL|function|read_sha1_file
 DECL|function|rearrange_packed_git
+DECL|function|release_delta_base_cache
 DECL|function|release_pack_memory
 DECL|function|repack_object
 DECL|function|reprepare_packed_git
@@ -103,6 +104,7 @@ DECL|variable|cached_object_alloc
 DECL|variable|cached_object_nr
 DECL|variable|cached_objects
 DECL|variable|delta_base_cache
+DECL|variable|delta_base_cached
 DECL|variable|hexval_table
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
