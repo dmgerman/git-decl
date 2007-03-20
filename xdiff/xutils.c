@@ -9,6 +9,7 @@ DECL|function|xdl_emit_diffrec
 DECL|function|xdl_emit_hunk_hdr
 DECL|function|xdl_guess_lines
 DECL|function|xdl_hash_record
+DECL|function|xdl_hash_record_with_whitespace
 DECL|function|xdl_hashbits
 DECL|function|xdl_mmfile_first
 DECL|function|xdl_mmfile_next
