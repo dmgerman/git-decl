@@ -4,7 +4,6 @@ DECL|function|assign_blame
 DECL|function|blame_chunk
 DECL|function|blame_overlap
 DECL|function|cmd_blame
-DECL|function|cmp_suspect
 DECL|function|coalesce
 DECL|function|compare_buffer
 DECL|function|copy_split_if_better
@@ -47,6 +46,7 @@ DECL|function|prepare_blame_range
 DECL|function|prepare_lines
 DECL|function|process_u_diff
 DECL|function|read_ancestry
+DECL|function|same_suspect
 DECL|function|sanity_check_refcnt
 DECL|function|setup_blame_list
 DECL|function|split_blame
@@ -68,7 +68,6 @@ DECL|macro|OUTPUT_SHOW_SCORE
 DECL|macro|PICKAXE_BLAME_COPY
 DECL|macro|PICKAXE_BLAME_COPY_HARDER
 DECL|macro|PICKAXE_BLAME_MOVE
-DECL|macro|cmp_suspect
 DECL|member|author
 DECL|member|author_mail
 DECL|member|author_time
