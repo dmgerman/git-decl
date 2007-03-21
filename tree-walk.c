@@ -1,3 +1,4 @@
+DECL|function|decode_tree_entry
 DECL|function|entry_clear
 DECL|function|entry_compare
 DECL|function|entry_extract
@@ -8,5 +9,4 @@ DECL|function|get_tree_entry
 DECL|function|init_tree_desc
 DECL|function|traverse_trees
 DECL|function|tree_entry
-DECL|function|tree_entry_extract
 DECL|function|update_tree_entry

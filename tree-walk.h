@@ -1,6 +1,8 @@
+DECL|function|tree_entry_extract
 DECL|function|tree_entry_len
 DECL|macro|TREE_WALK_H
 DECL|member|buffer
+DECL|member|entry
 DECL|member|mode
 DECL|member|path
 DECL|member|sha1
