@@ -3,7 +3,6 @@ DECL|macro|TREE_WALK_H
 DECL|member|buf
 DECL|member|mode
 DECL|member|path
-DECL|member|pathlen
 DECL|member|sha1
 DECL|member|size
 DECL|struct|name_entry
