@@ -1,11 +1,16 @@
 DECL|function|clear_distance
 DECL|function|cmd_rev_list
+DECL|function|commit_interesting
 DECL|function|count_distance
+DECL|function|count_interesting_parents
 DECL|function|find_bisection
+DECL|function|find_bisection_2
 DECL|function|read_revisions_from_stdin
 DECL|function|show_commit
 DECL|function|show_edge
 DECL|function|show_object
+DECL|function|weight
+DECL|function|weight_set
 DECL|macro|COUNTED
 DECL|variable|bisect_list
 DECL|variable|hdr_termination
