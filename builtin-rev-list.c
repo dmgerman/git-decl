@@ -5,6 +5,7 @@ DECL|function|count_distance
 DECL|function|count_interesting_parents
 DECL|function|find_bisection
 DECL|function|find_bisection_2
+DECL|function|halfway
 DECL|function|read_revisions_from_stdin
 DECL|function|show_commit
 DECL|function|show_edge
