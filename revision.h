@@ -29,6 +29,7 @@ DECL|member|edge_hint
 DECL|member|elem
 DECL|member|elem_len
 DECL|member|extra_headers
+DECL|member|first_parent_only
 DECL|member|full_diff
 DECL|member|grep_filter
 DECL|member|ignore_merges
