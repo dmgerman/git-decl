@@ -6,7 +6,6 @@ DECL|function|help_unknown_cmd
 DECL|function|list_commands
 DECL|function|list_common_cmds_help
 DECL|function|mput_char
-DECL|function|oom
 DECL|function|pretty_print_string_list
 DECL|function|show_man_page
 DECL|function|term_columns
