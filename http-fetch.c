@@ -42,7 +42,6 @@ DECL|member|local
 DECL|member|next
 DECL|member|next
 DECL|member|packs
-DECL|member|path_len
 DECL|member|real_sha1
 DECL|member|rename
 DECL|member|repo
