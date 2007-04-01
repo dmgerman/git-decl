@@ -6,4 +6,6 @@ DECL|function|lock_file
 DECL|function|remove_lock_file
 DECL|function|remove_lock_file_on_signal
 DECL|function|rollback_lock_file
+DECL|function|set_alternate_index_output
+DECL|variable|alternate_index_output
 DECL|variable|lock_file_list
