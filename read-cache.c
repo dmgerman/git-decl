@@ -37,13 +37,9 @@ DECL|function|write_index_ext_header
 DECL|macro|CACHE_EXT
 DECL|macro|CACHE_EXT_TREE
 DECL|macro|WRITE_BUFFER_SIZE
-DECL|variable|active_alloc
-DECL|variable|active_cache
-DECL|variable|active_cache_changed
-DECL|variable|active_cache_tree
-DECL|variable|active_nr
-DECL|variable|cache_mmap
-DECL|variable|cache_mmap_size
-DECL|variable|index_file_timestamp
+DECL|macro|cache_mmap
+DECL|macro|cache_mmap_size
+DECL|macro|index_file_timestamp
+DECL|variable|the_index
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len

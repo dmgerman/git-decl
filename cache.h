@@ -77,6 +77,11 @@ DECL|macro|S_IFDIRLNK
 DECL|macro|S_ISDIRLNK
 DECL|macro|TEMPLATE_DIR_ENVIRONMENT
 DECL|macro|TYPE_CHANGED
+DECL|macro|active_alloc
+DECL|macro|active_cache
+DECL|macro|active_cache_changed
+DECL|macro|active_cache_tree
+DECL|macro|active_nr
 DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
 DECL|macro|canon_mode
@@ -90,6 +95,11 @@ DECL|member|base
 DECL|member|base
 DECL|member|base_dir
 DECL|member|base_dir_len
+DECL|member|cache
+DECL|member|cache_alloc
+DECL|member|cache_changed
+DECL|member|cache_nr
+DECL|member|cache_tree
 DECL|member|ce_ctime
 DECL|member|ce_dev
 DECL|member|ce_flags
@@ -111,6 +121,8 @@ DECL|member|index_version
 DECL|member|inuse_cnt
 DECL|member|last_used
 DECL|member|len
+DECL|member|mmap
+DECL|member|mmap_size
 DECL|member|mtime
 DECL|member|name
 DECL|member|name
@@ -141,12 +153,14 @@ DECL|member|sec
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|timestamp
 DECL|member|windows
 DECL|struct|alternate_object_database
 DECL|struct|cache_entry
 DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|struct|checkout
+DECL|struct|index_state
 DECL|struct|lock_file
 DECL|struct|pack_entry
 DECL|struct|pack_window
