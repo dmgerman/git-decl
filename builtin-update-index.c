@@ -1,10 +1,10 @@
 DECL|function|add_cacheinfo
-DECL|function|add_file_to_cache
 DECL|function|chmod_path
 DECL|function|cmd_update_index
 DECL|function|do_reupdate
 DECL|function|do_unresolve
 DECL|function|mark_valid
+DECL|function|process_file
 DECL|function|read_head_pointers
 DECL|function|read_index_info
 DECL|function|read_one_ent
