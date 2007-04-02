@@ -164,5 +164,5 @@ DECL|variable|show_index_info
 DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
 DECL|variable|unidiff_zero
+DECL|variable|update_index
 DECL|variable|whitespace_error
-DECL|variable|write_index
