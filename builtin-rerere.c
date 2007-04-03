@@ -1,4 +1,5 @@
 DECL|function|append_line
+DECL|function|clear_buffer
 DECL|function|cmd_rerere
 DECL|function|copy_file
 DECL|function|diff_two
