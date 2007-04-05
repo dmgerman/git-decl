@@ -5,6 +5,7 @@ DECL|function|fetch_native_store
 DECL|function|find_local_name
 DECL|function|get_stdin
 DECL|function|parse_reflist
+DECL|function|pick_rref
 DECL|function|remove_keep
 DECL|function|remove_keep_on_signal
 DECL|function|show_new
