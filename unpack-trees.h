@@ -8,6 +8,7 @@ DECL|member|index_only
 DECL|member|merge
 DECL|member|merge_size
 DECL|member|nontrivial_merge
+DECL|member|pos
 DECL|member|prefix
 DECL|member|reset
 DECL|member|trivial_merges_only
