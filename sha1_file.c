@@ -28,6 +28,7 @@ DECL|function|link_temp_to_file
 DECL|function|map_sha1_file
 DECL|function|matches_pack_name
 DECL|function|move_temp_to_file
+DECL|function|nth_packed_object_offset
 DECL|function|nth_packed_object_sha1
 DECL|function|open_packed_git
 DECL|function|open_packed_git_1
