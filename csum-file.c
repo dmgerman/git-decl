@@ -1,3 +1,5 @@
+DECL|function|crc32_begin
+DECL|function|crc32_end
 DECL|function|sha1close
 DECL|function|sha1create
 DECL|function|sha1fd

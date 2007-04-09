@@ -52,6 +52,7 @@ DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
 DECL|macro|in_pack_header_size
+DECL|member|crc32
 DECL|member|data
 DECL|member|delta
 DECL|member|delta_child

@@ -1,6 +1,8 @@
 DECL|macro|CSUM_FILE_H
 DECL|member|buffer
+DECL|member|crc32
 DECL|member|ctx
+DECL|member|do_crc
 DECL|member|error
 DECL|member|fd
 DECL|member|name
