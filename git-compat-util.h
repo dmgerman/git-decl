@@ -1,6 +1,7 @@
 DECL|function|has_extension
 DECL|function|prefixcmp
 DECL|function|sane_case
+DECL|function|strtoul_ui
 DECL|function|xcalloc
 DECL|function|xmalloc
 DECL|function|xmmap
