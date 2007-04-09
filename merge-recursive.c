@@ -35,6 +35,7 @@ DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
 DECL|function|setup_progress_signal
 DECL|function|sha_eq
+DECL|function|shift_tree_object
 DECL|function|show
 DECL|function|unique_path
 DECL|function|unmerged_index
@@ -70,5 +71,6 @@ DECL|variable|merged_cnt
 DECL|variable|output_end
 DECL|variable|output_list
 DECL|variable|progress_update
+DECL|variable|subtree_merge
 DECL|variable|total_cnt
 DECL|variable|verbosity
