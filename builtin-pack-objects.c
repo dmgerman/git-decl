@@ -96,6 +96,8 @@ DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
 DECL|variable|incremental
+DECL|variable|index_default_version
+DECL|variable|index_off32_limit
 DECL|variable|local
 DECL|variable|no_reuse_delta
 DECL|variable|non_empty

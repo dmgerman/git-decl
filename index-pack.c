@@ -43,6 +43,8 @@ DECL|union|delta_base
 DECL|variable|consumed_bytes
 DECL|variable|deltas
 DECL|variable|from_stdin
+DECL|variable|index_default_version
+DECL|variable|index_off32_limit
 DECL|variable|index_pack_usage
 DECL|variable|input_buffer
 DECL|variable|input_crc32
