@@ -34,11 +34,15 @@ DECL|function|remove_empty_dir_recursive
 DECL|function|remove_empty_directories
 DECL|function|rename_ref
 DECL|function|repack_without_ref
+DECL|function|resolve_gitlink_packed_ref
+DECL|function|resolve_gitlink_ref
+DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref
 DECL|function|unlock_ref
 DECL|function|verify_lock
 DECL|function|write_ref_sha1
 DECL|macro|MAXDEPTH
+DECL|macro|MAXREFLEN
 DECL|macro|REF_KNOWS_PEELED
 DECL|member|did_loose
 DECL|member|did_packed
