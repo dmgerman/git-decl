@@ -5,6 +5,7 @@ DECL|function|add_preferred_base_object
 DECL|function|check_delta_limit
 DECL|function|check_loose_inflate
 DECL|function|check_object
+DECL|function|check_pack_crc
 DECL|function|check_pack_inflate
 DECL|function|check_pbase_path
 DECL|function|cmd_pack_objects
@@ -18,7 +19,6 @@ DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|find_packed_object
 DECL|function|find_packed_object_name
-DECL|function|find_packed_object_size
 DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
