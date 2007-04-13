@@ -18,6 +18,7 @@ DECL|member|always_show_header
 DECL|member|blob_objects
 DECL|member|boundary
 DECL|member|boundary_commits
+DECL|member|cherry_pick
 DECL|member|combine_merges
 DECL|member|commit_format
 DECL|member|commits

@@ -7,6 +7,7 @@ DECL|function|add_parents_only
 DECL|function|add_parents_to_list
 DECL|function|add_pending_commit_list
 DECL|function|add_pending_object
+DECL|function|cherry_pick_list
 DECL|function|commit_match
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
