@@ -1,5 +1,6 @@
 DECL|function|mark_edge_parents_uninteresting
 DECL|function|mark_edges_uninteresting
 DECL|function|process_blob
+DECL|function|process_gitlink
 DECL|function|process_tree
 DECL|function|traverse_commit_list
