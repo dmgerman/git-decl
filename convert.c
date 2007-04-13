@@ -1,7 +1,11 @@
+DECL|function|autocrlf_to_git
+DECL|function|autocrlf_to_working_tree
 DECL|function|convert_to_git
 DECL|function|convert_to_working_tree
 DECL|function|gather_stats
+DECL|function|git_path_is_binary
 DECL|function|is_binary
+DECL|function|setup_crlf_check
 DECL|member|cr
 DECL|member|crlf
 DECL|member|lf

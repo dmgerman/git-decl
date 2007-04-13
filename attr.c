@@ -3,12 +3,14 @@ DECL|function|fill
 DECL|function|free_attr_elem
 DECL|function|git_attr
 DECL|function|git_checkattr
+DECL|function|git_path_is_binary
 DECL|function|hash_name
 DECL|function|parse_attr_line
 DECL|function|path_matches
 DECL|function|prepare_attr_stack
 DECL|function|read_attr_from_array
 DECL|function|read_attr_from_file
+DECL|function|setup_binary_check
 DECL|macro|DEBUG_ATTR
 DECL|macro|HASHSIZE
 DECL|macro|debug_pop
