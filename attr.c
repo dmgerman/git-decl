@@ -6,6 +6,7 @@ DECL|function|free_attr_elem
 DECL|function|git_attr
 DECL|function|git_checkattr
 DECL|function|hash_name
+DECL|function|invalid_attr_name
 DECL|function|macroexpand
 DECL|function|parse_attr_line
 DECL|function|path_matches
