@@ -26,6 +26,7 @@ DECL|function|diff_get_color
 DECL|function|diff_get_patch_id
 DECL|function|diff_opt_parse
 DECL|function|diff_populate_filespec
+DECL|function|diff_populate_gitlink
 DECL|function|diff_q
 DECL|function|diff_queue
 DECL|function|diff_queue_is_empty
