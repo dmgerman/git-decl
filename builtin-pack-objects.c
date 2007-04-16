@@ -36,7 +36,6 @@ DECL|function|prepare_pack_revindex
 DECL|function|progress_interval
 DECL|function|read_object_list_from_stdin
 DECL|function|rehash_objects
-DECL|function|reuse_cached_pack
 DECL|function|revalidate_loose_object
 DECL|function|setup_progress_signal
 DECL|function|sha1_sort
