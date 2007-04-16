@@ -24,6 +24,7 @@ DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
 DECL|function|name_cmp_len
 DECL|function|name_hash
+DECL|function|pack_offset_sort
 DECL|function|pack_revindex_ix
 DECL|function|pbase_tree_cache_ix
 DECL|function|pbase_tree_cache_ix_incr
