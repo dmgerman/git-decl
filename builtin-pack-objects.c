@@ -47,7 +47,6 @@ DECL|function|write_index_file
 DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
-DECL|macro|in_pack_header_size
 DECL|member|crc32
 DECL|member|data
 DECL|member|delta
@@ -58,6 +57,7 @@ DECL|member|depth
 DECL|member|entry
 DECL|member|hash
 DECL|member|in_pack
+DECL|member|in_pack_header_size
 DECL|member|in_pack_offset
 DECL|member|in_pack_type
 DECL|member|index
