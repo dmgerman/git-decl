@@ -56,7 +56,6 @@ DECL|member|crc32
 DECL|member|data
 DECL|member|delta
 DECL|member|delta_child
-DECL|member|delta_limit
 DECL|member|delta_sibling
 DECL|member|delta_size
 DECL|member|depth
