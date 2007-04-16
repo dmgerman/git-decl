@@ -11,7 +11,6 @@ DECL|function|check_pbase_path
 DECL|function|cmd_pack_objects
 DECL|function|cmp_offset
 DECL|function|copy_pack_data
-DECL|function|create_final_object_list
 DECL|function|delta_against
 DECL|function|done_pbase_path_pos
 DECL|function|encode_header
@@ -85,10 +84,10 @@ DECL|struct|pbase_tree_cache
 DECL|struct|revindex_entry
 DECL|struct|unpacked
 DECL|variable|allow_ofs_delta
-DECL|variable|base_name
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
+DECL|variable|idx_tmp_name
 DECL|variable|incremental
 DECL|variable|index_default_version
 DECL|variable|index_off32_limit
@@ -101,11 +100,11 @@ DECL|variable|nr_result
 DECL|variable|num_preferred_base
 DECL|variable|object_ix
 DECL|variable|object_ix_hashsz
-DECL|variable|object_list_sha1
 DECL|variable|objects
 DECL|variable|pack_file_sha1
 DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz
+DECL|variable|pack_tmp_name
 DECL|variable|pack_to_stdout
 DECL|variable|pack_usage
 DECL|variable|pbase_tree
@@ -114,7 +113,7 @@ DECL|variable|progress
 DECL|variable|progress_update
 DECL|variable|reused
 DECL|variable|reused_delta
-DECL|variable|sorted_by_sha
+DECL|variable|tmpname
 DECL|variable|window
 DECL|variable|written
 DECL|variable|written_delta
