@@ -1,4 +1,6 @@
+DECL|function|add_name_decoration
 DECL|function|add_pending_commit
+DECL|function|add_ref_decoration
 DECL|function|cmd_cherry
 DECL|function|cmd_format_patch
 DECL|function|cmd_log

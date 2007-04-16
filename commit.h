@@ -13,6 +13,8 @@ DECL|macro|COMMIT_H
 DECL|member|buffer
 DECL|member|date
 DECL|member|item
+DECL|member|name
+DECL|member|next
 DECL|member|next
 DECL|member|nr_parent
 DECL|member|object
@@ -24,5 +26,6 @@ DECL|member|util
 DECL|struct|commit
 DECL|struct|commit_graft
 DECL|struct|commit_list
+DECL|struct|name_decoration
 DECL|typedef|topo_sort_get_fn_t
 DECL|typedef|topo_sort_set_fn_t
