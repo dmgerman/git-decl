@@ -12,7 +12,6 @@ DECL|function|cmd_pack_objects
 DECL|function|cmp_offset
 DECL|function|copy_pack_data
 DECL|function|create_final_object_list
-DECL|function|create_sorted_list
 DECL|function|delta_against
 DECL|function|done_pbase_path_pos
 DECL|function|encode_header
@@ -44,7 +43,6 @@ DECL|function|sha1_sort
 DECL|function|show_commit
 DECL|function|show_edge
 DECL|function|show_object
-DECL|function|sort_comparator
 DECL|function|try_delta
 DECL|function|type_size_sort
 DECL|function|write_index_file
@@ -87,10 +85,8 @@ DECL|struct|pbase_tree
 DECL|struct|pbase_tree_cache
 DECL|struct|revindex_entry
 DECL|struct|unpacked
-DECL|typedef|entry_sort_t
 DECL|variable|allow_ofs_delta
 DECL|variable|base_name
-DECL|variable|current_sort
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
@@ -120,7 +116,6 @@ DECL|variable|progress_update
 DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|sorted_by_sha
-DECL|variable|sorted_by_type
 DECL|variable|window
 DECL|variable|written
 DECL|variable|written_delta
