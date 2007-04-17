@@ -6,6 +6,7 @@ DECL|function|conflict_rename_rename
 DECL|function|conflict_rename_rename_2
 DECL|function|display_progress
 DECL|function|fill_mm
+DECL|function|find_ll_merge_fn
 DECL|function|flush_buffer
 DECL|function|flush_output
 DECL|function|get_files_dirs
@@ -13,10 +14,14 @@ DECL|function|get_ref
 DECL|function|get_renames
 DECL|function|get_unmerged
 DECL|function|git_merge_trees
+DECL|function|git_path_check_merge
 DECL|function|git_write_tree
 DECL|function|has_sha
 DECL|function|insert_stage_data
+DECL|function|ll_binary_merge
 DECL|function|ll_merge
+DECL|function|ll_union_merge
+DECL|function|ll_xdl_merge
 DECL|function|main
 DECL|function|make_cache_entry
 DECL|function|make_virtual_commit
@@ -45,9 +50,11 @@ DECL|function|update_file_flags
 DECL|function|update_stages
 DECL|member|clean
 DECL|member|dst_entry
+DECL|member|fn
 DECL|member|merge
 DECL|member|mode
 DECL|member|mode
+DECL|member|name
 DECL|member|next
 DECL|member|pair
 DECL|member|processed
@@ -61,6 +68,7 @@ DECL|struct|merge_file_info
 DECL|struct|output_buffer
 DECL|struct|rename
 DECL|struct|stage_data
+DECL|typedef|ll_merge_fn
 DECL|variable|buffer_output
 DECL|variable|call_depth
 DECL|variable|current_directory_set
@@ -68,6 +76,7 @@ DECL|variable|current_file_set
 DECL|variable|do_progress
 DECL|variable|index_only
 DECL|variable|last_percent
+DECL|variable|ll_merge_fns
 DECL|variable|merged_cnt
 DECL|variable|output_end
 DECL|variable|output_list
