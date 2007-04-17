@@ -14,7 +14,6 @@ DECL|function|get_renames
 DECL|function|get_unmerged
 DECL|function|git_merge_trees
 DECL|function|git_write_tree
-DECL|function|has_sha
 DECL|function|insert_stage_data
 DECL|function|main
 DECL|function|make_cache_entry
@@ -37,6 +36,7 @@ DECL|function|setup_progress_signal
 DECL|function|sha_eq
 DECL|function|shift_tree_object
 DECL|function|show
+DECL|function|stage_sha
 DECL|function|unique_path
 DECL|function|unmerged_index
 DECL|function|update_file
