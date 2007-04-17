@@ -16,6 +16,7 @@ DECL|function|git_merge_trees
 DECL|function|git_write_tree
 DECL|function|has_sha
 DECL|function|insert_stage_data
+DECL|function|ll_merge
 DECL|function|main
 DECL|function|make_cache_entry
 DECL|function|make_virtual_commit
