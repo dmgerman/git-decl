@@ -35,6 +35,7 @@ DECL|function|remove_empty_directories
 DECL|function|rename_ref
 DECL|function|repack_without_ref
 DECL|function|resolve_ref
+DECL|function|sort_ref_list
 DECL|function|unlock_ref
 DECL|function|verify_lock
 DECL|function|write_ref_sha1
