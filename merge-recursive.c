@@ -82,6 +82,7 @@ DECL|variable|buffer_output
 DECL|variable|call_depth
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
+DECL|variable|default_ll_merge
 DECL|variable|do_progress
 DECL|variable|index_only
 DECL|variable|last_percent
