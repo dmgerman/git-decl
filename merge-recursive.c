@@ -69,6 +69,7 @@ DECL|member|next
 DECL|member|pair
 DECL|member|processed
 DECL|member|processed
+DECL|member|recursive
 DECL|member|sha
 DECL|member|sha
 DECL|member|src_entry
