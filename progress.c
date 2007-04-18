@@ -1,0 +1,7 @@
+DECL|function|clear_progress_signal
+DECL|function|display_progress
+DECL|function|progress_interval
+DECL|function|set_progress_signal
+DECL|function|start_progress
+DECL|function|stop_progress
+DECL|variable|progress_update

@@ -34,11 +34,9 @@ DECL|function|pbase_tree_put
 DECL|function|prepare_pack
 DECL|function|prepare_pack_ix
 DECL|function|prepare_pack_revindex
-DECL|function|progress_interval
 DECL|function|read_object_list_from_stdin
 DECL|function|rehash_objects
 DECL|function|revalidate_loose_object
-DECL|function|setup_progress_signal
 DECL|function|sha1_sort
 DECL|function|show_commit
 DECL|function|show_edge
@@ -112,7 +110,7 @@ DECL|variable|pack_usage
 DECL|variable|pbase_tree
 DECL|variable|pbase_tree_cache
 DECL|variable|progress
-DECL|variable|progress_update
+DECL|variable|progress_state
 DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|tmpname
