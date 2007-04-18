@@ -2,9 +2,6 @@ DECL|macro|ATTR_FALSE
 DECL|macro|ATTR_H
 DECL|macro|ATTR_TRUE
 DECL|macro|ATTR_UNSET
-DECL|macro|ATTR__FALSE
-DECL|macro|ATTR__TRUE
-DECL|macro|ATTR__UNSET
 DECL|member|attr
 DECL|member|value
 DECL|struct|git_attr_check

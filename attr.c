@@ -15,7 +15,10 @@ DECL|function|path_matches
 DECL|function|prepare_attr_stack
 DECL|function|read_attr_from_array
 DECL|function|read_attr_from_file
+DECL|macro|ATTR__FALSE
+DECL|macro|ATTR__TRUE
 DECL|macro|ATTR__UNKNOWN
+DECL|macro|ATTR__UNSET
 DECL|macro|DEBUG_ATTR
 DECL|macro|HASHSIZE
 DECL|macro|debug_pop
@@ -48,4 +51,7 @@ DECL|variable|attr_stack
 DECL|variable|blank
 DECL|variable|builtin_attr
 DECL|variable|check_all_attr
+DECL|variable|git_attr__false
+DECL|variable|git_attr__true
+DECL|variable|git_attr__unknown
 DECL|variable|git_attr_hash
