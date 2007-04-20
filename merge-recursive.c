@@ -17,6 +17,7 @@ DECL|function|git_write_tree
 DECL|function|insert_stage_data
 DECL|function|main
 DECL|function|make_cache_entry
+DECL|function|make_room_for_path
 DECL|function|make_virtual_commit
 DECL|function|merge
 DECL|function|merge_config
