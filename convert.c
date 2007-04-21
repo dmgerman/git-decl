@@ -5,7 +5,7 @@ DECL|function|crlf_to_worktree
 DECL|function|gather_stats
 DECL|function|git_path_check_crlf
 DECL|function|is_binary
-DECL|function|setup_crlf_check
+DECL|function|setup_convert_check
 DECL|macro|CRLF_BINARY
 DECL|macro|CRLF_GUESS
 DECL|macro|CRLF_INPUT
