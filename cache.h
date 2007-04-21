@@ -125,6 +125,7 @@ DECL|member|offset
 DECL|member|offset
 DECL|member|old_sha1
 DECL|member|on_list
+DECL|member|owner
 DECL|member|p
 DECL|member|pack_fd
 DECL|member|pack_local
