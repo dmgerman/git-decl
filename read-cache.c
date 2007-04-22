@@ -4,6 +4,7 @@ DECL|function|base_name_compare
 DECL|function|cache_name_compare
 DECL|function|cache_name_pos
 DECL|function|ce_compare_data
+DECL|function|ce_compare_gitlink
 DECL|function|ce_compare_link
 DECL|function|ce_flush
 DECL|function|ce_match_stat
