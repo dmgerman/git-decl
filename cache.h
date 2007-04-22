@@ -118,6 +118,7 @@ DECL|member|next
 DECL|member|next
 DECL|member|not_new
 DECL|member|nsec
+DECL|member|num_objects
 DECL|member|offset
 DECL|member|offset
 DECL|member|old_sha1
