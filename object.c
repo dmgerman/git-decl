@@ -1,5 +1,5 @@
 DECL|function|add_object_array
-DECL|function|created_object
+DECL|function|create_object
 DECL|function|get_indexed_object
 DECL|function|get_max_object_index
 DECL|function|grow_object_hash
@@ -16,12 +16,6 @@ DECL|function|parse_object
 DECL|function|parse_object_buffer
 DECL|function|type_from_string
 DECL|function|typename
-DECL|member|blob
-DECL|member|commit
-DECL|member|object
-DECL|member|tag
-DECL|member|tree
-DECL|union|any_object
 DECL|variable|nr_objs
 DECL|variable|obj_hash
 DECL|variable|obj_hash_size
