@@ -1,9 +1,13 @@
 DECL|function|convert_to_git
 DECL|function|convert_to_working_tree
+DECL|function|count_ident
 DECL|function|crlf_to_git
 DECL|function|crlf_to_worktree
 DECL|function|gather_stats
 DECL|function|git_path_check_crlf
+DECL|function|git_path_check_ident
+DECL|function|ident_to_git
+DECL|function|ident_to_worktree
 DECL|function|is_binary
 DECL|function|setup_convert_check
 DECL|macro|CRLF_BINARY
