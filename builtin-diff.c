@@ -6,6 +6,7 @@ DECL|function|builtin_diff_index
 DECL|function|builtin_diff_tree
 DECL|function|cmd_diff
 DECL|function|stuff_change
+DECL|member|mode
 DECL|member|name
 DECL|member|sha1
 DECL|struct|blobinfo
