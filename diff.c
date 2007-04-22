@@ -51,6 +51,7 @@ DECL|function|emit_line
 DECL|function|emit_line_with_ws
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
+DECL|function|file_is_binary
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
 DECL|function|flush_one_pair
@@ -60,7 +61,6 @@ DECL|function|free_diff_words_data
 DECL|function|git_diff_ui_config
 DECL|function|is_summary_empty
 DECL|function|locate_size_cache
-DECL|function|mmfile_is_binary
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
 DECL|function|parse_num
@@ -83,6 +83,7 @@ DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
 DECL|function|scale_linear
+DECL|function|setup_diff_attr_check
 DECL|function|show_file_mode_name
 DECL|function|show_graph
 DECL|function|show_mode_change
