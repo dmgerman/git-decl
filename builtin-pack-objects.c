@@ -2,6 +2,7 @@ DECL|function|add_object_entry
 DECL|function|add_pbase_object
 DECL|function|add_preferred_base
 DECL|function|add_preferred_base_object
+DECL|function|adjust_perm
 DECL|function|check_delta_limit
 DECL|function|check_loose_inflate
 DECL|function|check_object
