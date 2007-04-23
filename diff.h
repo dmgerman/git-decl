@@ -40,6 +40,7 @@ DECL|macro|DIFF_STATUS_UNMERGED
 DECL|macro|combine_diff_path_size
 DECL|member|abbrev
 DECL|member|add_remove
+DECL|member|allow_external
 DECL|member|binary
 DECL|member|break_opt
 DECL|member|change

@@ -51,6 +51,7 @@ DECL|function|emit_line
 DECL|function|emit_line_with_ws
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
+DECL|function|external_diff_attr
 DECL|function|file_is_binary
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
@@ -63,6 +64,7 @@ DECL|function|is_summary_empty
 DECL|function|locate_size_cache
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
+DECL|function|parse_lldiff_command
 DECL|function|parse_num
 DECL|function|patch_id_consume
 DECL|function|populate_from_stdin
@@ -101,6 +103,7 @@ DECL|macro|TEMPFILE_PATH_LEN
 DECL|member|added
 DECL|member|alloc
 DECL|member|alloc
+DECL|member|cmd
 DECL|member|color_diff
 DECL|member|color_diff
 DECL|member|ctx
@@ -120,6 +123,8 @@ DECL|member|minus
 DECL|member|mode
 DECL|member|name
 DECL|member|name
+DECL|member|name
+DECL|member|next
 DECL|member|nparents
 DECL|member|nr
 DECL|member|patchlen
@@ -141,6 +146,7 @@ DECL|struct|diff_words_data
 DECL|struct|diffstat_file
 DECL|struct|diffstat_t
 DECL|struct|emit_callback
+DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
 DECL|struct|sha1_size_cache
 DECL|variable|diff_colors
@@ -154,3 +160,5 @@ DECL|variable|sha1_size_cache
 DECL|variable|sha1_size_cache_alloc
 DECL|variable|sha1_size_cache_nr
 DECL|variable|use_size_cache
+DECL|variable|user_diff
+DECL|variable|user_diff_tail
