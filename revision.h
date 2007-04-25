@@ -22,6 +22,7 @@ DECL|member|cherry_pick
 DECL|member|combine_merges
 DECL|member|commit_format
 DECL|member|commits
+DECL|member|date_mode
 DECL|member|dense
 DECL|member|dense_combined_merges
 DECL|member|diff
@@ -59,7 +60,6 @@ DECL|member|prune_fn
 DECL|member|pruning
 DECL|member|ref_message_id
 DECL|member|reflog_info
-DECL|member|relative_date
 DECL|member|remove_empty_trees
 DECL|member|reverse
 DECL|member|show_root_diff

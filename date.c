@@ -12,6 +12,7 @@ DECL|function|date_yesterday
 DECL|function|datestamp
 DECL|function|gm_time_t
 DECL|function|is_date
+DECL|function|local_tzoffset
 DECL|function|match_alpha
 DECL|function|match_digit
 DECL|function|match_multi_number
