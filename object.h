@@ -6,6 +6,7 @@ DECL|member|count
 DECL|member|flags
 DECL|member|item
 DECL|member|item
+DECL|member|mode
 DECL|member|name
 DECL|member|next
 DECL|member|nr
