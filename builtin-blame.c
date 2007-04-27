@@ -125,9 +125,11 @@ DECL|variable|cmd_is_annotate
 DECL|variable|incremental
 DECL|variable|longest_author
 DECL|variable|longest_file
+DECL|variable|mailmap
 DECL|variable|max_digits
 DECL|variable|max_orig_digits
 DECL|variable|max_score_digits
+DECL|variable|no_mailmap
 DECL|variable|num_commits
 DECL|variable|num_get_patch
 DECL|variable|num_read_blob
