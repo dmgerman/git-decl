@@ -1,4 +1,4 @@
-DECL|macro|__progress_h__
+DECL|macro|PROGRESS_H
 DECL|member|delay
 DECL|member|delayed_percent_treshold
 DECL|member|delayed_title

@@ -1,6 +1,7 @@
 DECL|macro|DEFAULT_BREAK_SCORE
 DECL|macro|DEFAULT_MERGE_SCORE
 DECL|macro|DEFAULT_RENAME_SCORE
+DECL|macro|DIFFCORE_H
 DECL|macro|DIFF_DEBUG
 DECL|macro|DIFF_FILE_VALID
 DECL|macro|DIFF_PAIR_BROKEN
@@ -10,7 +11,6 @@ DECL|macro|DIFF_PAIR_TYPE_CHANGED
 DECL|macro|DIFF_PAIR_UNMERGED
 DECL|macro|MAX_SCORE
 DECL|macro|MINIMUM_BREAK_SIZE
-DECL|macro|_DIFFCORE_H_
 DECL|macro|diff_debug_filepair
 DECL|macro|diff_debug_filespec
 DECL|macro|diff_debug_queue
