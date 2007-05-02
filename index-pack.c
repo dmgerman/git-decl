@@ -13,7 +13,6 @@ DECL|function|main
 DECL|function|open_pack_file
 DECL|function|parse_pack_header
 DECL|function|parse_pack_objects
-DECL|function|readjust_pack_header_and_sha1
 DECL|function|resolve_delta
 DECL|function|sha1_compare
 DECL|function|sha1_object
