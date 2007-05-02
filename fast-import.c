@@ -24,7 +24,6 @@ DECL|function|file_change_deleteall
 DECL|function|file_change_m
 DECL|function|find_mark
 DECL|function|find_object
-DECL|function|fixup_header_footer
 DECL|function|get_mode
 DECL|function|gfi_unpack_entry
 DECL|function|grow_tree_content

@@ -1,0 +1,1 @@
+DECL|function|fixup_pack_header_footer
