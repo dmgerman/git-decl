@@ -9,6 +9,7 @@ DECL|function|xread
 DECL|function|xrealloc
 DECL|function|xsize_t
 DECL|function|xstrdup
+DECL|function|xstrndup
 DECL|function|xwrite
 DECL|macro|ARRAY_SIZE
 DECL|macro|DEFAULT_PACKED_GIT_LIMIT

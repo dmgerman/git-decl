@@ -43,7 +43,6 @@ DECL|function|topo_sort_default_getter
 DECL|function|topo_sort_default_setter
 DECL|function|unregister_shallow
 DECL|function|write_shallow_commits
-DECL|function|xstrndup
 DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT
