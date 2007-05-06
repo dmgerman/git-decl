@@ -30,6 +30,7 @@ DECL|function|get_commit_info
 DECL|function|get_origin
 DECL|function|get_patch
 DECL|function|git_blame_config
+DECL|function|handle_split
 DECL|function|has_path_in_work_tree
 DECL|function|lineno_width
 DECL|function|make_origin
@@ -68,6 +69,7 @@ DECL|macro|OUTPUT_SHOW_NUMBER
 DECL|macro|OUTPUT_SHOW_SCORE
 DECL|macro|PICKAXE_BLAME_COPY
 DECL|macro|PICKAXE_BLAME_COPY_HARDER
+DECL|macro|PICKAXE_BLAME_COPY_HARDEST
 DECL|macro|PICKAXE_BLAME_MOVE
 DECL|member|author
 DECL|member|author_mail
