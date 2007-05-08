@@ -85,6 +85,7 @@ DECL|struct|pbase_tree_cache
 DECL|struct|revindex_entry
 DECL|struct|unpacked
 DECL|variable|allow_ofs_delta
+DECL|variable|depth
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
