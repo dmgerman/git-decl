@@ -61,7 +61,6 @@ DECL|function|fn_out_diff_words_aux
 DECL|function|free_diff_words_data
 DECL|function|git_diff_ui_config
 DECL|function|is_summary_empty
-DECL|function|locate_size_cache
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
 DECL|function|parse_lldiff_command
@@ -129,8 +128,6 @@ DECL|member|nparents
 DECL|member|nr
 DECL|member|patchlen
 DECL|member|plus
-DECL|member|sha1
-DECL|member|size
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
@@ -148,7 +145,6 @@ DECL|struct|diffstat_t
 DECL|struct|emit_callback
 DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
-DECL|struct|sha1_size_cache
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
 DECL|variable|diff_queued_diff
@@ -156,9 +152,5 @@ DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
 DECL|variable|mime_boundary_leader
-DECL|variable|sha1_size_cache
-DECL|variable|sha1_size_cache_alloc
-DECL|variable|sha1_size_cache_nr
-DECL|variable|use_size_cache
 DECL|variable|user_diff
 DECL|variable|user_diff_tail
