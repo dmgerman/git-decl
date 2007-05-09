@@ -95,6 +95,7 @@ DECL|variable|index_default_version
 DECL|variable|index_off32_limit
 DECL|variable|local
 DECL|variable|no_reuse_delta
+DECL|variable|no_reuse_object
 DECL|variable|non_empty
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
