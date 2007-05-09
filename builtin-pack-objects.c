@@ -4,7 +4,6 @@ DECL|function|add_preferred_base
 DECL|function|add_preferred_base_object
 DECL|function|adjust_perm
 DECL|function|check_delta_limit
-DECL|function|check_loose_inflate
 DECL|function|check_object
 DECL|function|check_pack_crc
 DECL|function|check_pack_inflate
@@ -37,7 +36,6 @@ DECL|function|prepare_pack_ix
 DECL|function|prepare_pack_revindex
 DECL|function|read_object_list_from_stdin
 DECL|function|rehash_objects
-DECL|function|revalidate_loose_object
 DECL|function|sha1_sort
 DECL|function|show_commit
 DECL|function|show_edge

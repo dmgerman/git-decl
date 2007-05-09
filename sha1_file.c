@@ -58,7 +58,6 @@ DECL|function|repack_object
 DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
 DECL|function|scan_windows
-DECL|function|setup_object_header
 DECL|function|sha1_file_name
 DECL|function|sha1_loose_object_info
 DECL|function|sha1_object_info
@@ -77,7 +76,6 @@ DECL|function|unpack_sha1_rest
 DECL|function|unuse_one_window
 DECL|function|unuse_pack
 DECL|function|use_pack
-DECL|function|write_binary_header
 DECL|function|write_buffer
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
