@@ -1,6 +1,7 @@
 DECL|macro|REFS_H
 DECL|macro|REF_ISPACKED
 DECL|macro|REF_ISSYMREF
+DECL|macro|REF_NODEREF
 DECL|member|force_write
 DECL|member|lk
 DECL|member|lock_fd
