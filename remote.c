@@ -1,0 +1,15 @@
+DECL|function|add_push_refspec
+DECL|function|add_uri
+DECL|function|handle_config
+DECL|function|make_remote
+DECL|function|read_branches_file
+DECL|function|read_config
+DECL|function|read_remotes_file
+DECL|function|remote_get
+DECL|macro|BUF_SIZE
+DECL|variable|allocated_remotes
+DECL|variable|buffer
+DECL|variable|current_branch
+DECL|variable|current_branch_len
+DECL|variable|default_remote_name
+DECL|variable|remotes
