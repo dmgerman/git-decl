@@ -1,3 +1,4 @@
+DECL|function|add_fetch_refspec
 DECL|function|add_push_refspec
 DECL|function|add_uri
 DECL|function|count_refspec_match
@@ -11,7 +12,9 @@ DECL|function|parse_ref_spec
 DECL|function|read_branches_file
 DECL|function|read_config
 DECL|function|read_remotes_file
+DECL|function|remote_find_tracking
 DECL|function|remote_get
+DECL|function|remote_has_uri
 DECL|function|try_explicit_object_name
 DECL|macro|BUF_SIZE
 DECL|variable|allocated_remotes

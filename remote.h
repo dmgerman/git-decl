@@ -1,5 +1,8 @@
 DECL|macro|REMOTE_H
 DECL|member|dst
+DECL|member|fetch
+DECL|member|fetch_refspec
+DECL|member|fetch_refspec_nr
 DECL|member|force
 DECL|member|name
 DECL|member|pattern
