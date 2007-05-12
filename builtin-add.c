@@ -2,10 +2,10 @@ DECL|function|cmd_add
 DECL|function|fill_directory
 DECL|function|git_add_config
 DECL|function|prune_directory
-DECL|function|update_all
+DECL|function|update
 DECL|function|update_callback
 DECL|variable|builtin_add_usage
 DECL|variable|excludes_file
 DECL|variable|ignore_warning
 DECL|variable|lock_file
-DECL|variable|take_all_worktree_changes
+DECL|variable|take_worktree_changes
