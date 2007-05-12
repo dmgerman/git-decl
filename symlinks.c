@@ -1,0 +1,1 @@
+DECL|function|has_symlink_leading_path
