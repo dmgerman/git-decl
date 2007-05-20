@@ -8,6 +8,8 @@ DECL|function|setup_git_env
 DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
+DECL|variable|core_compression_level
+DECL|variable|core_compression_seen
 DECL|variable|delta_base_cache_limit
 DECL|variable|git_commit_encoding
 DECL|variable|git_default_email

@@ -102,6 +102,8 @@ DECL|variable|num_preferred_base
 DECL|variable|object_ix
 DECL|variable|object_ix_hashsz
 DECL|variable|objects
+DECL|variable|pack_compression_level
+DECL|variable|pack_compression_seen
 DECL|variable|pack_file_sha1
 DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz

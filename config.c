@@ -38,3 +38,4 @@ DECL|variable|config_file
 DECL|variable|config_file_name
 DECL|variable|config_linenr
 DECL|variable|store
+DECL|variable|zlib_compression_seen
