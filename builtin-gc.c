@@ -1,6 +1,9 @@
+DECL|function|append_option
 DECL|function|cmd_gc
 DECL|function|gc_config
 DECL|macro|FAILED_RUN
+DECL|macro|MAX_ADD
+DECL|variable|aggressive_window
 DECL|variable|argv_pack_refs
 DECL|variable|argv_prune
 DECL|variable|argv_reflog
