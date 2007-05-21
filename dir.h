@@ -18,7 +18,7 @@ DECL|member|ignored
 DECL|member|ignored_dir
 DECL|member|len
 DECL|member|name
-DECL|member|no_dirlinks
+DECL|member|no_gitlinks
 DECL|member|nr
 DECL|member|nr
 DECL|member|pattern
