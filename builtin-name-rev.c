@@ -5,6 +5,7 @@ DECL|function|name_rev
 DECL|macro|ishex
 DECL|member|generation
 DECL|member|merge_traversals
+DECL|member|name_only
 DECL|member|ref_filter
 DECL|member|tags_only
 DECL|member|tip_name
