@@ -13,6 +13,7 @@ DECL|member|argv
 DECL|member|close_in
 DECL|member|close_out
 DECL|member|dir
+DECL|member|env
 DECL|member|git_cmd
 DECL|member|in
 DECL|member|no_stdin
