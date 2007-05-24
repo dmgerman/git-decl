@@ -5,6 +5,8 @@ DECL|function|alloc_objects
 DECL|function|cmd_checkpoint
 DECL|function|cmd_data
 DECL|function|cmd_from
+DECL|function|cmd_from_commit
+DECL|function|cmd_from_existing
 DECL|function|cmd_mark
 DECL|function|cmd_merge
 DECL|function|cmd_new_blob
