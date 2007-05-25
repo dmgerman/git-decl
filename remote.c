@@ -1,6 +1,7 @@
 DECL|function|add_fetch_refspec
 DECL|function|add_push_refspec
 DECL|function|add_uri
+DECL|function|check_pattern_match
 DECL|function|count_refspec_match
 DECL|function|find_ref_by_name
 DECL|function|handle_config
