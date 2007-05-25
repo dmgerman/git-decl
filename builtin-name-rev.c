@@ -2,6 +2,7 @@ DECL|function|cmd_name_rev
 DECL|function|get_rev_name
 DECL|function|name_ref
 DECL|function|name_rev
+DECL|macro|CUTOFF_DATE_SLOP
 DECL|macro|ishex
 DECL|member|generation
 DECL|member|merge_traversals
