@@ -1,12 +1,14 @@
 DECL|function|cmd_pack_refs
 DECL|function|do_not_prune
 DECL|function|handle_one_ref
+DECL|function|pack_refs
 DECL|function|prune_ref
 DECL|function|prune_refs
-DECL|member|all
+DECL|macro|PACK_REFS_ALL
+DECL|macro|PACK_REFS_PRUNE
+DECL|member|flags
 DECL|member|name
 DECL|member|next
-DECL|member|prune
 DECL|member|ref_to_prune
 DECL|member|refs_file
 DECL|member|sha1
