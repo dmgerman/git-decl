@@ -12,6 +12,7 @@ DECL|function|cmd_pack_objects
 DECL|function|cmp_offset
 DECL|function|copy_pack_data
 DECL|function|delta_against
+DECL|function|delta_cacheable
 DECL|function|done_pbase_path_pos
 DECL|function|encode_header
 DECL|function|find_deltas
@@ -52,6 +53,7 @@ DECL|member|crc32
 DECL|member|data
 DECL|member|delta
 DECL|member|delta_child
+DECL|member|delta_data
 DECL|member|delta_sibling
 DECL|member|delta_size
 DECL|member|depth
@@ -87,6 +89,7 @@ DECL|struct|revindex_entry
 DECL|struct|unpacked
 DECL|variable|allow_ofs_delta
 DECL|variable|base_name
+DECL|variable|delta_cache_size
 DECL|variable|depth
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
@@ -96,6 +99,7 @@ DECL|variable|incremental
 DECL|variable|index_default_version
 DECL|variable|index_off32_limit
 DECL|variable|local
+DECL|variable|max_delta_cache_size
 DECL|variable|no_reuse_delta
 DECL|variable|no_reuse_object
 DECL|variable|non_empty
