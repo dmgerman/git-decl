@@ -89,6 +89,7 @@ DECL|struct|revindex_entry
 DECL|struct|unpacked
 DECL|variable|allow_ofs_delta
 DECL|variable|base_name
+DECL|variable|cache_max_small_delta_size
 DECL|variable|delta_cache_size
 DECL|variable|depth
 DECL|variable|done_pbase_paths
