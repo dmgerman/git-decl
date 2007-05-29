@@ -86,6 +86,7 @@ DECL|struct|pbase_tree_cache
 DECL|struct|revindex_entry
 DECL|struct|unpacked
 DECL|variable|allow_ofs_delta
+DECL|variable|base_name
 DECL|variable|depth
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
@@ -101,6 +102,7 @@ DECL|variable|non_empty
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
 DECL|variable|nr_result
+DECL|variable|nr_written
 DECL|variable|num_preferred_base
 DECL|variable|object_ix
 DECL|variable|object_ix_hashsz
@@ -110,6 +112,7 @@ DECL|variable|pack_compression_seen
 DECL|variable|pack_file_sha1
 DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz
+DECL|variable|pack_size_limit
 DECL|variable|pack_tmp_name
 DECL|variable|pack_to_stdout
 DECL|variable|pack_usage
@@ -123,3 +126,4 @@ DECL|variable|tmpname
 DECL|variable|window
 DECL|variable|written
 DECL|variable|written_delta
+DECL|variable|written_list
