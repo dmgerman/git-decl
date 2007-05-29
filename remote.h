@@ -1,0 +1,17 @@
+DECL|macro|REMOTE_H
+DECL|member|dst
+DECL|member|fetch
+DECL|member|fetch_refspec
+DECL|member|fetch_refspec_nr
+DECL|member|force
+DECL|member|name
+DECL|member|pattern
+DECL|member|push
+DECL|member|push_refspec
+DECL|member|push_refspec_nr
+DECL|member|receivepack
+DECL|member|src
+DECL|member|uri
+DECL|member|uri_nr
+DECL|struct|refspec
+DECL|struct|remote
