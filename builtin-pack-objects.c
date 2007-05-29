@@ -24,6 +24,7 @@ DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
 DECL|function|name_cmp_len
 DECL|function|name_hash
+DECL|function|no_try_delta
 DECL|function|open_object_dir_tmp
 DECL|function|pack_offset_sort
 DECL|function|pack_revindex_ix
@@ -36,6 +37,7 @@ DECL|function|prepare_pack_ix
 DECL|function|prepare_pack_revindex
 DECL|function|read_object_list_from_stdin
 DECL|function|rehash_objects
+DECL|function|setup_delta_attr_check
 DECL|function|sha1_sort
 DECL|function|show_commit
 DECL|function|show_edge
@@ -61,6 +63,7 @@ DECL|member|in_pack_offset
 DECL|member|in_pack_type
 DECL|member|index
 DECL|member|next
+DECL|member|no_try_delta
 DECL|member|nr
 DECL|member|offset
 DECL|member|offset
