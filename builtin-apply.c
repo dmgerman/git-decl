@@ -133,7 +133,7 @@ DECL|struct|buffer_desc
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
-DECL|variable|applied_after_stripping
+DECL|variable|applied_after_fixing_ws
 DECL|variable|apply
 DECL|variable|apply_in_reverse
 DECL|variable|apply_usage
