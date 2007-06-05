@@ -96,7 +96,6 @@ DECL|function|show_stats
 DECL|function|spawn_prog
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FAST_WORKING_DIRECTORY
-DECL|macro|FIRST_FEW_BYTES
 DECL|macro|INCREMENT
 DECL|member|added
 DECL|member|alloc

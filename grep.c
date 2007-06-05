@@ -1,5 +1,4 @@
 DECL|function|append_grep_pattern
-DECL|function|buffer_is_binary
 DECL|function|chk_hit_marker
 DECL|function|clr_hit_marker
 DECL|function|compile_grep_patterns
@@ -21,4 +20,3 @@ DECL|function|match_line
 DECL|function|match_one_pattern
 DECL|function|show_line
 DECL|function|word_char
-DECL|macro|FIRST_FEW_BYTES
