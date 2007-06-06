@@ -39,17 +39,14 @@ DECL|function|prepare_pack_revindex
 DECL|function|read_object_list_from_stdin
 DECL|function|rehash_objects
 DECL|function|setup_delta_attr_check
-DECL|function|sha1_sort
 DECL|function|show_commit
 DECL|function|show_edge
 DECL|function|show_object
 DECL|function|try_delta
 DECL|function|type_size_sort
-DECL|function|write_index_file
 DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
-DECL|member|crc32
 DECL|member|data
 DECL|member|delta
 DECL|member|delta_child
@@ -59,6 +56,7 @@ DECL|member|delta_size
 DECL|member|depth
 DECL|member|entry
 DECL|member|hash
+DECL|member|idx
 DECL|member|in_pack
 DECL|member|in_pack_header_size
 DECL|member|in_pack_offset
@@ -68,13 +66,11 @@ DECL|member|next
 DECL|member|no_try_delta
 DECL|member|nr
 DECL|member|offset
-DECL|member|offset
 DECL|member|p
 DECL|member|pcache
 DECL|member|preferred_base
 DECL|member|ref
 DECL|member|revindex
-DECL|member|sha1
 DECL|member|sha1
 DECL|member|size
 DECL|member|temporary
@@ -97,8 +93,6 @@ DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
 DECL|variable|idx_tmp_name
 DECL|variable|incremental
-DECL|variable|index_default_version
-DECL|variable|index_off32_limit
 DECL|variable|local
 DECL|variable|max_delta_cache_size
 DECL|variable|no_reuse_delta
@@ -114,7 +108,6 @@ DECL|variable|object_ix_hashsz
 DECL|variable|objects
 DECL|variable|pack_compression_level
 DECL|variable|pack_compression_seen
-DECL|variable|pack_file_sha1
 DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz
 DECL|variable|pack_size_limit
