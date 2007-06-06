@@ -34,7 +34,6 @@ DECL|member|name
 DECL|member|sha1
 DECL|struct|ref_item
 DECL|struct|ref_list
-DECL|variable|base_len
 DECL|variable|branch_colors
 DECL|variable|branch_track_remotes
 DECL|variable|branch_use_color
@@ -43,5 +42,4 @@ DECL|variable|config_remote
 DECL|variable|config_repo
 DECL|variable|head
 DECL|variable|head_sha1
-DECL|variable|start_len
 DECL|variable|start_ref
