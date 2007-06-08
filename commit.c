@@ -5,7 +5,6 @@ DECL|function|check_commit
 DECL|function|clear_commit_marks
 DECL|function|commit_graft_pos
 DECL|function|commit_list_insert
-DECL|function|count_parents
 DECL|function|fill_person
 DECL|function|format_commit_message
 DECL|function|free_commit_list

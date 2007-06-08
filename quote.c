@@ -5,7 +5,6 @@ DECL|function|python_quote_print
 DECL|function|quote_c_style
 DECL|function|quote_c_style_counted
 DECL|function|sq_dequote
-DECL|function|sq_quote
 DECL|function|sq_quote_argv
 DECL|function|sq_quote_buf
 DECL|function|sq_quote_print
