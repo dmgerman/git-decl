@@ -135,3 +135,4 @@ DECL|variable|num_commits
 DECL|variable|num_get_patch
 DECL|variable|num_read_blob
 DECL|variable|show_root
+DECL|variable|xdl_opts
