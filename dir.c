@@ -13,6 +13,7 @@ DECL|function|cmp_name
 DECL|function|common_prefix
 DECL|function|create_simplify
 DECL|function|dir_add_name
+DECL|function|dir_entry_new
 DECL|function|directory_exists_in_index
 DECL|function|excluded
 DECL|function|excluded_1
