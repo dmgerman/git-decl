@@ -12,6 +12,7 @@ DECL|function|add_excludes_from_file_1
 DECL|function|cmp_name
 DECL|function|common_prefix
 DECL|function|create_simplify
+DECL|function|dir_add_ignored
 DECL|function|dir_add_name
 DECL|function|dir_entry_new
 DECL|function|directory_exists_in_index

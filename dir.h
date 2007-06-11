@@ -9,13 +9,17 @@ DECL|member|alloc
 DECL|member|alloc
 DECL|member|base
 DECL|member|baselen
+DECL|member|collect_ignored
 DECL|member|entries
 DECL|member|exclude_list
 DECL|member|exclude_per_dir
 DECL|member|excludes
 DECL|member|hide_empty_directories
 DECL|member|ignored
+DECL|member|ignored
+DECL|member|ignored_alloc
 DECL|member|ignored_dir
+DECL|member|ignored_nr
 DECL|member|len
 DECL|member|name
 DECL|member|no_gitlinks
