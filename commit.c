@@ -1,6 +1,7 @@
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
 DECL|function|add_user_info
+DECL|function|bound_rfc2047
 DECL|function|check_commit
 DECL|function|clear_commit_marks
 DECL|function|commit_graft_pos
@@ -29,6 +30,9 @@ DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
 DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
+DECL|function|pp_header
+DECL|function|pp_remainder
+DECL|function|pp_title_line
 DECL|function|prepare_commit_graft
 DECL|function|pretty_print_commit
 DECL|function|read_graft_file
