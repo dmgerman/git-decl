@@ -16,9 +16,7 @@ DECL|member|exclude_per_dir
 DECL|member|excludes
 DECL|member|hide_empty_directories
 DECL|member|ignored
-DECL|member|ignored
 DECL|member|ignored_alloc
-DECL|member|ignored_dir
 DECL|member|ignored_nr
 DECL|member|len
 DECL|member|name
