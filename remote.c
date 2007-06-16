@@ -6,7 +6,9 @@ DECL|function|count_refspec_match
 DECL|function|find_ref_by_name
 DECL|function|handle_config
 DECL|function|link_dst_tail
+DECL|function|make_dst
 DECL|function|make_remote
+DECL|function|match_explicit
 DECL|function|match_explicit_refs
 DECL|function|match_refs
 DECL|function|parse_ref_spec
