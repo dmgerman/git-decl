@@ -1,3 +1,4 @@
+DECL|function|basename_same
 DECL|function|compute_stays
 DECL|function|diffcore_rename
 DECL|function|estimate_similarity
