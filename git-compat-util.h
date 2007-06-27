@@ -3,6 +3,8 @@ DECL|function|prefixcmp
 DECL|function|sane_case
 DECL|function|strtoul_ui
 DECL|function|xcalloc
+DECL|function|xdup
+DECL|function|xfdopen
 DECL|function|xmalloc
 DECL|function|xmmap
 DECL|function|xread
