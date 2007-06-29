@@ -14,6 +14,7 @@ DECL|function|ce_smudge_racily_clean_entry
 DECL|function|ce_write
 DECL|function|ce_write_flush
 DECL|function|check_file_directory_conflict
+DECL|function|compare_name
 DECL|function|discard_index
 DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
@@ -21,6 +22,7 @@ DECL|function|has_file_name
 DECL|function|ie_match_stat
 DECL|function|ie_modified
 DECL|function|index_name_pos
+DECL|function|index_name_pos_also_unmerged
 DECL|function|read_index
 DECL|function|read_index_extension
 DECL|function|read_index_from
