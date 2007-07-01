@@ -6,7 +6,7 @@ DECL|function|main
 DECL|function|prepend_to_path
 DECL|function|run_command
 DECL|function|split_cmdline
-DECL|macro|NOT_BARE
+DECL|macro|NEED_WORK_TREE
 DECL|macro|RUN_SETUP
 DECL|macro|USE_PAGER
 DECL|member|cmd
