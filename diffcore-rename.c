@@ -8,6 +8,7 @@ DECL|function|record_rename_pair
 DECL|function|register_rename_src
 DECL|function|score_compare
 DECL|member|dst
+DECL|member|name_score
 DECL|member|one
 DECL|member|pair
 DECL|member|score
