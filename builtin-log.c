@@ -22,6 +22,7 @@ DECL|variable|cherry_usage
 DECL|variable|default_show_root
 DECL|variable|extra_headers
 DECL|variable|extra_headers_size
+DECL|variable|fmt_patch_subject_prefix
 DECL|variable|fmt_patch_suffix
 DECL|variable|output_directory
 DECL|variable|realstdout
