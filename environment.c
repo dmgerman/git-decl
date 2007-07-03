@@ -26,6 +26,7 @@ DECL|variable|log_all_ref_updates
 DECL|variable|packed_git_limit
 DECL|variable|packed_git_window_size
 DECL|variable|pager_in_use
+DECL|variable|pager_program
 DECL|variable|pager_use_color
 DECL|variable|prefer_symlink_refs
 DECL|variable|quote_path_fully
