@@ -51,3 +51,4 @@ DECL|variable|show_root
 DECL|variable|show_tags
 DECL|variable|show_unreachable
 DECL|variable|verbose
+DECL|variable|write_lost_and_found
