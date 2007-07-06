@@ -26,6 +26,7 @@ DECL|function|diff_free_filepair
 DECL|function|diff_free_filespec_data
 DECL|function|diff_get_color
 DECL|function|diff_get_patch_id
+DECL|function|diff_hunk_header_regexp
 DECL|function|diff_opt_parse
 DECL|function|diff_populate_filespec
 DECL|function|diff_populate_gitlink
@@ -61,6 +62,8 @@ DECL|function|fn_out_consume
 DECL|function|fn_out_diff_words_aux
 DECL|function|free_diff_words_data
 DECL|function|git_diff_ui_config
+DECL|function|hunk_header_config
+DECL|function|hunk_header_regexp
 DECL|function|is_summary_empty
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
@@ -123,11 +126,14 @@ DECL|member|mode
 DECL|member|name
 DECL|member|name
 DECL|member|name
+DECL|member|name
+DECL|member|next
 DECL|member|next
 DECL|member|nparents
 DECL|member|nr
 DECL|member|patchlen
 DECL|member|plus
+DECL|member|regexp
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
@@ -143,6 +149,7 @@ DECL|struct|diff_words_data
 DECL|struct|diffstat_file
 DECL|struct|diffstat_t
 DECL|struct|emit_callback
+DECL|struct|hunk_header_regexp
 DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
 DECL|variable|diff_colors
@@ -151,6 +158,8 @@ DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
+DECL|variable|hunk_header_regexp_list
+DECL|variable|hunk_header_regexp_tail
 DECL|variable|mime_boundary_leader
 DECL|variable|user_diff
 DECL|variable|user_diff_tail
