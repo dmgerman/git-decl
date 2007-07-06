@@ -8,6 +8,7 @@ DECL|function|find_conflict
 DECL|function|garbage_collect
 DECL|function|git_rerere_config
 DECL|function|handle_file
+DECL|function|is_rerere_enabled
 DECL|function|merge
 DECL|function|outf
 DECL|function|read_rr
@@ -22,4 +23,5 @@ DECL|variable|cutoff_noresolve
 DECL|variable|cutoff_resolve
 DECL|variable|git_rerere_usage
 DECL|variable|merge_rr_path
+DECL|variable|rerere_enabled
 DECL|variable|write_lock
