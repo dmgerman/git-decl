@@ -12,6 +12,8 @@ DECL|function|diff_change
 DECL|function|diff_debug_filepair
 DECL|function|diff_debug_filespec
 DECL|function|diff_debug_queue
+DECL|function|diff_filespec_check_attr
+DECL|function|diff_filespec_is_binary
 DECL|function|diff_fill_sha1_info
 DECL|function|diff_flush
 DECL|function|diff_flush_checkdiff
@@ -52,7 +54,6 @@ DECL|function|emit_line_with_ws
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|external_diff_attr
-DECL|function|file_is_binary
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
 DECL|function|flush_one_pair
