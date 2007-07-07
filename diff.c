@@ -24,9 +24,9 @@ DECL|function|diff_flush_raw
 DECL|function|diff_flush_stat
 DECL|function|diff_free_filepair
 DECL|function|diff_free_filespec_data
+DECL|function|diff_funcname_pattern
 DECL|function|diff_get_color
 DECL|function|diff_get_patch_id
-DECL|function|diff_hunk_header_regexp
 DECL|function|diff_opt_parse
 DECL|function|diff_populate_filespec
 DECL|function|diff_populate_gitlink
@@ -61,12 +61,12 @@ DECL|function|flush_one_pair
 DECL|function|fn_out_consume
 DECL|function|fn_out_diff_words_aux
 DECL|function|free_diff_words_data
+DECL|function|funcname_pattern
 DECL|function|git_diff_ui_config
-DECL|function|hunk_header_config
-DECL|function|hunk_header_regexp
 DECL|function|is_summary_empty
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
+DECL|function|parse_funcname_pattern
 DECL|function|parse_lldiff_command
 DECL|function|parse_num
 DECL|function|patch_id_consume
@@ -78,6 +78,7 @@ DECL|function|print_line_count
 DECL|function|print_word
 DECL|function|quote_one
 DECL|function|quote_two
+DECL|function|read_config_if_needed
 DECL|function|remove_space
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
@@ -132,8 +133,8 @@ DECL|member|next
 DECL|member|nparents
 DECL|member|nr
 DECL|member|patchlen
+DECL|member|pattern
 DECL|member|plus
-DECL|member|regexp
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
@@ -149,7 +150,7 @@ DECL|struct|diff_words_data
 DECL|struct|diffstat_file
 DECL|struct|diffstat_t
 DECL|struct|emit_callback
-DECL|struct|hunk_header_regexp
+DECL|struct|funcname_pattern
 DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
 DECL|variable|diff_colors
@@ -158,8 +159,7 @@ DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
-DECL|variable|hunk_header_regexp_list
-DECL|variable|hunk_header_regexp_tail
+DECL|variable|funcname_pattern_list
 DECL|variable|mime_boundary_leader
 DECL|variable|user_diff
 DECL|variable|user_diff_tail

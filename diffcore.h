@@ -19,7 +19,7 @@ DECL|member|broken_pair
 DECL|member|checked_attr
 DECL|member|cnt_data
 DECL|member|data
-DECL|member|hunk_header_ident
+DECL|member|funcname_pattern_ident
 DECL|member|is_binary
 DECL|member|is_unmerged
 DECL|member|mode
