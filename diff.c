@@ -128,11 +128,13 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|name
+DECL|member|name
 DECL|member|next
 DECL|member|next
 DECL|member|nparents
 DECL|member|nr
 DECL|member|patchlen
+DECL|member|pattern
 DECL|member|pattern
 DECL|member|plus
 DECL|member|suppressed_newline
@@ -143,6 +145,7 @@ DECL|member|xm
 DECL|member|xm
 DECL|member|xm
 DECL|member|xm
+DECL|struct|builtin_funcname_pattern
 DECL|struct|checkdiff_t
 DECL|struct|diff_tempfile
 DECL|struct|diff_words_buffer
@@ -153,6 +156,7 @@ DECL|struct|emit_callback
 DECL|struct|funcname_pattern
 DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
+DECL|variable|builtin_funcname_pattern
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
 DECL|variable|diff_queued_diff
