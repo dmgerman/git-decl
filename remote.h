@@ -15,3 +15,4 @@ DECL|member|uri
 DECL|member|uri_nr
 DECL|struct|refspec
 DECL|struct|remote
+DECL|typedef|each_remote_fn

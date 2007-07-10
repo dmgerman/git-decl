@@ -5,6 +5,7 @@ DECL|function|alloc_ref
 DECL|function|check_pattern_match
 DECL|function|count_refspec_match
 DECL|function|find_ref_by_name
+DECL|function|for_each_remote
 DECL|function|free_refs
 DECL|function|handle_config
 DECL|function|make_linked_ref
