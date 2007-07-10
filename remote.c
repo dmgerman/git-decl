@@ -7,8 +7,7 @@ DECL|function|count_refspec_match
 DECL|function|find_ref_by_name
 DECL|function|free_refs
 DECL|function|handle_config
-DECL|function|link_dst_tail
-DECL|function|make_dst
+DECL|function|make_linked_ref
 DECL|function|make_remote
 DECL|function|match_explicit
 DECL|function|match_explicit_refs
@@ -20,6 +19,7 @@ DECL|function|read_remotes_file
 DECL|function|remote_find_tracking
 DECL|function|remote_get
 DECL|function|remote_has_uri
+DECL|function|tail_link_ref
 DECL|function|try_explicit_object_name
 DECL|macro|BUF_SIZE
 DECL|variable|allocated_remotes
