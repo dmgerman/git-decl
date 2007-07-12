@@ -1,12 +1,14 @@
 DECL|function|create_delta
 DECL|function|create_delta_index
 DECL|function|free_delta_index
+DECL|function|sizeof_delta_index
 DECL|macro|HASH_LIMIT
 DECL|macro|MAX_OP_SIZE
 DECL|macro|RABIN_SHIFT
 DECL|macro|RABIN_WINDOW
 DECL|member|hash
 DECL|member|hash_mask
+DECL|member|memsize
 DECL|member|next
 DECL|member|ptr
 DECL|member|src_buf
