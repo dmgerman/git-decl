@@ -18,6 +18,7 @@ DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|find_packed_object
 DECL|function|find_packed_object_name
+DECL|function|free_unpacked
 DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
@@ -122,6 +123,8 @@ DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|tmpname
 DECL|variable|window
+DECL|variable|window_memory_limit
+DECL|variable|window_memory_usage
 DECL|variable|written
 DECL|variable|written_delta
 DECL|variable|written_list
