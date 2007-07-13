@@ -1,3 +1,4 @@
+DECL|enumerator|DATE_ISO8601
 DECL|enumerator|DATE_LOCAL
 DECL|enumerator|DATE_NORMAL
 DECL|enumerator|DATE_RELATIVE
