@@ -21,7 +21,6 @@ DECL|function|match_tz
 DECL|function|my_mktime
 DECL|function|parse_date
 DECL|function|show_date
-DECL|function|show_rfc2822_date
 DECL|function|skip_alpha
 DECL|function|time_to_tm
 DECL|function|update_tm

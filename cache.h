@@ -2,6 +2,7 @@ DECL|enumerator|DATE_ISO8601
 DECL|enumerator|DATE_LOCAL
 DECL|enumerator|DATE_NORMAL
 DECL|enumerator|DATE_RELATIVE
+DECL|enumerator|DATE_RFC2822
 DECL|enumerator|DATE_SHORT
 DECL|enumerator|OBJ_BAD
 DECL|enumerator|OBJ_BLOB
