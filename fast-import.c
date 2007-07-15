@@ -19,12 +19,13 @@ DECL|function|dump_branches
 DECL|function|dump_marks
 DECL|function|dump_marks_helper
 DECL|function|dump_tags
+DECL|function|dup_tree_content
 DECL|function|encode_header
 DECL|function|end_packfile
+DECL|function|file_change_cr
 DECL|function|file_change_d
 DECL|function|file_change_deleteall
 DECL|function|file_change_m
-DECL|function|file_change_r
 DECL|function|find_mark
 DECL|function|find_object
 DECL|function|get_mode
@@ -61,6 +62,7 @@ DECL|function|store_tree
 DECL|function|tecmp0
 DECL|function|tecmp1
 DECL|function|to_atom
+DECL|function|tree_content_get
 DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|unkeep_all_packs
