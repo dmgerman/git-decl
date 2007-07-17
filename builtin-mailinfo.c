@@ -16,6 +16,7 @@ DECL|function|decode_q_segment
 DECL|function|decode_transfer_encoding
 DECL|function|eatspace
 DECL|function|find_boundary
+DECL|function|guess_charset
 DECL|function|handle_body
 DECL|function|handle_boundary
 DECL|function|handle_commit_msg
