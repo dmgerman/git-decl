@@ -17,6 +17,7 @@ DECL|function|unpack_trees
 DECL|function|unpack_trees_rec
 DECL|function|verify_absent
 DECL|function|verify_clean_subdirectory
+DECL|function|verify_clean_submodule
 DECL|function|verify_uptodate
 DECL|macro|DBRT_DEBUG
 DECL|member|directory
