@@ -46,11 +46,11 @@ DECL|function|prepare_alt_odb
 DECL|function|prepare_packed_git
 DECL|function|prepare_packed_git_one
 DECL|function|pretend_sha1_file
+DECL|function|read_fd
 DECL|function|read_info_alternates
 DECL|function|read_object_with_reference
 DECL|function|read_pack_header
 DECL|function|read_packed_sha1
-DECL|function|read_pipe
 DECL|function|read_sha1_file
 DECL|function|rearrange_packed_git
 DECL|function|release_delta_base_cache
