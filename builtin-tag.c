@@ -2,7 +2,7 @@ DECL|function|cmd_tag
 DECL|function|create_tag
 DECL|function|delete_tag
 DECL|function|do_sign
-DECL|function|do_tag_names
+DECL|function|for_each_tag_name
 DECL|function|git_tag_config
 DECL|function|launch_editor
 DECL|function|list_tags
@@ -13,7 +13,7 @@ DECL|macro|PGP_SIGNATURE
 DECL|member|lines
 DECL|member|pattern
 DECL|struct|tag_filter
-DECL|typedef|func_tag
+DECL|typedef|each_tag_name_fn
 DECL|variable|builtin_tag_usage
 DECL|variable|signingkey
 DECL|variable|tag_template
