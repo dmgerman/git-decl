@@ -20,12 +20,9 @@ DECL|function|verify_clean_subdirectory
 DECL|function|verify_clean_submodule
 DECL|function|verify_uptodate
 DECL|macro|DBRT_DEBUG
-DECL|member|directory
-DECL|member|executable
 DECL|member|mode
 DECL|member|name
 DECL|member|next
 DECL|member|sha1
-DECL|member|symlink
 DECL|struct|tree_entry_list
 DECL|variable|state
