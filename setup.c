@@ -2,16 +2,15 @@ DECL|function|check_repository_format
 DECL|function|check_repository_format_version
 DECL|function|get_pathspec
 DECL|function|git_config_perm
-DECL|function|git_setup_config
 DECL|function|is_git_directory
 DECL|function|is_inside_git_dir
 DECL|function|is_inside_work_tree
 DECL|function|prefix_filename
 DECL|function|prefix_path
+DECL|function|set_work_tree
 DECL|function|setup_git_directory
 DECL|function|setup_git_directory_gently
 DECL|function|verify_filename
 DECL|function|verify_non_filename
-DECL|variable|gitworktree_config
 DECL|variable|inside_git_dir
 DECL|variable|inside_work_tree

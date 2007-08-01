@@ -1,4 +1,5 @@
 DECL|function|get_git_dir
+DECL|function|get_git_work_tree
 DECL|function|get_graft_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
@@ -21,6 +22,7 @@ DECL|variable|git_index_file
 DECL|variable|git_log_output_encoding
 DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
+DECL|variable|git_work_tree_cfg
 DECL|variable|has_symlinks
 DECL|variable|is_bare_repository_cfg
 DECL|variable|log_all_ref_updates
@@ -35,4 +37,5 @@ DECL|variable|repository_format_version
 DECL|variable|shared_repository
 DECL|variable|trust_executable_bit
 DECL|variable|warn_ambiguous_refs
+DECL|variable|work_tree
 DECL|variable|zlib_compression_level
