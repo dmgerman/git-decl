@@ -56,6 +56,7 @@ DECL|function|release_tree_content
 DECL|function|release_tree_content_recursive
 DECL|function|release_tree_entry
 DECL|function|size_dbuf
+DECL|function|skip_optional_lf
 DECL|function|start_packfile
 DECL|function|store_object
 DECL|function|store_tree
