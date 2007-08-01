@@ -185,4 +185,5 @@ DECL|variable|pack_id
 DECL|variable|pack_size
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
+DECL|variable|unread_command_buf
 DECL|variable|whenspec
