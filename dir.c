@@ -20,7 +20,9 @@ DECL|function|excluded
 DECL|function|excluded_1
 DECL|function|file_exists
 DECL|function|free_simplify
+DECL|function|get_relative_cwd
 DECL|function|in_pathspec
+DECL|function|is_inside_dir
 DECL|function|match_one
 DECL|function|match_pathspec
 DECL|function|pop_exclude_per_directory
