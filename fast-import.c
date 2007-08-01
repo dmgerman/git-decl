@@ -12,6 +12,7 @@ DECL|function|cmd_merge
 DECL|function|cmd_new_blob
 DECL|function|cmd_new_commit
 DECL|function|cmd_new_tag
+DECL|function|cmd_progress
 DECL|function|cmd_reset_branch
 DECL|function|create_index
 DECL|function|cycle_packfile
