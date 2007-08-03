@@ -44,6 +44,7 @@ DECL|function|diff_unmodified_pair
 DECL|function|diff_words_append
 DECL|function|diff_words_show
 DECL|function|diffcore_apply_filter
+DECL|function|diffcore_skip_stat_unmatch
 DECL|function|diffcore_std
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
