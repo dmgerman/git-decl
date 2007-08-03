@@ -16,6 +16,7 @@ DECL|function|cmd_progress
 DECL|function|cmd_reset_branch
 DECL|function|create_index
 DECL|function|cycle_packfile
+DECL|function|die_nicely
 DECL|function|dump_branches
 DECL|function|dump_marks
 DECL|function|dump_marks_helper
@@ -71,6 +72,8 @@ DECL|function|unkeep_all_packs
 DECL|function|unload_one_branch
 DECL|function|update_branch
 DECL|function|validate_raw_date
+DECL|function|write_branch_report
+DECL|function|write_crash_report
 DECL|macro|MAX_PACK_ID
 DECL|macro|PACK_ID_BITS
 DECL|member|active
