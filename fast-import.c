@@ -79,6 +79,7 @@ DECL|macro|PACK_ID_BITS
 DECL|member|active
 DECL|member|active_next_branch
 DECL|member|branch_tree
+DECL|member|buf
 DECL|member|buffer
 DECL|member|capacity
 DECL|member|data
@@ -101,6 +102,7 @@ DECL|member|name
 DECL|member|name
 DECL|member|next
 DECL|member|next
+DECL|member|next
 DECL|member|next_atom
 DECL|member|next_avail
 DECL|member|next_free
@@ -114,6 +116,7 @@ DECL|member|offset
 DECL|member|pack_id
 DECL|member|pack_id
 DECL|member|pack_id
+DECL|member|prev
 DECL|member|sets
 DECL|member|sha1
 DECL|member|sha1
@@ -138,6 +141,7 @@ DECL|struct|mark_set
 DECL|struct|mem_pool
 DECL|struct|object_entry
 DECL|struct|object_entry_pool
+DECL|struct|recent_command
 DECL|struct|tag
 DECL|struct|tree_content
 DECL|struct|tree_entry
@@ -157,6 +161,9 @@ DECL|variable|branch_count
 DECL|variable|branch_load_count
 DECL|variable|branch_table
 DECL|variable|branch_table_sz
+DECL|variable|cmd_hist
+DECL|variable|cmd_save
+DECL|variable|cmd_tail
 DECL|variable|command_buf
 DECL|variable|cur_active_branches
 DECL|variable|delta_count_by_type
@@ -187,6 +194,7 @@ DECL|variable|pack_data
 DECL|variable|pack_edges
 DECL|variable|pack_id
 DECL|variable|pack_size
+DECL|variable|rc_free
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
 DECL|variable|unread_command_buf
