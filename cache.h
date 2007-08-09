@@ -27,6 +27,7 @@ DECL|function|hashcpy
 DECL|function|hexval
 DECL|function|is_absolute_path
 DECL|function|is_null_sha1
+DECL|macro|ADD_CACHE_JUST_APPEND
 DECL|macro|ADD_CACHE_OK_TO_ADD
 DECL|macro|ADD_CACHE_OK_TO_REPLACE
 DECL|macro|ADD_CACHE_SKIP_DFCHECK

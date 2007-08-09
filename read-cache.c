@@ -1,5 +1,6 @@
 DECL|function|add_file_to_index
 DECL|function|add_index_entry
+DECL|function|add_index_entry_with_check
 DECL|function|base_name_compare
 DECL|function|cache_name_compare
 DECL|function|ce_compare_data
