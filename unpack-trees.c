@@ -8,6 +8,7 @@ DECL|function|keep_entry
 DECL|function|merged_entry
 DECL|function|oneway_merge
 DECL|function|reject_merge
+DECL|function|remove_entry
 DECL|function|same
 DECL|function|show_stage_entry
 DECL|function|threeway_merge
