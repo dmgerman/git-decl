@@ -16,6 +16,7 @@ DECL|function|get_unmerged
 DECL|function|git_merge_trees
 DECL|function|git_path_check_merge
 DECL|function|git_write_tree
+DECL|function|init_tree_desc_from_tree
 DECL|function|initialize_ll_merge
 DECL|function|insert_stage_data
 DECL|function|ll_binary_merge
