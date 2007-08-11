@@ -2,6 +2,7 @@ DECL|function|cmd_add
 DECL|function|fill_directory
 DECL|function|git_add_config
 DECL|function|prune_directory
+DECL|function|refresh
 DECL|function|update
 DECL|function|update_callback
 DECL|variable|builtin_add_usage
