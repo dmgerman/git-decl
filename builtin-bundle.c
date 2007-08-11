@@ -4,7 +4,6 @@ DECL|function|create_bundle
 DECL|function|list_heads
 DECL|function|list_refs
 DECL|function|read_header
-DECL|function|read_string
 DECL|function|unbundle
 DECL|function|verify_bundle
 DECL|macro|PREREQ_MARK
