@@ -6,6 +6,7 @@ DECL|function|xcalloc
 DECL|function|xdup
 DECL|function|xfdopen
 DECL|function|xmalloc
+DECL|function|xmkstemp
 DECL|function|xmmap
 DECL|function|xread
 DECL|function|xrealloc
