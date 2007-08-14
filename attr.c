@@ -6,6 +6,7 @@ DECL|function|fill_one
 DECL|function|free_attr_elem
 DECL|function|git_attr
 DECL|function|git_checkattr
+DECL|function|handle_attr_line
 DECL|function|hash_name
 DECL|function|invalid_attr_name
 DECL|function|macroexpand
@@ -13,6 +14,7 @@ DECL|function|parse_attr
 DECL|function|parse_attr_line
 DECL|function|path_matches
 DECL|function|prepare_attr_stack
+DECL|function|read_attr
 DECL|function|read_attr_from_array
 DECL|function|read_attr_from_file
 DECL|macro|ATTR__FALSE
@@ -26,6 +28,7 @@ DECL|macro|debug_pop
 DECL|macro|debug_push
 DECL|macro|debug_push
 DECL|macro|debug_set
+DECL|member|alloc
 DECL|member|attr
 DECL|member|attr
 DECL|member|attr_nr
