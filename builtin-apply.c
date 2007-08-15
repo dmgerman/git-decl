@@ -61,6 +61,7 @@ DECL|function|parse_whitespace_option
 DECL|function|patch_stats
 DECL|function|prefix_one
 DECL|function|prefix_patches
+DECL|function|read_file_or_gitlink
 DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|remove_file
@@ -79,6 +80,7 @@ DECL|function|stop_at_slash
 DECL|function|summary_patch_list
 DECL|function|try_create_file
 DECL|function|use_patch
+DECL|function|verify_index_match
 DECL|function|write_out_one_reject
 DECL|function|write_out_one_result
 DECL|function|write_out_results
