@@ -3,9 +3,10 @@ DECL|function|get_rev_name
 DECL|function|name_ref
 DECL|function|name_rev
 DECL|macro|CUTOFF_DATE_SLOP
+DECL|macro|MERGE_TRAVERSAL_WEIGHT
 DECL|macro|ishex
+DECL|member|distance
 DECL|member|generation
-DECL|member|merge_traversals
 DECL|member|name_only
 DECL|member|ref_filter
 DECL|member|tags_only
