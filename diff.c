@@ -158,6 +158,7 @@ DECL|struct|funcname_pattern
 DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
 DECL|variable|builtin_funcname_pattern
+DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
 DECL|variable|diff_queued_diff
