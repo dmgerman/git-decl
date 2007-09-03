@@ -42,6 +42,7 @@ DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
 DECL|macro|connect
 DECL|macro|execvp
+DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|gethostbyname
 DECL|macro|has_dos_drive_prefix
@@ -55,6 +56,7 @@ DECL|macro|sigemptyset
 DECL|macro|signal
 DECL|macro|socket
 DECL|macro|st_blocks
+DECL|macro|stat
 DECL|macro|unlink
 DECL|member|events
 DECL|member|fd

@@ -1,6 +1,8 @@
 DECL|function|copy_environ
+DECL|function|do_lstat
 DECL|function|env_compare
 DECL|function|env_setenv
+DECL|function|filetime_to_time_t
 DECL|function|free_environ
 DECL|function|free_path_split
 DECL|function|get_path_split
@@ -14,8 +16,10 @@ DECL|function|lookup_prog
 DECL|function|mingw_connect
 DECL|function|mingw_execve
 DECL|function|mingw_execvp
+DECL|function|mingw_fstat
 DECL|function|mingw_getcwd
 DECL|function|mingw_gethostbyname
+DECL|function|mingw_lstat
 DECL|function|mingw_open
 DECL|function|mingw_rename
 DECL|function|mingw_signal
@@ -36,6 +40,7 @@ DECL|function|stop_timer_thread
 DECL|function|ticktack
 DECL|function|try_shell_exec
 DECL|macro|connect
+DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|gethostbyname
 DECL|macro|open
