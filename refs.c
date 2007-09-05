@@ -41,6 +41,7 @@ DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref
 DECL|function|sort_ref_list
 DECL|function|unlock_ref
+DECL|function|update_ref
 DECL|function|verify_lock
 DECL|function|write_ref_sha1
 DECL|macro|MAXDEPTH

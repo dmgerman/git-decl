@@ -1,3 +1,7 @@
+DECL|enumerator|DIE_ON_ERR
+DECL|enumerator|MSG_ON_ERR
+DECL|enumerator|QUIET_ON_ERR
+DECL|enum|action_on_err
 DECL|macro|REFS_H
 DECL|macro|REF_ISPACKED
 DECL|macro|REF_ISSYMREF
