@@ -103,7 +103,6 @@ DECL|function|similarity_index
 DECL|function|spawn_prog
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FAST_WORKING_DIRECTORY
-DECL|macro|INCREMENT
 DECL|member|added
 DECL|member|alloc
 DECL|member|alloc

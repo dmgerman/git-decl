@@ -1,7 +1,5 @@
-DECL|function|add_buffer
 DECL|function|check_valid
 DECL|function|cmd_commit_tree
-DECL|function|init_buffer
 DECL|function|new_parent
 DECL|macro|BLOCKING
 DECL|macro|MAXPARENT
