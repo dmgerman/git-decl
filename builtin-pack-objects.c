@@ -124,7 +124,6 @@ DECL|variable|reused_delta
 DECL|variable|tmpname
 DECL|variable|window
 DECL|variable|window_memory_limit
-DECL|variable|window_memory_usage
 DECL|variable|written
 DECL|variable|written_delta
 DECL|variable|written_list
