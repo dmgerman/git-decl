@@ -1,7 +1,6 @@
 DECL|function|get_path_prefix
 DECL|function|git_tar_config
 DECL|function|strbuf_append_ext_header
-DECL|function|strbuf_append_string
 DECL|function|ustar_header_chksum
 DECL|function|write_blocked
 DECL|function|write_entry
