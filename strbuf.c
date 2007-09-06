@@ -1,5 +1,10 @@
 DECL|function|read_line
 DECL|function|strbuf_add
-DECL|function|strbuf_begin
-DECL|function|strbuf_end
+DECL|function|strbuf_addf
+DECL|function|strbuf_detach
+DECL|function|strbuf_fread
+DECL|function|strbuf_grow
 DECL|function|strbuf_init
+DECL|function|strbuf_read
+DECL|function|strbuf_release
+DECL|function|strbuf_reset
