@@ -1,7 +1,7 @@
 DECL|function|cmd_archive
 DECL|function|convert_to_archive
 DECL|function|extract_remote_arg
-DECL|function|format_specfile
+DECL|function|format_subst
 DECL|function|init_archiver
 DECL|function|parse_archive_args
 DECL|function|parse_pathspec_arg
