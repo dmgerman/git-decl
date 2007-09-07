@@ -58,6 +58,7 @@ DECL|macro|socket
 DECL|macro|st_blocks
 DECL|macro|stat
 DECL|macro|unlink
+DECL|macro|utime
 DECL|member|events
 DECL|member|fd
 DECL|member|it_interval

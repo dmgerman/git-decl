@@ -26,6 +26,7 @@ DECL|function|mingw_signal
 DECL|function|mingw_socket
 DECL|function|mingw_spawnve
 DECL|function|mingw_spawnvpe
+DECL|function|mingw_utime
 DECL|function|mkstemp
 DECL|function|parse_interpreter
 DECL|function|path_lookup
@@ -38,6 +39,7 @@ DECL|function|sleep
 DECL|function|start_timer_thread
 DECL|function|stop_timer_thread
 DECL|function|ticktack
+DECL|function|time_t_to_filetime
 DECL|function|try_shell_exec
 DECL|macro|connect
 DECL|macro|fstat
