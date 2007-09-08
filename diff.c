@@ -14,6 +14,7 @@ DECL|function|diff_debug_filespec
 DECL|function|diff_debug_queue
 DECL|function|diff_filespec_check_attr
 DECL|function|diff_filespec_is_binary
+DECL|function|diff_filespec_is_identical
 DECL|function|diff_fill_sha1_info
 DECL|function|diff_flush
 DECL|function|diff_flush_checkdiff
