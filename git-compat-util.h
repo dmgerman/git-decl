@@ -56,6 +56,7 @@ DECL|macro|isdigit
 DECL|macro|isdigit
 DECL|macro|isspace
 DECL|macro|isspace
+DECL|macro|memmem
 DECL|macro|mmap
 DECL|macro|munmap
 DECL|macro|pread

@@ -1,5 +1,4 @@
 DECL|function|apply_filter
-DECL|function|convert_sha1_file
 DECL|function|convert_to_git
 DECL|function|convert_to_working_tree
 DECL|function|count_ident
