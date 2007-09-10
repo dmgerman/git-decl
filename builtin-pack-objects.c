@@ -50,7 +50,6 @@ DECL|function|type_size_sort
 DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
-DECL|macro|NR_THREADS
 DECL|macro|ll_find_deltas
 DECL|macro|progress_lock
 DECL|macro|progress_lock
@@ -111,6 +110,7 @@ DECL|variable|data_ready
 DECL|variable|data_request
 DECL|variable|data_requester
 DECL|variable|delta_cache_size
+DECL|variable|delta_search_threads
 DECL|variable|depth
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
