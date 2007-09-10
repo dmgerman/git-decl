@@ -8,7 +8,6 @@ DECL|function|launch_editor
 DECL|function|list_tags
 DECL|function|show_reference
 DECL|function|verify_tag
-DECL|macro|MAX_SIGNATURE_LENGTH
 DECL|macro|PGP_SIGNATURE
 DECL|member|lines
 DECL|member|pattern
