@@ -5,6 +5,8 @@ DECL|function|strbuf_detach
 DECL|function|strbuf_fread
 DECL|function|strbuf_grow
 DECL|function|strbuf_init
+DECL|function|strbuf_insert
 DECL|function|strbuf_read
 DECL|function|strbuf_release
 DECL|function|strbuf_reset
+DECL|function|strbuf_rtrim
