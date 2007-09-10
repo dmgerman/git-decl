@@ -50,6 +50,10 @@ DECL|function|type_size_sort
 DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
+DECL|macro|cache_lock
+DECL|macro|cache_lock
+DECL|macro|cache_unlock
+DECL|macro|cache_unlock
 DECL|macro|ll_find_deltas
 DECL|macro|progress_lock
 DECL|macro|progress_lock
@@ -105,6 +109,7 @@ DECL|struct|unpacked
 DECL|variable|allow_ofs_delta
 DECL|variable|base_name
 DECL|variable|cache_max_small_delta_size
+DECL|variable|cache_mutex
 DECL|variable|data_provider
 DECL|variable|data_ready
 DECL|variable|data_request
