@@ -13,6 +13,7 @@ DECL|macro|BLOCKSIZE
 DECL|macro|RECORDSIZE
 DECL|variable|archive_time
 DECL|variable|block
+DECL|variable|commit
 DECL|variable|offset
 DECL|variable|tar_umask
 DECL|variable|verbose
