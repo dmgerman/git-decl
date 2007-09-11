@@ -24,6 +24,7 @@ DECL|function|ie_match_stat
 DECL|function|ie_modified
 DECL|function|index_name_pos
 DECL|function|index_name_pos_also_unmerged
+DECL|function|make_cache_entry
 DECL|function|read_index
 DECL|function|read_index_extension
 DECL|function|read_index_from
