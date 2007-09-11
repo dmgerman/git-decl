@@ -11,6 +11,7 @@ DECL|member|push_refspec
 DECL|member|push_refspec_nr
 DECL|member|receivepack
 DECL|member|src
+DECL|member|uploadpack
 DECL|member|uri
 DECL|member|uri_nr
 DECL|struct|refspec
