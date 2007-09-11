@@ -7,10 +7,16 @@ DECL|function|branch_get
 DECL|function|branch_has_merge_config
 DECL|function|branch_merges
 DECL|function|check_pattern_match
+DECL|function|copy_ref
 DECL|function|count_refspec_match
 DECL|function|find_ref_by_name
+DECL|function|find_ref_by_name_abbrev
 DECL|function|for_each_remote
 DECL|function|free_refs
+DECL|function|get_expanded_map
+DECL|function|get_fetch_map
+DECL|function|get_local_ref
+DECL|function|get_remote_ref
 DECL|function|handle_config
 DECL|function|make_branch
 DECL|function|make_linked_ref

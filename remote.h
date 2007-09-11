@@ -3,6 +3,7 @@ DECL|member|dst
 DECL|member|fetch
 DECL|member|fetch_refspec
 DECL|member|fetch_refspec_nr
+DECL|member|fetch_tags
 DECL|member|force
 DECL|member|merge
 DECL|member|merge_name
