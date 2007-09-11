@@ -1,3 +1,5 @@
+DECL|function|cmd_fetch_pack
+DECL|function|do_fetch_pack
 DECL|function|everything_local
 DECL|function|fetch_pack
 DECL|function|fetch_pack_config
@@ -5,13 +7,13 @@ DECL|function|filter_refs
 DECL|function|find_common
 DECL|function|get_pack
 DECL|function|get_rev
-DECL|function|main
 DECL|function|mark_common
 DECL|function|mark_complete
 DECL|function|mark_recent_complete_commits
 DECL|function|remove_duplicates
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
+DECL|function|setup_fetch_pack
 DECL|function|setup_sideband
 DECL|macro|COMMON
 DECL|macro|COMMON_REF
