@@ -1,0 +1,16 @@
+DECL|function|curl_transport_push
+DECL|function|git_transport_push
+DECL|function|is_file
+DECL|function|is_local
+DECL|function|set_git_option
+DECL|function|transport_disconnect
+DECL|function|transport_get
+DECL|function|transport_push
+DECL|function|transport_set_option
+DECL|member|receivepack
+DECL|member|thin
+DECL|struct|git_transport_data
+DECL|variable|bundle_transport
+DECL|variable|curl_transport
+DECL|variable|git_transport
+DECL|variable|rsync_transport
