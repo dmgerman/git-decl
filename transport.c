@@ -1,7 +1,10 @@
+DECL|function|close_bundle
 DECL|function|curl_transport_push
 DECL|function|disconnect_walker
 DECL|function|fetch_objs_via_walker
+DECL|function|fetch_refs_from_bundle
 DECL|function|fetch_refs_via_pack
+DECL|function|get_refs_from_bundle
 DECL|function|get_refs_via_connect
 DECL|function|get_refs_via_curl
 DECL|function|get_refs_via_curl
@@ -19,11 +22,14 @@ DECL|function|transport_set_option
 DECL|macro|PACK_HEADS_CHUNK_COUNT
 DECL|macro|missing_target
 DECL|member|depth
+DECL|member|fd
+DECL|member|header
 DECL|member|keep
 DECL|member|receivepack
 DECL|member|thin
 DECL|member|unpacklimit
 DECL|member|uploadpack
+DECL|struct|bundle_transport_data
 DECL|struct|git_transport_data
 DECL|variable|bundle_transport
 DECL|variable|curl_transport
