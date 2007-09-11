@@ -11,7 +11,7 @@ DECL|function|fetch_indices
 DECL|function|fetch_object
 DECL|function|fetch_pack
 DECL|function|fetch_ref
-DECL|function|fill_active_slots
+DECL|function|fill_active_slot
 DECL|function|finish_object_request
 DECL|function|fwrite_sha1_file
 DECL|function|hex

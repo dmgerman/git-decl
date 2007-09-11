@@ -21,7 +21,7 @@ DECL|function|fetch_index
 DECL|function|fetch_indices
 DECL|function|fetch_ref
 DECL|function|fetch_symref
-DECL|function|fill_active_slots
+DECL|function|fill_active_slot
 DECL|function|finish_request
 DECL|function|fwrite_sha1_file
 DECL|function|get_dav_remote_heads

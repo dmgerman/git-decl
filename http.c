@@ -1,4 +1,5 @@
 DECL|function|closedown_active_slot
+DECL|function|fill_active_slots
 DECL|function|finish_active_slot
 DECL|function|finish_all_active_slots
 DECL|function|fread_buffer
