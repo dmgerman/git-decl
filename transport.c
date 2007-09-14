@@ -19,7 +19,6 @@ DECL|function|transport_get
 DECL|function|transport_get_remote_refs
 DECL|function|transport_push
 DECL|function|transport_set_option
-DECL|macro|PACK_HEADS_CHUNK_COUNT
 DECL|macro|missing_target
 DECL|member|depth
 DECL|member|fd
