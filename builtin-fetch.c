@@ -8,6 +8,8 @@ DECL|function|get_ref_map
 DECL|function|s_update_ref
 DECL|function|show_new
 DECL|function|store_updated_refs
+DECL|function|unlock_pack
+DECL|function|unlock_pack_on_signal
 DECL|function|update_local_ref
 DECL|variable|append
 DECL|variable|default_rla
@@ -16,5 +18,6 @@ DECL|variable|force
 DECL|variable|no_tags
 DECL|variable|quiet
 DECL|variable|tags
+DECL|variable|transport
 DECL|variable|update_head_ok
 DECL|variable|verbose
