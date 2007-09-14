@@ -10,8 +10,7 @@ DECL|macro|TRANS_OPT_UPLOADPACK
 DECL|member|data
 DECL|member|disconnect
 DECL|member|fetch
-DECL|member|fetch_objs
-DECL|member|fetch_refs
+DECL|member|fetch
 DECL|member|get_refs_list
 DECL|member|ops
 DECL|member|push
