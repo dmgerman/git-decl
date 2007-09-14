@@ -13,6 +13,7 @@ DECL|member|fetch
 DECL|member|fetch
 DECL|member|get_refs_list
 DECL|member|ops
+DECL|member|pack_lockfile
 DECL|member|push
 DECL|member|remote
 DECL|member|remote_refs
