@@ -1,7 +1,6 @@
 DECL|function|add_existing
 DECL|function|cmd_fetch
 DECL|function|do_fetch
-DECL|function|fetch_config
 DECL|function|fetch_refs
 DECL|function|find_merge_config
 DECL|function|find_non_local_tags
@@ -17,6 +16,5 @@ DECL|variable|force
 DECL|variable|no_tags
 DECL|variable|quiet
 DECL|variable|tags
-DECL|variable|unpacklimit
 DECL|variable|update_head_ok
 DECL|variable|verbose
