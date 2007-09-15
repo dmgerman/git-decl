@@ -6,6 +6,7 @@ DECL|macro|HASH_LIMIT
 DECL|macro|MAX_OP_SIZE
 DECL|macro|RABIN_SHIFT
 DECL|macro|RABIN_WINDOW
+DECL|member|entry
 DECL|member|hash
 DECL|member|hash_mask
 DECL|member|memsize
@@ -16,5 +17,6 @@ DECL|member|src_size
 DECL|member|val
 DECL|struct|delta_index
 DECL|struct|index_entry
+DECL|struct|unpacked_index_entry
 DECL|variable|T
 DECL|variable|U
