@@ -1,6 +1,7 @@
 DECL|function|read_line
 DECL|function|strbuf_add
 DECL|function|strbuf_addf
+DECL|function|strbuf_attach
 DECL|function|strbuf_detach
 DECL|function|strbuf_fread
 DECL|function|strbuf_grow
@@ -10,3 +11,4 @@ DECL|function|strbuf_read
 DECL|function|strbuf_release
 DECL|function|strbuf_reset
 DECL|function|strbuf_rtrim
+DECL|function|strbuf_splice
