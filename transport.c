@@ -1,6 +1,8 @@
 DECL|function|close_bundle
 DECL|function|curl_transport_push
 DECL|function|disconnect_walker
+DECL|function|fetch_objs_via_curl
+DECL|function|fetch_objs_via_curl
 DECL|function|fetch_objs_via_walker
 DECL|function|fetch_refs_from_bundle
 DECL|function|fetch_refs_via_pack

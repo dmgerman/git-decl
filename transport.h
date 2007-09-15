@@ -10,7 +10,6 @@ DECL|macro|TRANS_OPT_UPLOADPACK
 DECL|member|data
 DECL|member|disconnect
 DECL|member|fetch
-DECL|member|fetch
 DECL|member|get_refs_list
 DECL|member|ops
 DECL|member|pack_lockfile
