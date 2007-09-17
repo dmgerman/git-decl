@@ -2,6 +2,7 @@ DECL|function|clear_distance
 DECL|function|cmd_rev_list
 DECL|function|count_distance
 DECL|function|count_interesting_parents
+DECL|function|do_find_bisection
 DECL|function|find_bisection
 DECL|function|halfway
 DECL|function|read_revisions_from_stdin
