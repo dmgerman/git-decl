@@ -91,7 +91,6 @@ DECL|member|entry_capacity
 DECL|member|entry_capacity
 DECL|member|entry_count
 DECL|member|last_commit
-DECL|member|len
 DECL|member|marked
 DECL|member|mode
 DECL|member|name
@@ -107,7 +106,7 @@ DECL|member|next_free
 DECL|member|next_pool
 DECL|member|next_pool
 DECL|member|next_tag
-DECL|member|no_free
+DECL|member|no_swap
 DECL|member|offset
 DECL|member|offset
 DECL|member|pack_id
