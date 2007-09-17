@@ -10,7 +10,6 @@ DECL|variable|argv_pack_refs
 DECL|variable|argv_prune
 DECL|variable|argv_reflog
 DECL|variable|argv_repack
-DECL|variable|argv_repack_auto
 DECL|variable|argv_rerere
 DECL|variable|builtin_gc_usage
 DECL|variable|gc_auto_threshold
