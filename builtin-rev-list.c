@@ -1,3 +1,4 @@
+DECL|function|best_bisection
 DECL|function|clear_distance
 DECL|function|cmd_rev_list
 DECL|function|count_distance
