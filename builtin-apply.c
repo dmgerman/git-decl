@@ -22,6 +22,7 @@ DECL|function|create_one_file
 DECL|function|find_header
 DECL|function|find_name
 DECL|function|find_offset
+DECL|function|get_current_sha1
 DECL|function|git_apply_config
 DECL|function|git_header_name
 DECL|function|gitdiff_copydst
