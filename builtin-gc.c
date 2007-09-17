@@ -2,6 +2,7 @@ DECL|function|append_option
 DECL|function|cmd_gc
 DECL|function|gc_config
 DECL|function|need_to_gc
+DECL|function|too_many_loose_objects
 DECL|macro|FAILED_RUN
 DECL|macro|MAX_ADD
 DECL|variable|aggressive_window
