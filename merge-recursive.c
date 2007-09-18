@@ -25,7 +25,6 @@ DECL|function|ll_merge
 DECL|function|ll_union_merge
 DECL|function|ll_xdl_merge
 DECL|function|main
-DECL|function|make_cache_entry
 DECL|function|make_room_for_path
 DECL|function|make_virtual_commit
 DECL|function|merge
