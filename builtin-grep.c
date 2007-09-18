@@ -1,6 +1,7 @@
 DECL|function|cmd_grep
 DECL|function|exec_grep
 DECL|function|external_grep
+DECL|function|flush_grep
 DECL|function|grep_cache
 DECL|function|grep_file
 DECL|function|grep_object
