@@ -5,7 +5,7 @@ DECL|function|add_uri
 DECL|function|alloc_ref
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
-DECL|function|branch_merges
+DECL|function|branch_merge_matches
 DECL|function|check_pattern_match
 DECL|function|copy_ref
 DECL|function|count_refspec_match

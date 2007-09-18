@@ -1,8 +1,8 @@
 DECL|function|add_existing
+DECL|function|add_merge_config
 DECL|function|cmd_fetch
 DECL|function|do_fetch
 DECL|function|fetch_refs
-DECL|function|find_merge_config
 DECL|function|find_non_local_tags
 DECL|function|get_ref_map
 DECL|function|s_update_ref
