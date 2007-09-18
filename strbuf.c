@@ -9,6 +9,7 @@ DECL|function|strbuf_grow
 DECL|function|strbuf_init
 DECL|function|strbuf_insert
 DECL|function|strbuf_read
+DECL|function|strbuf_read_file
 DECL|function|strbuf_release
 DECL|function|strbuf_remove
 DECL|function|strbuf_reset
