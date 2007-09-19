@@ -1,5 +1,6 @@
 DECL|function|close_bundle
 DECL|function|curl_transport_push
+DECL|function|disconnect_git
 DECL|function|disconnect_walker
 DECL|function|fetch_objs_via_curl
 DECL|function|fetch_objs_via_curl
