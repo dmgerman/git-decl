@@ -29,7 +29,6 @@ DECL|member|header
 DECL|member|keep
 DECL|member|receivepack
 DECL|member|thin
-DECL|member|unpacklimit
 DECL|member|uploadpack
 DECL|struct|bundle_transport_data
 DECL|struct|git_transport_data

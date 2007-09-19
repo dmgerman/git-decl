@@ -3,6 +3,7 @@ DECL|function|do_fetch_pack
 DECL|function|everything_local
 DECL|function|fetch_pack
 DECL|function|fetch_pack_config
+DECL|function|fetch_pack_setup
 DECL|function|filter_refs
 DECL|function|find_common
 DECL|function|get_pack
