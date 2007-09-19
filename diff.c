@@ -18,7 +18,6 @@ DECL|function|diff_filespec_is_identical
 DECL|function|diff_fill_sha1_info
 DECL|function|diff_flush
 DECL|function|diff_flush_checkdiff
-DECL|function|diff_flush_name
 DECL|function|diff_flush_patch
 DECL|function|diff_flush_patch_id
 DECL|function|diff_flush_raw
@@ -78,7 +77,6 @@ DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|print_line_count
 DECL|function|print_word
-DECL|function|quote_one
 DECL|function|quote_two
 DECL|function|read_config_if_needed
 DECL|function|remove_space
