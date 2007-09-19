@@ -11,7 +11,6 @@ DECL|member|data
 DECL|member|disconnect
 DECL|member|fetch
 DECL|member|get_refs_list
-DECL|member|ops
 DECL|member|pack_lockfile
 DECL|member|push
 DECL|member|remote
@@ -20,4 +19,3 @@ DECL|member|set_option
 DECL|member|url
 DECL|member|verbose
 DECL|struct|transport
-DECL|struct|transport_ops

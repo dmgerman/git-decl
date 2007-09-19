@@ -33,7 +33,3 @@ DECL|member|unpacklimit
 DECL|member|uploadpack
 DECL|struct|bundle_transport_data
 DECL|struct|git_transport_data
-DECL|variable|bundle_transport
-DECL|variable|curl_transport
-DECL|variable|git_transport
-DECL|variable|rsync_transport
