@@ -1,7 +1,7 @@
 DECL|function|add_fetch_refspec
 DECL|function|add_merge
 DECL|function|add_push_refspec
-DECL|function|add_uri
+DECL|function|add_url
 DECL|function|alloc_ref
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
@@ -31,7 +31,7 @@ DECL|function|read_remotes_file
 DECL|function|ref_matches_abbrev
 DECL|function|remote_find_tracking
 DECL|function|remote_get
-DECL|function|remote_has_uri
+DECL|function|remote_has_url
 DECL|function|tail_link_ref
 DECL|function|try_explicit_object_name
 DECL|macro|BUF_SIZE

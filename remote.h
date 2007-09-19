@@ -20,8 +20,8 @@ DECL|member|remote
 DECL|member|remote_name
 DECL|member|src
 DECL|member|uploadpack
-DECL|member|uri
-DECL|member|uri_nr
+DECL|member|url
+DECL|member|url_nr
 DECL|struct|branch
 DECL|struct|refspec
 DECL|struct|remote
