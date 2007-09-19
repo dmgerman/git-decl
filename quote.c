@@ -15,6 +15,4 @@ DECL|macro|EMIT
 DECL|macro|EMIT
 DECL|macro|EMIT
 DECL|macro|EMIT
-DECL|macro|EMIT
-DECL|macro|EMIT
 DECL|macro|EMITQ
