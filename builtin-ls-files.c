@@ -1,5 +1,6 @@
 DECL|function|cmd_ls_files
 DECL|function|match
+DECL|function|overlay_tree
 DECL|function|prune_cache
 DECL|function|show_ce_entry
 DECL|function|show_dir_entry
@@ -29,3 +30,4 @@ DECL|variable|tag_modified
 DECL|variable|tag_other
 DECL|variable|tag_removed
 DECL|variable|tag_unmerged
+DECL|variable|with_tree
