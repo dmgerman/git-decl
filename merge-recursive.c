@@ -63,7 +63,6 @@ DECL|member|mode
 DECL|member|mode
 DECL|member|name
 DECL|member|next
-DECL|member|next
 DECL|member|pair
 DECL|member|processed
 DECL|member|processed
@@ -72,10 +71,8 @@ DECL|member|sha
 DECL|member|sha
 DECL|member|src_entry
 DECL|member|stages
-DECL|member|str
 DECL|struct|ll_merge_driver
 DECL|struct|merge_file_info
-DECL|struct|output_buffer
 DECL|struct|rename
 DECL|struct|stage_data
 DECL|typedef|ll_merge_fn
@@ -88,7 +85,6 @@ DECL|variable|index_only
 DECL|variable|ll_merge_drv
 DECL|variable|ll_user_merge
 DECL|variable|ll_user_merge_tail
-DECL|variable|output_end
-DECL|variable|output_list
+DECL|variable|obuf
 DECL|variable|subtree_merge
 DECL|variable|verbosity
