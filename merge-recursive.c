@@ -90,5 +90,6 @@ DECL|variable|ll_user_merge
 DECL|variable|ll_user_merge_tail
 DECL|variable|output_end
 DECL|variable|output_list
+DECL|variable|rename_limit
 DECL|variable|subtree_merge
 DECL|variable|verbosity
