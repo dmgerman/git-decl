@@ -12,6 +12,6 @@ DECL|function|strbuf_read
 DECL|function|strbuf_read_file
 DECL|function|strbuf_release
 DECL|function|strbuf_remove
-DECL|function|strbuf_reset
 DECL|function|strbuf_rtrim
 DECL|function|strbuf_splice
+DECL|variable|strbuf_slopbuf

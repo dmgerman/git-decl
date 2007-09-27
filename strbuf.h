@@ -6,6 +6,7 @@ DECL|function|strbuf_setlen
 DECL|function|strbuf_swap
 DECL|macro|STRBUF_H
 DECL|macro|STRBUF_INIT
+DECL|macro|strbuf_reset
 DECL|member|alloc
 DECL|member|buf
 DECL|member|len
