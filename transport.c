@@ -4,6 +4,7 @@ DECL|function|disconnect_git
 DECL|function|disconnect_walker
 DECL|function|fetch_objs_via_curl
 DECL|function|fetch_objs_via_curl
+DECL|function|fetch_objs_via_rsync
 DECL|function|fetch_objs_via_walker
 DECL|function|fetch_refs_from_bundle
 DECL|function|fetch_refs_via_pack
@@ -11,11 +12,16 @@ DECL|function|get_refs_from_bundle
 DECL|function|get_refs_via_connect
 DECL|function|get_refs_via_curl
 DECL|function|get_refs_via_curl
+DECL|function|get_refs_via_rsync
 DECL|function|git_transport_push
+DECL|function|insert_packed_refs
 DECL|function|is_file
 DECL|function|is_local
 DECL|function|missing__target
+DECL|function|read_loose_refs
+DECL|function|rsync_transport_push
 DECL|function|set_git_option
+DECL|function|str_cmp
 DECL|function|transport_disconnect
 DECL|function|transport_fetch_refs
 DECL|function|transport_get
@@ -23,6 +29,8 @@ DECL|function|transport_get_remote_refs
 DECL|function|transport_push
 DECL|function|transport_set_option
 DECL|function|transport_unlock_pack
+DECL|function|write_one_ref
+DECL|function|write_refs_to_temp_dir
 DECL|macro|missing_target
 DECL|member|depth
 DECL|member|fd
