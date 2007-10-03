@@ -24,8 +24,8 @@ DECL|function|diff_flush_patch_id
 DECL|function|diff_flush_raw
 DECL|function|diff_flush_stat
 DECL|function|diff_free_filepair
+DECL|function|diff_free_filespec_blob
 DECL|function|diff_free_filespec_data
-DECL|function|diff_free_filespec_data_large
 DECL|function|diff_funcname_pattern
 DECL|function|diff_get_color
 DECL|function|diff_get_patch_id
