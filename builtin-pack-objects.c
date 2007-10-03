@@ -1,4 +1,5 @@
 DECL|function|add_object_entry
+DECL|function|add_objects_in_unpacked_packs
 DECL|function|add_pbase_object
 DECL|function|add_preferred_base
 DECL|function|add_preferred_base_object
@@ -25,9 +26,11 @@ DECL|function|git_pack_config
 DECL|function|ll_find_deltas
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
+DECL|function|mark_in_pack_object
 DECL|function|name_cmp_len
 DECL|function|name_hash
 DECL|function|no_try_delta
+DECL|function|ofscmp
 DECL|function|open_object_dir_tmp
 DECL|function|pack_offset_sort
 DECL|function|pack_revindex_ix
@@ -50,6 +53,7 @@ DECL|function|type_size_sort
 DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
+DECL|macro|OBJECT_ADDED
 DECL|macro|cache_lock
 DECL|macro|cache_lock
 DECL|macro|cache_unlock
@@ -63,6 +67,8 @@ DECL|macro|read_lock
 DECL|macro|read_lock
 DECL|macro|read_unlock
 DECL|macro|read_unlock
+DECL|member|alloc
+DECL|member|array
 DECL|member|data
 DECL|member|delta
 DECL|member|delta_child
@@ -84,6 +90,9 @@ DECL|member|list_size
 DECL|member|next
 DECL|member|no_try_delta
 DECL|member|nr
+DECL|member|nr
+DECL|member|object
+DECL|member|offset
 DECL|member|offset
 DECL|member|p
 DECL|member|pcache
@@ -99,6 +108,8 @@ DECL|member|tree_data
 DECL|member|tree_size
 DECL|member|type
 DECL|member|window
+DECL|struct|in_pack
+DECL|struct|in_pack_object
 DECL|struct|object_entry
 DECL|struct|pack_revindex
 DECL|struct|pbase_tree
@@ -122,6 +133,7 @@ DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
 DECL|variable|idx_tmp_name
 DECL|variable|incremental
+DECL|variable|keep_unreachable
 DECL|variable|local
 DECL|variable|max_delta_cache_size
 DECL|variable|no_reuse_delta
