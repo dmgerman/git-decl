@@ -57,7 +57,6 @@ DECL|function|read_next_command
 DECL|function|release_tree_content
 DECL|function|release_tree_content_recursive
 DECL|function|release_tree_entry
-DECL|function|size_dbuf
 DECL|function|skip_optional_lf
 DECL|function|start_packfile
 DECL|function|store_object
@@ -80,8 +79,6 @@ DECL|member|active
 DECL|member|active_next_branch
 DECL|member|branch_tree
 DECL|member|buf
-DECL|member|buffer
-DECL|member|capacity
 DECL|member|data
 DECL|member|data
 DECL|member|delta_depth
@@ -94,7 +91,6 @@ DECL|member|entry_capacity
 DECL|member|entry_capacity
 DECL|member|entry_count
 DECL|member|last_commit
-DECL|member|len
 DECL|member|marked
 DECL|member|mode
 DECL|member|name
@@ -110,7 +106,7 @@ DECL|member|next_free
 DECL|member|next_pool
 DECL|member|next_pool
 DECL|member|next_tag
-DECL|member|no_free
+DECL|member|no_swap
 DECL|member|offset
 DECL|member|offset
 DECL|member|pack_id
@@ -134,7 +130,6 @@ DECL|member|versions
 DECL|struct|atom_str
 DECL|struct|avail_tree_content
 DECL|struct|branch
-DECL|struct|dbuf
 DECL|struct|hash_list
 DECL|struct|last_object
 DECL|struct|mark_set

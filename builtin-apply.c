@@ -94,8 +94,6 @@ DECL|macro|TERM_TAB
 DECL|macro|binary_patch_method
 DECL|macro|myswap
 DECL|macro|swap
-DECL|member|alloc
-DECL|member|buffer
 DECL|member|def_name
 DECL|member|deflate_origlen
 DECL|member|fragments
@@ -130,9 +128,7 @@ DECL|member|result
 DECL|member|resultsize
 DECL|member|score
 DECL|member|size
-DECL|member|size
 DECL|member|trailing
-DECL|struct|buffer_desc
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch

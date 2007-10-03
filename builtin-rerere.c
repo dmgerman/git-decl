@@ -1,5 +1,3 @@
-DECL|function|append_line
-DECL|function|clear_buffer
 DECL|function|cmd_rerere
 DECL|function|copy_file
 DECL|function|diff_two
@@ -15,10 +13,6 @@ DECL|function|read_rr
 DECL|function|rr_path
 DECL|function|unlink_rr_item
 DECL|function|write_rr
-DECL|member|alloc
-DECL|member|nr
-DECL|member|ptr
-DECL|struct|buffer
 DECL|variable|cutoff_noresolve
 DECL|variable|cutoff_resolve
 DECL|variable|git_rerere_usage
