@@ -15,6 +15,10 @@ DECL|macro|OPT_END
 DECL|macro|OPT_GROUP
 DECL|macro|OPT_INTEGER
 DECL|macro|OPT_STRING
+DECL|macro|OPT__ABBREV
+DECL|macro|OPT__DRY_RUN
+DECL|macro|OPT__QUIET
+DECL|macro|OPT__VERBOSE
 DECL|macro|PARSE_OPTIONS_H
 DECL|member|argh
 DECL|member|callback
