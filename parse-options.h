@@ -5,6 +5,7 @@ DECL|enumerator|OPTION_GROUP
 DECL|enumerator|OPTION_INTEGER
 DECL|enumerator|OPTION_STRING
 DECL|enumerator|PARSE_OPT_KEEP_DASHDASH
+DECL|enumerator|PARSE_OPT_NOARG
 DECL|enumerator|PARSE_OPT_OPTARG
 DECL|enum|parse_opt_flags
 DECL|enum|parse_opt_option_flags
