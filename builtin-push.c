@@ -2,7 +2,6 @@ DECL|function|add_refspec
 DECL|function|cmd_push
 DECL|function|do_push
 DECL|function|set_refspecs
-DECL|variable|all
 DECL|variable|push_usage
 DECL|variable|receivepack
 DECL|variable|refspec
