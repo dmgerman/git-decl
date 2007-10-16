@@ -11,6 +11,7 @@ DECL|function|apply_fragments
 DECL|function|apply_line
 DECL|function|apply_one_fragment
 DECL|function|apply_patch
+DECL|function|build_fake_ancestor
 DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|check_to_create_blob
@@ -72,7 +73,6 @@ DECL|function|reverse_patches
 DECL|function|say_patch_name
 DECL|function|set_default_whitespace_mode
 DECL|function|show_file_mode_name
-DECL|function|show_index_list
 DECL|function|show_mode_change
 DECL|function|show_rename_copy
 DECL|function|show_stats
@@ -94,8 +94,6 @@ DECL|macro|TERM_TAB
 DECL|macro|binary_patch_method
 DECL|macro|myswap
 DECL|macro|swap
-DECL|member|alloc
-DECL|member|buffer
 DECL|member|def_name
 DECL|member|deflate_origlen
 DECL|member|fragments
@@ -130,9 +128,7 @@ DECL|member|result
 DECL|member|resultsize
 DECL|member|score
 DECL|member|size
-DECL|member|size
 DECL|member|trailing
-DECL|struct|buffer_desc
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
@@ -147,6 +143,7 @@ DECL|variable|check
 DECL|variable|check_index
 DECL|variable|diffstat
 DECL|variable|excludes
+DECL|variable|fake_ancestor
 DECL|variable|line_termination
 DECL|variable|linenr
 DECL|variable|lock_file
@@ -164,7 +161,6 @@ DECL|variable|patch_input_file
 DECL|variable|pluses
 DECL|variable|prefix
 DECL|variable|prefix_length
-DECL|variable|show_index_info
 DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
 DECL|variable|unidiff_zero

@@ -18,12 +18,12 @@ DECL|function|diff_filespec_is_identical
 DECL|function|diff_fill_sha1_info
 DECL|function|diff_flush
 DECL|function|diff_flush_checkdiff
-DECL|function|diff_flush_name
 DECL|function|diff_flush_patch
 DECL|function|diff_flush_patch_id
 DECL|function|diff_flush_raw
 DECL|function|diff_flush_stat
 DECL|function|diff_free_filepair
+DECL|function|diff_free_filespec_blob
 DECL|function|diff_free_filespec_data
 DECL|function|diff_funcname_pattern
 DECL|function|diff_get_color
@@ -78,7 +78,6 @@ DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|print_line_count
 DECL|function|print_word
-DECL|function|quote_one
 DECL|function|quote_two
 DECL|function|read_config_if_needed
 DECL|function|remove_space
@@ -104,7 +103,6 @@ DECL|function|similarity_index
 DECL|function|spawn_prog
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FAST_WORKING_DIRECTORY
-DECL|macro|INCREMENT
 DECL|member|added
 DECL|member|alloc
 DECL|member|alloc
