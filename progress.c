@@ -1,4 +1,5 @@
 DECL|function|clear_progress_signal
+DECL|function|display
 DECL|function|display_progress
 DECL|function|progress_interval
 DECL|function|set_progress_signal
