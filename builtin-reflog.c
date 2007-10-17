@@ -1,6 +1,8 @@
 DECL|function|cmd_reflog
+DECL|function|cmd_reflog_delete
 DECL|function|cmd_reflog_expire
 DECL|function|commit_is_complete
+DECL|function|count_reflog_ent
 DECL|function|expire_reflog
 DECL|function|expire_reflog_ent
 DECL|function|keep_entry
@@ -13,6 +15,7 @@ DECL|member|dry_run
 DECL|member|expire_total
 DECL|member|expire_unreachable
 DECL|member|newlog
+DECL|member|recno
 DECL|member|ref
 DECL|member|ref_commit
 DECL|member|revs
