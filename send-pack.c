@@ -6,6 +6,7 @@ DECL|function|receive_status
 DECL|function|ref_newer
 DECL|function|send_pack
 DECL|function|unmark_and_free
+DECL|function|update_tracking_ref
 DECL|function|verify_remote_names
 DECL|variable|dry_run
 DECL|variable|force_update
