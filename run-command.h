@@ -12,6 +12,7 @@ DECL|macro|RUN_GIT_CMD
 DECL|member|argv
 DECL|member|close_in
 DECL|member|close_out
+DECL|member|data
 DECL|member|dir
 DECL|member|env
 DECL|member|err
@@ -20,6 +21,10 @@ DECL|member|in
 DECL|member|no_stdin
 DECL|member|no_stdout
 DECL|member|out
+DECL|member|out
 DECL|member|pid
+DECL|member|pid
+DECL|member|proc
 DECL|member|stdout_to_stderr
+DECL|struct|async
 DECL|struct|child_process
