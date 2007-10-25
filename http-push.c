@@ -21,7 +21,7 @@ DECL|function|fetch_index
 DECL|function|fetch_indices
 DECL|function|fetch_ref
 DECL|function|fetch_symref
-DECL|function|fill_active_slots
+DECL|function|fill_active_slot
 DECL|function|finish_request
 DECL|function|fwrite_sha1_file
 DECL|function|get_dav_remote_heads
@@ -159,6 +159,7 @@ DECL|struct|transfer_request
 DECL|struct|xml_ctx
 DECL|variable|aborted
 DECL|variable|default_headers
+DECL|variable|dry_run
 DECL|variable|force_all
 DECL|variable|http_push_usage
 DECL|variable|local_refs

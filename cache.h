@@ -142,6 +142,7 @@ DECL|member|index_version
 DECL|member|inuse_cnt
 DECL|member|last_used
 DECL|member|len
+DECL|member|merge
 DECL|member|mmap
 DECL|member|mmap_size
 DECL|member|mtime

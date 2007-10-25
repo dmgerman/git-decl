@@ -30,6 +30,7 @@ DECL|function|pop_exclude_per_directory
 DECL|function|push_exclude_per_directory
 DECL|function|read_directory
 DECL|function|read_directory_recursive
+DECL|function|remove_dir_recursively
 DECL|function|simple_length
 DECL|function|simplify_away
 DECL|function|treat_directory
