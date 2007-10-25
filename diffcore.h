@@ -28,6 +28,7 @@ DECL|member|nr
 DECL|member|one
 DECL|member|path
 DECL|member|queue
+DECL|member|rename_used
 DECL|member|renamed_pair
 DECL|member|score
 DECL|member|sha1
@@ -35,7 +36,6 @@ DECL|member|sha1_valid
 DECL|member|should_free
 DECL|member|should_munmap
 DECL|member|size
-DECL|member|source_stays
 DECL|member|status
 DECL|member|two
 DECL|member|xfrm_flags

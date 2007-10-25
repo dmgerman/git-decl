@@ -1,5 +1,4 @@
 DECL|function|basename_same
-DECL|function|compute_stays
 DECL|function|diffcore_rename
 DECL|function|estimate_similarity
 DECL|function|find_exact_renames
@@ -15,7 +14,6 @@ DECL|member|pair
 DECL|member|score
 DECL|member|score
 DECL|member|src
-DECL|member|src_path_left
 DECL|member|two
 DECL|struct|diff_rename_dst
 DECL|struct|diff_rename_src
