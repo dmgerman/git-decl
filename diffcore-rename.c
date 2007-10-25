@@ -2,6 +2,7 @@ DECL|function|basename_same
 DECL|function|compute_stays
 DECL|function|diffcore_rename
 DECL|function|estimate_similarity
+DECL|function|find_exact_renames
 DECL|function|is_exact_match
 DECL|function|locate_rename_dst
 DECL|function|record_rename_pair
