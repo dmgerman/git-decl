@@ -18,6 +18,7 @@ DECL|member|alloc
 DECL|member|broken_pair
 DECL|member|checked_attr
 DECL|member|cnt_data
+DECL|member|count
 DECL|member|data
 DECL|member|funcname_pattern_ident
 DECL|member|is_binary

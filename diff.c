@@ -63,6 +63,7 @@ DECL|function|flush_one_pair
 DECL|function|fn_out_consume
 DECL|function|fn_out_diff_words_aux
 DECL|function|free_diff_words_data
+DECL|function|free_filespec
 DECL|function|funcname_pattern
 DECL|function|git_diff_ui_config
 DECL|function|is_summary_empty
