@@ -3,7 +3,6 @@ DECL|function|handle_alias
 DECL|function|handle_internal_command
 DECL|function|handle_options
 DECL|function|main
-DECL|function|prepend_to_path
 DECL|function|run_command
 DECL|function|split_cmdline
 DECL|macro|NEED_WORK_TREE
