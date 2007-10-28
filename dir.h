@@ -2,6 +2,9 @@ DECL|macro|DIR_H
 DECL|macro|EXC_CMDL
 DECL|macro|EXC_DIRS
 DECL|macro|EXC_FILE
+DECL|macro|EXC_FLAG_ENDSWITH
+DECL|macro|EXC_FLAG_NODIR
+DECL|macro|EXC_FLAG_NOWILDCARD
 DECL|macro|MATCHED_EXACTLY
 DECL|macro|MATCHED_FNMATCH
 DECL|macro|MATCHED_RECURSIVELY
@@ -14,6 +17,7 @@ DECL|member|entries
 DECL|member|exclude_list
 DECL|member|exclude_per_dir
 DECL|member|excludes
+DECL|member|flags
 DECL|member|hide_empty_directories
 DECL|member|ignored
 DECL|member|ignored_alloc
@@ -24,8 +28,10 @@ DECL|member|no_gitlinks
 DECL|member|nr
 DECL|member|nr
 DECL|member|pattern
+DECL|member|patternlen
 DECL|member|show_ignored
 DECL|member|show_other_directories
+DECL|member|to_exclude
 DECL|struct|dir_entry
 DECL|struct|dir_struct
 DECL|struct|exclude
