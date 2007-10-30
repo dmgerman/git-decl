@@ -8,4 +8,5 @@ DECL|member|fd
 DECL|member|name
 DECL|member|namelen
 DECL|member|offset
+DECL|member|tp
 DECL|struct|sha1file
