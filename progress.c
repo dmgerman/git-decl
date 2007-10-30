@@ -6,4 +6,11 @@ DECL|function|set_progress_signal
 DECL|function|start_progress
 DECL|function|start_progress_delay
 DECL|function|stop_progress
+DECL|member|delay
+DECL|member|delayed_percent_treshold
+DECL|member|last_percent
+DECL|member|last_value
+DECL|member|title
+DECL|member|total
+DECL|struct|progress
 DECL|variable|progress_update
