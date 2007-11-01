@@ -23,6 +23,7 @@ DECL|member|prev_tv
 DECL|member|throughput
 DECL|member|title
 DECL|member|total
+DECL|member|total
 DECL|struct|progress
 DECL|struct|throughput
 DECL|variable|progress_update
