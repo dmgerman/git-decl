@@ -7,6 +7,8 @@ DECL|macro|STATUS_H
 DECL|member|amend
 DECL|member|branch
 DECL|member|commitable
+DECL|member|fp
+DECL|member|index_file
 DECL|member|is_initial
 DECL|member|reference
 DECL|member|untracked
