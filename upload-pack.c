@@ -1,4 +1,5 @@
 DECL|function|create_pack_file
+DECL|function|do_rev_list
 DECL|function|get_common_commits
 DECL|function|got_sha1
 DECL|function|main

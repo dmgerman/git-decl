@@ -19,6 +19,7 @@ DECL|macro|CRLF_GUESS
 DECL|macro|CRLF_INPUT
 DECL|macro|CRLF_TEXT
 DECL|member|clean
+DECL|member|cmd
 DECL|member|cr
 DECL|member|crlf
 DECL|member|lf
@@ -26,8 +27,11 @@ DECL|member|name
 DECL|member|next
 DECL|member|nonprintable
 DECL|member|printable
+DECL|member|size
 DECL|member|smudge
+DECL|member|src
 DECL|struct|convert_driver
+DECL|struct|filter_params
 DECL|struct|text_stat
 DECL|variable|user_convert
 DECL|variable|user_convert_tail

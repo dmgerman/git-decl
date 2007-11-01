@@ -101,7 +101,6 @@ DECL|function|show_rename_copy
 DECL|function|show_shortstats
 DECL|function|show_stats
 DECL|function|similarity_index
-DECL|function|spawn_prog
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|member|added
