@@ -6,8 +6,14 @@ DECL|function|interactive_add
 DECL|function|prune_directory
 DECL|function|refresh
 DECL|function|update_callback
+DECL|variable|add_interactive
+DECL|variable|builtin_add_options
 DECL|variable|builtin_add_usage
 DECL|variable|excludes_file
 DECL|variable|ignore_error
+DECL|variable|ignored_too
 DECL|variable|lock_file
+DECL|variable|refresh_only
+DECL|variable|show_only
 DECL|variable|take_worktree_changes
+DECL|variable|verbose

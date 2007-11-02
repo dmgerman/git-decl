@@ -1,0 +1,17 @@
+DECL|function|get_arg
+DECL|function|get_value
+DECL|function|opterror
+DECL|function|parse_long_opt
+DECL|function|parse_opt_abbrev_cb
+DECL|function|parse_options
+DECL|function|parse_short_opt
+DECL|function|skip_prefix
+DECL|function|usage_with_options
+DECL|macro|OPT_SHORT
+DECL|macro|OPT_UNSET
+DECL|macro|USAGE_GAP
+DECL|macro|USAGE_OPTS_WIDTH
+DECL|member|argc
+DECL|member|argv
+DECL|member|opt
+DECL|struct|optparse_t

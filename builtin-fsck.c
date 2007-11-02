@@ -42,6 +42,7 @@ DECL|variable|check_full
 DECL|variable|check_strict
 DECL|variable|default_refs
 DECL|variable|errors_found
+DECL|variable|fsck_opts
 DECL|variable|fsck_usage
 DECL|variable|head_sha1
 DECL|variable|include_reflogs
