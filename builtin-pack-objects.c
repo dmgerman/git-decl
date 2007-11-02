@@ -31,7 +31,6 @@ DECL|function|name_cmp_len
 DECL|function|name_hash
 DECL|function|no_try_delta
 DECL|function|ofscmp
-DECL|function|open_object_dir_tmp
 DECL|function|pack_offset_sort
 DECL|function|pack_revindex_ix
 DECL|function|pbase_tree_cache_ix
@@ -131,7 +130,6 @@ DECL|variable|depth
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
-DECL|variable|idx_tmp_name
 DECL|variable|incremental
 DECL|variable|keep_unreachable
 DECL|variable|local
@@ -152,7 +150,6 @@ DECL|variable|pack_compression_seen
 DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz
 DECL|variable|pack_size_limit
-DECL|variable|pack_tmp_name
 DECL|variable|pack_to_stdout
 DECL|variable|pack_usage
 DECL|variable|pbase_tree
@@ -163,7 +160,6 @@ DECL|variable|progress_state
 DECL|variable|read_mutex
 DECL|variable|reused
 DECL|variable|reused_delta
-DECL|variable|tmpname
 DECL|variable|window
 DECL|variable|window_memory_limit
 DECL|variable|written
