@@ -9,6 +9,7 @@ DECL|macro|SEEN
 DECL|macro|SHOWN
 DECL|macro|SYMMETRIC_LEFT
 DECL|macro|TMP_MARK
+DECL|macro|TOPOSORT
 DECL|macro|TREECHANGE
 DECL|macro|UNINTERESTING
 DECL|member|abbrev
@@ -69,9 +70,7 @@ DECL|member|simplify_history
 DECL|member|skip_count
 DECL|member|subject_prefix
 DECL|member|tag_objects
-DECL|member|topo_getter
 DECL|member|topo_order
-DECL|member|topo_setter
 DECL|member|total
 DECL|member|tree_objects
 DECL|member|unpacked

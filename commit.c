@@ -40,9 +40,6 @@ DECL|function|register_commit_graft
 DECL|function|replace_encoding_header
 DECL|function|sort_by_date
 DECL|function|sort_in_topological_order
-DECL|function|sort_in_topological_order_fn
-DECL|function|topo_sort_default_getter
-DECL|function|topo_sort_default_setter
 DECL|function|unregister_shallow
 DECL|function|write_shallow_commits
 DECL|macro|PARENT1
@@ -50,12 +47,9 @@ DECL|macro|PARENT2
 DECL|macro|RESULT
 DECL|macro|STALE
 DECL|member|cmp_len
-DECL|member|indegree
-DECL|member|list_item
 DECL|member|n
 DECL|member|v
 DECL|struct|cmt_fmt_map
-DECL|struct|sort_node
 DECL|variable|all_flags
 DECL|variable|cmt_fmts
 DECL|variable|commit_graft
