@@ -38,5 +38,6 @@ DECL|variable|repository_format_version
 DECL|variable|shared_repository
 DECL|variable|trust_executable_bit
 DECL|variable|warn_ambiguous_refs
+DECL|variable|whitespace_rule
 DECL|variable|work_tree
 DECL|variable|zlib_compression_level

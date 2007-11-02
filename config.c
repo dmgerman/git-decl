@@ -23,6 +23,7 @@ DECL|function|git_parse_ulong
 DECL|function|iskeychar
 DECL|function|matches
 DECL|function|parse_value
+DECL|function|parse_whitespace_rule
 DECL|function|section_name_match
 DECL|function|store_aux
 DECL|function|store_write_pair
@@ -35,11 +36,15 @@ DECL|member|do_not_match
 DECL|member|key
 DECL|member|multi_replace
 DECL|member|offset
+DECL|member|rule_bits
+DECL|member|rule_name
 DECL|member|seen
 DECL|member|state
 DECL|member|value_regex
+DECL|struct|whitespace_rule
 DECL|variable|config_file
 DECL|variable|config_file_name
 DECL|variable|config_linenr
 DECL|variable|store
+DECL|variable|whitespace_rule_names
 DECL|variable|zlib_compression_seen
