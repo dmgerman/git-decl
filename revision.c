@@ -49,4 +49,5 @@ DECL|member|all_revs
 DECL|member|name_for_errormsg
 DECL|member|warned_bad_reflog
 DECL|struct|all_refs_cb
+DECL|variable|show_early_output
 DECL|variable|tree_difference

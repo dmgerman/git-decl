@@ -28,6 +28,7 @@ DECL|member|dense
 DECL|member|dense_combined_merges
 DECL|member|diff
 DECL|member|diffopt
+DECL|member|early_output
 DECL|member|edge_hint
 DECL|member|elem
 DECL|member|elem_len
@@ -79,3 +80,5 @@ DECL|member|verbose_header
 DECL|struct|name_path
 DECL|struct|rev_info
 DECL|typedef|prune_fn_t
+DECL|typedef|show_early_output_fn_t
+DECL|variable|show_early_output

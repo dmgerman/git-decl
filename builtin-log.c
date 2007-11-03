@@ -10,12 +10,16 @@ DECL|function|cmd_log_reflog
 DECL|function|cmd_log_walk
 DECL|function|cmd_show
 DECL|function|cmd_whatchanged
+DECL|function|early_output
+DECL|function|finish_early_output
 DECL|function|gen_message_id
 DECL|function|get_patch_ids
 DECL|function|git_format_config
 DECL|function|git_log_config
 DECL|function|istitlechar
+DECL|function|log_show_early
 DECL|function|reopen_stdout
+DECL|function|setup_early_output
 DECL|function|show_object
 DECL|function|show_tree_object
 DECL|macro|FORMAT_PATCH_NAME_MAX
