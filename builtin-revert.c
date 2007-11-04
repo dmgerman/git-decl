@@ -15,6 +15,7 @@ DECL|variable|action
 DECL|variable|cherry_pick_usage
 DECL|variable|commit
 DECL|variable|edit
+DECL|variable|mainline
 DECL|variable|me
 DECL|variable|msg_fd
 DECL|variable|msg_file
