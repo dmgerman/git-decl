@@ -19,11 +19,13 @@ DECL|function|reopen_stdout
 DECL|function|show_object
 DECL|function|show_tree_object
 DECL|macro|FORMAT_PATCH_NAME_MAX
+DECL|variable|auto_number
 DECL|variable|cherry_usage
 DECL|variable|default_show_root
 DECL|variable|extra_headers
 DECL|variable|extra_headers_size
 DECL|variable|fmt_patch_subject_prefix
 DECL|variable|fmt_patch_suffix
+DECL|variable|numbered
 DECL|variable|output_directory
 DECL|variable|realstdout
