@@ -11,6 +11,7 @@ DECL|function|store_updated_refs
 DECL|function|unlock_pack
 DECL|function|unlock_pack_on_signal
 DECL|function|update_local_ref
+DECL|macro|REFCOL_WIDTH
 DECL|macro|SUMMARY_WIDTH
 DECL|variable|append
 DECL|variable|default_rla
