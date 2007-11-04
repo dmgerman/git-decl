@@ -7,11 +7,11 @@ DECL|function|find_non_local_tags
 DECL|function|get_ref_map
 DECL|function|s_update_ref
 DECL|function|set_option
-DECL|function|show_new
 DECL|function|store_updated_refs
 DECL|function|unlock_pack
 DECL|function|unlock_pack_on_signal
 DECL|function|update_local_ref
+DECL|macro|SUMMARY_WIDTH
 DECL|variable|append
 DECL|variable|default_rla
 DECL|variable|fetch_usage
