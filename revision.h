@@ -1,3 +1,7 @@
+DECL|enumerator|commit_error
+DECL|enumerator|commit_ignore
+DECL|enumerator|commit_show
+DECL|enum|commit_action
 DECL|macro|ADDED
 DECL|macro|BOUNDARY
 DECL|macro|CHILD_SHOWN

@@ -11,6 +11,7 @@ DECL|function|cmd_log_walk
 DECL|function|cmd_show
 DECL|function|cmd_whatchanged
 DECL|function|early_output
+DECL|function|estimate_commit_count
 DECL|function|finish_early_output
 DECL|function|gen_message_id
 DECL|function|get_patch_ids
@@ -20,11 +21,13 @@ DECL|function|istitlechar
 DECL|function|log_show_early
 DECL|function|reopen_stdout
 DECL|function|setup_early_output
+DECL|function|show_early_header
 DECL|function|show_object
 DECL|function|show_tree_object
 DECL|macro|FORMAT_PATCH_NAME_MAX
 DECL|variable|cherry_usage
 DECL|variable|default_show_root
+DECL|variable|early_output_timer
 DECL|variable|extra_headers
 DECL|variable|extra_headers_size
 DECL|variable|fmt_patch_subject_prefix
