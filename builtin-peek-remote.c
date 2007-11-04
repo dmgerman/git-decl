@@ -1,2 +1,0 @@
-DECL|function|cmd_peek_remote
-DECL|variable|peek_remote_usage
