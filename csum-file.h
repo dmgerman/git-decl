@@ -3,10 +3,8 @@ DECL|member|buffer
 DECL|member|crc32
 DECL|member|ctx
 DECL|member|do_crc
-DECL|member|error
 DECL|member|fd
 DECL|member|name
-DECL|member|namelen
 DECL|member|offset
 DECL|member|total
 DECL|member|tp
