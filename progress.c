@@ -10,7 +10,6 @@ DECL|function|stop_progress
 DECL|macro|TP_IDX_MAX
 DECL|member|avg_bytes
 DECL|member|avg_misecs
-DECL|member|count
 DECL|member|delay
 DECL|member|delayed_percent_treshold
 DECL|member|display
@@ -19,10 +18,10 @@ DECL|member|last_bytes
 DECL|member|last_misecs
 DECL|member|last_percent
 DECL|member|last_value
+DECL|member|prev_total
 DECL|member|prev_tv
 DECL|member|throughput
 DECL|member|title
-DECL|member|total
 DECL|member|total
 DECL|struct|progress
 DECL|struct|throughput
