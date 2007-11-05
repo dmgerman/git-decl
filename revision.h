@@ -61,8 +61,8 @@ DECL|member|num_ignore_packed
 DECL|member|parents
 DECL|member|pending
 DECL|member|prefix
+DECL|member|prune
 DECL|member|prune_data
-DECL|member|prune_fn
 DECL|member|pruning
 DECL|member|ref_message_id
 DECL|member|reflog_info
@@ -83,6 +83,5 @@ DECL|member|up
 DECL|member|verbose_header
 DECL|struct|name_path
 DECL|struct|rev_info
-DECL|typedef|prune_fn_t
 DECL|typedef|show_early_output_fn_t
 DECL|variable|show_early_output

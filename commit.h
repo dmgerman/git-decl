@@ -9,6 +9,7 @@ DECL|enumerator|CMIT_FMT_SHORT
 DECL|enumerator|CMIT_FMT_UNSPECIFIED
 DECL|enumerator|CMIT_FMT_USERFORMAT
 DECL|enum|cmit_fmt
+DECL|function|single_parent
 DECL|macro|COMMIT_H
 DECL|member|buffer
 DECL|member|date
