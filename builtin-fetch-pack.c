@@ -33,4 +33,3 @@ DECL|variable|rev_list
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|use_sideband
-DECL|variable|use_thin_pack
