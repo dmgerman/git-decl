@@ -7,6 +7,7 @@ DECL|function|set_progress_signal
 DECL|function|start_progress
 DECL|function|start_progress_delay
 DECL|function|stop_progress
+DECL|function|stop_progress_msg
 DECL|function|throughput_string
 DECL|macro|TP_IDX_MAX
 DECL|member|avg_bytes
