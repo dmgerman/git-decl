@@ -14,6 +14,6 @@ DECL|member|lines
 DECL|member|pattern
 DECL|struct|tag_filter
 DECL|typedef|each_tag_name_fn
-DECL|variable|builtin_tag_usage
+DECL|variable|git_tag_usage
 DECL|variable|signingkey
 DECL|variable|tag_template
