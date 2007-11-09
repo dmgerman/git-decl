@@ -1,8 +1,9 @@
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
 DECL|function|add_user_info
-DECL|function|fill_person
+DECL|function|format_commit_item
 DECL|function|format_commit_message
+DECL|function|format_person_part
 DECL|function|get_commit_format
 DECL|function|get_header
 DECL|function|get_one_line
