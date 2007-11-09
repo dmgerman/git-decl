@@ -3,12 +3,14 @@ DECL|function|do_send_pack
 DECL|function|get_local_heads
 DECL|function|one_local_ref
 DECL|function|pack_objects
+DECL|function|prettify_ref
 DECL|function|receive_status
 DECL|function|ref_newer
 DECL|function|send_pack
 DECL|function|unmark_and_free
 DECL|function|update_tracking_ref
 DECL|function|verify_remote_names
+DECL|macro|SUMMARY_WIDTH
 DECL|variable|args
 DECL|variable|local_refs
 DECL|variable|local_tail
