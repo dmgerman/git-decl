@@ -1,3 +1,4 @@
+DECL|function|gitstrchrnul
 DECL|function|has_extension
 DECL|function|prefixcmp
 DECL|function|sane_case
