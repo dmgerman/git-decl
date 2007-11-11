@@ -13,9 +13,5 @@ DECL|function|reset_index_file
 DECL|function|unmerged_files
 DECL|function|update_index_from_diff
 DECL|function|update_index_refresh
-DECL|member|exit_code
-DECL|member|index_fd
-DECL|member|lock
-DECL|struct|update_cb_data
 DECL|variable|builtin_reset_usage
 DECL|variable|reset_type_names
