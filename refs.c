@@ -59,4 +59,5 @@ DECL|struct|cached_refs
 DECL|struct|ref_list
 DECL|variable|cached_refs
 DECL|variable|packlock
+DECL|variable|ref_fetch_rules
 DECL|variable|ref_rev_parse_rules

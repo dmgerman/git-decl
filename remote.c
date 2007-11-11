@@ -28,7 +28,6 @@ DECL|function|parse_ref_spec
 DECL|function|read_branches_file
 DECL|function|read_config
 DECL|function|read_remotes_file
-DECL|function|ref_matches_abbrev
 DECL|function|ref_remove_duplicates
 DECL|function|remote_find_tracking
 DECL|function|remote_get
