@@ -7,6 +7,8 @@ DECL|function|count_distance
 DECL|function|count_interesting_parents
 DECL|function|do_find_bisection
 DECL|function|find_bisection
+DECL|function|finish_commit
+DECL|function|finish_object
 DECL|function|halfway
 DECL|function|read_revisions_from_stdin
 DECL|function|show_commit
