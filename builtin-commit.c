@@ -3,6 +3,7 @@ DECL|function|cmd_status
 DECL|function|determine_author_info
 DECL|function|git_commit_config
 DECL|function|message_is_empty
+DECL|function|opt_parse_m
 DECL|function|parse_and_validate_options
 DECL|function|prepare_index
 DECL|function|prepare_log_message
