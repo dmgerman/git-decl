@@ -20,4 +20,3 @@ DECL|function|peel_onion
 DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
-DECL|variable|ref_fmt

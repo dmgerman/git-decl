@@ -30,6 +30,7 @@ DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
 DECL|function|ref_msg
+DECL|function|refname_match
 DECL|function|remove_empty_directories
 DECL|function|rename_ref
 DECL|function|repack_without_ref
@@ -58,3 +59,4 @@ DECL|struct|cached_refs
 DECL|struct|ref_list
 DECL|variable|cached_refs
 DECL|variable|packlock
+DECL|variable|ref_rev_parse_rules
