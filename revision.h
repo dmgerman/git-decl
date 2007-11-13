@@ -14,7 +14,7 @@ DECL|macro|SHOWN
 DECL|macro|SYMMETRIC_LEFT
 DECL|macro|TMP_MARK
 DECL|macro|TOPOSORT
-DECL|macro|TREECHANGE
+DECL|macro|TREESAME
 DECL|macro|UNINTERESTING
 DECL|member|abbrev
 DECL|member|abbrev_commit
