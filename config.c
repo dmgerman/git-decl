@@ -17,6 +17,7 @@ DECL|function|git_config_set
 DECL|function|git_config_set_multivar
 DECL|function|git_config_ulong
 DECL|function|git_default_config
+DECL|function|git_etc_gitconfig
 DECL|function|git_parse_file
 DECL|function|git_parse_long
 DECL|function|git_parse_ulong
