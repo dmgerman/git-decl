@@ -50,6 +50,7 @@ DECL|macro|mkdir
 DECL|macro|open
 DECL|macro|rename
 DECL|macro|sigemptyset
+DECL|macro|signal
 DECL|macro|st_blocks
 DECL|macro|unlink
 DECL|member|events
