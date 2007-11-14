@@ -74,6 +74,8 @@ DECL|function|update_branch
 DECL|function|validate_raw_date
 DECL|function|write_branch_report
 DECL|function|write_crash_report
+DECL|macro|DEPTH_BITS
+DECL|macro|MAX_DEPTH
 DECL|macro|MAX_PACK_ID
 DECL|macro|PACK_ID_BITS
 DECL|member|active
@@ -85,6 +87,7 @@ DECL|member|capacity
 DECL|member|data
 DECL|member|data
 DECL|member|delta_depth
+DECL|member|depth
 DECL|member|depth
 DECL|member|end
 DECL|member|end
