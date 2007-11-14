@@ -8,6 +8,7 @@ DECL|function|launch_editor
 DECL|function|list_tags
 DECL|function|show_reference
 DECL|function|verify_tag
+DECL|function|write_tag_body
 DECL|macro|PGP_SIGNATURE
 DECL|member|lines
 DECL|member|pattern
