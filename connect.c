@@ -4,6 +4,7 @@ DECL|enumerator|PROTO_SSH
 DECL|enum|protocol
 DECL|function|ai_name
 DECL|function|check_ref
+DECL|function|check_ref_type
 DECL|function|finish_connect
 DECL|function|get_ack
 DECL|function|get_port
