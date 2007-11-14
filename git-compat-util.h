@@ -1,3 +1,4 @@
+DECL|function|gitstrchrnul
 DECL|function|has_extension
 DECL|function|prefixcmp
 DECL|function|sane_case
@@ -26,6 +27,7 @@ DECL|macro|GIT_ALPHA
 DECL|macro|GIT_COMPAT_UTIL_H
 DECL|macro|GIT_DIGIT
 DECL|macro|GIT_SPACE
+DECL|macro|HAVE_STRCHRNUL
 DECL|macro|MAP_FAILED
 DECL|macro|MAP_PRIVATE
 DECL|macro|MSB
@@ -66,6 +68,7 @@ DECL|macro|pread
 DECL|macro|sane_istest
 DECL|macro|setenv
 DECL|macro|strcasestr
+DECL|macro|strchrnul
 DECL|macro|strlcpy
 DECL|macro|strtoumax
 DECL|macro|tolower

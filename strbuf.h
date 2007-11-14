@@ -11,3 +11,4 @@ DECL|member|alloc
 DECL|member|buf
 DECL|member|len
 DECL|struct|strbuf
+DECL|typedef|expand_fn_t
