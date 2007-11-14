@@ -5,6 +5,7 @@ DECL|function|do_fetch
 DECL|function|fetch_refs
 DECL|function|find_non_local_tags
 DECL|function|get_ref_map
+DECL|function|quickfetch
 DECL|function|s_update_ref
 DECL|function|set_option
 DECL|function|store_updated_refs
@@ -15,6 +16,7 @@ DECL|macro|REFCOL_WIDTH
 DECL|macro|SUMMARY_WIDTH
 DECL|variable|append
 DECL|variable|default_rla
+DECL|variable|depth
 DECL|variable|fetch_usage
 DECL|variable|force
 DECL|variable|no_tags

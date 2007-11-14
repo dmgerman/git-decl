@@ -18,6 +18,7 @@ DECL|member|env
 DECL|member|err
 DECL|member|git_cmd
 DECL|member|in
+DECL|member|no_stderr
 DECL|member|no_stdin
 DECL|member|no_stdout
 DECL|member|out
