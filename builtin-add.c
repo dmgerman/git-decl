@@ -1,7 +1,6 @@
 DECL|function|add_files_to_cache
 DECL|function|cmd_add
 DECL|function|fill_directory
-DECL|function|git_add_config
 DECL|function|interactive_add
 DECL|function|prune_directory
 DECL|function|refresh
@@ -9,7 +8,6 @@ DECL|function|update_callback
 DECL|variable|add_interactive
 DECL|variable|builtin_add_options
 DECL|variable|builtin_add_usage
-DECL|variable|excludes_file
 DECL|variable|ignore_error
 DECL|variable|ignored_too
 DECL|variable|lock_file
