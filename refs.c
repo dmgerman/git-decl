@@ -17,7 +17,6 @@ DECL|function|free_ref_list
 DECL|function|get_loose_refs
 DECL|function|get_packed_refs
 DECL|function|get_ref_dir
-DECL|function|get_ref_sha1
 DECL|function|head_ref
 DECL|function|invalidate_cached_refs
 DECL|function|is_refname_available
