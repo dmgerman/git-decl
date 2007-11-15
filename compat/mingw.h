@@ -45,6 +45,7 @@ DECL|macro|hstrerror
 DECL|macro|is_dir_sep
 DECL|macro|lstat
 DECL|macro|mkdir
+DECL|macro|open
 DECL|macro|sigemptyset
 DECL|macro|st_blocks
 DECL|member|events
