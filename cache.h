@@ -16,6 +16,11 @@ DECL|enumerator|OBJ_TREE
 DECL|enumerator|PERM_EVERYBODY
 DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
+DECL|enumerator|REF_STATUS_NONE
+DECL|enumerator|REF_STATUS_OK
+DECL|enumerator|REF_STATUS_REJECT_NODELETE
+DECL|enumerator|REF_STATUS_REJECT_NONFASTFORWARD
+DECL|enumerator|REF_STATUS_UPTODATE
 DECL|enum|date_mode
 DECL|enum|object_type
 DECL|enum|sharedrepo
@@ -130,6 +135,7 @@ DECL|member|ce_mode
 DECL|member|ce_mtime
 DECL|member|ce_size
 DECL|member|ce_uid
+DECL|member|deletion
 DECL|member|filename
 DECL|member|force
 DECL|member|force
@@ -155,6 +161,7 @@ DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|next
+DECL|member|nonfastforward
 DECL|member|not_new
 DECL|member|nsec
 DECL|member|num_objects
@@ -175,6 +182,7 @@ DECL|member|sec
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|status
 DECL|member|timestamp
 DECL|member|windows
 DECL|struct|alternate_object_database
