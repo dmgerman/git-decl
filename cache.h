@@ -20,6 +20,7 @@ DECL|enumerator|REF_STATUS_NONE
 DECL|enumerator|REF_STATUS_OK
 DECL|enumerator|REF_STATUS_REJECT_NODELETE
 DECL|enumerator|REF_STATUS_REJECT_NONFASTFORWARD
+DECL|enumerator|REF_STATUS_REMOTE_REJECT
 DECL|enumerator|REF_STATUS_UPTODATE
 DECL|enum|date_mode
 DECL|enum|object_type
@@ -136,6 +137,7 @@ DECL|member|ce_mtime
 DECL|member|ce_size
 DECL|member|ce_uid
 DECL|member|deletion
+DECL|member|error
 DECL|member|filename
 DECL|member|force
 DECL|member|force
