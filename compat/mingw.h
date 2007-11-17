@@ -6,6 +6,7 @@ DECL|function|fsync
 DECL|function|getppid
 DECL|function|getpwnam
 DECL|function|getuid
+DECL|function|git_ntohl
 DECL|function|link
 DECL|function|mingw_mkdir
 DECL|function|mingw_stat
@@ -52,6 +53,7 @@ DECL|macro|hstrerror
 DECL|macro|is_dir_sep
 DECL|macro|lstat
 DECL|macro|mkdir
+DECL|macro|ntohl
 DECL|macro|open
 DECL|macro|rename
 DECL|macro|sigemptyset
