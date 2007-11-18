@@ -16,6 +16,7 @@ DECL|enumerator|OBJ_TREE
 DECL|enumerator|PERM_EVERYBODY
 DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
+DECL|enumerator|REF_STATUS_EXPECTING_REPORT
 DECL|enumerator|REF_STATUS_NONE
 DECL|enumerator|REF_STATUS_OK
 DECL|enumerator|REF_STATUS_REJECT_NODELETE
@@ -137,7 +138,6 @@ DECL|member|ce_mtime
 DECL|member|ce_size
 DECL|member|ce_uid
 DECL|member|deletion
-DECL|member|error
 DECL|member|filename
 DECL|member|force
 DECL|member|force
@@ -180,6 +180,7 @@ DECL|member|pack_size
 DECL|member|peer_ref
 DECL|member|quiet
 DECL|member|refresh_cache
+DECL|member|remote_status
 DECL|member|sec
 DECL|member|sha1
 DECL|member|sha1

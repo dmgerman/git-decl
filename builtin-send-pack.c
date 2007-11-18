@@ -10,7 +10,6 @@ DECL|function|print_ref_status
 DECL|function|receive_status
 DECL|function|ref_newer
 DECL|function|send_pack
-DECL|function|set_ref_error
 DECL|function|status_abbrev
 DECL|function|unmark_and_free
 DECL|function|update_tracking_ref
