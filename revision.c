@@ -43,10 +43,12 @@ DECL|function|rev_same_tree_as_empty
 DECL|function|rewrite_one
 DECL|function|rewrite_parents
 DECL|function|setup_revisions
+DECL|function|simplify_commit
 DECL|function|try_to_simplify_commit
 DECL|member|all_flags
 DECL|member|all_revs
 DECL|member|name_for_errormsg
 DECL|member|warned_bad_reflog
 DECL|struct|all_refs_cb
+DECL|variable|show_early_output
 DECL|variable|tree_difference

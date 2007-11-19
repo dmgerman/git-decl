@@ -1,3 +1,7 @@
+DECL|enumerator|commit_error
+DECL|enumerator|commit_ignore
+DECL|enumerator|commit_show
+DECL|enum|commit_action
 DECL|macro|ADDED
 DECL|macro|BOUNDARY
 DECL|macro|CHILD_SHOWN
@@ -9,7 +13,8 @@ DECL|macro|SEEN
 DECL|macro|SHOWN
 DECL|macro|SYMMETRIC_LEFT
 DECL|macro|TMP_MARK
-DECL|macro|TREECHANGE
+DECL|macro|TOPOSORT
+DECL|macro|TREESAME
 DECL|macro|UNINTERESTING
 DECL|member|abbrev
 DECL|member|abbrev_commit
@@ -27,6 +32,7 @@ DECL|member|dense
 DECL|member|dense_combined_merges
 DECL|member|diff
 DECL|member|diffopt
+DECL|member|early_output
 DECL|member|edge_hint
 DECL|member|elem
 DECL|member|elem_len
@@ -55,8 +61,8 @@ DECL|member|num_ignore_packed
 DECL|member|parents
 DECL|member|pending
 DECL|member|prefix
+DECL|member|prune
 DECL|member|prune_data
-DECL|member|prune_fn
 DECL|member|pruning
 DECL|member|ref_message_id
 DECL|member|reflog_info
@@ -69,9 +75,7 @@ DECL|member|simplify_history
 DECL|member|skip_count
 DECL|member|subject_prefix
 DECL|member|tag_objects
-DECL|member|topo_getter
 DECL|member|topo_order
-DECL|member|topo_setter
 DECL|member|total
 DECL|member|tree_objects
 DECL|member|unpacked
@@ -79,4 +83,5 @@ DECL|member|up
 DECL|member|verbose_header
 DECL|struct|name_path
 DECL|struct|rev_info
-DECL|typedef|prune_fn_t
+DECL|typedef|show_early_output_fn_t
+DECL|variable|show_early_output
