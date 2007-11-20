@@ -5,6 +5,7 @@ DECL|function|one_local_ref
 DECL|function|pack_objects
 DECL|function|prettify_ref
 DECL|function|print_ok_ref_status
+DECL|function|print_one_push_status
 DECL|function|print_push_status
 DECL|function|print_ref_status
 DECL|function|receive_status
