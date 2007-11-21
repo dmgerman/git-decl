@@ -65,6 +65,8 @@ DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sha1_to_hex
 DECL|function|sort_pack
+DECL|function|sz_fmt
+DECL|function|sz_fmt
 DECL|function|unpack_compressed_entry
 DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
