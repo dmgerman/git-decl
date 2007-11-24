@@ -1,4 +1,5 @@
 DECL|function|copy_environ
+DECL|function|env_compare
 DECL|function|env_setenv
 DECL|function|free_environ
 DECL|function|free_path_split
@@ -19,11 +20,14 @@ DECL|function|mingw_open
 DECL|function|mingw_rename
 DECL|function|mingw_signal
 DECL|function|mingw_socket
+DECL|function|mingw_spawnve
+DECL|function|mingw_spawnvpe
 DECL|function|mkstemp
 DECL|function|parse_interpreter
 DECL|function|path_lookup
 DECL|function|pipe
 DECL|function|poll
+DECL|function|quote_arg
 DECL|function|setitimer
 DECL|function|sigaction
 DECL|function|sleep
