@@ -14,7 +14,6 @@ DECL|function|mark_recent_complete_commits
 DECL|function|remove_duplicates
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
-DECL|function|setup_sideband
 DECL|function|sideband_demux
 DECL|macro|COMMON
 DECL|macro|COMMON_REF

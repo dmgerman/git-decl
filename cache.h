@@ -132,6 +132,7 @@ DECL|member|ce_mode
 DECL|member|ce_mtime
 DECL|member|ce_size
 DECL|member|ce_uid
+DECL|member|fd
 DECL|member|filename
 DECL|member|force
 DECL|member|force
