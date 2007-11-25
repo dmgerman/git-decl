@@ -12,6 +12,7 @@ DECL|variable|builtin_add_usage
 DECL|variable|ignore_error
 DECL|variable|ignored_too
 DECL|variable|lock_file
+DECL|variable|patch_interactive
 DECL|variable|refresh_only
 DECL|variable|show_only
 DECL|variable|take_worktree_changes
