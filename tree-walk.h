@@ -1,3 +1,4 @@
+DECL|function|object_type
 DECL|function|tree_entry_extract
 DECL|function|tree_entry_len
 DECL|macro|TREE_WALK_H
