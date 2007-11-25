@@ -1,3 +1,7 @@
+DECL|enumerator|MATCH_REFS_ALL
+DECL|enumerator|MATCH_REFS_MIRROR
+DECL|enumerator|MATCH_REFS_NONE
+DECL|enum|match_refs_flags
 DECL|macro|REMOTE_H
 DECL|member|dst
 DECL|member|fetch
