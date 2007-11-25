@@ -19,7 +19,6 @@ DECL|variable|mainline
 DECL|variable|me
 DECL|variable|msg_fd
 DECL|variable|msg_file
-DECL|variable|needed_deref
 DECL|variable|no_commit
 DECL|variable|no_replay
 DECL|variable|revert_usage
