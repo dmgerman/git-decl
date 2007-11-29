@@ -11,12 +11,17 @@ DECL|macro|MATCHED_RECURSIVELY
 DECL|member|alloc
 DECL|member|alloc
 DECL|member|base
+DECL|member|basebuf
+DECL|member|baselen
 DECL|member|baselen
 DECL|member|collect_ignored
 DECL|member|entries
+DECL|member|exclude_ix
 DECL|member|exclude_list
 DECL|member|exclude_per_dir
+DECL|member|exclude_stack
 DECL|member|excludes
+DECL|member|filebuf
 DECL|member|flags
 DECL|member|hide_empty_directories
 DECL|member|ignored
@@ -29,6 +34,7 @@ DECL|member|nr
 DECL|member|nr
 DECL|member|pattern
 DECL|member|patternlen
+DECL|member|prev
 DECL|member|show_ignored
 DECL|member|show_other_directories
 DECL|member|to_exclude
@@ -36,3 +42,4 @@ DECL|struct|dir_entry
 DECL|struct|dir_struct
 DECL|struct|exclude
 DECL|struct|exclude_list
+DECL|struct|exclude_stack

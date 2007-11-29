@@ -27,8 +27,7 @@ DECL|function|is_inside_dir
 DECL|function|match_one
 DECL|function|match_pathspec
 DECL|function|no_wildcard
-DECL|function|pop_exclude_per_directory
-DECL|function|push_exclude_per_directory
+DECL|function|prep_exclude
 DECL|function|read_directory
 DECL|function|read_directory_recursive
 DECL|function|remove_dir_recursively
