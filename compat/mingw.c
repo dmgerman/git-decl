@@ -1,0 +1,10 @@
+DECL|function|getpwuid
+DECL|function|gettimeofday
+DECL|function|gmtime_r
+DECL|function|localtime_r
+DECL|function|mkstemp
+DECL|function|poll
+DECL|function|setitimer
+DECL|function|sigaction
+DECL|function|sleep
+DECL|variable|_CRT_fmode
