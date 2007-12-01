@@ -12,6 +12,8 @@ DECL|function|delete_branches
 DECL|function|find_tracked_branch
 DECL|function|free_ref_list
 DECL|function|git_branch_config
+DECL|function|has_commit
+DECL|function|opt_parse_with_commit
 DECL|function|parse_branch_color_slot
 DECL|function|print_ref_item
 DECL|function|print_ref_list
@@ -34,6 +36,7 @@ DECL|member|remote
 DECL|member|sha1
 DECL|member|spec
 DECL|member|src
+DECL|member|with_commit
 DECL|struct|ref_item
 DECL|struct|ref_list
 DECL|struct|tracking
