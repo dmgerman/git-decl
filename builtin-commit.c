@@ -19,6 +19,7 @@ DECL|function|rollback_index_files
 DECL|function|run_hook
 DECL|function|run_status
 DECL|variable|all
+DECL|variable|allow_empty
 DECL|variable|also
 DECL|variable|amend
 DECL|variable|builtin_commit_options
