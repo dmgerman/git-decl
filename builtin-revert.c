@@ -6,6 +6,7 @@ DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
 DECL|function|get_encoding
 DECL|function|get_oneline
+DECL|function|help_msg
 DECL|function|merge_recursive
 DECL|function|parse_args
 DECL|function|revert_or_cherry_pick
