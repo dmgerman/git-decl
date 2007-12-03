@@ -7,6 +7,7 @@ DECL|function|cmd_status
 DECL|function|commit_index_files
 DECL|function|determine_author_info
 DECL|function|git_commit_config
+DECL|function|is_a_merge
 DECL|function|list_paths
 DECL|function|message_is_empty
 DECL|function|opt_parse_m
