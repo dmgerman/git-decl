@@ -22,6 +22,7 @@ DECL|variable|also
 DECL|variable|amend
 DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
+DECL|variable|builtin_status_usage
 DECL|variable|commit_editmsg
 DECL|variable|commit_style
 DECL|variable|commit_utf8_warn
