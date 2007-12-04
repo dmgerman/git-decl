@@ -41,6 +41,7 @@ DECL|macro|S_IXOTH
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
+DECL|macro|execvp
 DECL|macro|getcwd
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
