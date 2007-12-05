@@ -1,4 +1,5 @@
 DECL|function|check_repository_format
+DECL|function|check_repository_format_gently
 DECL|function|check_repository_format_version
 DECL|function|get_pathspec
 DECL|function|git_config_perm
