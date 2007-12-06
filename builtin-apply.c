@@ -129,6 +129,7 @@ DECL|member|resultsize
 DECL|member|score
 DECL|member|size
 DECL|member|trailing
+DECL|member|ws_rule
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
