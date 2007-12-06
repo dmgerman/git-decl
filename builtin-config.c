@@ -16,6 +16,7 @@ DECL|variable|do_not_match
 DECL|variable|get_color_found
 DECL|variable|get_color_slot
 DECL|variable|get_colorbool_found
+DECL|variable|get_diff_color_found
 DECL|variable|git_config_set_usage
 DECL|variable|key
 DECL|variable|key_delim
