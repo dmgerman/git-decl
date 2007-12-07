@@ -9,7 +9,6 @@ DECL|function|getuid
 DECL|function|link
 DECL|function|mingw_mkdir
 DECL|function|mingw_unlink
-DECL|function|pipe
 DECL|function|readlink
 DECL|function|symlink
 DECL|function|sync

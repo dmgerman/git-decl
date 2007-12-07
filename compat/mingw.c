@@ -15,6 +15,7 @@ DECL|function|mingw_signal
 DECL|function|mkstemp
 DECL|function|parse_interpreter
 DECL|function|path_lookup
+DECL|function|pipe
 DECL|function|poll
 DECL|function|setitimer
 DECL|function|sigaction
