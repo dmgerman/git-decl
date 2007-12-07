@@ -47,6 +47,7 @@ DECL|macro|is_dir_sep
 DECL|macro|lstat
 DECL|macro|mkdir
 DECL|macro|open
+DECL|macro|rename
 DECL|macro|sigemptyset
 DECL|macro|st_blocks
 DECL|macro|unlink
