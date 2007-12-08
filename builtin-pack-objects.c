@@ -98,6 +98,7 @@ DECL|member|pcache
 DECL|member|preferred_base
 DECL|member|processed
 DECL|member|ref
+DECL|member|remaining
 DECL|member|revindex
 DECL|member|sha1
 DECL|member|size
