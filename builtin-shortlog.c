@@ -1,7 +1,7 @@
 DECL|function|cmd_shortlog
 DECL|function|compare_by_number
 DECL|function|get_from_rev
-DECL|function|insert_author_oneline
+DECL|function|insert_one_record
 DECL|function|parse_uint
 DECL|function|parse_wrap_args
 DECL|function|read_from_stdin
