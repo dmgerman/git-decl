@@ -9,6 +9,7 @@ DECL|macro|DEFAULT_INDENT1
 DECL|macro|DEFAULT_INDENT2
 DECL|macro|DEFAULT_WRAPLEN
 DECL|variable|common_repo_prefix
+DECL|variable|email
 DECL|variable|mailmap
 DECL|variable|shortlog_usage
 DECL|variable|wrap_arg_usage
