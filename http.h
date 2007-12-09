@@ -7,7 +7,7 @@ DECL|macro|USE_CURL_MULTI
 DECL|macro|curl_global_cleanup
 DECL|macro|curl_global_init
 DECL|macro|missing_target
-DECL|member|buffer
+DECL|member|buf
 DECL|member|callback_data
 DECL|member|callback_func
 DECL|member|curl
@@ -21,7 +21,6 @@ DECL|member|local
 DECL|member|next
 DECL|member|posn
 DECL|member|results
-DECL|member|size
 DECL|struct|active_request_slot
 DECL|struct|buffer
 DECL|struct|slot_results
