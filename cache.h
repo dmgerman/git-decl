@@ -99,6 +99,10 @@ DECL|macro|S_IFINVALID
 DECL|macro|S_ISGITLINK
 DECL|macro|TEMPLATE_DIR_ENVIRONMENT
 DECL|macro|TYPE_CHANGED
+DECL|macro|WS_DEFAULT_RULE
+DECL|macro|WS_INDENT_WITH_NON_TAB
+DECL|macro|WS_SPACE_BEFORE_TAB
+DECL|macro|WS_TRAILING_SPACE
 DECL|macro|active_alloc
 DECL|macro|active_cache
 DECL|macro|active_cache_changed

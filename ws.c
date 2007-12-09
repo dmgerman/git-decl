@@ -1,0 +1,7 @@
+DECL|function|parse_whitespace_rule
+DECL|function|setup_whitespace_attr_check
+DECL|function|whitespace_rule
+DECL|member|rule_bits
+DECL|member|rule_name
+DECL|struct|whitespace_rule
+DECL|variable|whitespace_rule_names
