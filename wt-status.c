@@ -1,7 +1,7 @@
 DECL|function|color
 DECL|function|git_status_config
 DECL|function|parse_status_slot
-DECL|function|quote_crlf
+DECL|function|quote_path
 DECL|function|wt_read_cache
 DECL|function|wt_status_prepare
 DECL|function|wt_status_print
@@ -20,4 +20,5 @@ DECL|variable|use_add_msg
 DECL|variable|use_add_rm_msg
 DECL|variable|use_add_to_include_msg
 DECL|variable|wt_status_colors
+DECL|variable|wt_status_relative_paths
 DECL|variable|wt_status_use_color

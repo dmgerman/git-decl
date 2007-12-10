@@ -10,6 +10,7 @@ DECL|function|list_commands_in_dir
 DECL|function|list_common_cmds_help
 DECL|function|mput_char
 DECL|function|pretty_print_string_list
+DECL|function|setup_man_path
 DECL|function|show_html_page
 DECL|function|show_info_page
 DECL|function|show_man_page

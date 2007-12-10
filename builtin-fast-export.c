@@ -1,6 +1,6 @@
 DECL|enumerator|ABORT
-DECL|enumerator|IGNORE
 DECL|enumerator|STRIP
+DECL|enumerator|VERBATIM
 DECL|enumerator|WARN
 DECL|function|cmd_fast_export
 DECL|function|find_encoding

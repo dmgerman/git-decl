@@ -140,6 +140,8 @@ DECL|member|plus
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
+DECL|member|ws_rule
+DECL|member|ws_rule
 DECL|member|xm
 DECL|member|xm
 DECL|member|xm
