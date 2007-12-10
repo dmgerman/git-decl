@@ -15,7 +15,6 @@ DECL|function|git_transport_push
 DECL|function|insert_packed_refs
 DECL|function|is_file
 DECL|function|is_local
-DECL|function|missing__target
 DECL|function|read_loose_refs
 DECL|function|rsync_transport_push
 DECL|function|set_git_option
@@ -29,7 +28,6 @@ DECL|function|transport_set_option
 DECL|function|transport_unlock_pack
 DECL|function|write_one_ref
 DECL|function|write_refs_to_temp_dir
-DECL|macro|missing_target
 DECL|member|depth
 DECL|member|fd
 DECL|member|header

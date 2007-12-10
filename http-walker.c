@@ -17,7 +17,6 @@ DECL|function|finish_object_request
 DECL|function|fwrite_sha1_file
 DECL|function|get_http_walker
 DECL|function|hex
-DECL|function|missing__target
 DECL|function|needs_quote
 DECL|function|prefetch
 DECL|function|process_alternates_response
@@ -28,7 +27,6 @@ DECL|function|setup_index
 DECL|function|start_object_request
 DECL|macro|PREV_BUF_SIZE
 DECL|macro|RANGE_HEADER_SIZE
-DECL|macro|missing_target
 DECL|member|alt
 DECL|member|base
 DECL|member|base
