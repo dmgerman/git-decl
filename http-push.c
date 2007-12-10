@@ -158,7 +158,6 @@ DECL|struct|repo
 DECL|struct|transfer_request
 DECL|struct|xml_ctx
 DECL|variable|aborted
-DECL|variable|default_headers
 DECL|variable|dry_run
 DECL|variable|force_all
 DECL|variable|http_push_usage
