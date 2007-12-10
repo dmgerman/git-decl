@@ -19,7 +19,6 @@ DECL|function|check_locks
 DECL|function|delete_remote_branch
 DECL|function|fetch_index
 DECL|function|fetch_indices
-DECL|function|fetch_ref
 DECL|function|fetch_symref
 DECL|function|fill_active_slot
 DECL|function|finish_request
@@ -31,14 +30,12 @@ DECL|function|get_remote_object_list
 DECL|function|handle_lockprop_ctx
 DECL|function|handle_new_lock_ctx
 DECL|function|handle_remote_ls_ctx
-DECL|function|hex
 DECL|function|is_zero_sha1
 DECL|function|lock_remote
 DECL|function|locking_available
 DECL|function|main
 DECL|function|mark_edge_parents_uninteresting
 DECL|function|mark_edges_uninteresting
-DECL|function|needs_quote
 DECL|function|one_local_ref
 DECL|function|one_remote_object
 DECL|function|one_remote_ref
@@ -47,7 +44,6 @@ DECL|function|process_ls_object
 DECL|function|process_ls_ref
 DECL|function|process_response
 DECL|function|process_tree
-DECL|function|quote_ref_url
 DECL|function|ref_newer
 DECL|function|refresh_lock
 DECL|function|release_request

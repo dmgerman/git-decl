@@ -16,12 +16,9 @@ DECL|function|fill_active_slot
 DECL|function|finish_object_request
 DECL|function|fwrite_sha1_file
 DECL|function|get_http_walker
-DECL|function|hex
-DECL|function|needs_quote
 DECL|function|prefetch
 DECL|function|process_alternates_response
 DECL|function|process_object_response
-DECL|function|quote_ref_url
 DECL|function|release_object_request
 DECL|function|setup_index
 DECL|function|start_object_request
