@@ -7,6 +7,7 @@ DECL|function|git_tag_config
 DECL|function|launch_editor
 DECL|function|list_tags
 DECL|function|parse_msg_arg
+DECL|function|set_signingkey
 DECL|function|show_reference
 DECL|function|verify_tag
 DECL|function|write_tag_body
