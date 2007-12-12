@@ -8,6 +8,7 @@ DECL|function|coalesce
 DECL|function|compare_buffer
 DECL|function|copy_split_if_better
 DECL|function|decref_split
+DECL|function|drop_origin_blob
 DECL|function|dup_entry
 DECL|function|emit_other
 DECL|function|emit_porcelain
