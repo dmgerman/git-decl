@@ -59,10 +59,12 @@ DECL|function|external_diff
 DECL|function|external_diff_attr
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
+DECL|function|fill_print_name
 DECL|function|flush_one_pair
 DECL|function|fn_out_consume
 DECL|function|fn_out_diff_words_aux
 DECL|function|free_diff_words_data
+DECL|function|free_diffstat_info
 DECL|function|free_filespec
 DECL|function|funcname_pattern
 DECL|function|git_diff_ui_config
@@ -116,6 +118,7 @@ DECL|member|diff_words
 DECL|member|filename
 DECL|member|files
 DECL|member|found_changesp
+DECL|member|from_name
 DECL|member|hex
 DECL|member|is_binary
 DECL|member|is_renamed
@@ -137,6 +140,7 @@ DECL|member|patchlen
 DECL|member|pattern
 DECL|member|pattern
 DECL|member|plus
+DECL|member|print_name
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
