@@ -4,6 +4,7 @@ DECL|function|ff_regexp
 DECL|function|parse_hunk_header
 DECL|function|parse_num
 DECL|function|read_mmfile
+DECL|function|trim_common_tail
 DECL|function|xdi_diff
 DECL|function|xdiff_outf
 DECL|function|xdiff_set_find_func
