@@ -1,5 +1,6 @@
 DECL|function|add_cmdname
 DECL|function|cmd_help
+DECL|function|cmd_to_page
 DECL|function|cmd_version
 DECL|function|cmdname_compare
 DECL|function|exclude_cmds
@@ -10,6 +11,8 @@ DECL|function|list_common_cmds_help
 DECL|function|mput_char
 DECL|function|pretty_print_string_list
 DECL|function|setup_man_path
+DECL|function|show_html_page
+DECL|function|show_info_page
 DECL|function|show_man_page
 DECL|function|term_columns
 DECL|function|uniq
