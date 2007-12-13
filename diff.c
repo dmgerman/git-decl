@@ -141,6 +141,7 @@ DECL|member|pattern
 DECL|member|pattern
 DECL|member|plus
 DECL|member|print_name
+DECL|member|status
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
