@@ -10,6 +10,7 @@ DECL|member|commitable
 DECL|member|fp
 DECL|member|index_file
 DECL|member|is_initial
+DECL|member|nowarn
 DECL|member|prefix
 DECL|member|reference
 DECL|member|untracked
