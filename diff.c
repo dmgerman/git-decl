@@ -35,6 +35,7 @@ DECL|function|diff_q
 DECL|function|diff_queue
 DECL|function|diff_queue_is_empty
 DECL|function|diff_resolve_rename_copy
+DECL|function|diff_result_code
 DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_setup_done
