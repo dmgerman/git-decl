@@ -35,6 +35,7 @@ DECL|function|diff_q
 DECL|function|diff_queue
 DECL|function|diff_queue_is_empty
 DECL|function|diff_resolve_rename_copy
+DECL|function|diff_result_code
 DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_setup_done
@@ -53,7 +54,6 @@ DECL|function|emit_add_line
 DECL|function|emit_binary_diff
 DECL|function|emit_binary_diff_body
 DECL|function|emit_line
-DECL|function|emit_line_with_ws
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|external_diff_attr
@@ -141,6 +141,7 @@ DECL|member|pattern
 DECL|member|pattern
 DECL|member|plus
 DECL|member|print_name
+DECL|member|status
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
