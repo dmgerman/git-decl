@@ -68,7 +68,9 @@ DECL|macro|read_unlock
 DECL|macro|read_unlock
 DECL|member|alloc
 DECL|member|array
+DECL|member|cond
 DECL|member|data
+DECL|member|data_ready
 DECL|member|delta
 DECL|member|delta_child
 DECL|member|delta_data
@@ -86,6 +88,7 @@ DECL|member|in_pack_type
 DECL|member|index
 DECL|member|list
 DECL|member|list_size
+DECL|member|mutex
 DECL|member|next
 DECL|member|no_try_delta
 DECL|member|nr
@@ -108,6 +111,7 @@ DECL|member|tree_data
 DECL|member|tree_size
 DECL|member|type
 DECL|member|window
+DECL|member|working
 DECL|struct|in_pack
 DECL|struct|in_pack_object
 DECL|struct|object_entry
@@ -121,10 +125,6 @@ DECL|variable|allow_ofs_delta
 DECL|variable|base_name
 DECL|variable|cache_max_small_delta_size
 DECL|variable|cache_mutex
-DECL|variable|data_provider
-DECL|variable|data_ready
-DECL|variable|data_request
-DECL|variable|data_requester
 DECL|variable|delta_cache_size
 DECL|variable|delta_search_threads
 DECL|variable|depth
@@ -156,6 +156,7 @@ DECL|variable|pack_usage
 DECL|variable|pbase_tree
 DECL|variable|pbase_tree_cache
 DECL|variable|progress
+DECL|variable|progress_cond
 DECL|variable|progress_mutex
 DECL|variable|progress_state
 DECL|variable|read_mutex
