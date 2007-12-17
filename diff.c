@@ -171,6 +171,7 @@ DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
+DECL|variable|external_diff_cmd_cfg
 DECL|variable|funcname_pattern_list
 DECL|variable|mime_boundary_leader
 DECL|variable|user_diff
