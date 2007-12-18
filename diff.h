@@ -61,8 +61,10 @@ DECL|macro|DIFF_STATUS_UNKNOWN
 DECL|macro|DIFF_STATUS_UNMERGED
 DECL|macro|combine_diff_path_size
 DECL|macro|diff_get_color_opt
+DECL|member|a_prefix
 DECL|member|abbrev
 DECL|member|add_remove
+DECL|member|b_prefix
 DECL|member|break_opt
 DECL|member|change
 DECL|member|context
