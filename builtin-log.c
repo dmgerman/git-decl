@@ -23,6 +23,7 @@ DECL|function|reopen_stdout
 DECL|function|setup_early_output
 DECL|function|show_early_header
 DECL|function|show_object
+DECL|function|show_tagger
 DECL|function|show_tree_object
 DECL|macro|FORMAT_PATCH_NAME_MAX
 DECL|variable|auto_number
