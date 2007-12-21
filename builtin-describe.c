@@ -19,5 +19,6 @@ DECL|variable|all
 DECL|variable|debug
 DECL|variable|describe_usage
 DECL|variable|max_candidates
+DECL|variable|pattern
 DECL|variable|prio_names
 DECL|variable|tags
