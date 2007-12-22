@@ -1,3 +1,6 @@
+DECL|enumerator|CLEANUP_ALL
+DECL|enumerator|CLEANUP_NONE
+DECL|enumerator|CLEANUP_SPACE
 DECL|enumerator|COMMIT_AS_IS
 DECL|enumerator|COMMIT_NORMAL
 DECL|enumerator|COMMIT_PARTIAL
@@ -25,6 +28,8 @@ DECL|variable|amend
 DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
+DECL|variable|cleanup_arg
+DECL|variable|cleanup_mode
 DECL|variable|commit_editmsg
 DECL|variable|commit_style
 DECL|variable|commit_utf8_warn
