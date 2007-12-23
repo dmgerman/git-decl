@@ -40,7 +40,6 @@ DECL|variable|interactive
 DECL|variable|logfile
 DECL|variable|merge_head_sha1
 DECL|variable|message
-DECL|variable|no_edit
 DECL|variable|no_verify
 DECL|variable|only
 DECL|variable|only_include_assumed
@@ -49,6 +48,7 @@ DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|template_file
 DECL|variable|untracked_files
+DECL|variable|use_editor
 DECL|variable|use_message
 DECL|variable|use_message_buffer
 DECL|variable|verbose
