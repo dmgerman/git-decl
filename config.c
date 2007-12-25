@@ -6,7 +6,6 @@ DECL|function|find_beginning_of_line
 DECL|function|get_base_var
 DECL|function|get_extended_base_var
 DECL|function|get_next_char
-DECL|function|get_unit_factor
 DECL|function|get_value
 DECL|function|git_config
 DECL|function|git_config_bool
@@ -23,6 +22,7 @@ DECL|function|git_parse_long
 DECL|function|git_parse_ulong
 DECL|function|iskeychar
 DECL|function|matches
+DECL|function|parse_unit_factor
 DECL|function|parse_value
 DECL|function|section_name_match
 DECL|function|store_aux
