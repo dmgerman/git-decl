@@ -10,12 +10,15 @@ DECL|function|is_timeval_eq
 DECL|function|localtime_r
 DECL|function|lookup_env
 DECL|function|lookup_prog
+DECL|function|mingw_connect
 DECL|function|mingw_execve
 DECL|function|mingw_execvp
 DECL|function|mingw_getcwd
+DECL|function|mingw_gethostbyname
 DECL|function|mingw_open
 DECL|function|mingw_rename
 DECL|function|mingw_signal
+DECL|function|mingw_socket
 DECL|function|mkstemp
 DECL|function|parse_interpreter
 DECL|function|path_lookup
@@ -28,7 +31,9 @@ DECL|function|start_timer_thread
 DECL|function|stop_timer_thread
 DECL|function|ticktack
 DECL|function|try_shell_exec
+DECL|macro|connect
 DECL|macro|getcwd
+DECL|macro|gethostbyname
 DECL|macro|open
 DECL|macro|rename
 DECL|macro|signal

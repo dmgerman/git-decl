@@ -40,8 +40,10 @@ DECL|macro|S_IXOTH
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
+DECL|macro|connect
 DECL|macro|execvp
 DECL|macro|getcwd
+DECL|macro|gethostbyname
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
@@ -51,6 +53,7 @@ DECL|macro|open
 DECL|macro|rename
 DECL|macro|sigemptyset
 DECL|macro|signal
+DECL|macro|socket
 DECL|macro|st_blocks
 DECL|macro|unlink
 DECL|member|events
