@@ -1,3 +1,6 @@
+DECL|enumerator|CLEANUP_ALL
+DECL|enumerator|CLEANUP_NONE
+DECL|enumerator|CLEANUP_SPACE
 DECL|enumerator|COMMIT_AS_IS
 DECL|enumerator|COMMIT_NORMAL
 DECL|enumerator|COMMIT_PARTIAL
@@ -25,6 +28,8 @@ DECL|variable|amend
 DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
+DECL|variable|cleanup_arg
+DECL|variable|cleanup_mode
 DECL|variable|commit_editmsg
 DECL|variable|commit_style
 DECL|variable|commit_utf8_warn
@@ -40,7 +45,6 @@ DECL|variable|interactive
 DECL|variable|logfile
 DECL|variable|merge_head_sha1
 DECL|variable|message
-DECL|variable|no_edit
 DECL|variable|no_verify
 DECL|variable|only
 DECL|variable|only_include_assumed
@@ -49,6 +53,7 @@ DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|template_file
 DECL|variable|untracked_files
+DECL|variable|use_editor
 DECL|variable|use_message
 DECL|variable|use_message_buffer
 DECL|variable|verbose
