@@ -1,0 +1,1 @@
+DECL|function|sha1_entry_pos
