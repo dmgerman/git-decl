@@ -40,6 +40,7 @@ DECL|member|seen
 DECL|member|state
 DECL|member|value_regex
 DECL|variable|config_file
+DECL|variable|config_file_eof
 DECL|variable|config_file_name
 DECL|variable|config_linenr
 DECL|variable|store
