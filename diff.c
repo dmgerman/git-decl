@@ -92,6 +92,7 @@ DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
+DECL|function|sane_truncate_line
 DECL|function|scale_linear
 DECL|function|setup_diff_attr_check
 DECL|function|show_file_mode_name
@@ -145,6 +146,7 @@ DECL|member|status
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
+DECL|member|truncate
 DECL|member|ws_rule
 DECL|member|ws_rule
 DECL|member|xm
@@ -163,6 +165,7 @@ DECL|struct|emit_callback
 DECL|struct|funcname_pattern
 DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
+DECL|typedef|sane_truncate_fn
 DECL|variable|builtin_funcname_pattern
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
