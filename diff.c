@@ -83,7 +83,6 @@ DECL|function|prepare_temp_file
 DECL|function|print_line_count
 DECL|function|print_word
 DECL|function|quote_two
-DECL|function|read_config_if_needed
 DECL|function|remove_space
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
