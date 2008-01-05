@@ -17,6 +17,8 @@ DECL|macro|DO_NOREV
 DECL|macro|DO_REVS
 DECL|macro|NORMAL
 DECL|macro|REVERSED
+DECL|macro|SHOW_SYMBOLIC_ASIS
+DECL|macro|SHOW_SYMBOLIC_FULL
 DECL|variable|abbrev
 DECL|variable|def
 DECL|variable|filter
