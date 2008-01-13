@@ -8,6 +8,7 @@ DECL|function|add_remove_files
 DECL|function|cmd_commit
 DECL|function|cmd_status
 DECL|function|commit_index_files
+DECL|function|create_base_index
 DECL|function|determine_author_info
 DECL|function|git_commit_config
 DECL|function|is_a_merge
