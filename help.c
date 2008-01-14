@@ -23,6 +23,7 @@ DECL|function|get_html_page_path
 DECL|function|get_man_viewer_info
 DECL|function|git_help_config
 DECL|function|help_unknown_cmd
+DECL|function|is_executable
 DECL|function|is_git_command
 DECL|function|is_in_cmdlist
 DECL|function|list_commands
