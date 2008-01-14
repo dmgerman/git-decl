@@ -1,0 +1,3 @@
+DECL|function|convert_to_archive
+DECL|function|format_subst
+DECL|function|sha1_file_to_archive
