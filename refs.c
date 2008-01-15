@@ -20,6 +20,7 @@ DECL|function|get_packed_refs
 DECL|function|get_ref_dir
 DECL|function|head_ref
 DECL|function|invalidate_cached_refs
+DECL|function|is_branch
 DECL|function|is_refname_available
 DECL|function|lock_any_ref_for_update
 DECL|function|lock_ref_sha1
