@@ -13,9 +13,11 @@ DECL|function|ce_path_match
 DECL|function|ce_same_name
 DECL|function|ce_smudge_racily_clean_entry
 DECL|function|ce_write
+DECL|function|ce_write_entry
 DECL|function|ce_write_flush
 DECL|function|check_file_directory_conflict
 DECL|function|compare_name
+DECL|function|convert_from_disk
 DECL|function|discard_index
 DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
