@@ -18,6 +18,7 @@ DECL|function|fsck_tag
 DECL|function|fsck_tree
 DECL|function|get_default_heads
 DECL|function|ino_compare
+DECL|function|is_branch
 DECL|function|objerror
 DECL|function|objreport
 DECL|function|objwarning
