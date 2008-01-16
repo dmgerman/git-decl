@@ -1,6 +1,8 @@
 DECL|function|add_ref
 DECL|function|bad_ref_char
 DECL|function|check_ref_format
+DECL|function|close_ref
+DECL|function|commit_ref
 DECL|function|copy_msg
 DECL|function|create_symref
 DECL|function|delete_ref
