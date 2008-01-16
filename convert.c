@@ -26,6 +26,7 @@ DECL|member|lf
 DECL|member|name
 DECL|member|next
 DECL|member|nonprintable
+DECL|member|nul
 DECL|member|printable
 DECL|member|size
 DECL|member|smudge
