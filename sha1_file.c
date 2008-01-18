@@ -3,6 +3,7 @@ DECL|function|add_packed_git
 DECL|function|cache_or_unpack_entry
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
+DECL|function|close_pack_windows
 DECL|function|fill_sha1_path
 DECL|function|find_cached_object
 DECL|function|find_pack_entry
