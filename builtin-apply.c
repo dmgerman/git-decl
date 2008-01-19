@@ -46,6 +46,7 @@ DECL|function|guess_p_value
 DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|linelen
+DECL|function|match_fragment
 DECL|function|metadata_changes
 DECL|function|name_terminate
 DECL|function|numstat_patch_list
