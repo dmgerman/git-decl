@@ -27,6 +27,8 @@ DECL|enum|date_mode
 DECL|enum|object_type
 DECL|enum|sharedrepo
 DECL|function|ce_mode_from_stat
+DECL|function|ce_namelen
+DECL|function|create_ce_flags
 DECL|function|create_ce_mode
 DECL|function|hashclr
 DECL|function|hashcmp
@@ -117,11 +119,9 @@ DECL|macro|cache_name_pos
 DECL|macro|canon_mode
 DECL|macro|ce_match_stat
 DECL|macro|ce_modified
-DECL|macro|ce_namelen
 DECL|macro|ce_permissions
 DECL|macro|ce_size
 DECL|macro|ce_stage
-DECL|macro|create_ce_flags
 DECL|macro|deflateBound
 DECL|macro|discard_cache
 DECL|macro|ondisk_cache_entry_size
