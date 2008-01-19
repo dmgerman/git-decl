@@ -53,6 +53,7 @@ DECL|macro|CE_REMOVE
 DECL|macro|CE_STAGEMASK
 DECL|macro|CE_STAGESHIFT
 DECL|macro|CE_UPDATE
+DECL|macro|CE_UPTODATE
 DECL|macro|CE_VALID
 DECL|macro|CONFIG_ENVIRONMENT
 DECL|macro|CONFIG_LOCAL_ENVIRONMENT
@@ -117,11 +118,13 @@ DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
 DECL|macro|cache_name_pos
 DECL|macro|canon_mode
+DECL|macro|ce_mark_uptodate
 DECL|macro|ce_match_stat
 DECL|macro|ce_modified
 DECL|macro|ce_permissions
 DECL|macro|ce_size
 DECL|macro|ce_stage
+DECL|macro|ce_uptodate
 DECL|macro|deflateBound
 DECL|macro|discard_cache
 DECL|macro|ondisk_cache_entry_size
