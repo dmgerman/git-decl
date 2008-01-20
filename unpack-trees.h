@@ -12,6 +12,7 @@ DECL|member|pos
 DECL|member|prefix
 DECL|member|reset
 DECL|member|trivial_merges_only
+DECL|member|unpack_data
 DECL|member|update
 DECL|member|verbose_update
 DECL|struct|unpack_trees_options
