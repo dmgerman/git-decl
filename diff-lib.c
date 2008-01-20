@@ -1,5 +1,4 @@
 DECL|function|count_skip
-DECL|function|diff_cache
 DECL|function|diff_index_show_file
 DECL|function|do_diff_cache
 DECL|function|do_oneway_diff
