@@ -32,6 +32,7 @@ DECL|function|find_mark
 DECL|function|find_object
 DECL|function|get_mode
 DECL|function|gfi_unpack_entry
+DECL|function|git_pack_config
 DECL|function|grow_tree_content
 DECL|function|hc_entries
 DECL|function|hc_str
@@ -188,6 +189,8 @@ DECL|variable|object_count_by_type
 DECL|variable|object_entry_alloc
 DECL|variable|object_table
 DECL|variable|old_tree
+DECL|variable|pack_compression_level
+DECL|variable|pack_compression_seen
 DECL|variable|pack_data
 DECL|variable|pack_edges
 DECL|variable|pack_id
