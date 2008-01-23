@@ -23,6 +23,7 @@ DECL|function|estimate_cache_size
 DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
+DECL|function|hash_index_entry
 DECL|function|hash_name
 DECL|function|ie_match_stat
 DECL|function|ie_modified
@@ -30,6 +31,7 @@ DECL|function|index_name_exists
 DECL|function|index_name_pos
 DECL|function|index_name_pos_also_unmerged
 DECL|function|is_racy_timestamp
+DECL|function|lazy_init_name_hash
 DECL|function|make_cache_entry
 DECL|function|read_index
 DECL|function|read_index_extension

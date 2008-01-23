@@ -184,6 +184,7 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|name_hash
+DECL|member|name_hash_initialized
 DECL|member|new_sha1
 DECL|member|next
 DECL|member|next
