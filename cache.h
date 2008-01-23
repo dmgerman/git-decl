@@ -52,6 +52,7 @@ DECL|macro|CE_NAMEMASK
 DECL|macro|CE_REMOVE
 DECL|macro|CE_STAGEMASK
 DECL|macro|CE_STAGESHIFT
+DECL|macro|CE_UNHASHED
 DECL|macro|CE_UPDATE
 DECL|macro|CE_UPTODATE
 DECL|macro|CE_VALID
@@ -116,6 +117,7 @@ DECL|macro|add_cache_entry
 DECL|macro|add_file_to_cache
 DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
+DECL|macro|cache_name_exists
 DECL|macro|cache_name_pos
 DECL|macro|canon_mode
 DECL|macro|ce_mark_uptodate
@@ -181,7 +183,9 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|name
+DECL|member|name_hash
 DECL|member|new_sha1
+DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|next

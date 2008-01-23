@@ -19,11 +19,14 @@ DECL|function|check_file_directory_conflict
 DECL|function|compare_name
 DECL|function|convert_from_disk
 DECL|function|discard_index
+DECL|function|estimate_cache_size
 DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
+DECL|function|hash_name
 DECL|function|ie_match_stat
 DECL|function|ie_modified
+DECL|function|index_name_exists
 DECL|function|index_name_pos
 DECL|function|index_name_pos_also_unmerged
 DECL|function|is_racy_timestamp
@@ -35,7 +38,10 @@ DECL|function|refresh_cache_ent
 DECL|function|refresh_cache_entry
 DECL|function|refresh_index
 DECL|function|remove_file_from_index
+DECL|function|remove_hash_entry
 DECL|function|remove_index_entry_at
+DECL|function|replace_index_entry
+DECL|function|set_index_entry
 DECL|function|verify_dotfile
 DECL|function|verify_hdr
 DECL|function|verify_path
