@@ -1,3 +1,4 @@
+DECL|function|check_typos
 DECL|function|get_arg
 DECL|function|get_value
 DECL|function|opterror
