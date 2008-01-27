@@ -16,13 +16,14 @@ DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|check_to_create_blob
 DECL|function|check_whitespace
+DECL|function|clear_image
 DECL|function|cmd_apply
 DECL|function|count_slashes
 DECL|function|create_file
 DECL|function|create_one_file
 DECL|function|find_header
 DECL|function|find_name
-DECL|function|find_offset
+DECL|function|find_pos
 DECL|function|get_current_sha1
 DECL|function|git_apply_config
 DECL|function|git_header_name
@@ -43,6 +44,7 @@ DECL|function|gitdiff_similarity
 DECL|function|gitdiff_unrecognized
 DECL|function|gitdiff_verify_name
 DECL|function|guess_p_value
+DECL|function|hash_line
 DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|linelen
@@ -64,6 +66,7 @@ DECL|function|parse_whitespace_option
 DECL|function|patch_stats
 DECL|function|prefix_one
 DECL|function|prefix_patches
+DECL|function|prepare_image
 DECL|function|read_file_or_gitlink
 DECL|function|read_old_data
 DECL|function|read_patch_file
@@ -81,6 +84,7 @@ DECL|function|stat_patch_list
 DECL|function|stop_at_slash
 DECL|function|summary_patch_list
 DECL|function|try_create_file
+DECL|function|update_image
 DECL|function|use_patch
 DECL|function|verify_index_match
 DECL|function|write_out_one_reject
@@ -95,9 +99,12 @@ DECL|macro|TERM_TAB
 DECL|macro|binary_patch_method
 DECL|macro|myswap
 DECL|macro|swap
+DECL|member|buf
 DECL|member|def_name
 DECL|member|deflate_origlen
+DECL|member|flag
 DECL|member|fragments
+DECL|member|hash
 DECL|member|inaccurate_eof
 DECL|member|is_binary
 DECL|member|is_copy
@@ -106,6 +113,10 @@ DECL|member|is_new
 DECL|member|is_rename
 DECL|member|is_toplevel_relative
 DECL|member|leading
+DECL|member|len
+DECL|member|len
+DECL|member|line
+DECL|member|line_allocated
 DECL|member|lines_added
 DECL|member|lines_deleted
 DECL|member|new_mode
@@ -116,6 +127,7 @@ DECL|member|newpos
 DECL|member|next
 DECL|member|next
 DECL|member|next
+DECL|member|nr
 DECL|member|old_mode
 DECL|member|old_name
 DECL|member|old_sha1_prefix
@@ -133,6 +145,8 @@ DECL|member|trailing
 DECL|member|ws_rule
 DECL|struct|excludes
 DECL|struct|fragment
+DECL|struct|image
+DECL|struct|line
 DECL|struct|patch
 DECL|variable|applied_after_fixing_ws
 DECL|variable|apply
