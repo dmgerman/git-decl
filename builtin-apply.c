@@ -4,6 +4,7 @@ DECL|enumerator|nowarn_ws_error
 DECL|enumerator|warn_on_ws_error
 DECL|enum|ws_error_action
 DECL|function|add_index_file
+DECL|function|add_line_info
 DECL|function|apply_binary
 DECL|function|apply_binary_fragment
 DECL|function|apply_data
@@ -93,12 +94,14 @@ DECL|function|write_out_results
 DECL|macro|BINARY_DELTA_DEFLATED
 DECL|macro|BINARY_LITERAL_DEFLATED
 DECL|macro|CHUNKSIZE
+DECL|macro|LINE_COMMON
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
 DECL|macro|binary_patch_method
 DECL|macro|myswap
 DECL|macro|swap
+DECL|member|alloc
 DECL|member|buf
 DECL|member|def_name
 DECL|member|deflate_origlen
