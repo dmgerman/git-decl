@@ -9,7 +9,6 @@ DECL|function|apply_binary
 DECL|function|apply_binary_fragment
 DECL|function|apply_data
 DECL|function|apply_fragments
-DECL|function|apply_line
 DECL|function|apply_one_fragment
 DECL|function|apply_patch
 DECL|function|build_fake_ancestor
@@ -19,6 +18,7 @@ DECL|function|check_to_create_blob
 DECL|function|check_whitespace
 DECL|function|clear_image
 DECL|function|cmd_apply
+DECL|function|copy_wsfix
 DECL|function|count_slashes
 DECL|function|create_file
 DECL|function|create_one_file
