@@ -86,6 +86,7 @@ DECL|function|stop_at_slash
 DECL|function|summary_patch_list
 DECL|function|try_create_file
 DECL|function|update_image
+DECL|function|update_pre_post_images
 DECL|function|use_patch
 DECL|function|verify_index_match
 DECL|function|write_out_one_reject
