@@ -151,6 +151,7 @@ DECL|variable|pack_compression_seen
 DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz
 DECL|variable|pack_size_limit
+DECL|variable|pack_size_limit_cfg
 DECL|variable|pack_to_stdout
 DECL|variable|pack_usage
 DECL|variable|pbase_tree
