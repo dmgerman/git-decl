@@ -1,5 +1,6 @@
 DECL|function|add_cacheinfo
 DECL|function|better_branch_name
+DECL|function|cmd_merge_recursive
 DECL|function|commit_list_count
 DECL|function|conflict_rename_dir
 DECL|function|conflict_rename_rename
@@ -15,7 +16,6 @@ DECL|function|get_renames
 DECL|function|get_unmerged
 DECL|function|git_merge_trees
 DECL|function|git_path_check_merge
-DECL|function|git_write_tree
 DECL|function|init_tree_desc_from_tree
 DECL|function|initialize_ll_merge
 DECL|function|insert_stage_data
@@ -24,12 +24,11 @@ DECL|function|ll_ext_merge
 DECL|function|ll_merge
 DECL|function|ll_union_merge
 DECL|function|ll_xdl_merge
-DECL|function|main
 DECL|function|make_room_for_path
 DECL|function|make_virtual_commit
-DECL|function|merge
 DECL|function|merge_config
 DECL|function|merge_file
+DECL|function|merge_recursive
 DECL|function|merge_trees
 DECL|function|mkdir_p
 DECL|function|output
@@ -50,6 +49,7 @@ DECL|function|unmerged_index
 DECL|function|update_file
 DECL|function|update_file_flags
 DECL|function|update_stages
+DECL|function|write_tree_from_memory
 DECL|macro|LL_BINARY_MERGE
 DECL|macro|LL_TEXT_MERGE
 DECL|macro|LL_UNION_MERGE
