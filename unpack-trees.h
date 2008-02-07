@@ -12,6 +12,7 @@ DECL|member|nontrivial_merge
 DECL|member|pos
 DECL|member|prefix
 DECL|member|reset
+DECL|member|skip_unmerged
 DECL|member|trivial_merges_only
 DECL|member|unpack_data
 DECL|member|update
