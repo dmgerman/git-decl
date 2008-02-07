@@ -45,7 +45,6 @@ DECL|function|shift_tree_object
 DECL|function|show
 DECL|function|stage_sha
 DECL|function|unique_path
-DECL|function|unmerged_index
 DECL|function|update_file
 DECL|function|update_file_flags
 DECL|function|update_stages
