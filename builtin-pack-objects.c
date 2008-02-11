@@ -20,6 +20,7 @@ DECL|function|find_deltas
 DECL|function|find_packed_object
 DECL|function|find_packed_object_name
 DECL|function|free_unpacked
+DECL|function|free_unpacked_data
 DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
