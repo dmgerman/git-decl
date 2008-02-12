@@ -2,7 +2,6 @@ DECL|function|color
 DECL|function|git_status_config
 DECL|function|parse_status_slot
 DECL|function|quote_path
-DECL|function|wt_read_cache
 DECL|function|wt_status_prepare
 DECL|function|wt_status_print
 DECL|function|wt_status_print_cached_header
