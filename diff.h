@@ -36,6 +36,7 @@ DECL|macro|DIFF_OPT_HAS_CHANGES
 DECL|macro|DIFF_OPT_NO_INDEX
 DECL|macro|DIFF_OPT_QUIET
 DECL|macro|DIFF_OPT_RECURSIVE
+DECL|macro|DIFF_OPT_RELATIVE_NAME
 DECL|macro|DIFF_OPT_REVERSE_DIFF
 DECL|macro|DIFF_OPT_SET
 DECL|macro|DIFF_OPT_SILENT_ON_REMOVE
@@ -89,6 +90,8 @@ DECL|member|pathlens
 DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
+DECL|member|prefix
+DECL|member|prefix_length
 DECL|member|rename_limit
 DECL|member|rename_score
 DECL|member|setup
