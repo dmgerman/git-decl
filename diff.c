@@ -112,6 +112,8 @@ DECL|macro|FAST_WORKING_DIRECTORY
 DECL|member|added
 DECL|member|alloc
 DECL|member|alloc
+DECL|member|alloc
+DECL|member|changed
 DECL|member|cmd
 DECL|member|color_diff
 DECL|member|color_diff
@@ -136,6 +138,7 @@ DECL|member|label_path
 DECL|member|lineno
 DECL|member|minus
 DECL|member|mode
+DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|name
@@ -169,9 +172,10 @@ DECL|struct|checkdiff_t
 DECL|struct|diff_tempfile
 DECL|struct|diff_words_buffer
 DECL|struct|diff_words_data
-DECL|struct|diffstat_dir
 DECL|struct|diffstat_file
 DECL|struct|diffstat_t
+DECL|struct|dirstat_dir
+DECL|struct|dirstat_file
 DECL|struct|emit_callback
 DECL|struct|funcname_pattern
 DECL|struct|ll_diff_driver
