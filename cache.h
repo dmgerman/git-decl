@@ -28,6 +28,7 @@ DECL|enum|object_type
 DECL|enum|sharedrepo
 DECL|function|ce_mode_from_stat
 DECL|function|ce_namelen
+DECL|function|ce_to_dtype
 DECL|function|create_ce_flags
 DECL|function|create_ce_mode
 DECL|function|hashclr
