@@ -23,8 +23,12 @@ DECL|enumerator|REF_STATUS_REJECT_NODELETE
 DECL|enumerator|REF_STATUS_REJECT_NONFASTFORWARD
 DECL|enumerator|REF_STATUS_REMOTE_REJECT
 DECL|enumerator|REF_STATUS_UPTODATE
+DECL|enumerator|SAFE_CRLF_FAIL
+DECL|enumerator|SAFE_CRLF_FALSE
+DECL|enumerator|SAFE_CRLF_WARN
 DECL|enum|date_mode
 DECL|enum|object_type
+DECL|enum|safe_crlf
 DECL|enum|sharedrepo
 DECL|function|ce_mode_from_stat
 DECL|function|ce_namelen
