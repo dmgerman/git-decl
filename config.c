@@ -11,13 +11,16 @@ DECL|function|get_value
 DECL|function|git_config
 DECL|function|git_config_bool
 DECL|function|git_config_from_file
+DECL|function|git_config_global
 DECL|function|git_config_int
 DECL|function|git_config_rename_section
 DECL|function|git_config_set
 DECL|function|git_config_set_multivar
 DECL|function|git_config_string
+DECL|function|git_config_system
 DECL|function|git_config_ulong
 DECL|function|git_default_config
+DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
 DECL|function|git_parse_file
 DECL|function|git_parse_long
