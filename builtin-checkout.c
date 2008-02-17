@@ -1,9 +1,12 @@
+DECL|function|adjust_to_tracking
 DECL|function|checkout_paths
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
+DECL|function|find_build_base
 DECL|function|git_checkout_config
 DECL|function|merge_working_tree
 DECL|function|post_checkout_hook
+DECL|function|read_branch_config
 DECL|function|read_tree_some
 DECL|function|reset_clean_to_new
 DECL|function|reset_to_new
@@ -23,5 +26,9 @@ DECL|member|quiet
 DECL|member|track
 DECL|struct|branch_info
 DECL|struct|checkout_opts
+DECL|variable|branch_name
+DECL|variable|branch_name_len
 DECL|variable|branch_track
 DECL|variable|checkout_usage
+DECL|variable|found_merge
+DECL|variable|found_remote
