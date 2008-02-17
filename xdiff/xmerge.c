@@ -1,3 +1,5 @@
+DECL|function|line_contains_alnum
+DECL|function|lines_contain_alnum
 DECL|function|xdl_append_merge
 DECL|function|xdl_cleanup_merge
 DECL|function|xdl_do_merge
