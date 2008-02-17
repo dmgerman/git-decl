@@ -8,6 +8,7 @@ DECL|function|cmd_to_page
 DECL|function|cmd_version
 DECL|function|cmdname_compare
 DECL|function|exclude_cmds
+DECL|function|get_html_page_path
 DECL|function|git_help_config
 DECL|function|help_unknown_cmd
 DECL|function|list_commands
