@@ -1,3 +1,4 @@
+DECL|function|add_header
 DECL|function|add_name_decoration
 DECL|function|add_pending_commit
 DECL|function|add_ref_decoration
@@ -32,8 +33,15 @@ DECL|variable|auto_number
 DECL|variable|cherry_usage
 DECL|variable|default_show_root
 DECL|variable|early_output_timer
-DECL|variable|extra_headers
-DECL|variable|extra_headers_size
+DECL|variable|extra_cc
+DECL|variable|extra_cc_alloc
+DECL|variable|extra_cc_nr
+DECL|variable|extra_hdr
+DECL|variable|extra_hdr_alloc
+DECL|variable|extra_hdr_nr
+DECL|variable|extra_to
+DECL|variable|extra_to_alloc
+DECL|variable|extra_to_nr
 DECL|variable|fmt_patch_subject_prefix
 DECL|variable|fmt_patch_suffix
 DECL|variable|numbered
