@@ -1,7 +1,6 @@
 DECL|function|add_again
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
-DECL|function|add_user_info
 DECL|function|format_commit_item
 DECL|function|format_commit_message
 DECL|function|format_person_part
@@ -16,6 +15,7 @@ DECL|function|parse_commit_header
 DECL|function|pp_header
 DECL|function|pp_remainder
 DECL|function|pp_title_line
+DECL|function|pp_user_info
 DECL|function|pretty_print_commit
 DECL|function|replace_encoding_header
 DECL|member|abbrev_commit_hash
