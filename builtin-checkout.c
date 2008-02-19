@@ -24,5 +24,4 @@ DECL|member|quiet
 DECL|member|track
 DECL|struct|branch_info
 DECL|struct|checkout_opts
-DECL|variable|branch_track
 DECL|variable|checkout_usage
