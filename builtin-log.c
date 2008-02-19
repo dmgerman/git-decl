@@ -14,11 +14,13 @@ DECL|function|early_output
 DECL|function|estimate_commit_count
 DECL|function|finish_early_output
 DECL|function|gen_message_id
+DECL|function|get_oneline_for_filename
 DECL|function|get_patch_ids
 DECL|function|git_format_config
 DECL|function|git_log_config
 DECL|function|istitlechar
 DECL|function|log_show_early
+DECL|function|make_cover_letter
 DECL|function|reopen_stdout
 DECL|function|setup_early_output
 DECL|function|show_early_header
