@@ -8,6 +8,7 @@ DECL|function|is_inside_git_dir
 DECL|function|is_inside_work_tree
 DECL|function|prefix_filename
 DECL|function|prefix_path
+DECL|function|sanitary_path_copy
 DECL|function|set_work_tree
 DECL|function|setup_git_directory
 DECL|function|setup_git_directory_gently
