@@ -3,6 +3,7 @@ DECL|enumerator|SECTION_END_SEEN
 DECL|enumerator|SECTION_SEEN
 DECL|enumerator|START
 DECL|function|config_error_nonbool
+DECL|function|die_bad_config
 DECL|function|find_beginning_of_line
 DECL|function|get_base_var
 DECL|function|get_extended_base_var
