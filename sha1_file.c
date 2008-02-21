@@ -112,6 +112,7 @@ DECL|variable|cached_objects
 DECL|variable|delta_base_cache
 DECL|variable|delta_base_cache_lru
 DECL|variable|delta_base_cached
+DECL|variable|empty_tree
 DECL|variable|hexval_table
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
