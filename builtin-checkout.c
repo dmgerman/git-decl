@@ -1,4 +1,3 @@
-DECL|function|adjust_to_tracking
 DECL|function|checkout_paths
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
@@ -6,6 +5,7 @@ DECL|function|git_checkout_config
 DECL|function|merge_working_tree
 DECL|function|post_checkout_hook
 DECL|function|read_tree_some
+DECL|function|report_tracking
 DECL|function|reset_clean_to_new
 DECL|function|reset_to_new
 DECL|function|setup_branch_path
