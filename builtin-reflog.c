@@ -33,5 +33,6 @@ DECL|struct|collected_reflog
 DECL|struct|expire_reflog_cb
 DECL|variable|default_reflog_expire
 DECL|variable|default_reflog_expire_unreachable
+DECL|variable|reflog_delete_usage
 DECL|variable|reflog_expire_usage
 DECL|variable|reflog_usage
