@@ -28,6 +28,7 @@ DECL|member|revs
 DECL|member|rewrite
 DECL|member|sha1
 DECL|member|stalefix
+DECL|member|updateref
 DECL|member|verbose
 DECL|struct|cmd_reflog_expire_cb
 DECL|struct|collect_reflog_cb
