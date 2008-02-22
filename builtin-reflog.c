@@ -17,6 +17,7 @@ DECL|member|dry_run
 DECL|member|e
 DECL|member|expire_total
 DECL|member|expire_unreachable
+DECL|member|last_kept_sha1
 DECL|member|newlog
 DECL|member|nr
 DECL|member|recno
@@ -24,6 +25,7 @@ DECL|member|ref
 DECL|member|ref_commit
 DECL|member|reflog
 DECL|member|revs
+DECL|member|rewrite
 DECL|member|sha1
 DECL|member|stalefix
 DECL|member|verbose
