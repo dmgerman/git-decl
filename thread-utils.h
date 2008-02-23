@@ -1,0 +1,1 @@
+DECL|macro|THREAD_COMPAT_H
