@@ -33,6 +33,7 @@ DECL|enum|sharedrepo
 DECL|function|ce_mode_from_stat
 DECL|function|ce_namelen
 DECL|function|ce_to_dtype
+DECL|function|copy_cache_entry
 DECL|function|create_ce_flags
 DECL|function|create_ce_mode
 DECL|function|hashclr
@@ -59,6 +60,7 @@ DECL|macro|CE_NAMEMASK
 DECL|macro|CE_REMOVE
 DECL|macro|CE_STAGEMASK
 DECL|macro|CE_STAGESHIFT
+DECL|macro|CE_STATE_MASK
 DECL|macro|CE_UNHASHED
 DECL|macro|CE_UPDATE
 DECL|macro|CE_UPTODATE
