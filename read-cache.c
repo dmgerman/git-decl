@@ -40,7 +40,6 @@ DECL|function|refresh_cache_ent
 DECL|function|refresh_cache_entry
 DECL|function|refresh_index
 DECL|function|remove_file_from_index
-DECL|function|remove_hash_entry
 DECL|function|remove_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_index_entry
