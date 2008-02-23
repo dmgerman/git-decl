@@ -3,6 +3,7 @@ DECL|enumerator|rewrite_one_noparents
 DECL|enumerator|rewrite_one_ok
 DECL|enum|rewrite_result
 DECL|function|add_grep
+DECL|function|add_head_to_pending
 DECL|function|add_header_grep
 DECL|function|add_ignore_packed
 DECL|function|add_message_grep
@@ -12,6 +13,7 @@ DECL|function|add_parents_to_list
 DECL|function|add_pending_commit_list
 DECL|function|add_pending_object
 DECL|function|add_pending_object_with_mode
+DECL|function|add_to_list
 DECL|function|cherry_pick_list
 DECL|function|commit_match
 DECL|function|everybody_uninteresting
@@ -43,10 +45,12 @@ DECL|function|rev_same_tree_as_empty
 DECL|function|rewrite_one
 DECL|function|rewrite_parents
 DECL|function|setup_revisions
+DECL|function|simplify_commit
 DECL|function|try_to_simplify_commit
 DECL|member|all_flags
 DECL|member|all_revs
 DECL|member|name_for_errormsg
 DECL|member|warned_bad_reflog
 DECL|struct|all_refs_cb
+DECL|variable|show_early_output
 DECL|variable|tree_difference

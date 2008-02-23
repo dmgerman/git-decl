@@ -9,6 +9,7 @@ DECL|function|find_delta_children
 DECL|function|fix_unresolved_deltas
 DECL|function|flush
 DECL|function|get_data_from_pack
+DECL|function|git_index_pack_config
 DECL|function|main
 DECL|function|open_pack_file
 DECL|function|parse_pack_header

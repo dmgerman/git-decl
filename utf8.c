@@ -2,6 +2,7 @@ DECL|function|bisearch
 DECL|function|git_wcwidth
 DECL|function|is_encoding_utf8
 DECL|function|is_utf8
+DECL|function|pick_one_utf8_char
 DECL|function|print_spaces
 DECL|function|print_wrapped_text
 DECL|function|reencode_string
@@ -11,4 +12,3 @@ DECL|member|last
 DECL|struct|interval
 DECL|typedef|iconv_ibp
 DECL|typedef|iconv_ibp
-DECL|typedef|ucs_char_t

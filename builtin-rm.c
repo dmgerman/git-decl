@@ -5,6 +5,13 @@ DECL|function|remove_file
 DECL|member|alloc
 DECL|member|name
 DECL|member|nr
+DECL|variable|builtin_rm_options
 DECL|variable|builtin_rm_usage
+DECL|variable|force
+DECL|variable|ignore_unmatch
+DECL|variable|index_only
 DECL|variable|list
 DECL|variable|lock_file
+DECL|variable|quiet
+DECL|variable|recursive
+DECL|variable|show_only

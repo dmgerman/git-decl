@@ -14,5 +14,5 @@ DECL|member|refs_file
 DECL|member|sha1
 DECL|struct|pack_refs_cb_data
 DECL|struct|ref_to_prune
-DECL|variable|builtin_pack_refs_usage
+DECL|variable|pack_refs_usage
 DECL|variable|packed

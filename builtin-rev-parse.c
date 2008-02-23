@@ -1,5 +1,7 @@
+DECL|function|cmd_parseopt
 DECL|function|cmd_rev_parse
 DECL|function|is_rev_argument
+DECL|function|parseopt_dump
 DECL|function|show
 DECL|function|show_datestring
 DECL|function|show_default
@@ -7,6 +9,7 @@ DECL|function|show_file
 DECL|function|show_flag
 DECL|function|show_reference
 DECL|function|show_rev
+DECL|function|skipspaces
 DECL|function|try_difference
 DECL|macro|DO_FLAGS
 DECL|macro|DO_NONFLAGS
@@ -14,6 +17,8 @@ DECL|macro|DO_NOREV
 DECL|macro|DO_REVS
 DECL|macro|NORMAL
 DECL|macro|REVERSED
+DECL|macro|SHOW_SYMBOLIC_ASIS
+DECL|macro|SHOW_SYMBOLIC_FULL
 DECL|variable|abbrev
 DECL|variable|def
 DECL|variable|filter

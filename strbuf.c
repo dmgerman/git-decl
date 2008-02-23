@@ -1,8 +1,11 @@
+DECL|function|prefixcmp
 DECL|function|strbuf_add
+DECL|function|strbuf_adddup
 DECL|function|strbuf_addf
 DECL|function|strbuf_attach
 DECL|function|strbuf_cmp
 DECL|function|strbuf_detach
+DECL|function|strbuf_expand
 DECL|function|strbuf_fread
 DECL|function|strbuf_getline
 DECL|function|strbuf_grow

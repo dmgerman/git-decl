@@ -1,4 +1,3 @@
-DECL|function|add_head
 DECL|function|builtin_diff_b_f
 DECL|function|builtin_diff_blobs
 DECL|function|builtin_diff_combined

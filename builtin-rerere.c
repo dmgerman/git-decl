@@ -10,7 +10,9 @@ DECL|function|is_rerere_enabled
 DECL|function|merge
 DECL|function|outf
 DECL|function|read_rr
+DECL|function|rerere
 DECL|function|rr_path
+DECL|function|setup_rerere
 DECL|function|unlink_rr_item
 DECL|function|write_rr
 DECL|variable|cutoff_noresolve

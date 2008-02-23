@@ -1,8 +1,8 @@
-DECL|enumerator|error_on_whitespace
-DECL|enumerator|nowarn_whitespace
-DECL|enumerator|strip_whitespace
-DECL|enumerator|warn_on_whitespace
-DECL|enum|whitespace_eol
+DECL|enumerator|correct_ws_error
+DECL|enumerator|die_on_ws_error
+DECL|enumerator|nowarn_ws_error
+DECL|enumerator|warn_on_ws_error
+DECL|enum|ws_error_action
 DECL|function|add_index_file
 DECL|function|apply_binary
 DECL|function|apply_binary_fragment
@@ -129,6 +129,7 @@ DECL|member|resultsize
 DECL|member|score
 DECL|member|size
 DECL|member|trailing
+DECL|member|ws_rule
 DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|patch
@@ -150,7 +151,6 @@ DECL|variable|lock_file
 DECL|variable|max_change
 DECL|variable|max_len
 DECL|variable|minuses
-DECL|variable|new_whitespace
 DECL|variable|newfd
 DECL|variable|no_add
 DECL|variable|numstat
@@ -166,3 +166,4 @@ DECL|variable|summary
 DECL|variable|unidiff_zero
 DECL|variable|update_index
 DECL|variable|whitespace_error
+DECL|variable|ws_error_action

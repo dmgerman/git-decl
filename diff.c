@@ -35,6 +35,7 @@ DECL|function|diff_q
 DECL|function|diff_queue
 DECL|function|diff_queue_is_empty
 DECL|function|diff_resolve_rename_copy
+DECL|function|diff_result_code
 DECL|function|diff_scoreopt_parse
 DECL|function|diff_setup
 DECL|function|diff_setup_done
@@ -53,17 +54,20 @@ DECL|function|emit_add_line
 DECL|function|emit_binary_diff
 DECL|function|emit_binary_diff_body
 DECL|function|emit_line
-DECL|function|emit_line_with_ws
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|external_diff_attr
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
+DECL|function|fill_print_name
 DECL|function|flush_one_pair
 DECL|function|fn_out_consume
 DECL|function|fn_out_diff_words_aux
 DECL|function|free_diff_words_data
+DECL|function|free_diffstat_info
+DECL|function|free_filespec
 DECL|function|funcname_pattern
+DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
 DECL|function|is_summary_empty
 DECL|function|opt_arg
@@ -79,7 +83,6 @@ DECL|function|prepare_temp_file
 DECL|function|print_line_count
 DECL|function|print_word
 DECL|function|quote_two
-DECL|function|read_config_if_needed
 DECL|function|remove_space
 DECL|function|remove_tempfile
 DECL|function|remove_tempfile_on_signal
@@ -89,6 +92,7 @@ DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
+DECL|function|sane_truncate_line
 DECL|function|scale_linear
 DECL|function|setup_diff_attr_check
 DECL|function|show_file_mode_name
@@ -100,7 +104,6 @@ DECL|function|show_rename_copy
 DECL|function|show_shortstats
 DECL|function|show_stats
 DECL|function|similarity_index
-DECL|function|spawn_prog
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|member|added
@@ -116,6 +119,7 @@ DECL|member|diff_words
 DECL|member|filename
 DECL|member|files
 DECL|member|found_changesp
+DECL|member|from_name
 DECL|member|hex
 DECL|member|is_binary
 DECL|member|is_renamed
@@ -137,9 +141,14 @@ DECL|member|patchlen
 DECL|member|pattern
 DECL|member|pattern
 DECL|member|plus
+DECL|member|print_name
+DECL|member|status
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
+DECL|member|truncate
+DECL|member|ws_rule
+DECL|member|ws_rule
 DECL|member|xm
 DECL|member|xm
 DECL|member|xm
@@ -156,6 +165,7 @@ DECL|struct|emit_callback
 DECL|struct|funcname_pattern
 DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
+DECL|typedef|sane_truncate_fn
 DECL|variable|builtin_funcname_pattern
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
@@ -164,6 +174,7 @@ DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
+DECL|variable|external_diff_cmd_cfg
 DECL|variable|funcname_pattern_list
 DECL|variable|mime_boundary_leader
 DECL|variable|user_diff

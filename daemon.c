@@ -37,6 +37,7 @@ DECL|macro|INTERP_SLOT_IP
 DECL|macro|INTERP_SLOT_PERCENT
 DECL|macro|INTERP_SLOT_PORT
 DECL|macro|MAX_CHILDREN
+DECL|macro|NI_MAXSERV
 DECL|member|address
 DECL|member|addrlen
 DECL|member|config_name

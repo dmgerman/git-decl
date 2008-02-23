@@ -1,12 +1,15 @@
 DECL|function|add_ref
 DECL|function|bad_ref_char
 DECL|function|check_ref_format
+DECL|function|close_ref
+DECL|function|commit_ref
 DECL|function|copy_msg
 DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|do_for_each_ref
 DECL|function|do_for_each_reflog
 DECL|function|do_one_ref
+DECL|function|find_ref_by_name
 DECL|function|for_each_branch_ref
 DECL|function|for_each_ref
 DECL|function|for_each_reflog
@@ -17,9 +20,9 @@ DECL|function|free_ref_list
 DECL|function|get_loose_refs
 DECL|function|get_packed_refs
 DECL|function|get_ref_dir
-DECL|function|get_ref_sha1
 DECL|function|head_ref
 DECL|function|invalidate_cached_refs
+DECL|function|is_branch
 DECL|function|is_refname_available
 DECL|function|lock_any_ref_for_update
 DECL|function|lock_ref_sha1
@@ -31,7 +34,7 @@ DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
 DECL|function|ref_msg
-DECL|function|remove_empty_dir_recursive
+DECL|function|refname_match
 DECL|function|remove_empty_directories
 DECL|function|rename_ref
 DECL|function|repack_without_ref
@@ -60,3 +63,5 @@ DECL|struct|cached_refs
 DECL|struct|ref_list
 DECL|variable|cached_refs
 DECL|variable|packlock
+DECL|variable|ref_fetch_rules
+DECL|variable|ref_rev_parse_rules

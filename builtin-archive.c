@@ -1,13 +1,10 @@
 DECL|function|cmd_archive
-DECL|function|convert_to_archive
 DECL|function|extract_remote_arg
-DECL|function|format_subst
 DECL|function|init_archiver
 DECL|function|parse_archive_args
 DECL|function|parse_pathspec_arg
 DECL|function|parse_treeish_arg
 DECL|function|run_remote_archiver
-DECL|function|sha1_file_to_archive
 DECL|member|name
 DECL|member|parse_extra
 DECL|member|write_archive

@@ -1,10 +1,14 @@
 DECL|function|best_bisection
+DECL|function|best_bisection_sorted
 DECL|function|clear_distance
 DECL|function|cmd_rev_list
+DECL|function|compare_commit_dist
 DECL|function|count_distance
 DECL|function|count_interesting_parents
 DECL|function|do_find_bisection
 DECL|function|find_bisection
+DECL|function|finish_commit
+DECL|function|finish_object
 DECL|function|halfway
 DECL|function|read_revisions_from_stdin
 DECL|function|show_commit
@@ -16,6 +20,9 @@ DECL|function|weight_set
 DECL|macro|COUNTED
 DECL|macro|DEBUG_BISECT
 DECL|macro|show_list
+DECL|member|commit
+DECL|member|distance
+DECL|struct|commit_dist
 DECL|variable|bisect_list
 DECL|variable|hdr_termination
 DECL|variable|header_prefix

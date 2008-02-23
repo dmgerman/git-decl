@@ -3,6 +3,7 @@ DECL|function|add_packed_git
 DECL|function|cache_or_unpack_entry
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
+DECL|function|close_pack_windows
 DECL|function|fill_sha1_path
 DECL|function|find_cached_object
 DECL|function|find_pack_entry
@@ -65,6 +66,8 @@ DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sha1_to_hex
 DECL|function|sort_pack
+DECL|function|sz_fmt
+DECL|function|sz_fmt
 DECL|function|unpack_compressed_entry
 DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
@@ -109,6 +112,7 @@ DECL|variable|cached_objects
 DECL|variable|delta_base_cache
 DECL|variable|delta_base_cache_lru
 DECL|variable|delta_base_cached
+DECL|variable|empty_tree
 DECL|variable|hexval_table
 DECL|variable|null_sha1
 DECL|variable|pack_mapped

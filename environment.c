@@ -14,6 +14,7 @@ DECL|variable|core_compression_level
 DECL|variable|core_compression_seen
 DECL|variable|delta_base_cache_limit
 DECL|variable|editor_program
+DECL|variable|excludes_file
 DECL|variable|git_commit_encoding
 DECL|variable|git_default_email
 DECL|variable|git_default_name
@@ -29,14 +30,15 @@ DECL|variable|is_bare_repository_cfg
 DECL|variable|log_all_ref_updates
 DECL|variable|packed_git_limit
 DECL|variable|packed_git_window_size
-DECL|variable|pager_in_use
 DECL|variable|pager_program
 DECL|variable|pager_use_color
 DECL|variable|prefer_symlink_refs
 DECL|variable|quote_path_fully
 DECL|variable|repository_format_version
+DECL|variable|safe_crlf
 DECL|variable|shared_repository
 DECL|variable|trust_executable_bit
 DECL|variable|warn_ambiguous_refs
+DECL|variable|whitespace_rule_cfg
 DECL|variable|work_tree
 DECL|variable|zlib_compression_level

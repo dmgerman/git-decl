@@ -4,6 +4,7 @@ DECL|function|perl_quote_print
 DECL|function|python_quote_print
 DECL|function|quote_c_style
 DECL|function|quote_c_style_counted
+DECL|function|quote_two_c_style
 DECL|function|sq_dequote
 DECL|function|sq_must_quote
 DECL|function|sq_quote_argv
