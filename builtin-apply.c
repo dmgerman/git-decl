@@ -18,7 +18,6 @@ DECL|function|check_to_create_blob
 DECL|function|check_whitespace
 DECL|function|clear_image
 DECL|function|cmd_apply
-DECL|function|copy_wsfix
 DECL|function|count_slashes
 DECL|function|create_file
 DECL|function|create_one_file
