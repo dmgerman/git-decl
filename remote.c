@@ -42,9 +42,13 @@ DECL|function|try_explicit_object_name
 DECL|function|valid_remote_nick
 DECL|macro|BUF_SIZE
 DECL|member|base
+DECL|member|baselen
 DECL|member|instead_of
 DECL|member|instead_of_alloc
 DECL|member|instead_of_nr
+DECL|member|len
+DECL|member|s
+DECL|struct|counted_string
 DECL|struct|rewrite
 DECL|variable|branches
 DECL|variable|branches_alloc
