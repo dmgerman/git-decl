@@ -19,6 +19,9 @@ DECL|function|fsck_tree
 DECL|function|get_default_heads
 DECL|function|ino_compare
 DECL|function|is_branch
+DECL|function|mark_object
+DECL|function|mark_object_reachable
+DECL|function|mark_used
 DECL|function|objerror
 DECL|function|objreport
 DECL|function|objwarning
