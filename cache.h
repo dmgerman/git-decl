@@ -4,6 +4,7 @@ DECL|enumerator|DATE_NORMAL
 DECL|enumerator|DATE_RELATIVE
 DECL|enumerator|DATE_RFC2822
 DECL|enumerator|DATE_SHORT
+DECL|enumerator|OBJ_ANY
 DECL|enumerator|OBJ_BAD
 DECL|enumerator|OBJ_BLOB
 DECL|enumerator|OBJ_COMMIT
