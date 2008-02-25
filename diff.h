@@ -12,7 +12,9 @@ DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
 DECL|macro|DIFF_FORMAT_CALLBACK
 DECL|macro|DIFF_FORMAT_CHECKDIFF
+DECL|macro|DIFF_FORMAT_CUMULATIVE
 DECL|macro|DIFF_FORMAT_DIFFSTAT
+DECL|macro|DIFF_FORMAT_DIRSTAT
 DECL|macro|DIFF_FORMAT_NAME
 DECL|macro|DIFF_FORMAT_NAME_STATUS
 DECL|macro|DIFF_FORMAT_NO_OUTPUT
@@ -69,6 +71,7 @@ DECL|member|break_opt
 DECL|member|change
 DECL|member|context
 DECL|member|detect_rename
+DECL|member|dirstat_percent
 DECL|member|filter
 DECL|member|flags
 DECL|member|format_callback

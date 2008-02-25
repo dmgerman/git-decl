@@ -67,6 +67,7 @@ DECL|function|free_diff_words_data
 DECL|function|free_diffstat_info
 DECL|function|free_filespec
 DECL|function|funcname_pattern
+DECL|function|gather_dirstat
 DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
 DECL|function|is_summary_empty
@@ -95,6 +96,7 @@ DECL|function|run_external_diff
 DECL|function|sane_truncate_line
 DECL|function|scale_linear
 DECL|function|setup_diff_attr_check
+DECL|function|show_dirstat
 DECL|function|show_file_mode_name
 DECL|function|show_graph
 DECL|function|show_mode_change
@@ -113,10 +115,12 @@ DECL|member|cmd
 DECL|member|color_diff
 DECL|member|color_diff
 DECL|member|ctx
+DECL|member|cumulative
 DECL|member|current
 DECL|member|deleted
 DECL|member|diff_words
 DECL|member|filename
+DECL|member|files
 DECL|member|files
 DECL|member|found_changesp
 DECL|member|from_name
@@ -137,9 +141,11 @@ DECL|member|next
 DECL|member|next
 DECL|member|nparents
 DECL|member|nr
+DECL|member|nr
 DECL|member|patchlen
 DECL|member|pattern
 DECL|member|pattern
+DECL|member|percent
 DECL|member|plus
 DECL|member|print_name
 DECL|member|status
@@ -159,6 +165,7 @@ DECL|struct|checkdiff_t
 DECL|struct|diff_tempfile
 DECL|struct|diff_words_buffer
 DECL|struct|diff_words_data
+DECL|struct|diffstat_dir
 DECL|struct|diffstat_file
 DECL|struct|diffstat_t
 DECL|struct|emit_callback
