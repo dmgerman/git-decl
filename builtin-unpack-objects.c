@@ -3,6 +3,7 @@ DECL|function|added_object
 DECL|function|cmd_unpack_objects
 DECL|function|fill
 DECL|function|get_data
+DECL|function|lookup_object_buffer
 DECL|function|resolve_delta
 DECL|function|unpack_all
 DECL|function|unpack_delta_entry
@@ -12,13 +13,16 @@ DECL|function|use
 DECL|function|write_object
 DECL|member|base_offset
 DECL|member|base_sha1
+DECL|member|buffer
 DECL|member|delta
 DECL|member|next
 DECL|member|nr
 DECL|member|offset
 DECL|member|sha1
 DECL|member|size
+DECL|member|size
 DECL|struct|delta_info
+DECL|struct|obj_buffer
 DECL|struct|obj_info
 DECL|variable|buffer
 DECL|variable|consumed_bytes
@@ -27,6 +31,7 @@ DECL|variable|delta_list
 DECL|variable|dry_run
 DECL|variable|has_errors
 DECL|variable|len
+DECL|variable|obj_decorate
 DECL|variable|obj_list
 DECL|variable|offset
 DECL|variable|quiet
