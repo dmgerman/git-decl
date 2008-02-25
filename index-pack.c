@@ -1,5 +1,7 @@
 DECL|function|append_obj_to_pack
 DECL|function|bad_object
+DECL|function|check_object
+DECL|function|check_objects
 DECL|function|compare_delta_entry
 DECL|function|delta_pos_compare
 DECL|function|fill
@@ -11,6 +13,7 @@ DECL|function|flush
 DECL|function|get_data_from_pack
 DECL|function|git_index_pack_config
 DECL|function|main
+DECL|function|mark_link
 DECL|function|open_pack_file
 DECL|function|parse_pack_header
 DECL|function|parse_pack_objects
@@ -20,6 +23,8 @@ DECL|function|unpack_entry_data
 DECL|function|unpack_raw_entry
 DECL|function|use
 DECL|function|write_compressed
+DECL|macro|FLAG_CHECKED
+DECL|macro|FLAG_LINK
 DECL|macro|UNION_BASE_SZ
 DECL|member|base
 DECL|member|hdr_size
@@ -50,4 +55,5 @@ DECL|variable|objects
 DECL|variable|output_fd
 DECL|variable|pack_fd
 DECL|variable|progress
+DECL|variable|strict
 DECL|variable|verbose
