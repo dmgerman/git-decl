@@ -4,7 +4,7 @@ DECL|function|builtin_diff
 DECL|function|builtin_diffstat
 DECL|function|check_pair_status
 DECL|function|checkdiff_consume
-DECL|function|copy_file
+DECL|function|copy_file_with_prefix
 DECL|function|count_lines
 DECL|function|deflate_it
 DECL|function|diff_addremove
