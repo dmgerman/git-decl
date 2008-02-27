@@ -1,3 +1,7 @@
+DECL|enumerator|BRANCH_TRACK_ALWAYS
+DECL|enumerator|BRANCH_TRACK_EXPLICIT
+DECL|enumerator|BRANCH_TRACK_NEVER
+DECL|enumerator|BRANCH_TRACK_REMOTE
 DECL|enumerator|DATE_ISO8601
 DECL|enumerator|DATE_LOCAL
 DECL|enumerator|DATE_NORMAL
@@ -26,6 +30,7 @@ DECL|enumerator|REF_STATUS_UPTODATE
 DECL|enumerator|SAFE_CRLF_FAIL
 DECL|enumerator|SAFE_CRLF_FALSE
 DECL|enumerator|SAFE_CRLF_WARN
+DECL|enum|branch_track
 DECL|enum|date_mode
 DECL|enum|object_type
 DECL|enum|safe_crlf

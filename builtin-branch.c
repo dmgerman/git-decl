@@ -33,7 +33,6 @@ DECL|member|with_commit
 DECL|struct|ref_item
 DECL|struct|ref_list
 DECL|variable|branch_colors
-DECL|variable|branch_track
 DECL|variable|branch_use_color
 DECL|variable|builtin_branch_usage
 DECL|variable|head
