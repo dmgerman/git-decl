@@ -1,6 +1,6 @@
-DECL|enumerator|info_format
-DECL|enumerator|man_format
-DECL|enumerator|web_format
+DECL|enumerator|HELP_FORMAT_INFO
+DECL|enumerator|HELP_FORMAT_MAN
+DECL|enumerator|HELP_FORMAT_WEB
 DECL|enum|help_format
 DECL|function|add_cmdname
 DECL|function|cmd_help
@@ -11,9 +11,12 @@ DECL|function|exclude_cmds
 DECL|function|get_html_page_path
 DECL|function|git_help_config
 DECL|function|help_unknown_cmd
+DECL|function|is_git_command
+DECL|function|is_in_cmdlist
 DECL|function|list_commands
 DECL|function|list_commands_in_dir
 DECL|function|list_common_cmds_help
+DECL|function|load_command_list
 DECL|function|mput_char
 DECL|function|parse_help_format
 DECL|function|pretty_print_string_list
@@ -30,7 +33,9 @@ DECL|member|name
 DECL|member|names
 DECL|struct|cmdname
 DECL|struct|cmdnames
-DECL|variable|help_default_format
+DECL|variable|builtin_help_options
+DECL|variable|builtin_help_usage
 DECL|variable|help_format
 DECL|variable|main_cmds
 DECL|variable|other_cmds
+DECL|variable|show_all
