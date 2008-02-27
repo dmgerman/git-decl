@@ -6,11 +6,13 @@ DECL|macro|REMOTE_H
 DECL|member|dst
 DECL|member|fetch
 DECL|member|fetch_refspec
+DECL|member|fetch_refspec_alloc
 DECL|member|fetch_refspec_nr
 DECL|member|fetch_tags
 DECL|member|force
 DECL|member|http_proxy
 DECL|member|merge
+DECL|member|merge_alloc
 DECL|member|merge_name
 DECL|member|merge_nr
 DECL|member|name
@@ -18,6 +20,7 @@ DECL|member|name
 DECL|member|pattern
 DECL|member|push
 DECL|member|push_refspec
+DECL|member|push_refspec_alloc
 DECL|member|push_refspec_nr
 DECL|member|receivepack
 DECL|member|refname
@@ -26,6 +29,7 @@ DECL|member|remote_name
 DECL|member|src
 DECL|member|uploadpack
 DECL|member|url
+DECL|member|url_alloc
 DECL|member|url_nr
 DECL|struct|branch
 DECL|struct|refspec
