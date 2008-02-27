@@ -146,6 +146,7 @@ DECL|macro|read_cache_from
 DECL|macro|refresh_cache
 DECL|macro|remove_cache_entry_at
 DECL|macro|remove_file_from_cache
+DECL|macro|unmerged_cache
 DECL|macro|write_cache
 DECL|member|alloc
 DECL|member|base

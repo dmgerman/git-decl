@@ -43,6 +43,7 @@ DECL|function|remove_file_from_index
 DECL|function|remove_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_index_entry
+DECL|function|unmerged_index
 DECL|function|verify_dotfile
 DECL|function|verify_hdr
 DECL|function|verify_path
