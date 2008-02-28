@@ -23,13 +23,13 @@ DECL|function|gc_boundary
 DECL|function|get_reference
 DECL|function|get_revision
 DECL|function|get_revision_1
-DECL|function|handle_all
 DECL|function|handle_commit
 DECL|function|handle_one_ref
 DECL|function|handle_one_reflog
 DECL|function|handle_one_reflog_commit
 DECL|function|handle_one_reflog_ent
 DECL|function|handle_reflog
+DECL|function|handle_refs
 DECL|function|handle_revision_arg
 DECL|function|init_revisions
 DECL|function|limit_list
