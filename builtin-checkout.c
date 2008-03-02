@@ -1,7 +1,6 @@
 DECL|function|checkout_paths
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
-DECL|function|git_checkout_config
 DECL|function|merge_working_tree
 DECL|function|post_checkout_hook
 DECL|function|read_tree_some
