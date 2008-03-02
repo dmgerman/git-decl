@@ -2,6 +2,7 @@ DECL|function|cmd_name_rev
 DECL|function|get_rev_name
 DECL|function|name_ref
 DECL|function|name_rev
+DECL|function|show_name
 DECL|macro|CUTOFF_DATE_SLOP
 DECL|macro|MERGE_TRAVERSAL_WEIGHT
 DECL|macro|ishex

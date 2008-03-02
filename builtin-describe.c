@@ -19,6 +19,7 @@ DECL|struct|commit_name
 DECL|struct|possible_tag
 DECL|variable|abbrev
 DECL|variable|all
+DECL|variable|always
 DECL|variable|debug
 DECL|variable|describe_usage
 DECL|variable|longformat
