@@ -5,8 +5,8 @@ DECL|function|check_reachable_object
 DECL|function|check_unreachable_object
 DECL|function|cmd_fsck
 DECL|function|fsck_cache_tree
-DECL|function|fsck_commit
 DECL|function|fsck_dir
+DECL|function|fsck_error_func
 DECL|function|fsck_handle_ref
 DECL|function|fsck_handle_reflog
 DECL|function|fsck_handle_reflog_ent
@@ -14,15 +14,14 @@ DECL|function|fsck_head_link
 DECL|function|fsck_object_dir
 DECL|function|fsck_sha1
 DECL|function|fsck_sha1_list
-DECL|function|fsck_tag
-DECL|function|fsck_tree
 DECL|function|get_default_heads
 DECL|function|ino_compare
 DECL|function|is_branch
+DECL|function|mark_object
+DECL|function|mark_object_reachable
+DECL|function|mark_used
 DECL|function|objerror
 DECL|function|objreport
-DECL|function|objwarning
-DECL|function|verify_ordered
 DECL|macro|DIRENT_SORT_HINT
 DECL|macro|DIRENT_SORT_HINT
 DECL|macro|ERROR_OBJECT
@@ -32,8 +31,6 @@ DECL|macro|REACHABLE
 DECL|macro|SEEN
 DECL|macro|SORT_DIRENT
 DECL|macro|SORT_DIRENT
-DECL|macro|TREE_HAS_DUPS
-DECL|macro|TREE_UNORDERED
 DECL|member|entry
 DECL|member|ino
 DECL|member|nr

@@ -1,0 +1,12 @@
+DECL|function|fsck_commit
+DECL|function|fsck_error_function
+DECL|function|fsck_object
+DECL|function|fsck_tag
+DECL|function|fsck_tree
+DECL|function|fsck_walk
+DECL|function|fsck_walk_commit
+DECL|function|fsck_walk_tag
+DECL|function|fsck_walk_tree
+DECL|function|verify_ordered
+DECL|macro|TREE_HAS_DUPS
+DECL|macro|TREE_UNORDERED

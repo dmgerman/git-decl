@@ -1,8 +1,0 @@
-DECL|function|add_object_refs
-DECL|function|alloc_object_refs
-DECL|function|compare_object_pointers
-DECL|function|lookup_object_refs
-DECL|function|mark_reachable
-DECL|function|set_object_refs
-DECL|variable|ref_decorate
-DECL|variable|track_object_refs
