@@ -15,5 +15,7 @@ DECL|macro|USAGE_GAP
 DECL|macro|USAGE_OPTS_WIDTH
 DECL|member|argc
 DECL|member|argv
+DECL|member|cpidx
 DECL|member|opt
+DECL|member|out
 DECL|struct|optparse_t
