@@ -2,6 +2,7 @@ DECL|function|add_to_known_names
 DECL|function|cmd_describe
 DECL|function|compare_pt
 DECL|function|describe
+DECL|function|display_name
 DECL|function|finish_depth_computation
 DECL|function|get_name
 DECL|macro|MAX_TAGS
@@ -12,6 +13,8 @@ DECL|member|found_order
 DECL|member|name
 DECL|member|path
 DECL|member|prio
+DECL|member|sha1
+DECL|member|tag
 DECL|struct|commit_name
 DECL|struct|possible_tag
 DECL|variable|abbrev
