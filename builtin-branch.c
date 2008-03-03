@@ -7,9 +7,7 @@ DECL|enum|color_branch
 DECL|function|append_ref
 DECL|function|branch_get_color
 DECL|function|cmd_branch
-DECL|function|create_branch
 DECL|function|delete_branches
-DECL|function|find_tracked_branch
 DECL|function|free_ref_list
 DECL|function|git_branch_config
 DECL|function|has_commit
@@ -19,7 +17,6 @@ DECL|function|print_ref_item
 DECL|function|print_ref_list
 DECL|function|ref_cmp
 DECL|function|rename_branch
-DECL|function|setup_tracking
 DECL|macro|REF_LOCAL_BRANCH
 DECL|macro|REF_REMOTE_BRANCH
 DECL|macro|REF_TAG
@@ -29,19 +26,13 @@ DECL|member|index
 DECL|member|kind
 DECL|member|kinds
 DECL|member|list
-DECL|member|matches
 DECL|member|maxwidth
 DECL|member|name
-DECL|member|remote
 DECL|member|sha1
-DECL|member|spec
-DECL|member|src
 DECL|member|with_commit
 DECL|struct|ref_item
 DECL|struct|ref_list
-DECL|struct|tracking
 DECL|variable|branch_colors
-DECL|variable|branch_track
 DECL|variable|branch_use_color
 DECL|variable|builtin_branch_usage
 DECL|variable|head

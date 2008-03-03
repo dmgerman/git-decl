@@ -10,8 +10,6 @@ DECL|macro|RUN_COMMAND_NO_STDIN
 DECL|macro|RUN_COMMAND_STDOUT_TO_STDERR
 DECL|macro|RUN_GIT_CMD
 DECL|member|argv
-DECL|member|close_in
-DECL|member|close_out
 DECL|member|data
 DECL|member|dir
 DECL|member|env

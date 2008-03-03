@@ -1,3 +1,7 @@
+DECL|enumerator|BRANCH_TRACK_ALWAYS
+DECL|enumerator|BRANCH_TRACK_EXPLICIT
+DECL|enumerator|BRANCH_TRACK_NEVER
+DECL|enumerator|BRANCH_TRACK_REMOTE
 DECL|enumerator|DATE_ISO8601
 DECL|enumerator|DATE_LOCAL
 DECL|enumerator|DATE_NORMAL
@@ -26,6 +30,7 @@ DECL|enumerator|REF_STATUS_UPTODATE
 DECL|enumerator|SAFE_CRLF_FAIL
 DECL|enumerator|SAFE_CRLF_FALSE
 DECL|enumerator|SAFE_CRLF_WARN
+DECL|enum|branch_track
 DECL|enum|date_mode
 DECL|enum|object_type
 DECL|enum|safe_crlf
@@ -33,6 +38,7 @@ DECL|enum|sharedrepo
 DECL|function|ce_mode_from_stat
 DECL|function|ce_namelen
 DECL|function|ce_to_dtype
+DECL|function|copy_cache_entry
 DECL|function|create_ce_flags
 DECL|function|create_ce_mode
 DECL|function|hashclr
@@ -42,6 +48,7 @@ DECL|function|hexval
 DECL|function|is_absolute_path
 DECL|function|is_null_sha1
 DECL|function|object_type
+DECL|function|remove_index_entry
 DECL|macro|ADD_CACHE_JUST_APPEND
 DECL|macro|ADD_CACHE_OK_TO_ADD
 DECL|macro|ADD_CACHE_OK_TO_REPLACE
@@ -51,12 +58,14 @@ DECL|macro|ALTERNATE_DB_ENVIRONMENT
 DECL|macro|ATTRIBUTE_MACRO_PREFIX
 DECL|macro|CACHE_H
 DECL|macro|CACHE_SIGNATURE
+DECL|macro|CE_HASHED
 DECL|macro|CE_MATCH_IGNORE_VALID
 DECL|macro|CE_MATCH_RACY_IS_DIRTY
 DECL|macro|CE_NAMEMASK
 DECL|macro|CE_REMOVE
 DECL|macro|CE_STAGEMASK
 DECL|macro|CE_STAGESHIFT
+DECL|macro|CE_STATE_MASK
 DECL|macro|CE_UNHASHED
 DECL|macro|CE_UPDATE
 DECL|macro|CE_UPTODATE
@@ -109,6 +118,7 @@ DECL|macro|S_IFINVALID
 DECL|macro|S_ISGITLINK
 DECL|macro|TEMPLATE_DIR_ENVIRONMENT
 DECL|macro|TYPE_CHANGED
+DECL|macro|WS_CR_AT_EOL
 DECL|macro|WS_DEFAULT_RULE
 DECL|macro|WS_INDENT_WITH_NON_TAB
 DECL|macro|WS_SPACE_BEFORE_TAB
@@ -141,6 +151,7 @@ DECL|macro|read_cache_from
 DECL|macro|refresh_cache
 DECL|macro|remove_cache_entry_at
 DECL|macro|remove_file_from_cache
+DECL|macro|unmerged_cache
 DECL|macro|write_cache
 DECL|member|alloc
 DECL|member|base

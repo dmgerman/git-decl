@@ -12,7 +12,9 @@ DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
 DECL|macro|DIFF_FORMAT_CALLBACK
 DECL|macro|DIFF_FORMAT_CHECKDIFF
+DECL|macro|DIFF_FORMAT_CUMULATIVE
 DECL|macro|DIFF_FORMAT_DIFFSTAT
+DECL|macro|DIFF_FORMAT_DIRSTAT
 DECL|macro|DIFF_FORMAT_NAME
 DECL|macro|DIFF_FORMAT_NAME_STATUS
 DECL|macro|DIFF_FORMAT_NO_OUTPUT
@@ -36,6 +38,7 @@ DECL|macro|DIFF_OPT_HAS_CHANGES
 DECL|macro|DIFF_OPT_NO_INDEX
 DECL|macro|DIFF_OPT_QUIET
 DECL|macro|DIFF_OPT_RECURSIVE
+DECL|macro|DIFF_OPT_RELATIVE_NAME
 DECL|macro|DIFF_OPT_REVERSE_DIFF
 DECL|macro|DIFF_OPT_SET
 DECL|macro|DIFF_OPT_SILENT_ON_REMOVE
@@ -69,6 +72,7 @@ DECL|member|break_opt
 DECL|member|change
 DECL|member|context
 DECL|member|detect_rename
+DECL|member|dirstat_percent
 DECL|member|filter
 DECL|member|flags
 DECL|member|format_callback
@@ -89,6 +93,8 @@ DECL|member|pathlens
 DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
+DECL|member|prefix
+DECL|member|prefix_length
 DECL|member|rename_limit
 DECL|member|rename_score
 DECL|member|setup

@@ -1,4 +1,3 @@
-DECL|function|git_alias_config
 DECL|function|handle_alias
 DECL|function|handle_internal_command
 DECL|function|handle_options
@@ -12,7 +11,5 @@ DECL|member|cmd
 DECL|member|fn
 DECL|member|option
 DECL|struct|cmd_struct
-DECL|variable|alias_command
-DECL|variable|alias_string
 DECL|variable|git_usage_string
 DECL|variable|git_version_string

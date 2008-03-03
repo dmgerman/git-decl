@@ -1,5 +1,4 @@
 DECL|function|cmd_rerere
-DECL|function|copy_file
 DECL|function|diff_two
 DECL|function|do_plain_rerere
 DECL|function|find_conflict
