@@ -5,6 +5,7 @@ DECL|function|describe
 DECL|function|display_name
 DECL|function|finish_depth_computation
 DECL|function|get_name
+DECL|function|show_suffix
 DECL|macro|MAX_TAGS
 DECL|macro|SEEN
 DECL|member|depth
