@@ -4,7 +4,9 @@ DECL|function|cmd_remote
 DECL|function|config_read_branches
 DECL|function|fetch_remote
 DECL|function|get_one_entry
+DECL|function|get_one_remote_for_update
 DECL|function|get_ref_states
+DECL|function|get_remote_group
 DECL|function|handle_one_branch
 DECL|function|opt_parse_track
 DECL|function|postfixcmp
@@ -16,9 +18,10 @@ DECL|function|show_list
 DECL|function|show_or_prune
 DECL|function|skip_prefix
 DECL|function|update
-DECL|function|update_one
 DECL|member|branches
+DECL|member|list
 DECL|member|merge
+DECL|member|name
 DECL|member|new
 DECL|member|prefix
 DECL|member|remote
@@ -29,6 +32,8 @@ DECL|member|tracked
 DECL|struct|branch_info
 DECL|struct|branches_for_remote
 DECL|struct|ref_states
+DECL|struct|remote_group
 DECL|variable|branch_list
 DECL|variable|builtin_remote_usage
+DECL|variable|remote_group
 DECL|variable|verbose
