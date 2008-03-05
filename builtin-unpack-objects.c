@@ -6,6 +6,7 @@ DECL|function|cmd_unpack_objects
 DECL|function|fill
 DECL|function|get_data
 DECL|function|lookup_object_buffer
+DECL|function|resolve_against_held
 DECL|function|resolve_delta
 DECL|function|unpack_all
 DECL|function|unpack_delta_entry
