@@ -58,7 +58,9 @@ DECL|macro|__attribute__
 DECL|macro|decimal_length
 DECL|macro|fopen
 DECL|macro|fopen
+DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
+DECL|macro|is_dir_sep
 DECL|macro|isalnum
 DECL|macro|isalnum
 DECL|macro|isalpha

@@ -39,7 +39,10 @@ DECL|macro|S_IXOTH
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
+DECL|macro|getcwd
+DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
+DECL|macro|is_dir_sep
 DECL|macro|lstat
 DECL|macro|mkdir
 DECL|macro|sigemptyset

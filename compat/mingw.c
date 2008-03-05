@@ -2,9 +2,11 @@ DECL|function|getpwuid
 DECL|function|gettimeofday
 DECL|function|gmtime_r
 DECL|function|localtime_r
+DECL|function|mingw_getcwd
 DECL|function|mkstemp
 DECL|function|poll
 DECL|function|setitimer
 DECL|function|sigaction
 DECL|function|sleep
+DECL|macro|getcwd
 DECL|variable|_CRT_fmode
