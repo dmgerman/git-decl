@@ -3,6 +3,7 @@ DECL|function|tree_entry_extract
 DECL|function|tree_entry_len
 DECL|macro|TREE_WALK_H
 DECL|member|buffer
+DECL|member|conflicts
 DECL|member|data
 DECL|member|entry
 DECL|member|fn
