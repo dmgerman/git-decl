@@ -26,4 +26,5 @@ DECL|function|verify_absent
 DECL|function|verify_clean_subdirectory
 DECL|function|verify_clean_submodule
 DECL|function|verify_uptodate
+DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|variable|state

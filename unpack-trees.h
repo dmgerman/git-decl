@@ -5,6 +5,7 @@ DECL|member|dir
 DECL|member|fn
 DECL|member|gently
 DECL|member|head_idx
+DECL|member|index
 DECL|member|index_only
 DECL|member|merge
 DECL|member|merge_size
