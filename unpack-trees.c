@@ -1,3 +1,4 @@
+DECL|function|add_entry
 DECL|function|bind_merge
 DECL|function|call_unpack_fn
 DECL|function|check_updates
@@ -10,7 +11,6 @@ DECL|function|keep_entry
 DECL|function|merged_entry
 DECL|function|oneway_merge
 DECL|function|reject_merge
-DECL|function|remove_entry
 DECL|function|same
 DECL|function|show_stage_entry
 DECL|function|threeway_merge
