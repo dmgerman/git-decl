@@ -44,6 +44,7 @@ DECL|variable|extra_to_alloc
 DECL|variable|extra_to_nr
 DECL|variable|fmt_patch_subject_prefix
 DECL|variable|fmt_patch_suffix
+DECL|variable|fmt_pretty
 DECL|variable|numbered
 DECL|variable|output_directory
 DECL|variable|realstdout
