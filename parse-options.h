@@ -1,3 +1,4 @@
+DECL|enumerator|OPTION_ARGUMENT
 DECL|enumerator|OPTION_BIT
 DECL|enumerator|OPTION_BOOLEAN
 DECL|enumerator|OPTION_CALLBACK
@@ -15,6 +16,7 @@ DECL|enumerator|PARSE_OPT_OPTARG
 DECL|enum|parse_opt_flags
 DECL|enum|parse_opt_option_flags
 DECL|enum|parse_opt_type
+DECL|macro|OPT_ARGUMENT
 DECL|macro|OPT_BIT
 DECL|macro|OPT_BOOLEAN
 DECL|macro|OPT_CALLBACK
