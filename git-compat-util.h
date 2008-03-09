@@ -73,6 +73,7 @@ DECL|macro|pread
 DECL|macro|qsort
 DECL|macro|sane_istest
 DECL|macro|setenv
+DECL|macro|snprintf
 DECL|macro|strcasestr
 DECL|macro|strchrnul
 DECL|macro|strlcpy
@@ -82,3 +83,4 @@ DECL|macro|tolower
 DECL|macro|toupper
 DECL|macro|toupper
 DECL|macro|unsetenv
+DECL|macro|vsnprintf
