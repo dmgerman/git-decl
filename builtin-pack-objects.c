@@ -3,6 +3,7 @@ DECL|function|add_objects_in_unpacked_packs
 DECL|function|add_pbase_object
 DECL|function|add_preferred_base
 DECL|function|add_preferred_base_object
+DECL|function|add_ref_tag
 DECL|function|adjust_perm
 DECL|function|check_delta_limit
 DECL|function|check_object
@@ -119,6 +120,7 @@ DECL|variable|depth
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
+DECL|variable|include_tag
 DECL|variable|incremental
 DECL|variable|keep_unreachable
 DECL|variable|local

@@ -33,6 +33,7 @@ DECL|member|conn
 DECL|member|depth
 DECL|member|fd
 DECL|member|fd
+DECL|member|followtags
 DECL|member|header
 DECL|member|keep
 DECL|member|receivepack
