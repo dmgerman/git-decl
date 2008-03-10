@@ -120,6 +120,9 @@ DECL|member|cumulative
 DECL|member|current
 DECL|member|deleted
 DECL|member|diff_words
+DECL|member|file
+DECL|member|file
+DECL|member|file
 DECL|member|filename
 DECL|member|files
 DECL|member|files

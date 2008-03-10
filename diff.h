@@ -70,9 +70,11 @@ DECL|member|add_remove
 DECL|member|b_prefix
 DECL|member|break_opt
 DECL|member|change
+DECL|member|close_file
 DECL|member|context
 DECL|member|detect_rename
 DECL|member|dirstat_percent
+DECL|member|file
 DECL|member|filter
 DECL|member|flags
 DECL|member|format_callback
