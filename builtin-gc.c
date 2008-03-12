@@ -16,3 +16,4 @@ DECL|variable|builtin_gc_usage
 DECL|variable|gc_auto_pack_limit
 DECL|variable|gc_auto_threshold
 DECL|variable|pack_refs
+DECL|variable|prune_expire
