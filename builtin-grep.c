@@ -10,6 +10,8 @@ DECL|function|grep_tree
 DECL|function|pathspec_matches
 DECL|macro|ARGBUF
 DECL|macro|MAXARGS
+DECL|macro|NO_EXTERNAL_GREP
+DECL|macro|NO_EXTERNAL_GREP
 DECL|macro|push_arg
 DECL|variable|builtin_grep_usage
 DECL|variable|emsg_invalid_context_len
