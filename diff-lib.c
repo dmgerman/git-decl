@@ -1,4 +1,3 @@
-DECL|function|count_skip
 DECL|function|diff_index_show_file
 DECL|function|do_diff_cache
 DECL|function|do_oneway_diff
@@ -17,3 +16,4 @@ DECL|function|run_diff_index
 DECL|function|setup_diff_no_index
 DECL|function|show_modified
 DECL|function|show_new_file
+DECL|function|skip_same_name
