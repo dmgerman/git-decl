@@ -13,6 +13,7 @@ DECL|enumerator|PARSE_OPT_KEEP_DASHDASH
 DECL|enumerator|PARSE_OPT_NOARG
 DECL|enumerator|PARSE_OPT_NONEG
 DECL|enumerator|PARSE_OPT_OPTARG
+DECL|enumerator|PARSE_OPT_STOP_AT_NON_OPTION
 DECL|enum|parse_opt_flags
 DECL|enum|parse_opt_option_flags
 DECL|enum|parse_opt_type

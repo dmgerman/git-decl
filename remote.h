@@ -26,6 +26,7 @@ DECL|member|receivepack
 DECL|member|refname
 DECL|member|remote
 DECL|member|remote_name
+DECL|member|skip_default_update
 DECL|member|src
 DECL|member|uploadpack
 DECL|member|url
