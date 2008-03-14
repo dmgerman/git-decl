@@ -1,3 +1,4 @@
+DECL|macro|MAX_UNPACK_TREES
 DECL|macro|UNPACK_TREES_H
 DECL|member|aggressive
 DECL|member|df_conflict_entry

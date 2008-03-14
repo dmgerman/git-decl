@@ -3,7 +3,6 @@ DECL|function|list_tree
 DECL|function|prime_cache_tree
 DECL|function|prime_cache_tree_rec
 DECL|function|read_cache_unmerged
-DECL|macro|MAX_TREES
 DECL|variable|lock_file
 DECL|variable|nr_trees
 DECL|variable|read_tree_usage
