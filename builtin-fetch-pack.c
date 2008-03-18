@@ -1,3 +1,4 @@
+DECL|function|clear_marks
 DECL|function|cmd_fetch_pack
 DECL|function|do_fetch_pack
 DECL|function|everything_local
@@ -26,6 +27,7 @@ DECL|variable|complete
 DECL|variable|fetch_pack_usage
 DECL|variable|fetch_unpack_limit
 DECL|variable|lock
+DECL|variable|marked
 DECL|variable|multi_ack
 DECL|variable|non_common_revs
 DECL|variable|rev_list
