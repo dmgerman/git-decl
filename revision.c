@@ -13,7 +13,6 @@ DECL|function|add_parents_to_list
 DECL|function|add_pending_commit_list
 DECL|function|add_pending_object
 DECL|function|add_pending_object_with_mode
-DECL|function|add_to_list
 DECL|function|cherry_pick_list
 DECL|function|commit_match
 DECL|function|everybody_uninteresting
@@ -46,7 +45,9 @@ DECL|function|rewrite_one
 DECL|function|rewrite_parents
 DECL|function|setup_revisions
 DECL|function|simplify_commit
+DECL|function|still_interesting
 DECL|function|try_to_simplify_commit
+DECL|macro|SLOP
 DECL|member|all_flags
 DECL|member|all_revs
 DECL|member|name_for_errormsg
