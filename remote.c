@@ -29,7 +29,9 @@ DECL|function|make_rewrite
 DECL|function|match_explicit
 DECL|function|match_explicit_refs
 DECL|function|match_refs
-DECL|function|parse_ref_spec
+DECL|function|parse_fetch_refspec
+DECL|function|parse_push_refspec
+DECL|function|parse_refspec_internal
 DECL|function|read_branches_file
 DECL|function|read_config
 DECL|function|read_remotes_file
