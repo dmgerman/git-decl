@@ -18,7 +18,9 @@ DECL|function|ce_write_flush
 DECL|function|check_file_directory_conflict
 DECL|function|compare_name
 DECL|function|convert_from_disk
+DECL|function|create_alias_ce
 DECL|function|df_name_compare
+DECL|function|different_name
 DECL|function|discard_index
 DECL|function|estimate_cache_size
 DECL|function|fill_stat_cache_info
