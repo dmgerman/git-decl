@@ -6,6 +6,7 @@ DECL|function|compare_entry
 DECL|function|create_ce_entry
 DECL|function|deleted_entry
 DECL|function|do_compare_entry
+DECL|function|icase_exists
 DECL|function|invalidate_ce_path
 DECL|function|keep_entry
 DECL|function|merged_entry
