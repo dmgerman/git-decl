@@ -23,6 +23,7 @@ DECL|function|find_last_in_target
 DECL|function|find_move_in_parent
 DECL|function|find_origin
 DECL|function|find_rename
+DECL|function|first_scapegoat
 DECL|function|format_time
 DECL|function|found_guilty_entry
 DECL|function|free_patch
@@ -36,6 +37,7 @@ DECL|function|has_path_in_work_tree
 DECL|function|lineno_width
 DECL|function|make_origin
 DECL|function|nth_line
+DECL|function|num_scapegoats
 DECL|function|origin_decref
 DECL|function|origin_incref
 DECL|function|output
@@ -58,7 +60,7 @@ DECL|function|write_filename_info
 DECL|macro|BLAME_DEFAULT_COPY_SCORE
 DECL|macro|BLAME_DEFAULT_MOVE_SCORE
 DECL|macro|DEBUG
-DECL|macro|MAXPARENT
+DECL|macro|MAXSG
 DECL|macro|METAINFO_SHOWN
 DECL|macro|MORE_THAN_ONE_PATH
 DECL|macro|OUTPUT_ANNOTATE_COMPAT
