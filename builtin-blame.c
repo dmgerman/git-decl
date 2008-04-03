@@ -45,6 +45,7 @@ DECL|function|pass_blame
 DECL|function|pass_blame_to_parent
 DECL|function|pass_whole_blame
 DECL|function|prepare_blame_range
+DECL|function|prepare_final
 DECL|function|prepare_lines
 DECL|function|process_u_diff
 DECL|function|read_ancestry
