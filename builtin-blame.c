@@ -48,6 +48,7 @@ DECL|function|pass_blame_to_parent
 DECL|function|pass_whole_blame
 DECL|function|prepare_blame_range
 DECL|function|prepare_final
+DECL|function|prepare_initial
 DECL|function|prepare_lines
 DECL|function|process_u_diff
 DECL|function|read_ancestry
@@ -107,6 +108,7 @@ DECL|member|path
 DECL|member|prev
 DECL|member|refcnt
 DECL|member|ret
+DECL|member|revs
 DECL|member|s_lno
 DECL|member|same
 DECL|member|score
@@ -138,5 +140,6 @@ DECL|variable|max_score_digits
 DECL|variable|num_commits
 DECL|variable|num_get_patch
 DECL|variable|num_read_blob
+DECL|variable|reverse
 DECL|variable|show_root
 DECL|variable|xdl_opts
