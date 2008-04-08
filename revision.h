@@ -81,6 +81,7 @@ DECL|member|total
 DECL|member|tree_objects
 DECL|member|unpacked
 DECL|member|up
+DECL|member|use_terminator
 DECL|member|verbose_header
 DECL|struct|name_path
 DECL|struct|rev_info
