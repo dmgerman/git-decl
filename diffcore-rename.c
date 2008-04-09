@@ -8,9 +8,11 @@ DECL|function|free_similarity_list
 DECL|function|hash_filespec
 DECL|function|insert_file_table
 DECL|function|locate_rename_dst
+DECL|function|record_if_better
 DECL|function|record_rename_pair
 DECL|function|register_rename_src
 DECL|function|score_compare
+DECL|macro|NUM_CANDIDATE_PER_DST
 DECL|member|dst
 DECL|member|filespec
 DECL|member|index
