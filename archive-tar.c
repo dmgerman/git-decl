@@ -12,6 +12,7 @@ DECL|function|write_trailer
 DECL|macro|BLOCKSIZE
 DECL|macro|RECORDSIZE
 DECL|variable|archive_time
+DECL|variable|base_len
 DECL|variable|block
 DECL|variable|commit
 DECL|variable|offset
