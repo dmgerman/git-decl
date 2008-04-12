@@ -9,6 +9,7 @@ DECL|function|wt_status_print_changed_cb
 DECL|function|wt_status_print_filepair
 DECL|function|wt_status_print_header
 DECL|function|wt_status_print_initial
+DECL|function|wt_status_print_submodule_summary
 DECL|function|wt_status_print_trailer
 DECL|function|wt_status_print_untracked
 DECL|function|wt_status_print_updated
@@ -20,4 +21,5 @@ DECL|variable|use_add_rm_msg
 DECL|variable|use_add_to_include_msg
 DECL|variable|wt_status_colors
 DECL|variable|wt_status_relative_paths
+DECL|variable|wt_status_submodule_summary
 DECL|variable|wt_status_use_color
