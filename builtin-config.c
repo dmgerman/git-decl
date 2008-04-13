@@ -1,4 +1,5 @@
 DECL|enumerator|T_BOOL
+DECL|enumerator|T_BOOL_OR_INT
 DECL|enumerator|T_INT
 DECL|enumerator|T_RAW
 DECL|function|cmd_config
