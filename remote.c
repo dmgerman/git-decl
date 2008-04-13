@@ -41,6 +41,7 @@ DECL|function|remote_get
 DECL|function|remote_has_url
 DECL|function|tail_link_ref
 DECL|function|try_explicit_object_name
+DECL|function|valid_fetch_refspec
 DECL|function|valid_remote_nick
 DECL|macro|BUF_SIZE
 DECL|member|base
