@@ -15,6 +15,7 @@ DECL|member|merge
 DECL|member|merge_alloc
 DECL|member|merge_name
 DECL|member|merge_nr
+DECL|member|mirror
 DECL|member|name
 DECL|member|name
 DECL|member|pattern
