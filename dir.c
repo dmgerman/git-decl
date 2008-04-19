@@ -34,6 +34,7 @@ DECL|function|remove_dir_recursively
 DECL|function|setup_standard_excludes
 DECL|function|simple_length
 DECL|function|simplify_away
+DECL|function|special_char
 DECL|function|treat_directory
 DECL|member|len
 DECL|member|path
