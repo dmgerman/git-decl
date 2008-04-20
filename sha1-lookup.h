@@ -1,0 +1,1 @@
+DECL|macro|SHA1_LOOKUP_H
