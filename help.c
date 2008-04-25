@@ -4,6 +4,7 @@ DECL|enumerator|HELP_FORMAT_WEB
 DECL|enum|help_format
 DECL|function|add_cmdname
 DECL|function|add_man_viewer
+DECL|function|add_man_viewer_cmd
 DECL|function|add_man_viewer_info
 DECL|function|add_man_viewer_path
 DECL|function|check_emacsclient_version
@@ -11,9 +12,9 @@ DECL|function|cmd_help
 DECL|function|cmd_to_page
 DECL|function|cmd_version
 DECL|function|cmdname_compare
-DECL|function|do_add_man_viewer
 DECL|function|do_add_man_viewer_info
 DECL|function|exclude_cmds
+DECL|function|exec_man_cmd
 DECL|function|exec_man_konqueror
 DECL|function|exec_man_man
 DECL|function|exec_viewer
