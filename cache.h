@@ -18,6 +18,8 @@ DECL|enumerator|OBJ_OFS_DELTA
 DECL|enumerator|OBJ_REF_DELTA
 DECL|enumerator|OBJ_TAG
 DECL|enumerator|OBJ_TREE
+DECL|enumerator|OLD_PERM_EVERYBODY
+DECL|enumerator|OLD_PERM_GROUP
 DECL|enumerator|PERM_EVERYBODY
 DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
