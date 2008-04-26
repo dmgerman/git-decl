@@ -1,5 +1,6 @@
 DECL|function|cmd_parseopt
 DECL|function|cmd_rev_parse
+DECL|function|die_no_single_rev
 DECL|function|is_rev_argument
 DECL|function|parseopt_dump
 DECL|function|show
