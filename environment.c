@@ -6,6 +6,7 @@ DECL|function|get_object_directory
 DECL|function|get_refs_directory
 DECL|function|is_bare_repository
 DECL|function|set_git_dir
+DECL|function|set_git_work_tree
 DECL|function|setup_git_env
 DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
@@ -26,6 +27,7 @@ DECL|variable|git_log_output_encoding
 DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
 DECL|variable|git_work_tree_cfg
+DECL|variable|git_work_tree_initialized
 DECL|variable|has_symlinks
 DECL|variable|is_bare_repository_cfg
 DECL|variable|log_all_ref_updates
