@@ -84,7 +84,6 @@ DECL|member|len
 DECL|member|line_termination
 DECL|member|mode
 DECL|member|mode
-DECL|member|msg_sep
 DECL|member|next
 DECL|member|nr_paths
 DECL|member|orderfile
