@@ -59,8 +59,9 @@ DECL|variable|buffer_output
 DECL|variable|call_depth
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
+DECL|variable|diff_rename_limit
 DECL|variable|index_only
+DECL|variable|merge_rename_limit
 DECL|variable|obuf
-DECL|variable|rename_limit
 DECL|variable|subtree_merge
 DECL|variable|verbosity
