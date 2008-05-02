@@ -12,12 +12,12 @@ DECL|function|check_pack_inflate
 DECL|function|check_pbase_path
 DECL|function|cmd_pack_objects
 DECL|function|copy_pack_data
-DECL|function|delta_against
 DECL|function|delta_cacheable
 DECL|function|done_pbase_path_pos
 DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|free_unpacked
+DECL|function|get_delta
 DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
