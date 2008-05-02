@@ -104,6 +104,7 @@ DECL|member|tree_size
 DECL|member|type
 DECL|member|window
 DECL|member|working
+DECL|member|z_delta_size
 DECL|struct|in_pack
 DECL|struct|in_pack_object
 DECL|struct|object_entry
