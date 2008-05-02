@@ -125,8 +125,6 @@ DECL|variable|incremental
 DECL|variable|keep_unreachable
 DECL|variable|local
 DECL|variable|max_delta_cache_size
-DECL|variable|no_reuse_delta
-DECL|variable|no_reuse_object
 DECL|variable|non_empty
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
@@ -149,6 +147,8 @@ DECL|variable|progress_cond
 DECL|variable|progress_mutex
 DECL|variable|progress_state
 DECL|variable|read_mutex
+DECL|variable|reuse_delta
+DECL|variable|reuse_object
 DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|window
