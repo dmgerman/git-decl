@@ -13,6 +13,7 @@ DECL|function|check_pbase_path
 DECL|function|cmd_pack_objects
 DECL|function|copy_pack_data
 DECL|function|delta_cacheable
+DECL|function|do_compress
 DECL|function|done_pbase_path_pos
 DECL|function|encode_header
 DECL|function|find_deltas
