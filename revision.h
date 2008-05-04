@@ -58,9 +58,9 @@ DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
 DECL|member|num_ignore_packed
-DECL|member|parents
 DECL|member|pending
 DECL|member|prefix
+DECL|member|print_parents
 DECL|member|prune
 DECL|member|prune_data
 DECL|member|pruning
@@ -68,6 +68,7 @@ DECL|member|ref_message_id
 DECL|member|reflog_info
 DECL|member|remove_empty_trees
 DECL|member|reverse
+DECL|member|rewrite_parents
 DECL|member|show_all
 DECL|member|show_log_size
 DECL|member|show_root_diff
