@@ -39,6 +39,7 @@ DECL|member|elem_len
 DECL|member|extra_headers
 DECL|member|first_parent_only
 DECL|member|full_diff
+DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
 DECL|member|ignore_packed
@@ -52,6 +53,7 @@ DECL|member|max_count
 DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
+DECL|member|missing_newline
 DECL|member|no_commit_id
 DECL|member|no_inline
 DECL|member|no_merges

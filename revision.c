@@ -22,6 +22,7 @@ DECL|function|gc_boundary
 DECL|function|get_reference
 DECL|function|get_revision
 DECL|function|get_revision_1
+DECL|function|get_revision_internal
 DECL|function|handle_commit
 DECL|function|handle_one_ref
 DECL|function|handle_one_reflog
