@@ -28,6 +28,7 @@ DECL|function|graph_show_remainder
 DECL|function|graph_show_strbuf
 DECL|function|graph_update
 DECL|function|graph_update_columns
+DECL|function|graph_update_width
 DECL|member|column_capacity
 DECL|member|columns
 DECL|member|commit
@@ -41,5 +42,6 @@ DECL|member|num_columns
 DECL|member|num_new_columns
 DECL|member|num_parents
 DECL|member|state
+DECL|member|width
 DECL|struct|column
 DECL|struct|git_graph
