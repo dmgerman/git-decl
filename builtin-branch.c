@@ -37,3 +37,4 @@ DECL|variable|branch_use_color
 DECL|variable|builtin_branch_usage
 DECL|variable|head
 DECL|variable|head_sha1
+DECL|variable|mergefilter
