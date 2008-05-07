@@ -1,2 +1,2 @@
 DECL|function|git_fopen
-DECL|macro|fopen
+DECL|macro|FREAD_READS_DIRECTORIES
