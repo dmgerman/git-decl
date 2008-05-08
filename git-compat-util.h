@@ -56,6 +56,7 @@ DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|macro|__attribute__
 DECL|macro|decimal_length
 DECL|macro|fopen
+DECL|macro|fopen
 DECL|macro|hstrerror
 DECL|macro|isalnum
 DECL|macro|isalnum
