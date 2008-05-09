@@ -24,3 +24,4 @@ DECL|variable|msg_file
 DECL|variable|no_commit
 DECL|variable|no_replay
 DECL|variable|revert_usage
+DECL|variable|signoff
