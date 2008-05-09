@@ -236,6 +236,7 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|member|size
 DECL|member|status
+DECL|member|symref
 DECL|member|timestamp
 DECL|member|uid
 DECL|member|windows
