@@ -1,3 +1,7 @@
+DECL|enumerator|AUTOREBASE_ALWAYS
+DECL|enumerator|AUTOREBASE_LOCAL
+DECL|enumerator|AUTOREBASE_NEVER
+DECL|enumerator|AUTOREBASE_REMOTE
 DECL|enumerator|BRANCH_TRACK_ALWAYS
 DECL|enumerator|BRANCH_TRACK_EXPLICIT
 DECL|enumerator|BRANCH_TRACK_NEVER
@@ -36,6 +40,7 @@ DECL|enumerator|SAFE_CRLF_WARN
 DECL|enum|branch_track
 DECL|enum|date_mode
 DECL|enum|object_type
+DECL|enum|rebase_setup_type
 DECL|enum|safe_crlf
 DECL|enum|sharedrepo
 DECL|function|ce_mode_from_stat
