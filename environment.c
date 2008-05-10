@@ -10,6 +10,7 @@ DECL|function|setup_git_env
 DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
+DECL|variable|autorebase
 DECL|variable|core_compression_level
 DECL|variable|core_compression_seen
 DECL|variable|delta_base_cache_limit
