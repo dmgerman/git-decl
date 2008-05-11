@@ -24,6 +24,5 @@ DECL|variable|abbrev
 DECL|variable|def
 DECL|variable|filter
 DECL|variable|output_sq
-DECL|variable|revs_count
 DECL|variable|show_type
 DECL|variable|symbolic
