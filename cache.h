@@ -51,7 +51,7 @@ DECL|function|hexval
 DECL|function|is_absolute_path
 DECL|function|is_null_sha1
 DECL|function|object_type
-DECL|function|remove_index_entry
+DECL|function|remove_name_hash
 DECL|macro|ADD_CACHE_JUST_APPEND
 DECL|macro|ADD_CACHE_OK_TO_ADD
 DECL|macro|ADD_CACHE_OK_TO_REPLACE
@@ -61,6 +61,7 @@ DECL|macro|ALTERNATE_DB_ENVIRONMENT
 DECL|macro|ATTRIBUTE_MACRO_PREFIX
 DECL|macro|CACHE_H
 DECL|macro|CACHE_SIGNATURE
+DECL|macro|CE_ADDED
 DECL|macro|CE_HASHED
 DECL|macro|CE_MATCH_IGNORE_VALID
 DECL|macro|CE_MATCH_RACY_IS_DIRTY

@@ -27,6 +27,7 @@ DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
 DECL|variable|git_work_tree_cfg
 DECL|variable|has_symlinks
+DECL|variable|ignore_case
 DECL|variable|is_bare_repository_cfg
 DECL|variable|log_all_ref_updates
 DECL|variable|packed_git_limit
