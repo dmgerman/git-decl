@@ -12,6 +12,7 @@ DECL|struct|update_callback_data
 DECL|variable|add_interactive
 DECL|variable|builtin_add_options
 DECL|variable|builtin_add_usage
+DECL|variable|ignore_add_errors
 DECL|variable|ignore_error
 DECL|variable|ignored_too
 DECL|variable|lock_file
