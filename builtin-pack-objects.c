@@ -24,6 +24,7 @@ DECL|function|git_pack_config
 DECL|function|ll_find_deltas
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
+DECL|function|loosen_unused_packed_objects
 DECL|function|mark_in_pack_object
 DECL|function|name_cmp_len
 DECL|function|name_hash
@@ -151,6 +152,7 @@ DECL|variable|progress_state
 DECL|variable|read_mutex
 DECL|variable|reused
 DECL|variable|reused_delta
+DECL|variable|unpack_unreachable
 DECL|variable|window
 DECL|variable|window_memory_limit
 DECL|variable|written
