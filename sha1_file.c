@@ -10,6 +10,7 @@ DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_file
 DECL|function|find_sha1_pack
+DECL|function|force_object_loose
 DECL|function|get_delta_base
 DECL|function|get_sha1_hex
 DECL|function|get_size_from_delta
@@ -80,6 +81,7 @@ DECL|function|unuse_one_window
 DECL|function|unuse_pack
 DECL|function|use_pack
 DECL|function|write_buffer
+DECL|function|write_loose_object
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
 DECL|function|write_sha1_from_fd
