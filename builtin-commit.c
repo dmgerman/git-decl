@@ -27,6 +27,9 @@ DECL|variable|all
 DECL|variable|allow_empty
 DECL|variable|also
 DECL|variable|amend
+DECL|variable|author_date
+DECL|variable|author_email
+DECL|variable|author_name
 DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
