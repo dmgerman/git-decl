@@ -1,6 +1,7 @@
 DECL|macro|MAX_UNPACK_TREES
 DECL|macro|UNPACK_TREES_H
 DECL|member|aggressive
+DECL|member|bind_overlap
 DECL|member|df_conflict_entry
 DECL|member|dir
 DECL|member|dst_index
@@ -10,7 +11,10 @@ DECL|member|head_idx
 DECL|member|index_only
 DECL|member|merge
 DECL|member|merge_size
+DECL|member|msgs
 DECL|member|nontrivial_merge
+DECL|member|not_uptodate_dir
+DECL|member|not_uptodate_file
 DECL|member|pos
 DECL|member|prefix
 DECL|member|reset
@@ -21,5 +25,8 @@ DECL|member|trivial_merges_only
 DECL|member|unpack_data
 DECL|member|update
 DECL|member|verbose_update
+DECL|member|would_lose_untracked
+DECL|member|would_overwrite
+DECL|struct|unpack_trees_error_msgs
 DECL|struct|unpack_trees_options
 DECL|typedef|merge_fn_t
