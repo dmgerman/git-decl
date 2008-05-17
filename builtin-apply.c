@@ -14,6 +14,7 @@ DECL|function|apply_patch
 DECL|function|build_fake_ancestor
 DECL|function|check_patch
 DECL|function|check_patch_list
+DECL|function|check_preimage
 DECL|function|check_to_create_blob
 DECL|function|check_whitespace
 DECL|function|clear_image
