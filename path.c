@@ -6,6 +6,7 @@ DECL|function|git_mkstemp
 DECL|function|git_path
 DECL|function|make_absolute_path
 DECL|function|mkpath
+DECL|function|normalize_absolute_path
 DECL|function|user_path
 DECL|function|validate_headref
 DECL|macro|MAXDEPTH
