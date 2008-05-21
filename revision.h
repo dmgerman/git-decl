@@ -39,6 +39,7 @@ DECL|member|elem_len
 DECL|member|extra_headers
 DECL|member|first_parent_only
 DECL|member|full_diff
+DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
 DECL|member|ignore_packed
@@ -52,15 +53,16 @@ DECL|member|max_count
 DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
+DECL|member|missing_newline
 DECL|member|no_commit_id
 DECL|member|no_inline
 DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
 DECL|member|num_ignore_packed
-DECL|member|parents
 DECL|member|pending
 DECL|member|prefix
+DECL|member|print_parents
 DECL|member|prune
 DECL|member|prune_data
 DECL|member|pruning
@@ -68,6 +70,7 @@ DECL|member|ref_message_id
 DECL|member|reflog_info
 DECL|member|remove_empty_trees
 DECL|member|reverse
+DECL|member|rewrite_parents
 DECL|member|show_all
 DECL|member|show_log_size
 DECL|member|show_root_diff
