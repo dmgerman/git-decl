@@ -1,3 +1,4 @@
+DECL|function|add_config
 DECL|function|add_files_to_cache
 DECL|function|cmd_add
 DECL|function|fill_directory
@@ -6,9 +7,13 @@ DECL|function|prune_directory
 DECL|function|refresh
 DECL|function|update_callback
 DECL|function|validate_pathspec
+DECL|member|add_errors
+DECL|member|flags
+DECL|struct|update_callback_data
 DECL|variable|add_interactive
 DECL|variable|builtin_add_options
 DECL|variable|builtin_add_usage
+DECL|variable|ignore_add_errors
 DECL|variable|ignore_error
 DECL|variable|ignored_too
 DECL|variable|lock_file
