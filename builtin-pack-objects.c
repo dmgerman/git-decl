@@ -12,12 +12,13 @@ DECL|function|check_pack_inflate
 DECL|function|check_pbase_path
 DECL|function|cmd_pack_objects
 DECL|function|copy_pack_data
-DECL|function|delta_against
 DECL|function|delta_cacheable
+DECL|function|do_compress
 DECL|function|done_pbase_path_pos
 DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|free_unpacked
+DECL|function|get_delta
 DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
@@ -103,6 +104,7 @@ DECL|member|tree_size
 DECL|member|type
 DECL|member|window
 DECL|member|working
+DECL|member|z_delta_size
 DECL|struct|in_pack
 DECL|struct|in_pack_object
 DECL|struct|object_entry
@@ -125,8 +127,6 @@ DECL|variable|incremental
 DECL|variable|keep_unreachable
 DECL|variable|local
 DECL|variable|max_delta_cache_size
-DECL|variable|no_reuse_delta
-DECL|variable|no_reuse_object
 DECL|variable|non_empty
 DECL|variable|nr_alloc
 DECL|variable|nr_objects
@@ -149,6 +149,8 @@ DECL|variable|progress_cond
 DECL|variable|progress_mutex
 DECL|variable|progress_state
 DECL|variable|read_mutex
+DECL|variable|reuse_delta
+DECL|variable|reuse_object
 DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|window
