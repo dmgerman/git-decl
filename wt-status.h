@@ -1,5 +1,6 @@
 DECL|enumerator|WT_STATUS_CHANGED
 DECL|enumerator|WT_STATUS_HEADER
+DECL|enumerator|WT_STATUS_NOBRANCH
 DECL|enumerator|WT_STATUS_UNTRACKED
 DECL|enumerator|WT_STATUS_UPDATED
 DECL|enum|color_wt_status
