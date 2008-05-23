@@ -11,6 +11,7 @@ DECL|member|fetch_refspec_nr
 DECL|member|fetch_tags
 DECL|member|force
 DECL|member|http_proxy
+DECL|member|matching
 DECL|member|merge
 DECL|member|merge_alloc
 DECL|member|merge_name
