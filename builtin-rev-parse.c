@@ -10,6 +10,7 @@ DECL|function|show_file
 DECL|function|show_flag
 DECL|function|show_reference
 DECL|function|show_rev
+DECL|function|show_with_type
 DECL|function|skipspaces
 DECL|function|try_difference
 DECL|macro|DO_FLAGS
