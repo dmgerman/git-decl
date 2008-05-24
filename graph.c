@@ -13,6 +13,7 @@ DECL|function|graph_is_interesting
 DECL|function|graph_is_mapping_correct
 DECL|function|graph_next_line
 DECL|function|graph_output_collapsing_line
+DECL|function|graph_output_commit_char
 DECL|function|graph_output_commit_line
 DECL|function|graph_output_padding_line
 DECL|function|graph_output_post_merge_line
