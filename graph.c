@@ -9,6 +9,7 @@ DECL|function|graph_ensure_capacity
 DECL|function|graph_init
 DECL|function|graph_insert_into_new_columns
 DECL|function|graph_is_commit_finished
+DECL|function|graph_is_interesting
 DECL|function|graph_is_mapping_correct
 DECL|function|graph_next_line
 DECL|function|graph_output_collapsing_line
