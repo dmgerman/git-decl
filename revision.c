@@ -15,6 +15,7 @@ DECL|function|add_pending_object
 DECL|function|add_pending_object_with_mode
 DECL|function|cherry_pick_list
 DECL|function|commit_match
+DECL|function|create_boundary_commit_list
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change
