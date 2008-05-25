@@ -69,3 +69,5 @@ DECL|variable|remotes_nr
 DECL|variable|rewrite
 DECL|variable|rewrite_alloc
 DECL|variable|rewrite_nr
+DECL|variable|s_tag_refspec
+DECL|variable|tag_refspec
