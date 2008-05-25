@@ -9,9 +9,11 @@ DECL|function|graph_ensure_capacity
 DECL|function|graph_init
 DECL|function|graph_insert_into_new_columns
 DECL|function|graph_is_commit_finished
+DECL|function|graph_is_interesting
 DECL|function|graph_is_mapping_correct
 DECL|function|graph_next_line
 DECL|function|graph_output_collapsing_line
+DECL|function|graph_output_commit_char
 DECL|function|graph_output_commit_line
 DECL|function|graph_output_padding_line
 DECL|function|graph_output_post_merge_line
@@ -41,6 +43,7 @@ DECL|member|new_mapping
 DECL|member|num_columns
 DECL|member|num_new_columns
 DECL|member|num_parents
+DECL|member|revs
 DECL|member|state
 DECL|member|width
 DECL|struct|column
