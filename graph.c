@@ -42,6 +42,7 @@ DECL|member|new_mapping
 DECL|member|num_columns
 DECL|member|num_new_columns
 DECL|member|num_parents
+DECL|member|revs
 DECL|member|state
 DECL|member|width
 DECL|struct|column
