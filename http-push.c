@@ -49,6 +49,8 @@ DECL|function|refresh_lock
 DECL|function|release_request
 DECL|function|remote_exists
 DECL|function|remote_ls
+DECL|function|remove_locks
+DECL|function|remove_locks_on_signal
 DECL|function|setup_index
 DECL|function|start_fetch_loose
 DECL|function|start_fetch_packed
