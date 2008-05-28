@@ -20,6 +20,7 @@ DECL|member|new_branch_log
 DECL|member|path
 DECL|member|quiet
 DECL|member|track
+DECL|member|writeout_error
 DECL|struct|branch_info
 DECL|struct|checkout_opts
 DECL|variable|checkout_usage
