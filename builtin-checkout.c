@@ -5,8 +5,7 @@ DECL|function|merge_working_tree
 DECL|function|post_checkout_hook
 DECL|function|read_tree_some
 DECL|function|report_tracking
-DECL|function|reset_clean_to_new
-DECL|function|reset_to_new
+DECL|function|reset_tree
 DECL|function|setup_branch_path
 DECL|function|show_local_changes
 DECL|function|switch_branches
