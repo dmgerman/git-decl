@@ -30,11 +30,13 @@ DECL|function|graph_show_remainder
 DECL|function|graph_show_strbuf
 DECL|function|graph_update
 DECL|function|graph_update_columns
+DECL|function|graph_update_state
 DECL|function|graph_update_width
 DECL|member|column_capacity
 DECL|member|columns
 DECL|member|commit
 DECL|member|commit
+DECL|member|commit_index
 DECL|member|expansion_row
 DECL|member|mapping
 DECL|member|mapping_size
@@ -43,6 +45,8 @@ DECL|member|new_mapping
 DECL|member|num_columns
 DECL|member|num_new_columns
 DECL|member|num_parents
+DECL|member|prev_commit_index
+DECL|member|prev_state
 DECL|member|revs
 DECL|member|state
 DECL|member|width
