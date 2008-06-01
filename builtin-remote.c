@@ -26,7 +26,6 @@ DECL|member|new
 DECL|member|prefix
 DECL|member|remote
 DECL|member|remote
-DECL|member|remote_prefix
 DECL|member|stale
 DECL|member|tracked
 DECL|struct|branch_info
