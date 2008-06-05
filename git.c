@@ -11,5 +11,6 @@ DECL|member|cmd
 DECL|member|fn
 DECL|member|option
 DECL|struct|cmd_struct
+DECL|variable|git_more_info_string
 DECL|variable|git_usage_string
 DECL|variable|git_version_string
