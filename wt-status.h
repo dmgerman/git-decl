@@ -1,9 +1,12 @@
+DECL|enumerator|SHOW_ALL_UNTRACKED_FILES
+DECL|enumerator|SHOW_NORMAL_UNTRACKED_FILES
 DECL|enumerator|WT_STATUS_CHANGED
 DECL|enumerator|WT_STATUS_HEADER
 DECL|enumerator|WT_STATUS_NOBRANCH
 DECL|enumerator|WT_STATUS_UNTRACKED
 DECL|enumerator|WT_STATUS_UPDATED
 DECL|enum|color_wt_status
+DECL|enum|untracked_status_type
 DECL|macro|STATUS_H
 DECL|member|amend
 DECL|member|branch

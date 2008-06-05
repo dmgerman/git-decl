@@ -57,7 +57,7 @@ DECL|variable|quiet
 DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|template_file
-DECL|variable|untracked_files
+DECL|variable|untracked_files_arg
 DECL|variable|use_editor
 DECL|variable|use_message
 DECL|variable|use_message_buffer
