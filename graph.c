@@ -5,6 +5,7 @@ DECL|enumerator|GRAPH_POST_MERGE
 DECL|enumerator|GRAPH_PRE_COMMIT
 DECL|enumerator|GRAPH_SKIP
 DECL|enum|graph_state
+DECL|function|first_interesting_parent
 DECL|function|graph_ensure_capacity
 DECL|function|graph_init
 DECL|function|graph_insert_into_new_columns
@@ -32,6 +33,7 @@ DECL|function|graph_update
 DECL|function|graph_update_columns
 DECL|function|graph_update_state
 DECL|function|graph_update_width
+DECL|function|next_interesting_parent
 DECL|member|column_capacity
 DECL|member|columns
 DECL|member|commit
