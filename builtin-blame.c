@@ -111,6 +111,7 @@ DECL|member|p_next
 DECL|member|path
 DECL|member|path
 DECL|member|prev
+DECL|member|previous
 DECL|member|refcnt
 DECL|member|ret
 DECL|member|revs
