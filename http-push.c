@@ -34,8 +34,6 @@ DECL|function|is_zero_sha1
 DECL|function|lock_remote
 DECL|function|locking_available
 DECL|function|main
-DECL|function|mark_edge_parents_uninteresting
-DECL|function|mark_edges_uninteresting
 DECL|function|one_local_ref
 DECL|function|one_remote_object
 DECL|function|one_remote_ref
