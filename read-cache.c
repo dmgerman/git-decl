@@ -31,6 +31,7 @@ DECL|function|ie_modified
 DECL|function|index_name_exists
 DECL|function|index_name_pos
 DECL|function|index_name_pos_also_unmerged
+DECL|function|is_empty_blob_sha1
 DECL|function|is_racy_timestamp
 DECL|function|lazy_init_name_hash
 DECL|function|make_cache_entry
