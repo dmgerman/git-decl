@@ -1,6 +1,7 @@
 DECL|function|add
 DECL|function|add_branch_for_removal
 DECL|function|add_known_remote
+DECL|function|append_ref_to_tracked_list
 DECL|function|cmd_remote
 DECL|function|config_read_branches
 DECL|function|fetch_remote
