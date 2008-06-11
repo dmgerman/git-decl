@@ -3,6 +3,7 @@ DECL|enumerator|STRIP
 DECL|enumerator|VERBATIM
 DECL|enumerator|WARN
 DECL|function|cmd_fast_export
+DECL|function|export_marks
 DECL|function|find_encoding
 DECL|function|get_object_mark
 DECL|function|get_tags_and_duplicates
@@ -12,8 +13,12 @@ DECL|function|handle_tag
 DECL|function|handle_tags_and_duplicates
 DECL|function|handle_tail
 DECL|function|has_unshown_parent
+DECL|function|import_marks
+DECL|function|mark_next_object
 DECL|function|mark_object
+DECL|function|mark_to_ptr
 DECL|function|parse_opt_signed_tag_mode
+DECL|function|ptr_to_mark
 DECL|function|show_filemodify
 DECL|function|show_progress
 DECL|variable|fast_export_usage
