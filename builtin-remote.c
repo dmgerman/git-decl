@@ -1,6 +1,7 @@
 DECL|function|add
 DECL|function|add_branch_for_removal
 DECL|function|add_known_remote
+DECL|function|append_ref_to_tracked_list
 DECL|function|cmd_remote
 DECL|function|config_read_branches
 DECL|function|fetch_remote
@@ -8,15 +9,17 @@ DECL|function|get_one_entry
 DECL|function|get_one_remote_for_update
 DECL|function|get_ref_states
 DECL|function|get_remote_group
+DECL|function|get_remote_ref_states
 DECL|function|handle_one_branch
 DECL|function|opt_parse_track
 DECL|function|postfixcmp
+DECL|function|prune
 DECL|function|read_branches
 DECL|function|remove_branches
 DECL|function|rm
+DECL|function|show
 DECL|function|show_all
 DECL|function|show_list
-DECL|function|show_or_prune
 DECL|function|skip_prefix
 DECL|function|update
 DECL|member|branches
