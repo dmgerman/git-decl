@@ -6,6 +6,8 @@ DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
 DECL|function|close_pack_windows
 DECL|function|close_sha1_file
+DECL|function|create_tmpfile
+DECL|function|directory_size
 DECL|function|fill_sha1_path
 DECL|function|find_cached_object
 DECL|function|find_pack_entry
@@ -29,7 +31,6 @@ DECL|function|install_packed_git
 DECL|function|legacy_loose_object
 DECL|function|link_alt_odb_entries
 DECL|function|link_alt_odb_entry
-DECL|function|link_temp_to_file
 DECL|function|map_sha1_file
 DECL|function|matches_pack_name
 DECL|function|move_temp_to_file
