@@ -58,7 +58,6 @@ DECL|function|read_sha1_file
 DECL|function|rearrange_packed_git
 DECL|function|release_delta_base_cache
 DECL|function|release_pack_memory
-DECL|function|repack_object
 DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
 DECL|function|scan_windows
@@ -87,8 +86,6 @@ DECL|function|write_buffer
 DECL|function|write_loose_object
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
-DECL|function|write_sha1_from_fd
-DECL|function|write_sha1_to_fd
 DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
