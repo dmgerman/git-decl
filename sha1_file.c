@@ -18,6 +18,7 @@ DECL|function|force_object_loose
 DECL|function|get_delta_base
 DECL|function|get_sha1_hex
 DECL|function|get_size_from_delta
+DECL|function|git_open_noatime
 DECL|function|has_pack_file
 DECL|function|has_pack_index
 DECL|function|has_sha1_file
@@ -39,6 +40,7 @@ DECL|function|nth_packed_object_sha1
 DECL|function|open_pack_index
 DECL|function|open_packed_git
 DECL|function|open_packed_git_1
+DECL|function|open_sha1_file
 DECL|function|pack_entry_hash
 DECL|function|pack_report
 DECL|function|packed_delta_info
@@ -126,4 +128,3 @@ DECL|variable|packed_git
 DECL|variable|peak_pack_mapped
 DECL|variable|peak_pack_open_windows
 DECL|variable|prepare_packed_git_run_once
-DECL|variable|sha1_file_open_flag
