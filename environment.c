@@ -3,7 +3,6 @@ DECL|function|get_git_work_tree
 DECL|function|get_graft_file
 DECL|function|get_index_file
 DECL|function|get_object_directory
-DECL|function|get_refs_directory
 DECL|function|is_bare_repository
 DECL|function|set_git_dir
 DECL|function|set_git_work_tree
