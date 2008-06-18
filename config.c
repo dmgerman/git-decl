@@ -22,6 +22,7 @@ DECL|function|git_config_string
 DECL|function|git_config_system
 DECL|function|git_config_ulong
 DECL|function|git_default_config
+DECL|function|git_default_core_config
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
 DECL|function|git_parse_file
