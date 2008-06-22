@@ -15,10 +15,13 @@ DECL|function|rerere_created_at
 DECL|function|rr_path
 DECL|function|setup_rerere
 DECL|function|unlink_rr_item
+DECL|function|update_paths
 DECL|function|write_rr
 DECL|variable|cutoff_noresolve
 DECL|variable|cutoff_resolve
 DECL|variable|git_rerere_usage
+DECL|variable|index_lock
 DECL|variable|merge_rr_path
+DECL|variable|rerere_autoupdate
 DECL|variable|rerere_enabled
 DECL|variable|write_lock
