@@ -45,6 +45,7 @@ DECL|macro|connect
 DECL|macro|execvp
 DECL|macro|fstat
 DECL|macro|getcwd
+DECL|macro|getenv
 DECL|macro|gethostbyname
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror

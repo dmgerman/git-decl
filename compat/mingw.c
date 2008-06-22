@@ -18,6 +18,7 @@ DECL|function|mingw_execve
 DECL|function|mingw_execvp
 DECL|function|mingw_fstat
 DECL|function|mingw_getcwd
+DECL|function|mingw_getenv
 DECL|function|mingw_gethostbyname
 DECL|function|mingw_lstat
 DECL|function|mingw_open
@@ -45,6 +46,7 @@ DECL|function|try_shell_exec
 DECL|macro|connect
 DECL|macro|fstat
 DECL|macro|getcwd
+DECL|macro|getenv
 DECL|macro|gethostbyname
 DECL|macro|open
 DECL|macro|rename
