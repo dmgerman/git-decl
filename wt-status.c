@@ -16,6 +16,7 @@ DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_updated_cb
 DECL|function|wt_status_print_verbose
 DECL|macro|quote_path
+DECL|variable|show_untracked_files
 DECL|variable|use_add_msg
 DECL|variable|use_add_rm_msg
 DECL|variable|use_add_to_include_msg
