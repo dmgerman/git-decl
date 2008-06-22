@@ -5,11 +5,13 @@ DECL|function|find_conflict
 DECL|function|garbage_collect
 DECL|function|git_rerere_config
 DECL|function|handle_file
+DECL|function|has_resolution
 DECL|function|is_rerere_enabled
 DECL|function|merge
 DECL|function|outf
 DECL|function|read_rr
 DECL|function|rerere
+DECL|function|rerere_created_at
 DECL|function|rr_path
 DECL|function|setup_rerere
 DECL|function|unlink_rr_item
