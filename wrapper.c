@@ -1,0 +1,12 @@
+DECL|function|xcalloc
+DECL|function|xdup
+DECL|function|xfdopen
+DECL|function|xmalloc
+DECL|function|xmemdupz
+DECL|function|xmkstemp
+DECL|function|xmmap
+DECL|function|xread
+DECL|function|xrealloc
+DECL|function|xstrdup
+DECL|function|xstrndup
+DECL|function|xwrite
