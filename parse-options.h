@@ -8,12 +8,15 @@ DECL|enumerator|OPTION_INTEGER
 DECL|enumerator|OPTION_SET_INT
 DECL|enumerator|OPTION_SET_PTR
 DECL|enumerator|OPTION_STRING
+DECL|enumerator|PARSE_OPT_DONE
+DECL|enumerator|PARSE_OPT_HELP
 DECL|enumerator|PARSE_OPT_HIDDEN
 DECL|enumerator|PARSE_OPT_KEEP_DASHDASH
 DECL|enumerator|PARSE_OPT_NOARG
 DECL|enumerator|PARSE_OPT_NONEG
 DECL|enumerator|PARSE_OPT_OPTARG
 DECL|enumerator|PARSE_OPT_STOP_AT_NON_OPTION
+DECL|enumerator|PARSE_OPT_UNKNOWN
 DECL|enum|parse_opt_flags
 DECL|enum|parse_opt_option_flags
 DECL|enum|parse_opt_type
