@@ -1,4 +1,9 @@
+DECL|function|length_callback
 DECL|function|main
+DECL|variable|abbrev
 DECL|variable|boolean
+DECL|variable|dry_run
 DECL|variable|integer
+DECL|variable|quiet
 DECL|variable|string
+DECL|variable|verbose
