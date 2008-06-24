@@ -169,6 +169,7 @@ DECL|macro|remove_file_from_cache
 DECL|macro|unmerged_cache
 DECL|macro|write_cache
 DECL|member|alloc
+DECL|member|bad_object_sha1
 DECL|member|base
 DECL|member|base
 DECL|member|base_dir
@@ -226,6 +227,7 @@ DECL|member|next
 DECL|member|nonfastforward
 DECL|member|not_new
 DECL|member|nsec
+DECL|member|num_bad_objects
 DECL|member|num_objects
 DECL|member|offset
 DECL|member|offset
