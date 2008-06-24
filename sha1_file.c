@@ -1,6 +1,7 @@
 DECL|function|add_delta_base_cache
 DECL|function|add_packed_git
 DECL|function|add_to_alternates_file
+DECL|function|alloc_packed_git
 DECL|function|cache_or_unpack_entry
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
