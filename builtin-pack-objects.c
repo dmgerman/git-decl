@@ -7,7 +7,6 @@ DECL|function|add_ref_tag
 DECL|function|adjust_perm
 DECL|function|check_delta_limit
 DECL|function|check_object
-DECL|function|check_pack_crc
 DECL|function|check_pack_inflate
 DECL|function|check_pbase_path
 DECL|function|cmd_pack_objects
