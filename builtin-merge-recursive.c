@@ -22,7 +22,6 @@ DECL|function|merge_config
 DECL|function|merge_file
 DECL|function|merge_recursive
 DECL|function|merge_trees
-DECL|function|mkdir_p
 DECL|function|output
 DECL|function|output_commit_title
 DECL|function|process_entry

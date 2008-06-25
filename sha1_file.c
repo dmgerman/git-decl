@@ -64,6 +64,7 @@ DECL|function|release_delta_base_cache
 DECL|function|release_pack_memory
 DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
+DECL|function|safe_create_leading_directories_const
 DECL|function|scan_windows
 DECL|function|sha1_file_name
 DECL|function|sha1_get_pack_name
