@@ -7,6 +7,7 @@ DECL|function|git_mkstemp
 DECL|function|git_path
 DECL|function|make_absolute_path
 DECL|function|make_nonrelative_path
+DECL|function|make_relative_path
 DECL|function|mkpath
 DECL|function|user_path
 DECL|function|validate_headref
