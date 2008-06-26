@@ -116,13 +116,11 @@ DECL|member|alloc
 DECL|member|changed
 DECL|member|cmd
 DECL|member|color_diff
-DECL|member|color_diff
 DECL|member|ctx
 DECL|member|cumulative
 DECL|member|current
 DECL|member|deleted
 DECL|member|diff_words
-DECL|member|file
 DECL|member|file
 DECL|member|file
 DECL|member|filename
@@ -149,6 +147,7 @@ DECL|member|next
 DECL|member|nparents
 DECL|member|nr
 DECL|member|nr
+DECL|member|o
 DECL|member|patchlen
 DECL|member|pattern
 DECL|member|pattern
