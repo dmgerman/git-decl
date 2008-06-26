@@ -70,6 +70,7 @@ DECL|function|funcname_pattern
 DECL|function|gather_dirstat
 DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
+DECL|function|is_conflict_marker
 DECL|function|is_summary_empty
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
