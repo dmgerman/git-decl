@@ -23,6 +23,7 @@ DECL|function|pop_most_recent_commit
 DECL|function|prepare_commit_graft
 DECL|function|read_graft_file
 DECL|function|read_graft_line
+DECL|function|reduce_heads
 DECL|function|register_commit_graft
 DECL|function|sort_by_date
 DECL|function|sort_in_topological_order
