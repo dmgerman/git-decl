@@ -3,7 +3,6 @@ DECL|function|handle_internal_command
 DECL|function|handle_options
 DECL|function|main
 DECL|function|run_command
-DECL|function|split_cmdline
 DECL|macro|NEED_WORK_TREE
 DECL|macro|RUN_SETUP
 DECL|macro|USE_PAGER
