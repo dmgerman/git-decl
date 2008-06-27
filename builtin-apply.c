@@ -5,6 +5,7 @@ DECL|enumerator|warn_on_ws_error
 DECL|enum|ws_error_action
 DECL|function|add_index_file
 DECL|function|add_line_info
+DECL|function|add_to_fn_table
 DECL|function|apply_binary
 DECL|function|apply_binary_fragment
 DECL|function|apply_data
@@ -46,6 +47,7 @@ DECL|function|gitdiff_unrecognized
 DECL|function|gitdiff_verify_name
 DECL|function|guess_p_value
 DECL|function|hash_line
+DECL|function|in_fn_table
 DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|linelen
@@ -164,6 +166,7 @@ DECL|variable|check_index
 DECL|variable|diffstat
 DECL|variable|excludes
 DECL|variable|fake_ancestor
+DECL|variable|fn_table
 DECL|variable|line_termination
 DECL|variable|linenr
 DECL|variable|lock_file
