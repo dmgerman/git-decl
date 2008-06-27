@@ -38,7 +38,6 @@ DECL|variable|packed_git_window_size
 DECL|variable|pager_program
 DECL|variable|pager_use_color
 DECL|variable|prefer_symlink_refs
-DECL|variable|quote_path_fully
 DECL|variable|repository_format_version
 DECL|variable|safe_crlf
 DECL|variable|shared_repository

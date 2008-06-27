@@ -5,11 +5,9 @@ DECL|function|get_pathname
 DECL|function|get_pwd_cwd
 DECL|function|git_mkstemp
 DECL|function|git_path
-DECL|function|make_absolute_path
 DECL|function|make_nonrelative_path
 DECL|function|make_relative_path
 DECL|function|mkpath
 DECL|function|user_path
 DECL|function|validate_headref
-DECL|macro|MAXDEPTH
 DECL|variable|bad_path

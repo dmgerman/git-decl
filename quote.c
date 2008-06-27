@@ -20,4 +20,5 @@ DECL|macro|EMIT
 DECL|macro|EMITBUF
 DECL|macro|X16
 DECL|macro|X8
+DECL|variable|quote_path_fully
 DECL|variable|sq_lookup
