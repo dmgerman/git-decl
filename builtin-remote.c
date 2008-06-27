@@ -20,7 +20,6 @@ DECL|function|rm
 DECL|function|show
 DECL|function|show_all
 DECL|function|show_list
-DECL|function|skip_prefix
 DECL|function|update
 DECL|member|branches
 DECL|member|keep

@@ -1,6 +1,7 @@
 DECL|function|gitstrchrnul
 DECL|function|has_extension
 DECL|function|sane_case
+DECL|function|skip_prefix
 DECL|function|strtol_i
 DECL|function|strtoul_ui
 DECL|function|xsize_t

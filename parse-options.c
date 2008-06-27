@@ -7,7 +7,6 @@ DECL|function|parse_opt_abbrev_cb
 DECL|function|parse_opt_approxidate_cb
 DECL|function|parse_options
 DECL|function|parse_short_opt
-DECL|function|skip_prefix
 DECL|function|usage_with_options
 DECL|function|usage_with_options_internal
 DECL|macro|OPT_SHORT
