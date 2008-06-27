@@ -163,6 +163,7 @@ DECL|macro|ondisk_cache_entry_size
 DECL|macro|ondisk_ce_size
 DECL|macro|read_cache
 DECL|macro|read_cache_from
+DECL|macro|read_cache_unmerged
 DECL|macro|refresh_cache
 DECL|macro|remove_cache_entry_at
 DECL|macro|remove_file_from_cache
