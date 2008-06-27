@@ -5,6 +5,7 @@ DECL|function|commit_list_count
 DECL|function|commit_list_insert
 DECL|function|free_commit_list
 DECL|function|get_merge_bases
+DECL|function|get_merge_bases_many
 DECL|function|get_octopus_merge_bases
 DECL|function|in_merge_bases
 DECL|function|insert_by_date
@@ -13,7 +14,7 @@ DECL|function|lookup_commit
 DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference
 DECL|function|lookup_commit_reference_gently
-DECL|function|merge_bases
+DECL|function|merge_bases_many
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
