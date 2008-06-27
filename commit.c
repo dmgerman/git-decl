@@ -5,6 +5,7 @@ DECL|function|commit_list_count
 DECL|function|commit_list_insert
 DECL|function|free_commit_list
 DECL|function|get_merge_bases
+DECL|function|get_octopus_merge_bases
 DECL|function|in_merge_bases
 DECL|function|insert_by_date
 DECL|function|interesting
