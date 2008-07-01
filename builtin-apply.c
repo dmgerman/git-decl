@@ -73,6 +73,7 @@ DECL|function|prepare_image
 DECL|function|read_file_or_gitlink
 DECL|function|read_old_data
 DECL|function|read_patch_file
+DECL|function|recount_diff
 DECL|function|remove_file
 DECL|function|remove_first_line
 DECL|function|remove_last_line
@@ -97,7 +98,9 @@ DECL|function|write_out_results
 DECL|macro|BINARY_DELTA_DEFLATED
 DECL|macro|BINARY_LITERAL_DEFLATED
 DECL|macro|CHUNKSIZE
+DECL|macro|INACCURATE_EOF
 DECL|macro|LINE_COMMON
+DECL|macro|RECOUNT
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
@@ -141,6 +144,7 @@ DECL|member|oldlines
 DECL|member|oldpos
 DECL|member|patch
 DECL|member|path
+DECL|member|recount
 DECL|member|rejected
 DECL|member|rejected
 DECL|member|result
