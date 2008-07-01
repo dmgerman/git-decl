@@ -70,6 +70,7 @@ DECL|function|funcname_pattern
 DECL|function|gather_dirstat
 DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
+DECL|function|is_conflict_marker
 DECL|function|is_summary_empty
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
@@ -116,13 +117,11 @@ DECL|member|alloc
 DECL|member|changed
 DECL|member|cmd
 DECL|member|color_diff
-DECL|member|color_diff
 DECL|member|ctx
 DECL|member|cumulative
 DECL|member|current
 DECL|member|deleted
 DECL|member|diff_words
-DECL|member|file
 DECL|member|file
 DECL|member|file
 DECL|member|filename
@@ -149,6 +148,7 @@ DECL|member|next
 DECL|member|nparents
 DECL|member|nr
 DECL|member|nr
+DECL|member|o
 DECL|member|patchlen
 DECL|member|pattern
 DECL|member|pattern
@@ -159,6 +159,7 @@ DECL|member|status
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
+DECL|member|trailing_blanks_start
 DECL|member|truncate
 DECL|member|ws_rule
 DECL|member|ws_rule
