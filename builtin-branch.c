@@ -8,6 +8,7 @@ DECL|function|append_ref
 DECL|function|branch_get_color
 DECL|function|cmd_branch
 DECL|function|delete_branches
+DECL|function|fill_tracking_info
 DECL|function|free_ref_list
 DECL|function|git_branch_config
 DECL|function|has_commit
