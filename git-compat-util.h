@@ -26,9 +26,11 @@ DECL|macro|MSB
 DECL|macro|NORETURN
 DECL|macro|NORETURN
 DECL|macro|PATH_MAX
+DECL|macro|PATH_SEP
 DECL|macro|PRIuMAX
 DECL|macro|PROT_READ
 DECL|macro|PROT_WRITE
+DECL|macro|STRIP_EXTENSION
 DECL|macro|TYPEOF
 DECL|macro|TYPEOF
 DECL|macro|_ALL_SOURCE
@@ -45,7 +47,9 @@ DECL|macro|__attribute__
 DECL|macro|decimal_length
 DECL|macro|fopen
 DECL|macro|fopen
+DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
+DECL|macro|is_dir_sep
 DECL|macro|isalnum
 DECL|macro|isalnum
 DECL|macro|isalpha

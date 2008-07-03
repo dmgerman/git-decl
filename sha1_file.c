@@ -39,6 +39,7 @@ DECL|function|matches_pack_name
 DECL|function|move_temp_to_file
 DECL|function|nth_packed_object_offset
 DECL|function|nth_packed_object_sha1
+DECL|function|offset_1st_component
 DECL|function|open_pack_index
 DECL|function|open_packed_git
 DECL|function|open_packed_git_1

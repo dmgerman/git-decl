@@ -19,12 +19,12 @@ DECL|function|match_digit
 DECL|function|match_multi_number
 DECL|function|match_string
 DECL|function|match_tz
-DECL|function|my_mktime
 DECL|function|parse_date
 DECL|function|parse_date_format
 DECL|function|show_date
 DECL|function|skip_alpha
 DECL|function|time_to_tm
+DECL|function|tm_to_time_t
 DECL|function|update_tm
 DECL|member|dst
 DECL|member|fn
