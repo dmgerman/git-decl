@@ -10,7 +10,6 @@ DECL|function|find_bisection
 DECL|function|finish_commit
 DECL|function|finish_object
 DECL|function|halfway
-DECL|function|read_revisions_from_stdin
 DECL|function|show_commit
 DECL|function|show_edge
 DECL|function|show_list
