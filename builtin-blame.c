@@ -1,7 +1,10 @@
 DECL|function|add_blame_entry
 DECL|function|add_prefix
 DECL|function|assign_blame
+DECL|function|blame_bottomtop_callback
 DECL|function|blame_chunk
+DECL|function|blame_copy_callback
+DECL|function|blame_move_callback
 DECL|function|blame_overlap
 DECL|function|cmd_blame
 DECL|function|coalesce
@@ -127,6 +130,7 @@ DECL|struct|patch
 DECL|struct|scoreboard
 DECL|variable|blame_copy_score
 DECL|variable|blame_move_score
+DECL|variable|blame_opt_usage
 DECL|variable|blame_usage
 DECL|variable|blank_boundary
 DECL|variable|cmd_is_annotate
