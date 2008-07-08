@@ -29,6 +29,7 @@ DECL|member|combine_merges
 DECL|member|commit_format
 DECL|member|commits
 DECL|member|date_mode
+DECL|member|def
 DECL|member|dense
 DECL|member|dense_combined_merges
 DECL|member|diff
@@ -74,6 +75,7 @@ DECL|member|reverse
 DECL|member|rewrite_parents
 DECL|member|show_all
 DECL|member|show_log_size
+DECL|member|show_merge
 DECL|member|show_root_diff
 DECL|member|shown_one
 DECL|member|simplify_history
