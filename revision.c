@@ -39,6 +39,7 @@ DECL|function|limit_list
 DECL|function|mark_blob_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
+DECL|function|parse_revision_opt
 DECL|function|path_name
 DECL|function|prepare_revision_walk
 DECL|function|prepare_show_merge
