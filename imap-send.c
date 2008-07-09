@@ -1,6 +1,7 @@
 DECL|enumerator|LITERALPLUS
 DECL|enumerator|NAMESPACE
 DECL|enumerator|NOLOGIN
+DECL|enumerator|STARTTLS
 DECL|enumerator|UIDPLUS
 DECL|enum|CAPABILITY
 DECL|function|arc4_getbyte
@@ -35,8 +36,11 @@ DECL|function|parse_response_code
 DECL|function|read_message
 DECL|function|socket_perror
 DECL|function|socket_read
+DECL|function|socket_shutdown
 DECL|function|socket_write
 DECL|function|split_msg
+DECL|function|ssl_socket_connect
+DECL|function|ssl_socket_perror
 DECL|function|v_issue_imap_cmd
 DECL|macro|CAP
 DECL|macro|CHUNKSIZE
@@ -125,6 +129,8 @@ DECL|member|slave
 DECL|member|slave_name
 DECL|member|sock
 DECL|member|sops
+DECL|member|ssl
+DECL|member|ssl_verify
 DECL|member|status
 DECL|member|string
 DECL|member|sync_state
@@ -141,6 +147,7 @@ DECL|member|uidnext
 DECL|member|uidvalidity
 DECL|member|uidvalidity
 DECL|member|use_namespace
+DECL|member|use_ssl
 DECL|member|user
 DECL|member|val
 DECL|struct|_list
@@ -156,6 +163,7 @@ DECL|struct|message
 DECL|struct|store
 DECL|struct|store_conf
 DECL|struct|string_list
+DECL|typedef|SSL
 DECL|typedef|Socket_t
 DECL|typedef|buffer_t
 DECL|typedef|channel_conf_t
