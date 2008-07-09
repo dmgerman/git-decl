@@ -187,6 +187,8 @@ DECL|variable|patch_input_file
 DECL|variable|pluses
 DECL|variable|prefix
 DECL|variable|prefix_length
+DECL|variable|root
+DECL|variable|root_len
 DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
 DECL|variable|unidiff_zero
