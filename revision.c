@@ -33,6 +33,7 @@ DECL|function|handle_reflog
 DECL|function|handle_refs
 DECL|function|handle_revision_arg
 DECL|function|init_revisions
+DECL|function|insert_by_date_cached
 DECL|function|limit_list
 DECL|function|mark_blob_uninteresting
 DECL|function|mark_parents_uninteresting
