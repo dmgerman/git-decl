@@ -2,6 +2,7 @@ DECL|enumerator|rewrite_one_error
 DECL|enumerator|rewrite_one_noparents
 DECL|enumerator|rewrite_one_ok
 DECL|enum|rewrite_result
+DECL|function|add_child
 DECL|function|add_grep
 DECL|function|add_head_to_pending
 DECL|function|add_header_grep
@@ -32,11 +33,13 @@ DECL|function|handle_one_reflog_ent
 DECL|function|handle_reflog
 DECL|function|handle_refs
 DECL|function|handle_revision_arg
+DECL|function|handle_revision_opt
 DECL|function|init_revisions
 DECL|function|limit_list
 DECL|function|mark_blob_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
+DECL|function|parse_revision_opt
 DECL|function|path_name
 DECL|function|prepare_revision_walk
 DECL|function|prepare_show_merge
@@ -46,10 +49,12 @@ DECL|function|rev_compare_tree
 DECL|function|rev_same_tree_as_empty
 DECL|function|rewrite_one
 DECL|function|rewrite_parents
+DECL|function|set_children
 DECL|function|setup_revisions
 DECL|function|simplify_commit
 DECL|function|still_interesting
 DECL|function|try_to_simplify_commit
+DECL|function|want_ancestry
 DECL|macro|SLOP
 DECL|member|all_flags
 DECL|member|all_revs
