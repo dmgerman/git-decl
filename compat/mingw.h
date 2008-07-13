@@ -55,6 +55,7 @@ DECL|macro|lstat
 DECL|macro|mkdir
 DECL|macro|ntohl
 DECL|macro|open
+DECL|macro|open_html
 DECL|macro|rename
 DECL|macro|sigemptyset
 DECL|macro|signal
