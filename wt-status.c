@@ -10,6 +10,7 @@ DECL|function|wt_status_print_filepair
 DECL|function|wt_status_print_header
 DECL|function|wt_status_print_initial
 DECL|function|wt_status_print_submodule_summary
+DECL|function|wt_status_print_tracking
 DECL|function|wt_status_print_trailer
 DECL|function|wt_status_print_untracked
 DECL|function|wt_status_print_updated

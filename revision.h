@@ -3,6 +3,7 @@ DECL|enumerator|commit_ignore
 DECL|enumerator|commit_show
 DECL|enum|commit_action
 DECL|macro|ADDED
+DECL|macro|ALL_REV_FLAGS
 DECL|macro|BOUNDARY
 DECL|macro|CHILD_SHOWN
 DECL|macro|REVISION_H
