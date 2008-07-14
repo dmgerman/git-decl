@@ -27,6 +27,7 @@ DECL|macro|FLAG_CHECKED
 DECL|macro|FLAG_LINK
 DECL|macro|UNION_BASE_SZ
 DECL|member|base
+DECL|member|data
 DECL|member|hdr_size
 DECL|member|idx
 DECL|member|obj_no
@@ -34,7 +35,9 @@ DECL|member|offset
 DECL|member|real_type
 DECL|member|sha1
 DECL|member|size
+DECL|member|size
 DECL|member|type
+DECL|struct|base_data
 DECL|struct|delta_entry
 DECL|struct|object_entry
 DECL|union|delta_base
