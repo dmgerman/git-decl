@@ -7,6 +7,7 @@ DECL|member|list
 DECL|member|mailmap
 DECL|member|sort_by_number
 DECL|member|summary
+DECL|member|user_format
 DECL|member|wrap
 DECL|member|wrap_lines
 DECL|struct|shortlog
