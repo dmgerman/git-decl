@@ -16,4 +16,5 @@ DECL|member|write_archive
 DECL|struct|archiver
 DECL|struct|archiver_args
 DECL|typedef|parse_extra_args_fn_t
+DECL|typedef|write_archive_entry_fn_t
 DECL|typedef|write_archive_fn_t

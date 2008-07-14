@@ -1,4 +1,3 @@
-DECL|function|construct_path
 DECL|function|copy_le16
 DECL|function|copy_le32
 DECL|function|dos_time
@@ -53,9 +52,6 @@ DECL|member|version
 DECL|struct|zip_dir_header
 DECL|struct|zip_dir_trailer
 DECL|struct|zip_local_header
-DECL|variable|base_len
-DECL|variable|commit
-DECL|variable|verbose
 DECL|variable|zip_date
 DECL|variable|zip_dir
 DECL|variable|zip_dir_entries
