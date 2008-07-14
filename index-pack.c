@@ -34,6 +34,7 @@ DECL|member|child
 DECL|member|data
 DECL|member|hdr_size
 DECL|member|idx
+DECL|member|obj
 DECL|member|obj_no
 DECL|member|offset
 DECL|member|real_type
