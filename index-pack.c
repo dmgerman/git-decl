@@ -10,6 +10,7 @@ DECL|function|find_delta
 DECL|function|find_delta_children
 DECL|function|fix_unresolved_deltas
 DECL|function|flush
+DECL|function|get_base_data
 DECL|function|get_data_from_pack
 DECL|function|git_index_pack_config
 DECL|function|link_base_data
@@ -18,6 +19,7 @@ DECL|function|mark_link
 DECL|function|open_pack_file
 DECL|function|parse_pack_header
 DECL|function|parse_pack_objects
+DECL|function|prune_base_data
 DECL|function|resolve_delta
 DECL|function|sha1_object
 DECL|function|unlink_base_data
@@ -47,6 +49,7 @@ DECL|struct|delta_entry
 DECL|struct|object_entry
 DECL|union|delta_base
 DECL|variable|base_cache
+DECL|variable|base_cache_used
 DECL|variable|consumed_bytes
 DECL|variable|deltas
 DECL|variable|from_stdin
