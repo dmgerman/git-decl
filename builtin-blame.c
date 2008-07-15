@@ -55,6 +55,7 @@ DECL|function|prepare_initial
 DECL|function|prepare_lines
 DECL|function|process_u_diff
 DECL|function|read_ancestry
+DECL|function|reset_scanned_flag
 DECL|function|same_suspect
 DECL|function|sanity_check_refcnt
 DECL|function|setup_blame_list
@@ -114,6 +115,7 @@ DECL|member|ret
 DECL|member|revs
 DECL|member|s_lno
 DECL|member|same
+DECL|member|scanned
 DECL|member|score
 DECL|member|split
 DECL|member|summary
