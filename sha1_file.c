@@ -22,6 +22,7 @@ DECL|function|git_open_noatime
 DECL|function|has_loose_object
 DECL|function|has_pack_file
 DECL|function|has_pack_index
+DECL|function|has_packed_and_bad
 DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
 DECL|function|hash_sha1_file
@@ -56,6 +57,7 @@ DECL|function|prepare_packed_git
 DECL|function|prepare_packed_git_one
 DECL|function|pretend_sha1_file
 DECL|function|read_info_alternates
+DECL|function|read_object
 DECL|function|read_object_with_reference
 DECL|function|read_pack_header
 DECL|function|read_packed_sha1
