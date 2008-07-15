@@ -3,7 +3,11 @@ DECL|enumerator|COLOR_BRANCH_LOCAL
 DECL|enumerator|COLOR_BRANCH_PLAIN
 DECL|enumerator|COLOR_BRANCH_REMOTE
 DECL|enumerator|COLOR_BRANCH_RESET
+DECL|enumerator|NO_FILTER
+DECL|enumerator|SHOW_MERGED
+DECL|enumerator|SHOW_NOT_MERGED
 DECL|enum|color_branch
+DECL|enum|merge_filter
 DECL|function|append_ref
 DECL|function|branch_get_color
 DECL|function|cmd_branch
@@ -12,6 +16,7 @@ DECL|function|fill_tracking_info
 DECL|function|free_ref_list
 DECL|function|git_branch_config
 DECL|function|has_commit
+DECL|function|opt_parse_merge_filter
 DECL|function|opt_parse_with_commit
 DECL|function|parse_branch_color_slot
 DECL|function|print_ref_item
@@ -38,4 +43,5 @@ DECL|variable|branch_use_color
 DECL|variable|builtin_branch_usage
 DECL|variable|head
 DECL|variable|head_sha1
-DECL|variable|mergefilter
+DECL|variable|merge_filter
+DECL|variable|merge_filter_ref
