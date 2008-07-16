@@ -13,6 +13,7 @@ DECL|function|is_timeval_eq
 DECL|function|localtime_r
 DECL|function|lookup_env
 DECL|function|lookup_prog
+DECL|function|make_backslash_path
 DECL|function|mingw_connect
 DECL|function|mingw_execve
 DECL|function|mingw_execvp
@@ -22,6 +23,7 @@ DECL|function|mingw_getenv
 DECL|function|mingw_gethostbyname
 DECL|function|mingw_lstat
 DECL|function|mingw_open
+DECL|function|mingw_open_html
 DECL|function|mingw_rename
 DECL|function|mingw_signal
 DECL|function|mingw_socket

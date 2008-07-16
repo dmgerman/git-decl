@@ -31,6 +31,7 @@ DECL|function|list_commands_in_dir
 DECL|function|list_common_cmds_help
 DECL|function|load_command_list
 DECL|function|mput_char
+DECL|function|open_html
 DECL|function|parse_help_format
 DECL|function|prepend
 DECL|function|pretty_print_string_list
