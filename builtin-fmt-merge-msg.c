@@ -1,6 +1,7 @@
 DECL|function|append_to_list
 DECL|function|cmd_fmt_merge_msg
 DECL|function|find_in_list
+DECL|function|fmt_merge_msg
 DECL|function|fmt_merge_msg_config
 DECL|function|free_list
 DECL|function|handle_line

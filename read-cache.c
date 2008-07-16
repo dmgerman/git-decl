@@ -37,6 +37,7 @@ DECL|function|make_cache_entry
 DECL|function|read_index
 DECL|function|read_index_extension
 DECL|function|read_index_from
+DECL|function|read_index_unmerged
 DECL|function|refresh_cache_ent
 DECL|function|refresh_cache_entry
 DECL|function|refresh_index
