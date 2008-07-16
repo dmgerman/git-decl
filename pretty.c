@@ -10,6 +10,7 @@ DECL|function|get_one_line
 DECL|function|is_empty_line
 DECL|function|is_rfc2047_special
 DECL|function|logmsg_reencode
+DECL|function|mailmap_name
 DECL|function|non_ascii
 DECL|function|parse_commit_header
 DECL|function|pp_header
