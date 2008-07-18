@@ -44,6 +44,8 @@ DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
 DECL|macro|connect
 DECL|macro|execvp
+DECL|macro|fprintf
+DECL|macro|fputs
 DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|getenv
@@ -56,6 +58,7 @@ DECL|macro|mkdir
 DECL|macro|ntohl
 DECL|macro|open
 DECL|macro|open_html
+DECL|macro|printf
 DECL|macro|rename
 DECL|macro|sigemptyset
 DECL|macro|signal

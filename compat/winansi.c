@@ -1,0 +1,17 @@
+DECL|function|ansi_emulate
+DECL|function|init
+DECL|function|set_attr
+DECL|function|set_console_attr
+DECL|function|winansi_fprintf
+DECL|function|winansi_fputs
+DECL|function|winansi_printf
+DECL|function|winansi_vfprintf
+DECL|macro|BACKGROUND_ALL
+DECL|macro|FOREGROUND_ALL
+DECL|macro|fprintf
+DECL|macro|fputs
+DECL|macro|printf
+DECL|variable|attr
+DECL|variable|console
+DECL|variable|negative
+DECL|variable|plain_attr
