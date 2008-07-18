@@ -5,6 +5,7 @@ DECL|member|base
 DECL|member|baselen
 DECL|member|commit
 DECL|member|commit_sha1
+DECL|member|compression_level
 DECL|member|flags
 DECL|member|name
 DECL|member|pathspec
