@@ -1,3 +1,4 @@
+DECL|function|abbrev_ref
 DECL|function|add
 DECL|function|add_branch_for_removal
 DECL|function|add_known_remote
@@ -21,6 +22,7 @@ DECL|function|show
 DECL|function|show_all
 DECL|function|show_list
 DECL|function|update
+DECL|macro|abbrev_branch
 DECL|member|branches
 DECL|member|keep
 DECL|member|list
