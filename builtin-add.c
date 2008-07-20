@@ -1,4 +1,5 @@
 DECL|function|add_config
+DECL|function|add_files
 DECL|function|add_files_to_cache
 DECL|function|cmd_add
 DECL|function|fill_directory
