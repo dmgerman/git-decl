@@ -12,6 +12,7 @@ DECL|member|add_errors
 DECL|member|flags
 DECL|struct|update_callback_data
 DECL|variable|add_interactive
+DECL|variable|addremove
 DECL|variable|builtin_add_options
 DECL|variable|builtin_add_usage
 DECL|variable|ignore_add_errors
