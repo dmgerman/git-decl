@@ -1,3 +1,5 @@
+DECL|function|read_in_full
+DECL|function|write_in_full
 DECL|function|xcalloc
 DECL|function|xdup
 DECL|function|xfdopen
