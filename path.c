@@ -2,11 +2,9 @@ DECL|function|adjust_shared_perm
 DECL|function|cleanup_path
 DECL|function|enter_repo
 DECL|function|get_pathname
-DECL|function|get_pwd_cwd
 DECL|function|git_mkstemp
 DECL|function|git_path
 DECL|function|longest_ancestor_length
-DECL|function|make_nonrelative_path
 DECL|function|make_relative_path
 DECL|function|mkpath
 DECL|function|normalize_absolute_path
