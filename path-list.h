@@ -1,9 +1,0 @@
-DECL|macro|PATH_LIST_H
-DECL|member|alloc
-DECL|member|items
-DECL|member|nr
-DECL|member|path
-DECL|member|strdup_paths
-DECL|member|util
-DECL|struct|path_list
-DECL|struct|path_list_item
