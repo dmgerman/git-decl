@@ -54,6 +54,7 @@ DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
 DECL|macro|lstat
+DECL|macro|main
 DECL|macro|mkdir
 DECL|macro|ntohl
 DECL|macro|open
