@@ -25,8 +25,6 @@ DECL|function|ref_cmp
 DECL|function|rename_branch
 DECL|macro|REF_LOCAL_BRANCH
 DECL|macro|REF_REMOTE_BRANCH
-DECL|macro|REF_TAG
-DECL|macro|REF_UNKNOWN_TYPE
 DECL|member|alloc
 DECL|member|index
 DECL|member|kind
