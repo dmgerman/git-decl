@@ -26,13 +26,14 @@ DECL|function|rename_branch
 DECL|macro|REF_LOCAL_BRANCH
 DECL|macro|REF_REMOTE_BRANCH
 DECL|member|alloc
+DECL|member|commit
 DECL|member|index
 DECL|member|kind
 DECL|member|kinds
 DECL|member|list
 DECL|member|maxwidth
 DECL|member|name
-DECL|member|sha1
+DECL|member|revs
 DECL|member|with_commit
 DECL|struct|ref_item
 DECL|struct|ref_list
