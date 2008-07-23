@@ -1,5 +1,4 @@
 DECL|function|add_path
-DECL|function|builtin_exec_path
 DECL|function|execl_git_cmd
 DECL|function|execv_git_cmd
 DECL|function|git_exec_path
