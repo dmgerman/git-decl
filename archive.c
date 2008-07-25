@@ -1,9 +1,16 @@
 DECL|function|format_subst
+DECL|function|lookup_archiver
+DECL|function|parse_archive_args
+DECL|function|parse_pathspec_arg
+DECL|function|parse_treeish_arg
 DECL|function|setup_archive_check
 DECL|function|sha1_file_to_archive
 DECL|function|write_archive
 DECL|function|write_archive_entries
 DECL|function|write_archive_entry
+DECL|macro|USES_ZLIB_COMPRESSION
 DECL|member|args
 DECL|member|write_entry
 DECL|struct|archiver_context
+DECL|variable|archive_usage
+DECL|variable|archivers
