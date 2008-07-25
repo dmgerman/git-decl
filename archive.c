@@ -8,6 +8,8 @@ DECL|function|sha1_file_to_archive
 DECL|function|write_archive
 DECL|function|write_archive_entries
 DECL|function|write_archive_entry
+DECL|macro|OPT__COMPR
+DECL|macro|OPT__COMPR_HIDDEN
 DECL|macro|USES_ZLIB_COMPRESSION
 DECL|member|args
 DECL|member|flags
