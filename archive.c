@@ -10,7 +10,11 @@ DECL|function|write_archive_entries
 DECL|function|write_archive_entry
 DECL|macro|USES_ZLIB_COMPRESSION
 DECL|member|args
+DECL|member|flags
+DECL|member|name
+DECL|member|write_archive
 DECL|member|write_entry
+DECL|struct|archiver
 DECL|struct|archiver_context
 DECL|variable|archive_usage
 DECL|variable|archivers
