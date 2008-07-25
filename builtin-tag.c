@@ -4,7 +4,6 @@ DECL|function|delete_tag
 DECL|function|do_sign
 DECL|function|for_each_tag_name
 DECL|function|git_tag_config
-DECL|function|launch_editor
 DECL|function|list_tags
 DECL|function|parse_msg_arg
 DECL|function|set_signingkey
