@@ -1,6 +1,4 @@
 DECL|macro|ARCHIVE_H
-DECL|macro|MAX_ARGS
-DECL|macro|MAX_EXTRA_ARGS
 DECL|member|base
 DECL|member|baselen
 DECL|member|commit
