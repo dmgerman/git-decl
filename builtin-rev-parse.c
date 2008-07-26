@@ -13,6 +13,7 @@ DECL|function|show_rev
 DECL|function|show_with_type
 DECL|function|skipspaces
 DECL|function|try_difference
+DECL|function|try_parent_shorthands
 DECL|macro|DO_FLAGS
 DECL|macro|DO_NONFLAGS
 DECL|macro|DO_NOREV
