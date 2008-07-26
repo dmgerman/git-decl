@@ -10,6 +10,7 @@ DECL|enum|color_branch
 DECL|enum|merge_filter
 DECL|function|append_ref
 DECL|function|branch_get_color
+DECL|function|calc_maxwidth
 DECL|function|cmd_branch
 DECL|function|delete_branches
 DECL|function|fill_tracking_info
