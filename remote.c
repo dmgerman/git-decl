@@ -47,6 +47,7 @@ DECL|function|tail_link_ref
 DECL|function|try_explicit_object_name
 DECL|function|valid_fetch_refspec
 DECL|function|valid_remote_nick
+DECL|function|verify_refname
 DECL|macro|BUF_SIZE
 DECL|member|base
 DECL|member|baselen
