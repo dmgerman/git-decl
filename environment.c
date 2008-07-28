@@ -41,6 +41,7 @@ DECL|variable|prefer_symlink_refs
 DECL|variable|repository_format_version
 DECL|variable|safe_crlf
 DECL|variable|shared_repository
+DECL|variable|trust_ctime
 DECL|variable|trust_executable_bit
 DECL|variable|user_ident_explicitly_given
 DECL|variable|warn_ambiguous_refs
