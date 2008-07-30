@@ -6,4 +6,5 @@ DECL|variable|dry_run
 DECL|variable|integer
 DECL|variable|quiet
 DECL|variable|string
+DECL|variable|timestamp
 DECL|variable|verbose
