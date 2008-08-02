@@ -17,6 +17,7 @@ DECL|variable|junk_work_tree
 DECL|variable|option_bare
 DECL|variable|option_depth
 DECL|variable|option_local
+DECL|variable|option_mirror
 DECL|variable|option_no_checkout
 DECL|variable|option_no_hardlinks
 DECL|variable|option_origin
