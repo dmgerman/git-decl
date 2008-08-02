@@ -1,3 +1,4 @@
+DECL|function|mput_char
 DECL|macro|HELP_H
 DECL|member|alloc
 DECL|member|cnt
