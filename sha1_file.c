@@ -28,8 +28,8 @@ DECL|function|has_sha1_pack
 DECL|function|hash_sha1_file
 DECL|function|in_window
 DECL|function|index_fd
+DECL|function|index_mem
 DECL|function|index_path
-DECL|function|index_pipe
 DECL|function|install_packed_git
 DECL|function|legacy_loose_object
 DECL|function|link_alt_odb_entries
