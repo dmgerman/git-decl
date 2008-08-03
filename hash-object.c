@@ -5,6 +5,7 @@ DECL|function|main
 DECL|variable|hash_object_options
 DECL|variable|hash_object_usage
 DECL|variable|hashstdin
+DECL|variable|no_filters
 DECL|variable|stdin_paths
 DECL|variable|type
 DECL|variable|vpath
