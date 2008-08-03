@@ -7,4 +7,5 @@ DECL|variable|hash_object_usage
 DECL|variable|hashstdin
 DECL|variable|stdin_paths
 DECL|variable|type
+DECL|variable|vpath
 DECL|variable|write_object
