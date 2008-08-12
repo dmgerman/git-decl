@@ -6,6 +6,7 @@ DECL|function|fill_mm
 DECL|function|flush_buffer
 DECL|function|flush_output
 DECL|function|get_files_dirs
+DECL|function|get_ref
 DECL|function|get_renames
 DECL|function|get_unmerged
 DECL|function|git_merge_trees
@@ -17,6 +18,7 @@ DECL|function|merge_3way
 DECL|function|merge_file
 DECL|function|merge_recursive
 DECL|function|merge_recursive_config
+DECL|function|merge_recursive_generic
 DECL|function|merge_recursive_setup
 DECL|function|merge_trees
 DECL|function|output
