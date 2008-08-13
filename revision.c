@@ -53,6 +53,8 @@ DECL|function|rewrite_parents
 DECL|function|set_children
 DECL|function|setup_revisions
 DECL|function|simplify_commit
+DECL|function|simplify_merges
+DECL|function|simplify_one
 DECL|function|still_interesting
 DECL|function|try_to_simplify_commit
 DECL|function|want_ancestry
