@@ -37,6 +37,7 @@ DECL|function|handle_revision_opt
 DECL|function|init_revisions
 DECL|function|insert_by_date_cached
 DECL|function|limit_list
+DECL|function|locate_simplify_state
 DECL|function|mark_blob_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_tree_uninteresting
@@ -62,7 +63,9 @@ DECL|macro|SLOP
 DECL|member|all_flags
 DECL|member|all_revs
 DECL|member|name_for_errormsg
+DECL|member|simplified
 DECL|member|warned_bad_reflog
 DECL|struct|all_refs_cb
+DECL|struct|merge_simplify_state
 DECL|variable|show_early_output
 DECL|variable|tree_difference
