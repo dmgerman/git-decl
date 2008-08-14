@@ -163,11 +163,6 @@ DECL|member|trailing_blanks_start
 DECL|member|truncate
 DECL|member|ws_rule
 DECL|member|ws_rule
-DECL|member|xm
-DECL|member|xm
-DECL|member|xm
-DECL|member|xm
-DECL|member|xm
 DECL|struct|builtin_funcname_pattern
 DECL|struct|checkdiff_t
 DECL|struct|diff_tempfile
