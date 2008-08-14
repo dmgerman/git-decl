@@ -52,7 +52,6 @@ DECL|struct|daemon_service
 DECL|typedef|daemon_service_fn
 DECL|variable|base_path
 DECL|variable|base_path_relaxed
-DECL|variable|child_handler_pipe
 DECL|variable|children_deleted
 DECL|variable|children_reaped
 DECL|variable|children_spawned
