@@ -188,6 +188,7 @@ DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
+DECL|variable|diff_suppress_blank_empty
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
 DECL|variable|external_diff_cmd_cfg
