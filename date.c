@@ -19,6 +19,7 @@ DECL|function|match_digit
 DECL|function|match_multi_number
 DECL|function|match_string
 DECL|function|match_tz
+DECL|function|nodate
 DECL|function|parse_date
 DECL|function|parse_date_format
 DECL|function|show_date
