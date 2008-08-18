@@ -78,7 +78,6 @@ DECL|member|revents
 DECL|member|sa_flags
 DECL|member|sa_handler
 DECL|member|st_atime
-DECL|member|st_blocks
 DECL|member|st_ctime
 DECL|member|st_dev
 DECL|member|st_gid

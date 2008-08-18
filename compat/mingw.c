@@ -38,7 +38,6 @@ DECL|function|poll
 DECL|function|quote_arg
 DECL|function|setitimer
 DECL|function|sigaction
-DECL|function|size_to_blocks
 DECL|function|sleep
 DECL|function|start_timer_thread
 DECL|function|stop_timer_thread
