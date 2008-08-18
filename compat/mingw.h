@@ -9,7 +9,6 @@ DECL|function|getuid
 DECL|function|git_ntohl
 DECL|function|link
 DECL|function|mingw_mkdir
-DECL|function|mingw_stat
 DECL|function|mingw_unlink
 DECL|function|readlink
 DECL|function|symlink
@@ -77,17 +76,7 @@ DECL|member|pw_name
 DECL|member|revents
 DECL|member|sa_flags
 DECL|member|sa_handler
-DECL|member|st_atime
-DECL|member|st_ctime
-DECL|member|st_dev
-DECL|member|st_gid
-DECL|member|st_ino
-DECL|member|st_mode
-DECL|member|st_mtime
-DECL|member|st_size
-DECL|member|st_uid
 DECL|struct|itimerval
-DECL|struct|mingw_stat
 DECL|struct|passwd
 DECL|struct|pollfd
 DECL|struct|sigaction

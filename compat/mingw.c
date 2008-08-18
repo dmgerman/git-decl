@@ -52,7 +52,6 @@ DECL|macro|gethostbyname
 DECL|macro|open
 DECL|macro|rename
 DECL|macro|signal
-DECL|macro|stat
 DECL|variable|_CRT_fmode
 DECL|variable|one_shot
 DECL|variable|timer_event
