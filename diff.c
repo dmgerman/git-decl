@@ -37,6 +37,7 @@ DECL|function|diff_queue_is_empty
 DECL|function|diff_resolve_rename_copy
 DECL|function|diff_result_code
 DECL|function|diff_scoreopt_parse
+DECL|function|diff_set_mnemonic_prefix
 DECL|function|diff_setup
 DECL|function|diff_setup_done
 DECL|function|diff_summary
@@ -187,6 +188,7 @@ DECL|variable|builtin_funcname_pattern
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
+DECL|variable|diff_mnemonic_prefix
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_temp
