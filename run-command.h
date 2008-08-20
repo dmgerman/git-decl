@@ -24,6 +24,7 @@ DECL|member|out
 DECL|member|out
 DECL|member|pid
 DECL|member|pid
+DECL|member|preexec_cb
 DECL|member|proc
 DECL|member|stdout_to_stderr
 DECL|member|tid
