@@ -38,7 +38,6 @@ DECL|function|poll
 DECL|function|quote_arg
 DECL|function|setitimer
 DECL|function|sigaction
-DECL|function|size_to_blocks
 DECL|function|sleep
 DECL|function|start_timer_thread
 DECL|function|stop_timer_thread
@@ -53,7 +52,6 @@ DECL|macro|gethostbyname
 DECL|macro|open
 DECL|macro|rename
 DECL|macro|signal
-DECL|macro|stat
 DECL|variable|_CRT_fmode
 DECL|variable|one_shot
 DECL|variable|timer_event

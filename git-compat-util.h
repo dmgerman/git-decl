@@ -65,6 +65,8 @@ DECL|macro|memmem
 DECL|macro|mkdtemp
 DECL|macro|mmap
 DECL|macro|munmap
+DECL|macro|on_disk_bytes
+DECL|macro|on_disk_bytes
 DECL|macro|pread
 DECL|macro|qsort
 DECL|macro|sane_istest
