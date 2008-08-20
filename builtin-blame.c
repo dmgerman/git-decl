@@ -121,7 +121,6 @@ DECL|member|split
 DECL|member|summary
 DECL|member|suspect
 DECL|member|t_next
-DECL|member|xm
 DECL|struct|blame_diff_state
 DECL|struct|blame_entry
 DECL|struct|blame_list

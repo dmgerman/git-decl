@@ -6,12 +6,17 @@ DECL|function|parse_num
 DECL|function|read_mmfile
 DECL|function|trim_common_tail
 DECL|function|xdi_diff
+DECL|function|xdi_diff_outf
 DECL|function|xdiff_outf
 DECL|function|xdiff_set_find_func
 DECL|macro|FIRST_FEW_BYTES
 DECL|member|array
+DECL|member|consume
+DECL|member|consume_callback_data
 DECL|member|negate
 DECL|member|nr
 DECL|member|re
+DECL|member|remainder
 DECL|struct|ff_reg
 DECL|struct|ff_regs
+DECL|struct|xdiff_emit_state

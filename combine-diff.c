@@ -39,7 +39,6 @@ DECL|member|on
 DECL|member|p_lno
 DECL|member|parent_map
 DECL|member|sline
-DECL|member|xm
 DECL|struct|combine_diff_state
 DECL|struct|lline
 DECL|struct|sline
