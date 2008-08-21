@@ -92,4 +92,3 @@ DECL|member|verbose_header
 DECL|struct|name_path
 DECL|struct|rev_info
 DECL|typedef|show_early_output_fn_t
-DECL|variable|show_early_output
