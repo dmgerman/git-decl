@@ -20,6 +20,7 @@ DECL|function|for_each_remote
 DECL|function|format_tracking_info
 DECL|function|free_ref
 DECL|function|free_refs
+DECL|function|free_refspecs
 DECL|function|get_expanded_map
 DECL|function|get_fetch_map
 DECL|function|get_local_ref
