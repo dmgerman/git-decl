@@ -208,6 +208,7 @@ DECL|member|hdr_version
 DECL|member|index_data
 DECL|member|index_size
 DECL|member|index_version
+DECL|member|initialized
 DECL|member|ino
 DECL|member|inuse_cnt
 DECL|member|last_used
