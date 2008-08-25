@@ -5,6 +5,7 @@ DECL|enumerator|warn_on_ws_error
 DECL|enum|ws_error_action
 DECL|function|add_index_file
 DECL|function|add_line_info
+DECL|function|add_name_limit
 DECL|function|add_to_fn_table
 DECL|function|apply_binary
 DECL|function|apply_binary_fragment
@@ -135,7 +136,6 @@ DECL|member|newlines
 DECL|member|newpos
 DECL|member|next
 DECL|member|next
-DECL|member|next
 DECL|member|nr
 DECL|member|old_mode
 DECL|member|old_name
@@ -143,7 +143,6 @@ DECL|member|old_sha1_prefix
 DECL|member|oldlines
 DECL|member|oldpos
 DECL|member|patch
-DECL|member|path
 DECL|member|recount
 DECL|member|rejected
 DECL|member|rejected
@@ -153,7 +152,6 @@ DECL|member|score
 DECL|member|size
 DECL|member|trailing
 DECL|member|ws_rule
-DECL|struct|excludes
 DECL|struct|fragment
 DECL|struct|image
 DECL|struct|line
@@ -168,9 +166,10 @@ DECL|variable|cached
 DECL|variable|check
 DECL|variable|check_index
 DECL|variable|diffstat
-DECL|variable|excludes
 DECL|variable|fake_ancestor
 DECL|variable|fn_table
+DECL|variable|has_include
+DECL|variable|limit_by_name
 DECL|variable|line_termination
 DECL|variable|linenr
 DECL|variable|lock_file
