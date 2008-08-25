@@ -10,6 +10,7 @@ DECL|function|get_ref
 DECL|function|get_renames
 DECL|function|get_unmerged
 DECL|function|git_merge_trees
+DECL|function|init_merge_options
 DECL|function|init_tree_desc_from_tree
 DECL|function|insert_stage_data
 DECL|function|make_room_for_path
@@ -19,7 +20,6 @@ DECL|function|merge_file
 DECL|function|merge_recursive
 DECL|function|merge_recursive_config
 DECL|function|merge_recursive_generic
-DECL|function|merge_recursive_setup
 DECL|function|merge_trees
 DECL|function|output
 DECL|function|output_commit_title
@@ -53,13 +53,8 @@ DECL|member|stages
 DECL|struct|merge_file_info
 DECL|struct|rename
 DECL|struct|stage_data
-DECL|variable|buffer_output
 DECL|variable|call_depth
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
-DECL|variable|diff_rename_limit
 DECL|variable|index_only
-DECL|variable|merge_recursive_verbosity
-DECL|variable|merge_rename_limit
 DECL|variable|obuf
-DECL|variable|subtree_merge

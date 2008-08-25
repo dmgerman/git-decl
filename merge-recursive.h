@@ -1,1 +1,9 @@
 DECL|macro|MERGE_RECURSIVE_H
+DECL|member|branch1
+DECL|member|branch2
+DECL|member|buffer_output
+DECL|member|diff_rename_limit
+DECL|member|merge_rename_limit
+DECL|member|subtree_merge
+DECL|member|verbosity
+DECL|struct|merge_options
