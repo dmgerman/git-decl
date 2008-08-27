@@ -1,4 +1,5 @@
 DECL|function|add_file_to_index
+DECL|function|add_files_to_cache
 DECL|function|add_index_entry
 DECL|function|add_index_entry_with_check
 DECL|function|add_to_index
@@ -47,6 +48,7 @@ DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_index_entry
 DECL|function|unmerged_index
+DECL|function|update_callback
 DECL|function|verify_dotfile
 DECL|function|verify_hdr
 DECL|function|verify_path
@@ -56,6 +58,9 @@ DECL|macro|CACHE_EXT
 DECL|macro|CACHE_EXT_TREE
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|macro|WRITE_BUFFER_SIZE
+DECL|member|add_errors
+DECL|member|flags
+DECL|struct|update_callback_data
 DECL|variable|the_index
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len

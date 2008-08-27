@@ -59,6 +59,7 @@ DECL|function|is_null_sha1
 DECL|function|object_type
 DECL|function|remove_name_hash
 DECL|macro|ADD_CACHE_IGNORE_ERRORS
+DECL|macro|ADD_CACHE_IGNORE_REMOVAL
 DECL|macro|ADD_CACHE_JUST_APPEND
 DECL|macro|ADD_CACHE_OK_TO_ADD
 DECL|macro|ADD_CACHE_OK_TO_REPLACE
