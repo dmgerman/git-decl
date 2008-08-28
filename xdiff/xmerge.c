@@ -8,11 +8,15 @@ DECL|function|xdl_fill_merge_buffer
 DECL|function|xdl_merge
 DECL|function|xdl_merge_cmp_lines
 DECL|function|xdl_merge_two_conflicts
+DECL|function|xdl_orig_copy
 DECL|function|xdl_recs_copy
+DECL|function|xdl_recs_copy_0
 DECL|function|xdl_refine_conflicts
 DECL|function|xdl_simplify_non_conflicts
+DECL|member|chg0
 DECL|member|chg1
 DECL|member|chg2
+DECL|member|i0
 DECL|member|i1
 DECL|member|i2
 DECL|member|mode
