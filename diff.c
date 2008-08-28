@@ -50,6 +50,7 @@ DECL|function|diffcore_skip_stat_unmatch
 DECL|function|diffcore_std
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
+DECL|function|dirstat_compare
 DECL|function|emit_add_line
 DECL|function|emit_binary_diff
 DECL|function|emit_binary_diff_body
