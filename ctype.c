@@ -2,6 +2,8 @@ DECL|macro|AA
 DECL|macro|AA
 DECL|macro|DD
 DECL|macro|DD
+DECL|macro|GS
+DECL|macro|GS
 DECL|macro|SS
 DECL|macro|SS
 DECL|variable|sane_ctype
