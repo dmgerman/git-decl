@@ -27,6 +27,7 @@ DECL|member|body_off
 DECL|member|commit
 DECL|member|commit_header_parsed
 DECL|member|committer
+DECL|member|dmode
 DECL|member|encoding
 DECL|member|len
 DECL|member|off
