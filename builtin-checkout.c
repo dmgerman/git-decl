@@ -8,6 +8,7 @@ DECL|function|report_tracking
 DECL|function|reset_tree
 DECL|function|setup_branch_path
 DECL|function|show_local_changes
+DECL|function|skip_same_name
 DECL|function|switch_branches
 DECL|function|update_refs_for_switch
 DECL|function|update_some
