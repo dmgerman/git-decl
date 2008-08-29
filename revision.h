@@ -72,6 +72,7 @@ DECL|member|ref_message_id
 DECL|member|reflog_info
 DECL|member|remove_empty_trees
 DECL|member|reverse
+DECL|member|reverse_output_stage
 DECL|member|rewrite_parents
 DECL|member|show_all
 DECL|member|show_log_size
