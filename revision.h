@@ -52,6 +52,7 @@ DECL|member|log_reencode
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
+DECL|member|merge_simplification
 DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
