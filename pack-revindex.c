@@ -1,5 +1,6 @@
 DECL|function|cmp_offset
 DECL|function|create_pack_revindex
+DECL|function|discard_revindex
 DECL|function|find_pack_revindex
 DECL|function|init_pack_revindex
 DECL|function|pack_revindex_ix
