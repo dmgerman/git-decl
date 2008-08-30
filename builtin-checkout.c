@@ -1,4 +1,6 @@
+DECL|function|check_stage
 DECL|function|checkout_paths
+DECL|function|checkout_stage
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
 DECL|function|merge_working_tree
@@ -22,6 +24,7 @@ DECL|member|path
 DECL|member|quiet
 DECL|member|track
 DECL|member|writeout_error
+DECL|member|writeout_stage
 DECL|struct|branch_info
 DECL|struct|checkout_opts
 DECL|variable|checkout_usage
