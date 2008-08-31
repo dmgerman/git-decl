@@ -1,10 +1,12 @@
 DECL|function|add_cmdname
+DECL|function|clean_cmdnames
 DECL|function|cmd_version
 DECL|function|cmdname_compare
 DECL|function|exclude_cmds
 DECL|function|help_unknown_cmd
 DECL|function|is_executable
 DECL|function|is_in_cmdlist
+DECL|function|levenshtein_compare
 DECL|function|list_commands
 DECL|function|list_commands_in_dir
 DECL|function|load_command_list
