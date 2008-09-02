@@ -55,5 +55,4 @@ DECL|struct|rename
 DECL|struct|stage_data
 DECL|variable|current_directory_set
 DECL|variable|current_file_set
-DECL|variable|index_only
 DECL|variable|obuf
