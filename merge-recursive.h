@@ -5,6 +5,7 @@ DECL|member|buffer_output
 DECL|member|call_depth
 DECL|member|diff_rename_limit
 DECL|member|merge_rename_limit
+DECL|member|obuf
 DECL|member|subtree_merge
 DECL|member|verbosity
 DECL|struct|merge_options
