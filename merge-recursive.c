@@ -53,5 +53,3 @@ DECL|member|stages
 DECL|struct|merge_file_info
 DECL|struct|rename
 DECL|struct|stage_data
-DECL|variable|current_directory_set
-DECL|variable|current_file_set
