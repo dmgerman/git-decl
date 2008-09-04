@@ -1,7 +1,5 @@
 DECL|function|add_header
-DECL|function|add_name_decoration
 DECL|function|add_pending_commit
-DECL|function|add_ref_decoration
 DECL|function|clean_message_id
 DECL|function|cmd_cherry
 DECL|function|cmd_format_patch
@@ -20,7 +18,6 @@ DECL|function|get_patch_ids
 DECL|function|git_format_config
 DECL|function|git_log_config
 DECL|function|istitlechar
-DECL|function|load_ref_decorations
 DECL|function|log_show_early
 DECL|function|make_cover_letter
 DECL|function|reopen_stdout
