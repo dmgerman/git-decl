@@ -20,6 +20,7 @@ DECL|function|get_patch_ids
 DECL|function|git_format_config
 DECL|function|git_log_config
 DECL|function|istitlechar
+DECL|function|load_ref_decorations
 DECL|function|log_show_early
 DECL|function|make_cover_letter
 DECL|function|reopen_stdout
