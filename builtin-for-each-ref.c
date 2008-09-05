@@ -13,7 +13,9 @@ DECL|function|fill_missing_values
 DECL|function|find_next
 DECL|function|find_subpos
 DECL|function|find_wholine
+DECL|function|gen_scanf_fmt
 DECL|function|get_obj
+DECL|function|get_short_ref
 DECL|function|get_value
 DECL|function|grab_commit_values
 DECL|function|grab_common_values
