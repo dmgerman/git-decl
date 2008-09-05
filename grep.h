@@ -2,6 +2,8 @@ DECL|enumerator|GREP_AND
 DECL|enumerator|GREP_CLOSE_PAREN
 DECL|enumerator|GREP_CONTEXT_BODY
 DECL|enumerator|GREP_CONTEXT_HEAD
+DECL|enumerator|GREP_HEADER_AUTHOR
+DECL|enumerator|GREP_HEADER_COMMITTER
 DECL|enumerator|GREP_NODE_AND
 DECL|enumerator|GREP_NODE_ATOM
 DECL|enumerator|GREP_NODE_NOT
@@ -14,6 +16,7 @@ DECL|enumerator|GREP_PATTERN_BODY
 DECL|enumerator|GREP_PATTERN_HEAD
 DECL|enum|grep_context
 DECL|enum|grep_expr_node
+DECL|enum|grep_header_field
 DECL|enum|grep_pat_token
 DECL|macro|GREP_BINARY_DEFAULT
 DECL|macro|GREP_BINARY_NOMATCH
@@ -25,6 +28,7 @@ DECL|member|binary
 DECL|member|binary
 DECL|member|count
 DECL|member|extended
+DECL|member|field
 DECL|member|fixed
 DECL|member|hit
 DECL|member|invert

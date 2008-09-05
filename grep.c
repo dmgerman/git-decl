@@ -1,4 +1,5 @@
 DECL|function|append_grep_pattern
+DECL|function|append_header_grep_pattern
 DECL|function|chk_hit_marker
 DECL|function|clr_hit_marker
 DECL|function|compile_grep_patterns
@@ -19,4 +20,8 @@ DECL|function|match_expr_eval
 DECL|function|match_line
 DECL|function|match_one_pattern
 DECL|function|show_line
+DECL|function|strip_timestamp
 DECL|function|word_char
+DECL|member|field
+DECL|member|len
+DECL|variable|header_field
