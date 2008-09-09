@@ -1,3 +1,5 @@
+DECL|function|add_alternate_refs
+DECL|function|add_refs_from_alternate
 DECL|function|cmd_receive_pack
 DECL|function|delete_only
 DECL|function|execute_commands

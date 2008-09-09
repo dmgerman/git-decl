@@ -277,4 +277,5 @@ DECL|struct|pack_entry
 DECL|struct|pack_window
 DECL|struct|packed_git
 DECL|struct|ref
+DECL|typedef|alt_odb_fn
 DECL|typedef|config_fn_t
