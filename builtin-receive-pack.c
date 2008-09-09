@@ -1,7 +1,7 @@
+DECL|function|cmd_receive_pack
 DECL|function|delete_only
 DECL|function|execute_commands
 DECL|function|hook_status
-DECL|function|main
 DECL|function|parse_pack_header
 DECL|function|read_head_info
 DECL|function|receive_pack_config
