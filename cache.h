@@ -175,6 +175,8 @@ DECL|macro|rename_cache_entry_at
 DECL|macro|unmerged_cache
 DECL|macro|write_cache
 DECL|member|alloc
+DECL|member|alloc
+DECL|member|array
 DECL|member|bad_object_sha1
 DECL|member|base
 DECL|member|base
@@ -233,6 +235,7 @@ DECL|member|next
 DECL|member|next
 DECL|member|nonfastforward
 DECL|member|not_new
+DECL|member|nr
 DECL|member|nsec
 DECL|member|num_bad_objects
 DECL|member|num_objects
@@ -266,6 +269,7 @@ DECL|struct|cache_entry
 DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|struct|checkout
+DECL|struct|extra_have_objects
 DECL|struct|index_state
 DECL|struct|lock_file
 DECL|struct|ondisk_cache_entry
