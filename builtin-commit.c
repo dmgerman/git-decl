@@ -4,7 +4,6 @@ DECL|enumerator|CLEANUP_SPACE
 DECL|enumerator|COMMIT_AS_IS
 DECL|enumerator|COMMIT_NORMAL
 DECL|enumerator|COMMIT_PARTIAL
-DECL|function|add_parent
 DECL|function|add_remove_files
 DECL|function|cmd_commit
 DECL|function|cmd_status
