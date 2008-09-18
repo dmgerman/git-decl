@@ -115,6 +115,7 @@ DECL|member|added
 DECL|member|alloc
 DECL|member|alloc
 DECL|member|alloc
+DECL|member|cflags
 DECL|member|changed
 DECL|member|cmd
 DECL|member|color_diff
