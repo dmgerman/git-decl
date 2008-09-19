@@ -1,7 +1,5 @@
 DECL|function|add_header
-DECL|function|add_name_decoration
 DECL|function|add_pending_commit
-DECL|function|add_ref_decoration
 DECL|function|clean_message_id
 DECL|function|cmd_cherry
 DECL|function|cmd_format_patch
