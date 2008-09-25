@@ -22,7 +22,6 @@ DECL|function|graph_output_pre_commit_line
 DECL|function|graph_output_skip_line
 DECL|function|graph_pad_horizontally
 DECL|function|graph_padding_line
-DECL|function|graph_release
 DECL|function|graph_show_commit
 DECL|function|graph_show_commit_msg
 DECL|function|graph_show_oneline
