@@ -1,3 +1,4 @@
+DECL|function|add_cmd_list
 DECL|function|add_cmdname
 DECL|function|clean_cmdnames
 DECL|function|cmd_version
@@ -14,4 +15,5 @@ DECL|function|load_command_list
 DECL|function|pretty_print_string_list
 DECL|function|term_columns
 DECL|function|uniq
+DECL|variable|aliases
 DECL|variable|autocorrect
