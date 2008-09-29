@@ -9,6 +9,7 @@ DECL|member|fn
 DECL|member|gently
 DECL|member|head_idx
 DECL|member|index_only
+DECL|member|initial_checkout
 DECL|member|merge
 DECL|member|merge_size
 DECL|member|msgs

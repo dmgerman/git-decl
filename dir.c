@@ -31,6 +31,7 @@ DECL|function|prep_exclude
 DECL|function|read_directory
 DECL|function|read_directory_recursive
 DECL|function|remove_dir_recursively
+DECL|function|remove_path
 DECL|function|setup_standard_excludes
 DECL|function|simple_length
 DECL|function|simplify_away
