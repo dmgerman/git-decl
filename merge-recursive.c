@@ -26,7 +26,6 @@ DECL|function|output_commit_title
 DECL|function|process_entry
 DECL|function|process_renames
 DECL|function|remove_file
-DECL|function|remove_path
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
 DECL|function|sha_eq

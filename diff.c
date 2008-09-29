@@ -116,6 +116,7 @@ DECL|member|added
 DECL|member|alloc
 DECL|member|alloc
 DECL|member|alloc
+DECL|member|cflags
 DECL|member|changed
 DECL|member|cmd
 DECL|member|color_diff
@@ -124,6 +125,7 @@ DECL|member|cumulative
 DECL|member|current
 DECL|member|deleted
 DECL|member|diff_words
+DECL|member|e
 DECL|member|file
 DECL|member|file
 DECL|member|filename
@@ -144,7 +146,6 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|name
-DECL|member|name
 DECL|member|next
 DECL|member|next
 DECL|member|nparents
@@ -152,7 +153,6 @@ DECL|member|nr
 DECL|member|nr
 DECL|member|o
 DECL|member|patchlen
-DECL|member|pattern
 DECL|member|pattern
 DECL|member|percent
 DECL|member|plus
@@ -165,7 +165,6 @@ DECL|member|trailing_blanks_start
 DECL|member|truncate
 DECL|member|ws_rule
 DECL|member|ws_rule
-DECL|struct|builtin_funcname_pattern
 DECL|struct|checkdiff_t
 DECL|struct|diff_tempfile
 DECL|struct|diff_words_buffer
@@ -175,7 +174,8 @@ DECL|struct|diffstat_t
 DECL|struct|dirstat_dir
 DECL|struct|dirstat_file
 DECL|struct|emit_callback
-DECL|struct|funcname_pattern
+DECL|struct|funcname_pattern_entry
+DECL|struct|funcname_pattern_list
 DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
 DECL|typedef|sane_truncate_fn
