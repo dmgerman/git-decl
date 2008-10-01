@@ -1,3 +1,3 @@
-DECL|function|SHA1_Final
-DECL|function|SHA1_Init
-DECL|function|SHA1_Update
+DECL|function|ppc_SHA1_Final
+DECL|function|ppc_SHA1_Init
+DECL|function|ppc_SHA1_Update
