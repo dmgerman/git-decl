@@ -163,6 +163,10 @@ DECL|macro|ce_stage
 DECL|macro|ce_uptodate
 DECL|macro|deflateBound
 DECL|macro|discard_cache
+DECL|macro|git_SHA1_Final
+DECL|macro|git_SHA1_Init
+DECL|macro|git_SHA1_Update
+DECL|macro|git_SHA_CTX
 DECL|macro|ondisk_cache_entry_size
 DECL|macro|ondisk_ce_size
 DECL|macro|read_cache
