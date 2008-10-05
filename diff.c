@@ -92,6 +92,7 @@ DECL|function|run_diff
 DECL|function|run_diff_cmd
 DECL|function|run_diffstat
 DECL|function|run_external_diff
+DECL|function|run_textconv
 DECL|function|sane_truncate_line
 DECL|function|scale_linear
 DECL|function|show_dirstat

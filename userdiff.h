@@ -5,5 +5,6 @@ DECL|member|external
 DECL|member|funcname
 DECL|member|name
 DECL|member|pattern
+DECL|member|textconv
 DECL|struct|userdiff_driver
 DECL|struct|userdiff_funcname
