@@ -58,7 +58,6 @@ DECL|function|emit_binary_diff_body
 DECL|function|emit_line
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
-DECL|function|external_diff_attr
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
 DECL|function|fill_print_name
@@ -68,7 +67,6 @@ DECL|function|fn_out_diff_words_aux
 DECL|function|free_diff_words_data
 DECL|function|free_diffstat_info
 DECL|function|free_filespec
-DECL|function|funcname_pattern
 DECL|function|gather_dirstat
 DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
@@ -76,8 +74,6 @@ DECL|function|is_conflict_marker
 DECL|function|is_summary_empty
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
-DECL|function|parse_funcname_pattern
-DECL|function|parse_lldiff_command
 DECL|function|parse_num
 DECL|function|patch_id_consume
 DECL|function|populate_from_stdin
@@ -98,7 +94,6 @@ DECL|function|run_diffstat
 DECL|function|run_external_diff
 DECL|function|sane_truncate_line
 DECL|function|scale_linear
-DECL|function|setup_diff_attr_check
 DECL|function|show_dirstat
 DECL|function|show_file_mode_name
 DECL|function|show_graph
@@ -116,16 +111,13 @@ DECL|member|added
 DECL|member|alloc
 DECL|member|alloc
 DECL|member|alloc
-DECL|member|cflags
 DECL|member|changed
-DECL|member|cmd
 DECL|member|color_diff
 DECL|member|ctx
 DECL|member|cumulative
 DECL|member|current
 DECL|member|deleted
 DECL|member|diff_words
-DECL|member|e
 DECL|member|file
 DECL|member|file
 DECL|member|filename
@@ -144,16 +136,11 @@ DECL|member|mode
 DECL|member|name
 DECL|member|name
 DECL|member|name
-DECL|member|name
-DECL|member|name
-DECL|member|next
-DECL|member|next
 DECL|member|nparents
 DECL|member|nr
 DECL|member|nr
 DECL|member|o
 DECL|member|patchlen
-DECL|member|pattern
 DECL|member|percent
 DECL|member|plus
 DECL|member|print_name
@@ -174,12 +161,8 @@ DECL|struct|diffstat_t
 DECL|struct|dirstat_dir
 DECL|struct|dirstat_file
 DECL|struct|emit_callback
-DECL|struct|funcname_pattern_entry
-DECL|struct|funcname_pattern_list
-DECL|struct|ll_diff_driver
 DECL|struct|patch_id_t
 DECL|typedef|sane_truncate_fn
-DECL|variable|builtin_funcname_pattern
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
@@ -190,7 +173,4 @@ DECL|variable|diff_suppress_blank_empty
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
 DECL|variable|external_diff_cmd_cfg
-DECL|variable|funcname_pattern_list
 DECL|variable|mime_boundary_leader
-DECL|variable|user_diff
-DECL|variable|user_diff_tail
