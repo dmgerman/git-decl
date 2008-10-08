@@ -9,3 +9,5 @@ DECL|macro|DEFAULT_GIT_TEMPLATE_DIR
 DECL|macro|TEST_FILEMODE
 DECL|macro|TEST_FILEMODE
 DECL|variable|init_db_usage
+DECL|variable|init_is_bare_repository
+DECL|variable|init_shared_repository
