@@ -20,6 +20,7 @@ DECL|function|match_expr_eval
 DECL|function|match_line
 DECL|function|match_one_pattern
 DECL|function|show_line
+DECL|function|show_name
 DECL|function|strip_timestamp
 DECL|function|word_char
 DECL|member|field

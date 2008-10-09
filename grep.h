@@ -38,6 +38,7 @@ DECL|member|name_only
 DECL|member|next
 DECL|member|no
 DECL|member|node
+DECL|member|null_following_name
 DECL|member|origin
 DECL|member|pathname
 DECL|member|pattern
