@@ -3,6 +3,7 @@ DECL|enumerator|TAGS_SET
 DECL|enumerator|TAGS_UNSET
 DECL|function|add_existing
 DECL|function|add_merge_config
+DECL|function|check_not_current_branch
 DECL|function|cmd_fetch
 DECL|function|do_fetch
 DECL|function|fetch_refs
