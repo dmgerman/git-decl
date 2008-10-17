@@ -11,6 +11,7 @@ DECL|function|find_delta_children
 DECL|function|find_unresolved_deltas
 DECL|function|fix_unresolved_deltas
 DECL|function|flush
+DECL|function|free_base_data
 DECL|function|get_base_data
 DECL|function|get_data_from_pack
 DECL|function|git_index_pack_config
