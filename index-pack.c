@@ -8,6 +8,7 @@ DECL|function|fill
 DECL|function|final
 DECL|function|find_delta
 DECL|function|find_delta_children
+DECL|function|find_unresolved_deltas
 DECL|function|fix_unresolved_deltas
 DECL|function|flush
 DECL|function|get_base_data
