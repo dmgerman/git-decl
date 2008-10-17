@@ -30,6 +30,7 @@ DECL|function|has_dir_name
 DECL|function|has_file_name
 DECL|function|ie_match_stat
 DECL|function|ie_modified
+DECL|function|index_name_is_other
 DECL|function|index_name_pos
 DECL|function|index_name_pos_also_unmerged
 DECL|function|is_empty_blob_sha1
