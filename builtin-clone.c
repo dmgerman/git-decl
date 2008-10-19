@@ -26,3 +26,4 @@ DECL|variable|option_reference
 DECL|variable|option_shared
 DECL|variable|option_template
 DECL|variable|option_upload_pack
+DECL|variable|option_verbose
