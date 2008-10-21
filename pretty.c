@@ -19,6 +19,7 @@ DECL|function|pp_remainder
 DECL|function|pp_title_line
 DECL|function|pp_user_info
 DECL|function|pretty_print_commit
+DECL|function|reencode_commit_message
 DECL|function|replace_encoding_header
 DECL|member|abbrev_commit_hash
 DECL|member|abbrev_parent_hashes
