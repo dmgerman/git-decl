@@ -7,7 +7,7 @@ DECL|function|add_url_alias
 DECL|function|alias_all_urls
 DECL|function|alias_url
 DECL|function|alloc_ref
-DECL|function|alloc_ref_from_str
+DECL|function|alloc_ref_with_prefix
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
