@@ -33,7 +33,6 @@ DECL|function|free_patch
 DECL|function|get_ac_line
 DECL|function|get_commit_info
 DECL|function|get_origin
-DECL|function|get_patch
 DECL|function|git_blame_config
 DECL|function|handle_split
 DECL|function|has_string_in_work_tree
