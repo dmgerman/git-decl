@@ -27,6 +27,7 @@ DECL|macro|xdl_malloc
 DECL|macro|xdl_realloc
 DECL|member|bsize
 DECL|member|ctxlen
+DECL|member|emit_func
 DECL|member|find_func
 DECL|member|find_func_priv
 DECL|member|flags
