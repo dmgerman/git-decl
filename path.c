@@ -7,6 +7,7 @@ DECL|function|git_path
 DECL|function|longest_ancestor_length
 DECL|function|make_relative_path
 DECL|function|mkpath
+DECL|function|mksnpath
 DECL|function|normalize_absolute_path
 DECL|function|user_path
 DECL|function|validate_headref
