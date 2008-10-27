@@ -79,6 +79,7 @@ DECL|member|show_all
 DECL|member|show_log_size
 DECL|member|show_merge
 DECL|member|show_root_diff
+DECL|member|show_source
 DECL|member|shown_one
 DECL|member|simplify_history
 DECL|member|simplify_merges
