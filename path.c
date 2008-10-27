@@ -4,6 +4,7 @@ DECL|function|enter_repo
 DECL|function|get_pathname
 DECL|function|git_mkstemp
 DECL|function|git_path
+DECL|function|git_snpath
 DECL|function|longest_ancestor_length
 DECL|function|make_relative_path
 DECL|function|mkpath
