@@ -123,6 +123,7 @@ DECL|variable|cached_objects
 DECL|variable|delta_base_cache
 DECL|variable|delta_base_cache_lru
 DECL|variable|delta_base_cached
+DECL|variable|do_check_packed_object_crc
 DECL|variable|empty_tree
 DECL|variable|hexval_table
 DECL|variable|null_sha1
