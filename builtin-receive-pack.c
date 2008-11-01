@@ -24,6 +24,7 @@ DECL|struct|command
 DECL|variable|capabilities
 DECL|variable|capabilities_sent
 DECL|variable|commands
+DECL|variable|deny_deletes
 DECL|variable|deny_non_fast_forwards
 DECL|variable|pack_lockfile
 DECL|variable|post_receive_hook
