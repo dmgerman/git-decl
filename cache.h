@@ -151,6 +151,7 @@ DECL|macro|add_to_cache
 DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
 DECL|macro|cache_name_exists
+DECL|macro|cache_name_is_other
 DECL|macro|cache_name_pos
 DECL|macro|canon_mode
 DECL|macro|ce_mark_uptodate
