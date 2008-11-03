@@ -76,6 +76,7 @@ DECL|member|reverse
 DECL|member|reverse_output_stage
 DECL|member|rewrite_parents
 DECL|member|show_all
+DECL|member|show_decorations
 DECL|member|show_log_size
 DECL|member|show_merge
 DECL|member|show_root_diff
