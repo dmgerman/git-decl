@@ -12,10 +12,12 @@ DECL|function|get_ref_states
 DECL|function|get_remote_group
 DECL|function|get_remote_ref_states
 DECL|function|handle_one_branch
+DECL|function|mv
 DECL|function|opt_parse_track
 DECL|function|postfixcmp
 DECL|function|prune
 DECL|function|read_branches
+DECL|function|read_remote_branches
 DECL|function|remove_branches
 DECL|function|rm
 DECL|function|show
@@ -30,11 +32,14 @@ DECL|member|list
 DECL|member|merge
 DECL|member|name
 DECL|member|new
+DECL|member|new
 DECL|member|next
+DECL|member|old
 DECL|member|remote
 DECL|member|remote
 DECL|member|remote
 DECL|member|remote
+DECL|member|remote_branches
 DECL|member|stale
 DECL|member|to_delete
 DECL|member|tracked
@@ -44,6 +49,7 @@ DECL|struct|known_remote
 DECL|struct|known_remotes
 DECL|struct|ref_states
 DECL|struct|remote_group
+DECL|struct|rename_info
 DECL|variable|branch_list
 DECL|variable|builtin_remote_usage
 DECL|variable|remote_group
