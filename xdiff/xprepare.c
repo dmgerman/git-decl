@@ -11,6 +11,7 @@ DECL|function|xdl_prepare_env
 DECL|function|xdl_trim_ends
 DECL|macro|XDL_KPDIS_RUN
 DECL|macro|XDL_MAX_EQLIMIT
+DECL|macro|XDL_SIMSCAN_WINDOW
 DECL|member|count
 DECL|member|flags
 DECL|member|ha
