@@ -1,6 +1,9 @@
 DECL|enumerator|MATCH_REFS_ALL
 DECL|enumerator|MATCH_REFS_MIRROR
 DECL|enumerator|MATCH_REFS_NONE
+DECL|enumerator|REMOTE_BRANCHES
+DECL|enumerator|REMOTE_CONFIG
+DECL|enumerator|REMOTE_REMOTES
 DECL|enum|match_refs_flags
 DECL|macro|REMOTE_H
 DECL|member|dst
@@ -19,6 +22,7 @@ DECL|member|merge_nr
 DECL|member|mirror
 DECL|member|name
 DECL|member|name
+DECL|member|origin
 DECL|member|pattern
 DECL|member|push
 DECL|member|push_refspec
