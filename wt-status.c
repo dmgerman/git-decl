@@ -8,7 +8,6 @@ DECL|function|wt_status_print_changed
 DECL|function|wt_status_print_changed_cb
 DECL|function|wt_status_print_dirty_header
 DECL|function|wt_status_print_filepair
-DECL|function|wt_status_print_initial
 DECL|function|wt_status_print_submodule_summary
 DECL|function|wt_status_print_tracking
 DECL|function|wt_status_print_trailer
