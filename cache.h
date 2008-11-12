@@ -163,6 +163,7 @@ DECL|macro|ce_stage
 DECL|macro|ce_uptodate
 DECL|macro|deflateBound
 DECL|macro|discard_cache
+DECL|macro|is_cache_unborn
 DECL|macro|ondisk_cache_entry_size
 DECL|macro|ondisk_ce_size
 DECL|macro|read_cache
