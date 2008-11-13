@@ -1,9 +1,15 @@
+DECL|enumerator|DENY_IGNORE
+DECL|enumerator|DENY_REFUSE
+DECL|enumerator|DENY_WARN
+DECL|enum|deny_action
 DECL|function|add_alternate_refs
 DECL|function|add_refs_from_alternate
 DECL|function|cmd_receive_pack
 DECL|function|delete_only
 DECL|function|execute_commands
 DECL|function|hook_status
+DECL|function|is_ref_checked_out
+DECL|function|parse_deny_action
 DECL|function|parse_pack_header
 DECL|function|read_head_info
 DECL|function|receive_pack_config
@@ -24,6 +30,7 @@ DECL|struct|command
 DECL|variable|capabilities
 DECL|variable|capabilities_sent
 DECL|variable|commands
+DECL|variable|deny_current_branch
 DECL|variable|deny_deletes
 DECL|variable|deny_non_fast_forwards
 DECL|variable|pack_lockfile
