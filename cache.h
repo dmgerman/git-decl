@@ -256,6 +256,7 @@ DECL|member|on_list
 DECL|member|owner
 DECL|member|p
 DECL|member|pack_fd
+DECL|member|pack_keep
 DECL|member|pack_local
 DECL|member|pack_name
 DECL|member|pack_size
