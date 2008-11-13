@@ -86,7 +86,7 @@ DECL|function|unpack_compressed_entry
 DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
 DECL|function|unpack_object_header
-DECL|function|unpack_object_header_gently
+DECL|function|unpack_object_header_buffer
 DECL|function|unpack_sha1_file
 DECL|function|unpack_sha1_header
 DECL|function|unpack_sha1_rest
@@ -125,6 +125,7 @@ DECL|variable|cached_objects
 DECL|variable|delta_base_cache
 DECL|variable|delta_base_cache_lru
 DECL|variable|delta_base_cached
+DECL|variable|do_check_packed_object_crc
 DECL|variable|empty_tree
 DECL|variable|hexval_table
 DECL|variable|null_sha1
