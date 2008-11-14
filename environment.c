@@ -14,6 +14,7 @@ DECL|variable|auto_crlf
 DECL|variable|autorebase
 DECL|variable|core_compression_level
 DECL|variable|core_compression_seen
+DECL|variable|core_preload_index
 DECL|variable|delta_base_cache_limit
 DECL|variable|editor_program
 DECL|variable|excludes_file
