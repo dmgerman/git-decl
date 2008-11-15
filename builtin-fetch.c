@@ -26,9 +26,8 @@ DECL|variable|default_rla
 DECL|variable|depth
 DECL|variable|force
 DECL|variable|keep
-DECL|variable|quiet
 DECL|variable|tags
 DECL|variable|transport
 DECL|variable|update_head_ok
 DECL|variable|upload_pack
-DECL|variable|verbose
+DECL|variable|verbosity
