@@ -1,4 +1,5 @@
 DECL|function|preload_index
+DECL|function|preload_index
 DECL|function|preload_thread
 DECL|function|read_index_preload
 DECL|macro|MAX_PARALLEL
