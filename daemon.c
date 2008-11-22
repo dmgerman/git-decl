@@ -6,7 +6,6 @@ DECL|function|daemon_die
 DECL|function|daemonize
 DECL|function|enable_service
 DECL|function|execute
-DECL|function|fill_in_extra_table_entries
 DECL|function|git_daemon_config
 DECL|function|handle
 DECL|function|kill_some_child
