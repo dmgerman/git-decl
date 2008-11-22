@@ -46,7 +46,6 @@ DECL|variable|base_path_relaxed
 DECL|variable|canon_hostname
 DECL|variable|daemon_service
 DECL|variable|daemon_usage
-DECL|variable|directory
 DECL|variable|export_all_trees
 DECL|variable|firstborn
 DECL|variable|hostname
