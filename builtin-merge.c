@@ -54,3 +54,4 @@ DECL|variable|stash
 DECL|variable|use_strategies
 DECL|variable|use_strategies_alloc
 DECL|variable|use_strategies_nr
+DECL|variable|verbosity

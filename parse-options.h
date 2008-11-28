@@ -37,6 +37,7 @@ DECL|macro|OPT__ABBREV
 DECL|macro|OPT__DRY_RUN
 DECL|macro|OPT__QUIET
 DECL|macro|OPT__VERBOSE
+DECL|macro|OPT__VERBOSITY
 DECL|macro|PARSE_OPTIONS_H
 DECL|member|argc
 DECL|member|argh
