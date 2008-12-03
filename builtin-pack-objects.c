@@ -122,6 +122,7 @@ DECL|variable|depth
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
+DECL|variable|ignore_packed_keep
 DECL|variable|include_tag
 DECL|variable|incremental
 DECL|variable|keep_unreachable
