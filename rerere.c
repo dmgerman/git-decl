@@ -1,4 +1,6 @@
 DECL|function|do_plain_rerere
+DECL|function|ferr_puts
+DECL|function|ferr_write
 DECL|function|find_conflict
 DECL|function|git_rerere_config
 DECL|function|handle_file
