@@ -1,3 +1,4 @@
+DECL|function|build_tag_object
 DECL|function|cmd_tag
 DECL|function|create_tag
 DECL|function|delete_tag
