@@ -15,6 +15,7 @@ DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_pack
 DECL|function|force_object_loose
+DECL|function|free_pack_by_name
 DECL|function|get_delta_base
 DECL|function|get_sha1_hex
 DECL|function|get_size_from_delta
