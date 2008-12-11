@@ -22,6 +22,8 @@ DECL|function|mark_object_reachable
 DECL|function|mark_used
 DECL|function|objerror
 DECL|function|objreport
+DECL|function|traverse_one_object
+DECL|function|traverse_reachable
 DECL|macro|DIRENT_SORT_HINT
 DECL|macro|DIRENT_SORT_HINT
 DECL|macro|ERROR_OBJECT
@@ -45,6 +47,7 @@ DECL|variable|fsck_usage
 DECL|variable|head_sha1
 DECL|variable|include_reflogs
 DECL|variable|keep_cache_objects
+DECL|variable|pending
 DECL|variable|sha1_list
 DECL|variable|show_root
 DECL|variable|show_tags
