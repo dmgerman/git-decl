@@ -37,7 +37,6 @@ DECL|variable|cleanup_arg
 DECL|variable|cleanup_mode
 DECL|variable|commit_editmsg
 DECL|variable|commit_style
-DECL|variable|commit_utf8_warn
 DECL|variable|edit_flag
 DECL|variable|edit_message
 DECL|variable|false_lock
