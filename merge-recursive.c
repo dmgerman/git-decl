@@ -36,6 +36,7 @@ DECL|function|unique_path
 DECL|function|update_file
 DECL|function|update_file_flags
 DECL|function|update_stages
+DECL|function|would_lose_untracked
 DECL|function|write_tree_from_memory
 DECL|member|clean
 DECL|member|dst_entry
