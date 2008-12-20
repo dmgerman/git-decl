@@ -21,6 +21,7 @@ DECL|function|parse_opt_signed_tag_mode
 DECL|function|ptr_to_mark
 DECL|function|show_filemodify
 DECL|function|show_progress
+DECL|variable|fake_missing_tagger
 DECL|variable|fast_export_usage
 DECL|variable|idnums
 DECL|variable|last_idnum
