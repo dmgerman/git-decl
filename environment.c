@@ -35,6 +35,7 @@ DECL|variable|has_symlinks
 DECL|variable|ignore_case
 DECL|variable|is_bare_repository_cfg
 DECL|variable|log_all_ref_updates
+DECL|variable|notes_ref_name
 DECL|variable|packed_git_limit
 DECL|variable|packed_git_window_size
 DECL|variable|pager_program
