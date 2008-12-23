@@ -128,6 +128,7 @@ DECL|member|owner
 DECL|member|packs
 DECL|member|parent
 DECL|member|path
+DECL|member|path
 DECL|member|path_len
 DECL|member|real_sha1
 DECL|member|refreshing
