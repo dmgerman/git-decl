@@ -5,6 +5,7 @@ DECL|function|format_commit_item
 DECL|function|format_commit_message
 DECL|function|format_decoration
 DECL|function|format_person_part
+DECL|function|format_subject
 DECL|function|get_commit_format
 DECL|function|get_header
 DECL|function|get_one_line
@@ -14,6 +15,7 @@ DECL|function|logmsg_reencode
 DECL|function|mailmap_name
 DECL|function|non_ascii
 DECL|function|parse_commit_header
+DECL|function|parse_commit_message
 DECL|function|pp_header
 DECL|function|pp_remainder
 DECL|function|pp_title_line
@@ -21,6 +23,7 @@ DECL|function|pp_user_info
 DECL|function|pretty_print_commit
 DECL|function|reencode_commit_message
 DECL|function|replace_encoding_header
+DECL|function|skip_empty_lines
 DECL|member|abbrev_commit_hash
 DECL|member|abbrev_parent_hashes
 DECL|member|abbrev_tree_hash
@@ -28,12 +31,14 @@ DECL|member|author
 DECL|member|body_off
 DECL|member|commit
 DECL|member|commit_header_parsed
+DECL|member|commit_message_parsed
 DECL|member|committer
 DECL|member|dmode
 DECL|member|encoding
 DECL|member|len
+DECL|member|message_off
 DECL|member|off
-DECL|member|subject
+DECL|member|subject_off
 DECL|struct|chunk
 DECL|struct|format_commit_context
 DECL|variable|user_format
