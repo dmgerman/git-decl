@@ -15,6 +15,7 @@ DECL|function|logmsg_reencode
 DECL|function|mailmap_name
 DECL|function|non_ascii
 DECL|function|parse_commit_header
+DECL|function|parse_commit_message
 DECL|function|pp_header
 DECL|function|pp_remainder
 DECL|function|pp_title_line
@@ -30,12 +31,14 @@ DECL|member|author
 DECL|member|body_off
 DECL|member|commit
 DECL|member|commit_header_parsed
+DECL|member|commit_message_parsed
 DECL|member|committer
 DECL|member|dmode
 DECL|member|encoding
 DECL|member|len
+DECL|member|message_off
 DECL|member|off
-DECL|member|subject
+DECL|member|subject_off
 DECL|struct|chunk
 DECL|struct|format_commit_context
 DECL|variable|user_format
