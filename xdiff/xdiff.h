@@ -32,6 +32,7 @@ DECL|member|find_func
 DECL|member|find_func_priv
 DECL|member|flags
 DECL|member|flags
+DECL|member|interhunkctxlen
 DECL|member|outf
 DECL|member|priv
 DECL|member|ptr
