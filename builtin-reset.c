@@ -1,4 +1,5 @@
 DECL|enumerator|HARD
+DECL|enumerator|MERGE
 DECL|enumerator|MIXED
 DECL|enumerator|NONE
 DECL|enumerator|SOFT
