@@ -60,7 +60,6 @@ DECL|function|option_parse_directory
 DECL|function|option_parse_exclude
 DECL|function|option_parse_include
 DECL|function|option_parse_p
-DECL|function|option_parse_stdin
 DECL|function|option_parse_whitespace
 DECL|function|option_parse_z
 DECL|function|parse_binary
