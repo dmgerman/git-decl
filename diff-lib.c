@@ -10,6 +10,3 @@ DECL|function|run_diff_index
 DECL|function|show_modified
 DECL|function|show_new_file
 DECL|function|skip_same_name
-DECL|member|revs
-DECL|member|symcache
-DECL|struct|oneway_unpack_data
