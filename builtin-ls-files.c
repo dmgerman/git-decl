@@ -1,6 +1,5 @@
 DECL|function|cmd_ls_files
 DECL|function|overlay_tree_on_cache
-DECL|function|pathspec_match
 DECL|function|prune_cache
 DECL|function|report_path_error
 DECL|function|show_ce_entry
