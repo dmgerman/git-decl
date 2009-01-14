@@ -6,6 +6,7 @@ DECL|function|fill_pathspec_matches
 DECL|function|interactive_add
 DECL|function|prune_directory
 DECL|function|refresh
+DECL|function|treat_gitlinks
 DECL|function|validate_pathspec
 DECL|variable|add_interactive
 DECL|variable|addremove
