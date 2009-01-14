@@ -13,6 +13,7 @@ DECL|macro|MAXARGS
 DECL|macro|NO_EXTERNAL_GREP
 DECL|macro|NO_EXTERNAL_GREP
 DECL|macro|push_arg
+DECL|variable|builtin_grep
 DECL|variable|builtin_grep_usage
 DECL|variable|emsg_invalid_context_len
 DECL|variable|emsg_missing_argument
