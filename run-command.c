@@ -6,6 +6,7 @@ DECL|function|prepare_run_command_v_opt
 DECL|function|run_command
 DECL|function|run_command_v_opt
 DECL|function|run_command_v_opt_cd_env
+DECL|function|run_hook
 DECL|function|run_thread
 DECL|function|start_async
 DECL|function|start_command

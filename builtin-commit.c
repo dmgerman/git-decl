@@ -21,7 +21,6 @@ DECL|function|prepare_index
 DECL|function|prepare_to_commit
 DECL|function|print_summary
 DECL|function|rollback_index_files
-DECL|function|run_hook
 DECL|function|run_status
 DECL|variable|all
 DECL|variable|allow_empty

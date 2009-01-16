@@ -14,7 +14,7 @@ DECL|function|parse_pack_header
 DECL|function|read_head_info
 DECL|function|receive_pack_config
 DECL|function|report
-DECL|function|run_hook
+DECL|function|run_receive_hook
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
 DECL|function|show_ref

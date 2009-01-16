@@ -20,7 +20,6 @@ DECL|function|option_parse_strategy
 DECL|function|read_tree_trivial
 DECL|function|reset_hard
 DECL|function|restore_state
-DECL|function|run_hook
 DECL|function|save_state
 DECL|function|split_merge_strategies
 DECL|function|squash_message
