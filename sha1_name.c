@@ -14,10 +14,16 @@ DECL|function|get_sha1_basic
 DECL|function|get_sha1_oneline
 DECL|function|get_sha1_with_mode
 DECL|function|get_short_sha1
+DECL|function|grab_nth_branch_switch
 DECL|function|handle_one_ref
+DECL|function|interpret_nth_last_branch
 DECL|function|match_sha
 DECL|function|peel_onion
 DECL|function|peel_to_type
 DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
+DECL|member|buf
+DECL|member|counting
+DECL|member|nth
+DECL|struct|grab_nth_branch_switch_cbdata
