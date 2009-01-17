@@ -1,9 +1,5 @@
-DECL|macro|AA
-DECL|macro|AA
-DECL|macro|DD
-DECL|macro|DD
-DECL|macro|GS
-DECL|macro|GS
-DECL|macro|SS
-DECL|macro|SS
+DECL|enumerator|A
+DECL|enumerator|D
+DECL|enumerator|G
+DECL|enumerator|S
 DECL|variable|sane_ctype
