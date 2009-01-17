@@ -16,7 +16,6 @@ DECL|function|free_pattern_expr
 DECL|function|grep_buffer
 DECL|function|grep_buffer_1
 DECL|function|is_fixed
-DECL|function|isregexspecial
 DECL|function|match_expr
 DECL|function|match_expr_eval
 DECL|function|match_line
