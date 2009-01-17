@@ -1,5 +1,6 @@
 DECL|function|main
 DECL|function|test_class
+DECL|function|test_is_glob_special
 DECL|function|test_isalnum
 DECL|function|test_isalpha
 DECL|function|test_isdigit
