@@ -45,6 +45,7 @@ DECL|function|diff_unique_abbrev
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
 DECL|function|diff_words_append
+DECL|function|diff_words_fill
 DECL|function|diff_words_show
 DECL|function|diffcore_apply_filter
 DECL|function|diffcore_skip_stat_unmatch
