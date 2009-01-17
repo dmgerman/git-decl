@@ -20,6 +20,7 @@ DECL|function|interpret_nth_last_branch
 DECL|function|match_sha
 DECL|function|peel_onion
 DECL|function|peel_to_type
+DECL|function|substitute_nth_last_branch
 DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
