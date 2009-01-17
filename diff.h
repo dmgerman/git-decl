@@ -112,6 +112,7 @@ DECL|member|stat_sep
 DECL|member|stat_width
 DECL|member|status
 DECL|member|warn_on_too_large_rename
+DECL|member|word_regex
 DECL|member|xdl_opts
 DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path

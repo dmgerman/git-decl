@@ -62,6 +62,7 @@ DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|fill_mmfile
 DECL|function|fill_print_name
+DECL|function|find_word_boundaries
 DECL|function|flush_one_pair
 DECL|function|fn_out_consume
 DECL|function|fn_out_diff_words_aux
@@ -156,6 +157,7 @@ DECL|member|text
 DECL|member|tmp_path
 DECL|member|trailing_blanks_start
 DECL|member|truncate
+DECL|member|word_regex
 DECL|member|ws_rule
 DECL|member|ws_rule
 DECL|struct|checkdiff_t
