@@ -108,6 +108,7 @@ DECL|function|show_shortstats
 DECL|function|show_stats
 DECL|function|similarity_index
 DECL|function|strip_prefix
+DECL|function|userdiff_word_regex
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|macro|FAST_WORKING_DIRECTORY
 DECL|member|added

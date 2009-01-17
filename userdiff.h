@@ -6,5 +6,6 @@ DECL|member|funcname
 DECL|member|name
 DECL|member|pattern
 DECL|member|textconv
+DECL|member|word_regex
 DECL|struct|userdiff_driver
 DECL|struct|userdiff_funcname
