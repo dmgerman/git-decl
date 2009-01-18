@@ -1,3 +1,4 @@
+DECL|function|is_dot_or_dotdot
 DECL|macro|DIR_H
 DECL|macro|EXC_CMDL
 DECL|macro|EXC_DIRS
