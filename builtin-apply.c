@@ -56,6 +56,12 @@ DECL|function|match_fragment
 DECL|function|metadata_changes
 DECL|function|name_terminate
 DECL|function|numstat_patch_list
+DECL|function|option_parse_directory
+DECL|function|option_parse_exclude
+DECL|function|option_parse_include
+DECL|function|option_parse_p
+DECL|function|option_parse_whitespace
+DECL|function|option_parse_z
 DECL|function|parse_binary
 DECL|function|parse_binary_hunk
 DECL|function|parse_chunk
@@ -179,6 +185,7 @@ DECL|variable|minuses
 DECL|variable|newfd
 DECL|variable|no_add
 DECL|variable|numstat
+DECL|variable|options
 DECL|variable|p_context
 DECL|variable|p_value
 DECL|variable|p_value_known
@@ -186,6 +193,7 @@ DECL|variable|patch_input_file
 DECL|variable|pluses
 DECL|variable|prefix
 DECL|variable|prefix_length
+DECL|variable|read_stdin
 DECL|variable|root
 DECL|variable|root_len
 DECL|variable|squelch_whitespace_errors
