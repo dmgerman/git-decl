@@ -1,6 +1,7 @@
 DECL|function|has_dirs_only_path
 DECL|function|has_symlink_leading_path
 DECL|function|has_symlink_or_noent_leading_path
+DECL|function|invalidate_lstat_cache
 DECL|function|longest_match_lstat_cache
 DECL|function|lstat_cache
 DECL|function|reset_lstat_cache
