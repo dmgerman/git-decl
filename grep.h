@@ -30,6 +30,7 @@ DECL|member|count
 DECL|member|extended
 DECL|member|field
 DECL|member|fixed
+DECL|member|fixed
 DECL|member|hit
 DECL|member|invert
 DECL|member|left
