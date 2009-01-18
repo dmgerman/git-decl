@@ -6,6 +6,7 @@ DECL|function|handle_internal_command
 DECL|function|handle_options
 DECL|function|main
 DECL|function|pager_command_config
+DECL|function|run_argv
 DECL|function|run_command
 DECL|macro|NEED_WORK_TREE
 DECL|macro|RUN_SETUP
