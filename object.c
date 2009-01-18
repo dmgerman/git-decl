@@ -9,6 +9,7 @@ DECL|function|hashtable_index
 DECL|function|insert_obj_hash
 DECL|function|lookup_object
 DECL|function|lookup_unknown_object
+DECL|function|object_array_remove_duplicates
 DECL|function|object_list_append
 DECL|function|object_list_contains
 DECL|function|object_list_insert
