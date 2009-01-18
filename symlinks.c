@@ -1,3 +1,4 @@
+DECL|function|clear_lstat_cache
 DECL|function|has_dirs_only_path
 DECL|function|has_symlink_leading_path
 DECL|function|has_symlink_or_noent_leading_path
