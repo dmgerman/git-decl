@@ -23,7 +23,7 @@ DECL|function|peel_to_type
 DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
+DECL|member|alloc
 DECL|member|buf
-DECL|member|counting
-DECL|member|nth
+DECL|member|cnt
 DECL|struct|grab_nth_branch_switch_cbdata
