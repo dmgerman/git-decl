@@ -13,6 +13,7 @@ DECL|function|do_for_each_reflog
 DECL|function|do_one_ref
 DECL|function|find_ref_by_name
 DECL|function|for_each_branch_ref
+DECL|function|for_each_recent_reflog_ent
 DECL|function|for_each_ref
 DECL|function|for_each_reflog
 DECL|function|for_each_reflog_ent
