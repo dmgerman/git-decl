@@ -4,6 +4,7 @@ DECL|function|builtin_diff
 DECL|function|builtin_diffstat
 DECL|function|check_pair_status
 DECL|function|checkdiff_consume
+DECL|function|claim_diff_tempfile
 DECL|function|copy_file_with_prefix
 DECL|function|count_lines
 DECL|function|deflate_it
@@ -176,3 +177,4 @@ DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
 DECL|variable|external_diff_cmd_cfg
 DECL|variable|mime_boundary_leader
+DECL|variable|remove_tempfile_installed
