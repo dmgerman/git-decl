@@ -1,0 +1,9 @@
+DECL|function|check_signum
+DECL|function|sigchain_pop
+DECL|function|sigchain_push
+DECL|macro|SIGCHAIN_MAX_SIGNALS
+DECL|member|alloc
+DECL|member|n
+DECL|member|old
+DECL|struct|sigchain_signal
+DECL|variable|signals
