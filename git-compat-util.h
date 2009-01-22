@@ -18,8 +18,9 @@ DECL|macro|FORCE_DIR_SET_GID
 DECL|macro|GIT_ALPHA
 DECL|macro|GIT_COMPAT_UTIL_H
 DECL|macro|GIT_DIGIT
+DECL|macro|GIT_GLOB_SPECIAL
+DECL|macro|GIT_REGEX_SPECIAL
 DECL|macro|GIT_SPACE
-DECL|macro|GIT_SPECIAL
 DECL|macro|HAS_MULTI_BITS
 DECL|macro|HAVE_STRCHRNUL
 DECL|macro|MAP_FAILED
@@ -54,6 +55,8 @@ DECL|macro|fopen
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
+DECL|macro|is_glob_special
+DECL|macro|is_regex_special
 DECL|macro|isalnum
 DECL|macro|isalnum
 DECL|macro|isalpha
@@ -62,7 +65,6 @@ DECL|macro|isdigit
 DECL|macro|isdigit
 DECL|macro|isspace
 DECL|macro|isspace
-DECL|macro|isspecial
 DECL|macro|memmem
 DECL|macro|mkdtemp
 DECL|macro|mmap
