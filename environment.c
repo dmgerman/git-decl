@@ -43,6 +43,7 @@ DECL|variable|pager_program
 DECL|variable|pager_use_color
 DECL|variable|prefer_symlink_refs
 DECL|variable|push_default
+DECL|variable|read_replace_refs
 DECL|variable|repository_format_version
 DECL|variable|safe_crlf
 DECL|variable|shared_repository
