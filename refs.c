@@ -20,6 +20,7 @@ DECL|function|for_each_ref_in
 DECL|function|for_each_reflog
 DECL|function|for_each_reflog_ent
 DECL|function|for_each_remote_ref
+DECL|function|for_each_replace_ref
 DECL|function|for_each_tag_ref
 DECL|function|free_ref_list
 DECL|function|gen_scanf_fmt
