@@ -67,6 +67,7 @@ DECL|function|hexval
 DECL|function|is_absolute_path
 DECL|function|is_null_sha1
 DECL|function|object_type
+DECL|function|read_sha1_file
 DECL|function|remove_name_hash
 DECL|macro|ADD_CACHE_IGNORE_ERRORS
 DECL|macro|ADD_CACHE_IGNORE_REMOVAL
