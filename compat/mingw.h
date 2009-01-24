@@ -7,7 +7,6 @@ DECL|function|getppid
 DECL|function|getpwnam
 DECL|function|getuid
 DECL|function|git_ntohl
-DECL|function|link
 DECL|function|mingw_mkdir
 DECL|function|mingw_unlink
 DECL|function|readlink

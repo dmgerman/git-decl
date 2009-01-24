@@ -11,6 +11,7 @@ DECL|function|getpwuid
 DECL|function|gettimeofday
 DECL|function|gmtime_r
 DECL|function|is_timeval_eq
+DECL|function|link
 DECL|function|localtime_r
 DECL|function|lookup_env
 DECL|function|lookup_prog
