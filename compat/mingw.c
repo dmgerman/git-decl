@@ -2,6 +2,7 @@ DECL|function|copy_environ
 DECL|function|do_lstat
 DECL|function|env_compare
 DECL|function|env_setenv
+DECL|function|err_win_to_posix
 DECL|function|filetime_to_time_t
 DECL|function|free_environ
 DECL|function|free_path_split
