@@ -1,5 +1,8 @@
 DECL|enumerator|ABORTED
 DECL|enumerator|COMPLETE
+DECL|enumerator|DAV_HEADER_IF
+DECL|enumerator|DAV_HEADER_LOCK
+DECL|enumerator|DAV_HEADER_TIMEOUT
 DECL|enumerator|NEED_FETCH
 DECL|enumerator|NEED_PUSH
 DECL|enumerator|RUN_FETCH_LOOSE
@@ -10,6 +13,7 @@ DECL|enumerator|RUN_PUT
 DECL|enumerator|XML_STATUS_ERROR
 DECL|enumerator|XML_STATUS_OK
 DECL|enum|XML_Status
+DECL|enum|dav_header_flag
 DECL|enum|transfer_state
 DECL|function|add_fetch_request
 DECL|function|add_one_object
@@ -24,6 +28,7 @@ DECL|function|fill_active_slot
 DECL|function|finish_request
 DECL|function|fwrite_sha1_file
 DECL|function|get_dav_remote_heads
+DECL|function|get_dav_token_headers
 DECL|function|get_delta
 DECL|function|get_local_heads
 DECL|function|get_remote_object_list
