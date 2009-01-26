@@ -16,6 +16,7 @@ DECL|member|buf
 DECL|member|given
 DECL|member|lines
 DECL|member|pattern
+DECL|member|with_commit
 DECL|struct|msg_arg
 DECL|struct|tag_filter
 DECL|typedef|each_tag_name_fn
