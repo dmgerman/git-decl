@@ -6,8 +6,8 @@ DECL|function|userdiff_config
 DECL|function|userdiff_find_by_name
 DECL|function|userdiff_find_by_namelen
 DECL|function|userdiff_find_by_path
-DECL|macro|FUNCNAME
-DECL|macro|FUNCNAME
+DECL|macro|PATTERNS
+DECL|macro|PATTERNS
 DECL|variable|builtin_drivers
 DECL|variable|driver_false
 DECL|variable|driver_true
