@@ -1,5 +1,6 @@
 DECL|function|cmd_send_pack
 DECL|function|do_send_pack
+DECL|function|feed_object
 DECL|function|get_local_heads
 DECL|function|one_local_ref
 DECL|function|pack_objects
