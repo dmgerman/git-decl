@@ -21,6 +21,7 @@ DECL|function|istitlechar
 DECL|function|log_show_early
 DECL|function|make_cover_letter
 DECL|function|reopen_stdout
+DECL|function|set_outdir
 DECL|function|setup_early_output
 DECL|function|show_early_header
 DECL|function|show_object
@@ -45,5 +46,6 @@ DECL|variable|fmt_patch_subject_prefix
 DECL|variable|fmt_patch_suffix
 DECL|variable|fmt_pretty
 DECL|variable|numbered
+DECL|variable|outdir_offset
 DECL|variable|output_directory
 DECL|variable|realstdout
