@@ -19,6 +19,7 @@ DECL|function|add_fetch_request
 DECL|function|add_one_object
 DECL|function|add_remote_info_ref
 DECL|function|add_send_request
+DECL|function|append_remote_object_url
 DECL|function|check_locks
 DECL|function|delete_remote_branch
 DECL|function|fetch_index
@@ -32,6 +33,7 @@ DECL|function|get_dav_token_headers
 DECL|function|get_delta
 DECL|function|get_local_heads
 DECL|function|get_remote_object_list
+DECL|function|get_remote_object_url
 DECL|function|handle_lockprop_ctx
 DECL|function|handle_new_lock_ctx
 DECL|function|handle_remote_ls_ctx
