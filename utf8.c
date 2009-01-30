@@ -6,6 +6,7 @@ DECL|function|pick_one_utf8_char
 DECL|function|print_spaces
 DECL|function|print_wrapped_text
 DECL|function|reencode_string
+DECL|function|utf8_strwidth
 DECL|function|utf8_width
 DECL|member|first
 DECL|member|last
