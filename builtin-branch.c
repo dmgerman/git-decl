@@ -16,10 +16,8 @@ DECL|function|delete_branches
 DECL|function|fill_tracking_info
 DECL|function|free_ref_list
 DECL|function|git_branch_config
-DECL|function|has_commit
 DECL|function|matches_merge_filter
 DECL|function|opt_parse_merge_filter
-DECL|function|opt_parse_with_commit
 DECL|function|parse_branch_color_slot
 DECL|function|print_ref_item
 DECL|function|print_ref_list
