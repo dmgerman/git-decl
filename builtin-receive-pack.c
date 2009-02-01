@@ -1,5 +1,6 @@
 DECL|enumerator|DENY_IGNORE
 DECL|enumerator|DENY_REFUSE
+DECL|enumerator|DENY_UNCONFIGURED
 DECL|enumerator|DENY_WARN
 DECL|enum|deny_action
 DECL|function|add_alternate_refs
@@ -20,6 +21,7 @@ DECL|function|run_update_post_hook
 DECL|function|show_ref
 DECL|function|unpack
 DECL|function|update
+DECL|function|warn_unconfigured_deny
 DECL|function|write_head_info
 DECL|member|error_string
 DECL|member|new_sha1
@@ -43,3 +45,4 @@ DECL|variable|report_status
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|update_post_hook
+DECL|variable|warn_unconfigured_deny_msg
