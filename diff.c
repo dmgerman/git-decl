@@ -61,6 +61,7 @@ DECL|function|emit_line
 DECL|function|emit_rewrite_diff
 DECL|function|external_diff
 DECL|function|fill_filespec
+DECL|function|fill_metainfo
 DECL|function|fill_mmfile
 DECL|function|fill_print_name
 DECL|function|find_word_boundaries
