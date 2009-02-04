@@ -35,6 +35,7 @@ DECL|member|remote
 DECL|member|remote
 DECL|member|remote
 DECL|member|remote
+DECL|member|skipped
 DECL|member|stale
 DECL|member|to_delete
 DECL|member|tracked
