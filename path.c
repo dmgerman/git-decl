@@ -11,7 +11,6 @@ DECL|function|longest_ancestor_length
 DECL|function|make_relative_path
 DECL|function|mkpath
 DECL|function|mksnpath
-DECL|function|normalize_absolute_path
 DECL|function|normalize_path_copy
 DECL|function|user_path
 DECL|function|validate_headref
