@@ -7,6 +7,7 @@ DECL|function|show_dir_entry
 DECL|function|show_files
 DECL|function|show_killed_files
 DECL|function|show_other_files
+DECL|function|strip_trailing_slash_from_submodules
 DECL|function|verify_pathspec
 DECL|variable|abbrev
 DECL|variable|error_unmatch
