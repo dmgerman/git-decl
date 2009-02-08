@@ -25,6 +25,7 @@ DECL|function|git_default_branch_config
 DECL|function|git_default_config
 DECL|function|git_default_core_config
 DECL|function|git_default_i18n_config
+DECL|function|git_default_mailmap_config
 DECL|function|git_default_user_config
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
