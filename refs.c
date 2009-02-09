@@ -13,6 +13,7 @@ DECL|function|do_for_each_reflog
 DECL|function|do_one_ref
 DECL|function|find_ref_by_name
 DECL|function|for_each_branch_ref
+DECL|function|for_each_rawref
 DECL|function|for_each_recent_reflog_ent
 DECL|function|for_each_ref
 DECL|function|for_each_reflog
@@ -49,7 +50,10 @@ DECL|function|sort_ref_list
 DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|verify_lock
+DECL|function|warn_dangling_symref
+DECL|function|warn_if_dangling_symref
 DECL|function|write_ref_sha1
+DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
 DECL|macro|MAXREFLEN
 DECL|macro|REF_KNOWS_PEELED
@@ -57,13 +61,16 @@ DECL|member|did_loose
 DECL|member|did_packed
 DECL|member|flag
 DECL|member|loose
+DECL|member|msg_fmt
 DECL|member|name
 DECL|member|next
 DECL|member|packed
 DECL|member|peeled
+DECL|member|refname
 DECL|member|sha1
 DECL|struct|cached_refs
 DECL|struct|ref_list
+DECL|struct|warn_if_dangling_data
 DECL|variable|cached_refs
 DECL|variable|current_ref
 DECL|variable|extra_refs
