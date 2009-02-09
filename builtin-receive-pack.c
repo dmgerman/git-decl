@@ -14,6 +14,7 @@ DECL|function|parse_pack_header
 DECL|function|read_head_info
 DECL|function|receive_pack_config
 DECL|function|refuse_unconfigured_deny
+DECL|function|refuse_unconfigured_deny_delete_current
 DECL|function|report
 DECL|function|run_receive_hook
 DECL|function|run_status
@@ -22,7 +23,6 @@ DECL|function|run_update_post_hook
 DECL|function|show_ref
 DECL|function|unpack
 DECL|function|update
-DECL|function|warn_unconfigured_deny_delete_current
 DECL|function|write_head_info
 DECL|member|error_string
 DECL|member|new_sha1
@@ -44,9 +44,9 @@ DECL|variable|prefer_ofs_delta
 DECL|variable|receive_fsck_objects
 DECL|variable|receive_pack_usage
 DECL|variable|receive_unpack_limit
+DECL|variable|refuse_unconfigured_deny_delete_current_msg
 DECL|variable|refuse_unconfigured_deny_msg
 DECL|variable|report_status
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|update_post_hook
-DECL|variable|warn_unconfigured_deny_delete_current_msg
