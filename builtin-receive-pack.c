@@ -22,6 +22,7 @@ DECL|function|show_ref
 DECL|function|unpack
 DECL|function|update
 DECL|function|warn_unconfigured_deny
+DECL|function|warn_unconfigured_deny_delete_current
 DECL|function|write_head_info
 DECL|member|error_string
 DECL|member|new_sha1
@@ -33,8 +34,10 @@ DECL|variable|capabilities
 DECL|variable|capabilities_sent
 DECL|variable|commands
 DECL|variable|deny_current_branch
+DECL|variable|deny_delete_current
 DECL|variable|deny_deletes
 DECL|variable|deny_non_fast_forwards
+DECL|variable|head_name
 DECL|variable|pack_lockfile
 DECL|variable|post_receive_hook
 DECL|variable|pre_receive_hook
@@ -45,4 +48,5 @@ DECL|variable|report_status
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|update_post_hook
+DECL|variable|warn_unconfigured_deny_delete_current_msg
 DECL|variable|warn_unconfigured_deny_msg
