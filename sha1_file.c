@@ -5,6 +5,7 @@ DECL|function|alloc_packed_git
 DECL|function|cache_or_unpack_entry
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
+DECL|function|clear_delta_base_cache
 DECL|function|close_pack_windows
 DECL|function|close_sha1_file
 DECL|function|create_tmpfile
