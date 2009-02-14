@@ -4,12 +4,12 @@ DECL|function|ferr_write
 DECL|function|find_conflict
 DECL|function|git_rerere_config
 DECL|function|handle_file
-DECL|function|has_resolution
+DECL|function|has_rerere_resolution
 DECL|function|is_rerere_enabled
 DECL|function|merge
 DECL|function|read_rr
 DECL|function|rerere
-DECL|function|rr_path
+DECL|function|rerere_path
 DECL|function|setup_rerere
 DECL|function|update_paths
 DECL|function|write_rr
