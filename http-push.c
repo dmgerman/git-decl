@@ -146,6 +146,7 @@ DECL|member|state
 DECL|member|stream
 DECL|member|timeout
 DECL|member|tmpfile
+DECL|member|tmpfile_suffix
 DECL|member|token
 DECL|member|url
 DECL|member|url
