@@ -7,3 +7,4 @@ DECL|member|string
 DECL|member|util
 DECL|struct|string_list
 DECL|struct|string_list_item
+DECL|typedef|string_list_clear_func_t
