@@ -1,3 +1,4 @@
+DECL|function|create_output_file
 DECL|function|format_subst
 DECL|function|lookup_archiver
 DECL|function|parse_archive_args
