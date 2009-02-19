@@ -69,7 +69,7 @@ DECL|member|print_parents
 DECL|member|prune
 DECL|member|prune_data
 DECL|member|pruning
-DECL|member|ref_message_id
+DECL|member|ref_message_ids
 DECL|member|reflog_info
 DECL|member|remove_empty_trees
 DECL|member|reverse
