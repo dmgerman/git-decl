@@ -28,6 +28,8 @@ DECL|function|show_object
 DECL|function|show_tagger
 DECL|function|show_tree_object
 DECL|macro|FORMAT_PATCH_NAME_MAX
+DECL|macro|THREAD_DEEP
+DECL|macro|THREAD_SHALLOW
 DECL|variable|auto_number
 DECL|variable|cherry_usage
 DECL|variable|default_date_mode
@@ -49,3 +51,4 @@ DECL|variable|numbered
 DECL|variable|outdir_offset
 DECL|variable|output_directory
 DECL|variable|realstdout
+DECL|variable|thread
