@@ -130,6 +130,8 @@ DECL|struct|handle_split_cb_data
 DECL|struct|origin
 DECL|struct|scoreboard
 DECL|variable|blame_copy_score
+DECL|variable|blame_date_mode
+DECL|variable|blame_date_width
 DECL|variable|blame_move_score
 DECL|variable|blame_opt_usage
 DECL|variable|blame_usage
