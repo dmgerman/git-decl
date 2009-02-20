@@ -11,6 +11,7 @@ DECL|function|remove_lock_file_on_signal
 DECL|function|resolve_symlink
 DECL|function|rollback_lock_file
 DECL|function|set_alternate_index_output
+DECL|function|unable_to_lock_index_die
 DECL|macro|MAXDEPTH
 DECL|variable|alternate_index_output
 DECL|variable|lock_file_list
