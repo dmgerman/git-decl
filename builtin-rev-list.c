@@ -6,10 +6,13 @@ DECL|function|compare_commit_dist
 DECL|function|count_distance
 DECL|function|count_interesting_parents
 DECL|function|do_find_bisection
+DECL|function|estimate_bisect_steps
+DECL|function|exp2i
 DECL|function|find_bisection
 DECL|function|finish_commit
 DECL|function|finish_object
 DECL|function|halfway
+DECL|function|log2i
 DECL|function|show_commit
 DECL|function|show_edge
 DECL|function|show_list
