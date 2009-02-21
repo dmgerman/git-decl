@@ -1,7 +1,3 @@
-DECL|enumerator|T_BOOL
-DECL|enumerator|T_BOOL_OR_INT
-DECL|enumerator|T_INT
-DECL|enumerator|T_RAW
 DECL|function|check_argc
 DECL|function|cmd_config
 DECL|function|get_color
@@ -27,6 +23,9 @@ DECL|macro|ACTION_SET
 DECL|macro|ACTION_SET_ALL
 DECL|macro|ACTION_UNSET
 DECL|macro|ACTION_UNSET_ALL
+DECL|macro|TYPE_BOOL
+DECL|macro|TYPE_BOOL_OR_INT
+DECL|macro|TYPE_INT
 DECL|variable|actions
 DECL|variable|builtin_config_options
 DECL|variable|builtin_config_usage
@@ -51,7 +50,7 @@ DECL|variable|seen
 DECL|variable|show_keys
 DECL|variable|stdout_is_tty
 DECL|variable|term
-DECL|variable|type
+DECL|variable|types
 DECL|variable|use_global_config
 DECL|variable|use_key_regexp
 DECL|variable|use_system_config
