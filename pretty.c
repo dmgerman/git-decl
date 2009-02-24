@@ -23,6 +23,7 @@ DECL|function|pp_user_info
 DECL|function|pretty_print_commit
 DECL|function|reencode_commit_message
 DECL|function|replace_encoding_header
+DECL|function|save_user_format
 DECL|function|skip_empty_lines
 DECL|member|abbrev_commit_hash
 DECL|member|abbrev_parent_hashes
