@@ -1,3 +1,5 @@
+DECL|function|odb_mkstemp
+DECL|function|odb_pack_keep
 DECL|function|read_in_full
 DECL|function|write_in_full
 DECL|function|xcalloc
