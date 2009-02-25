@@ -7,6 +7,7 @@ DECL|function|cmd_remote
 DECL|function|config_read_branches
 DECL|function|fetch_remote
 DECL|function|free_remote_ref_states
+DECL|function|get_head_names
 DECL|function|get_one_entry
 DECL|function|get_one_remote_for_update
 DECL|function|get_ref_states
@@ -26,8 +27,11 @@ DECL|function|show
 DECL|function|show_all
 DECL|function|show_list
 DECL|function|update
+DECL|macro|GET_HEAD_NAMES
+DECL|macro|GET_REF_STATES
 DECL|macro|abbrev_branch
 DECL|member|branches
+DECL|member|heads
 DECL|member|keep
 DECL|member|list
 DECL|member|list
