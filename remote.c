@@ -23,6 +23,7 @@ DECL|function|free_refs
 DECL|function|free_refspecs
 DECL|function|get_expanded_map
 DECL|function|get_fetch_map
+DECL|function|get_local_heads
 DECL|function|get_local_ref
 DECL|function|get_remote_ref
 DECL|function|guess_ref
@@ -34,6 +35,7 @@ DECL|function|make_rewrite
 DECL|function|match_explicit
 DECL|function|match_explicit_refs
 DECL|function|match_refs
+DECL|function|one_local_ref
 DECL|function|parse_fetch_refspec
 DECL|function|parse_push_refspec
 DECL|function|parse_refspec_internal

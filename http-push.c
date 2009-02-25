@@ -31,7 +31,6 @@ DECL|function|fwrite_sha1_file
 DECL|function|get_dav_remote_heads
 DECL|function|get_dav_token_headers
 DECL|function|get_delta
-DECL|function|get_local_heads
 DECL|function|get_remote_object_list
 DECL|function|get_remote_object_url
 DECL|function|handle_lockprop_ctx
@@ -41,7 +40,6 @@ DECL|function|is_zero_sha1
 DECL|function|lock_remote
 DECL|function|locking_available
 DECL|function|main
-DECL|function|one_local_ref
 DECL|function|one_remote_object
 DECL|function|one_remote_ref
 DECL|function|process_blob
@@ -166,8 +164,6 @@ DECL|variable|aborted
 DECL|variable|dry_run
 DECL|variable|force_all
 DECL|variable|http_push_usage
-DECL|variable|local_refs
-DECL|variable|local_tail
 DECL|variable|no_pragma_header
 DECL|variable|objects
 DECL|variable|push_all
