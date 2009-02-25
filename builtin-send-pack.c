@@ -8,11 +8,9 @@ DECL|function|print_one_push_status
 DECL|function|print_push_status
 DECL|function|print_ref_status
 DECL|function|receive_status
-DECL|function|ref_newer
 DECL|function|refs_pushed
 DECL|function|send_pack
 DECL|function|status_abbrev
-DECL|function|unmark_and_free
 DECL|function|update_tracking_ref
 DECL|function|verify_remote_names
 DECL|macro|SUMMARY_WIDTH

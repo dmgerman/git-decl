@@ -47,7 +47,6 @@ DECL|function|process_ls_object
 DECL|function|process_ls_ref
 DECL|function|process_response
 DECL|function|process_tree
-DECL|function|ref_newer
 DECL|function|refresh_lock
 DECL|function|release_request
 DECL|function|remote_exists
@@ -61,7 +60,6 @@ DECL|function|start_mkcol
 DECL|function|start_move
 DECL|function|start_put
 DECL|function|unlock_remote
-DECL|function|unmark_and_free
 DECL|function|update_remote
 DECL|function|update_remote_info_refs
 DECL|function|verify_merge_base

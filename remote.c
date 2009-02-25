@@ -42,6 +42,7 @@ DECL|function|parse_refspec_internal
 DECL|function|read_branches_file
 DECL|function|read_config
 DECL|function|read_remotes_file
+DECL|function|ref_newer
 DECL|function|ref_remove_duplicates
 DECL|function|remote_find_tracking
 DECL|function|remote_get
@@ -50,6 +51,7 @@ DECL|function|resolve_remote_symref
 DECL|function|stat_tracking_info
 DECL|function|tail_link_ref
 DECL|function|try_explicit_object_name
+DECL|function|unmark_and_free
 DECL|function|valid_fetch_refspec
 DECL|function|valid_remote_nick
 DECL|function|verify_refname
