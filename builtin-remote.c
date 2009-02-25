@@ -6,6 +6,7 @@ DECL|function|append_ref_to_tracked_list
 DECL|function|cmd_remote
 DECL|function|config_read_branches
 DECL|function|fetch_remote
+DECL|function|free_remote_ref_states
 DECL|function|get_one_entry
 DECL|function|get_one_remote_for_update
 DECL|function|get_ref_states
