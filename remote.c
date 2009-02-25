@@ -27,6 +27,7 @@ DECL|function|get_local_heads
 DECL|function|get_local_ref
 DECL|function|get_remote_ref
 DECL|function|guess_ref
+DECL|function|guess_remote_head
 DECL|function|handle_config
 DECL|function|make_branch
 DECL|function|make_linked_ref
