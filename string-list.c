@@ -1,5 +1,6 @@
 DECL|function|add_entry
 DECL|function|cmp_items
+DECL|function|for_each_string_list
 DECL|function|get_entry_index
 DECL|function|print_string_list
 DECL|function|sort_string_list
