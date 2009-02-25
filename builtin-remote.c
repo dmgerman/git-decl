@@ -40,8 +40,8 @@ DECL|member|old
 DECL|member|remote
 DECL|member|remote
 DECL|member|remote
-DECL|member|remote
 DECL|member|remote_branches
+DECL|member|remote_name
 DECL|member|skipped
 DECL|member|stale
 DECL|member|to_delete
