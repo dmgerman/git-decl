@@ -23,6 +23,7 @@ DECL|function|read_branches
 DECL|function|read_remote_branches
 DECL|function|remove_branches
 DECL|function|rm
+DECL|function|set_head
 DECL|function|show
 DECL|function|show_all
 DECL|function|show_list
