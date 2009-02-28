@@ -43,7 +43,6 @@ DECL|function|link_alt_odb_entries
 DECL|function|link_alt_odb_entry
 DECL|function|map_sha1_file
 DECL|function|mark_bad_packed_object
-DECL|function|matches_pack_name
 DECL|function|move_temp_to_file
 DECL|function|nth_packed_object_offset
 DECL|function|nth_packed_object_sha1

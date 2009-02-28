@@ -44,7 +44,7 @@ DECL|member|full_diff
 DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
-DECL|member|ignore_packed
+DECL|member|kept_pack_only
 DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
@@ -61,7 +61,6 @@ DECL|member|no_inline
 DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
-DECL|member|num_ignore_packed
 DECL|member|pending
 DECL|member|prefix
 DECL|member|print_parents
