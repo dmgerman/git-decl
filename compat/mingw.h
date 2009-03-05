@@ -52,10 +52,12 @@ DECL|macro|gethostbyname
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
+DECL|macro|lseek
 DECL|macro|lstat
 DECL|macro|main
 DECL|macro|mkdir
 DECL|macro|ntohl
+DECL|macro|off_t
 DECL|macro|open
 DECL|macro|open_html
 DECL|macro|printf
@@ -64,6 +66,7 @@ DECL|macro|sigemptyset
 DECL|macro|signal
 DECL|macro|socket
 DECL|macro|stat
+DECL|macro|stat64
 DECL|macro|unlink
 DECL|macro|utime
 DECL|member|events
