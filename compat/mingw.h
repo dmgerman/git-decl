@@ -41,6 +41,7 @@ DECL|macro|S_IXOTH
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
+DECL|macro|_stati64
 DECL|macro|connect
 DECL|macro|execvp
 DECL|macro|fprintf
@@ -66,7 +67,6 @@ DECL|macro|sigemptyset
 DECL|macro|signal
 DECL|macro|socket
 DECL|macro|stat
-DECL|macro|stat64
 DECL|macro|unlink
 DECL|macro|utime
 DECL|member|events
