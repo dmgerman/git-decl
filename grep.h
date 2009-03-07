@@ -26,6 +26,8 @@ DECL|member|all_match
 DECL|member|atom
 DECL|member|binary
 DECL|member|binary
+DECL|member|color
+DECL|member|color_match
 DECL|member|count
 DECL|member|extended
 DECL|member|field
