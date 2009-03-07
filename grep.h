@@ -60,6 +60,7 @@ DECL|member|u
 DECL|member|unary
 DECL|member|unmatch_name_only
 DECL|member|word_regexp
+DECL|member|word_regexp
 DECL|struct|grep_expr
 DECL|struct|grep_opt
 DECL|struct|grep_pat
