@@ -61,6 +61,8 @@ DECL|macro|isalnum
 DECL|macro|isalnum
 DECL|macro|isalpha
 DECL|macro|isalpha
+DECL|macro|isascii
+DECL|macro|isascii
 DECL|macro|isdigit
 DECL|macro|isdigit
 DECL|macro|isspace
