@@ -1,5 +1,4 @@
 DECL|function|cmd_send_pack
-DECL|function|do_send_pack
 DECL|function|feed_object
 DECL|function|pack_objects
 DECL|function|print_ok_ref_status
@@ -14,6 +13,4 @@ DECL|function|update_tracking_ref
 DECL|function|verify_remote_names
 DECL|macro|SUMMARY_WIDTH
 DECL|variable|args
-DECL|variable|remote_refs
-DECL|variable|remote_tail
 DECL|variable|send_pack_usage

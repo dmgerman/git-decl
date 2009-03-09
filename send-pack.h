@@ -1,8 +1,6 @@
 DECL|macro|SEND_PACK_H
 DECL|member|dry_run
 DECL|member|force_update
-DECL|member|receivepack
-DECL|member|send_all
 DECL|member|send_mirror
 DECL|member|use_thin_pack
 DECL|member|verbose
