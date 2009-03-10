@@ -18,6 +18,7 @@ DECL|function|process_curl_messages
 DECL|function|quote_ref_url
 DECL|function|release_active_slot
 DECL|function|run_active_slot
+DECL|function|set_from_env
 DECL|function|start_active_slot
 DECL|function|step_active_slots
 DECL|member|data
