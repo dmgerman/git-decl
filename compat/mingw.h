@@ -49,6 +49,7 @@ DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|getenv
 DECL|macro|gethostbyname
+DECL|macro|getpagesize
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
