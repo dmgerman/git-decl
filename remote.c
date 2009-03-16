@@ -24,7 +24,6 @@ DECL|function|free_refspecs
 DECL|function|get_expanded_map
 DECL|function|get_fetch_map
 DECL|function|get_local_ref
-DECL|function|get_remote_by_name
 DECL|function|get_remote_ref
 DECL|function|guess_ref
 DECL|function|handle_config
