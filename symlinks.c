@@ -15,7 +15,6 @@ DECL|macro|FL_FULLPATH
 DECL|macro|FL_LSTATERR
 DECL|macro|FL_NOENT
 DECL|macro|FL_SYMLINK
-DECL|macro|SWITCHES_BEFORE_WARNING
 DECL|macro|USE_ONLY_LSTAT
 DECL|member|flags
 DECL|member|len
@@ -27,9 +26,4 @@ DECL|member|track_flags
 DECL|struct|cache_def
 DECL|struct|removal_def
 DECL|variable|cache
-DECL|variable|cache_switches
-DECL|variable|current_cache_func
-DECL|variable|last_cache_func
-DECL|variable|number_of_warnings
 DECL|variable|removal
-DECL|variable|total_calls
