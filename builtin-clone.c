@@ -3,7 +3,6 @@ DECL|function|cmd_clone
 DECL|function|copy_or_link_directory
 DECL|function|get_repo_path
 DECL|function|guess_dir_name
-DECL|function|install_branch_config
 DECL|function|remove_junk
 DECL|function|remove_junk_on_signal
 DECL|function|setup_reference
