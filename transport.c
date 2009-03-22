@@ -18,6 +18,7 @@ DECL|function|is_file
 DECL|function|is_local
 DECL|function|read_loose_refs
 DECL|function|rsync_transport_push
+DECL|function|rsync_url
 DECL|function|set_git_option
 DECL|function|str_cmp
 DECL|function|transport_disconnect
