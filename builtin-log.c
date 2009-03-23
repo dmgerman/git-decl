@@ -13,7 +13,6 @@ DECL|function|early_output
 DECL|function|estimate_commit_count
 DECL|function|finish_early_output
 DECL|function|gen_message_id
-DECL|function|get_patch_filename
 DECL|function|get_patch_ids
 DECL|function|git_format_config
 DECL|function|git_log_config
@@ -26,7 +25,6 @@ DECL|function|show_early_header
 DECL|function|show_object
 DECL|function|show_tagger
 DECL|function|show_tree_object
-DECL|macro|FORMAT_PATCH_NAME_MAX
 DECL|macro|THREAD_DEEP
 DECL|macro|THREAD_SHALLOW
 DECL|variable|auto_number
