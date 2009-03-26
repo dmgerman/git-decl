@@ -1,5 +1,6 @@
 DECL|function|best_bisection
 DECL|function|best_bisection_sorted
+DECL|function|bisect_next_vars
 DECL|function|clear_distance
 DECL|function|compare_commit_dist
 DECL|function|count_distance
@@ -10,6 +11,8 @@ DECL|function|find_bisection
 DECL|function|halfway
 DECL|function|lookup_skipped
 DECL|function|prepare_skipped
+DECL|function|read_bisect_refs
+DECL|function|register_ref
 DECL|function|show_list
 DECL|function|skipcmp
 DECL|function|skipped_sha1_access
@@ -21,5 +24,9 @@ DECL|macro|show_list
 DECL|member|commit
 DECL|member|distance
 DECL|struct|commit_dist
+DECL|variable|rev_argv
+DECL|variable|rev_argv_alloc
+DECL|variable|rev_argv_nr
 DECL|variable|skipped_sha1
+DECL|variable|skipped_sha1_alloc
 DECL|variable|skipped_sha1_nr
