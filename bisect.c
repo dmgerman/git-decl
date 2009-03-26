@@ -5,9 +5,13 @@ DECL|function|compare_commit_dist
 DECL|function|count_distance
 DECL|function|count_interesting_parents
 DECL|function|do_find_bisection
+DECL|function|filter_skipped
 DECL|function|find_bisection
 DECL|function|halfway
+DECL|function|lookup_skipped
+DECL|function|prepare_skipped
 DECL|function|show_list
+DECL|function|skipcmp
 DECL|function|weight
 DECL|function|weight_set
 DECL|macro|COUNTED
@@ -16,3 +20,5 @@ DECL|macro|show_list
 DECL|member|commit
 DECL|member|distance
 DECL|struct|commit_dist
+DECL|variable|skipped_sha1
+DECL|variable|skipped_sha1_nr
