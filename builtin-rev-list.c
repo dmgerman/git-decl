@@ -25,7 +25,6 @@ DECL|macro|show_list
 DECL|member|commit
 DECL|member|distance
 DECL|struct|commit_dist
-DECL|variable|bisect_list
 DECL|variable|hdr_termination
 DECL|variable|header_prefix
 DECL|variable|rev_list_usage
