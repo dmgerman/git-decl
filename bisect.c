@@ -1,6 +1,7 @@
 DECL|function|best_bisection
 DECL|function|best_bisection_sorted
 DECL|function|bisect_next_vars
+DECL|function|bisect_rev_setup
 DECL|function|clear_distance
 DECL|function|compare_commit_dist
 DECL|function|count_distance
@@ -11,6 +12,7 @@ DECL|function|find_bisection
 DECL|function|halfway
 DECL|function|lookup_skipped
 DECL|function|prepare_skipped
+DECL|function|read_bisect_paths
 DECL|function|read_bisect_refs
 DECL|function|register_ref
 DECL|function|show_list
