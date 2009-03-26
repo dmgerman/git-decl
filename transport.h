@@ -17,6 +17,7 @@ DECL|member|get_refs_list
 DECL|member|pack_lockfile
 DECL|member|progress
 DECL|member|push
+DECL|member|push_refs
 DECL|member|remote
 DECL|member|remote_refs
 DECL|member|set_option
