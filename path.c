@@ -1,4 +1,3 @@
-DECL|function|adjust_shared_perm
 DECL|function|chomp_trailing_dir_sep
 DECL|function|cleanup_path
 DECL|function|enter_repo
@@ -13,6 +12,7 @@ DECL|function|make_relative_path
 DECL|function|mkpath
 DECL|function|mksnpath
 DECL|function|normalize_path_copy
+DECL|function|set_shared_perm
 DECL|function|strip_path_suffix
 DECL|function|user_path
 DECL|function|validate_headref
