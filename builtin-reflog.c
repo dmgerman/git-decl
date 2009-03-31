@@ -12,6 +12,7 @@ DECL|function|parse_expire_cfg_value
 DECL|function|reflog_expire_config
 DECL|function|set_reflog_expiry_param
 DECL|function|tree_is_complete
+DECL|function|unreachable
 DECL|macro|EXPIRE_TOTAL
 DECL|macro|EXPIRE_UNREACH
 DECL|macro|INCOMPLETE
