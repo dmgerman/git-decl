@@ -35,6 +35,7 @@ DECL|variable|cherry_usage
 DECL|variable|default_attach
 DECL|variable|default_date_mode
 DECL|variable|default_show_root
+DECL|variable|do_signoff
 DECL|variable|early_output_timer
 DECL|variable|extra_cc
 DECL|variable|extra_cc_alloc
