@@ -15,6 +15,7 @@ DECL|function|http_fetch_ref
 DECL|function|http_init
 DECL|function|http_options
 DECL|function|init_curl_http_auth
+DECL|function|ioctl_buffer
 DECL|function|needs_quote
 DECL|function|process_curl_messages
 DECL|function|quote_ref_url
