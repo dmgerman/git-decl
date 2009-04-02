@@ -44,7 +44,6 @@ DECL|member|full_diff
 DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
-DECL|member|kept_pack_only
 DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
