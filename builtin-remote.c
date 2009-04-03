@@ -32,6 +32,7 @@ DECL|function|mv
 DECL|function|opt_parse_track
 DECL|function|postfixcmp
 DECL|function|prune
+DECL|function|prune_remote
 DECL|function|read_branches
 DECL|function|read_remote_branches
 DECL|function|remove_branches
