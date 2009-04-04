@@ -12,6 +12,7 @@ DECL|function|lookup_skipped
 DECL|function|prepare_skipped
 DECL|function|show_list
 DECL|function|skipcmp
+DECL|function|skipped_sha1_access
 DECL|function|weight
 DECL|function|weight_set
 DECL|macro|COUNTED
