@@ -12,8 +12,6 @@ DECL|function|create_tmpfile
 DECL|function|directory_size
 DECL|function|fill_sha1_path
 DECL|function|find_cached_object
-DECL|function|find_kept_pack_entry
-DECL|function|find_pack_ent
 DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_pack
@@ -31,7 +29,6 @@ DECL|function|has_pack_file
 DECL|function|has_pack_index
 DECL|function|has_packed_and_bad
 DECL|function|has_sha1_file
-DECL|function|has_sha1_kept_pack
 DECL|function|has_sha1_pack
 DECL|function|hash_sha1_file
 DECL|function|in_window

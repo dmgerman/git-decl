@@ -14,6 +14,7 @@ DECL|function|add_remote_to_show_info
 DECL|function|append_ref_to_tracked_list
 DECL|function|clear_push_info
 DECL|function|cmd_remote
+DECL|function|cmp_string_with_push
 DECL|function|config_read_branches
 DECL|function|fetch_remote
 DECL|function|free_remote_ref_states

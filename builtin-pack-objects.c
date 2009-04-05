@@ -21,6 +21,7 @@ DECL|function|get_delta
 DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
+DECL|function|has_sha1_pack_kept_or_nonlocal
 DECL|function|ll_find_deltas
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
