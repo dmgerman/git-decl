@@ -165,6 +165,7 @@ DECL|macro|active_nr
 DECL|macro|add_cache_entry
 DECL|macro|add_file_to_cache
 DECL|macro|add_to_cache
+DECL|macro|adjust_shared_perm
 DECL|macro|alloc_nr
 DECL|macro|cache_entry_size
 DECL|macro|cache_name_exists
