@@ -49,6 +49,7 @@ DECL|function|ref_remove_duplicates
 DECL|function|remote_find_tracking
 DECL|function|remote_get
 DECL|function|remote_has_url
+DECL|function|remote_is_configured
 DECL|function|resolve_remote_symref
 DECL|function|stat_tracking_info
 DECL|function|tail_link_ref
