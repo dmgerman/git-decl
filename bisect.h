@@ -2,3 +2,8 @@ DECL|macro|BISECT_H
 DECL|macro|BISECT_SHOW_ALL
 DECL|macro|BISECT_SHOW_STRINGED
 DECL|macro|BISECT_SHOW_TRIED
+DECL|member|hdr_termination
+DECL|member|header_prefix
+DECL|member|revs
+DECL|member|show_timestamp
+DECL|struct|rev_list_info
