@@ -61,6 +61,8 @@ DECL|member|no_inline
 DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
+DECL|member|numbered_files
+DECL|member|patch_suffix
 DECL|member|pending
 DECL|member|prefix
 DECL|member|print_parents
