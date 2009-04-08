@@ -1,6 +1,7 @@
 DECL|function|add_config
 DECL|function|add_files
 DECL|function|cmd_add
+DECL|function|edit_patch
 DECL|function|fill_directory
 DECL|function|fill_pathspec_matches
 DECL|function|interactive_add
@@ -12,6 +13,7 @@ DECL|variable|add_interactive
 DECL|variable|addremove
 DECL|variable|builtin_add_options
 DECL|variable|builtin_add_usage
+DECL|variable|edit_interactive
 DECL|variable|ignore_add_errors
 DECL|variable|ignore_error
 DECL|variable|ignored_too
