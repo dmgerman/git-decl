@@ -65,6 +65,7 @@ DECL|function|update_remote_info_refs
 DECL|function|verify_merge_base
 DECL|function|xml_cdata
 DECL|function|xml_end_tag
+DECL|function|xml_entities
 DECL|function|xml_start_tag
 DECL|macro|DAV_ACTIVELOCK_OWNER
 DECL|macro|DAV_ACTIVELOCK_TIMEOUT
