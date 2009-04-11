@@ -76,6 +76,7 @@ DECL|function|parse_whitespace_option
 DECL|function|patch_stats
 DECL|function|prefix_one
 DECL|function|prefix_patches
+DECL|function|prepare_fn_table
 DECL|function|prepare_image
 DECL|function|read_file_or_gitlink
 DECL|function|read_old_data
@@ -94,11 +95,13 @@ DECL|function|show_stats
 DECL|function|stat_patch_list
 DECL|function|stop_at_slash
 DECL|function|summary_patch_list
+DECL|function|to_be_deleted
 DECL|function|try_create_file
 DECL|function|update_image
 DECL|function|update_pre_post_images
 DECL|function|use_patch
 DECL|function|verify_index_match
+DECL|function|was_deleted
 DECL|function|write_out_one_reject
 DECL|function|write_out_one_result
 DECL|function|write_out_results
@@ -107,6 +110,8 @@ DECL|macro|BINARY_LITERAL_DEFLATED
 DECL|macro|CHUNKSIZE
 DECL|macro|INACCURATE_EOF
 DECL|macro|LINE_COMMON
+DECL|macro|PATH_TO_BE_DELETED
+DECL|macro|PATH_WAS_DELETED
 DECL|macro|RECOUNT
 DECL|macro|SLOP
 DECL|macro|TERM_SPACE
