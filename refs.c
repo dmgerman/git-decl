@@ -16,6 +16,7 @@ DECL|function|for_each_branch_ref
 DECL|function|for_each_rawref
 DECL|function|for_each_recent_reflog_ent
 DECL|function|for_each_ref
+DECL|function|for_each_ref_in
 DECL|function|for_each_reflog
 DECL|function|for_each_reflog_ent
 DECL|function|for_each_remote_ref
