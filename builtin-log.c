@@ -13,11 +13,9 @@ DECL|function|early_output
 DECL|function|estimate_commit_count
 DECL|function|finish_early_output
 DECL|function|gen_message_id
-DECL|function|get_oneline_for_filename
 DECL|function|get_patch_ids
 DECL|function|git_format_config
 DECL|function|git_log_config
-DECL|function|istitlechar
 DECL|function|log_show_early
 DECL|function|make_cover_letter
 DECL|function|reopen_stdout
@@ -27,11 +25,14 @@ DECL|function|show_early_header
 DECL|function|show_object
 DECL|function|show_tagger
 DECL|function|show_tree_object
-DECL|macro|FORMAT_PATCH_NAME_MAX
+DECL|macro|THREAD_DEEP
+DECL|macro|THREAD_SHALLOW
 DECL|variable|auto_number
 DECL|variable|cherry_usage
+DECL|variable|default_attach
 DECL|variable|default_date_mode
 DECL|variable|default_show_root
+DECL|variable|do_signoff
 DECL|variable|early_output_timer
 DECL|variable|extra_cc
 DECL|variable|extra_cc_alloc
@@ -49,3 +50,4 @@ DECL|variable|numbered
 DECL|variable|outdir_offset
 DECL|variable|output_directory
 DECL|variable|realstdout
+DECL|variable|thread

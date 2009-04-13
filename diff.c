@@ -73,6 +73,7 @@ DECL|function|free_diffstat_info
 DECL|function|free_filespec
 DECL|function|gather_dirstat
 DECL|function|get_textconv
+DECL|function|git_config_rename
 DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
 DECL|function|is_conflict_marker

@@ -29,6 +29,11 @@ DECL|enumerator|OLD_PERM_GROUP
 DECL|enumerator|PERM_EVERYBODY
 DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
+DECL|enumerator|PUSH_DEFAULT_CURRENT
+DECL|enumerator|PUSH_DEFAULT_MATCHING
+DECL|enumerator|PUSH_DEFAULT_NOTHING
+DECL|enumerator|PUSH_DEFAULT_TRACKING
+DECL|enumerator|PUSH_DEFAULT_UNSPECIFIED
 DECL|enumerator|REF_STATUS_EXPECTING_REPORT
 DECL|enumerator|REF_STATUS_NONE
 DECL|enumerator|REF_STATUS_OK
@@ -42,6 +47,7 @@ DECL|enumerator|SAFE_CRLF_WARN
 DECL|enum|branch_track
 DECL|enum|date_mode
 DECL|enum|object_type
+DECL|enum|push_default_type
 DECL|enum|rebase_setup_type
 DECL|enum|safe_crlf
 DECL|enum|sharedrepo

@@ -8,13 +8,16 @@ DECL|function|expire_reflog
 DECL|function|expire_reflog_ent
 DECL|function|find_cfg_ent
 DECL|function|keep_entry
+DECL|function|mark_reachable
 DECL|function|parse_expire_cfg_value
 DECL|function|reflog_expire_config
 DECL|function|set_reflog_expiry_param
 DECL|function|tree_is_complete
+DECL|function|unreachable
 DECL|macro|EXPIRE_TOTAL
 DECL|macro|EXPIRE_UNREACH
 DECL|macro|INCOMPLETE
+DECL|macro|REACHABLE
 DECL|macro|STUDYING
 DECL|member|alloc
 DECL|member|cmd

@@ -16,11 +16,13 @@ DECL|function|for_each_branch_ref
 DECL|function|for_each_rawref
 DECL|function|for_each_recent_reflog_ent
 DECL|function|for_each_ref
+DECL|function|for_each_ref_in
 DECL|function|for_each_reflog
 DECL|function|for_each_reflog_ent
 DECL|function|for_each_remote_ref
 DECL|function|for_each_tag_ref
 DECL|function|free_ref_list
+DECL|function|gen_scanf_fmt
 DECL|function|get_loose_refs
 DECL|function|get_packed_refs
 DECL|function|get_ref_dir
@@ -34,6 +36,7 @@ DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_write
 DECL|function|parse_ref_line
 DECL|function|peel_ref
+DECL|function|prettify_ref
 DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
@@ -46,6 +49,7 @@ DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref
+DECL|function|shorten_unambiguous_ref
 DECL|function|sort_ref_list
 DECL|function|unlock_ref
 DECL|function|update_ref

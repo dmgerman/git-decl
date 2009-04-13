@@ -9,15 +9,19 @@ DECL|function|fwrite_null
 DECL|function|get_active_slot
 DECL|function|get_curl_handle
 DECL|function|hex
+DECL|function|http_auth_init
 DECL|function|http_cleanup
 DECL|function|http_fetch_ref
 DECL|function|http_init
 DECL|function|http_options
+DECL|function|init_curl_http_auth
+DECL|function|ioctl_buffer
 DECL|function|needs_quote
 DECL|function|process_curl_messages
 DECL|function|quote_ref_url
 DECL|function|release_active_slot
 DECL|function|run_active_slot
+DECL|function|set_from_env
 DECL|function|start_active_slot
 DECL|function|step_active_slots
 DECL|member|data
@@ -42,3 +46,5 @@ DECL|variable|ssl_cainfo
 DECL|variable|ssl_capath
 DECL|variable|ssl_cert
 DECL|variable|ssl_key
+DECL|variable|user_name
+DECL|variable|user_pass

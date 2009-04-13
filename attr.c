@@ -1,10 +1,12 @@
 DECL|function|bootstrap_attr_stack
 DECL|function|debug_info
 DECL|function|debug_set
+DECL|function|drop_attr_stack
 DECL|function|fill
 DECL|function|fill_one
 DECL|function|free_attr_elem
 DECL|function|git_attr
+DECL|function|git_attr_set_direction
 DECL|function|git_checkattr
 DECL|function|handle_attr_line
 DECL|function|hash_name
@@ -17,6 +19,7 @@ DECL|function|prepare_attr_stack
 DECL|function|read_attr
 DECL|function|read_attr_from_array
 DECL|function|read_attr_from_file
+DECL|function|read_attr_from_index
 DECL|function|read_index_data
 DECL|macro|ATTR__FALSE
 DECL|macro|ATTR__TRUE
@@ -24,6 +27,7 @@ DECL|macro|ATTR__UNKNOWN
 DECL|macro|ATTR__UNSET
 DECL|macro|DEBUG_ATTR
 DECL|macro|HASHSIZE
+DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|macro|debug_pop
 DECL|macro|debug_pop
 DECL|macro|debug_push
@@ -55,7 +59,9 @@ DECL|variable|attr_stack
 DECL|variable|blank
 DECL|variable|builtin_attr
 DECL|variable|check_all_attr
+DECL|variable|direction
 DECL|variable|git_attr__false
 DECL|variable|git_attr__true
 DECL|variable|git_attr__unknown
 DECL|variable|git_attr_hash
+DECL|variable|use_index
