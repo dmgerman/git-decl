@@ -23,6 +23,8 @@ DECL|macro|REVERSED
 DECL|macro|SHOW_SYMBOLIC_ASIS
 DECL|macro|SHOW_SYMBOLIC_FULL
 DECL|variable|abbrev
+DECL|variable|abbrev_ref
+DECL|variable|abbrev_ref_strict
 DECL|variable|def
 DECL|variable|filter
 DECL|variable|output_sq
