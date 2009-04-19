@@ -4,6 +4,9 @@ DECL|function|exp2i
 DECL|function|finish_commit
 DECL|function|finish_object
 DECL|function|log2i
+DECL|function|print_commit_list
+DECL|function|print_var_int
+DECL|function|print_var_str
 DECL|function|show_bisect_vars
 DECL|function|show_commit
 DECL|function|show_edge
