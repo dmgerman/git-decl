@@ -3,7 +3,6 @@ DECL|function|best_bisection_sorted
 DECL|function|bisect_checkout
 DECL|function|bisect_common
 DECL|function|bisect_next_exit
-DECL|function|bisect_next_vars
 DECL|function|bisect_rev_setup
 DECL|function|clear_distance
 DECL|function|compare_commit_dist
