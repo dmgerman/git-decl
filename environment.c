@@ -8,6 +8,7 @@ DECL|function|is_bare_repository
 DECL|function|set_git_dir
 DECL|function|set_git_work_tree
 DECL|function|setup_git_env
+DECL|macro|UNRELIABLE_HARDLINKS
 DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
@@ -46,6 +47,7 @@ DECL|variable|safe_crlf
 DECL|variable|shared_repository
 DECL|variable|trust_ctime
 DECL|variable|trust_executable_bit
+DECL|variable|unreliable_hardlinks
 DECL|variable|user_ident_explicitly_given
 DECL|variable|warn_ambiguous_refs
 DECL|variable|whitespace_rule_cfg
