@@ -8,7 +8,7 @@ DECL|function|is_bare_repository
 DECL|function|set_git_dir
 DECL|function|set_git_work_tree
 DECL|function|setup_git_env
-DECL|macro|UNRELIABLE_HARDLINKS
+DECL|macro|OBJECT_CREATION_MODE
 DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
@@ -36,6 +36,7 @@ DECL|variable|has_symlinks
 DECL|variable|ignore_case
 DECL|variable|is_bare_repository_cfg
 DECL|variable|log_all_ref_updates
+DECL|variable|object_creation_mode
 DECL|variable|packed_git_limit
 DECL|variable|packed_git_window_size
 DECL|variable|pager_program
@@ -47,7 +48,6 @@ DECL|variable|safe_crlf
 DECL|variable|shared_repository
 DECL|variable|trust_ctime
 DECL|variable|trust_executable_bit
-DECL|variable|unreliable_hardlinks
 DECL|variable|user_ident_explicitly_given
 DECL|variable|warn_ambiguous_refs
 DECL|variable|whitespace_rule_cfg

@@ -14,6 +14,8 @@ DECL|enumerator|DATE_RAW
 DECL|enumerator|DATE_RELATIVE
 DECL|enumerator|DATE_RFC2822
 DECL|enumerator|DATE_SHORT
+DECL|enumerator|OBJECT_CREATION_USES_HARDLINKS
+DECL|enumerator|OBJECT_CREATION_USES_RENAMES
 DECL|enumerator|OBJ_ANY
 DECL|enumerator|OBJ_BAD
 DECL|enumerator|OBJ_BLOB
@@ -46,6 +48,7 @@ DECL|enumerator|SAFE_CRLF_FALSE
 DECL|enumerator|SAFE_CRLF_WARN
 DECL|enum|branch_track
 DECL|enum|date_mode
+DECL|enum|object_creation_mode
 DECL|enum|object_type
 DECL|enum|push_default_type
 DECL|enum|rebase_setup_type
