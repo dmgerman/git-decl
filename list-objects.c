@@ -1,3 +1,4 @@
+DECL|function|add_pending_tree
 DECL|function|mark_edge_parents_uninteresting
 DECL|function|mark_edges_uninteresting
 DECL|function|process_blob
