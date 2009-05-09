@@ -7,6 +7,8 @@ DECL|function|bisect_checkout
 DECL|function|bisect_common
 DECL|function|bisect_next_exit
 DECL|function|bisect_rev_setup
+DECL|function|check_ancestors
+DECL|function|check_good_are_ancestors_of_bad
 DECL|function|check_merge_bases
 DECL|function|clear_distance
 DECL|function|compare_commit_dist
