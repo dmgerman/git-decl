@@ -20,6 +20,7 @@ DECL|function|read_bisect_paths
 DECL|function|read_bisect_refs
 DECL|function|register_ref
 DECL|function|rev_argv_push
+DECL|function|sha1_array_push
 DECL|function|show_list
 DECL|function|skipcmp
 DECL|function|skipped_sha1_access
@@ -39,6 +40,7 @@ DECL|variable|argv_checkout
 DECL|variable|argv_diff_tree
 DECL|variable|argv_show_branch
 DECL|variable|current_bad_sha1
+DECL|variable|good_revs
 DECL|variable|rev_argv
 DECL|variable|rev_argv_alloc
 DECL|variable|rev_argv_nr
