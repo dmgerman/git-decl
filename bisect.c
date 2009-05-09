@@ -1,5 +1,6 @@
 DECL|function|argv_array_push
 DECL|function|argv_array_push_sha1
+DECL|function|array_cmp
 DECL|function|best_bisection
 DECL|function|best_bisection_sorted
 DECL|function|bisect_checkout
@@ -15,16 +16,15 @@ DECL|function|exit_if_skipped_commits
 DECL|function|filter_skipped
 DECL|function|find_bisection
 DECL|function|halfway
-DECL|function|lookup_skipped
+DECL|function|lookup_sha1_array
 DECL|function|mark_expected_rev
-DECL|function|prepare_skipped
 DECL|function|read_bisect_paths
 DECL|function|read_bisect_refs
 DECL|function|register_ref
+DECL|function|sha1_access
 DECL|function|sha1_array_push
 DECL|function|show_list
-DECL|function|skipcmp
-DECL|function|skipped_sha1_access
+DECL|function|sort_sha1_array
 DECL|function|weight
 DECL|function|weight_set
 DECL|macro|COUNTED
