@@ -29,7 +29,11 @@ DECL|macro|DEBUG_BISECT
 DECL|macro|show_list
 DECL|member|commit
 DECL|member|distance
+DECL|member|sha1
+DECL|member|sha1_alloc
+DECL|member|sha1_nr
 DECL|struct|commit_dist
+DECL|struct|sha1_array
 DECL|variable|argv_checkout
 DECL|variable|argv_diff_tree
 DECL|variable|argv_show_branch
@@ -37,6 +41,4 @@ DECL|variable|current_bad_sha1
 DECL|variable|rev_argv
 DECL|variable|rev_argv_alloc
 DECL|variable|rev_argv_nr
-DECL|variable|skipped_sha1
-DECL|variable|skipped_sha1_alloc
-DECL|variable|skipped_sha1_nr
+DECL|variable|skipped_revs
