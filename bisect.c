@@ -1,3 +1,5 @@
+DECL|function|argv_array_push
+DECL|function|argv_array_push_sha1
 DECL|function|best_bisection
 DECL|function|best_bisection_sorted
 DECL|function|bisect_checkout
@@ -19,7 +21,6 @@ DECL|function|prepare_skipped
 DECL|function|read_bisect_paths
 DECL|function|read_bisect_refs
 DECL|function|register_ref
-DECL|function|rev_argv_push
 DECL|function|sha1_array_push
 DECL|function|show_list
 DECL|function|skipcmp
@@ -29,11 +30,15 @@ DECL|function|weight_set
 DECL|macro|COUNTED
 DECL|macro|DEBUG_BISECT
 DECL|macro|show_list
+DECL|member|argv
+DECL|member|argv_alloc
+DECL|member|argv_nr
 DECL|member|commit
 DECL|member|distance
 DECL|member|sha1
 DECL|member|sha1_alloc
 DECL|member|sha1_nr
+DECL|struct|argv_array
 DECL|struct|commit_dist
 DECL|struct|sha1_array
 DECL|variable|argv_checkout
@@ -42,6 +47,4 @@ DECL|variable|argv_show_branch
 DECL|variable|current_bad_sha1
 DECL|variable|good_revs
 DECL|variable|rev_argv
-DECL|variable|rev_argv_alloc
-DECL|variable|rev_argv_nr
 DECL|variable|skipped_revs
