@@ -19,6 +19,7 @@ DECL|function|prepare_skipped
 DECL|function|read_bisect_paths
 DECL|function|read_bisect_refs
 DECL|function|register_ref
+DECL|function|rev_argv_push
 DECL|function|show_list
 DECL|function|skipcmp
 DECL|function|skipped_sha1_access
