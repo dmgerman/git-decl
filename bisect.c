@@ -38,6 +38,7 @@ DECL|member|distance
 DECL|member|sha1
 DECL|member|sha1_alloc
 DECL|member|sha1_nr
+DECL|member|sorted
 DECL|struct|argv_array
 DECL|struct|commit_dist
 DECL|struct|sha1_array
