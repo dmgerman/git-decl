@@ -1,6 +1,6 @@
 DECL|function|append_to_tree
+DECL|function|cmd_mktree
 DECL|function|ent_compare
-DECL|function|main
 DECL|function|write_tree
 DECL|member|len
 DECL|member|mode
