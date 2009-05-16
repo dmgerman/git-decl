@@ -1,5 +1,7 @@
 DECL|function|add_header
 DECL|function|add_pending_commit
+DECL|function|attach_callback
+DECL|function|cc_callback
 DECL|function|clean_message_id
 DECL|function|cmd_cherry
 DECL|function|cmd_format_patch
@@ -16,8 +18,14 @@ DECL|function|gen_message_id
 DECL|function|get_patch_ids
 DECL|function|git_format_config
 DECL|function|git_log_config
+DECL|function|header_callback
+DECL|function|inline_callback
+DECL|function|keep_callback
 DECL|function|log_show_early
 DECL|function|make_cover_letter
+DECL|function|no_numbered_callback
+DECL|function|numbered_callback
+DECL|function|output_directory_callback
 DECL|function|reopen_stdout
 DECL|function|set_outdir
 DECL|function|setup_early_output
@@ -25,9 +33,12 @@ DECL|function|show_early_header
 DECL|function|show_object
 DECL|function|show_tagger
 DECL|function|show_tree_object
+DECL|function|subject_prefix_callback
+DECL|function|thread_callback
 DECL|macro|THREAD_DEEP
 DECL|macro|THREAD_SHALLOW
 DECL|variable|auto_number
+DECL|variable|builtin_format_patch_usage
 DECL|variable|cherry_usage
 DECL|variable|default_attach
 DECL|variable|default_date_mode
@@ -46,8 +57,10 @@ DECL|variable|extra_to_nr
 DECL|variable|fmt_patch_subject_prefix
 DECL|variable|fmt_patch_suffix
 DECL|variable|fmt_pretty
+DECL|variable|keep_subject
 DECL|variable|numbered
 DECL|variable|outdir_offset
 DECL|variable|output_directory
 DECL|variable|realstdout
+DECL|variable|subject_prefix
 DECL|variable|thread
