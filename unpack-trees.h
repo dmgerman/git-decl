@@ -3,6 +3,7 @@ DECL|macro|UNPACK_TREES_H
 DECL|member|aggressive
 DECL|member|bind_overlap
 DECL|member|df_conflict_entry
+DECL|member|diff_index_cached
 DECL|member|dir
 DECL|member|dst_index
 DECL|member|fn
