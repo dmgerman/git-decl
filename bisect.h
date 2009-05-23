@@ -1,6 +1,5 @@
 DECL|macro|BISECT_H
 DECL|macro|BISECT_SHOW_ALL
-DECL|macro|BISECT_SHOW_STRINGED
 DECL|macro|BISECT_SHOW_TRIED
 DECL|member|bisect_show_flags
 DECL|member|hdr_termination
