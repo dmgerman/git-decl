@@ -59,6 +59,7 @@ DECL|member|help
 DECL|member|long_name
 DECL|member|opt
 DECL|member|out
+DECL|member|prefix
 DECL|member|short_name
 DECL|member|type
 DECL|member|value
