@@ -36,7 +36,7 @@ DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_write
 DECL|function|parse_ref_line
 DECL|function|peel_ref
-DECL|function|prettify_ref
+DECL|function|prettify_refname
 DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
