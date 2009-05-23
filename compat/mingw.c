@@ -7,6 +7,7 @@ DECL|function|filetime_to_time_t
 DECL|function|free_environ
 DECL|function|free_path_split
 DECL|function|get_path_split
+DECL|function|getpass
 DECL|function|getpwuid
 DECL|function|gettimeofday
 DECL|function|gmtime_r
