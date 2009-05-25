@@ -18,6 +18,8 @@ DECL|function|unlock_pack_on_signal
 DECL|function|update_local_ref
 DECL|function|will_fetch
 DECL|macro|REFCOL_WIDTH
+DECL|macro|STORE_REF_ERROR_DF_CONFLICT
+DECL|macro|STORE_REF_ERROR_OTHER
 DECL|macro|SUMMARY_WIDTH
 DECL|variable|append
 DECL|variable|builtin_fetch_options
