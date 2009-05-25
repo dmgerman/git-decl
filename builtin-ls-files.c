@@ -1,4 +1,8 @@
 DECL|function|cmd_ls_files
+DECL|function|option_parse_exclude
+DECL|function|option_parse_exclude_from
+DECL|function|option_parse_exclude_standard
+DECL|function|option_parse_z
 DECL|function|overlay_tree_on_cache
 DECL|function|prune_cache
 DECL|function|report_path_error
@@ -11,6 +15,7 @@ DECL|function|strip_trailing_slash_from_submodules
 DECL|function|verify_pathspec
 DECL|variable|abbrev
 DECL|variable|error_unmatch
+DECL|variable|exc_given
 DECL|variable|line_terminator
 DECL|variable|ls_files_usage
 DECL|variable|pathspec

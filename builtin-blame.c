@@ -13,6 +13,7 @@ DECL|function|copy_split_if_better
 DECL|function|decref_split
 DECL|function|drop_origin_blob
 DECL|function|dup_entry
+DECL|function|emit_one_suspect_detail
 DECL|function|emit_other
 DECL|function|emit_porcelain
 DECL|function|ent_score
@@ -108,6 +109,7 @@ DECL|member|path
 DECL|member|plno
 DECL|member|plno
 DECL|member|prev
+DECL|member|previous
 DECL|member|refcnt
 DECL|member|revs
 DECL|member|s_lno
@@ -130,6 +132,8 @@ DECL|struct|handle_split_cb_data
 DECL|struct|origin
 DECL|struct|scoreboard
 DECL|variable|blame_copy_score
+DECL|variable|blame_date_mode
+DECL|variable|blame_date_width
 DECL|variable|blame_move_score
 DECL|variable|blame_opt_usage
 DECL|variable|blame_usage

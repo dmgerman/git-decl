@@ -7,7 +7,6 @@ DECL|function|getppid
 DECL|function|getpwnam
 DECL|function|getuid
 DECL|function|git_ntohl
-DECL|function|link
 DECL|function|mingw_mkdir
 DECL|function|mingw_unlink
 DECL|function|readlink
@@ -41,6 +40,7 @@ DECL|macro|S_IXOTH
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
+DECL|macro|_stati64
 DECL|macro|connect
 DECL|macro|execvp
 DECL|macro|fprintf
@@ -49,13 +49,16 @@ DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|getenv
 DECL|macro|gethostbyname
+DECL|macro|getpagesize
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
+DECL|macro|lseek
 DECL|macro|lstat
 DECL|macro|main
 DECL|macro|mkdir
 DECL|macro|ntohl
+DECL|macro|off_t
 DECL|macro|open
 DECL|macro|open_html
 DECL|macro|printf

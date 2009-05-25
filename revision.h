@@ -61,13 +61,15 @@ DECL|member|no_inline
 DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|nr
+DECL|member|numbered_files
+DECL|member|patch_suffix
 DECL|member|pending
 DECL|member|prefix
 DECL|member|print_parents
 DECL|member|prune
 DECL|member|prune_data
 DECL|member|pruning
-DECL|member|ref_message_id
+DECL|member|ref_message_ids
 DECL|member|reflog_info
 DECL|member|remove_empty_trees
 DECL|member|reverse

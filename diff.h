@@ -65,6 +65,9 @@ DECL|macro|DIFF_STATUS_RENAMED
 DECL|macro|DIFF_STATUS_TYPE_CHANGED
 DECL|macro|DIFF_STATUS_UNKNOWN
 DECL|macro|DIFF_STATUS_UNMERGED
+DECL|macro|DIFF_XDL_CLR
+DECL|macro|DIFF_XDL_SET
+DECL|macro|DIFF_XDL_TST
 DECL|macro|combine_diff_path_size
 DECL|macro|diff_get_color_opt
 DECL|member|a_prefix

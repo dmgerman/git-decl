@@ -30,8 +30,7 @@ DECL|member|next
 DECL|member|old_sha1
 DECL|member|ref_name
 DECL|struct|command
-DECL|variable|capabilities
-DECL|variable|capabilities_sent
+DECL|variable|capabilities_to_send
 DECL|variable|commands
 DECL|variable|deny_current_branch
 DECL|variable|deny_delete_current
@@ -41,6 +40,7 @@ DECL|variable|head_name
 DECL|variable|pack_lockfile
 DECL|variable|post_receive_hook
 DECL|variable|pre_receive_hook
+DECL|variable|prefer_ofs_delta
 DECL|variable|receive_fsck_objects
 DECL|variable|receive_pack_usage
 DECL|variable|receive_unpack_limit

@@ -14,6 +14,8 @@ DECL|enumerator|DATE_RAW
 DECL|enumerator|DATE_RELATIVE
 DECL|enumerator|DATE_RFC2822
 DECL|enumerator|DATE_SHORT
+DECL|enumerator|OBJECT_CREATION_USES_HARDLINKS
+DECL|enumerator|OBJECT_CREATION_USES_RENAMES
 DECL|enumerator|OBJ_ANY
 DECL|enumerator|OBJ_BAD
 DECL|enumerator|OBJ_BLOB
@@ -29,6 +31,11 @@ DECL|enumerator|OLD_PERM_GROUP
 DECL|enumerator|PERM_EVERYBODY
 DECL|enumerator|PERM_GROUP
 DECL|enumerator|PERM_UMASK
+DECL|enumerator|PUSH_DEFAULT_CURRENT
+DECL|enumerator|PUSH_DEFAULT_MATCHING
+DECL|enumerator|PUSH_DEFAULT_NOTHING
+DECL|enumerator|PUSH_DEFAULT_TRACKING
+DECL|enumerator|PUSH_DEFAULT_UNSPECIFIED
 DECL|enumerator|REF_STATUS_EXPECTING_REPORT
 DECL|enumerator|REF_STATUS_NONE
 DECL|enumerator|REF_STATUS_OK
@@ -41,7 +48,9 @@ DECL|enumerator|SAFE_CRLF_FALSE
 DECL|enumerator|SAFE_CRLF_WARN
 DECL|enum|branch_track
 DECL|enum|date_mode
+DECL|enum|object_creation_mode
 DECL|enum|object_type
+DECL|enum|push_default_type
 DECL|enum|rebase_setup_type
 DECL|enum|safe_crlf
 DECL|enum|sharedrepo

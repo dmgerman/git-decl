@@ -8,6 +8,7 @@ DECL|function|arc4_getbyte
 DECL|function|arc4_init
 DECL|function|buffer_gets
 DECL|function|count_messages
+DECL|function|encode_html_chars
 DECL|function|free_generic_messages
 DECL|function|free_list
 DECL|function|get_cmd_result
@@ -42,6 +43,7 @@ DECL|function|split_msg
 DECL|function|ssl_socket_connect
 DECL|function|ssl_socket_perror
 DECL|function|v_issue_imap_cmd
+DECL|function|wrap_in_html
 DECL|macro|CAP
 DECL|macro|CHUNKSIZE
 DECL|macro|DRV_BOX_BAD
@@ -146,6 +148,7 @@ DECL|member|uid
 DECL|member|uidnext
 DECL|member|uidvalidity
 DECL|member|uidvalidity
+DECL|member|use_html
 DECL|member|use_namespace
 DECL|member|use_ssl
 DECL|member|user

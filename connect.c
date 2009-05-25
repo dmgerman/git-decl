@@ -25,6 +25,4 @@ DECL|macro|STR
 DECL|macro|STR_
 DECL|variable|git_proxy_command
 DECL|variable|no_fork
-DECL|variable|rhost_len
-DECL|variable|rhost_name
 DECL|variable|server_capabilities

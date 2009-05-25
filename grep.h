@@ -26,6 +26,9 @@ DECL|member|all_match
 DECL|member|atom
 DECL|member|binary
 DECL|member|binary
+DECL|member|color
+DECL|member|color_external
+DECL|member|color_match
 DECL|member|count
 DECL|member|extended
 DECL|member|field
@@ -59,6 +62,7 @@ DECL|member|token
 DECL|member|u
 DECL|member|unary
 DECL|member|unmatch_name_only
+DECL|member|word_regexp
 DECL|member|word_regexp
 DECL|struct|grep_expr
 DECL|struct|grep_opt

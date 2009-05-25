@@ -31,7 +31,6 @@ DECL|function|fwrite_sha1_file
 DECL|function|get_dav_remote_heads
 DECL|function|get_dav_token_headers
 DECL|function|get_delta
-DECL|function|get_local_heads
 DECL|function|get_remote_object_list
 DECL|function|get_remote_object_url
 DECL|function|handle_lockprop_ctx
@@ -41,7 +40,6 @@ DECL|function|is_zero_sha1
 DECL|function|lock_remote
 DECL|function|locking_available
 DECL|function|main
-DECL|function|one_local_ref
 DECL|function|one_remote_object
 DECL|function|one_remote_ref
 DECL|function|process_blob
@@ -49,7 +47,6 @@ DECL|function|process_ls_object
 DECL|function|process_ls_ref
 DECL|function|process_response
 DECL|function|process_tree
-DECL|function|ref_newer
 DECL|function|refresh_lock
 DECL|function|release_request
 DECL|function|remote_exists
@@ -63,12 +60,12 @@ DECL|function|start_mkcol
 DECL|function|start_move
 DECL|function|start_put
 DECL|function|unlock_remote
-DECL|function|unmark_and_free
 DECL|function|update_remote
 DECL|function|update_remote_info_refs
 DECL|function|verify_merge_base
 DECL|function|xml_cdata
 DECL|function|xml_end_tag
+DECL|function|xml_entities
 DECL|function|xml_start_tag
 DECL|macro|DAV_ACTIVELOCK_OWNER
 DECL|macro|DAV_ACTIVELOCK_TIMEOUT
@@ -166,15 +163,13 @@ DECL|variable|aborted
 DECL|variable|dry_run
 DECL|variable|force_all
 DECL|variable|http_push_usage
-DECL|variable|local_refs
-DECL|variable|local_tail
 DECL|variable|no_pragma_header
 DECL|variable|objects
 DECL|variable|push_all
 DECL|variable|push_verbosely
 DECL|variable|pushing
-DECL|variable|remote
 DECL|variable|remote_dir_exists
 DECL|variable|remote_refs
 DECL|variable|remote_tail
+DECL|variable|repo
 DECL|variable|request_queue_head
