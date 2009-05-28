@@ -32,6 +32,7 @@ DECL|function|read_bisect_refs
 DECL|function|register_ref
 DECL|function|sha1_access
 DECL|function|sha1_array_push
+DECL|function|show_diff_tree
 DECL|function|show_list
 DECL|function|sort_sha1_array
 DECL|function|weight
@@ -52,7 +53,6 @@ DECL|struct|argv_array
 DECL|struct|commit_dist
 DECL|struct|sha1_array
 DECL|variable|argv_checkout
-DECL|variable|argv_diff_tree
 DECL|variable|argv_show_branch
 DECL|variable|current_bad_sha1
 DECL|variable|good_revs
