@@ -28,6 +28,8 @@ DECL|function|reduce_heads
 DECL|function|register_commit_graft
 DECL|function|sort_by_date
 DECL|function|sort_in_topological_order
+DECL|function|unparse_commit
+DECL|function|unparse_commit_list
 DECL|function|unregister_shallow
 DECL|function|write_shallow_commits
 DECL|macro|PARENT1
