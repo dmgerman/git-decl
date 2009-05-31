@@ -53,6 +53,7 @@ DECL|function|remote_is_configured
 DECL|function|resolve_remote_symref
 DECL|function|stat_tracking_info
 DECL|function|tail_link_ref
+DECL|function|tail_ref
 DECL|function|try_explicit_object_name
 DECL|function|unmark_and_free
 DECL|function|valid_fetch_refspec
