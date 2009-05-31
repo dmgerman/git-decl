@@ -44,6 +44,6 @@ DECL|variable|match_ref_pattern
 DECL|variable|match_ref_slash
 DECL|variable|ref_name
 DECL|variable|ref_name_cnt
+DECL|variable|reflog
 DECL|variable|show_branch_usage
-DECL|variable|show_branch_usage_reflog
 DECL|variable|showbranch_use_color
