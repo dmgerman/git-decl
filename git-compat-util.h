@@ -79,6 +79,7 @@ DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|memmem
 DECL|macro|mkdtemp
+DECL|macro|mkstemps
 DECL|macro|mmap
 DECL|macro|munmap
 DECL|macro|on_disk_bytes
