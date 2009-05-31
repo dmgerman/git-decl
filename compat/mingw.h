@@ -13,6 +13,14 @@ DECL|function|readlink
 DECL|function|symlink
 DECL|function|sync
 DECL|function|waitpid
+DECL|macro|DT_DIR
+DECL|macro|DT_DIR
+DECL|macro|DT_LNK
+DECL|macro|DT_LNK
+DECL|macro|DT_REG
+DECL|macro|DT_REG
+DECL|macro|DT_UNKNOWN
+DECL|macro|DT_UNKNOWN
 DECL|macro|FD_CLOEXEC
 DECL|macro|F_GETFD
 DECL|macro|F_SETFD
@@ -42,6 +50,7 @@ DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
 DECL|macro|_stati64
 DECL|macro|connect
+DECL|macro|dirent
 DECL|macro|execvp
 DECL|macro|fprintf
 DECL|macro|fputs
@@ -62,6 +71,7 @@ DECL|macro|off_t
 DECL|macro|open
 DECL|macro|open_html
 DECL|macro|printf
+DECL|macro|readdir
 DECL|macro|rename
 DECL|macro|sigemptyset
 DECL|macro|signal
@@ -69,6 +79,11 @@ DECL|macro|socket
 DECL|macro|stat
 DECL|macro|unlink
 DECL|macro|utime
+DECL|member|d_ino
+DECL|member|d_name
+DECL|member|d_namlen
+DECL|member|d_reclen
+DECL|member|d_type
 DECL|member|events
 DECL|member|fd
 DECL|member|it_interval
@@ -80,6 +95,7 @@ DECL|member|revents
 DECL|member|sa_flags
 DECL|member|sa_handler
 DECL|struct|itimerval
+DECL|struct|mingw_dirent
 DECL|struct|passwd
 DECL|struct|pollfd
 DECL|struct|sigaction
