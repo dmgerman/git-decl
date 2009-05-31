@@ -3,6 +3,7 @@ DECL|enumerator|OPTION_BIT
 DECL|enumerator|OPTION_BOOLEAN
 DECL|enumerator|OPTION_CALLBACK
 DECL|enumerator|OPTION_END
+DECL|enumerator|OPTION_FILENAME
 DECL|enumerator|OPTION_GROUP
 DECL|enumerator|OPTION_INTEGER
 DECL|enumerator|OPTION_NEGBIT
@@ -34,6 +35,7 @@ DECL|macro|OPT_BOOLEAN
 DECL|macro|OPT_CALLBACK
 DECL|macro|OPT_DATE
 DECL|macro|OPT_END
+DECL|macro|OPT_FILENAME
 DECL|macro|OPT_GROUP
 DECL|macro|OPT_INTEGER
 DECL|macro|OPT_NEGBIT
@@ -59,6 +61,7 @@ DECL|member|help
 DECL|member|long_name
 DECL|member|opt
 DECL|member|out
+DECL|member|prefix
 DECL|member|short_name
 DECL|member|type
 DECL|member|value

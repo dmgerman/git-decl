@@ -1,4 +1,5 @@
 DECL|function|check_typos
+DECL|function|fix_filename
 DECL|function|get_arg
 DECL|function|get_value
 DECL|function|opterror
@@ -10,7 +11,6 @@ DECL|function|parse_opt_verbosity_cb
 DECL|function|parse_opt_with_commit
 DECL|function|parse_options
 DECL|function|parse_options_end
-DECL|function|parse_options_fix_filename
 DECL|function|parse_options_start
 DECL|function|parse_options_step
 DECL|function|parse_options_usage
