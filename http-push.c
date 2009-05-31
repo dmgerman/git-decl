@@ -36,7 +36,6 @@ DECL|function|get_remote_object_url
 DECL|function|handle_lockprop_ctx
 DECL|function|handle_new_lock_ctx
 DECL|function|handle_remote_ls_ctx
-DECL|function|is_zero_sha1
 DECL|function|lock_remote
 DECL|function|locking_available
 DECL|function|main
