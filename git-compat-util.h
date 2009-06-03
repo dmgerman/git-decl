@@ -57,6 +57,7 @@ DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|macro|__attribute__
+DECL|macro|basename
 DECL|macro|decimal_length
 DECL|macro|fopen
 DECL|macro|fopen
@@ -79,6 +80,7 @@ DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|memmem
 DECL|macro|mkdtemp
+DECL|macro|mkstemps
 DECL|macro|mmap
 DECL|macro|munmap
 DECL|macro|on_disk_bytes
