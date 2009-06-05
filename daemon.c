@@ -14,7 +14,7 @@ DECL|function|loginfo
 DECL|function|logreport
 DECL|function|main
 DECL|function|make_service_overridable
-DECL|function|parse_extra_args
+DECL|function|parse_host_arg
 DECL|function|path_ok
 DECL|function|receive_pack
 DECL|function|remove_child
