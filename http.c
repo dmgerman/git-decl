@@ -12,9 +12,13 @@ DECL|function|get_curl_handle
 DECL|function|hex
 DECL|function|http_auth_init
 DECL|function|http_cleanup
+DECL|function|http_error
 DECL|function|http_fetch_ref
+DECL|function|http_get_file
+DECL|function|http_get_strbuf
 DECL|function|http_init
 DECL|function|http_options
+DECL|function|http_request
 DECL|function|init_curl_http_auth
 DECL|function|ioctl_buffer
 DECL|function|needs_quote
@@ -25,6 +29,8 @@ DECL|function|run_active_slot
 DECL|function|set_from_env
 DECL|function|start_active_slot
 DECL|function|step_active_slots
+DECL|macro|HTTP_REQUEST_FILE
+DECL|macro|HTTP_REQUEST_STRBUF
 DECL|member|data
 DECL|member|fill
 DECL|member|next
