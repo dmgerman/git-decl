@@ -53,6 +53,7 @@ DECL|function|remote_exists
 DECL|function|remote_ls
 DECL|function|remove_locks
 DECL|function|remove_locks_on_signal
+DECL|function|run_request_queue
 DECL|function|setup_index
 DECL|function|start_fetch_loose
 DECL|function|start_fetch_packed
@@ -163,6 +164,7 @@ DECL|variable|aborted
 DECL|variable|dry_run
 DECL|variable|force_all
 DECL|variable|http_push_usage
+DECL|variable|is_running_queue
 DECL|variable|no_pragma_header
 DECL|variable|objects
 DECL|variable|push_all
