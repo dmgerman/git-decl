@@ -22,7 +22,6 @@ DECL|function|add_send_request
 DECL|function|append_remote_object_url
 DECL|function|check_locks
 DECL|function|delete_remote_branch
-DECL|function|fetch_index
 DECL|function|fetch_indices
 DECL|function|fetch_symref
 DECL|function|fill_active_slot
@@ -54,7 +53,6 @@ DECL|function|remote_ls
 DECL|function|remove_locks
 DECL|function|remove_locks_on_signal
 DECL|function|run_request_queue
-DECL|function|setup_index
 DECL|function|start_fetch_loose
 DECL|function|start_fetch_packed
 DECL|function|start_mkcol

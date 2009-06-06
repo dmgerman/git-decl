@@ -7,7 +7,6 @@ DECL|function|abort_object_request
 DECL|function|cleanup
 DECL|function|fetch
 DECL|function|fetch_alternates
-DECL|function|fetch_index
 DECL|function|fetch_indices
 DECL|function|fetch_object
 DECL|function|fetch_pack
@@ -20,7 +19,6 @@ DECL|function|prefetch
 DECL|function|process_alternates_response
 DECL|function|process_object_response
 DECL|function|release_object_request
-DECL|function|setup_index
 DECL|function|start_object_request
 DECL|macro|PREV_BUF_SIZE
 DECL|member|alt

@@ -1,6 +1,8 @@
 DECL|function|add_fill_function
 DECL|function|closedown_active_slot
 DECL|function|end_url_with_slash
+DECL|function|fetch_and_setup_pack_index
+DECL|function|fetch_pack_index
 DECL|function|fill_active_slots
 DECL|function|finish_active_slot
 DECL|function|finish_all_active_slots
@@ -15,6 +17,7 @@ DECL|function|http_cleanup
 DECL|function|http_error
 DECL|function|http_fetch_ref
 DECL|function|http_get_file
+DECL|function|http_get_info_packs
 DECL|function|http_get_strbuf
 DECL|function|http_init
 DECL|function|http_options
