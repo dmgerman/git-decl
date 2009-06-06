@@ -100,7 +100,6 @@ DECL|macro|PROCESS_FILES
 DECL|macro|PROPFIND_ALL_REQUEST
 DECL|macro|PROPFIND_SUPPORTEDLOCK_REQUEST
 DECL|macro|PUSHING
-DECL|macro|RANGE_HEADER_SIZE
 DECL|macro|RECURSIVE
 DECL|macro|REMOTE
 DECL|macro|XML_STATUS_ERROR
@@ -165,7 +164,6 @@ DECL|variable|dry_run
 DECL|variable|force_all
 DECL|variable|http_push_usage
 DECL|variable|is_running_queue
-DECL|variable|no_pragma_header
 DECL|variable|objects
 DECL|variable|push_all
 DECL|variable|push_verbosely

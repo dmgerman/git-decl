@@ -40,7 +40,9 @@ DECL|variable|curl_ssl_verify
 DECL|variable|curlm
 DECL|variable|data_received
 DECL|variable|fill_cfg
+DECL|variable|http_is_verbose
 DECL|variable|max_requests
+DECL|variable|no_pragma_header
 DECL|variable|pragma_header
 DECL|variable|ssl_cainfo
 DECL|variable|ssl_capath

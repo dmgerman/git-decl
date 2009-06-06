@@ -23,7 +23,6 @@ DECL|function|release_object_request
 DECL|function|setup_index
 DECL|function|start_object_request
 DECL|macro|PREV_BUF_SIZE
-DECL|macro|RANGE_HEADER_SIZE
 DECL|member|alt
 DECL|member|base
 DECL|member|base
@@ -39,7 +38,6 @@ DECL|member|http_specific
 DECL|member|local
 DECL|member|next
 DECL|member|next
-DECL|member|no_pragma_header
 DECL|member|packs
 DECL|member|real_sha1
 DECL|member|rename
