@@ -1,3 +1,4 @@
+DECL|function|apply_skip_ratio
 DECL|function|argv_array_push
 DECL|function|argv_array_push_sha1
 DECL|function|array_cmp
@@ -26,6 +27,7 @@ DECL|function|handle_skipped_merge_base
 DECL|function|is_expected_rev
 DECL|function|join_sha1_array_hex
 DECL|function|lookup_sha1_array
+DECL|function|managed_skipped
 DECL|function|mark_expected_rev
 DECL|function|read_bisect_paths
 DECL|function|read_bisect_refs
