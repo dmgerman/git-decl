@@ -1,4 +1,6 @@
+DECL|function|abort_http_object_request
 DECL|function|add_fill_function
+DECL|function|append_remote_object_url
 DECL|function|closedown_active_slot
 DECL|function|end_url_with_slash
 DECL|function|fetch_and_setup_pack_index
@@ -6,12 +8,15 @@ DECL|function|fetch_pack_index
 DECL|function|fill_active_slots
 DECL|function|finish_active_slot
 DECL|function|finish_all_active_slots
+DECL|function|finish_http_object_request
 DECL|function|finish_http_pack_request
 DECL|function|fread_buffer
 DECL|function|fwrite_buffer
 DECL|function|fwrite_null
+DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
 DECL|function|get_curl_handle
+DECL|function|get_remote_object_url
 DECL|function|hex
 DECL|function|http_auth_init
 DECL|function|http_cleanup
@@ -26,10 +31,13 @@ DECL|function|http_request
 DECL|function|init_curl_http_auth
 DECL|function|ioctl_buffer
 DECL|function|needs_quote
+DECL|function|new_http_object_request
 DECL|function|new_http_pack_request
 DECL|function|process_curl_messages
+DECL|function|process_http_object_request
 DECL|function|quote_ref_url
 DECL|function|release_active_slot
+DECL|function|release_http_object_request
 DECL|function|release_http_pack_request
 DECL|function|run_active_slot
 DECL|function|set_from_env
@@ -37,6 +45,8 @@ DECL|function|start_active_slot
 DECL|function|step_active_slots
 DECL|macro|HTTP_REQUEST_FILE
 DECL|macro|HTTP_REQUEST_STRBUF
+DECL|macro|PREV_BUF_SIZE
+DECL|macro|RANGE_HEADER_SIZE
 DECL|member|data
 DECL|member|fill
 DECL|member|next
