@@ -6,6 +6,7 @@ DECL|function|fetch_pack_index
 DECL|function|fill_active_slots
 DECL|function|finish_active_slot
 DECL|function|finish_all_active_slots
+DECL|function|finish_http_pack_request
 DECL|function|fread_buffer
 DECL|function|fwrite_buffer
 DECL|function|fwrite_null
@@ -25,9 +26,11 @@ DECL|function|http_request
 DECL|function|init_curl_http_auth
 DECL|function|ioctl_buffer
 DECL|function|needs_quote
+DECL|function|new_http_pack_request
 DECL|function|process_curl_messages
 DECL|function|quote_ref_url
 DECL|function|release_active_slot
+DECL|function|release_http_pack_request
 DECL|function|run_active_slot
 DECL|function|set_from_env
 DECL|function|start_active_slot

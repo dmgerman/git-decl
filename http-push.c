@@ -119,7 +119,6 @@ DECL|member|headers
 DECL|member|http_code
 DECL|member|len
 DECL|member|local_fileno
-DECL|member|local_stream
 DECL|member|lock
 DECL|member|locks
 DECL|member|name
