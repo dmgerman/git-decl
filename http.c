@@ -1,5 +1,6 @@
 DECL|function|add_fill_function
 DECL|function|closedown_active_slot
+DECL|function|end_url_with_slash
 DECL|function|fill_active_slots
 DECL|function|finish_active_slot
 DECL|function|finish_all_active_slots
