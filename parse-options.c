@@ -10,6 +10,7 @@ DECL|function|parse_opt_approxidate_cb
 DECL|function|parse_opt_verbosity_cb
 DECL|function|parse_opt_with_commit
 DECL|function|parse_options
+DECL|function|parse_options_check
 DECL|function|parse_options_end
 DECL|function|parse_options_start
 DECL|function|parse_options_step
