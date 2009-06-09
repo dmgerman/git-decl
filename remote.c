@@ -2,6 +2,7 @@ DECL|function|add_fetch_refspec
 DECL|function|add_instead_of
 DECL|function|add_merge
 DECL|function|add_push_refspec
+DECL|function|add_pushurl
 DECL|function|add_url
 DECL|function|add_url_alias
 DECL|function|alias_all_urls
