@@ -27,6 +27,7 @@ DECL|function|mingw_gethostbyname
 DECL|function|mingw_lstat
 DECL|function|mingw_open
 DECL|function|mingw_open_html
+DECL|function|mingw_readdir
 DECL|function|mingw_rename
 DECL|function|mingw_signal
 DECL|function|mingw_socket
@@ -55,6 +56,12 @@ DECL|macro|gethostbyname
 DECL|macro|open
 DECL|macro|rename
 DECL|macro|signal
+DECL|member|dd_dir
+DECL|member|dd_dta
+DECL|member|dd_handle
+DECL|member|dd_name
+DECL|member|dd_stat
+DECL|struct|mingw_DIR
 DECL|variable|_CRT_fmode
 DECL|variable|one_shot
 DECL|variable|timer_event
