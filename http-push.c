@@ -169,6 +169,5 @@ DECL|variable|push_verbosely
 DECL|variable|pushing
 DECL|variable|remote_dir_exists
 DECL|variable|remote_refs
-DECL|variable|remote_tail
 DECL|variable|repo
 DECL|variable|request_queue_head
