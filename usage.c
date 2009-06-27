@@ -1,5 +1,6 @@
 DECL|function|die
 DECL|function|die_builtin
+DECL|function|die_errno
 DECL|function|error
 DECL|function|error_builtin
 DECL|function|report
