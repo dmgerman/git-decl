@@ -10,6 +10,7 @@ DECL|function|trim_common_tail
 DECL|function|xdi_diff
 DECL|function|xdi_diff_hunks
 DECL|function|xdi_diff_outf
+DECL|function|xdiff_clear_find_func
 DECL|function|xdiff_outf
 DECL|function|xdiff_set_find_func
 DECL|macro|FIRST_FEW_BYTES
