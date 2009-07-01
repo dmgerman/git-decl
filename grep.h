@@ -58,6 +58,7 @@ DECL|member|regexp
 DECL|member|regflags
 DECL|member|relative
 DECL|member|right
+DECL|member|show_hunk_mark
 DECL|member|status_only
 DECL|member|token
 DECL|member|u
