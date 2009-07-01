@@ -36,6 +36,7 @@ DECL|member|fixed
 DECL|member|fixed
 DECL|member|hit
 DECL|member|invert
+DECL|member|last_shown
 DECL|member|left
 DECL|member|linenum
 DECL|member|name_only
