@@ -34,6 +34,7 @@ DECL|member|extended
 DECL|member|field
 DECL|member|fixed
 DECL|member|fixed
+DECL|member|funcname
 DECL|member|hit
 DECL|member|invert
 DECL|member|last_shown
