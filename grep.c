@@ -24,6 +24,7 @@ DECL|function|match_one_pattern
 DECL|function|next_match
 DECL|function|show_line
 DECL|function|show_name
+DECL|function|show_pre_context
 DECL|function|strip_timestamp
 DECL|function|word_char
 DECL|member|field
