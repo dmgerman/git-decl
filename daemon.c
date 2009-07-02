@@ -2,6 +2,7 @@ DECL|function|add_child
 DECL|function|avoid_alias
 DECL|function|check_dead_children
 DECL|function|child_handler
+DECL|function|copy_to_log
 DECL|function|daemon_die
 DECL|function|daemonize
 DECL|function|enable_service
@@ -19,6 +20,7 @@ DECL|function|path_ok
 DECL|function|receive_pack
 DECL|function|remove_child
 DECL|function|run_service
+DECL|function|run_service_command
 DECL|function|sanitize_stdfds
 DECL|function|serve
 DECL|function|service_loop
