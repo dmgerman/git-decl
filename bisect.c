@@ -1,4 +1,3 @@
-DECL|function|apply_skip_ratio
 DECL|function|argv_array_push
 DECL|function|argv_array_push_sha1
 DECL|function|array_cmp
@@ -21,6 +20,7 @@ DECL|function|filter_skipped
 DECL|function|find_bisection
 DECL|function|get_bad_and_good_commits
 DECL|function|get_commit_reference
+DECL|function|get_prn
 DECL|function|halfway
 DECL|function|handle_bad_merge_base
 DECL|function|handle_skipped_merge_base
@@ -36,11 +36,14 @@ DECL|function|sha1_access
 DECL|function|sha1_array_push
 DECL|function|show_diff_tree
 DECL|function|show_list
+DECL|function|skip_away
 DECL|function|sort_sha1_array
+DECL|function|sqrti
 DECL|function|weight
 DECL|function|weight_set
 DECL|macro|COUNTED
 DECL|macro|DEBUG_BISECT
+DECL|macro|PRN_MODULO
 DECL|macro|show_list
 DECL|member|argv
 DECL|member|argv_alloc
