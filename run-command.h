@@ -2,6 +2,7 @@ DECL|macro|RUN_COMMAND_H
 DECL|macro|RUN_COMMAND_NO_STDIN
 DECL|macro|RUN_COMMAND_STDOUT_TO_STDERR
 DECL|macro|RUN_GIT_CMD
+DECL|macro|RUN_SILENT_EXEC_FAILURE
 DECL|member|argv
 DECL|member|data
 DECL|member|dir
@@ -19,6 +20,7 @@ DECL|member|pid
 DECL|member|pid
 DECL|member|preexec_cb
 DECL|member|proc
+DECL|member|silent_exec_failure
 DECL|member|stdout_to_stderr
 DECL|member|tid
 DECL|struct|async
