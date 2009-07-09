@@ -34,8 +34,10 @@ DECL|member|extended
 DECL|member|field
 DECL|member|fixed
 DECL|member|fixed
+DECL|member|funcname
 DECL|member|hit
 DECL|member|invert
+DECL|member|last_shown
 DECL|member|left
 DECL|member|linenum
 DECL|member|name_only
@@ -52,11 +54,13 @@ DECL|member|pattern_tail
 DECL|member|post_context
 DECL|member|pre_context
 DECL|member|prefix_length
+DECL|member|priv
 DECL|member|regexp
 DECL|member|regexp
 DECL|member|regflags
 DECL|member|relative
 DECL|member|right
+DECL|member|show_hunk_mark
 DECL|member|status_only
 DECL|member|token
 DECL|member|u
