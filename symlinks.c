@@ -25,5 +25,5 @@ DECL|member|prefix_len_stat_func
 DECL|member|track_flags
 DECL|struct|cache_def
 DECL|struct|removal_def
-DECL|variable|cache
+DECL|variable|default_cache
 DECL|variable|removal
