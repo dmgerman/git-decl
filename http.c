@@ -17,6 +17,7 @@ DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
 DECL|function|get_curl_handle
 DECL|function|get_remote_object_url
+DECL|function|has_cert_password
 DECL|function|hex
 DECL|function|http_auth_init
 DECL|function|http_cleanup
@@ -43,6 +44,8 @@ DECL|function|run_active_slot
 DECL|function|set_from_env
 DECL|function|start_active_slot
 DECL|function|step_active_slots
+DECL|macro|CURLOPT_KEYPASSWD
+DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|HTTP_REQUEST_FILE
 DECL|macro|HTTP_REQUEST_STRBUF
 DECL|macro|PREV_BUF_SIZE
@@ -70,6 +73,8 @@ DECL|variable|pragma_header
 DECL|variable|ssl_cainfo
 DECL|variable|ssl_capath
 DECL|variable|ssl_cert
+DECL|variable|ssl_cert_password
+DECL|variable|ssl_cert_password_required
 DECL|variable|ssl_key
 DECL|variable|user_name
 DECL|variable|user_pass
