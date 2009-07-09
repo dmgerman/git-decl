@@ -52,6 +52,7 @@ DECL|macro|_stati64
 DECL|macro|connect
 DECL|macro|dirent
 DECL|macro|execvp
+DECL|macro|exit
 DECL|macro|fprintf
 DECL|macro|fputs
 DECL|macro|fstat
