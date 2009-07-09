@@ -22,6 +22,7 @@ DECL|function|file_exists
 DECL|function|fill_directory
 DECL|function|free_simplify
 DECL|function|get_dtype
+DECL|function|get_index_dtype
 DECL|function|get_relative_cwd
 DECL|function|in_pathspec
 DECL|function|is_empty_dir
