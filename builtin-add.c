@@ -2,7 +2,6 @@ DECL|function|add_config
 DECL|function|add_files
 DECL|function|cmd_add
 DECL|function|edit_patch
-DECL|function|fill_directory
 DECL|function|fill_pathspec_matches
 DECL|function|interactive_add
 DECL|function|prune_directory

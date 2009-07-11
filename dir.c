@@ -19,8 +19,10 @@ DECL|function|directory_exists_in_index
 DECL|function|excluded
 DECL|function|excluded_1
 DECL|function|file_exists
+DECL|function|fill_directory
 DECL|function|free_simplify
 DECL|function|get_dtype
+DECL|function|get_index_dtype
 DECL|function|get_relative_cwd
 DECL|function|in_pathspec
 DECL|function|is_empty_dir
