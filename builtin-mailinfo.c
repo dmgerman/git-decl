@@ -45,6 +45,7 @@ DECL|variable|email
 DECL|variable|fin
 DECL|variable|fout
 DECL|variable|header
+DECL|variable|keep_non_patch_brackets_in_subject
 DECL|variable|keep_subject
 DECL|variable|line
 DECL|variable|mailinfo_usage
