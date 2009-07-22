@@ -1,3 +1,4 @@
+DECL|function|accept_subdir
 DECL|function|and_callback
 DECL|function|close_callback
 DECL|function|cmd_grep
@@ -14,6 +15,7 @@ DECL|function|grep_object
 DECL|function|grep_sha1
 DECL|function|grep_tree
 DECL|function|help_callback
+DECL|function|is_subdir
 DECL|function|not_callback
 DECL|function|open_callback
 DECL|function|pathspec_matches

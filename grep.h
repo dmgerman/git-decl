@@ -40,6 +40,7 @@ DECL|member|invert
 DECL|member|last_shown
 DECL|member|left
 DECL|member|linenum
+DECL|member|max_depth
 DECL|member|name_only
 DECL|member|next
 DECL|member|no
