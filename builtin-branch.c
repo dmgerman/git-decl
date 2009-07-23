@@ -37,6 +37,7 @@ DECL|member|list
 DECL|member|maxwidth
 DECL|member|name
 DECL|member|revs
+DECL|member|verbose
 DECL|member|with_commit
 DECL|struct|ref_item
 DECL|struct|ref_list
