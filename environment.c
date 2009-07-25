@@ -32,6 +32,7 @@ DECL|variable|git_object_dir
 DECL|variable|git_refs_dir
 DECL|variable|git_work_tree_cfg
 DECL|variable|git_work_tree_initialized
+DECL|variable|grafts_replace_parents
 DECL|variable|has_symlinks
 DECL|variable|ignore_case
 DECL|variable|is_bare_repository_cfg
