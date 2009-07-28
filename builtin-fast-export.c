@@ -29,6 +29,7 @@ DECL|variable|fake_missing_tagger
 DECL|variable|fast_export_usage
 DECL|variable|idnums
 DECL|variable|last_idnum
+DECL|variable|no_data
 DECL|variable|progress
 DECL|variable|signed_tag_mode
 DECL|variable|tag_of_filtered_mode
