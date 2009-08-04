@@ -1,8 +1,11 @@
 DECL|enumerator|correct_ws_error
 DECL|enumerator|die_on_ws_error
+DECL|enumerator|ignore_ws_change
+DECL|enumerator|ignore_ws_none
 DECL|enumerator|nowarn_ws_error
 DECL|enumerator|warn_on_ws_error
 DECL|enum|ws_error_action
+DECL|enum|ws_ignore
 DECL|function|add_index_file
 DECL|function|add_line_info
 DECL|function|add_name_limit
@@ -27,6 +30,7 @@ DECL|function|create_one_file
 DECL|function|find_header
 DECL|function|find_name
 DECL|function|find_pos
+DECL|function|fuzzy_matchlines
 DECL|function|get_current_sha1
 DECL|function|git_apply_config
 DECL|function|git_header_name
@@ -60,6 +64,7 @@ DECL|function|option_parse_directory
 DECL|function|option_parse_exclude
 DECL|function|option_parse_include
 DECL|function|option_parse_p
+DECL|function|option_parse_space_change
 DECL|function|option_parse_whitespace
 DECL|function|option_parse_z
 DECL|function|parse_binary
@@ -68,6 +73,7 @@ DECL|function|parse_chunk
 DECL|function|parse_fragment
 DECL|function|parse_fragment_header
 DECL|function|parse_git_header
+DECL|function|parse_ignorewhitespace_option
 DECL|function|parse_num
 DECL|function|parse_range
 DECL|function|parse_single_patch
@@ -208,3 +214,4 @@ DECL|variable|unidiff_zero
 DECL|variable|update_index
 DECL|variable|whitespace_error
 DECL|variable|ws_error_action
+DECL|variable|ws_ignore_action
