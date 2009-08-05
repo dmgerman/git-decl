@@ -1,0 +1,9 @@
+DECL|function|blk_SHA1Block
+DECL|function|blk_SHA1_Final
+DECL|function|blk_SHA1_Init
+DECL|function|blk_SHA1_Update
+DECL|macro|SHA_ROT
+DECL|macro|T_0_19
+DECL|macro|T_20_39
+DECL|macro|T_40_59
+DECL|macro|T_60_79
