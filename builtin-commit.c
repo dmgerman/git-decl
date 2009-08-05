@@ -27,6 +27,10 @@ DECL|function|prepare_to_commit
 DECL|function|print_summary
 DECL|function|rollback_index_files
 DECL|function|run_status
+DECL|function|short_status
+DECL|function|short_unmerged
+DECL|function|short_untracked
+DECL|macro|quote_path
 DECL|variable|all
 DECL|variable|allow_empty
 DECL|variable|also
