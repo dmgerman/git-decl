@@ -1,0 +1,10 @@
+DECL|function|disconnect_helper
+DECL|function|fetch
+DECL|function|fetch_with_fetch
+DECL|function|get_helper
+DECL|function|get_refs_list
+DECL|function|transport_helper_init
+DECL|member|fetch
+DECL|member|helper
+DECL|member|name
+DECL|struct|helper_data
