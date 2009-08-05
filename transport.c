@@ -2,15 +2,11 @@ DECL|function|close_bundle
 DECL|function|connect_setup
 DECL|function|curl_transport_push
 DECL|function|disconnect_git
-DECL|function|disconnect_walker
-DECL|function|fetch_objs_via_curl
 DECL|function|fetch_objs_via_rsync
-DECL|function|fetch_objs_via_walker
 DECL|function|fetch_refs_from_bundle
 DECL|function|fetch_refs_via_pack
 DECL|function|get_refs_from_bundle
 DECL|function|get_refs_via_connect
-DECL|function|get_refs_via_curl
 DECL|function|get_refs_via_rsync
 DECL|function|git_transport_push
 DECL|function|insert_packed_refs
