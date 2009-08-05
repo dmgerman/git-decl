@@ -30,6 +30,7 @@ DECL|variable|no_progress
 DECL|variable|nr_our_refs
 DECL|variable|oldest_have
 DECL|variable|pack_pipe
+DECL|variable|shallow_nr
 DECL|variable|timeout
 DECL|variable|upload_pack_usage
 DECL|variable|use_include_tag
