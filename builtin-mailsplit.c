@@ -6,3 +6,4 @@ DECL|function|split_mbox
 DECL|function|split_one
 DECL|variable|buf
 DECL|variable|git_mailsplit_usage
+DECL|variable|keep_cr
