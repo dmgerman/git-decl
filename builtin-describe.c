@@ -23,6 +23,7 @@ DECL|variable|all
 DECL|variable|always
 DECL|variable|debug
 DECL|variable|describe_usage
+DECL|variable|found_names
 DECL|variable|longformat
 DECL|variable|max_candidates
 DECL|variable|pattern
