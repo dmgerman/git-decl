@@ -2,6 +2,11 @@ DECL|function|blk_SHA1Block
 DECL|function|blk_SHA1_Final
 DECL|function|blk_SHA1_Init
 DECL|function|blk_SHA1_Update
+DECL|macro|SHA_ASM
+DECL|macro|SHA_ROL
+DECL|macro|SHA_ROL
+DECL|macro|SHA_ROR
+DECL|macro|SHA_ROR
 DECL|macro|SHA_ROT
 DECL|macro|T_0_19
 DECL|macro|T_20_39
