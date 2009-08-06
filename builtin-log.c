@@ -39,6 +39,7 @@ DECL|macro|THREAD_DEEP
 DECL|macro|THREAD_SHALLOW
 DECL|variable|auto_number
 DECL|variable|builtin_format_patch_usage
+DECL|variable|builtin_log_usage
 DECL|variable|cherry_usage
 DECL|variable|default_attach
 DECL|variable|default_date_mode
