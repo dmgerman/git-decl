@@ -8,7 +8,8 @@ DECL|macro|SHA_ROL
 DECL|macro|SHA_ROR
 DECL|macro|SHA_ROR
 DECL|macro|SHA_ROT
-DECL|macro|T_0_19
+DECL|macro|T_0_15
+DECL|macro|T_16_19
 DECL|macro|T_20_39
 DECL|macro|T_40_59
 DECL|macro|T_60_79
