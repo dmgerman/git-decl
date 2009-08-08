@@ -17,3 +17,4 @@ DECL|macro|T_20_39
 DECL|macro|T_40_59
 DECL|macro|T_60_79
 DECL|macro|W
+DECL|macro|setW
