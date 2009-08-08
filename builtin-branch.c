@@ -24,8 +24,10 @@ DECL|function|print_ref_list
 DECL|function|ref_cmp
 DECL|function|rename_branch
 DECL|function|resolve_symref
+DECL|function|show_detached
 DECL|macro|REF_LOCAL_BRANCH
 DECL|macro|REF_REMOTE_BRANCH
+DECL|member|abbrev
 DECL|member|alloc
 DECL|member|commit
 DECL|member|dest
@@ -37,6 +39,7 @@ DECL|member|list
 DECL|member|maxwidth
 DECL|member|name
 DECL|member|revs
+DECL|member|verbose
 DECL|member|with_commit
 DECL|struct|ref_item
 DECL|struct|ref_list

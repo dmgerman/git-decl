@@ -1,4 +1,7 @@
 DECL|enumerator|ABORT
+DECL|enumerator|DROP
+DECL|enumerator|ERROR
+DECL|enumerator|REWRITE
 DECL|enumerator|STRIP
 DECL|enumerator|VERBATIM
 DECL|enumerator|WARN
@@ -18,6 +21,7 @@ DECL|function|mark_next_object
 DECL|function|mark_object
 DECL|function|mark_to_ptr
 DECL|function|parse_opt_signed_tag_mode
+DECL|function|parse_opt_tag_of_filtered_mode
 DECL|function|ptr_to_mark
 DECL|function|show_filemodify
 DECL|function|show_progress
@@ -27,3 +31,4 @@ DECL|variable|idnums
 DECL|variable|last_idnum
 DECL|variable|progress
 DECL|variable|signed_tag_mode
+DECL|variable|tag_of_filtered_mode

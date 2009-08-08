@@ -35,7 +35,6 @@ DECL|enumerator|PUSH_DEFAULT_CURRENT
 DECL|enumerator|PUSH_DEFAULT_MATCHING
 DECL|enumerator|PUSH_DEFAULT_NOTHING
 DECL|enumerator|PUSH_DEFAULT_TRACKING
-DECL|enumerator|PUSH_DEFAULT_UNSPECIFIED
 DECL|enumerator|REF_STATUS_EXPECTING_REPORT
 DECL|enumerator|REF_STATUS_NONE
 DECL|enumerator|REF_STATUS_OK
@@ -234,6 +233,7 @@ DECL|member|fd
 DECL|member|filename
 DECL|member|flags
 DECL|member|flags
+DECL|member|flags
 DECL|member|flags2
 DECL|member|force
 DECL|member|force
@@ -250,6 +250,7 @@ DECL|member|ino
 DECL|member|ino
 DECL|member|inuse_cnt
 DECL|member|last_used
+DECL|member|len
 DECL|member|len
 DECL|member|merge
 DECL|member|mode
@@ -288,7 +289,9 @@ DECL|member|pack_keep
 DECL|member|pack_local
 DECL|member|pack_name
 DECL|member|pack_size
+DECL|member|path
 DECL|member|peer_ref
+DECL|member|prefix_len_stat_func
 DECL|member|quiet
 DECL|member|refresh_cache
 DECL|member|remote_status
@@ -303,10 +306,12 @@ DECL|member|size
 DECL|member|status
 DECL|member|symref
 DECL|member|timestamp
+DECL|member|track_flags
 DECL|member|uid
 DECL|member|uid
 DECL|member|windows
 DECL|struct|alternate_object_database
+DECL|struct|cache_def
 DECL|struct|cache_entry
 DECL|struct|cache_header
 DECL|struct|cache_time
