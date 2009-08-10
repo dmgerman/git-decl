@@ -1,11 +1,12 @@
 DECL|function|color
 DECL|function|unmerged_mask
 DECL|function|wt_status_check_worktree_changes
+DECL|function|wt_status_collect
 DECL|function|wt_status_collect_changed_cb
-DECL|function|wt_status_collect_changes
 DECL|function|wt_status_collect_changes_index
 DECL|function|wt_status_collect_changes_initial
 DECL|function|wt_status_collect_changes_worktree
+DECL|function|wt_status_collect_untracked
 DECL|function|wt_status_collect_updated_cb
 DECL|function|wt_status_prepare
 DECL|function|wt_status_print

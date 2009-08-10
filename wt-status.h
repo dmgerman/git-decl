@@ -27,6 +27,7 @@ DECL|member|relative_paths
 DECL|member|show_untracked_files
 DECL|member|stagemask
 DECL|member|submodule_summary
+DECL|member|untracked
 DECL|member|use_color
 DECL|member|verbose
 DECL|member|workdir_dirty
