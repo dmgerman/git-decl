@@ -26,8 +26,4 @@ DECL|function|wt_status_print_untracked_header
 DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_verbose
 DECL|macro|quote_path
-DECL|variable|show_untracked_files
 DECL|variable|wt_status_colors
-DECL|variable|wt_status_relative_paths
-DECL|variable|wt_status_submodule_summary
-DECL|variable|wt_status_use_color

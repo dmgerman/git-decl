@@ -22,8 +22,11 @@ DECL|member|is_initial
 DECL|member|nowarn
 DECL|member|prefix
 DECL|member|reference
+DECL|member|relative_paths
+DECL|member|show_untracked_files
 DECL|member|stagemask
-DECL|member|untracked
+DECL|member|submodule_summary
+DECL|member|use_color
 DECL|member|verbose
 DECL|member|workdir_dirty
 DECL|member|workdir_untracked
