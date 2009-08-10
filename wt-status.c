@@ -26,4 +26,4 @@ DECL|function|wt_status_print_untracked_header
 DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_verbose
 DECL|macro|quote_path
-DECL|variable|wt_status_colors
+DECL|variable|default_wt_status_colors
