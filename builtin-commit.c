@@ -13,11 +13,13 @@ DECL|function|determine_author_info
 DECL|function|dry_run_commit
 DECL|function|find_author_by_nickname
 DECL|function|git_commit_config
+DECL|function|git_status_config
 DECL|function|is_a_merge
 DECL|function|list_paths
 DECL|function|message_is_empty
 DECL|function|opt_parse_m
 DECL|function|parse_and_validate_options
+DECL|function|parse_status_slot
 DECL|function|prepare_index
 DECL|function|prepare_to_commit
 DECL|function|print_summary

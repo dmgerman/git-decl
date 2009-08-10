@@ -1,6 +1,4 @@
 DECL|function|color
-DECL|function|git_status_config
-DECL|function|parse_status_slot
 DECL|function|unmerged_mask
 DECL|function|wt_status_check_worktree_changes
 DECL|function|wt_status_collect_changed_cb
