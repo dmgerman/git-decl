@@ -48,6 +48,7 @@ DECL|macro|S_IXOTH
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
+DECL|macro|WTERMSIG
 DECL|macro|_stati64
 DECL|macro|connect
 DECL|macro|dirent
