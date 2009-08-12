@@ -1,4 +1,4 @@
-DECL|function|blk_SHA1Block
+DECL|function|blk_SHA1_Block
 DECL|function|blk_SHA1_Final
 DECL|function|blk_SHA1_Init
 DECL|function|blk_SHA1_Update
