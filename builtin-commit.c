@@ -6,7 +6,6 @@ DECL|enumerator|COMMIT_NORMAL
 DECL|enumerator|COMMIT_PARTIAL
 DECL|function|add_remove_files
 DECL|function|cmd_commit
-DECL|function|cmd_stat
 DECL|function|cmd_status
 DECL|function|commit_index_files
 DECL|function|create_base_index
@@ -40,7 +39,6 @@ DECL|variable|author_email
 DECL|variable|author_name
 DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
-DECL|variable|builtin_stat_usage
 DECL|variable|builtin_status_usage
 DECL|variable|cleanup_arg
 DECL|variable|cleanup_mode
