@@ -8,6 +8,7 @@ DECL|function|remove_junk_on_signal
 DECL|function|setup_reference
 DECL|function|strip_trailing_slashes
 DECL|function|write_remote_refs
+DECL|variable|argv_submodule
 DECL|variable|builtin_clone_options
 DECL|variable|builtin_clone_usage
 DECL|variable|junk_git_dir
@@ -21,6 +22,7 @@ DECL|variable|option_no_checkout
 DECL|variable|option_no_hardlinks
 DECL|variable|option_origin
 DECL|variable|option_quiet
+DECL|variable|option_recursive
 DECL|variable|option_reference
 DECL|variable|option_shared
 DECL|variable|option_template
