@@ -4,7 +4,7 @@ DECL|function|chmod_path
 DECL|function|cmd_update_index
 DECL|function|do_reupdate
 DECL|function|do_unresolve
-DECL|function|mark_valid
+DECL|function|mark_ce_flags
 DECL|function|process_directory
 DECL|function|process_file
 DECL|function|process_lstat_error
@@ -16,8 +16,8 @@ DECL|function|remove_one_path
 DECL|function|report
 DECL|function|unresolve_one
 DECL|function|update_one
-DECL|macro|MARK_VALID
-DECL|macro|UNMARK_VALID
+DECL|macro|MARK_FLAG
+DECL|macro|UNMARK_FLAG
 DECL|variable|allow_add
 DECL|variable|allow_remove
 DECL|variable|allow_replace
