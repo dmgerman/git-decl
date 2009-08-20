@@ -13,6 +13,7 @@ DECL|variable|apply_default_whitespace
 DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
 DECL|variable|autorebase
+DECL|variable|core_apply_sparse_checkout
 DECL|variable|core_compression_level
 DECL|variable|core_compression_seen
 DECL|variable|core_preload_index

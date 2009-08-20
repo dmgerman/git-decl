@@ -6,6 +6,7 @@ DECL|member|df_conflict_entry
 DECL|member|diff_index_cached
 DECL|member|dir
 DECL|member|dst_index
+DECL|member|el
 DECL|member|fn
 DECL|member|gently
 DECL|member|head_idx
@@ -21,6 +22,7 @@ DECL|member|pos
 DECL|member|prefix
 DECL|member|reset
 DECL|member|result
+DECL|member|skip_sparse_checkout
 DECL|member|skip_unmerged
 DECL|member|src_index
 DECL|member|trivial_merges_only
