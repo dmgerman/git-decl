@@ -6,7 +6,6 @@ DECL|function|do_reupdate
 DECL|function|do_unresolve
 DECL|function|mark_ce_flags
 DECL|function|process_directory
-DECL|function|process_file
 DECL|function|process_lstat_error
 DECL|function|process_path
 DECL|function|read_head_pointers
