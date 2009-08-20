@@ -93,6 +93,7 @@ DECL|macro|CE_MATCH_IGNORE_VALID
 DECL|macro|CE_MATCH_RACY_IS_DIRTY
 DECL|macro|CE_NAMEMASK
 DECL|macro|CE_REMOVE
+DECL|macro|CE_SKIP_WORKTREE
 DECL|macro|CE_STAGEMASK
 DECL|macro|CE_STAGESHIFT
 DECL|macro|CE_STATE_MASK
@@ -179,6 +180,7 @@ DECL|macro|ce_match_stat
 DECL|macro|ce_modified
 DECL|macro|ce_permissions
 DECL|macro|ce_size
+DECL|macro|ce_skip_worktree
 DECL|macro|ce_stage
 DECL|macro|ce_uptodate
 DECL|macro|deflateBound

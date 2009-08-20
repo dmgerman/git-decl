@@ -24,6 +24,7 @@ DECL|variable|allow_replace
 DECL|variable|force_remove
 DECL|variable|head_sha1
 DECL|variable|info_only
+DECL|variable|mark_skip_worktree_only
 DECL|variable|mark_valid_only
 DECL|variable|merge_head_sha1
 DECL|variable|update_index_usage
