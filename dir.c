@@ -33,6 +33,7 @@ DECL|function|no_wildcard
 DECL|function|prep_exclude
 DECL|function|read_directory
 DECL|function|read_directory_recursive
+DECL|function|read_skip_worktree_file_from_index
 DECL|function|remove_dir_recursively
 DECL|function|remove_path
 DECL|function|setup_standard_excludes
