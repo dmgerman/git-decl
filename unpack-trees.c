@@ -24,9 +24,11 @@ DECL|function|unpack_index_entry
 DECL|function|unpack_nondirectories
 DECL|function|unpack_trees
 DECL|function|verify_absent
+DECL|function|verify_absent_1
 DECL|function|verify_clean_subdirectory
 DECL|function|verify_clean_submodule
 DECL|function|verify_uptodate
+DECL|function|verify_uptodate_1
 DECL|macro|ERRORMSG
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|variable|state
