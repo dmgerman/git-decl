@@ -29,6 +29,7 @@ DECL|function|handle_info
 DECL|function|handle_patch
 DECL|function|is_multipart_boundary
 DECL|function|is_rfc2822_header
+DECL|function|is_scissors_line
 DECL|function|mailinfo
 DECL|function|output_header_lines
 DECL|function|parse_bogus_from
