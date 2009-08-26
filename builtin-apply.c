@@ -47,6 +47,7 @@ DECL|function|gitdiff_similarity
 DECL|function|gitdiff_unrecognized
 DECL|function|gitdiff_verify_name
 DECL|function|guess_p_value
+DECL|function|has_epoch_timestamp
 DECL|function|hash_line
 DECL|function|in_fn_table
 DECL|function|inflate_it
