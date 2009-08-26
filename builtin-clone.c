@@ -14,6 +14,7 @@ DECL|variable|junk_git_dir
 DECL|variable|junk_pid
 DECL|variable|junk_work_tree
 DECL|variable|option_bare
+DECL|variable|option_branch
 DECL|variable|option_depth
 DECL|variable|option_local
 DECL|variable|option_mirror
