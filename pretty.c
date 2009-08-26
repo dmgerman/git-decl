@@ -10,6 +10,7 @@ DECL|function|format_subject
 DECL|function|get_commit_format
 DECL|function|get_header
 DECL|function|get_one_line
+DECL|function|has_non_ascii
 DECL|function|is_empty_line
 DECL|function|is_rfc2047_special
 DECL|function|istitlechar
