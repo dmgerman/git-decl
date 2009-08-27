@@ -20,6 +20,7 @@ DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change
 DECL|function|gc_boundary
+DECL|function|get_commit_action
 DECL|function|get_reference
 DECL|function|get_revision
 DECL|function|get_revision_1
