@@ -57,3 +57,4 @@ DECL|variable|patch_lines
 DECL|variable|patchfile
 DECL|variable|s_hdr_data
 DECL|variable|transfer_encoding
+DECL|variable|use_scissors
