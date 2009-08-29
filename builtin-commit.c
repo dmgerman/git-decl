@@ -10,13 +10,16 @@ DECL|function|cmd_status
 DECL|function|commit_index_files
 DECL|function|create_base_index
 DECL|function|determine_author_info
+DECL|function|dry_run_commit
 DECL|function|find_author_by_nickname
 DECL|function|git_commit_config
+DECL|function|git_status_config
 DECL|function|is_a_merge
 DECL|function|list_paths
 DECL|function|message_is_empty
 DECL|function|opt_parse_m
 DECL|function|parse_and_validate_options
+DECL|function|parse_status_slot
 DECL|function|prepare_index
 DECL|function|prepare_to_commit
 DECL|function|print_summary
@@ -36,6 +39,7 @@ DECL|variable|cleanup_arg
 DECL|variable|cleanup_mode
 DECL|variable|commit_editmsg
 DECL|variable|commit_style
+DECL|variable|dry_run
 DECL|variable|edit_flag
 DECL|variable|edit_message
 DECL|variable|false_lock
