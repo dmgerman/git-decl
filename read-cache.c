@@ -51,6 +51,7 @@ DECL|function|remove_marked_cache_entries
 DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_index_entry
+DECL|function|show_file
 DECL|function|unmerged_index
 DECL|function|update_callback
 DECL|function|verify_dotfile
