@@ -1,6 +1,8 @@
 DECL|function|approxidate
 DECL|function|approxidate_alpha
 DECL|function|approxidate_digit
+DECL|function|approxidate_relative
+DECL|function|approxidate_str
 DECL|function|date_am
 DECL|function|date_midnight
 DECL|function|date_never
@@ -24,6 +26,7 @@ DECL|function|parse_date
 DECL|function|parse_date_format
 DECL|function|pending_number
 DECL|function|show_date
+DECL|function|show_date_relative
 DECL|function|skip_alpha
 DECL|function|time_to_tm
 DECL|function|tm_to_time_t
