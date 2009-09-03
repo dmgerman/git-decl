@@ -127,6 +127,7 @@ DECL|member|len
 DECL|member|len
 DECL|member|line
 DECL|member|line_allocated
+DECL|member|linenr
 DECL|member|lines_added
 DECL|member|lines_deleted
 DECL|member|new_mode
