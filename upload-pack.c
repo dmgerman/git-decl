@@ -23,6 +23,7 @@ DECL|macro|SHALLOW
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
 DECL|variable|debug_fd
+DECL|variable|extra_edge_obj
 DECL|variable|have_obj
 DECL|variable|multi_ack
 DECL|variable|no_progress
