@@ -9,6 +9,7 @@ DECL|function|check_delta_limit
 DECL|function|check_object
 DECL|function|check_pack_inflate
 DECL|function|check_pbase_path
+DECL|function|cleanup_preferred_base
 DECL|function|cmd_pack_objects
 DECL|function|copy_pack_data
 DECL|function|delta_cacheable
