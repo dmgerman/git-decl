@@ -148,7 +148,6 @@ DECL|member|name
 DECL|member|name
 DECL|member|next
 DECL|member|next
-DECL|member|nparents
 DECL|member|nr
 DECL|member|nr
 DECL|member|o
