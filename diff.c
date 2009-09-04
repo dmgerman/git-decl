@@ -1,3 +1,4 @@
+DECL|function|adds_blank_at_eof
 DECL|function|alloc_filespec
 DECL|function|builtin_checkdiff
 DECL|function|builtin_diff
@@ -6,6 +7,7 @@ DECL|function|check_pair_status
 DECL|function|checkdiff_consume
 DECL|function|copy_file_with_prefix
 DECL|function|count_lines
+DECL|function|count_trailing_blank
 DECL|function|deflate_it
 DECL|function|diff_addremove
 DECL|function|diff_change
@@ -160,7 +162,6 @@ DECL|member|status
 DECL|member|suppressed_newline
 DECL|member|text
 DECL|member|tmp_path
-DECL|member|trailing_blanks_start
 DECL|member|truncate
 DECL|member|ws_rule
 DECL|member|ws_rule
