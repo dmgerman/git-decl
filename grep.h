@@ -51,6 +51,7 @@ DECL|member|pattern_list
 DECL|member|pattern_tail
 DECL|member|post_context
 DECL|member|pre_context
+DECL|member|prefix
 DECL|member|prefix_length
 DECL|member|regexp
 DECL|member|regexp
