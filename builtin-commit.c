@@ -26,6 +26,7 @@ DECL|function|prepare_to_commit
 DECL|function|print_summary
 DECL|function|rollback_index_files
 DECL|function|run_status
+DECL|function|short_print
 DECL|function|short_status
 DECL|function|short_unmerged
 DECL|function|short_untracked
