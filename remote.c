@@ -67,9 +67,13 @@ DECL|member|instead_of
 DECL|member|instead_of_alloc
 DECL|member|instead_of_nr
 DECL|member|len
+DECL|member|rewrite
+DECL|member|rewrite_alloc
+DECL|member|rewrite_nr
 DECL|member|s
 DECL|struct|counted_string
 DECL|struct|rewrite
+DECL|struct|rewrites
 DECL|variable|branches
 DECL|variable|branches_alloc
 DECL|variable|branches_nr
@@ -80,8 +84,6 @@ DECL|variable|explicit_default_remote_name
 DECL|variable|remotes
 DECL|variable|remotes_alloc
 DECL|variable|remotes_nr
-DECL|variable|rewrite
-DECL|variable|rewrite_alloc
-DECL|variable|rewrite_nr
+DECL|variable|rewrites
 DECL|variable|s_tag_refspec
 DECL|variable|tag_refspec
