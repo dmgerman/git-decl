@@ -16,6 +16,7 @@ DECL|function|decode_q_segment
 DECL|function|decode_transfer_encoding
 DECL|function|find_boundary
 DECL|function|get_sane_name
+DECL|function|git_mailinfo_config
 DECL|function|guess_charset
 DECL|function|handle_body
 DECL|function|handle_boundary
@@ -29,6 +30,7 @@ DECL|function|handle_info
 DECL|function|handle_patch
 DECL|function|is_multipart_boundary
 DECL|function|is_rfc2822_header
+DECL|function|is_scissors_line
 DECL|function|mailinfo
 DECL|function|output_header_lines
 DECL|function|parse_bogus_from
@@ -56,3 +58,4 @@ DECL|variable|patch_lines
 DECL|variable|patchfile
 DECL|variable|s_hdr_data
 DECL|variable|transfer_encoding
+DECL|variable|use_scissors
