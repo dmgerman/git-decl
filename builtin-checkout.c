@@ -7,6 +7,7 @@ DECL|function|cmd_checkout
 DECL|function|describe_detached_head
 DECL|function|fill_mm
 DECL|function|git_checkout_config
+DECL|function|interactive_checkout
 DECL|function|merge_working_tree
 DECL|function|post_checkout_hook
 DECL|function|read_tree_some
