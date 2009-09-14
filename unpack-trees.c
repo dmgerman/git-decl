@@ -6,6 +6,9 @@ DECL|function|ce_in_traverse_path
 DECL|function|check_updates
 DECL|function|compare_entry
 DECL|function|create_ce_entry
+DECL|function|debug_name_entry
+DECL|function|debug_path
+DECL|function|debug_unpack_callback
 DECL|function|deleted_entry
 DECL|function|do_compare_entry
 DECL|function|find_cache_entry
