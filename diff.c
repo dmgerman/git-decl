@@ -6,7 +6,6 @@ DECL|function|check_blank_at_eof
 DECL|function|check_pair_status
 DECL|function|checkdiff_consume
 DECL|function|claim_diff_tempfile
-DECL|function|copy_file_with_prefix
 DECL|function|count_lines
 DECL|function|count_trailing_blank
 DECL|function|deflate_it
@@ -62,6 +61,7 @@ DECL|function|emit_binary_diff_body
 DECL|function|emit_line
 DECL|function|emit_line_0
 DECL|function|emit_rewrite_diff
+DECL|function|emit_rewrite_lines
 DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|fill_metainfo
