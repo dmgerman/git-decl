@@ -1,8 +1,8 @@
-DECL|function|adds_blank_at_eof
 DECL|function|alloc_filespec
 DECL|function|builtin_checkdiff
 DECL|function|builtin_diff
 DECL|function|builtin_diffstat
+DECL|function|check_blank_at_eof
 DECL|function|check_pair_status
 DECL|function|checkdiff_consume
 DECL|function|copy_file_with_prefix
@@ -64,7 +64,7 @@ DECL|function|fill_filespec
 DECL|function|fill_metainfo
 DECL|function|fill_mmfile
 DECL|function|fill_print_name
-DECL|function|find_preimage_lno
+DECL|function|find_lno
 DECL|function|flush_one_pair
 DECL|function|fn_out_consume
 DECL|function|fn_out_diff_words_aux
@@ -77,6 +77,7 @@ DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
 DECL|function|is_conflict_marker
 DECL|function|is_summary_empty
+DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
 DECL|function|parse_funcname_pattern
@@ -119,7 +120,8 @@ DECL|member|added
 DECL|member|alloc
 DECL|member|alloc
 DECL|member|alloc
-DECL|member|blank_at_eof
+DECL|member|blank_at_eof_in_postimage
+DECL|member|blank_at_eof_in_preimage
 DECL|member|cflags
 DECL|member|changed
 DECL|member|cmd
@@ -143,6 +145,7 @@ DECL|member|is_renamed
 DECL|member|is_unmerged
 DECL|member|label_path
 DECL|member|lineno
+DECL|member|lno_in_postimage
 DECL|member|lno_in_preimage
 DECL|member|minus
 DECL|member|mode
