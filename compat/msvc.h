@@ -1,10 +1,5 @@
 DECL|function|strcasecmp
 DECL|macro|ERROR
-DECL|macro|NTDDI_VERSION
-DECL|macro|WINVER
-DECL|macro|_WIN32_IE
-DECL|macro|_WIN32_WINDOWS
-DECL|macro|_WIN32_WINNT
 DECL|macro|__MSVC__HEAD
 DECL|macro|__attribute__
 DECL|macro|__inline__
