@@ -5,10 +5,12 @@ DECL|macro|__attribute__
 DECL|macro|__inline__
 DECL|macro|_stat64
 DECL|macro|_stati64
+DECL|macro|ftruncate
 DECL|macro|inline
 DECL|macro|stat
 DECL|macro|stat
 DECL|macro|stat
+DECL|macro|strncasecmp
 DECL|macro|va_copy
 DECL|member|st_atime
 DECL|member|st_ctime
