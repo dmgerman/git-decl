@@ -63,7 +63,6 @@ DECL|member|dd_handle
 DECL|member|dd_name
 DECL|member|dd_stat
 DECL|struct|mingw_DIR
-DECL|variable|_CRT_fmode
 DECL|variable|one_shot
 DECL|variable|timer_event
 DECL|variable|timer_fn
