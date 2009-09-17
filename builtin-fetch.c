@@ -3,6 +3,7 @@ DECL|enumerator|TAGS_SET
 DECL|enumerator|TAGS_UNSET
 DECL|function|add_existing
 DECL|function|add_merge_config
+DECL|function|add_to_tail
 DECL|function|check_not_current_branch
 DECL|function|cmd_fetch
 DECL|function|do_fetch
@@ -21,6 +22,9 @@ DECL|macro|REFCOL_WIDTH
 DECL|macro|STORE_REF_ERROR_DF_CONFLICT
 DECL|macro|STORE_REF_ERROR_OTHER
 DECL|macro|SUMMARY_WIDTH
+DECL|member|head
+DECL|member|tail
+DECL|struct|tag_data
 DECL|variable|append
 DECL|variable|builtin_fetch_options
 DECL|variable|builtin_fetch_usage
