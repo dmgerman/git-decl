@@ -8,6 +8,8 @@ DECL|function|compare_entry
 DECL|function|create_ce_entry
 DECL|function|deleted_entry
 DECL|function|do_compare_entry
+DECL|function|find_cache_entry
+DECL|function|find_cache_pos
 DECL|function|icase_exists
 DECL|function|invalidate_ce_path
 DECL|function|keep_entry
@@ -16,11 +18,14 @@ DECL|function|mark_all_ce_unused
 DECL|function|mark_ce_used
 DECL|function|mark_ce_used_same_name
 DECL|function|merged_entry
+DECL|function|name_compare
 DECL|function|next_cache_entry
 DECL|function|oneway_merge
 DECL|function|reject_merge
+DECL|function|restore_cache_bottom
 DECL|function|same
 DECL|function|show_stage_entry
+DECL|function|switch_cache_bottom
 DECL|function|threeway_merge
 DECL|function|traverse_trees_recursive
 DECL|function|twoway_merge

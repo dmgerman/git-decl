@@ -51,8 +51,10 @@ DECL|function|diff_words_fill
 DECL|function|diff_words_flush
 DECL|function|diff_words_show
 DECL|function|diffcore_apply_filter
+DECL|function|diffcore_fix_diff_index
 DECL|function|diffcore_skip_stat_unmatch
 DECL|function|diffcore_std
+DECL|function|diffnamecmp
 DECL|function|diffstat_add
 DECL|function|diffstat_consume
 DECL|function|dirstat_compare
