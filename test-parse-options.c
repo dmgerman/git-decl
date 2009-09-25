@@ -2,6 +2,7 @@ DECL|function|length_callback
 DECL|function|main
 DECL|function|number_callback
 DECL|variable|abbrev
+DECL|variable|ambiguous
 DECL|variable|boolean
 DECL|variable|dry_run
 DECL|variable|file
