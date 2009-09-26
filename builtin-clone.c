@@ -7,6 +7,7 @@ DECL|function|remove_junk
 DECL|function|remove_junk_on_signal
 DECL|function|setup_reference
 DECL|function|strip_trailing_slashes
+DECL|function|wanted_peer_refs
 DECL|function|write_remote_refs
 DECL|variable|argv_submodule
 DECL|variable|builtin_clone_options
