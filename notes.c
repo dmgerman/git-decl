@@ -1,3 +1,4 @@
+DECL|function|concatenate_notes
 DECL|function|free_notes
 DECL|function|get_commit_notes
 DECL|function|get_sha1_hex_segment
@@ -7,6 +8,7 @@ DECL|function|lookup_notes
 DECL|function|note_tree_find
 DECL|function|note_tree_free
 DECL|function|note_tree_insert
+DECL|function|note_tree_search
 DECL|macro|CLR_PTR_TYPE
 DECL|macro|GET_NIBBLE
 DECL|macro|GET_PTR_TYPE
