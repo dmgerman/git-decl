@@ -1,4 +1,5 @@
 DECL|function|add_entry
+DECL|function|free_notes
 DECL|function|get_commit_notes
 DECL|function|hash_index
 DECL|function|initialize_hash_map
