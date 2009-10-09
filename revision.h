@@ -32,6 +32,7 @@ DECL|member|combine_merges
 DECL|member|commit_format
 DECL|member|commits
 DECL|member|date_mode
+DECL|member|date_mode_explicit
 DECL|member|def
 DECL|member|dense
 DECL|member|dense_combined_merges
