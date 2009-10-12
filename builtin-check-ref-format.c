@@ -1,1 +1,2 @@
 DECL|function|cmd_check_ref_format
+DECL|function|collapse_slashes
