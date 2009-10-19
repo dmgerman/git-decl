@@ -26,6 +26,7 @@ DECL|member|nr_parent
 DECL|member|object
 DECL|member|parent
 DECL|member|parents
+DECL|member|reflog_info
 DECL|member|sha1
 DECL|member|subject
 DECL|member|tree
