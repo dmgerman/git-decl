@@ -3,6 +3,7 @@ DECL|function|add_reflog_for_walk
 DECL|function|fake_reflog_parent
 DECL|function|get_commit_info
 DECL|function|get_reflog_recno_by_time
+DECL|function|get_reflog_selector
 DECL|function|init_reflog_walk
 DECL|function|read_complete_reflog
 DECL|function|read_one_reflog
