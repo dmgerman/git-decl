@@ -37,11 +37,11 @@ DECL|member|commit
 DECL|member|commit_header_parsed
 DECL|member|commit_message_parsed
 DECL|member|committer
-DECL|member|dmode
 DECL|member|encoding
 DECL|member|len
 DECL|member|message_off
 DECL|member|off
+DECL|member|pretty_ctx
 DECL|member|subject_off
 DECL|struct|chunk
 DECL|struct|format_commit_context
