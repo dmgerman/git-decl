@@ -4,8 +4,6 @@ DECL|enumerator|NOLOGIN
 DECL|enumerator|STARTTLS
 DECL|enumerator|UIDPLUS
 DECL|enum|CAPABILITY
-DECL|function|arc4_getbyte
-DECL|function|arc4_init
 DECL|function|buffer_gets
 DECL|function|count_messages
 DECL|function|encode_html_chars
@@ -58,7 +56,6 @@ DECL|macro|NIL
 DECL|macro|RESP_BAD
 DECL|macro|RESP_NO
 DECL|macro|RESP_OK
-DECL|macro|TUIDL
 DECL|member|buf
 DECL|member|buf
 DECL|member|bytes
@@ -83,11 +80,9 @@ DECL|member|flags
 DECL|member|gen
 DECL|member|gen
 DECL|member|host
-DECL|member|i
 DECL|member|imap
 DECL|member|in_progress
 DECL|member|in_progress_append
-DECL|member|j
 DECL|member|len
 DECL|member|len
 DECL|member|literal_pending
@@ -124,7 +119,6 @@ DECL|member|port
 DECL|member|prefix
 DECL|member|rcaps
 DECL|member|recent
-DECL|member|s
 DECL|member|server
 DECL|member|size
 DECL|member|slave
@@ -175,5 +169,4 @@ DECL|variable|Quiet
 DECL|variable|Verbose
 DECL|variable|cap_list
 DECL|variable|imap_folder
-DECL|variable|rs
 DECL|variable|server
