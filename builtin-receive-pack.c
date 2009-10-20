@@ -29,6 +29,8 @@ DECL|member|next
 DECL|member|old_sha1
 DECL|member|ref_name
 DECL|struct|command
+DECL|variable|auto_gc
+DECL|variable|auto_update_server_info
 DECL|variable|capabilities_to_send
 DECL|variable|commands
 DECL|variable|deny_current_branch
