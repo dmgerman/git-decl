@@ -19,6 +19,8 @@ DECL|function|create_boundary_commit_list
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change
+DECL|function|for_each_bad_bisect_ref
+DECL|function|for_each_good_bisect_ref
 DECL|function|gc_boundary
 DECL|function|get_commit_action
 DECL|function|get_reference
