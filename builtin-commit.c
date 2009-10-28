@@ -11,6 +11,7 @@ DECL|function|commit_index_files
 DECL|function|create_base_index
 DECL|function|determine_author_info
 DECL|function|dry_run_commit
+DECL|function|ends_rfc2822_footer
 DECL|function|find_author_by_nickname
 DECL|function|git_commit_config
 DECL|function|git_status_config
