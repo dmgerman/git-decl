@@ -1,3 +1,9 @@
+DECL|enumerator|ACK
+DECL|enumerator|ACK_common
+DECL|enumerator|ACK_continue
+DECL|enumerator|ACK_ready
+DECL|enumerator|NAK
+DECL|enum|ack_type
 DECL|function|clear_marks
 DECL|function|cmd_fetch_pack
 DECL|function|do_fetch_pack
