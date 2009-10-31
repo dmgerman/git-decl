@@ -67,6 +67,7 @@ DECL|variable|curlm
 DECL|variable|data_received
 DECL|variable|fill_cfg
 DECL|variable|http_is_verbose
+DECL|variable|http_post_buffer
 DECL|variable|max_requests
 DECL|variable|no_pragma_header
 DECL|variable|pragma_header
