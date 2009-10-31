@@ -2,9 +2,13 @@ DECL|function|fetch_dumb
 DECL|function|get_refs
 DECL|function|init_walker
 DECL|function|main
+DECL|function|output_refs
 DECL|function|parse_fetch
+DECL|function|parse_push
+DECL|function|push_dav
 DECL|function|set_option
 DECL|member|depth
+DECL|member|dry_run
 DECL|member|followtags
 DECL|member|progress
 DECL|member|verbosity
