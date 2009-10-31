@@ -3,9 +3,14 @@ DECL|function|fetch
 DECL|function|fetch_with_fetch
 DECL|function|get_helper
 DECL|function|get_refs_list
+DECL|function|set_helper_option
+DECL|function|standard_options
 DECL|function|transport_helper_init
 DECL|member|fetch
 DECL|member|helper
 DECL|member|name
+DECL|member|option
 DECL|member|out
 DECL|struct|helper_data
+DECL|variable|boolean_options
+DECL|variable|unsupported_options

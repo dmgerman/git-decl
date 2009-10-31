@@ -3,6 +3,13 @@ DECL|function|get_refs
 DECL|function|init_walker
 DECL|function|main
 DECL|function|parse_fetch
+DECL|function|set_option
+DECL|member|depth
+DECL|member|followtags
+DECL|member|progress
+DECL|member|verbosity
+DECL|struct|options
+DECL|variable|options
 DECL|variable|remote
 DECL|variable|url
 DECL|variable|walker
