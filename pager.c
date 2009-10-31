@@ -1,3 +1,4 @@
+DECL|function|git_pager
 DECL|function|pager_in_use
 DECL|function|pager_preexec
 DECL|function|setup_pager
