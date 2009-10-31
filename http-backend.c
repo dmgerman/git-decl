@@ -13,6 +13,7 @@ DECL|function|get_pack_file
 DECL|function|get_parameter
 DECL|function|get_parameters
 DECL|function|get_text_file
+DECL|function|getdir
 DECL|function|hdr_cache_forever
 DECL|function|hdr_date
 DECL|function|hdr_int
