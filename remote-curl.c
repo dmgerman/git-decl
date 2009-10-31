@@ -28,6 +28,7 @@ DECL|member|buf_alloc
 DECL|member|depth
 DECL|member|dry_run
 DECL|member|followtags
+DECL|member|gzip_request
 DECL|member|hdr_accept
 DECL|member|hdr_content_type
 DECL|member|in
