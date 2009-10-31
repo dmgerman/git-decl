@@ -7,4 +7,5 @@ DECL|function|transport_helper_init
 DECL|member|fetch
 DECL|member|helper
 DECL|member|name
+DECL|member|out
 DECL|struct|helper_data
