@@ -1,5 +1,7 @@
 DECL|function|discover_refs
+DECL|function|fetch
 DECL|function|fetch_dumb
+DECL|function|fetch_git
 DECL|function|free_discovery
 DECL|function|get_refs
 DECL|function|init_walker

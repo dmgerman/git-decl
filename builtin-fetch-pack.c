@@ -6,6 +6,7 @@ DECL|enumerator|NAK
 DECL|enum|ack_type
 DECL|function|clear_marks
 DECL|function|cmd_fetch_pack
+DECL|function|consume_shallow_list
 DECL|function|do_fetch_pack
 DECL|function|everything_local
 DECL|function|fetch_pack
@@ -22,6 +23,7 @@ DECL|function|mark_recent_complete_commits
 DECL|function|remove_duplicates
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
+DECL|function|send_request
 DECL|function|sideband_demux
 DECL|macro|COMMON
 DECL|macro|COMMON_REF
