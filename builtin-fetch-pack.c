@@ -7,6 +7,7 @@ DECL|function|fetch_pack_config
 DECL|function|fetch_pack_setup
 DECL|function|filter_refs
 DECL|function|find_common
+DECL|function|get_ack
 DECL|function|get_pack
 DECL|function|get_rev
 DECL|function|mark_common
