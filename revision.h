@@ -38,6 +38,7 @@ DECL|member|dense
 DECL|member|dense_combined_merges
 DECL|member|diff
 DECL|member|diffopt
+DECL|member|disable_stdin
 DECL|member|early_output
 DECL|member|edge_hint
 DECL|member|elem
