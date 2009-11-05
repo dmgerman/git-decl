@@ -25,6 +25,7 @@ DECL|function|inflate_request
 DECL|function|main
 DECL|function|not_found
 DECL|function|run_service
+DECL|function|select_getanyfile
 DECL|function|select_service
 DECL|function|send_file
 DECL|function|send_strbuf
@@ -40,6 +41,7 @@ DECL|struct|rpc_service
 DECL|struct|service_cmd
 DECL|variable|content_length
 DECL|variable|content_type
+DECL|variable|getanyfile
 DECL|variable|last_modified
 DECL|variable|query_params
 DECL|variable|rpc_service
