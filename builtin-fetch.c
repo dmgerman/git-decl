@@ -37,6 +37,7 @@ DECL|variable|default_rla
 DECL|variable|depth
 DECL|variable|force
 DECL|variable|keep
+DECL|variable|multiple
 DECL|variable|tags
 DECL|variable|transport
 DECL|variable|update_head_ok
