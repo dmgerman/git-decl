@@ -27,7 +27,7 @@ DECL|function|not_found
 DECL|function|run_service
 DECL|function|select_getanyfile
 DECL|function|select_service
-DECL|function|send_file
+DECL|function|send_local_file
 DECL|function|send_strbuf
 DECL|function|service_rpc
 DECL|function|show_text_ref
