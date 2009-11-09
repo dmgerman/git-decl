@@ -175,5 +175,6 @@ DECL|variable|Quiet
 DECL|variable|Verbose
 DECL|variable|cap_list
 DECL|variable|imap_folder
+DECL|variable|imap_send_usage
 DECL|variable|rs
 DECL|variable|server
