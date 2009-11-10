@@ -28,6 +28,8 @@ DECL|function|get_fetch_map
 DECL|function|get_local_heads
 DECL|function|get_local_ref
 DECL|function|get_remote_ref
+DECL|function|get_stale_heads
+DECL|function|get_stale_heads_cb
 DECL|function|guess_ref
 DECL|function|guess_remote_head
 DECL|function|handle_config
@@ -68,13 +70,17 @@ DECL|member|instead_of
 DECL|member|instead_of_alloc
 DECL|member|instead_of_nr
 DECL|member|len
+DECL|member|ref_names
+DECL|member|remote
 DECL|member|rewrite
 DECL|member|rewrite_alloc
 DECL|member|rewrite_nr
 DECL|member|s
+DECL|member|stale_refs_tail
 DECL|struct|counted_string
 DECL|struct|rewrite
 DECL|struct|rewrites
+DECL|struct|stale_heads_info
 DECL|variable|branches
 DECL|variable|branches_alloc
 DECL|variable|branches_nr

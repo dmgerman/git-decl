@@ -26,7 +26,6 @@ DECL|function|get_push_ref_states_noquery
 DECL|function|get_ref_states
 DECL|function|get_remote_group
 DECL|function|get_remote_ref_states
-DECL|function|handle_one_branch
 DECL|function|migrate_file
 DECL|function|mv
 DECL|function|opt_parse_track
