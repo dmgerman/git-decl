@@ -36,6 +36,7 @@ DECL|variable|builtin_fetch_options
 DECL|variable|builtin_fetch_usage
 DECL|variable|default_rla
 DECL|variable|depth
+DECL|variable|dry_run
 DECL|variable|force
 DECL|variable|keep
 DECL|variable|multiple
