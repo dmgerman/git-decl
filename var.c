@@ -1,3 +1,4 @@
+DECL|function|editor
 DECL|function|list_vars
 DECL|function|main
 DECL|function|read_var
