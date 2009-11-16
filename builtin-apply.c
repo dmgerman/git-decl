@@ -88,6 +88,7 @@ DECL|function|prepare_image
 DECL|function|read_file_or_gitlink
 DECL|function|read_old_data
 DECL|function|read_patch_file
+DECL|function|record_ws_error
 DECL|function|recount_diff
 DECL|function|remove_file
 DECL|function|remove_first_line
@@ -146,6 +147,7 @@ DECL|member|len
 DECL|member|len
 DECL|member|line
 DECL|member|line_allocated
+DECL|member|linenr
 DECL|member|lines_added
 DECL|member|lines_deleted
 DECL|member|new_mode
