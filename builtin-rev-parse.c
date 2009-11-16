@@ -1,3 +1,4 @@
+DECL|function|anti_reference
 DECL|function|cmd_parseopt
 DECL|function|cmd_rev_parse
 DECL|function|cmd_sq_quote
