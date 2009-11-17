@@ -1,7 +1,9 @@
 DECL|function|chomp_trailing_dir_sep
 DECL|function|cleanup_path
 DECL|function|enter_repo
+DECL|function|expand_user_path
 DECL|function|get_pathname
+DECL|function|getpw_str
 DECL|function|git_mkstemp
 DECL|function|git_mkstemps
 DECL|function|git_path
@@ -15,6 +17,5 @@ DECL|function|mksnpath
 DECL|function|normalize_path_copy
 DECL|function|set_shared_perm
 DECL|function|strip_path_suffix
-DECL|function|user_path
 DECL|function|validate_headref
 DECL|variable|bad_path
