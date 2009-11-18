@@ -5,6 +5,7 @@ DECL|function|fetch_with_import
 DECL|function|get_helper
 DECL|function|get_importer
 DECL|function|get_refs_list
+DECL|function|has_attribute
 DECL|function|release_helper
 DECL|function|transport_helper_init
 DECL|member|fetch
