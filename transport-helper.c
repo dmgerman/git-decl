@@ -1,11 +1,14 @@
 DECL|function|disconnect_helper
 DECL|function|fetch
 DECL|function|fetch_with_fetch
+DECL|function|fetch_with_import
 DECL|function|get_helper
+DECL|function|get_importer
 DECL|function|get_refs_list
 DECL|function|release_helper
 DECL|function|transport_helper_init
 DECL|member|fetch
 DECL|member|helper
+DECL|member|import
 DECL|member|name
 DECL|struct|helper_data
