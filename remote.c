@@ -10,6 +10,7 @@ DECL|function|alias_all_urls
 DECL|function|alias_url
 DECL|function|alloc_ref
 DECL|function|alloc_ref_with_prefix
+DECL|function|apply_refspecs
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
@@ -22,6 +23,7 @@ DECL|function|for_each_remote
 DECL|function|format_tracking_info
 DECL|function|free_ref
 DECL|function|free_refs
+DECL|function|free_refspec
 DECL|function|free_refspecs
 DECL|function|get_expanded_map
 DECL|function|get_fetch_map

@@ -11,4 +11,6 @@ DECL|member|fetch
 DECL|member|helper
 DECL|member|import
 DECL|member|name
+DECL|member|refspec_nr
+DECL|member|refspecs
 DECL|struct|helper_data
