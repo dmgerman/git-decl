@@ -59,6 +59,7 @@ DECL|function|tail_ref
 DECL|function|try_explicit_object_name
 DECL|function|unmark_and_free
 DECL|function|valid_fetch_refspec
+DECL|function|valid_remote
 DECL|function|valid_remote_nick
 DECL|function|verify_refname
 DECL|macro|BUF_SIZE
