@@ -142,6 +142,7 @@ DECL|member|files
 DECL|member|files
 DECL|member|found_changesp
 DECL|member|from_name
+DECL|member|header
 DECL|member|hex
 DECL|member|is_binary
 DECL|member|is_renamed
