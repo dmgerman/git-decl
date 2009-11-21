@@ -1,5 +1,6 @@
 DECL|function|chomp_trailing_dir_sep
 DECL|function|cleanup_path
+DECL|function|daemon_avoid_alias
 DECL|function|enter_repo
 DECL|function|get_pathname
 DECL|function|git_mkstemp
