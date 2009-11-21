@@ -37,6 +37,7 @@ DECL|function|new_branch
 DECL|function|new_object
 DECL|function|new_tree_content
 DECL|function|new_tree_entry
+DECL|function|note_change_n
 DECL|function|oecmp
 DECL|function|parse_checkpoint
 DECL|function|parse_data
