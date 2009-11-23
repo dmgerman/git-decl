@@ -20,13 +20,11 @@ DECL|function|fetch_remote
 DECL|function|free_remote_ref_states
 DECL|function|get_head_names
 DECL|function|get_one_entry
-DECL|function|get_one_remote_for_update
 DECL|function|get_push_ref_states
 DECL|function|get_push_ref_states_noquery
 DECL|function|get_ref_states
-DECL|function|get_remote_group
+DECL|function|get_remote_default
 DECL|function|get_remote_ref_states
-DECL|function|handle_one_branch
 DECL|function|migrate_file
 DECL|function|mv
 DECL|function|opt_parse_track
@@ -56,9 +54,7 @@ DECL|member|heads
 DECL|member|keep
 DECL|member|list
 DECL|member|list
-DECL|member|list
 DECL|member|merge
-DECL|member|name
 DECL|member|new
 DECL|member|new
 DECL|member|next
@@ -85,7 +81,6 @@ DECL|struct|known_remote
 DECL|struct|known_remotes
 DECL|struct|push_info
 DECL|struct|ref_states
-DECL|struct|remote_group
 DECL|struct|rename_info
 DECL|struct|show_info
 DECL|variable|branch_list
@@ -97,5 +92,4 @@ DECL|variable|builtin_remote_sethead_usage
 DECL|variable|builtin_remote_show_usage
 DECL|variable|builtin_remote_update_usage
 DECL|variable|builtin_remote_usage
-DECL|variable|remote_group
 DECL|variable|verbose
