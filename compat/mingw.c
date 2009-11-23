@@ -7,7 +7,10 @@ DECL|function|err_win_to_posix
 DECL|function|filetime_to_time_t
 DECL|function|free_environ
 DECL|function|free_path_split
+DECL|function|freeaddrinfo_stub
 DECL|function|get_path_split
+DECL|function|getaddrinfo_stub
+DECL|function|getnameinfo_stub
 DECL|function|getpass
 DECL|function|getpwuid
 DECL|function|gettimeofday
@@ -22,10 +25,13 @@ DECL|function|make_backslash_path
 DECL|function|mingw_connect
 DECL|function|mingw_execve
 DECL|function|mingw_execvp
+DECL|function|mingw_freeaddrinfo
 DECL|function|mingw_fstat
+DECL|function|mingw_getaddrinfo
 DECL|function|mingw_getcwd
 DECL|function|mingw_getenv
 DECL|function|mingw_gethostbyname
+DECL|function|mingw_getnameinfo
 DECL|function|mingw_getpagesize
 DECL|function|mingw_lstat
 DECL|function|mingw_open
@@ -46,6 +52,7 @@ DECL|function|quote_arg
 DECL|function|setitimer
 DECL|function|sigaction
 DECL|function|sleep
+DECL|function|socket_cleanup
 DECL|function|start_timer_thread
 DECL|function|stop_timer_thread
 DECL|function|ticktack
@@ -65,6 +72,10 @@ DECL|member|dd_handle
 DECL|member|dd_name
 DECL|member|dd_stat
 DECL|struct|mingw_DIR
+DECL|variable|ipv6_dll
+DECL|variable|ipv6_freeaddrinfo
+DECL|variable|ipv6_getaddrinfo
+DECL|variable|ipv6_getnameinfo
 DECL|variable|one_shot
 DECL|variable|timer_event
 DECL|variable|timer_fn

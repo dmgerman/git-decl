@@ -62,10 +62,13 @@ DECL|macro|execvp
 DECL|macro|exit
 DECL|macro|fprintf
 DECL|macro|fputs
+DECL|macro|freeaddrinfo
 DECL|macro|fstat
+DECL|macro|getaddrinfo
 DECL|macro|getcwd
 DECL|macro|getenv
 DECL|macro|gethostbyname
+DECL|macro|getnameinfo
 DECL|macro|getpagesize
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
