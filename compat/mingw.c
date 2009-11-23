@@ -1,5 +1,6 @@
 DECL|function|copy_environ
 DECL|function|do_lstat
+DECL|function|ensure_socket_initialization
 DECL|function|env_compare
 DECL|function|env_setenv
 DECL|function|err_win_to_posix
