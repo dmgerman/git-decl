@@ -62,6 +62,7 @@ DECL|variable|curl_ftp_no_epsv
 DECL|variable|curl_http_proxy
 DECL|variable|curl_low_speed_limit
 DECL|variable|curl_low_speed_time
+DECL|variable|curl_session_count
 DECL|variable|curl_ssl_verify
 DECL|variable|curlm
 DECL|variable|data_received
@@ -69,6 +70,7 @@ DECL|variable|fill_cfg
 DECL|variable|http_is_verbose
 DECL|variable|http_post_buffer
 DECL|variable|max_requests
+DECL|variable|min_curl_sessions
 DECL|variable|no_pragma_header
 DECL|variable|pragma_header
 DECL|variable|ssl_cainfo
