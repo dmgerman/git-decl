@@ -13,12 +13,15 @@ DECL|function|add_parents_to_list
 DECL|function|add_pending_commit_list
 DECL|function|add_pending_object
 DECL|function|add_pending_object_with_mode
+DECL|function|append_prune_data
 DECL|function|cherry_pick_list
 DECL|function|commit_match
 DECL|function|create_boundary_commit_list
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change
+DECL|function|for_each_bad_bisect_ref
+DECL|function|for_each_good_bisect_ref
 DECL|function|gc_boundary
 DECL|function|get_commit_action
 DECL|function|get_reference
@@ -45,6 +48,7 @@ DECL|function|parse_revision_opt
 DECL|function|path_name
 DECL|function|prepare_revision_walk
 DECL|function|prepare_show_merge
+DECL|function|read_pathspec_from_stdin
 DECL|function|read_revisions_from_stdin
 DECL|function|remove_duplicate_parents
 DECL|function|rev_compare_tree

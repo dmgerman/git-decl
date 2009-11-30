@@ -5,6 +5,7 @@ DECL|function|feed_obj_to_hook
 DECL|function|get_common_commits
 DECL|function|got_sha1
 DECL|function|main
+DECL|function|mark_our_ref
 DECL|function|ok_to_give_up
 DECL|function|reachable
 DECL|function|receive_needs
@@ -25,6 +26,7 @@ DECL|macro|REACHABLE
 DECL|macro|SHALLOW
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
+DECL|variable|advertise_refs
 DECL|variable|daemon_mode
 DECL|variable|debug_fd
 DECL|variable|extra_edge_obj
@@ -35,6 +37,7 @@ DECL|variable|nr_our_refs
 DECL|variable|oldest_have
 DECL|variable|pack_pipe
 DECL|variable|shallow_nr
+DECL|variable|stateless_rpc
 DECL|variable|timeout
 DECL|variable|upload_pack_usage
 DECL|variable|use_include_tag

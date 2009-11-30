@@ -147,6 +147,7 @@ DECL|struct|xml_ctx
 DECL|variable|aborted
 DECL|variable|dry_run
 DECL|variable|force_all
+DECL|variable|helper_status
 DECL|variable|http_push_usage
 DECL|variable|is_running_queue
 DECL|variable|objects

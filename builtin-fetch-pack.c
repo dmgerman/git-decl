@@ -1,5 +1,12 @@
+DECL|enumerator|ACK
+DECL|enumerator|ACK_common
+DECL|enumerator|ACK_continue
+DECL|enumerator|ACK_ready
+DECL|enumerator|NAK
+DECL|enum|ack_type
 DECL|function|clear_marks
 DECL|function|cmd_fetch_pack
+DECL|function|consume_shallow_list
 DECL|function|do_fetch_pack
 DECL|function|everything_local
 DECL|function|fetch_pack
@@ -7,6 +14,7 @@ DECL|function|fetch_pack_config
 DECL|function|fetch_pack_setup
 DECL|function|filter_refs
 DECL|function|find_common
+DECL|function|get_ack
 DECL|function|get_pack
 DECL|function|get_rev
 DECL|function|mark_common
@@ -15,6 +23,7 @@ DECL|function|mark_recent_complete_commits
 DECL|function|remove_duplicates
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
+DECL|function|send_request
 DECL|function|sideband_demux
 DECL|macro|COMMON
 DECL|macro|COMMON_REF

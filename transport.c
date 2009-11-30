@@ -1,6 +1,5 @@
 DECL|function|close_bundle
 DECL|function|connect_setup
-DECL|function|curl_transport_push
 DECL|function|disconnect_git
 DECL|function|fetch_objs_via_rsync
 DECL|function|fetch_refs_from_bundle

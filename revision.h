@@ -23,6 +23,7 @@ DECL|member|abbrev
 DECL|member|abbrev_commit
 DECL|member|add_signoff
 DECL|member|always_show_header
+DECL|member|bisect
 DECL|member|blob_objects
 DECL|member|boundary
 DECL|member|boundary_commits
@@ -38,6 +39,7 @@ DECL|member|dense
 DECL|member|dense_combined_merges
 DECL|member|diff
 DECL|member|diffopt
+DECL|member|disable_stdin
 DECL|member|early_output
 DECL|member|edge_hint
 DECL|member|elem

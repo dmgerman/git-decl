@@ -3,6 +3,7 @@ DECL|member|dry_run
 DECL|member|force_update
 DECL|member|quiet
 DECL|member|send_mirror
+DECL|member|stateless_rpc
 DECL|member|use_ofs_delta
 DECL|member|use_thin_pack
 DECL|member|verbose

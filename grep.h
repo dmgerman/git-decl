@@ -36,6 +36,8 @@ DECL|member|fixed
 DECL|member|fixed
 DECL|member|funcname
 DECL|member|hit
+DECL|member|ignore_case
+DECL|member|ignore_case
 DECL|member|invert
 DECL|member|last_shown
 DECL|member|left
