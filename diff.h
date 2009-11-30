@@ -2,6 +2,7 @@ DECL|enumerator|DIFF_COMMIT
 DECL|enumerator|DIFF_FILE_NEW
 DECL|enumerator|DIFF_FILE_OLD
 DECL|enumerator|DIFF_FRAGINFO
+DECL|enumerator|DIFF_FUNCINFO
 DECL|enumerator|DIFF_METAINFO
 DECL|enumerator|DIFF_PLAIN
 DECL|enumerator|DIFF_RESET
