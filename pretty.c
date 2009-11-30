@@ -3,6 +3,7 @@ DECL|function|add_merge_info
 DECL|function|add_rfc2047
 DECL|function|format_commit_item
 DECL|function|format_commit_message
+DECL|function|format_commit_one
 DECL|function|format_decoration
 DECL|function|format_person_part
 DECL|function|format_sanitized_subject
