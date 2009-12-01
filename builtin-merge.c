@@ -39,6 +39,7 @@ DECL|variable|allow_trivial
 DECL|variable|branch
 DECL|variable|builtin_merge_options
 DECL|variable|builtin_merge_usage
+DECL|variable|deprecation_warning
 DECL|variable|have_message
 DECL|variable|head
 DECL|variable|merge_msg
