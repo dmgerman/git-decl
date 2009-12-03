@@ -89,6 +89,13 @@ DECL|struct|remote_group
 DECL|struct|rename_info
 DECL|struct|show_info
 DECL|variable|branch_list
+DECL|variable|builtin_remote_add_usage
+DECL|variable|builtin_remote_prune_usage
+DECL|variable|builtin_remote_rename_usage
+DECL|variable|builtin_remote_rm_usage
+DECL|variable|builtin_remote_sethead_usage
+DECL|variable|builtin_remote_show_usage
+DECL|variable|builtin_remote_update_usage
 DECL|variable|builtin_remote_usage
 DECL|variable|remote_group
 DECL|variable|verbose
