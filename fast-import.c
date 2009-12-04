@@ -45,6 +45,7 @@ DECL|function|option_export_marks
 DECL|function|option_export_pack_edges
 DECL|function|option_import_marks
 DECL|function|option_max_pack_size
+DECL|function|parse_argv
 DECL|function|parse_checkpoint
 DECL|function|parse_data
 DECL|function|parse_feature
@@ -59,6 +60,7 @@ DECL|function|parse_new_commit
 DECL|function|parse_new_tag
 DECL|function|parse_one_feature
 DECL|function|parse_one_option
+DECL|function|parse_option
 DECL|function|parse_progress
 DECL|function|parse_reset_branch
 DECL|function|pool_alloc
@@ -183,6 +185,8 @@ DECL|variable|failure
 DECL|variable|fast_import_usage
 DECL|variable|first_tag
 DECL|variable|force_update
+DECL|variable|global_argc
+DECL|variable|global_argv
 DECL|variable|import_marks_file
 DECL|variable|last_blob
 DECL|variable|last_tag
