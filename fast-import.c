@@ -47,6 +47,7 @@ DECL|function|option_import_marks
 DECL|function|option_max_pack_size
 DECL|function|parse_checkpoint
 DECL|function|parse_data
+DECL|function|parse_feature
 DECL|function|parse_from
 DECL|function|parse_from_commit
 DECL|function|parse_from_existing
@@ -56,6 +57,7 @@ DECL|function|parse_merge
 DECL|function|parse_new_blob
 DECL|function|parse_new_commit
 DECL|function|parse_new_tag
+DECL|function|parse_one_feature
 DECL|function|parse_one_option
 DECL|function|parse_progress
 DECL|function|parse_reset_branch
@@ -206,6 +208,7 @@ DECL|variable|pack_edges
 DECL|variable|pack_id
 DECL|variable|pack_size
 DECL|variable|rc_free
+DECL|variable|seen_data_command
 DECL|variable|show_stats
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
