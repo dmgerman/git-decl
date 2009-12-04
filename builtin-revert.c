@@ -13,6 +13,7 @@ DECL|function|revert_or_cherry_pick
 DECL|function|set_author_ident_env
 DECL|macro|GIT_REFLOG_ACTION
 DECL|variable|action
+DECL|variable|allow_rerere_auto
 DECL|variable|cherry_pick_usage
 DECL|variable|commit
 DECL|variable|edit
