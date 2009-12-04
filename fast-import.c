@@ -62,6 +62,7 @@ DECL|function|parse_reset_branch
 DECL|function|pool_alloc
 DECL|function|pool_calloc
 DECL|function|pool_strdup
+DECL|function|read_marks
 DECL|function|read_next_command
 DECL|function|release_tree_content
 DECL|function|release_tree_content_recursive
@@ -175,13 +176,14 @@ DECL|variable|command_buf
 DECL|variable|cur_active_branches
 DECL|variable|delta_count_by_type
 DECL|variable|duplicate_count_by_type
+DECL|variable|export_marks_file
 DECL|variable|failure
 DECL|variable|fast_import_usage
 DECL|variable|first_tag
 DECL|variable|force_update
+DECL|variable|import_marks_file
 DECL|variable|last_blob
 DECL|variable|last_tag
-DECL|variable|mark_file
 DECL|variable|marks
 DECL|variable|marks_set_count
 DECL|variable|max_active_branches
