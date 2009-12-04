@@ -24,7 +24,6 @@ DECL|function|git_pack_config
 DECL|function|grow_tree_content
 DECL|function|hc_entries
 DECL|function|hc_str
-DECL|function|import_marks
 DECL|function|insert_mark
 DECL|function|insert_object
 DECL|function|keep_pack
@@ -39,6 +38,13 @@ DECL|function|new_tree_content
 DECL|function|new_tree_entry
 DECL|function|note_change_n
 DECL|function|oecmp
+DECL|function|option_active_branches
+DECL|function|option_date_format
+DECL|function|option_depth
+DECL|function|option_export_marks
+DECL|function|option_export_pack_edges
+DECL|function|option_import_marks
+DECL|function|option_max_pack_size
 DECL|function|parse_checkpoint
 DECL|function|parse_data
 DECL|function|parse_from
@@ -50,6 +56,7 @@ DECL|function|parse_merge
 DECL|function|parse_new_blob
 DECL|function|parse_new_commit
 DECL|function|parse_new_tag
+DECL|function|parse_one_option
 DECL|function|parse_progress
 DECL|function|parse_reset_branch
 DECL|function|pool_alloc
@@ -197,6 +204,7 @@ DECL|variable|pack_edges
 DECL|variable|pack_id
 DECL|variable|pack_size
 DECL|variable|rc_free
+DECL|variable|show_stats
 DECL|variable|total_allocd
 DECL|variable|tree_entry_alloc
 DECL|variable|unread_command_buf
