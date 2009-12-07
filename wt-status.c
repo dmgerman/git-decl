@@ -1,5 +1,6 @@
 DECL|function|color
 DECL|function|unmerged_mask
+DECL|function|wt_porcelain_print
 DECL|function|wt_shortstatus_print
 DECL|function|wt_shortstatus_status
 DECL|function|wt_shortstatus_unmerged
