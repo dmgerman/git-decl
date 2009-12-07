@@ -1,4 +1,6 @@
 DECL|function|ambiguous_path
+DECL|function|diagnose_invalid_index_path
+DECL|function|diagnose_invalid_sha1_path
 DECL|function|dwim_log
 DECL|function|dwim_ref
 DECL|function|find_short_object_filename
@@ -12,7 +14,7 @@ DECL|function|get_sha1
 DECL|function|get_sha1_1
 DECL|function|get_sha1_basic
 DECL|function|get_sha1_oneline
-DECL|function|get_sha1_with_mode
+DECL|function|get_sha1_with_mode_1
 DECL|function|get_short_sha1
 DECL|function|grab_nth_branch_switch
 DECL|function|handle_one_ref
