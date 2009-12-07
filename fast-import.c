@@ -2,9 +2,13 @@ DECL|enumerator|WHENSPEC_NOW
 DECL|enumerator|WHENSPEC_RAW
 DECL|enumerator|WHENSPEC_RFC2822
 DECL|function|alloc_objects
+DECL|function|change_note_fanout
+DECL|function|construct_path_with_fanout
+DECL|function|convert_num_notes_to_fanout
 DECL|function|create_index
 DECL|function|cycle_packfile
 DECL|function|die_nicely
+DECL|function|do_change_note_fanout
 DECL|function|dump_branches
 DECL|function|dump_marks
 DECL|function|dump_marks_helper
@@ -112,6 +116,7 @@ DECL|member|next_pool
 DECL|member|next_pool
 DECL|member|next_tag
 DECL|member|no_swap
+DECL|member|num_notes
 DECL|member|offset
 DECL|member|offset
 DECL|member|pack_id
