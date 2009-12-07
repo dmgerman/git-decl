@@ -65,6 +65,7 @@ DECL|macro|REF_KNOWS_PEELED
 DECL|member|did_loose
 DECL|member|did_packed
 DECL|member|flag
+DECL|member|fp
 DECL|member|loose
 DECL|member|msg_fmt
 DECL|member|name

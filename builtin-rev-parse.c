@@ -1,3 +1,4 @@
+DECL|function|anti_reference
 DECL|function|cmd_parseopt
 DECL|function|cmd_rev_parse
 DECL|function|cmd_sq_quote
@@ -26,6 +27,7 @@ DECL|macro|SHOW_SYMBOLIC_FULL
 DECL|variable|abbrev
 DECL|variable|abbrev_ref
 DECL|variable|abbrev_ref_strict
+DECL|variable|builtin_rev_parse_usage
 DECL|variable|def
 DECL|variable|filter
 DECL|variable|output_sq

@@ -7,6 +7,9 @@ DECL|function|getppid
 DECL|function|getpwnam
 DECL|function|getuid
 DECL|function|git_ntohl
+DECL|function|mingw_SSL_set_fd
+DECL|function|mingw_SSL_set_rfd
+DECL|function|mingw_SSL_set_wfd
 DECL|function|mingw_mkdir
 DECL|function|mingw_unlink
 DECL|function|readlink
@@ -36,6 +39,9 @@ DECL|macro|SIGHUP
 DECL|macro|SIGKILL
 DECL|macro|SIGPIPE
 DECL|macro|SIGQUIT
+DECL|macro|SSL_set_fd
+DECL|macro|SSL_set_rfd
+DECL|macro|SSL_set_wfd
 DECL|macro|S_IFLNK
 DECL|macro|S_IRGRP
 DECL|macro|S_IROTH
@@ -56,10 +62,13 @@ DECL|macro|execvp
 DECL|macro|exit
 DECL|macro|fprintf
 DECL|macro|fputs
+DECL|macro|freeaddrinfo
 DECL|macro|fstat
+DECL|macro|getaddrinfo
 DECL|macro|getcwd
 DECL|macro|getenv
 DECL|macro|gethostbyname
+DECL|macro|getnameinfo
 DECL|macro|getpagesize
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror

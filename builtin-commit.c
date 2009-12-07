@@ -57,6 +57,7 @@ DECL|variable|no_verify
 DECL|variable|only
 DECL|variable|only_include_assumed
 DECL|variable|quiet
+DECL|variable|renew_authorship
 DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|template_file

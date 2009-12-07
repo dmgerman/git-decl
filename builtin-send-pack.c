@@ -1,6 +1,7 @@
 DECL|function|cmd_send_pack
 DECL|function|feed_object
 DECL|function|pack_objects
+DECL|function|print_helper_status
 DECL|function|print_ok_ref_status
 DECL|function|print_one_push_status
 DECL|function|print_push_status

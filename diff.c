@@ -48,6 +48,7 @@ DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
 DECL|function|diff_words_append
 DECL|function|diff_words_fill
+DECL|function|diff_words_flush
 DECL|function|diff_words_show
 DECL|function|diffcore_apply_filter
 DECL|function|diffcore_skip_stat_unmatch
@@ -58,6 +59,7 @@ DECL|function|dirstat_compare
 DECL|function|emit_add_line
 DECL|function|emit_binary_diff
 DECL|function|emit_binary_diff_body
+DECL|function|emit_hunk_header
 DECL|function|emit_line
 DECL|function|emit_line_0
 DECL|function|emit_rewrite_diff

@@ -47,6 +47,7 @@ DECL|variable|email
 DECL|variable|fin
 DECL|variable|fout
 DECL|variable|header
+DECL|variable|keep_non_patch_brackets_in_subject
 DECL|variable|keep_subject
 DECL|variable|line
 DECL|variable|mailinfo_usage
@@ -58,4 +59,5 @@ DECL|variable|patch_lines
 DECL|variable|patchfile
 DECL|variable|s_hdr_data
 DECL|variable|transfer_encoding
+DECL|variable|use_inbody_headers
 DECL|variable|use_scissors

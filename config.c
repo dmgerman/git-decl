@@ -15,6 +15,7 @@ DECL|function|git_config_bool_or_int
 DECL|function|git_config_from_file
 DECL|function|git_config_global
 DECL|function|git_config_int
+DECL|function|git_config_pathname
 DECL|function|git_config_rename_section
 DECL|function|git_config_set
 DECL|function|git_config_set_multivar
