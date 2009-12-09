@@ -1,6 +1,7 @@
 DECL|function|close_bundle
 DECL|function|connect_setup
 DECL|function|disconnect_git
+DECL|function|external_specification_len
 DECL|function|fetch_objs_via_rsync
 DECL|function|fetch_refs_from_bundle
 DECL|function|fetch_refs_via_pack
@@ -11,6 +12,7 @@ DECL|function|git_transport_push
 DECL|function|insert_packed_refs
 DECL|function|is_file
 DECL|function|is_local
+DECL|function|is_url
 DECL|function|print_ok_ref_status
 DECL|function|print_one_push_status
 DECL|function|print_push_status

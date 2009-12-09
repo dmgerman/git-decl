@@ -9,6 +9,7 @@ DECL|function|has_attribute
 DECL|function|push_refs
 DECL|function|recvline
 DECL|function|release_helper
+DECL|function|remove_ext_force
 DECL|function|sendline
 DECL|function|set_helper_option
 DECL|function|standard_options
