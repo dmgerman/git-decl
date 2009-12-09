@@ -1,3 +1,4 @@
+DECL|function|connect_helper
 DECL|function|disconnect_helper
 DECL|function|do_take_over
 DECL|function|fetch

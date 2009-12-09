@@ -1,4 +1,5 @@
 DECL|function|close_bundle
+DECL|function|connect_git
 DECL|function|connect_setup
 DECL|function|disconnect_git
 DECL|function|external_specification_len
@@ -26,6 +27,7 @@ DECL|function|set_git_option
 DECL|function|status_abbrev
 DECL|function|str_cmp
 DECL|function|transport_anonymize_url
+DECL|function|transport_connect
 DECL|function|transport_disconnect
 DECL|function|transport_fetch_refs
 DECL|function|transport_get
