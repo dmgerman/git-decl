@@ -39,15 +39,10 @@ DECL|function|write_one_ref
 DECL|function|write_refs_to_temp_dir
 DECL|macro|SUMMARY_WIDTH
 DECL|member|conn
-DECL|member|depth
 DECL|member|extra_have
 DECL|member|fd
 DECL|member|fd
-DECL|member|followtags
 DECL|member|header
-DECL|member|keep
-DECL|member|receivepack
-DECL|member|thin
-DECL|member|uploadpack
+DECL|member|options
 DECL|struct|bundle_transport_data
 DECL|struct|git_transport_data
