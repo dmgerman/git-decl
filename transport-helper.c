@@ -25,6 +25,7 @@ DECL|member|out
 DECL|member|push
 DECL|member|refspec_nr
 DECL|member|refspecs
+DECL|member|transport_options
 DECL|struct|helper_data
 DECL|variable|boolean_options
 DECL|variable|debug

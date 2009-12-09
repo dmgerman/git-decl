@@ -32,6 +32,7 @@ DECL|function|transport_get
 DECL|function|transport_get_remote_refs
 DECL|function|transport_push
 DECL|function|transport_set_option
+DECL|function|transport_take_over
 DECL|function|transport_unlock_pack
 DECL|function|update_tracking_ref
 DECL|function|verify_remote_names
@@ -42,6 +43,7 @@ DECL|member|conn
 DECL|member|extra_have
 DECL|member|fd
 DECL|member|fd
+DECL|member|got_remote_heads
 DECL|member|header
 DECL|member|options
 DECL|struct|bundle_transport_data
