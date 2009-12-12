@@ -54,7 +54,6 @@ DECL|variable|index_lock
 DECL|variable|initial_commit
 DECL|variable|interactive
 DECL|variable|logfile
-DECL|variable|merge_head_sha1
 DECL|variable|message
 DECL|variable|no_verify
 DECL|variable|null_termination
