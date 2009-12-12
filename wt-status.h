@@ -17,6 +17,7 @@ DECL|member|color_palette
 DECL|member|commitable
 DECL|member|fp
 DECL|member|head_path
+DECL|member|in_merge
 DECL|member|index_file
 DECL|member|index_status
 DECL|member|is_initial
