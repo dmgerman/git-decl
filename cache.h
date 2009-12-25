@@ -209,6 +209,7 @@ DECL|macro|remove_file_from_cache
 DECL|macro|rename_cache_entry_at
 DECL|macro|resolve_undo_clear
 DECL|macro|unmerge_cache
+DECL|macro|unmerge_cache_entry_at
 DECL|macro|unmerged_cache
 DECL|macro|write_cache
 DECL|member|alloc
