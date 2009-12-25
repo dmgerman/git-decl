@@ -23,6 +23,7 @@ DECL|variable|option_mirror
 DECL|variable|option_no_checkout
 DECL|variable|option_no_hardlinks
 DECL|variable|option_origin
+DECL|variable|option_progress
 DECL|variable|option_quiet
 DECL|variable|option_recursive
 DECL|variable|option_reference
