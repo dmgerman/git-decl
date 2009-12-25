@@ -60,6 +60,7 @@ DECL|function|verify_path
 DECL|function|write_index
 DECL|function|write_index_ext_header
 DECL|macro|CACHE_EXT
+DECL|macro|CACHE_EXT_RESOLVE_UNDO
 DECL|macro|CACHE_EXT_TREE
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|macro|WRITE_BUFFER_SIZE

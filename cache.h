@@ -207,6 +207,7 @@ DECL|macro|refresh_cache
 DECL|macro|remove_cache_entry_at
 DECL|macro|remove_file_from_cache
 DECL|macro|rename_cache_entry_at
+DECL|macro|resolve_undo_clear
 DECL|macro|unmerged_cache
 DECL|macro|write_cache
 DECL|member|alloc
@@ -302,6 +303,7 @@ DECL|member|prefix_len_stat_func
 DECL|member|quiet
 DECL|member|refresh_cache
 DECL|member|remote_status
+DECL|member|resolve_undo
 DECL|member|sec
 DECL|member|sha1
 DECL|member|sha1
