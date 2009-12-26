@@ -13,6 +13,7 @@ DECL|member|fetch_refspec_alloc
 DECL|member|fetch_refspec_nr
 DECL|member|fetch_tags
 DECL|member|force
+DECL|member|foreign_vcs
 DECL|member|http_proxy
 DECL|member|matching
 DECL|member|merge
