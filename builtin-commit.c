@@ -4,6 +4,9 @@ DECL|enumerator|CLEANUP_SPACE
 DECL|enumerator|COMMIT_AS_IS
 DECL|enumerator|COMMIT_NORMAL
 DECL|enumerator|COMMIT_PARTIAL
+DECL|enumerator|STATUS_FORMAT_LONG
+DECL|enumerator|STATUS_FORMAT_PORCELAIN
+DECL|enumerator|STATUS_FORMAT_SHORT
 DECL|function|add_remove_files
 DECL|function|cmd_commit
 DECL|function|cmd_status
@@ -15,6 +18,7 @@ DECL|function|ends_rfc2822_footer
 DECL|function|find_author_by_nickname
 DECL|function|git_commit_config
 DECL|function|git_status_config
+DECL|function|handle_untracked_files_arg
 DECL|function|is_a_merge
 DECL|function|list_paths
 DECL|function|message_is_empty
@@ -51,15 +55,16 @@ DECL|variable|index_lock
 DECL|variable|initial_commit
 DECL|variable|interactive
 DECL|variable|logfile
-DECL|variable|merge_head_sha1
 DECL|variable|message
 DECL|variable|no_verify
+DECL|variable|null_termination
 DECL|variable|only
 DECL|variable|only_include_assumed
 DECL|variable|quiet
 DECL|variable|renew_authorship
 DECL|variable|sign_off_header
 DECL|variable|signoff
+DECL|variable|status_format
 DECL|variable|template_file
 DECL|variable|untracked_files_arg
 DECL|variable|use_editor

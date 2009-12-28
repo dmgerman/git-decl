@@ -17,10 +17,12 @@ DECL|member|color_palette
 DECL|member|commitable
 DECL|member|fp
 DECL|member|head_path
+DECL|member|in_merge
 DECL|member|index_file
 DECL|member|index_status
 DECL|member|is_initial
 DECL|member|nowarn
+DECL|member|pathspec
 DECL|member|prefix
 DECL|member|reference
 DECL|member|relative_paths
