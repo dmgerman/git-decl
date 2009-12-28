@@ -115,3 +115,4 @@ DECL|struct|pollfd
 DECL|struct|sigaction
 DECL|typedef|pid_t
 DECL|typedef|sig_handler_t
+DECL|typedef|uid_t
