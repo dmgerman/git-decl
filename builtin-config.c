@@ -26,6 +26,7 @@ DECL|macro|ACTION_UNSET_ALL
 DECL|macro|TYPE_BOOL
 DECL|macro|TYPE_BOOL_OR_INT
 DECL|macro|TYPE_INT
+DECL|macro|TYPE_PATH
 DECL|variable|actions
 DECL|variable|builtin_config_options
 DECL|variable|builtin_config_usage
