@@ -2,6 +2,7 @@ DECL|macro|MAX_UNPACK_TREES
 DECL|macro|UNPACK_TREES_H
 DECL|member|aggressive
 DECL|member|bind_overlap
+DECL|member|cache_bottom
 DECL|member|df_conflict_entry
 DECL|member|diff_index_cached
 DECL|member|dir
@@ -17,7 +18,6 @@ DECL|member|msgs
 DECL|member|nontrivial_merge
 DECL|member|not_uptodate_dir
 DECL|member|not_uptodate_file
-DECL|member|pos
 DECL|member|prefix
 DECL|member|reset
 DECL|member|result

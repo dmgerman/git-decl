@@ -1,6 +1,8 @@
 DECL|function|add_entry
+DECL|function|add_same_unmerged
 DECL|function|bind_merge
 DECL|function|call_unpack_fn
+DECL|function|ce_in_traverse_path
 DECL|function|check_updates
 DECL|function|compare_entry
 DECL|function|create_ce_entry
@@ -9,7 +11,12 @@ DECL|function|do_compare_entry
 DECL|function|icase_exists
 DECL|function|invalidate_ce_path
 DECL|function|keep_entry
+DECL|function|locate_in_src_index
+DECL|function|mark_all_ce_unused
+DECL|function|mark_ce_used
+DECL|function|mark_ce_used_same_name
 DECL|function|merged_entry
+DECL|function|next_cache_entry
 DECL|function|oneway_merge
 DECL|function|reject_merge
 DECL|function|same
