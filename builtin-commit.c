@@ -49,6 +49,7 @@ DECL|variable|edit_flag
 DECL|variable|edit_message
 DECL|variable|false_lock
 DECL|variable|force_author
+DECL|variable|force_date
 DECL|variable|head_sha1
 DECL|variable|in_merge
 DECL|variable|index_lock
