@@ -43,6 +43,7 @@ DECL|function|setup_standard_excludes
 DECL|function|simple_length
 DECL|function|simplify_away
 DECL|function|treat_directory
+DECL|function|treat_leading_path
 DECL|function|treat_one_path
 DECL|function|treat_path
 DECL|member|len
