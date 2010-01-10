@@ -16,6 +16,7 @@ DECL|function|push
 DECL|function|push_dav
 DECL|function|push_git
 DECL|function|rpc_in
+DECL|function|rpc_ioctl
 DECL|function|rpc_out
 DECL|function|rpc_service
 DECL|function|set_option
@@ -32,6 +33,7 @@ DECL|member|gzip_request
 DECL|member|hdr_accept
 DECL|member|hdr_content_type
 DECL|member|in
+DECL|member|initial_buffer
 DECL|member|len
 DECL|member|len
 DECL|member|out
