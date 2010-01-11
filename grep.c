@@ -16,6 +16,7 @@ DECL|function|free_pattern_expr
 DECL|function|grep_buffer
 DECL|function|grep_buffer_1
 DECL|function|is_fixed
+DECL|function|look_ahead
 DECL|function|match_expr
 DECL|function|match_expr_eval
 DECL|function|match_funcname
@@ -23,6 +24,7 @@ DECL|function|match_line
 DECL|function|match_next_pattern
 DECL|function|match_one_pattern
 DECL|function|next_match
+DECL|function|should_lookahead
 DECL|function|show_funcname_line
 DECL|function|show_line
 DECL|function|show_name
