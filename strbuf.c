@@ -25,7 +25,6 @@ DECL|function|strbuf_remove
 DECL|function|strbuf_rtrim
 DECL|function|strbuf_splice
 DECL|function|strbuf_split
-DECL|function|strbuf_tolower
 DECL|function|strbuf_trim
 DECL|macro|STRBUF_MAXLINK
 DECL|variable|strbuf_slopbuf
