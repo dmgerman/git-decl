@@ -3,6 +3,8 @@ DECL|function|lookup_archiver
 DECL|function|parse_archive_args
 DECL|function|parse_pathspec_arg
 DECL|function|parse_treeish_arg
+DECL|function|path_exists
+DECL|function|reject_entry
 DECL|function|setup_archive_check
 DECL|function|sha1_file_to_archive
 DECL|function|write_archive
