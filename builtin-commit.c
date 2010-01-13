@@ -46,6 +46,7 @@ DECL|variable|edit_message
 DECL|variable|false_lock
 DECL|variable|force_author
 DECL|variable|head_sha1
+DECL|variable|implicit_ident_advice
 DECL|variable|in_merge
 DECL|variable|index_lock
 DECL|variable|initial_commit
