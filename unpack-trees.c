@@ -1,4 +1,5 @@
 DECL|function|add_entry
+DECL|function|apply_sparse_checkout
 DECL|function|bind_merge
 DECL|function|call_unpack_fn
 DECL|function|check_updates
@@ -24,9 +25,14 @@ DECL|function|unpack_index_entry
 DECL|function|unpack_nondirectories
 DECL|function|unpack_trees
 DECL|function|verify_absent
+DECL|function|verify_absent_1
+DECL|function|verify_absent_sparse
 DECL|function|verify_clean_subdirectory
 DECL|function|verify_clean_submodule
 DECL|function|verify_uptodate
+DECL|function|verify_uptodate_1
+DECL|function|verify_uptodate_sparse
+DECL|function|will_have_skip_worktree
 DECL|macro|ERRORMSG
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|variable|state

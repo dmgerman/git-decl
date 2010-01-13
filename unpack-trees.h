@@ -6,6 +6,7 @@ DECL|member|df_conflict_entry
 DECL|member|diff_index_cached
 DECL|member|dir
 DECL|member|dst_index
+DECL|member|el
 DECL|member|fn
 DECL|member|gently
 DECL|member|head_idx
@@ -21,12 +22,15 @@ DECL|member|pos
 DECL|member|prefix
 DECL|member|reset
 DECL|member|result
+DECL|member|skip_sparse_checkout
 DECL|member|skip_unmerged
+DECL|member|sparse_not_uptodate_file
 DECL|member|src_index
 DECL|member|trivial_merges_only
 DECL|member|unpack_data
 DECL|member|update
 DECL|member|verbose_update
+DECL|member|would_lose_orphaned
 DECL|member|would_lose_untracked
 DECL|member|would_overwrite
 DECL|struct|unpack_trees_error_msgs

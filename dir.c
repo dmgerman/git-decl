@@ -8,7 +8,7 @@ DECL|enum|directory_treatment
 DECL|enum|exist_status
 DECL|function|add_exclude
 DECL|function|add_excludes_from_file
-DECL|function|add_excludes_from_file_1
+DECL|function|add_excludes_from_file_to_list
 DECL|function|cmp_name
 DECL|function|common_prefix
 DECL|function|create_simplify
@@ -17,7 +17,7 @@ DECL|function|dir_add_name
 DECL|function|dir_entry_new
 DECL|function|directory_exists_in_index
 DECL|function|excluded
-DECL|function|excluded_1
+DECL|function|excluded_from_list
 DECL|function|file_exists
 DECL|function|fill_directory
 DECL|function|free_simplify
@@ -33,6 +33,7 @@ DECL|function|no_wildcard
 DECL|function|prep_exclude
 DECL|function|read_directory
 DECL|function|read_directory_recursive
+DECL|function|read_skip_worktree_file_from_index
 DECL|function|remove_dir_recursively
 DECL|function|remove_path
 DECL|function|setup_standard_excludes

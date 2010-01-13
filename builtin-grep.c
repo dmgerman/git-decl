@@ -14,6 +14,7 @@ DECL|function|grep_file
 DECL|function|grep_object
 DECL|function|grep_sha1
 DECL|function|grep_tree
+DECL|function|has_skip_worktree_entry
 DECL|function|help_callback
 DECL|function|is_subdir
 DECL|function|not_callback

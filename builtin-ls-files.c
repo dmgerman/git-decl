@@ -35,5 +35,6 @@ DECL|variable|tag_killed
 DECL|variable|tag_modified
 DECL|variable|tag_other
 DECL|variable|tag_removed
+DECL|variable|tag_skip_worktree
 DECL|variable|tag_unmerged
 DECL|variable|with_tree
