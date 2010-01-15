@@ -6,6 +6,7 @@ DECL|function|context_callback
 DECL|function|file_callback
 DECL|function|grep_cache
 DECL|function|grep_config
+DECL|function|grep_directory
 DECL|function|grep_file
 DECL|function|grep_object
 DECL|function|grep_sha1
