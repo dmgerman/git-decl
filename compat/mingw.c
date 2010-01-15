@@ -41,6 +41,7 @@ DECL|function|mingw_rename
 DECL|function|mingw_signal
 DECL|function|mingw_socket
 DECL|function|mingw_spawnve
+DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
 DECL|function|mingw_utime
 DECL|function|mkstemp
