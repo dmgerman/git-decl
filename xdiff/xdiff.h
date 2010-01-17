@@ -1,3 +1,4 @@
+DECL|macro|DEFAULT_CONFLICT_MARKER_SIZE
 DECL|macro|XDF_IGNORE_WHITESPACE
 DECL|macro|XDF_IGNORE_WHITESPACE_AT_EOL
 DECL|macro|XDF_IGNORE_WHITESPACE_CHANGE
@@ -34,6 +35,7 @@ DECL|member|find_func_priv
 DECL|member|flags
 DECL|member|flags
 DECL|member|interhunkctxlen
+DECL|member|marker_size
 DECL|member|outf
 DECL|member|priv
 DECL|member|ptr
