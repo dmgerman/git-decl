@@ -35,6 +35,8 @@ DECL|member|field
 DECL|member|fixed
 DECL|member|fixed
 DECL|member|funcname
+DECL|member|header_list
+DECL|member|header_tail
 DECL|member|hit
 DECL|member|ignore_case
 DECL|member|ignore_case
