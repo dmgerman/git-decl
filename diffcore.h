@@ -19,6 +19,7 @@ DECL|member|broken_pair
 DECL|member|cnt_data
 DECL|member|count
 DECL|member|data
+DECL|member|dirty_submodule
 DECL|member|driver
 DECL|member|funcname_pattern_ident
 DECL|member|is_binary
