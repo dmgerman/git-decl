@@ -52,6 +52,7 @@ DECL|variable|force_author
 DECL|variable|force_date
 DECL|variable|head_sha1
 DECL|variable|in_merge
+DECL|variable|include_status
 DECL|variable|index_lock
 DECL|variable|initial_commit
 DECL|variable|interactive
