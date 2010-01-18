@@ -36,6 +36,7 @@ DECL|function|read_remote_branches
 DECL|function|remove_branches
 DECL|function|rm
 DECL|function|set_head
+DECL|function|set_url
 DECL|function|show
 DECL|function|show_all
 DECL|function|show_local_info_item
@@ -89,6 +90,7 @@ DECL|variable|builtin_remote_prune_usage
 DECL|variable|builtin_remote_rename_usage
 DECL|variable|builtin_remote_rm_usage
 DECL|variable|builtin_remote_sethead_usage
+DECL|variable|builtin_remote_seturl_usage
 DECL|variable|builtin_remote_show_usage
 DECL|variable|builtin_remote_update_usage
 DECL|variable|builtin_remote_usage
