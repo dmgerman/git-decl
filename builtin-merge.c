@@ -35,6 +35,7 @@ DECL|member|name
 DECL|struct|strategy
 DECL|variable|all_strategy
 DECL|variable|allow_fast_forward
+DECL|variable|allow_rerere_auto
 DECL|variable|allow_trivial
 DECL|variable|branch
 DECL|variable|builtin_merge_options
