@@ -28,6 +28,7 @@ DECL|function|parse_status_slot
 DECL|function|prepare_index
 DECL|function|prepare_to_commit
 DECL|function|print_summary
+DECL|function|refresh_cache_or_die
 DECL|function|rollback_index_files
 DECL|function|run_status
 DECL|variable|all
