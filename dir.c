@@ -2,10 +2,14 @@ DECL|enumerator|ignore_directory
 DECL|enumerator|index_directory
 DECL|enumerator|index_gitdir
 DECL|enumerator|index_nonexistent
+DECL|enumerator|path_handled
+DECL|enumerator|path_ignored
+DECL|enumerator|path_recurse
 DECL|enumerator|recurse_into_directory
 DECL|enumerator|show_directory
 DECL|enum|directory_treatment
 DECL|enum|exist_status
+DECL|enum|path_treatment
 DECL|function|add_exclude
 DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_to_list
@@ -40,6 +44,9 @@ DECL|function|setup_standard_excludes
 DECL|function|simple_length
 DECL|function|simplify_away
 DECL|function|treat_directory
+DECL|function|treat_leading_path
+DECL|function|treat_one_path
+DECL|function|treat_path
 DECL|member|len
 DECL|member|path
 DECL|struct|path_simplify
