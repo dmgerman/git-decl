@@ -17,11 +17,12 @@ DECL|function|get_short_sha1
 DECL|function|grab_nth_branch_switch
 DECL|function|handle_one_ref
 DECL|function|interpret_branch_name
+DECL|function|interpret_nth_prior_checkout
 DECL|function|match_sha
 DECL|function|peel_onion
 DECL|function|peel_to_type
 DECL|function|substitute_branch_name
-DECL|function|tracked_suffix
+DECL|function|upstream_mark
 DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
