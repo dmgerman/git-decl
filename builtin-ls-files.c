@@ -10,7 +10,9 @@ DECL|function|show_ce_entry
 DECL|function|show_dir_entry
 DECL|function|show_files
 DECL|function|show_killed_files
+DECL|function|show_one_ru
 DECL|function|show_other_files
+DECL|function|show_ru_info
 DECL|function|strip_trailing_slash_from_submodules
 DECL|function|verify_pathspec
 DECL|variable|abbrev
@@ -27,6 +29,7 @@ DECL|variable|show_deleted
 DECL|variable|show_killed
 DECL|variable|show_modified
 DECL|variable|show_others
+DECL|variable|show_resolve_undo
 DECL|variable|show_stage
 DECL|variable|show_unmerged
 DECL|variable|show_valid_bit
@@ -35,6 +38,7 @@ DECL|variable|tag_killed
 DECL|variable|tag_modified
 DECL|variable|tag_other
 DECL|variable|tag_removed
+DECL|variable|tag_resolve_undo
 DECL|variable|tag_skip_worktree
 DECL|variable|tag_unmerged
 DECL|variable|with_tree
