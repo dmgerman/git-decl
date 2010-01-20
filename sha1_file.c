@@ -25,7 +25,6 @@ DECL|function|git_open_noatime
 DECL|function|has_loose_object
 DECL|function|has_loose_object_local
 DECL|function|has_loose_object_nonlocal
-DECL|function|has_pack_file
 DECL|function|has_pack_index
 DECL|function|has_packed_and_bad
 DECL|function|has_sha1_file

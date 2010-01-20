@@ -1,9 +1,7 @@
-DECL|function|clear_lstat_cache
 DECL|function|do_remove_scheduled_dirs
 DECL|function|has_dirs_only_path
 DECL|function|has_symlink_leading_path
 DECL|function|has_symlink_or_noent_leading_path
-DECL|function|invalidate_lstat_cache
 DECL|function|longest_path_match
 DECL|function|lstat_cache
 DECL|function|remove_scheduled_dirs
