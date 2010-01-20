@@ -57,6 +57,7 @@ DECL|function|remote_get
 DECL|function|remote_has_url
 DECL|function|remote_is_configured
 DECL|function|resolve_remote_symref
+DECL|function|set_ref_status_for_push
 DECL|function|stat_tracking_info
 DECL|function|tail_link_ref
 DECL|function|tail_ref
