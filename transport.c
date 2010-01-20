@@ -24,6 +24,7 @@ DECL|function|refs_pushed
 DECL|function|rsync_transport_push
 DECL|function|rsync_url
 DECL|function|set_git_option
+DECL|function|set_upstreams
 DECL|function|status_abbrev
 DECL|function|str_cmp
 DECL|function|transport_anonymize_url
