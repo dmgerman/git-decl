@@ -7,6 +7,7 @@ DECL|function|handle_cache
 DECL|function|handle_file
 DECL|function|handle_path
 DECL|function|has_rerere_resolution
+DECL|function|is_cmarker
 DECL|function|is_rerere_enabled
 DECL|function|merge
 DECL|function|read_rr
@@ -14,6 +15,7 @@ DECL|function|rerere
 DECL|function|rerere_file_getline
 DECL|function|rerere_forget
 DECL|function|rerere_forget_one_path
+DECL|function|rerere_io_putconflict
 DECL|function|rerere_io_putmem
 DECL|function|rerere_io_putstr
 DECL|function|rerere_mem_getline
