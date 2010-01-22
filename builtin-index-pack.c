@@ -2,6 +2,7 @@ DECL|function|append_obj_to_pack
 DECL|function|bad_object
 DECL|function|check_object
 DECL|function|check_objects
+DECL|function|cmd_index_pack
 DECL|function|compare_delta_entry
 DECL|function|delta_pos_compare
 DECL|function|fill
@@ -16,7 +17,6 @@ DECL|function|get_base_data
 DECL|function|get_data_from_pack
 DECL|function|git_index_pack_config
 DECL|function|link_base_data
-DECL|function|main
 DECL|function|mark_link
 DECL|function|open_pack_file
 DECL|function|parse_pack_header
