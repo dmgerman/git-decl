@@ -1,6 +1,6 @@
+DECL|function|cmd_var
 DECL|function|editor
 DECL|function|list_vars
-DECL|function|main
 DECL|function|pager
 DECL|function|read_var
 DECL|function|show_config
