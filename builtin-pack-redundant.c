@@ -1,5 +1,6 @@
 DECL|function|add_pack
 DECL|function|add_pack_file
+DECL|function|cmd_pack_redundant
 DECL|function|cmp_local_packs
 DECL|function|cmp_two_packs
 DECL|function|get_pack_redundancy
@@ -17,7 +18,6 @@ DECL|function|llist_sorted_difference_inplace
 DECL|function|llist_sorted_remove
 DECL|function|load_all
 DECL|function|load_all_objects
-DECL|function|main
 DECL|function|minimize
 DECL|function|pack_list_difference
 DECL|function|pack_list_insert
