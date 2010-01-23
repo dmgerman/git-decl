@@ -37,6 +37,7 @@ DECL|function|handle_reflog
 DECL|function|handle_refs
 DECL|function|handle_revision_arg
 DECL|function|handle_revision_opt
+DECL|function|init_all_refs_cb
 DECL|function|init_revisions
 DECL|function|insert_by_date_cached
 DECL|function|limit_list
