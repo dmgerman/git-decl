@@ -15,6 +15,8 @@ DECL|function|free_grep_patterns
 DECL|function|free_pattern_expr
 DECL|function|grep_buffer
 DECL|function|grep_buffer_1
+DECL|function|grep_opt_dup
+DECL|function|grep_threads_ok
 DECL|function|look_ahead
 DECL|function|match_expr
 DECL|function|match_expr_eval
@@ -28,6 +30,7 @@ DECL|function|show_funcname_line
 DECL|function|show_line
 DECL|function|show_name
 DECL|function|show_pre_context
+DECL|function|std_output
 DECL|function|strip_timestamp
 DECL|function|word_char
 DECL|member|field
