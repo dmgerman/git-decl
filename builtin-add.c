@@ -1,5 +1,6 @@
 DECL|function|add_config
 DECL|function|add_files
+DECL|function|add_files_to_cache
 DECL|function|cmd_add
 DECL|function|edit_patch
 DECL|function|fill_pathspec_matches
@@ -8,7 +9,11 @@ DECL|function|prune_directory
 DECL|function|refresh
 DECL|function|run_add_interactive
 DECL|function|treat_gitlinks
+DECL|function|update_callback
 DECL|function|validate_pathspec
+DECL|member|add_errors
+DECL|member|flags
+DECL|struct|update_callback_data
 DECL|variable|add_interactive
 DECL|variable|addremove
 DECL|variable|builtin_add_options

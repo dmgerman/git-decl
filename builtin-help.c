@@ -1,5 +1,6 @@
 DECL|enumerator|HELP_FORMAT_INFO
 DECL|enumerator|HELP_FORMAT_MAN
+DECL|enumerator|HELP_FORMAT_NONE
 DECL|enumerator|HELP_FORMAT_WEB
 DECL|enum|help_format
 DECL|function|add_man_viewer

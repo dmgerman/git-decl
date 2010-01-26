@@ -17,6 +17,7 @@ DECL|function|merge_trivial
 DECL|function|option_parse_message
 DECL|function|option_parse_n
 DECL|function|option_parse_strategy
+DECL|function|option_parse_x
 DECL|function|read_tree_trivial
 DECL|function|reset_hard
 DECL|function|restore_state
@@ -35,6 +36,7 @@ DECL|member|name
 DECL|struct|strategy
 DECL|variable|all_strategy
 DECL|variable|allow_fast_forward
+DECL|variable|allow_rerere_auto
 DECL|variable|allow_trivial
 DECL|variable|branch
 DECL|variable|builtin_merge_options
@@ -55,3 +57,6 @@ DECL|variable|use_strategies
 DECL|variable|use_strategies_alloc
 DECL|variable|use_strategies_nr
 DECL|variable|verbosity
+DECL|variable|xopts
+DECL|variable|xopts_alloc
+DECL|variable|xopts_nr

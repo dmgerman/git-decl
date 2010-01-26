@@ -1,4 +1,5 @@
 DECL|function|add_child
+DECL|function|addrcmp
 DECL|function|check_dead_children
 DECL|function|child_handler
 DECL|function|copy_to_log

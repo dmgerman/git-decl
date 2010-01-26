@@ -4,6 +4,7 @@ DECL|function|ensure_socket_initialization
 DECL|function|env_compare
 DECL|function|env_setenv
 DECL|function|err_win_to_posix
+DECL|function|filetime_to_hnsec
 DECL|function|filetime_to_time_t
 DECL|function|free_environ
 DECL|function|free_path_split
@@ -41,6 +42,7 @@ DECL|function|mingw_rename
 DECL|function|mingw_signal
 DECL|function|mingw_socket
 DECL|function|mingw_spawnve
+DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
 DECL|function|mingw_utime
 DECL|function|mkstemp

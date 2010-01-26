@@ -1,9 +1,9 @@
 DECL|function|add_merge_entry
+DECL|function|cmd_merge_tree
 DECL|function|create_entry
 DECL|function|explanation
 DECL|function|get_tree_descriptor
 DECL|function|link_entry
-DECL|function|main
 DECL|function|merge_trees
 DECL|function|origin
 DECL|function|resolve

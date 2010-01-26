@@ -10,6 +10,7 @@ DECL|function|check_object
 DECL|function|check_pack_inflate
 DECL|function|check_pbase_path
 DECL|function|cleanup_preferred_base
+DECL|function|cleanup_threaded_search
 DECL|function|cmd_pack_objects
 DECL|function|copy_pack_data
 DECL|function|delta_cacheable
@@ -23,6 +24,7 @@ DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
 DECL|function|has_sha1_pack_kept_or_nonlocal
+DECL|function|init_threaded_search
 DECL|function|ll_find_deltas
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
