@@ -1,5 +1,5 @@
-DECL|function|approxidate
 DECL|function|approxidate_alpha
+DECL|function|approxidate_careful
 DECL|function|approxidate_digit
 DECL|function|approxidate_relative
 DECL|function|approxidate_str
@@ -7,6 +7,7 @@ DECL|function|date_am
 DECL|function|date_midnight
 DECL|function|date_never
 DECL|function|date_noon
+DECL|function|date_now
 DECL|function|date_pm
 DECL|function|date_string
 DECL|function|date_tea
