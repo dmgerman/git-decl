@@ -7,9 +7,12 @@ DECL|macro|pthread_mutex_lock
 DECL|macro|pthread_mutex_t
 DECL|macro|pthread_mutex_unlock
 DECL|member|arg
+DECL|member|continue_broadcast
 DECL|member|handle
 DECL|member|sema
 DECL|member|start_routine
 DECL|member|waiters
+DECL|member|waiters_lock
+DECL|member|was_broadcast
 DECL|typedef|pthread_cond_t
 DECL|typedef|pthread_t

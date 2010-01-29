@@ -1,3 +1,4 @@
+DECL|function|pthread_cond_broadcast
 DECL|function|pthread_cond_destroy
 DECL|function|pthread_cond_init
 DECL|function|pthread_cond_signal
