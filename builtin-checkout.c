@@ -6,6 +6,7 @@ DECL|function|checkout_paths
 DECL|function|checkout_stage
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
+DECL|function|detach_advice
 DECL|function|fill_mm
 DECL|function|git_checkout_config
 DECL|function|interactive_checkout
