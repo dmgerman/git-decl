@@ -1,3 +1,4 @@
+DECL|function|do_cvs_cmd
 DECL|function|do_generic_cmd
 DECL|function|main
 DECL|member|exec

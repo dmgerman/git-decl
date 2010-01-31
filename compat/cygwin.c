@@ -1,0 +1,14 @@
+DECL|function|cygwin_lstat
+DECL|function|cygwin_lstat_stub
+DECL|function|cygwin_stat
+DECL|function|cygwin_stat_stub
+DECL|function|do_stat
+DECL|function|filetime_to_timespec
+DECL|function|git_cygwin_config
+DECL|function|init_stat
+DECL|macro|WIN32_LEAN_AND_MEAN
+DECL|macro|size_to_blocks
+DECL|variable|core_filemode
+DECL|variable|cygwin_lstat_fn
+DECL|variable|cygwin_stat_fn
+DECL|variable|native_stat

@@ -5,10 +5,10 @@ DECL|function|fetch_native_store
 DECL|function|find_local_name
 DECL|function|get_stdin
 DECL|function|parse_reflist
+DECL|function|pick_rref
 DECL|function|remove_keep
 DECL|function|remove_keep_on_signal
 DECL|function|show_new
 DECL|function|update_local_ref
-DECL|function|update_ref
-DECL|macro|CHUNK_SIZE
+DECL|function|update_ref_env
 DECL|variable|keep

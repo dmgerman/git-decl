@@ -8,6 +8,8 @@ DECL|function|cmd_show_branch
 DECL|function|compare_ref_name
 DECL|function|count_slash
 DECL|function|find_digit_prefix
+DECL|function|get_color_code
+DECL|function|get_color_reset_code
 DECL|function|git_show_branch_config
 DECL|function|interesting
 DECL|function|join_revs
@@ -26,6 +28,7 @@ DECL|function|show_one_commit
 DECL|function|snarf_refs
 DECL|function|sort_ref_range
 DECL|function|version_cmp
+DECL|macro|COLUMN_COLORS_MAX
 DECL|macro|DEFAULT_REFLOG
 DECL|macro|MAX_REVS
 DECL|macro|REV_SHIFT
@@ -33,6 +36,7 @@ DECL|macro|UNINTERESTING
 DECL|member|generation
 DECL|member|head_name
 DECL|struct|commit_name
+DECL|variable|column_colors
 DECL|variable|default_alloc
 DECL|variable|default_arg
 DECL|variable|default_num
@@ -40,5 +44,6 @@ DECL|variable|match_ref_pattern
 DECL|variable|match_ref_slash
 DECL|variable|ref_name
 DECL|variable|ref_name_cnt
+DECL|variable|reflog
 DECL|variable|show_branch_usage
-DECL|variable|show_branch_usage_reflog
+DECL|variable|showbranch_use_color

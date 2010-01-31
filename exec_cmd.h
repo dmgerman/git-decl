@@ -1,1 +1,1 @@
-DECL|macro|__GIT_EXEC_CMD_H_
+DECL|macro|GIT_EXEC_CMD_H

@@ -1,0 +1,13 @@
+DECL|function|add_commit
+DECL|function|add_commit_patch_id
+DECL|function|commit_patch_id
+DECL|function|free_patch_ids
+DECL|function|has_commit_patch_id
+DECL|function|init_patch_ids
+DECL|function|patch_id_access
+DECL|function|patch_pos
+DECL|macro|BUCKET_SIZE
+DECL|member|bucket
+DECL|member|next
+DECL|member|nr
+DECL|struct|patch_id_bucket

@@ -1,7 +1,7 @@
 DECL|function|add_spanhash
 DECL|function|diffcore_count_changes
 DECL|function|hash_chars
-DECL|function|spanhash_find
+DECL|function|spanhash_cmp
 DECL|function|spanhash_rehash
 DECL|macro|HASHBASE
 DECL|macro|INITIAL_FREE

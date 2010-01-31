@@ -1,0 +1,12 @@
+DECL|function|preload_index
+DECL|function|preload_index
+DECL|function|preload_thread
+DECL|function|read_index_preload
+DECL|macro|MAX_PARALLEL
+DECL|macro|THREAD_COST
+DECL|member|index
+DECL|member|nr
+DECL|member|offset
+DECL|member|pathspec
+DECL|member|pthread
+DECL|struct|thread_data

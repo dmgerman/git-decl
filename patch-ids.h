@@ -1,0 +1,10 @@
+DECL|macro|PATCH_IDS_H
+DECL|member|alloc
+DECL|member|diffopts
+DECL|member|nr
+DECL|member|patch_id
+DECL|member|patches
+DECL|member|seen
+DECL|member|table
+DECL|struct|patch_id
+DECL|struct|patch_ids

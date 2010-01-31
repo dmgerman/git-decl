@@ -2,11 +2,11 @@ DECL|macro|FLAG_BITS
 DECL|macro|OBJECT_H
 DECL|macro|TYPE_BITS
 DECL|member|alloc
-DECL|member|base
 DECL|member|count
 DECL|member|flags
 DECL|member|item
 DECL|member|item
+DECL|member|mode
 DECL|member|name
 DECL|member|next
 DECL|member|nr

@@ -1,7 +1,0 @@
-DECL|function|add_entry
-DECL|function|get_entry_index
-DECL|function|path_list_clear
-DECL|function|path_list_has_path
-DECL|function|path_list_insert
-DECL|function|path_list_lookup
-DECL|function|print_path_list

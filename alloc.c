@@ -5,3 +5,9 @@ DECL|macro|DEFINE_ALLOCATOR
 DECL|macro|REPORT
 DECL|macro|SZ_FMT
 DECL|macro|SZ_FMT
+DECL|member|blob
+DECL|member|commit
+DECL|member|object
+DECL|member|tag
+DECL|member|tree
+DECL|union|any_object

@@ -1,6 +1,15 @@
+DECL|enumerator|DIE_ON_ERR
+DECL|enumerator|MSG_ON_ERR
+DECL|enumerator|QUIET_ON_ERR
+DECL|enum|action_on_err
+DECL|macro|CHECK_REF_FORMAT_ERROR
+DECL|macro|CHECK_REF_FORMAT_OK
+DECL|macro|CHECK_REF_FORMAT_ONELEVEL
+DECL|macro|CHECK_REF_FORMAT_WILDCARD
 DECL|macro|REFS_H
 DECL|macro|REF_ISPACKED
 DECL|macro|REF_ISSYMREF
+DECL|macro|REF_NODEREF
 DECL|member|force_write
 DECL|member|lk
 DECL|member|lock_fd
