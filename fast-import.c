@@ -50,6 +50,7 @@ DECL|function|option_export_marks
 DECL|function|option_export_pack_edges
 DECL|function|option_import_marks
 DECL|function|option_max_pack_size
+DECL|function|parse_and_store_blob
 DECL|function|parse_argv
 DECL|function|parse_checkpoint
 DECL|function|parse_data
@@ -80,12 +81,14 @@ DECL|function|skip_optional_lf
 DECL|function|start_packfile
 DECL|function|store_object
 DECL|function|store_tree
+DECL|function|stream_blob
 DECL|function|tecmp0
 DECL|function|tecmp1
 DECL|function|to_atom
 DECL|function|tree_content_get
 DECL|function|tree_content_remove
 DECL|function|tree_content_set
+DECL|function|truncate_pack
 DECL|function|unkeep_all_packs
 DECL|function|unload_one_branch
 DECL|function|update_branch
@@ -174,6 +177,7 @@ DECL|variable|atom_table_sz
 DECL|variable|avail_tree_entry
 DECL|variable|avail_tree_table
 DECL|variable|avail_tree_table_sz
+DECL|variable|big_file_threshold
 DECL|variable|blocks
 DECL|variable|branch_count
 DECL|variable|branch_load_count
