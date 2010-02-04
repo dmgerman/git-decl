@@ -49,7 +49,6 @@ DECL|function|option_depth
 DECL|function|option_export_marks
 DECL|function|option_export_pack_edges
 DECL|function|option_import_marks
-DECL|function|option_max_pack_size
 DECL|function|parse_and_store_blob
 DECL|function|parse_argv
 DECL|function|parse_checkpoint
