@@ -6,6 +6,7 @@ DECL|enum|deny_action
 DECL|function|add_alternate_refs
 DECL|function|add_refs_from_alternate
 DECL|function|cmd_receive_pack
+DECL|function|copy_to_sideband
 DECL|function|delete_only
 DECL|function|execute_commands
 DECL|function|is_ref_checked_out
