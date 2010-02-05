@@ -11,7 +11,6 @@ DECL|function|file_callback
 DECL|function|get_work
 DECL|function|grep_cache
 DECL|function|grep_config
-DECL|function|grep_directory
 DECL|function|grep_file
 DECL|function|grep_file_async
 DECL|function|grep_object
