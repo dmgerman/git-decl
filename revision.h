@@ -72,6 +72,7 @@ DECL|member|numbered_files
 DECL|member|patch_suffix
 DECL|member|pending
 DECL|member|prefix
+DECL|member|pretty_given
 DECL|member|print_parents
 DECL|member|prune
 DECL|member|prune_data
@@ -86,6 +87,8 @@ DECL|member|show_all
 DECL|member|show_decorations
 DECL|member|show_log_size
 DECL|member|show_merge
+DECL|member|show_notes
+DECL|member|show_notes_given
 DECL|member|show_root_diff
 DECL|member|show_source
 DECL|member|shown_one
