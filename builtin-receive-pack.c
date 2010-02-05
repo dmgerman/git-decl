@@ -49,5 +49,6 @@ DECL|variable|sent_capabilities
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|update_post_hook
+DECL|variable|use_sideband
 DECL|variable|warn_unconfigured_deny_delete_current_msg
 DECL|variable|warn_unconfigured_deny_msg
