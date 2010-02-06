@@ -6,6 +6,7 @@ DECL|enum|deny_action
 DECL|function|add_alternate_refs
 DECL|function|add_refs_from_alternate
 DECL|function|cmd_receive_pack
+DECL|function|copy_to_sideband
 DECL|function|delete_only
 DECL|function|execute_commands
 DECL|function|is_ref_checked_out
@@ -31,7 +32,6 @@ DECL|member|ref_name
 DECL|struct|command
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
-DECL|variable|capabilities_to_send
 DECL|variable|commands
 DECL|variable|deny_current_branch
 DECL|variable|deny_delete_current
@@ -48,6 +48,8 @@ DECL|variable|receive_unpack_limit
 DECL|variable|refuse_unconfigured_deny_delete_current_msg
 DECL|variable|refuse_unconfigured_deny_msg
 DECL|variable|report_status
+DECL|variable|sent_capabilities
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|update_post_hook
+DECL|variable|use_sideband
