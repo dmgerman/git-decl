@@ -15,6 +15,9 @@ DECL|function|parse_pack_header
 DECL|function|read_head_info
 DECL|function|receive_pack_config
 DECL|function|report
+DECL|function|report_message
+DECL|function|rp_error
+DECL|function|rp_warning
 DECL|function|run_receive_hook
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
