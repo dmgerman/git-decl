@@ -17,6 +17,7 @@ DECL|variable|action
 DECL|variable|allow_rerere_auto
 DECL|variable|cherry_pick_usage
 DECL|variable|commit
+DECL|variable|commit_name
 DECL|variable|edit
 DECL|variable|mainline
 DECL|variable|me
