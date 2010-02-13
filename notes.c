@@ -21,6 +21,8 @@ DECL|function|note_tree_free
 DECL|function|note_tree_insert
 DECL|function|note_tree_remove
 DECL|function|note_tree_search
+DECL|function|prune_notes
+DECL|function|prune_notes_helper
 DECL|function|remove_note
 DECL|function|tree_write_stack_finish_subtree
 DECL|function|tree_write_stack_init_subtree
@@ -44,15 +46,18 @@ DECL|member|key_sha1
 DECL|member|mode
 DECL|member|next
 DECL|member|next
+DECL|member|next
 DECL|member|next_non_note
 DECL|member|path
 DECL|member|path
 DECL|member|root
 DECL|member|sha1
+DECL|member|sha1
 DECL|member|val_sha1
 DECL|struct|int_node
 DECL|struct|leaf_node
 DECL|struct|non_note
+DECL|struct|note_delete_list
 DECL|struct|tree_write_stack
 DECL|struct|write_each_note_data
 DECL|variable|default_notes_tree
