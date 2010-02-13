@@ -1,5 +1,7 @@
 DECL|function|add_note
-DECL|function|concatenate_notes
+DECL|function|combine_notes_concatenate
+DECL|function|combine_notes_ignore
+DECL|function|combine_notes_overwrite
 DECL|function|construct_path_with_fanout
 DECL|function|determine_fanout
 DECL|function|for_each_note

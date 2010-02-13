@@ -4,8 +4,10 @@ DECL|macro|NOTES_H
 DECL|macro|NOTES_INDENT
 DECL|macro|NOTES_INIT_EMPTY
 DECL|macro|NOTES_SHOW_HEADER
+DECL|member|combine_notes
 DECL|member|initialized
 DECL|member|ref
 DECL|member|root
 DECL|struct|notes_tree
+DECL|typedef|combine_notes_fn
 DECL|typedef|each_note_fn
