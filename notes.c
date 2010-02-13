@@ -1,5 +1,9 @@
 DECL|function|add_note
 DECL|function|concatenate_notes
+DECL|function|construct_path_with_fanout
+DECL|function|determine_fanout
+DECL|function|for_each_note
+DECL|function|for_each_note_helper
 DECL|function|format_note
 DECL|function|free_notes
 DECL|function|get_note
