@@ -1,6 +1,7 @@
 DECL|function|cmd_notes
 DECL|function|commit_notes
 DECL|function|create_note
+DECL|function|list_each_note
 DECL|function|parse_msg_arg
 DECL|function|write_commented_object
 DECL|function|write_note_data
