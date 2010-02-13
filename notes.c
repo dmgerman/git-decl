@@ -2,10 +2,10 @@ DECL|function|add_note
 DECL|function|concatenate_notes
 DECL|function|format_note
 DECL|function|free_notes
+DECL|function|get_note
 DECL|function|get_sha1_hex_segment
 DECL|function|init_notes
 DECL|function|load_subtree
-DECL|function|lookup_notes
 DECL|function|note_tree_consolidate
 DECL|function|note_tree_find
 DECL|function|note_tree_free
