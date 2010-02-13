@@ -44,5 +44,4 @@ DECL|struct|int_node
 DECL|struct|leaf_node
 DECL|struct|tree_write_stack
 DECL|struct|write_each_note_data
-DECL|variable|initialized
-DECL|variable|root_node
+DECL|variable|default_notes_tree
