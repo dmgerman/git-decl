@@ -1,3 +1,4 @@
+DECL|function|add_note
 DECL|function|concatenate_notes
 DECL|function|format_note
 DECL|function|free_notes
