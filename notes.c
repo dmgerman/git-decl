@@ -1,6 +1,6 @@
 DECL|function|concatenate_notes
+DECL|function|format_note
 DECL|function|free_notes
-DECL|function|get_commit_notes
 DECL|function|get_sha1_hex_segment
 DECL|function|initialize_notes
 DECL|function|load_subtree
