@@ -4,6 +4,7 @@ DECL|enumerator|FIELD_ULONG
 DECL|function|cmd_for_each_ref
 DECL|function|cmp_ref_sort
 DECL|function|compare_refs
+DECL|function|copy_advance
 DECL|function|copy_email
 DECL|function|copy_line
 DECL|function|copy_name
