@@ -35,6 +35,7 @@ DECL|function|show_tagger
 DECL|function|show_tree_object
 DECL|function|subject_prefix_callback
 DECL|function|thread_callback
+DECL|function|to_callback
 DECL|macro|THREAD_DEEP
 DECL|macro|THREAD_SHALLOW
 DECL|variable|auto_number
