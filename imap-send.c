@@ -1,16 +1,21 @@
+DECL|enumerator|AUTH_CRAM_MD5
 DECL|enumerator|LITERALPLUS
 DECL|enumerator|NAMESPACE
 DECL|enumerator|NOLOGIN
 DECL|enumerator|STARTTLS
 DECL|enumerator|UIDPLUS
 DECL|enum|CAPABILITY
+DECL|function|auth_cram_md5
 DECL|function|buffer_gets
 DECL|function|count_messages
+DECL|function|cram
+DECL|function|cram
 DECL|function|encode_html_chars
 DECL|function|free_generic_messages
 DECL|function|free_list
 DECL|function|get_cmd_result
 DECL|function|git_imap_config
+DECL|function|hexchar
 DECL|function|imap_close_server
 DECL|function|imap_close_store
 DECL|function|imap_exec
@@ -49,6 +54,7 @@ DECL|macro|DRV_MSG_BAD
 DECL|macro|DRV_OK
 DECL|macro|DRV_OK
 DECL|macro|DRV_STORE_BAD
+DECL|macro|ENCODED_SIZE
 DECL|macro|LIST
 DECL|macro|M_DEAD
 DECL|macro|M_FLAGS
@@ -57,6 +63,7 @@ DECL|macro|NIL
 DECL|macro|RESP_BAD
 DECL|macro|RESP_NO
 DECL|macro|RESP_OK
+DECL|member|auth_method
 DECL|member|buf
 DECL|member|buf
 DECL|member|bytes
