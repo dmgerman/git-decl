@@ -2,7 +2,6 @@ DECL|function|add_cacheinfo
 DECL|function|conflict_rename_dir
 DECL|function|conflict_rename_rename
 DECL|function|conflict_rename_rename_2
-DECL|function|fill_mm
 DECL|function|flush_buffer
 DECL|function|flush_output
 DECL|function|get_files_dirs
