@@ -41,6 +41,7 @@ DECL|variable|auto_number
 DECL|variable|builtin_format_patch_usage
 DECL|variable|builtin_log_usage
 DECL|variable|cherry_usage
+DECL|variable|decoration_style
 DECL|variable|default_attach
 DECL|variable|default_date_mode
 DECL|variable|default_show_root
