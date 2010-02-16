@@ -10,6 +10,7 @@ DECL|function|close_pack_windows
 DECL|function|close_sha1_file
 DECL|function|create_tmpfile
 DECL|function|directory_size
+DECL|function|encode_in_pack_object_header
 DECL|function|fill_sha1_path
 DECL|function|find_cached_object
 DECL|function|find_pack_entry

@@ -16,7 +16,6 @@ DECL|function|copy_pack_data
 DECL|function|delta_cacheable
 DECL|function|do_compress
 DECL|function|done_pbase_path_pos
-DECL|function|encode_header
 DECL|function|find_deltas
 DECL|function|free_unpacked
 DECL|function|get_delta
