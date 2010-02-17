@@ -114,6 +114,7 @@ DECL|member|entries
 DECL|member|entry_capacity
 DECL|member|entry_capacity
 DECL|member|entry_count
+DECL|member|idx
 DECL|member|last_commit
 DECL|member|marked
 DECL|member|mode
@@ -133,13 +134,11 @@ DECL|member|next_tag
 DECL|member|no_swap
 DECL|member|num_notes
 DECL|member|offset
-DECL|member|offset
 DECL|member|pack_id
 DECL|member|pack_id
 DECL|member|pack_id
 DECL|member|prev
 DECL|member|sets
-DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
