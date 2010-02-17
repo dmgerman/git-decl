@@ -42,7 +42,6 @@ DECL|function|new_object
 DECL|function|new_tree_content
 DECL|function|new_tree_entry
 DECL|function|note_change_n
-DECL|function|oecmp
 DECL|function|option_active_branches
 DECL|function|option_date_format
 DECL|function|option_depth
