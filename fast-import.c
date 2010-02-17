@@ -218,6 +218,7 @@ DECL|variable|pack_compression_level
 DECL|variable|pack_compression_seen
 DECL|variable|pack_data
 DECL|variable|pack_edges
+DECL|variable|pack_file
 DECL|variable|pack_id
 DECL|variable|pack_size
 DECL|variable|rc_free
