@@ -22,6 +22,7 @@ DECL|function|help_callback
 DECL|function|is_subdir
 DECL|function|load_file
 DECL|function|load_sha1
+DECL|function|lock_and_read_sha1_file
 DECL|function|not_callback
 DECL|function|open_callback
 DECL|function|pathspec_matches
