@@ -42,7 +42,6 @@ DECL|function|new_object
 DECL|function|new_tree_content
 DECL|function|new_tree_entry
 DECL|function|note_change_n
-DECL|function|oecmp
 DECL|function|option_active_branches
 DECL|function|option_date_format
 DECL|function|option_depth
@@ -114,6 +113,7 @@ DECL|member|entries
 DECL|member|entry_capacity
 DECL|member|entry_capacity
 DECL|member|entry_count
+DECL|member|idx
 DECL|member|last_commit
 DECL|member|marked
 DECL|member|mode
@@ -133,13 +133,11 @@ DECL|member|next_tag
 DECL|member|no_swap
 DECL|member|num_notes
 DECL|member|offset
-DECL|member|offset
 DECL|member|pack_id
 DECL|member|pack_id
 DECL|member|pack_id
 DECL|member|prev
 DECL|member|sets
-DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
@@ -219,6 +217,7 @@ DECL|variable|pack_compression_level
 DECL|variable|pack_compression_seen
 DECL|variable|pack_data
 DECL|variable|pack_edges
+DECL|variable|pack_file
 DECL|variable|pack_id
 DECL|variable|pack_size
 DECL|variable|rc_free
