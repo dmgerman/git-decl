@@ -1,3 +1,4 @@
+DECL|function|add_wrapped_shortlog_msg
 DECL|function|cmd_shortlog
 DECL|function|compare_by_number
 DECL|function|get_from_rev

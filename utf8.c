@@ -5,7 +5,6 @@ DECL|function|is_encoding_utf8
 DECL|function|is_utf8
 DECL|function|pick_one_utf8_char
 DECL|function|print_spaces
-DECL|function|print_wrapped_text
 DECL|function|reencode_string
 DECL|function|strbuf_add_indented_text
 DECL|function|strbuf_add_wrapped_text
