@@ -20,6 +20,7 @@ DECL|member|disconnect
 DECL|member|fetch
 DECL|member|followtags
 DECL|member|get_refs_list
+DECL|member|got_remote_refs
 DECL|member|keep
 DECL|member|pack_lockfile
 DECL|member|progress
