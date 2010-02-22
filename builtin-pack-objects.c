@@ -4,7 +4,6 @@ DECL|function|add_pbase_object
 DECL|function|add_preferred_base
 DECL|function|add_preferred_base_object
 DECL|function|add_ref_tag
-DECL|function|adjust_perm
 DECL|function|check_delta_limit
 DECL|function|check_object
 DECL|function|check_pack_inflate
