@@ -6,7 +6,9 @@ DECL|function|expand_user_path
 DECL|function|get_pathname
 DECL|function|getpw_str
 DECL|function|git_mkstemp
+DECL|function|git_mkstemp_mode
 DECL|function|git_mkstemps
+DECL|function|git_mkstemps_mode
 DECL|function|git_path
 DECL|function|git_pathdup
 DECL|function|git_snpath

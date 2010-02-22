@@ -13,6 +13,7 @@ DECL|function|xmalloc
 DECL|function|xmallocz
 DECL|function|xmemdupz
 DECL|function|xmkstemp
+DECL|function|xmkstemp_mode
 DECL|function|xmmap
 DECL|function|xread
 DECL|function|xrealloc
