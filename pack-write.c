@@ -1,3 +1,4 @@
+DECL|function|encode_in_pack_object_header
 DECL|function|fixup_pack_header_footer
 DECL|function|index_pack_lockfile
 DECL|function|sha1_compare
