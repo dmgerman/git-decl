@@ -24,10 +24,9 @@ DECL|variable|option_no_checkout
 DECL|variable|option_no_hardlinks
 DECL|variable|option_origin
 DECL|variable|option_progress
-DECL|variable|option_quiet
 DECL|variable|option_recursive
 DECL|variable|option_reference
 DECL|variable|option_shared
 DECL|variable|option_template
 DECL|variable|option_upload_pack
-DECL|variable|option_verbose
+DECL|variable|option_verbosity
