@@ -35,6 +35,7 @@ DECL|function|transport_get
 DECL|function|transport_get_remote_refs
 DECL|function|transport_push
 DECL|function|transport_set_option
+DECL|function|transport_set_verbosity
 DECL|function|transport_take_over
 DECL|function|transport_unlock_pack
 DECL|function|update_tracking_ref
