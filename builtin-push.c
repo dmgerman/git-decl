@@ -6,6 +6,7 @@ DECL|function|set_refspecs
 DECL|function|setup_default_push_refspecs
 DECL|function|setup_push_tracking
 DECL|variable|deleterefs
+DECL|variable|progress
 DECL|variable|push_usage
 DECL|variable|receivepack
 DECL|variable|refspec
