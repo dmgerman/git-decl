@@ -11,3 +11,4 @@ DECL|variable|receivepack
 DECL|variable|refspec
 DECL|variable|refspec_nr
 DECL|variable|thin
+DECL|variable|verbosity
