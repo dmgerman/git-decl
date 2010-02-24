@@ -20,6 +20,7 @@ DECL|function|quickfetch
 DECL|function|s_update_ref
 DECL|function|set_option
 DECL|function|store_updated_refs
+DECL|function|truncate_fetch_head
 DECL|function|unlock_pack
 DECL|function|unlock_pack_on_signal
 DECL|function|update_local_ref
