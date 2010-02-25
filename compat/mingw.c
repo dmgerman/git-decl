@@ -26,7 +26,9 @@ DECL|function|make_backslash_path
 DECL|function|mingw_connect
 DECL|function|mingw_execve
 DECL|function|mingw_execvp
+DECL|function|mingw_fopen
 DECL|function|mingw_freeaddrinfo
+DECL|function|mingw_freopen
 DECL|function|mingw_fstat
 DECL|function|mingw_getaddrinfo
 DECL|function|mingw_getcwd
@@ -61,6 +63,8 @@ DECL|function|ticktack
 DECL|function|time_t_to_filetime
 DECL|function|try_shell_exec
 DECL|macro|connect
+DECL|macro|fopen
+DECL|macro|freopen
 DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|getenv

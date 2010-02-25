@@ -60,9 +60,11 @@ DECL|macro|connect
 DECL|macro|dirent
 DECL|macro|execvp
 DECL|macro|exit
+DECL|macro|fopen
 DECL|macro|fprintf
 DECL|macro|fputs
 DECL|macro|freeaddrinfo
+DECL|macro|freopen
 DECL|macro|fstat
 DECL|macro|getaddrinfo
 DECL|macro|getcwd
