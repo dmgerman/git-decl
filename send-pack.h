@@ -1,6 +1,7 @@
 DECL|macro|SEND_PACK_H
 DECL|member|dry_run
 DECL|member|force_update
+DECL|member|porcelain
 DECL|member|quiet
 DECL|member|send_mirror
 DECL|member|stateless_rpc
