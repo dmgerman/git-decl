@@ -4,6 +4,7 @@ DECL|enumerator|FIELD_ULONG
 DECL|function|cmd_for_each_ref
 DECL|function|cmp_ref_sort
 DECL|function|compare_refs
+DECL|function|copy_advance
 DECL|function|copy_email
 DECL|function|copy_line
 DECL|function|copy_name
@@ -40,6 +41,7 @@ DECL|macro|QUOTE_SHELL
 DECL|macro|QUOTE_TCL
 DECL|member|atom
 DECL|member|cmp_type
+DECL|member|flag
 DECL|member|grab_array
 DECL|member|grab_cnt
 DECL|member|grab_pattern
@@ -49,6 +51,7 @@ DECL|member|objectname
 DECL|member|refname
 DECL|member|reverse
 DECL|member|s
+DECL|member|symref
 DECL|member|ul
 DECL|member|value
 DECL|struct|atom_value
@@ -57,6 +60,7 @@ DECL|struct|ref_sort
 DECL|struct|refinfo
 DECL|typedef|cmp_type
 DECL|variable|for_each_ref_usage
+DECL|variable|need_symref
 DECL|variable|need_tagged
 DECL|variable|ref_sort
 DECL|variable|sort_atom_limit
