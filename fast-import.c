@@ -14,7 +14,6 @@ DECL|function|dump_marks
 DECL|function|dump_marks_helper
 DECL|function|dump_tags
 DECL|function|dup_tree_content
-DECL|function|encode_header
 DECL|function|end_packfile
 DECL|function|file_change_cr
 DECL|function|file_change_d
