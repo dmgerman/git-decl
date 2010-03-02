@@ -27,7 +27,6 @@ DECL|function|will_fetch
 DECL|macro|REFCOL_WIDTH
 DECL|macro|STORE_REF_ERROR_DF_CONFLICT
 DECL|macro|STORE_REF_ERROR_OTHER
-DECL|macro|SUMMARY_WIDTH
 DECL|member|head
 DECL|member|list
 DECL|member|name
