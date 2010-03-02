@@ -5,6 +5,7 @@ DECL|function|git_xmerge_config
 DECL|function|parse_hunk_header
 DECL|function|parse_num
 DECL|function|process_diff
+DECL|function|read_mmblob
 DECL|function|read_mmfile
 DECL|function|trim_common_tail
 DECL|function|xdi_diff
