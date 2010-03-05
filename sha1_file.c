@@ -98,6 +98,7 @@ DECL|function|write_sha1_file_prepare
 DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
+DECL|macro|SMALL_FILE_SIZE
 DECL|macro|SZ_FMT
 DECL|macro|SZ_FMT
 DECL|member|base_offset
