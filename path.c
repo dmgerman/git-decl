@@ -19,6 +19,7 @@ DECL|function|make_relative_path
 DECL|function|mkpath
 DECL|function|mksnpath
 DECL|function|normalize_path_copy
+DECL|function|offset_1st_component
 DECL|function|set_shared_perm
 DECL|function|strip_path_suffix
 DECL|function|validate_headref
