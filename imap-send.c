@@ -23,6 +23,7 @@ DECL|function|imap_warn
 DECL|function|is_atom
 DECL|function|is_list
 DECL|function|issue_imap_cmd
+DECL|function|lf_to_crlf
 DECL|function|main
 DECL|function|next_arg
 DECL|function|nfsnprintf
@@ -69,7 +70,6 @@ DECL|member|conf
 DECL|member|cont
 DECL|member|count
 DECL|member|create
-DECL|member|crlf
 DECL|member|ctx
 DECL|member|data
 DECL|member|data
