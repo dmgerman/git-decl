@@ -9,6 +9,7 @@ DECL|function|print_ref_status
 DECL|function|receive_status
 DECL|function|refs_pushed
 DECL|function|send_pack
+DECL|function|sideband_demux
 DECL|function|status_abbrev
 DECL|function|update_tracking_ref
 DECL|function|verify_remote_names
