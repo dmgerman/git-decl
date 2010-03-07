@@ -48,14 +48,8 @@ DECL|variable|default_show_root
 DECL|variable|do_signoff
 DECL|variable|early_output_timer
 DECL|variable|extra_cc
-DECL|variable|extra_cc_alloc
-DECL|variable|extra_cc_nr
 DECL|variable|extra_hdr
-DECL|variable|extra_hdr_alloc
-DECL|variable|extra_hdr_nr
 DECL|variable|extra_to
-DECL|variable|extra_to_alloc
-DECL|variable|extra_to_nr
 DECL|variable|fmt_patch_subject_prefix
 DECL|variable|fmt_patch_suffix
 DECL|variable|fmt_pretty
