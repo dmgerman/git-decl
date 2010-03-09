@@ -35,6 +35,7 @@ DECL|member|commits
 DECL|member|date_mode
 DECL|member|date_mode_explicit
 DECL|member|def
+DECL|member|def
 DECL|member|dense
 DECL|member|dense_combined_merges
 DECL|member|diff
@@ -107,4 +108,5 @@ DECL|member|use_terminator
 DECL|member|verbose_header
 DECL|struct|name_path
 DECL|struct|rev_info
+DECL|struct|setup_revision_opt
 DECL|typedef|show_early_output_fn_t
