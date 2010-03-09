@@ -102,6 +102,7 @@ DECL|member|tag_objects
 DECL|member|topo_order
 DECL|member|total
 DECL|member|tree_objects
+DECL|member|tweak
 DECL|member|unpacked
 DECL|member|up
 DECL|member|use_terminator
