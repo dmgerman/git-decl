@@ -5,6 +5,7 @@ DECL|macro|NOTES_INDENT
 DECL|macro|NOTES_INIT_EMPTY
 DECL|macro|NOTES_SHOW_HEADER
 DECL|member|combine_notes
+DECL|member|dirty
 DECL|member|extra_notes_refs
 DECL|member|first_non_note
 DECL|member|initialized
