@@ -2,6 +2,7 @@ DECL|function|cmd_notes
 DECL|function|commit_notes
 DECL|function|create_note
 DECL|function|list_each_note
+DECL|function|notes_copy_from_stdin
 DECL|function|parse_file_arg
 DECL|function|parse_msg_arg
 DECL|function|parse_reedit_arg

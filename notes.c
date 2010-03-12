@@ -4,6 +4,7 @@ DECL|function|combine_notes_concatenate
 DECL|function|combine_notes_ignore
 DECL|function|combine_notes_overwrite
 DECL|function|construct_path_with_fanout
+DECL|function|copy_note
 DECL|function|default_notes_ref
 DECL|function|determine_fanout
 DECL|function|for_each_note
