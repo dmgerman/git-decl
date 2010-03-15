@@ -44,6 +44,7 @@ DECL|variable|dry_run
 DECL|variable|force
 DECL|variable|keep
 DECL|variable|multiple
+DECL|variable|progress
 DECL|variable|prune
 DECL|variable|tags
 DECL|variable|transport

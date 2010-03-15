@@ -36,6 +36,7 @@ DECL|function|transport_print_push_status
 DECL|function|transport_push
 DECL|function|transport_refs_pushed
 DECL|function|transport_set_option
+DECL|function|transport_set_verbosity
 DECL|function|transport_take_over
 DECL|function|transport_unlock_pack
 DECL|function|transport_update_tracking_ref
