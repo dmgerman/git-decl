@@ -60,6 +60,7 @@ DECL|function|write_ref_sha1
 DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
 DECL|macro|MAXREFLEN
+DECL|macro|REF_BROKEN
 DECL|macro|REF_KNOWS_PEELED
 DECL|member|did_loose
 DECL|member|did_packed
