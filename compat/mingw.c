@@ -1,5 +1,6 @@
 DECL|function|copy_environ
 DECL|function|do_lstat
+DECL|function|do_stat_internal
 DECL|function|ensure_socket_initialization
 DECL|function|env_compare
 DECL|function|env_setenv
@@ -46,6 +47,7 @@ DECL|function|mingw_socket
 DECL|function|mingw_spawnve
 DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
+DECL|function|mingw_stat
 DECL|function|mingw_utime
 DECL|function|mingw_write
 DECL|function|mkstemp
