@@ -27,7 +27,13 @@ DECL|member|atom
 DECL|member|binary
 DECL|member|binary
 DECL|member|color
+DECL|member|color_context
+DECL|member|color_filename
+DECL|member|color_function
+DECL|member|color_lineno
 DECL|member|color_match
+DECL|member|color_selected
+DECL|member|color_sep
 DECL|member|count
 DECL|member|extended
 DECL|member|field
