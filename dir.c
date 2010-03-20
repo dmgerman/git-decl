@@ -20,6 +20,7 @@ DECL|function|dir_add_ignored
 DECL|function|dir_add_name
 DECL|function|dir_entry_new
 DECL|function|directory_exists_in_index
+DECL|function|exclude_matches_pathspec
 DECL|function|excluded
 DECL|function|excluded_from_list
 DECL|function|file_exists
@@ -28,7 +29,6 @@ DECL|function|free_simplify
 DECL|function|get_dtype
 DECL|function|get_index_dtype
 DECL|function|get_relative_cwd
-DECL|function|in_pathspec
 DECL|function|is_empty_dir
 DECL|function|is_inside_dir
 DECL|function|match_one
