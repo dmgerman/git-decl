@@ -1,4 +1,5 @@
 DECL|enumerator|HARD
+DECL|enumerator|KEEP
 DECL|enumerator|MERGE
 DECL|enumerator|MIXED
 DECL|enumerator|NONE
@@ -6,6 +7,7 @@ DECL|enumerator|SOFT
 DECL|enum|reset_type
 DECL|function|args_to_str
 DECL|function|cmd_reset
+DECL|function|die_if_unmerged_cache
 DECL|function|interactive_reset
 DECL|function|is_merge
 DECL|function|prepend_reflog_action
