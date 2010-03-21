@@ -1,3 +1,4 @@
+DECL|function|gitmempcpy
 DECL|function|gitstrchrnul
 DECL|function|has_extension
 DECL|function|sane_case
@@ -23,6 +24,7 @@ DECL|macro|GIT_GLOB_SPECIAL
 DECL|macro|GIT_REGEX_SPECIAL
 DECL|macro|GIT_SPACE
 DECL|macro|HAS_MULTI_BITS
+DECL|macro|HAVE_MEMPCPY
 DECL|macro|HAVE_STRCHRNUL
 DECL|macro|MAP_FAILED
 DECL|macro|MAP_PRIVATE
@@ -89,6 +91,7 @@ DECL|macro|isdigit
 DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|memmem
+DECL|macro|mempcpy
 DECL|macro|mkdtemp
 DECL|macro|mkstemps
 DECL|macro|mmap
