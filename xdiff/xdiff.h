@@ -28,6 +28,7 @@ DECL|macro|XDL_PATCH_REVERSE
 DECL|macro|xdl_free
 DECL|macro|xdl_malloc
 DECL|macro|xdl_realloc
+DECL|member|ancestor
 DECL|member|bsize
 DECL|member|ctxlen
 DECL|member|emit_func
