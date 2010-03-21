@@ -2,6 +2,7 @@ DECL|enumerator|MERGE_RECURSIVE_NORMAL
 DECL|enumerator|MERGE_RECURSIVE_OURS
 DECL|enumerator|MERGE_RECURSIVE_THEIRS
 DECL|macro|MERGE_RECURSIVE_H
+DECL|member|ancestor
 DECL|member|branch1
 DECL|member|branch2
 DECL|member|buffer_output
