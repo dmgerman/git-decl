@@ -31,6 +31,7 @@ DECL|function|set_outdir
 DECL|function|setup_early_output
 DECL|function|show_early_header
 DECL|function|show_object
+DECL|function|show_rev_tweak_rev
 DECL|function|show_tagger
 DECL|function|show_tree_object
 DECL|function|subject_prefix_callback
