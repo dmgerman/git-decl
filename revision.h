@@ -68,6 +68,7 @@ DECL|member|no_commit_id
 DECL|member|no_inline
 DECL|member|no_merges
 DECL|member|no_walk
+DECL|member|notes_opt
 DECL|member|nr
 DECL|member|numbered_files
 DECL|member|patch_suffix

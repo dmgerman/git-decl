@@ -30,6 +30,7 @@ DECL|function|prepare_to_commit
 DECL|function|print_summary
 DECL|function|refresh_cache_or_die
 DECL|function|rollback_index_files
+DECL|function|run_rewrite_hook
 DECL|function|run_status
 DECL|variable|all
 DECL|variable|allow_empty
@@ -60,10 +61,12 @@ DECL|variable|initial_commit
 DECL|variable|interactive
 DECL|variable|logfile
 DECL|variable|message
+DECL|variable|no_post_rewrite
 DECL|variable|no_verify
 DECL|variable|null_termination
 DECL|variable|only
 DECL|variable|only_include_assumed
+DECL|variable|post_rewrite_hook
 DECL|variable|quiet
 DECL|variable|renew_authorship
 DECL|variable|sign_off_header

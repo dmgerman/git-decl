@@ -1,7 +1,13 @@
 DECL|function|cmd_notes
 DECL|function|commit_notes
+DECL|function|copy_note_for_rewrite
 DECL|function|create_note
+DECL|function|finish_copy_notes_for_rewrite
+DECL|function|init_copy_notes_for_rewrite
 DECL|function|list_each_note
+DECL|function|notes_copy_from_stdin
+DECL|function|notes_rewrite_config
+DECL|function|parse_combine_notes_fn
 DECL|function|parse_file_arg
 DECL|function|parse_msg_arg
 DECL|function|parse_reedit_arg
