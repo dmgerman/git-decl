@@ -47,6 +47,7 @@ DECL|function|show_edge
 DECL|function|show_object
 DECL|function|threaded_find_deltas
 DECL|function|try_delta
+DECL|function|try_to_free_from_threads
 DECL|function|type_size_sort
 DECL|function|write_object
 DECL|function|write_one
