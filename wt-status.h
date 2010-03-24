@@ -15,12 +15,14 @@ DECL|member|branch
 DECL|member|change
 DECL|member|color_palette
 DECL|member|commitable
+DECL|member|dirty_submodule
 DECL|member|fp
 DECL|member|head_path
 DECL|member|in_merge
 DECL|member|index_file
 DECL|member|index_status
 DECL|member|is_initial
+DECL|member|new_submodule_commits
 DECL|member|nowarn
 DECL|member|pathspec
 DECL|member|prefix
