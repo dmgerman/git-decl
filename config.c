@@ -42,11 +42,9 @@ DECL|function|matches
 DECL|function|parse_unit_factor
 DECL|function|parse_value
 DECL|function|section_name_match
-DECL|function|skip_space
 DECL|function|store_aux
 DECL|function|store_write_pair
 DECL|function|store_write_section
-DECL|function|trailing_space
 DECL|function|write_error
 DECL|macro|MAXNAME
 DECL|macro|MAX_MATCHES
