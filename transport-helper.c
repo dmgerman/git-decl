@@ -4,6 +4,7 @@ DECL|function|do_take_over
 DECL|function|fetch
 DECL|function|fetch_with_fetch
 DECL|function|fetch_with_import
+DECL|function|get_exporter
 DECL|function|get_helper
 DECL|function|get_importer
 DECL|function|get_refs_list
@@ -11,6 +12,8 @@ DECL|function|has_attribute
 DECL|function|process_connect
 DECL|function|process_connect_service
 DECL|function|push_refs
+DECL|function|push_refs_with_export
+DECL|function|push_refs_with_push
 DECL|function|recvline
 DECL|function|recvline_fh
 DECL|function|release_helper
@@ -22,6 +25,7 @@ DECL|function|transport_helper_init
 DECL|function|write_constant
 DECL|function|xchgline
 DECL|member|connect
+DECL|member|export
 DECL|member|fetch
 DECL|member|helper
 DECL|member|import
