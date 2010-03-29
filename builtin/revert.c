@@ -6,6 +6,7 @@ DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
 DECL|function|die_dirty_index
 DECL|function|empty_tree
+DECL|function|fast_forward_to
 DECL|function|get_encoding
 DECL|function|get_oneline
 DECL|function|help_msg
@@ -14,6 +15,7 @@ DECL|function|revert_or_cherry_pick
 DECL|function|set_author_ident_env
 DECL|macro|GIT_REFLOG_ACTION
 DECL|variable|action
+DECL|variable|allow_ff
 DECL|variable|allow_rerere_auto
 DECL|variable|cherry_pick_usage
 DECL|variable|commit
