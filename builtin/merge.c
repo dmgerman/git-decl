@@ -25,6 +25,7 @@ DECL|function|save_state
 DECL|function|split_merge_strategies
 DECL|function|squash_message
 DECL|function|suggest_conflicts
+DECL|function|try_merge_command
 DECL|function|try_merge_strategy
 DECL|function|write_tree_trivial
 DECL|macro|DEFAULT_OCTOPUS
