@@ -33,3 +33,4 @@ DECL|variable|no_commit
 DECL|variable|no_replay
 DECL|variable|revert_usage
 DECL|variable|signoff
+DECL|variable|strategy
