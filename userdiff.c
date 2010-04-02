@@ -1,3 +1,4 @@
+DECL|function|parse_bool
 DECL|function|parse_driver
 DECL|function|parse_funcname
 DECL|function|parse_string
