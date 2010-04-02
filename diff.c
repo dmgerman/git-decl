@@ -71,6 +71,7 @@ DECL|function|fill_filespec
 DECL|function|fill_metainfo
 DECL|function|fill_mmfile
 DECL|function|fill_print_name
+DECL|function|fill_textconv
 DECL|function|find_lno
 DECL|function|find_word_boundaries
 DECL|function|flush_one_pair
