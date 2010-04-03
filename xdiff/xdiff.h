@@ -28,10 +28,13 @@ DECL|macro|XDL_PATCH_REVERSE
 DECL|macro|xdl_free
 DECL|macro|xdl_malloc
 DECL|macro|xdl_realloc
+DECL|member|ancestor
 DECL|member|bsize
 DECL|member|ctxlen
 DECL|member|emit_func
 DECL|member|favor
+DECL|member|file1
+DECL|member|file2
 DECL|member|find_func
 DECL|member|find_func_priv
 DECL|member|flags
