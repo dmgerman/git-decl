@@ -53,6 +53,8 @@ DECL|variable|cond_result
 DECL|variable|cond_write
 DECL|variable|grep_mutex
 DECL|variable|grep_usage
+DECL|variable|print_hunk_marks_between_files
+DECL|variable|printed_something
 DECL|variable|read_sha1_mutex
 DECL|variable|threads
 DECL|variable|todo
