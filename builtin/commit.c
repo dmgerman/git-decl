@@ -34,6 +34,7 @@ DECL|function|run_rewrite_hook
 DECL|function|run_status
 DECL|variable|all
 DECL|variable|allow_empty
+DECL|variable|allow_empty_message
 DECL|variable|also
 DECL|variable|amend
 DECL|variable|author_date
