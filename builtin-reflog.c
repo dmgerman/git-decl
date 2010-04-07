@@ -29,6 +29,8 @@ DECL|member|expire_unreachable
 DECL|member|expire_unreachable
 DECL|member|last_kept_sha1
 DECL|member|len
+DECL|member|mark_limit
+DECL|member|mark_list
 DECL|member|newlog
 DECL|member|next
 DECL|member|nr
