@@ -1,4 +1,5 @@
 DECL|macro|PTHREAD_H
+DECL|macro|PTHREAD_MUTEX_RECURSIVE
 DECL|macro|WIN32_LEAN_AND_MEAN
 DECL|macro|pthread_join
 DECL|macro|pthread_mutex_destroy
@@ -6,6 +7,9 @@ DECL|macro|pthread_mutex_init
 DECL|macro|pthread_mutex_lock
 DECL|macro|pthread_mutex_t
 DECL|macro|pthread_mutex_unlock
+DECL|macro|pthread_mutexattr_destroy
+DECL|macro|pthread_mutexattr_init
+DECL|macro|pthread_mutexattr_settype
 DECL|member|arg
 DECL|member|continue_broadcast
 DECL|member|handle
@@ -15,4 +19,5 @@ DECL|member|waiters
 DECL|member|waiters_lock
 DECL|member|was_broadcast
 DECL|typedef|pthread_cond_t
+DECL|typedef|pthread_mutexattr_t
 DECL|typedef|pthread_t
