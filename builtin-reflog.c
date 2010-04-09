@@ -1,3 +1,6 @@
+DECL|enumerator|UE_ALWAYS
+DECL|enumerator|UE_HEAD
+DECL|enumerator|UE_NORMAL
 DECL|function|cmd_reflog
 DECL|function|cmd_reflog_delete
 DECL|function|cmd_reflog_expire
@@ -10,6 +13,7 @@ DECL|function|find_cfg_ent
 DECL|function|keep_entry
 DECL|function|mark_reachable
 DECL|function|parse_expire_cfg_value
+DECL|function|push_tip_to_list
 DECL|function|reflog_expire_config
 DECL|function|set_reflog_expiry_param
 DECL|function|tree_is_complete
@@ -36,13 +40,12 @@ DECL|member|next
 DECL|member|nr
 DECL|member|pattern
 DECL|member|recno
-DECL|member|ref
-DECL|member|ref_commit
 DECL|member|reflog
 DECL|member|revs
 DECL|member|rewrite
 DECL|member|sha1
 DECL|member|stalefix
+DECL|member|unreachable_expire_kind
 DECL|member|updateref
 DECL|member|verbose
 DECL|struct|cmd_reflog_expire_cb
