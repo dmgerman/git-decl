@@ -132,6 +132,7 @@ DECL|member|blank_at_eof_in_postimage
 DECL|member|blank_at_eof_in_preimage
 DECL|member|changed
 DECL|member|color_diff
+DECL|member|conflict_marker_size
 DECL|member|ctx
 DECL|member|cumulative
 DECL|member|current_plus
