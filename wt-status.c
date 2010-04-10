@@ -19,14 +19,14 @@ DECL|function|wt_status_print_cached_header
 DECL|function|wt_status_print_change_data
 DECL|function|wt_status_print_changed
 DECL|function|wt_status_print_dirty_header
+DECL|function|wt_status_print_other
+DECL|function|wt_status_print_other_header
 DECL|function|wt_status_print_submodule_summary
 DECL|function|wt_status_print_tracking
 DECL|function|wt_status_print_trailer
 DECL|function|wt_status_print_unmerged
 DECL|function|wt_status_print_unmerged_data
 DECL|function|wt_status_print_unmerged_header
-DECL|function|wt_status_print_untracked
-DECL|function|wt_status_print_untracked_header
 DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_verbose
 DECL|macro|quote_path
