@@ -35,7 +35,6 @@ DECL|member|untracked
 DECL|member|use_color
 DECL|member|verbose
 DECL|member|workdir_dirty
-DECL|member|workdir_untracked
 DECL|member|worktree_status
 DECL|struct|wt_status
 DECL|struct|wt_status_change_data
