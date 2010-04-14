@@ -7,7 +7,12 @@ DECL|enumerator|DIFF_METAINFO
 DECL|enumerator|DIFF_PLAIN
 DECL|enumerator|DIFF_RESET
 DECL|enumerator|DIFF_WHITESPACE
+DECL|enumerator|DIFF_WORDS_COLOR
+DECL|enumerator|DIFF_WORDS_NONE
+DECL|enumerator|DIFF_WORDS_PLAIN
+DECL|enumerator|DIFF_WORDS_PORCELAIN
 DECL|enum|color_diff
+DECL|enum|diff_words_type
 DECL|macro|COMMON_DIFF_OPTIONS_HELP
 DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
@@ -30,7 +35,6 @@ DECL|macro|DIFF_OPT_BINARY
 DECL|macro|DIFF_OPT_CHECK_FAILED
 DECL|macro|DIFF_OPT_CLR
 DECL|macro|DIFF_OPT_COLOR_DIFF
-DECL|macro|DIFF_OPT_COLOR_DIFF_WORDS
 DECL|macro|DIFF_OPT_DIFF_FROM_CONTENTS
 DECL|macro|DIFF_OPT_DIRSTAT_BY_FILE
 DECL|macro|DIFF_OPT_DIRSTAT_CUMULATIVE
@@ -120,6 +124,7 @@ DECL|member|stat_sep
 DECL|member|stat_width
 DECL|member|status
 DECL|member|warn_on_too_large_rename
+DECL|member|word_diff
 DECL|member|word_regex
 DECL|member|xdl_opts
 DECL|struct|combine_diff_parent
