@@ -35,7 +35,6 @@ DECL|member|ref_name
 DECL|struct|command
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
-DECL|variable|commands
 DECL|variable|deny_current_branch
 DECL|variable|deny_delete_current
 DECL|variable|deny_deletes
