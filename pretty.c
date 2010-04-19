@@ -31,6 +31,8 @@ DECL|function|rewrap_message_tail
 DECL|function|save_user_format
 DECL|function|skip_empty_lines
 DECL|function|strbuf_wrap
+DECL|function|userformat_find_requirements
+DECL|function|userformat_want_item
 DECL|member|abbrev_commit_hash
 DECL|member|abbrev_parent_hashes
 DECL|member|abbrev_tree_hash

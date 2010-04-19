@@ -22,6 +22,7 @@ DECL|member|name
 DECL|member|need_8bit_cte
 DECL|member|next
 DECL|member|next
+DECL|member|notes
 DECL|member|nr_parent
 DECL|member|object
 DECL|member|parent
@@ -37,3 +38,4 @@ DECL|struct|commit_graft
 DECL|struct|commit_list
 DECL|struct|name_decoration
 DECL|struct|pretty_print_context
+DECL|struct|userformat_want
