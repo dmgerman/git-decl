@@ -5,6 +5,8 @@ DECL|enumerator|DENY_WARN
 DECL|enum|deny_action
 DECL|function|add_alternate_refs
 DECL|function|add_refs_from_alternate
+DECL|function|check_aliased_update
+DECL|function|check_aliased_updates
 DECL|function|cmd_receive_pack
 DECL|function|copy_to_sideband
 DECL|function|delete_only
@@ -32,6 +34,7 @@ DECL|member|new_sha1
 DECL|member|next
 DECL|member|old_sha1
 DECL|member|ref_name
+DECL|member|skip_update
 DECL|struct|command
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
