@@ -2,6 +2,7 @@ DECL|function|add_again
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
 DECL|function|find_commit_format
+DECL|function|find_commit_format_recursive
 DECL|function|format_commit_item
 DECL|function|format_commit_message
 DECL|function|format_commit_one
@@ -48,6 +49,7 @@ DECL|member|encoding
 DECL|member|format
 DECL|member|indent1
 DECL|member|indent2
+DECL|member|is_alias
 DECL|member|is_tformat
 DECL|member|len
 DECL|member|message_off
@@ -55,6 +57,7 @@ DECL|member|name
 DECL|member|off
 DECL|member|pretty_ctx
 DECL|member|subject_off
+DECL|member|user_format
 DECL|member|width
 DECL|member|wrap_start
 DECL|struct|chunk
