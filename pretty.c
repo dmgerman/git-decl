@@ -13,6 +13,7 @@ DECL|function|format_subject
 DECL|function|get_commit_format
 DECL|function|get_header
 DECL|function|get_one_line
+DECL|function|git_pretty_formats_config
 DECL|function|has_non_ascii
 DECL|function|is_empty_line
 DECL|function|is_rfc2047_special
@@ -63,6 +64,8 @@ DECL|member|wrap_start
 DECL|struct|chunk
 DECL|struct|cmt_fmt_map
 DECL|struct|format_commit_context
+DECL|variable|builtin_formats_len
 DECL|variable|commit_formats
+DECL|variable|commit_formats_alloc
 DECL|variable|commit_formats_len
 DECL|variable|user_format
