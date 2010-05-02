@@ -1,6 +1,7 @@
 DECL|function|add_again
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
+DECL|function|find_commit_format
 DECL|function|format_commit_item
 DECL|function|format_commit_message
 DECL|function|format_commit_one
@@ -29,6 +30,7 @@ DECL|function|reencode_commit_message
 DECL|function|replace_encoding_header
 DECL|function|rewrap_message_tail
 DECL|function|save_user_format
+DECL|function|setup_commit_formats
 DECL|function|skip_empty_lines
 DECL|function|strbuf_wrap
 DECL|function|userformat_find_requirements
@@ -43,15 +45,21 @@ DECL|member|commit_header_parsed
 DECL|member|commit_message_parsed
 DECL|member|committer
 DECL|member|encoding
+DECL|member|format
 DECL|member|indent1
 DECL|member|indent2
+DECL|member|is_tformat
 DECL|member|len
 DECL|member|message_off
+DECL|member|name
 DECL|member|off
 DECL|member|pretty_ctx
 DECL|member|subject_off
 DECL|member|width
 DECL|member|wrap_start
 DECL|struct|chunk
+DECL|struct|cmt_fmt_map
 DECL|struct|format_commit_context
+DECL|variable|commit_formats
+DECL|variable|commit_formats_len
 DECL|variable|user_format
