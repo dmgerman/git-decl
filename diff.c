@@ -194,6 +194,7 @@ DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
 DECL|variable|diff_mnemonic_prefix
+DECL|variable|diff_no_prefix
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_suppress_blank_empty
