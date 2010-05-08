@@ -141,6 +141,7 @@ DECL|variable|num_preferred_base
 DECL|variable|object_ix
 DECL|variable|object_ix_hashsz
 DECL|variable|objects
+DECL|variable|old_try_to_free_routine
 DECL|variable|pack_compression_level
 DECL|variable|pack_compression_seen
 DECL|variable|pack_size_limit

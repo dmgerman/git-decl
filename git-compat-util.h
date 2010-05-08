@@ -110,3 +110,4 @@ DECL|macro|toupper
 DECL|macro|toupper
 DECL|macro|unsetenv
 DECL|macro|vsnprintf
+DECL|typedef|try_to_free_t
