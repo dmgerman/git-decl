@@ -4,7 +4,10 @@ DECL|function|git_inflate_init
 DECL|function|odb_mkstemp
 DECL|function|odb_pack_keep
 DECL|function|read_in_full
+DECL|function|remove_or_warn
+DECL|function|rmdir_or_warn
 DECL|function|unlink_or_warn
+DECL|function|warn_if_unremovable
 DECL|function|write_in_full
 DECL|function|xcalloc
 DECL|function|xdup
