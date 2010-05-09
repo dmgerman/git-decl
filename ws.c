@@ -7,6 +7,7 @@ DECL|function|ws_check
 DECL|function|ws_check_emit
 DECL|function|ws_check_emit_1
 DECL|function|ws_fix_copy
+DECL|member|exclude_default
 DECL|member|loosens_error
 DECL|member|rule_bits
 DECL|member|rule_name

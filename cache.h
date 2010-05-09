@@ -179,6 +179,7 @@ DECL|macro|WS_CR_AT_EOL
 DECL|macro|WS_DEFAULT_RULE
 DECL|macro|WS_INDENT_WITH_NON_TAB
 DECL|macro|WS_SPACE_BEFORE_TAB
+DECL|macro|WS_TAB_IN_INDENT
 DECL|macro|WS_TRAILING_SPACE
 DECL|macro|active_alloc
 DECL|macro|active_cache
