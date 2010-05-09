@@ -1,10 +1,10 @@
 DECL|enumerator|CHERRY_PICK
 DECL|enumerator|REVERT
 DECL|function|add_message_to_msg
-DECL|function|add_to_msg
 DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
 DECL|function|die_dirty_index
+DECL|function|do_recursive_merge
 DECL|function|empty_tree
 DECL|function|fast_forward_to
 DECL|function|free_message
@@ -14,6 +14,7 @@ DECL|function|help_msg
 DECL|function|parse_args
 DECL|function|revert_or_cherry_pick
 DECL|function|set_author_ident_env
+DECL|function|write_message
 DECL|macro|GIT_REFLOG_ACTION
 DECL|member|label
 DECL|member|message
@@ -30,9 +31,8 @@ DECL|variable|commit_name
 DECL|variable|edit
 DECL|variable|mainline
 DECL|variable|me
-DECL|variable|msg_fd
-DECL|variable|msg_file
 DECL|variable|no_commit
 DECL|variable|no_replay
 DECL|variable|revert_usage
 DECL|variable|signoff
+DECL|variable|strategy
