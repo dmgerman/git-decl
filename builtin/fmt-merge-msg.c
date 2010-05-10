@@ -1,4 +1,5 @@
 DECL|function|cmd_fmt_merge_msg
+DECL|function|do_fmt_merge_msg
 DECL|function|fmt_merge_msg
 DECL|function|fmt_merge_msg_config
 DECL|function|handle_line
