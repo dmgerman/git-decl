@@ -2,6 +2,9 @@ DECL|enumerator|AUTOREBASE_ALWAYS
 DECL|enumerator|AUTOREBASE_LOCAL
 DECL|enumerator|AUTOREBASE_NEVER
 DECL|enumerator|AUTOREBASE_REMOTE
+DECL|enumerator|AUTO_CRLF_FALSE
+DECL|enumerator|AUTO_CRLF_INPUT
+DECL|enumerator|AUTO_CRLF_TRUE
 DECL|enumerator|BRANCH_TRACK_ALWAYS
 DECL|enumerator|BRANCH_TRACK_EXPLICIT
 DECL|enumerator|BRANCH_TRACK_NEVER
@@ -46,6 +49,7 @@ DECL|enumerator|REF_STATUS_UPTODATE
 DECL|enumerator|SAFE_CRLF_FAIL
 DECL|enumerator|SAFE_CRLF_FALSE
 DECL|enumerator|SAFE_CRLF_WARN
+DECL|enum|auto_crlf
 DECL|enum|branch_track
 DECL|enum|date_mode
 DECL|enum|object_creation_mode
