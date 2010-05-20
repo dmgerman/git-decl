@@ -47,6 +47,7 @@ DECL|function|mingw_spawnve
 DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
 DECL|function|mingw_utime
+DECL|function|mingw_write
 DECL|function|mkstemp
 DECL|function|parse_interpreter
 DECL|function|path_lookup
@@ -72,6 +73,7 @@ DECL|macro|gethostbyname
 DECL|macro|open
 DECL|macro|rename
 DECL|macro|signal
+DECL|macro|write
 DECL|member|dd_dir
 DECL|member|dd_dta
 DECL|member|dd_handle

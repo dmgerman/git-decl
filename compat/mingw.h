@@ -92,6 +92,7 @@ DECL|macro|socket
 DECL|macro|stat
 DECL|macro|unlink
 DECL|macro|utime
+DECL|macro|write
 DECL|member|d_ino
 DECL|member|d_name
 DECL|member|d_namlen
