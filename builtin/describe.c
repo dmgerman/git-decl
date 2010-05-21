@@ -5,6 +5,7 @@ DECL|function|describe
 DECL|function|display_name
 DECL|function|finish_depth_computation
 DECL|function|get_name
+DECL|function|replace_name
 DECL|function|show_suffix
 DECL|macro|MAX_TAGS
 DECL|macro|SEEN
@@ -12,6 +13,7 @@ DECL|member|depth
 DECL|member|flag_within
 DECL|member|found_order
 DECL|member|name
+DECL|member|name_checked
 DECL|member|path
 DECL|member|prio
 DECL|member|sha1
