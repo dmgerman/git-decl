@@ -9,6 +9,7 @@ DECL|macro|DIFF_PAIR_MODE_CHANGED
 DECL|macro|DIFF_PAIR_RENAME
 DECL|macro|DIFF_PAIR_TYPE_CHANGED
 DECL|macro|DIFF_PAIR_UNMERGED
+DECL|macro|DIFF_QUEUE_CLEAR
 DECL|macro|DIRTY_SUBMODULE_MODIFIED
 DECL|macro|DIRTY_SUBMODULE_UNTRACKED
 DECL|macro|MAX_SCORE
@@ -33,6 +34,7 @@ DECL|member|path
 DECL|member|queue
 DECL|member|rename_used
 DECL|member|renamed_pair
+DECL|member|run
 DECL|member|score
 DECL|member|sha1
 DECL|member|sha1_valid
