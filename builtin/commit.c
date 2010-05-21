@@ -70,6 +70,7 @@ DECL|variable|only_include_assumed
 DECL|variable|post_rewrite_hook
 DECL|variable|quiet
 DECL|variable|renew_authorship
+DECL|variable|show_ignored_in_status
 DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|status_format

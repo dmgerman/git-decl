@@ -18,6 +18,7 @@ DECL|member|commitable
 DECL|member|dirty_submodule
 DECL|member|fp
 DECL|member|head_path
+DECL|member|ignored
 DECL|member|in_merge
 DECL|member|index_file
 DECL|member|index_status
@@ -28,6 +29,7 @@ DECL|member|pathspec
 DECL|member|prefix
 DECL|member|reference
 DECL|member|relative_paths
+DECL|member|show_ignored_files
 DECL|member|show_untracked_files
 DECL|member|stagemask
 DECL|member|submodule_summary
@@ -35,7 +37,6 @@ DECL|member|untracked
 DECL|member|use_color
 DECL|member|verbose
 DECL|member|workdir_dirty
-DECL|member|workdir_untracked
 DECL|member|worktree_status
 DECL|struct|wt_status
 DECL|struct|wt_status_change_data
