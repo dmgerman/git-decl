@@ -6,6 +6,8 @@ DECL|function|odb_pack_keep
 DECL|function|read_in_full
 DECL|function|remove_or_warn
 DECL|function|rmdir_or_warn
+DECL|function|set_try_to_free_routine
+DECL|function|try_to_free_builtin
 DECL|function|unlink_or_warn
 DECL|function|warn_if_unremovable
 DECL|function|write_in_full
@@ -23,3 +25,4 @@ DECL|function|xrealloc
 DECL|function|xstrdup
 DECL|function|xstrndup
 DECL|function|xwrite
+DECL|variable|try_to_free_routine
