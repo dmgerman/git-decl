@@ -4,6 +4,9 @@ DECL|enumerator|PUSH_STATUS_FASTFORWARD
 DECL|enumerator|PUSH_STATUS_NOTQUERIED
 DECL|enumerator|PUSH_STATUS_OUTOFDATE
 DECL|enumerator|PUSH_STATUS_UPTODATE
+DECL|enumerator|TAGS_DEFAULT
+DECL|enumerator|TAGS_SET
+DECL|enumerator|TAGS_UNSET
 DECL|function|abbrev_ref
 DECL|function|add
 DECL|function|add_branch_for_removal
