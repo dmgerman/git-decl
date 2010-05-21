@@ -28,6 +28,7 @@ DECL|member|name
 DECL|member|name
 DECL|member|new_branch
 DECL|member|new_branch_log
+DECL|member|new_orphan_branch
 DECL|member|path
 DECL|member|quiet
 DECL|member|remote
