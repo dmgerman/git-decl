@@ -27,6 +27,7 @@ DECL|function|match_one_pattern
 DECL|function|next_match
 DECL|function|output_color
 DECL|function|output_sep
+DECL|function|regmatch
 DECL|function|should_lookahead
 DECL|function|show_funcname_line
 DECL|function|show_line
