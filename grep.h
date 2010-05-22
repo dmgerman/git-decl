@@ -63,6 +63,7 @@ DECL|member|pattern
 DECL|member|pattern_expression
 DECL|member|pattern_list
 DECL|member|pattern_tail
+DECL|member|patternlen
 DECL|member|post_context
 DECL|member|pre_context
 DECL|member|prefix

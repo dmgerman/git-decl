@@ -1,3 +1,4 @@
+DECL|function|append_grep_pat
 DECL|function|append_grep_pattern
 DECL|function|append_header_grep_pattern
 DECL|function|chk_hit_marker
