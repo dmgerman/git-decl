@@ -1,0 +1,7 @@
+DECL|function|is_url
+DECL|function|is_urlschemechar
+DECL|function|url_decode
+DECL|function|url_decode_char
+DECL|function|url_decode_internal
+DECL|function|url_decode_parameter_name
+DECL|function|url_decode_parameter_value
