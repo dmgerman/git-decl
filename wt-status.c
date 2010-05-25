@@ -3,6 +3,7 @@ DECL|function|unmerged_mask
 DECL|function|wt_porcelain_print
 DECL|function|wt_shortstatus_other
 DECL|function|wt_shortstatus_print
+DECL|function|wt_shortstatus_print_tracking
 DECL|function|wt_shortstatus_status
 DECL|function|wt_shortstatus_unmerged
 DECL|function|wt_status_check_worktree_changes
