@@ -144,7 +144,6 @@ DECL|member|deleted
 DECL|member|diff_words
 DECL|member|end
 DECL|member|file
-DECL|member|file
 DECL|member|filename
 DECL|member|files
 DECL|member|files
@@ -170,6 +169,7 @@ DECL|member|nr
 DECL|member|nr
 DECL|member|o
 DECL|member|old
+DECL|member|opt
 DECL|member|orig
 DECL|member|orig_alloc
 DECL|member|orig_nr

@@ -104,6 +104,8 @@ DECL|member|next
 DECL|member|nr_paths
 DECL|member|orderfile
 DECL|member|output_format
+DECL|member|output_prefix
+DECL|member|output_prefix_data
 DECL|member|parent
 DECL|member|path
 DECL|member|pathlens
@@ -133,3 +135,4 @@ DECL|struct|diff_options
 DECL|typedef|add_remove_fn_t
 DECL|typedef|change_fn_t
 DECL|typedef|diff_format_fn_t
+DECL|typedef|diff_prefix_fn_t
