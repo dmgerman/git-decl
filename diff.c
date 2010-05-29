@@ -6,6 +6,7 @@ DECL|function|check_blank_at_eof
 DECL|function|check_pair_status
 DECL|function|checkdiff_consume
 DECL|function|claim_diff_tempfile
+DECL|function|color_words_output_graph_prefix
 DECL|function|count_lines
 DECL|function|count_trailing_blank
 DECL|function|deflate_it
@@ -143,7 +144,6 @@ DECL|member|current_plus
 DECL|member|deleted
 DECL|member|diff_words
 DECL|member|end
-DECL|member|file
 DECL|member|filename
 DECL|member|files
 DECL|member|files
@@ -155,6 +155,7 @@ DECL|member|is_binary
 DECL|member|is_renamed
 DECL|member|is_unmerged
 DECL|member|label_path
+DECL|member|last_minus
 DECL|member|lineno
 DECL|member|lno_in_postimage
 DECL|member|lno_in_preimage
@@ -169,6 +170,7 @@ DECL|member|nr
 DECL|member|nr
 DECL|member|o
 DECL|member|old
+DECL|member|opt
 DECL|member|opt
 DECL|member|orig
 DECL|member|orig_alloc
