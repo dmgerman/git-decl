@@ -13,6 +13,7 @@ DECL|function|get_encoding
 DECL|function|get_message
 DECL|function|help_msg
 DECL|function|parse_args
+DECL|function|prepare_revs
 DECL|function|revert_or_cherry_pick
 DECL|function|set_author_ident_env
 DECL|function|write_message
@@ -28,7 +29,8 @@ DECL|variable|allow_ff
 DECL|variable|allow_rerere_auto
 DECL|variable|cherry_pick_usage
 DECL|variable|commit
-DECL|variable|commit_name
+DECL|variable|commit_argc
+DECL|variable|commit_argv
 DECL|variable|edit
 DECL|variable|mainline
 DECL|variable|me
