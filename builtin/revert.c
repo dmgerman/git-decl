@@ -4,6 +4,7 @@ DECL|function|add_message_to_msg
 DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
 DECL|function|die_dirty_index
+DECL|function|do_pick_commit
 DECL|function|do_recursive_merge
 DECL|function|empty_tree
 DECL|function|fast_forward_to
