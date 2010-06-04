@@ -39,9 +39,12 @@ DECL|member|len
 DECL|member|list
 DECL|member|maxwidth
 DECL|member|name
+DECL|member|ref_list
+DECL|member|ret
 DECL|member|revs
 DECL|member|verbose
 DECL|member|with_commit
+DECL|struct|append_ref_cb
 DECL|struct|ref_item
 DECL|struct|ref_list
 DECL|variable|branch_colors
