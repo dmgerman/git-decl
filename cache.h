@@ -18,6 +18,10 @@ DECL|enumerator|DATE_RAW
 DECL|enumerator|DATE_RELATIVE
 DECL|enumerator|DATE_RFC2822
 DECL|enumerator|DATE_SHORT
+DECL|enumerator|EOL_CRLF
+DECL|enumerator|EOL_LF
+DECL|enumerator|EOL_NATIVE
+DECL|enumerator|EOL_UNSET
 DECL|enumerator|OBJECT_CREATION_USES_HARDLINKS
 DECL|enumerator|OBJECT_CREATION_USES_RENAMES
 DECL|enumerator|OBJ_ANY
@@ -52,6 +56,7 @@ DECL|enumerator|SAFE_CRLF_WARN
 DECL|enum|auto_crlf
 DECL|enum|branch_track
 DECL|enum|date_mode
+DECL|enum|eol
 DECL|enum|object_creation_mode
 DECL|enum|object_type
 DECL|enum|push_default_type
