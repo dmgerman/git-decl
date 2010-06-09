@@ -60,6 +60,7 @@ DECL|function|ce_to_dtype
 DECL|function|copy_cache_entry
 DECL|function|create_ce_flags
 DECL|function|create_ce_mode
+DECL|function|get_sha1_with_context
 DECL|function|get_sha1_with_mode
 DECL|function|hashclr
 DECL|function|hashcmp
@@ -282,6 +283,7 @@ DECL|member|len
 DECL|member|merge
 DECL|member|mode
 DECL|member|mode
+DECL|member|mode
 DECL|member|mtime
 DECL|member|mtime
 DECL|member|mtime
@@ -317,6 +319,7 @@ DECL|member|pack_local
 DECL|member|pack_name
 DECL|member|pack_size
 DECL|member|path
+DECL|member|path
 DECL|member|peer_ref
 DECL|member|prefix_len_stat_func
 DECL|member|quiet
@@ -335,6 +338,7 @@ DECL|member|status
 DECL|member|symref
 DECL|member|timestamp
 DECL|member|track_flags
+DECL|member|tree
 DECL|member|uid
 DECL|member|uid
 DECL|member|windows
@@ -347,6 +351,7 @@ DECL|struct|checkout
 DECL|struct|extra_have_objects
 DECL|struct|index_state
 DECL|struct|lock_file
+DECL|struct|object_context
 DECL|struct|ondisk_cache_entry
 DECL|struct|ondisk_cache_entry_extended
 DECL|struct|pack_entry
