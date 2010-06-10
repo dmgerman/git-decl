@@ -32,6 +32,9 @@ DECL|member|children
 DECL|member|combine_merges
 DECL|member|commit_format
 DECL|member|commits
+DECL|member|count
+DECL|member|count_left
+DECL|member|count_right
 DECL|member|date_mode
 DECL|member|date_mode_explicit
 DECL|member|def
