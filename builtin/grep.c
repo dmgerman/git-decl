@@ -4,6 +4,7 @@ DECL|enum|work_type
 DECL|function|accept_subdir
 DECL|function|add_work
 DECL|function|and_callback
+DECL|function|append_path
 DECL|function|close_callback
 DECL|function|cmd_grep
 DECL|function|context_callback
@@ -29,6 +30,7 @@ DECL|function|open_callback
 DECL|function|pathspec_matches
 DECL|function|pattern_callback
 DECL|function|run
+DECL|function|run_pager
 DECL|function|start_threads
 DECL|function|strbuf_out
 DECL|function|wait_all
