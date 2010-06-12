@@ -15,6 +15,7 @@ DECL|function|grep_directory
 DECL|function|grep_file
 DECL|function|grep_file_async
 DECL|function|grep_object
+DECL|function|grep_objects
 DECL|function|grep_sha1
 DECL|function|grep_sha1_async
 DECL|function|grep_tree
