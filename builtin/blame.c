@@ -60,6 +60,7 @@ DECL|function|sanity_check_refcnt
 DECL|function|setup_blame_list
 DECL|function|split_blame
 DECL|function|split_overlap
+DECL|function|textconv_object
 DECL|function|write_filename_info
 DECL|macro|BLAME_DEFAULT_COPY_SCORE
 DECL|macro|BLAME_DEFAULT_MOVE_SCORE
