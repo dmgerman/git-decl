@@ -12,7 +12,7 @@ DECL|function|git_checkattr
 DECL|function|handle_attr_line
 DECL|function|hash_name
 DECL|function|invalid_attr_name
-DECL|function|macroexpand
+DECL|function|macroexpand_one
 DECL|function|parse_attr
 DECL|function|parse_attr_line
 DECL|function|path_matches
