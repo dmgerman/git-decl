@@ -23,8 +23,6 @@ DECL|member|curl_result
 DECL|member|curl_result
 DECL|member|curl_result
 DECL|member|errorstr
-DECL|member|filename
-DECL|member|filename
 DECL|member|finished
 DECL|member|http_code
 DECL|member|http_code
