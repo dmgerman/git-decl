@@ -6,6 +6,7 @@ DECL|enumerator|GRAPH_PRE_COMMIT
 DECL|enumerator|GRAPH_SKIP
 DECL|enum|graph_state
 DECL|function|column_get_color_code
+DECL|function|diff_output_prefix_callback
 DECL|function|find_new_column_by_commit
 DECL|function|first_interesting_parent
 DECL|function|graph_draw_octopus_merge
