@@ -9,7 +9,9 @@ DECL|enumerator|TAGS_SET
 DECL|enumerator|TAGS_UNSET
 DECL|function|abbrev_ref
 DECL|function|add
+DECL|function|add_branch
 DECL|function|add_branch_for_removal
+DECL|function|add_branches
 DECL|function|add_known_remote
 DECL|function|add_local_to_show_info
 DECL|function|add_push_to_show_info
@@ -36,9 +38,12 @@ DECL|function|prune
 DECL|function|prune_remote
 DECL|function|read_branches
 DECL|function|read_remote_branches
+DECL|function|remove_all_fetch_refspecs
 DECL|function|remove_branches
 DECL|function|rm
+DECL|function|set_branches
 DECL|function|set_head
+DECL|function|set_remote_branches
 DECL|function|set_url
 DECL|function|show
 DECL|function|show_all
@@ -92,6 +97,7 @@ DECL|variable|builtin_remote_add_usage
 DECL|variable|builtin_remote_prune_usage
 DECL|variable|builtin_remote_rename_usage
 DECL|variable|builtin_remote_rm_usage
+DECL|variable|builtin_remote_setbranches_usage
 DECL|variable|builtin_remote_sethead_usage
 DECL|variable|builtin_remote_seturl_usage
 DECL|variable|builtin_remote_show_usage
