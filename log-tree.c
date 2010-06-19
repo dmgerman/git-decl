@@ -8,6 +8,7 @@ DECL|enum|decoration_type
 DECL|function|add_name_decoration
 DECL|function|add_ref_decoration
 DECL|function|append_signoff
+DECL|function|decorate_get_color
 DECL|function|detect_any_signoff
 DECL|function|digits_in_number
 DECL|function|do_diff_combined
@@ -20,4 +21,6 @@ DECL|function|log_write_email_headers
 DECL|function|show_decorations
 DECL|function|show_log
 DECL|function|show_parents
+DECL|macro|decorate_get_color_opt
+DECL|variable|decoration_colors
 DECL|variable|name_decoration
