@@ -10,6 +10,7 @@ DECL|function|gather_stats
 DECL|function|git_path_check_convert
 DECL|function|git_path_check_crlf
 DECL|function|git_path_check_ident
+DECL|function|has_cr_in_index
 DECL|function|ident_to_git
 DECL|function|ident_to_worktree
 DECL|function|is_binary
