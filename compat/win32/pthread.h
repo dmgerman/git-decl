@@ -1,6 +1,11 @@
+DECL|function|pthread_exit
+DECL|function|pthread_getspecific
+DECL|function|pthread_key_create
+DECL|function|pthread_setspecific
 DECL|macro|PTHREAD_H
 DECL|macro|PTHREAD_MUTEX_RECURSIVE
 DECL|macro|WIN32_LEAN_AND_MEAN
+DECL|macro|pthread_equal
 DECL|macro|pthread_join
 DECL|macro|pthread_mutex_destroy
 DECL|macro|pthread_mutex_init
@@ -15,9 +20,11 @@ DECL|member|continue_broadcast
 DECL|member|handle
 DECL|member|sema
 DECL|member|start_routine
+DECL|member|tid
 DECL|member|waiters
 DECL|member|waiters_lock
 DECL|member|was_broadcast
 DECL|typedef|pthread_cond_t
+DECL|typedef|pthread_key_t
 DECL|typedef|pthread_mutexattr_t
 DECL|typedef|pthread_t
