@@ -37,6 +37,7 @@ DECL|function|is_refname_available
 DECL|function|lock_any_ref_for_update
 DECL|function|lock_ref_sha1
 DECL|function|lock_ref_sha1_basic
+DECL|function|log_ref_setup
 DECL|function|log_ref_write
 DECL|function|parse_ref_line
 DECL|function|peel_ref
