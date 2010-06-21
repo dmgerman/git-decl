@@ -50,6 +50,7 @@ DECL|variable|commit_style
 DECL|variable|dry_run
 DECL|variable|edit_flag
 DECL|variable|edit_message
+DECL|variable|empty_amend_advice
 DECL|variable|false_lock
 DECL|variable|force_author
 DECL|variable|force_date
