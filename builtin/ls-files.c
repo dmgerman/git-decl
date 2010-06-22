@@ -4,6 +4,7 @@ DECL|function|option_parse_exclude_from
 DECL|function|option_parse_exclude_standard
 DECL|function|option_parse_z
 DECL|function|overlay_tree_on_cache
+DECL|function|pathspec_prefix
 DECL|function|prune_cache
 DECL|function|report_path_error
 DECL|function|show_ce_entry
@@ -14,15 +15,16 @@ DECL|function|show_one_ru
 DECL|function|show_other_files
 DECL|function|show_ru_info
 DECL|function|strip_trailing_slash_from_submodules
-DECL|function|verify_pathspec
+DECL|function|write_name
 DECL|variable|abbrev
 DECL|variable|error_unmatch
 DECL|variable|exc_given
 DECL|variable|line_terminator
 DECL|variable|ls_files_usage
+DECL|variable|max_prefix_len
 DECL|variable|pathspec
+DECL|variable|prefix
 DECL|variable|prefix_len
-DECL|variable|prefix_offset
 DECL|variable|ps_matched
 DECL|variable|show_cached
 DECL|variable|show_deleted
