@@ -27,6 +27,7 @@ DECL|function|no_numbered_callback
 DECL|function|numbered_callback
 DECL|function|output_directory_callback
 DECL|function|parse_decoration_style
+DECL|function|print_signature
 DECL|function|reopen_stdout
 DECL|function|set_outdir
 DECL|function|setup_early_output
@@ -62,5 +63,6 @@ DECL|variable|numbered_cmdline_opt
 DECL|variable|outdir_offset
 DECL|variable|output_directory
 DECL|variable|realstdout
+DECL|variable|signature
 DECL|variable|subject_prefix
 DECL|variable|thread
