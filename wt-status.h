@@ -18,6 +18,7 @@ DECL|member|commitable
 DECL|member|dirty_submodule
 DECL|member|fp
 DECL|member|head_path
+DECL|member|ignore_submodule_arg
 DECL|member|in_merge
 DECL|member|index_file
 DECL|member|index_status
