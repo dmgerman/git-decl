@@ -55,6 +55,7 @@ DECL|variable|false_lock
 DECL|variable|force_author
 DECL|variable|force_date
 DECL|variable|head_sha1
+DECL|variable|ignore_submodule_arg
 DECL|variable|implicit_ident_advice
 DECL|variable|in_merge
 DECL|variable|include_status
