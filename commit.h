@@ -32,6 +32,7 @@ DECL|member|sha1
 DECL|member|show_notes
 DECL|member|subject
 DECL|member|tree
+DECL|member|type
 DECL|member|util
 DECL|struct|commit
 DECL|struct|commit_graft
