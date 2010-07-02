@@ -25,6 +25,7 @@ DECL|function|ident_to_git
 DECL|function|ident_to_worktree
 DECL|function|is_binary
 DECL|function|read_convert_config
+DECL|function|renormalize_buffer
 DECL|function|setup_convert_check
 DECL|member|clean
 DECL|member|cmd
