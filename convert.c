@@ -9,6 +9,7 @@ DECL|function|apply_filter
 DECL|function|check_safe_crlf
 DECL|function|convert_to_git
 DECL|function|convert_to_working_tree
+DECL|function|convert_to_working_tree_internal
 DECL|function|count_ident
 DECL|function|crlf_to_git
 DECL|function|crlf_to_worktree
