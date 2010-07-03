@@ -4,7 +4,6 @@ DECL|enumerator|TAGS_UNSET
 DECL|function|add_existing
 DECL|function|add_merge_config
 DECL|function|add_remote_or_group
-DECL|function|add_to_tail
 DECL|function|check_not_current_branch
 DECL|function|cmd_fetch
 DECL|function|do_fetch
@@ -28,12 +27,9 @@ DECL|function|will_fetch
 DECL|macro|REFCOL_WIDTH
 DECL|macro|STORE_REF_ERROR_DF_CONFLICT
 DECL|macro|STORE_REF_ERROR_OTHER
-DECL|member|head
 DECL|member|list
 DECL|member|name
-DECL|member|tail
 DECL|struct|remote_group_data
-DECL|struct|tag_data
 DECL|variable|all
 DECL|variable|append
 DECL|variable|builtin_fetch_options
