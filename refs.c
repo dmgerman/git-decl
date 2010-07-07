@@ -66,6 +66,7 @@ DECL|macro|MAXDEPTH
 DECL|macro|MAXREFLEN
 DECL|macro|REF_BROKEN
 DECL|macro|REF_KNOWS_PEELED
+DECL|macro|TMP_RENAMED_LOG
 DECL|member|cb_data
 DECL|member|did_loose
 DECL|member|did_packed
