@@ -10,6 +10,7 @@ DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|do_for_each_ref
 DECL|function|do_for_each_reflog
+DECL|function|do_head_ref
 DECL|function|do_one_ref
 DECL|function|filter_refs
 DECL|function|find_ref_by_name
@@ -92,3 +93,4 @@ DECL|variable|extra_refs
 DECL|variable|packlock
 DECL|variable|ref_fetch_rules
 DECL|variable|ref_rev_parse_rules
+DECL|variable|submodule_refs
