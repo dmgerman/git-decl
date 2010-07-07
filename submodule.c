@@ -1,4 +1,8 @@
 DECL|function|add_submodule_odb
+DECL|function|find_first_merges
 DECL|function|handle_ignore_submodules_arg
 DECL|function|is_submodule_modified
+DECL|function|merge_submodule
+DECL|function|print_commit
 DECL|function|show_submodule_summary
+DECL|macro|MERGE_WARNING
