@@ -23,6 +23,7 @@ DECL|function|merge_recursive_generic
 DECL|function|merge_trees
 DECL|function|output
 DECL|function|output_commit_title
+DECL|function|process_df_entry
 DECL|function|process_entry
 DECL|function|process_renames
 DECL|function|remove_file
