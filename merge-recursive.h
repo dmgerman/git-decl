@@ -1,4 +1,8 @@
+DECL|enumerator|MERGE_RECURSIVE_NORMAL
+DECL|enumerator|MERGE_RECURSIVE_OURS
+DECL|enumerator|MERGE_RECURSIVE_THEIRS
 DECL|macro|MERGE_RECURSIVE_H
+DECL|member|ancestor
 DECL|member|branch1
 DECL|member|branch2
 DECL|member|buffer_output
@@ -8,6 +12,7 @@ DECL|member|current_file_set
 DECL|member|diff_rename_limit
 DECL|member|merge_rename_limit
 DECL|member|obuf
-DECL|member|subtree_merge
+DECL|member|recursive_variant
+DECL|member|subtree_shift
 DECL|member|verbosity
 DECL|struct|merge_options

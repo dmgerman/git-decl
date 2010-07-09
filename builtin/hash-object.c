@@ -1,0 +1,12 @@
+DECL|function|cmd_hash_object
+DECL|function|hash_fd
+DECL|function|hash_object
+DECL|function|hash_stdin_paths
+DECL|variable|hash_object_options
+DECL|variable|hash_object_usage
+DECL|variable|hashstdin
+DECL|variable|no_filters
+DECL|variable|stdin_paths
+DECL|variable|type
+DECL|variable|vpath
+DECL|variable|write_object

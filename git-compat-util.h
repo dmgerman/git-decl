@@ -1,3 +1,4 @@
+DECL|function|gitmempcpy
 DECL|function|gitstrchrnul
 DECL|function|has_extension
 DECL|function|sane_case
@@ -23,12 +24,17 @@ DECL|macro|GIT_GLOB_SPECIAL
 DECL|macro|GIT_REGEX_SPECIAL
 DECL|macro|GIT_SPACE
 DECL|macro|HAS_MULTI_BITS
+DECL|macro|HAVE_MEMPCPY
 DECL|macro|HAVE_STRCHRNUL
 DECL|macro|MAP_FAILED
 DECL|macro|MAP_PRIVATE
 DECL|macro|MSB
 DECL|macro|NORETURN
 DECL|macro|NORETURN
+DECL|macro|NORETURN
+DECL|macro|NORETURN_PTR
+DECL|macro|NORETURN_PTR
+DECL|macro|NORETURN_PTR
 DECL|macro|PATH_MAX
 DECL|macro|PATH_SEP
 DECL|macro|PRIu32
@@ -46,6 +52,7 @@ DECL|macro|ST_MTIME_NSEC
 DECL|macro|TYPEOF
 DECL|macro|TYPEOF
 DECL|macro|USE_NSEC
+DECL|macro|WIN32_LEAN_AND_MEAN
 DECL|macro|_ALL_SOURCE
 DECL|macro|_ALL_SOURCE
 DECL|macro|_ALL_SOURCE
@@ -53,6 +60,7 @@ DECL|macro|_BSD_SOURCE
 DECL|macro|_FILE_OFFSET_BITS
 DECL|macro|_GNU_SOURCE
 DECL|macro|_NETBSD_SOURCE
+DECL|macro|_PATH_DEFPATH
 DECL|macro|_SGI_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
@@ -84,6 +92,7 @@ DECL|macro|isdigit
 DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|memmem
+DECL|macro|mempcpy
 DECL|macro|mkdtemp
 DECL|macro|mkstemps
 DECL|macro|mmap
@@ -105,3 +114,4 @@ DECL|macro|toupper
 DECL|macro|toupper
 DECL|macro|unsetenv
 DECL|macro|vsnprintf
+DECL|typedef|try_to_free_t

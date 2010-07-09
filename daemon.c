@@ -1,5 +1,5 @@
 DECL|function|add_child
-DECL|function|avoid_alias
+DECL|function|addrcmp
 DECL|function|check_dead_children
 DECL|function|child_handler
 DECL|function|copy_to_log
@@ -15,6 +15,7 @@ DECL|function|loginfo
 DECL|function|logreport
 DECL|function|main
 DECL|function|make_service_overridable
+DECL|function|parse_host_and_port
 DECL|function|parse_host_arg
 DECL|function|path_ok
 DECL|function|receive_pack

@@ -1,0 +1,5 @@
+DECL|function|cmd_archive
+DECL|function|create_output_file
+DECL|function|format_from_name
+DECL|function|run_remote_archiver
+DECL|macro|PARSE_OPT_KEEP_ALL

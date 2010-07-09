@@ -3,6 +3,7 @@ DECL|function|clear_commit_marks
 DECL|function|commit_graft_pos
 DECL|function|commit_list_count
 DECL|function|commit_list_insert
+DECL|function|commit_tree
 DECL|function|free_commit_list
 DECL|function|get_merge_bases
 DECL|function|get_merge_bases_many
@@ -39,4 +40,5 @@ DECL|variable|commit_graft
 DECL|variable|commit_graft_alloc
 DECL|variable|commit_graft_nr
 DECL|variable|commit_type
+DECL|variable|commit_utf8_warn
 DECL|variable|save_commit_buffer

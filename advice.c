@@ -1,0 +1,11 @@
+DECL|function|die_resolve_conflict
+DECL|function|git_default_advice_config
+DECL|member|name
+DECL|member|preference
+DECL|variable|advice_commit_before_merge
+DECL|variable|advice_config
+DECL|variable|advice_detached_head
+DECL|variable|advice_implicit_identity
+DECL|variable|advice_push_nonfastforward
+DECL|variable|advice_resolve_conflict
+DECL|variable|advice_status_hints

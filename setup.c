@@ -1,6 +1,8 @@
+DECL|function|check_filename
 DECL|function|check_repository_format
 DECL|function|check_repository_format_gently
 DECL|function|check_repository_format_version
+DECL|function|die_verify_filename
 DECL|function|get_pathspec
 DECL|function|git_config_perm
 DECL|function|is_git_directory

@@ -2,6 +2,7 @@ DECL|enumerator|DIE_ON_ERR
 DECL|enumerator|MSG_ON_ERR
 DECL|enumerator|QUIET_ON_ERR
 DECL|enum|action_on_err
+DECL|function|has_glob_specials
 DECL|macro|CHECK_REF_FORMAT_ERROR
 DECL|macro|CHECK_REF_FORMAT_OK
 DECL|macro|CHECK_REF_FORMAT_ONELEVEL

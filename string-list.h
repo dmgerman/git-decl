@@ -1,4 +1,4 @@
-DECL|macro|PATH_LIST_H
+DECL|macro|STRING_LIST_H
 DECL|member|alloc
 DECL|member|items
 DECL|member|nr

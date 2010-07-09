@@ -1,0 +1,2 @@
+DECL|function|cmd_unpack_file
+DECL|function|create_temp_file

@@ -6,12 +6,13 @@ DECL|function|fill
 DECL|function|fill_one
 DECL|function|free_attr_elem
 DECL|function|git_attr
+DECL|function|git_attr_internal
 DECL|function|git_attr_set_direction
 DECL|function|git_checkattr
 DECL|function|handle_attr_line
 DECL|function|hash_name
 DECL|function|invalid_attr_name
-DECL|function|macroexpand
+DECL|function|macroexpand_one
 DECL|function|parse_attr
 DECL|function|parse_attr_line
 DECL|function|path_matches

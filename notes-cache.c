@@ -1,0 +1,5 @@
+DECL|function|notes_cache_get
+DECL|function|notes_cache_init
+DECL|function|notes_cache_match_validity
+DECL|function|notes_cache_put
+DECL|function|notes_cache_write
