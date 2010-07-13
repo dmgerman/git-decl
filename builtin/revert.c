@@ -16,6 +16,7 @@ DECL|function|parse_args
 DECL|function|prepare_revs
 DECL|function|revert_or_cherry_pick
 DECL|function|revert_or_cherry_pick_usage
+DECL|function|run_git_commit
 DECL|function|set_author_ident_env
 DECL|function|write_message
 DECL|macro|GIT_REFLOG_ACTION
