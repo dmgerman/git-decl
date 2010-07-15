@@ -24,8 +24,8 @@ DECL|function|match_string
 DECL|function|match_tz
 DECL|function|nodate
 DECL|function|parse_date
+DECL|function|parse_date_basic
 DECL|function|parse_date_format
-DECL|function|parse_date_toffset
 DECL|function|pending_number
 DECL|function|show_date
 DECL|function|show_date_relative
