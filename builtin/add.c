@@ -22,6 +22,7 @@ DECL|variable|builtin_add_usage
 DECL|variable|edit_interactive
 DECL|variable|ignore_add_errors
 DECL|variable|ignore_error
+DECL|variable|ignore_missing
 DECL|variable|ignored_too
 DECL|variable|intent_to_add
 DECL|variable|lock_file
