@@ -3,6 +3,7 @@ DECL|function|clear_commit_marks
 DECL|function|commit_graft_pos
 DECL|function|commit_list_count
 DECL|function|commit_list_insert
+DECL|function|find_commit_subject
 DECL|function|free_commit_list
 DECL|function|get_merge_bases
 DECL|function|get_merge_bases_many
