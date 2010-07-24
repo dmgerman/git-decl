@@ -12,6 +12,7 @@ DECL|function|prefix_filename
 DECL|function|prefix_path
 DECL|function|read_gitfile_gently
 DECL|function|set_work_tree
+DECL|function|setup_explicit_git_dir
 DECL|function|setup_git_directory
 DECL|function|setup_git_directory_gently
 DECL|function|setup_work_tree
