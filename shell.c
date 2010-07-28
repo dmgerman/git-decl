@@ -4,7 +4,9 @@ DECL|function|do_generic_cmd
 DECL|function|is_valid_cmd_name
 DECL|function|main
 DECL|function|make_cmd
+DECL|function|run_shell
 DECL|macro|COMMAND_DIR
+DECL|macro|HELP_COMMAND
 DECL|member|exec
 DECL|member|name
 DECL|struct|commands
