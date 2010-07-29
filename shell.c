@@ -1,6 +1,10 @@
+DECL|function|cd_to_homedir
 DECL|function|do_cvs_cmd
 DECL|function|do_generic_cmd
+DECL|function|is_valid_cmd_name
 DECL|function|main
+DECL|function|make_cmd
+DECL|macro|COMMAND_DIR
 DECL|member|exec
 DECL|member|name
 DECL|struct|commands
