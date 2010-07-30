@@ -17,6 +17,7 @@ DECL|function|show_ru_info
 DECL|function|strip_trailing_slash_from_submodules
 DECL|function|write_name
 DECL|variable|abbrev
+DECL|variable|debug_mode
 DECL|variable|error_unmatch
 DECL|variable|exc_given
 DECL|variable|line_terminator
