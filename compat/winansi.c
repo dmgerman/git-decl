@@ -1,6 +1,6 @@
 DECL|function|ansi_emulate
 DECL|function|erase_in_line
-DECL|function|init
+DECL|function|is_console
 DECL|function|set_attr
 DECL|function|set_console_attr
 DECL|function|winansi_fprintf
@@ -16,5 +16,6 @@ DECL|macro|printf
 DECL|macro|vfprintf
 DECL|variable|attr
 DECL|variable|console
+DECL|variable|last_stream
 DECL|variable|negative
 DECL|variable|plain_attr
