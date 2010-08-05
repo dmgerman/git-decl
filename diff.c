@@ -206,6 +206,7 @@ DECL|struct|dirstat_file
 DECL|struct|emit_callback
 DECL|struct|patch_id_t
 DECL|typedef|sane_truncate_fn
+DECL|variable|default_diff_options
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
