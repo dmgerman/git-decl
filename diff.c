@@ -88,6 +88,7 @@ DECL|function|git_config_rename
 DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
 DECL|function|is_conflict_marker
+DECL|function|is_submodule_ignored
 DECL|function|is_summary_empty
 DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
