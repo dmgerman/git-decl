@@ -7,4 +7,4 @@ DECL|function|rerere_created_at
 DECL|function|unlink_rr_item
 DECL|variable|cutoff_noresolve
 DECL|variable|cutoff_resolve
-DECL|variable|git_rerere_usage
+DECL|variable|rerere_usage
