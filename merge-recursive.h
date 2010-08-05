@@ -13,6 +13,7 @@ DECL|member|diff_rename_limit
 DECL|member|merge_rename_limit
 DECL|member|obuf
 DECL|member|recursive_variant
+DECL|member|renormalize
 DECL|member|subtree_shift
 DECL|member|verbosity
 DECL|struct|merge_options
