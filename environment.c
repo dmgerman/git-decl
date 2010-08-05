@@ -41,7 +41,6 @@ DECL|variable|ignore_case
 DECL|variable|is_bare_repository_cfg
 DECL|variable|local_repo_env
 DECL|variable|log_all_ref_updates
-DECL|variable|merge_renormalize
 DECL|variable|notes_ref_name
 DECL|variable|object_creation_mode
 DECL|variable|packed_git_limit
