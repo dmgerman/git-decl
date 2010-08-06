@@ -19,6 +19,7 @@ DECL|member|val
 DECL|struct|cmd_struct
 DECL|struct|pager_config
 DECL|variable|git_more_info_string
+DECL|variable|git_startup_info
 DECL|variable|git_usage_string
 DECL|variable|git_version_string
 DECL|variable|use_pager
