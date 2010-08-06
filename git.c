@@ -10,6 +10,7 @@ DECL|function|run_argv
 DECL|function|run_builtin
 DECL|macro|NEED_WORK_TREE
 DECL|macro|RUN_SETUP
+DECL|macro|RUN_SETUP_GENTLY
 DECL|macro|USE_PAGER
 DECL|member|cmd
 DECL|member|cmd
