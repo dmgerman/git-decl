@@ -276,6 +276,7 @@ DECL|member|force
 DECL|member|force
 DECL|member|gid
 DECL|member|gid
+DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version

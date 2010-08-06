@@ -14,6 +14,7 @@ DECL|function|read_gitfile_gently
 DECL|function|set_work_tree
 DECL|function|setup_git_directory
 DECL|function|setup_git_directory_gently
+DECL|function|setup_git_directory_gently_1
 DECL|function|setup_work_tree
 DECL|function|verify_filename
 DECL|function|verify_non_filename
