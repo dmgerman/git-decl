@@ -1,0 +1,1 @@
+DECL|macro|LINE_BUFFER_H_
