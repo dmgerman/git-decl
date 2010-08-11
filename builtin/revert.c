@@ -12,9 +12,9 @@ DECL|function|fast_forward_to
 DECL|function|free_message
 DECL|function|get_encoding
 DECL|function|get_message
-DECL|function|help_msg
 DECL|function|parse_args
 DECL|function|prepare_revs
+DECL|function|print_advice
 DECL|function|revert_or_cherry_pick
 DECL|function|revert_or_cherry_pick_usage
 DECL|function|run_git_commit
