@@ -5,7 +5,6 @@ DECL|function|conflict_rename_rename_2
 DECL|function|flush_buffer
 DECL|function|flush_output
 DECL|function|get_files_dirs
-DECL|function|get_porcelain_error_msgs
 DECL|function|get_ref
 DECL|function|get_renames
 DECL|function|get_unmerged
@@ -28,6 +27,7 @@ DECL|function|process_renames
 DECL|function|remove_file
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
+DECL|function|set_porcelain_error_msgs
 DECL|function|sha_eq
 DECL|function|shift_tree_object
 DECL|function|show
