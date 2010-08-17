@@ -55,6 +55,7 @@ DECL|function|regfree
 DECL|function|search_duplicated_node
 DECL|function|weak_alias
 DECL|function|weak_alias
+DECL|function|weak_alias
 DECL|macro|BRACKET_NAME_BUF_SIZE
 DECL|macro|BUILD_CHARCLASS_LOOP
 DECL|macro|REG_BADBR_IDX
@@ -76,7 +77,5 @@ DECL|macro|REG_NOERROR_IDX
 DECL|macro|REG_NOMATCH_IDX
 DECL|variable|attribute_hidden
 DECL|variable|attribute_hidden
-DECL|variable|errbuf
-DECL|variable|errbuf_size
 DECL|variable|re_comp_buf
 DECL|variable|utf8_sb_map
