@@ -1,4 +1,6 @@
 DECL|macro|STRING_LIST_H
+DECL|macro|STRING_LIST_INIT_DUP
+DECL|macro|STRING_LIST_INIT_NODUP
 DECL|macro|for_each_string_list_item
 DECL|member|alloc
 DECL|member|items
