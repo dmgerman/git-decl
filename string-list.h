@@ -1,4 +1,5 @@
 DECL|macro|STRING_LIST_H
+DECL|macro|for_each_string_list_item
 DECL|member|alloc
 DECL|member|items
 DECL|member|nr

@@ -11,7 +11,6 @@ DECL|function|show_ce_entry
 DECL|function|show_dir_entry
 DECL|function|show_files
 DECL|function|show_killed_files
-DECL|function|show_one_ru
 DECL|function|show_other_files
 DECL|function|show_ru_info
 DECL|function|strip_trailing_slash_from_submodules
