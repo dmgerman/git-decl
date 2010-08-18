@@ -88,6 +88,7 @@ DECL|function|git_config_rename
 DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
 DECL|function|is_conflict_marker
+DECL|function|is_submodule_ignored
 DECL|function|is_summary_empty
 DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
@@ -205,6 +206,7 @@ DECL|struct|dirstat_file
 DECL|struct|emit_callback
 DECL|struct|patch_id_t
 DECL|typedef|sane_truncate_fn
+DECL|variable|default_diff_options
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
