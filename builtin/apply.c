@@ -29,6 +29,7 @@ DECL|function|create_file
 DECL|function|create_one_file
 DECL|function|find_header
 DECL|function|find_name
+DECL|function|find_name_gnu
 DECL|function|find_pos
 DECL|function|fuzzy_matchlines
 DECL|function|get_current_sha1
