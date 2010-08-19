@@ -27,10 +27,15 @@ DECL|function|cmd_apply
 DECL|function|count_slashes
 DECL|function|create_file
 DECL|function|create_one_file
+DECL|function|date_len
+DECL|function|diff_timestamp_len
 DECL|function|find_header
 DECL|function|find_name
+DECL|function|find_name_common
 DECL|function|find_name_gnu
+DECL|function|find_name_traditional
 DECL|function|find_pos
+DECL|function|fractional_time_len
 DECL|function|fuzzy_matchlines
 DECL|function|get_current_sha1
 DECL|function|git_apply_config
@@ -97,6 +102,7 @@ DECL|function|remove_last_line
 DECL|function|reverse_patches
 DECL|function|say_patch_name
 DECL|function|set_default_whitespace_mode
+DECL|function|short_time_len
 DECL|function|show_file_mode_name
 DECL|function|show_mode_change
 DECL|function|show_rename_copy
@@ -106,7 +112,9 @@ DECL|function|stat_patch_list
 DECL|function|stop_at_slash
 DECL|function|summary_patch_list
 DECL|function|to_be_deleted
+DECL|function|trailing_spaces_len
 DECL|function|try_create_file
+DECL|function|tz_len
 DECL|function|update_image
 DECL|function|update_pre_post_images
 DECL|function|use_patch
