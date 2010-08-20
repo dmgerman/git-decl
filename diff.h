@@ -96,6 +96,7 @@ DECL|member|flags
 DECL|member|format_callback
 DECL|member|format_callback_data
 DECL|member|found_changes
+DECL|member|found_follow
 DECL|member|interhunkcontext
 DECL|member|len
 DECL|member|line_termination
