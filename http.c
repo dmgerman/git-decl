@@ -80,5 +80,6 @@ DECL|variable|ssl_cert
 DECL|variable|ssl_cert_password
 DECL|variable|ssl_cert_password_required
 DECL|variable|ssl_key
+DECL|variable|user_agent
 DECL|variable|user_name
 DECL|variable|user_pass
