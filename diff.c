@@ -93,6 +93,7 @@ DECL|function|is_summary_empty
 DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
+DECL|function|parse_long_opt
 DECL|function|parse_num
 DECL|function|patch_id_consume
 DECL|function|populate_from_stdin
@@ -113,6 +114,7 @@ DECL|function|run_external_diff
 DECL|function|run_textconv
 DECL|function|sane_truncate_line
 DECL|function|scale_linear
+DECL|function|short_opt
 DECL|function|show_dirstat
 DECL|function|show_file_mode_name
 DECL|function|show_graph
@@ -123,6 +125,7 @@ DECL|function|show_rename_copy
 DECL|function|show_shortstats
 DECL|function|show_stats
 DECL|function|similarity_index
+DECL|function|stat_opt
 DECL|function|strip_prefix
 DECL|function|userdiff_word_regex
 DECL|macro|FAST_WORKING_DIRECTORY
