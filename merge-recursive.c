@@ -24,6 +24,7 @@ DECL|function|merge_recursive_generic
 DECL|function|merge_trees
 DECL|function|output
 DECL|function|output_commit_title
+DECL|function|parse_merge_opt
 DECL|function|process_entry
 DECL|function|process_renames
 DECL|function|read_sha1_strbuf
