@@ -1,4 +1,5 @@
 DECL|macro|FLAG_BITS
+DECL|macro|OBJECT_ARRAY_INIT
 DECL|macro|OBJECT_H
 DECL|macro|TYPE_BITS
 DECL|member|alloc
