@@ -27,6 +27,7 @@ DECL|function|show_filemodify
 DECL|function|show_progress
 DECL|variable|fake_missing_tagger
 DECL|variable|fast_export_usage
+DECL|variable|full_tree
 DECL|variable|idnums
 DECL|variable|last_idnum
 DECL|variable|no_data
