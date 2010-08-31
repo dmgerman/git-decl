@@ -19,6 +19,7 @@ DECL|function|setup_discovered_git_dir
 DECL|function|setup_explicit_git_dir
 DECL|function|setup_git_directory
 DECL|function|setup_git_directory_gently
+DECL|function|setup_git_directory_gently_1
 DECL|function|setup_nongit
 DECL|function|setup_work_tree
 DECL|function|verify_filename

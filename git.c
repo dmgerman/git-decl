@@ -10,6 +10,7 @@ DECL|function|run_argv
 DECL|function|run_builtin
 DECL|macro|NEED_WORK_TREE
 DECL|macro|RUN_SETUP
+DECL|macro|RUN_SETUP_GENTLY
 DECL|macro|USE_PAGER
 DECL|member|cmd
 DECL|member|cmd
@@ -19,6 +20,7 @@ DECL|member|val
 DECL|struct|cmd_struct
 DECL|struct|pager_config
 DECL|variable|git_more_info_string
+DECL|variable|git_startup_info
 DECL|variable|git_usage_string
 DECL|variable|git_version_string
 DECL|variable|use_pager

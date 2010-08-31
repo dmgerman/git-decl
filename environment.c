@@ -53,6 +53,7 @@ DECL|variable|read_replace_refs
 DECL|variable|repository_format_version
 DECL|variable|safe_crlf
 DECL|variable|shared_repository
+DECL|variable|startup_info
 DECL|variable|trust_ctime
 DECL|variable|trust_executable_bit
 DECL|variable|user_ident_explicitly_given

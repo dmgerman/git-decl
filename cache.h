@@ -276,6 +276,7 @@ DECL|member|force
 DECL|member|force
 DECL|member|gid
 DECL|member|gid
+DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version
@@ -367,5 +368,6 @@ DECL|struct|pack_entry
 DECL|struct|pack_window
 DECL|struct|packed_git
 DECL|struct|ref
+DECL|struct|startup_info
 DECL|typedef|alt_odb_fn
 DECL|typedef|config_fn_t
