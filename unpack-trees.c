@@ -31,6 +31,7 @@ DECL|function|oneway_merge
 DECL|function|reject_merge
 DECL|function|restore_cache_bottom
 DECL|function|same
+DECL|function|setup_unpack_trees_porcelain
 DECL|function|show_stage_entry
 DECL|function|switch_cache_bottom
 DECL|function|threeway_merge
