@@ -1,4 +1,5 @@
 DECL|function|add_cacheinfo
+DECL|function|blob_unchanged
 DECL|function|conflict_rename_dir
 DECL|function|conflict_rename_rename
 DECL|function|conflict_rename_rename_2
@@ -25,6 +26,7 @@ DECL|function|output_commit_title
 DECL|function|process_df_entry
 DECL|function|process_entry
 DECL|function|process_renames
+DECL|function|read_sha1_strbuf
 DECL|function|remove_file
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
