@@ -30,7 +30,6 @@ DECL|function|read_sha1_strbuf
 DECL|function|remove_file
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
-DECL|function|set_porcelain_error_msgs
 DECL|function|sha_eq
 DECL|function|shift_tree_object
 DECL|function|show
