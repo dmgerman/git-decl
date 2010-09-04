@@ -23,6 +23,7 @@ DECL|function|update_refs_for_switch
 DECL|function|update_some
 DECL|member|branch_exists
 DECL|member|commit
+DECL|member|diff_options
 DECL|member|force
 DECL|member|merge
 DECL|member|name
