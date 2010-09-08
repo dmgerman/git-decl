@@ -14,6 +14,6 @@ DECL|member|r_branch
 DECL|member|tag
 DECL|struct|src_data
 DECL|variable|fmt_merge_msg_usage
-DECL|variable|merge_summary
 DECL|variable|origins
+DECL|variable|shortlog_len
 DECL|variable|srcs
