@@ -11,6 +11,7 @@ DECL|function|setup_git_env
 DECL|macro|OBJECT_CREATION_MODE
 DECL|variable|apply_default_ignorewhitespace
 DECL|variable|apply_default_whitespace
+DECL|variable|askpass_program
 DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
 DECL|variable|autorebase
