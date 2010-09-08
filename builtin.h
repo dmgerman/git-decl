@@ -1,4 +1,5 @@
 DECL|macro|BUILTIN_H
+DECL|macro|DEFAULT_MERGE_LOG_LEN
 DECL|member|cmd
 DECL|member|combine
 DECL|member|enabled
