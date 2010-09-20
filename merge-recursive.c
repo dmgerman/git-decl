@@ -1,5 +1,6 @@
 DECL|function|add_cacheinfo
 DECL|function|blob_unchanged
+DECL|function|conflict_rename_delete
 DECL|function|conflict_rename_rename_1to2
 DECL|function|conflict_rename_rename_2to1
 DECL|function|flush_buffer
