@@ -17,6 +17,7 @@ DECL|function|insert_stage_data
 DECL|function|make_room_for_path
 DECL|function|make_virtual_commit
 DECL|function|merge_3way
+DECL|function|merge_content
 DECL|function|merge_file
 DECL|function|merge_recursive
 DECL|function|merge_recursive_config
