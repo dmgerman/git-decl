@@ -18,6 +18,7 @@ DECL|function|handle_delete_modify
 DECL|function|init_merge_options
 DECL|function|init_tree_desc_from_tree
 DECL|function|insert_stage_data
+DECL|function|make_room_for_directories_of_df_conflicts
 DECL|function|make_room_for_path
 DECL|function|make_virtual_commit
 DECL|function|merge_3way
