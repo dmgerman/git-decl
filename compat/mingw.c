@@ -25,6 +25,7 @@ DECL|function|lookup_prog
 DECL|function|make_augmented_environ
 DECL|function|make_backslash_path
 DECL|function|mingw_connect
+DECL|function|mingw_execv
 DECL|function|mingw_execve
 DECL|function|mingw_execvp
 DECL|function|mingw_fopen

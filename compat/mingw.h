@@ -68,6 +68,7 @@ DECL|macro|WTERMSIG
 DECL|macro|_stati64
 DECL|macro|connect
 DECL|macro|dirent
+DECL|macro|execv
 DECL|macro|execvp
 DECL|macro|exit
 DECL|macro|fopen
