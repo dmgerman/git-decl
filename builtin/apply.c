@@ -100,6 +100,7 @@ DECL|function|remove_file
 DECL|function|remove_first_line
 DECL|function|remove_last_line
 DECL|function|reverse_patches
+DECL|function|sane_tz_len
 DECL|function|say_patch_name
 DECL|function|set_default_whitespace_mode
 DECL|function|short_time_len
@@ -114,7 +115,7 @@ DECL|function|summary_patch_list
 DECL|function|to_be_deleted
 DECL|function|trailing_spaces_len
 DECL|function|try_create_file
-DECL|function|tz_len
+DECL|function|tz_with_colon_len
 DECL|function|update_image
 DECL|function|update_pre_post_images
 DECL|function|use_patch
