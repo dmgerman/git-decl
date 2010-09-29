@@ -17,7 +17,9 @@ DECL|function|free_pattern_expr
 DECL|function|grep_buffer
 DECL|function|grep_buffer_1
 DECL|function|grep_opt_dup
+DECL|function|grep_or_expr
 DECL|function|grep_threads_ok
+DECL|function|grep_true_expr
 DECL|function|look_ahead
 DECL|function|match_expr
 DECL|function|match_expr_eval
@@ -28,6 +30,7 @@ DECL|function|match_one_pattern
 DECL|function|next_match
 DECL|function|output_color
 DECL|function|output_sep
+DECL|function|prep_header_patterns
 DECL|function|regmatch
 DECL|function|should_lookahead
 DECL|function|show_funcname_line
