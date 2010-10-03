@@ -25,6 +25,7 @@ DECL|function|excluded
 DECL|function|excluded_from_list
 DECL|function|file_exists
 DECL|function|fill_directory
+DECL|function|fnmatch_icase
 DECL|function|free_simplify
 DECL|function|get_dtype
 DECL|function|get_index_dtype
@@ -43,6 +44,8 @@ DECL|function|remove_path
 DECL|function|setup_standard_excludes
 DECL|function|simple_length
 DECL|function|simplify_away
+DECL|function|strcmp_icase
+DECL|function|strncmp_icase
 DECL|function|treat_directory
 DECL|function|treat_leading_path
 DECL|function|treat_one_path
