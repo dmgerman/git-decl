@@ -20,6 +20,7 @@ DECL|function|dir_add_ignored
 DECL|function|dir_add_name
 DECL|function|dir_entry_new
 DECL|function|directory_exists_in_index
+DECL|function|directory_exists_in_index_icase
 DECL|function|exclude_matches_pathspec
 DECL|function|excluded
 DECL|function|excluded_from_list
