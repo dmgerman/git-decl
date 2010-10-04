@@ -2,6 +2,7 @@ DECL|function|cmd_init_db
 DECL|function|copy_templates
 DECL|function|copy_templates_1
 DECL|function|create_default_files
+DECL|function|create_object_directory
 DECL|function|git_init_db_config
 DECL|function|guess_repository_type
 DECL|function|init_db
