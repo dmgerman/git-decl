@@ -63,6 +63,7 @@ DECL|enum|push_default_type
 DECL|enum|rebase_setup_type
 DECL|enum|safe_crlf
 DECL|enum|sharedrepo
+DECL|function|canon_mode
 DECL|function|ce_mode_from_stat
 DECL|function|ce_namelen
 DECL|function|ce_to_dtype
@@ -207,7 +208,6 @@ DECL|macro|cache_entry_size
 DECL|macro|cache_name_exists
 DECL|macro|cache_name_is_other
 DECL|macro|cache_name_pos
-DECL|macro|canon_mode
 DECL|macro|ce_mark_uptodate
 DECL|macro|ce_match_stat
 DECL|macro|ce_modified
