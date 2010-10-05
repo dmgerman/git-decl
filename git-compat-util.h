@@ -92,6 +92,7 @@ DECL|macro|isdigit
 DECL|macro|isdigit
 DECL|macro|isspace
 DECL|macro|isspace
+DECL|macro|maximum_signed_value_of_type
 DECL|macro|memmem
 DECL|macro|mempcpy
 DECL|macro|mkdtemp
@@ -104,6 +105,7 @@ DECL|macro|pread
 DECL|macro|qsort
 DECL|macro|sane_istest
 DECL|macro|setenv
+DECL|macro|signed_add_overflows
 DECL|macro|snprintf
 DECL|macro|strcasestr
 DECL|macro|strchrnul
