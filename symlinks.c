@@ -1,7 +1,7 @@
+DECL|function|check_leading_path
 DECL|function|do_remove_scheduled_dirs
 DECL|function|has_dirs_only_path
 DECL|function|has_symlink_leading_path
-DECL|function|has_symlink_or_noent_leading_path
 DECL|function|longest_path_match
 DECL|function|lstat_cache
 DECL|function|lstat_cache_matchlen
