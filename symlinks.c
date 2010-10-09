@@ -4,6 +4,7 @@ DECL|function|has_symlink_leading_path
 DECL|function|has_symlink_or_noent_leading_path
 DECL|function|longest_path_match
 DECL|function|lstat_cache
+DECL|function|lstat_cache_matchlen
 DECL|function|remove_scheduled_dirs
 DECL|function|reset_lstat_cache
 DECL|function|schedule_dir_for_removal
