@@ -6,7 +6,5 @@ DECL|function|buffer_read_string
 DECL|function|buffer_reset
 DECL|function|buffer_skip_bytes
 DECL|macro|COPY_BUFFER_LEN
-DECL|macro|LINE_BUFFER_LEN
-DECL|variable|blob_buffer
-DECL|variable|infile
-DECL|variable|line_buffer
+DECL|variable|buf
+DECL|variable|buf_
