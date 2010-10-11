@@ -53,6 +53,7 @@ DECL|member|uuid
 DECL|member|uuid
 DECL|member|version
 DECL|variable|dump_ctx
+DECL|variable|input
 DECL|variable|keys
 DECL|variable|node_ctx
 DECL|variable|rev_ctx
