@@ -12,4 +12,5 @@ DECL|macro|VLI_CONTINUE
 DECL|macro|VLI_DIGIT_MASK
 DECL|macro|WINDOW_INIT
 DECL|member|data
+DECL|member|instructions
 DECL|struct|window
