@@ -1,6 +1,7 @@
 DECL|function|apply_one_window
 DECL|function|apply_window_in_core
 DECL|function|copyfrom_data
+DECL|function|copyfrom_source
 DECL|function|copyfrom_target
 DECL|function|error_short_read
 DECL|function|execute_one_instruction
@@ -15,6 +16,7 @@ DECL|function|svndiff0_apply
 DECL|function|window_release
 DECL|function|write_strbuf
 DECL|macro|INSN_COPYFROM_DATA
+DECL|macro|INSN_COPYFROM_SOURCE
 DECL|macro|INSN_COPYFROM_TARGET
 DECL|macro|INSN_MASK
 DECL|macro|OPERAND_MASK
@@ -23,6 +25,7 @@ DECL|macro|VLI_CONTINUE
 DECL|macro|VLI_DIGIT_MASK
 DECL|macro|WINDOW_INIT
 DECL|member|data
+DECL|member|in
 DECL|member|instructions
 DECL|member|out
 DECL|struct|window
