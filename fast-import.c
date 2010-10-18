@@ -84,6 +84,7 @@ DECL|function|tecmp1
 DECL|function|to_atom
 DECL|function|tree_content_get
 DECL|function|tree_content_remove
+DECL|function|tree_content_replace
 DECL|function|tree_content_set
 DECL|function|truncate_pack
 DECL|function|unkeep_all_packs
