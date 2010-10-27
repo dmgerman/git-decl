@@ -94,7 +94,7 @@ DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
 DECL|function|parse_long_opt
-DECL|function|parse_num
+DECL|function|parse_rename_score
 DECL|function|patch_id_consume
 DECL|function|populate_from_stdin
 DECL|function|pprint_rename
