@@ -35,6 +35,7 @@ DECL|function|upload_pack
 DECL|function|xstrdup_tolower
 DECL|macro|HOST_NAME_MAX
 DECL|macro|NI_MAXSERV
+DECL|macro|initgroups
 DECL|member|address
 DECL|member|alloc
 DECL|member|config_name
