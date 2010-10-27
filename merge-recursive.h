@@ -16,4 +16,5 @@ DECL|member|recursive_variant
 DECL|member|renormalize
 DECL|member|subtree_shift
 DECL|member|verbosity
+DECL|member|xdl_opts
 DECL|struct|merge_options
