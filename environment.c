@@ -23,6 +23,7 @@ DECL|variable|core_apply_sparse_checkout
 DECL|variable|core_compression_level
 DECL|variable|core_compression_seen
 DECL|variable|core_preload_index
+DECL|variable|default_abbrev
 DECL|variable|delta_base_cache_limit
 DECL|variable|editor_program
 DECL|variable|eol
@@ -45,6 +46,7 @@ DECL|variable|ignore_case
 DECL|variable|is_bare_repository_cfg
 DECL|variable|local_repo_env
 DECL|variable|log_all_ref_updates
+DECL|variable|minimum_abbrev
 DECL|variable|notes_ref_name
 DECL|variable|object_creation_mode
 DECL|variable|packed_git_limit
