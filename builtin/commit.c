@@ -52,6 +52,7 @@ DECL|variable|edit_flag
 DECL|variable|edit_message
 DECL|variable|empty_amend_advice
 DECL|variable|false_lock
+DECL|variable|fixup_message
 DECL|variable|force_author
 DECL|variable|force_date
 DECL|variable|head_sha1
