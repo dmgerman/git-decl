@@ -53,6 +53,7 @@ DECL|member|indent2
 DECL|member|is_alias
 DECL|member|is_tformat
 DECL|member|len
+DECL|member|message
 DECL|member|message_off
 DECL|member|name
 DECL|member|off
