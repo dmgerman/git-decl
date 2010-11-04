@@ -15,7 +15,6 @@ DECL|function|mingw_unlink
 DECL|function|readlink
 DECL|function|symlink
 DECL|function|sync
-DECL|function|waitpid
 DECL|macro|DT_DIR
 DECL|macro|DT_DIR
 DECL|macro|DT_LNK

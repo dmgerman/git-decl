@@ -70,6 +70,7 @@ DECL|function|stop_timer_thread
 DECL|function|ticktack
 DECL|function|time_t_to_filetime
 DECL|function|try_shell_exec
+DECL|function|waitpid
 DECL|macro|accept
 DECL|macro|bind
 DECL|macro|connect
@@ -90,12 +91,19 @@ DECL|member|dd_dta
 DECL|member|dd_handle
 DECL|member|dd_name
 DECL|member|dd_stat
+DECL|member|next
+DECL|member|pid
+DECL|member|proc
 DECL|struct|mingw_DIR
+DECL|struct|pinfo_t
 DECL|variable|ipv6_dll
 DECL|variable|ipv6_freeaddrinfo
 DECL|variable|ipv6_getaddrinfo
 DECL|variable|ipv6_getnameinfo
 DECL|variable|one_shot
+DECL|variable|pinfo
+DECL|variable|pinfo_cs
+DECL|variable|pinfo_t
 DECL|variable|timer_event
 DECL|variable|timer_fn
 DECL|variable|timer_interval
