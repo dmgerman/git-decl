@@ -19,7 +19,6 @@ DECL|function|parse_host_and_port
 DECL|function|parse_host_arg
 DECL|function|path_ok
 DECL|function|receive_pack
-DECL|function|remove_child
 DECL|function|run_service
 DECL|function|run_service_command
 DECL|function|sanitize_stdfds
@@ -37,6 +36,7 @@ DECL|macro|HOST_NAME_MAX
 DECL|macro|NI_MAXSERV
 DECL|member|address
 DECL|member|alloc
+DECL|member|cld
 DECL|member|config_name
 DECL|member|enabled
 DECL|member|fn
@@ -45,7 +45,6 @@ DECL|member|name
 DECL|member|next
 DECL|member|nr
 DECL|member|overridable
-DECL|member|pid
 DECL|struct|child
 DECL|struct|daemon_service
 DECL|struct|socketlist
@@ -53,6 +52,7 @@ DECL|typedef|daemon_service_fn
 DECL|variable|base_path
 DECL|variable|base_path_relaxed
 DECL|variable|canon_hostname
+DECL|variable|cld_argv
 DECL|variable|daemon_service
 DECL|variable|daemon_usage
 DECL|variable|export_all_trees
