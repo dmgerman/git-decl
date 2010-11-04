@@ -5,6 +5,9 @@ DECL|function|child_handler
 DECL|function|copy_to_log
 DECL|function|daemon_die
 DECL|function|daemonize
+DECL|function|daemonize
+DECL|function|drop_privileges
+DECL|function|drop_privileges
 DECL|function|enable_service
 DECL|function|execute
 DECL|function|git_daemon_config
@@ -18,6 +21,8 @@ DECL|function|make_service_overridable
 DECL|function|parse_host_and_port
 DECL|function|parse_host_arg
 DECL|function|path_ok
+DECL|function|prepare_credentials
+DECL|function|prepare_credentials
 DECL|function|receive_pack
 DECL|function|run_service
 DECL|function|run_service_command
@@ -40,12 +45,15 @@ DECL|member|cld
 DECL|member|config_name
 DECL|member|enabled
 DECL|member|fn
+DECL|member|gid
 DECL|member|list
 DECL|member|name
 DECL|member|next
 DECL|member|nr
 DECL|member|overridable
+DECL|member|pass
 DECL|struct|child
+DECL|struct|credentials
 DECL|struct|daemon_service
 DECL|struct|socketlist
 DECL|typedef|daemon_service_fn
