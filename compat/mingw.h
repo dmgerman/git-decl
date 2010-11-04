@@ -24,6 +24,8 @@ DECL|macro|DT_REG
 DECL|macro|DT_REG
 DECL|macro|DT_UNKNOWN
 DECL|macro|DT_UNKNOWN
+DECL|macro|EAFNOSUPPORT
+DECL|macro|ECONNABORTED
 DECL|macro|FD_CLOEXEC
 DECL|macro|F_GETFD
 DECL|macro|F_SETFD
@@ -66,6 +68,8 @@ DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
 DECL|macro|WTERMSIG
 DECL|macro|_stati64
+DECL|macro|accept
+DECL|macro|bind
 DECL|macro|connect
 DECL|macro|dirent
 DECL|macro|execv
@@ -86,6 +90,7 @@ DECL|macro|getpagesize
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
+DECL|macro|listen
 DECL|macro|lseek
 DECL|macro|lstat
 DECL|macro|main
@@ -97,6 +102,7 @@ DECL|macro|open_html
 DECL|macro|printf
 DECL|macro|readdir
 DECL|macro|rename
+DECL|macro|setsockopt
 DECL|macro|sigemptyset
 DECL|macro|signal
 DECL|macro|socket
@@ -126,4 +132,5 @@ DECL|struct|pollfd
 DECL|struct|sigaction
 DECL|typedef|pid_t
 DECL|typedef|sig_handler_t
+DECL|typedef|socklen_t
 DECL|typedef|uid_t

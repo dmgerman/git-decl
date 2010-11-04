@@ -24,6 +24,8 @@ DECL|function|lookup_env
 DECL|function|lookup_prog
 DECL|function|make_augmented_environ
 DECL|function|make_backslash_path
+DECL|function|mingw_accept
+DECL|function|mingw_bind
 DECL|function|mingw_connect
 DECL|function|mingw_execv
 DECL|function|mingw_execve
@@ -38,11 +40,13 @@ DECL|function|mingw_getenv
 DECL|function|mingw_gethostbyname
 DECL|function|mingw_getnameinfo
 DECL|function|mingw_getpagesize
+DECL|function|mingw_listen
 DECL|function|mingw_lstat
 DECL|function|mingw_open
 DECL|function|mingw_open_html
 DECL|function|mingw_readdir
 DECL|function|mingw_rename
+DECL|function|mingw_setsockopt
 DECL|function|mingw_signal
 DECL|function|mingw_socket
 DECL|function|mingw_spawnve
@@ -66,6 +70,8 @@ DECL|function|stop_timer_thread
 DECL|function|ticktack
 DECL|function|time_t_to_filetime
 DECL|function|try_shell_exec
+DECL|macro|accept
+DECL|macro|bind
 DECL|macro|connect
 DECL|macro|fopen
 DECL|macro|freopen
@@ -73,8 +79,10 @@ DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|getenv
 DECL|macro|gethostbyname
+DECL|macro|listen
 DECL|macro|open
 DECL|macro|rename
+DECL|macro|setsockopt
 DECL|macro|signal
 DECL|macro|write
 DECL|member|dd_dir
