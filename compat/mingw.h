@@ -65,6 +65,7 @@ DECL|macro|S_IXUSR
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
+DECL|macro|WNOHANG
 DECL|macro|WTERMSIG
 DECL|macro|_stati64
 DECL|macro|accept
