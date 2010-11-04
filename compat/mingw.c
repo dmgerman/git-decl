@@ -40,6 +40,7 @@ DECL|function|mingw_getenv
 DECL|function|mingw_gethostbyname
 DECL|function|mingw_getnameinfo
 DECL|function|mingw_getpagesize
+DECL|function|mingw_kill
 DECL|function|mingw_listen
 DECL|function|mingw_lstat
 DECL|function|mingw_open
