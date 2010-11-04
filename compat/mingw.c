@@ -60,7 +60,6 @@ DECL|function|mkstemp
 DECL|function|parse_interpreter
 DECL|function|path_lookup
 DECL|function|pipe
-DECL|function|poll
 DECL|function|quote_arg
 DECL|function|setitimer
 DECL|function|sigaction
