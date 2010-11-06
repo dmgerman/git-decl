@@ -1,6 +1,11 @@
 DECL|function|git_inflate
 DECL|function|git_inflate_end
 DECL|function|git_inflate_init
+DECL|function|git_mkstemp
+DECL|function|git_mkstemp_mode
+DECL|function|git_mkstemps
+DECL|function|git_mkstemps_mode
+DECL|function|gitmkstemps
 DECL|function|read_in_full
 DECL|function|remove_or_warn
 DECL|function|rmdir_or_warn
@@ -22,4 +27,6 @@ DECL|function|xrealloc
 DECL|function|xstrdup
 DECL|function|xstrndup
 DECL|function|xwrite
+DECL|macro|TMP_MAX
+DECL|macro|TMP_MAX
 DECL|variable|try_to_free_routine
