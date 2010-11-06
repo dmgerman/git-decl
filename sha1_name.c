@@ -25,6 +25,8 @@ DECL|function|interpret_nth_prior_checkout
 DECL|function|match_sha
 DECL|function|peel_onion
 DECL|function|peel_to_type
+DECL|function|strbuf_branchname
+DECL|function|strbuf_check_branch_ref
 DECL|function|substitute_branch_name
 DECL|function|upstream_mark
 DECL|macro|ONELINE_SEEN
