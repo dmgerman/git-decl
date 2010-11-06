@@ -96,6 +96,7 @@ DECL|function|write_buffer
 DECL|function|write_loose_object
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
+DECL|function|xmmap
 DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
