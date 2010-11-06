@@ -1,6 +1,3 @@
-DECL|function|git_inflate
-DECL|function|git_inflate_end
-DECL|function|git_inflate_init
 DECL|function|git_mkstemp
 DECL|function|git_mkstemp_mode
 DECL|function|git_mkstemps
