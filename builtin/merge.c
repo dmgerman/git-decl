@@ -35,6 +35,7 @@ DECL|macro|NO_TRIVIAL
 DECL|member|attr
 DECL|member|name
 DECL|struct|strategy
+DECL|variable|abort_current_merge
 DECL|variable|all_strategy
 DECL|variable|allow_fast_forward
 DECL|variable|allow_rerere_auto
