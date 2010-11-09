@@ -12,6 +12,8 @@ DECL|function|init_notes_check
 DECL|function|list
 DECL|function|list_each_note
 DECL|function|merge
+DECL|function|merge_abort
+DECL|function|merge_commit
 DECL|function|notes_copy_from_stdin
 DECL|function|notes_rewrite_config
 DECL|function|parse_combine_notes_fn

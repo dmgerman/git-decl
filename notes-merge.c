@@ -10,6 +10,8 @@ DECL|function|merge_from_diffs
 DECL|function|merge_one_change
 DECL|function|merge_one_change_manual
 DECL|function|notes_merge
+DECL|function|notes_merge_abort
+DECL|function|notes_merge_commit
 DECL|function|path_to_sha1
 DECL|function|verify_notes_filepair
 DECL|function|write_buf_to_worktree
