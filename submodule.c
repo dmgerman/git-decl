@@ -13,5 +13,6 @@ DECL|function|show_submodule_summary
 DECL|function|submodule_config
 DECL|macro|MERGE_WARNING
 DECL|variable|config_fetch_recurse_submodules
+DECL|variable|config_fetch_recurse_submodules_for_name
 DECL|variable|config_ignore_for_name
 DECL|variable|config_name_for_path
