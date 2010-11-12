@@ -1,4 +1,5 @@
 DECL|function|add_submodule_odb
+DECL|function|fetch_populated_submodules
 DECL|function|find_first_merges
 DECL|function|gitmodules_config
 DECL|function|handle_ignore_submodules_arg
