@@ -2,6 +2,7 @@ DECL|enumerator|NOTES_MERGE_VERBOSITY_DEFAULT
 DECL|enumerator|NOTES_MERGE_VERBOSITY_MAX
 DECL|enum|notes_merge_verbosity
 DECL|macro|NOTES_MERGE_H
+DECL|member|commit_msg
 DECL|member|local_ref
 DECL|member|remote_ref
 DECL|member|verbosity
