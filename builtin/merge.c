@@ -18,6 +18,7 @@ DECL|function|option_parse_message
 DECL|function|option_parse_n
 DECL|function|option_parse_strategy
 DECL|function|option_parse_x
+DECL|function|read_empty
 DECL|function|read_tree_trivial
 DECL|function|reset_hard
 DECL|function|restore_state
