@@ -1,3 +1,7 @@
+DECL|enumerator|NOTES_MERGE_RESOLVE_MANUAL
+DECL|enumerator|NOTES_MERGE_RESOLVE_OURS
+DECL|enumerator|NOTES_MERGE_RESOLVE_THEIRS
+DECL|enumerator|NOTES_MERGE_RESOLVE_UNION
 DECL|enumerator|NOTES_MERGE_VERBOSITY_DEFAULT
 DECL|enumerator|NOTES_MERGE_VERBOSITY_MAX
 DECL|enum|notes_merge_verbosity
@@ -5,5 +9,6 @@ DECL|macro|NOTES_MERGE_H
 DECL|member|commit_msg
 DECL|member|local_ref
 DECL|member|remote_ref
+DECL|member|strategy
 DECL|member|verbosity
 DECL|struct|notes_merge_options

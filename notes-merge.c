@@ -5,6 +5,7 @@ DECL|function|find_notes_merge_pair_pos
 DECL|function|init_notes_merge_options
 DECL|function|merge_changes
 DECL|function|merge_from_diffs
+DECL|function|merge_one_change
 DECL|function|notes_merge
 DECL|function|path_to_sha1
 DECL|function|verify_notes_filepair
