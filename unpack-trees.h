@@ -27,9 +27,7 @@ DECL|member|initial_checkout
 DECL|member|merge
 DECL|member|merge_size
 DECL|member|msgs
-DECL|member|next
 DECL|member|nontrivial_merge
-DECL|member|path
 DECL|member|prefix
 DECL|member|reset
 DECL|member|result
@@ -42,6 +40,5 @@ DECL|member|unpack_data
 DECL|member|unpack_rejects
 DECL|member|update
 DECL|member|verbose_update
-DECL|struct|rejected_paths_list
 DECL|struct|unpack_trees_options
 DECL|typedef|merge_fn_t
