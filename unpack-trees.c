@@ -17,7 +17,6 @@ DECL|function|display_error_msgs
 DECL|function|do_compare_entry
 DECL|function|find_cache_entry
 DECL|function|find_cache_pos
-DECL|function|free_rejected_paths
 DECL|function|icase_exists
 DECL|function|invalidate_ce_path
 DECL|function|keep_entry
