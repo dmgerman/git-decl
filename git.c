@@ -16,7 +16,8 @@ DECL|member|cmd
 DECL|member|cmd
 DECL|member|fn
 DECL|member|option
-DECL|member|val
+DECL|member|value
+DECL|member|want
 DECL|struct|cmd_struct
 DECL|struct|pager_config
 DECL|variable|git_more_info_string
