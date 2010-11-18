@@ -41,6 +41,7 @@ DECL|member|srcRev
 DECL|member|svn_author
 DECL|member|svn_date
 DECL|member|svn_executable
+DECL|member|svn_fs_dump_format_version
 DECL|member|svn_log
 DECL|member|svn_special
 DECL|member|textLength
@@ -50,6 +51,7 @@ DECL|member|type
 DECL|member|url
 DECL|member|uuid
 DECL|member|uuid
+DECL|member|version
 DECL|variable|dump_ctx
 DECL|variable|keys
 DECL|variable|node_ctx
