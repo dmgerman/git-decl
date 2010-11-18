@@ -33,6 +33,8 @@ DECL|member|node_kind
 DECL|member|node_path
 DECL|member|propLength
 DECL|member|prop_content_length
+DECL|member|prop_delta
+DECL|member|prop_delta
 DECL|member|revision
 DECL|member|revision_number
 DECL|member|src
@@ -46,6 +48,8 @@ DECL|member|svn_log
 DECL|member|svn_special
 DECL|member|textLength
 DECL|member|text_content_length
+DECL|member|text_delta
+DECL|member|text_delta
 DECL|member|timestamp
 DECL|member|type
 DECL|member|url
