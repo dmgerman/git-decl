@@ -38,7 +38,6 @@ DECL|member|prop_delta
 DECL|member|revision
 DECL|member|revision_number
 DECL|member|src
-DECL|member|srcMode
 DECL|member|srcRev
 DECL|member|svn_author
 DECL|member|svn_date
