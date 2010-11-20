@@ -25,7 +25,6 @@ DECL|member|author
 DECL|member|content_length
 DECL|member|dst
 DECL|member|log
-DECL|member|mark
 DECL|member|node_action
 DECL|member|node_copyfrom_path
 DECL|member|node_copyfrom_rev
