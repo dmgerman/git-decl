@@ -3,6 +3,8 @@ DECL|enumerator|WHENSPEC_RAW
 DECL|enumerator|WHENSPEC_RFC2822
 DECL|function|alloc_objects
 DECL|function|change_note_fanout
+DECL|function|checkpoint
+DECL|function|checkpoint_signal
 DECL|function|construct_path_with_fanout
 DECL|function|convert_num_notes_to_fanout
 DECL|function|create_index
@@ -74,6 +76,8 @@ DECL|function|read_next_command
 DECL|function|release_tree_content
 DECL|function|release_tree_content_recursive
 DECL|function|release_tree_entry
+DECL|function|set_checkpoint_signal
+DECL|function|set_checkpoint_signal
 DECL|function|skip_optional_lf
 DECL|function|start_packfile
 DECL|function|store_object
@@ -179,6 +183,7 @@ DECL|variable|branch_count
 DECL|variable|branch_load_count
 DECL|variable|branch_table
 DECL|variable|branch_table_sz
+DECL|variable|checkpoint_requested
 DECL|variable|cmd_hist
 DECL|variable|cmd_save
 DECL|variable|cmd_tail
