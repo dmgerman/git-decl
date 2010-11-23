@@ -15,14 +15,6 @@ DECL|function|mingw_unlink
 DECL|function|readlink
 DECL|function|symlink
 DECL|function|sync
-DECL|macro|DT_DIR
-DECL|macro|DT_DIR
-DECL|macro|DT_LNK
-DECL|macro|DT_LNK
-DECL|macro|DT_REG
-DECL|macro|DT_REG
-DECL|macro|DT_UNKNOWN
-DECL|macro|DT_UNKNOWN
 DECL|macro|EAFNOSUPPORT
 DECL|macro|ECONNABORTED
 DECL|macro|FD_CLOEXEC
@@ -69,7 +61,6 @@ DECL|macro|_stati64
 DECL|macro|accept
 DECL|macro|bind
 DECL|macro|connect
-DECL|macro|dirent
 DECL|macro|execv
 DECL|macro|execvp
 DECL|macro|exit
@@ -99,7 +90,6 @@ DECL|macro|off_t
 DECL|macro|open
 DECL|macro|open_html
 DECL|macro|printf
-DECL|macro|readdir
 DECL|macro|rename
 DECL|macro|setsockopt
 DECL|macro|sigemptyset
@@ -109,11 +99,6 @@ DECL|macro|stat
 DECL|macro|unlink
 DECL|macro|utime
 DECL|macro|write
-DECL|member|d_ino
-DECL|member|d_name
-DECL|member|d_namlen
-DECL|member|d_reclen
-DECL|member|d_type
 DECL|member|it_interval
 DECL|member|it_value
 DECL|member|pw_dir
@@ -122,7 +107,6 @@ DECL|member|pw_name
 DECL|member|sa_flags
 DECL|member|sa_handler
 DECL|struct|itimerval
-DECL|struct|mingw_dirent
 DECL|struct|passwd
 DECL|struct|sigaction
 DECL|typedef|pid_t
