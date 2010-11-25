@@ -1,3 +1,4 @@
+DECL|function|end_url_with_slash
 DECL|function|is_url
 DECL|function|is_urlschemechar
 DECL|function|url_decode
