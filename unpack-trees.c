@@ -6,6 +6,9 @@ DECL|function|bind_merge
 DECL|function|call_unpack_fn
 DECL|function|ce_in_traverse_path
 DECL|function|check_updates
+DECL|function|clear_ce_flags
+DECL|function|clear_ce_flags_1
+DECL|function|clear_ce_flags_dir
 DECL|function|compare_entry
 DECL|function|create_ce_entry
 DECL|function|debug_name_entry
@@ -52,7 +55,6 @@ DECL|function|verify_clean_submodule
 DECL|function|verify_uptodate
 DECL|function|verify_uptodate_1
 DECL|function|verify_uptodate_sparse
-DECL|function|will_have_skip_worktree
 DECL|macro|ERRORMSG
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|variable|state
