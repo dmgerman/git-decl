@@ -338,7 +338,6 @@ DECL|member|refresh_cache
 DECL|member|remote_status
 DECL|member|resolve_undo
 DECL|member|sec
-DECL|member|setup_explicit
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
