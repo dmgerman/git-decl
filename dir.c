@@ -25,6 +25,7 @@ DECL|function|excluded
 DECL|function|excluded_from_list
 DECL|function|file_exists
 DECL|function|fill_directory
+DECL|function|free_excludes
 DECL|function|free_simplify
 DECL|function|get_dtype
 DECL|function|get_index_dtype
