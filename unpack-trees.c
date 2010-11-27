@@ -24,6 +24,7 @@ DECL|function|locate_in_src_index
 DECL|function|mark_all_ce_unused
 DECL|function|mark_ce_used
 DECL|function|mark_ce_used_same_name
+DECL|function|mark_new_skip_worktree
 DECL|function|merged_entry
 DECL|function|name_compare
 DECL|function|next_cache_entry
