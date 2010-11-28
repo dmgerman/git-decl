@@ -86,6 +86,7 @@ DECL|function|tree_content_get
 DECL|function|tree_content_remove
 DECL|function|tree_content_set
 DECL|function|truncate_pack
+DECL|function|ulong_arg
 DECL|function|unkeep_all_packs
 DECL|function|unload_one_branch
 DECL|function|update_branch
