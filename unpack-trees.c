@@ -5,6 +5,7 @@ DECL|function|apply_sparse_checkout
 DECL|function|bind_merge
 DECL|function|call_unpack_fn
 DECL|function|ce_in_traverse_path
+DECL|function|check_ok_to_remove
 DECL|function|check_updates
 DECL|function|compare_entry
 DECL|function|create_ce_entry
@@ -16,7 +17,6 @@ DECL|function|display_error_msgs
 DECL|function|do_compare_entry
 DECL|function|find_cache_entry
 DECL|function|find_cache_pos
-DECL|function|free_rejected_paths
 DECL|function|icase_exists
 DECL|function|invalidate_ce_path
 DECL|function|keep_entry
