@@ -18,7 +18,7 @@ DECL|function|emit_other
 DECL|function|emit_porcelain
 DECL|function|ent_score
 DECL|function|fake_working_tree_commit
-DECL|function|fill_blob_sha1
+DECL|function|fill_blob_sha1_and_mode
 DECL|function|fill_origin_blob
 DECL|function|find_alignment
 DECL|function|find_copy_in_blob
@@ -100,6 +100,7 @@ DECL|member|final_buf_size
 DECL|member|guilty
 DECL|member|lineno
 DECL|member|lno
+DECL|member|mode
 DECL|member|next
 DECL|member|num_lines
 DECL|member|num_lines
