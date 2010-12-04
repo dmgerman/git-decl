@@ -7,6 +7,8 @@ DECL|function|get_log_output_encoding
 DECL|function|get_object_directory
 DECL|function|have_git_dir
 DECL|function|is_bare_repository
+DECL|function|odb_mkstemp
+DECL|function|odb_pack_keep
 DECL|function|set_git_dir
 DECL|function|set_git_work_tree
 DECL|function|setup_git_env

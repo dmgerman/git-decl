@@ -4,8 +4,6 @@ DECL|function|strbuf_addbuf_percentquote
 DECL|function|strbuf_adddup
 DECL|function|strbuf_addf
 DECL|function|strbuf_attach
-DECL|function|strbuf_branchname
-DECL|function|strbuf_check_branch_ref
 DECL|function|strbuf_cmp
 DECL|function|strbuf_detach
 DECL|function|strbuf_expand

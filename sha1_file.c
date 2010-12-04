@@ -81,6 +81,7 @@ DECL|function|sha1_pack_name
 DECL|function|sort_pack
 DECL|function|sz_fmt
 DECL|function|sz_fmt
+DECL|function|try_to_free_pack_memory
 DECL|function|unpack_compressed_entry
 DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
@@ -96,6 +97,7 @@ DECL|function|write_buffer
 DECL|function|write_loose_object
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
+DECL|function|xmmap
 DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
