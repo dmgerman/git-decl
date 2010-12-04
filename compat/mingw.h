@@ -45,10 +45,8 @@ DECL|macro|SSL_set_wfd
 DECL|macro|S_IFLNK
 DECL|macro|S_IRGRP
 DECL|macro|S_IROTH
-DECL|macro|S_IRUSR
 DECL|macro|S_IRWXG
 DECL|macro|S_IRWXO
-DECL|macro|S_IRWXU
 DECL|macro|S_ISGID
 DECL|macro|S_ISLNK
 DECL|macro|S_ISSOCK
@@ -56,10 +54,8 @@ DECL|macro|S_ISUID
 DECL|macro|S_ISVTX
 DECL|macro|S_IWGRP
 DECL|macro|S_IWOTH
-DECL|macro|S_IWUSR
 DECL|macro|S_IXGRP
 DECL|macro|S_IXOTH
-DECL|macro|S_IXUSR
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
