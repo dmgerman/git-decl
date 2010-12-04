@@ -10,6 +10,7 @@ DECL|macro|IsConsoleHandle
 DECL|macro|MSG_PEEK
 DECL|macro|PIPE_BUF
 DECL|macro|WIN32_NATIVE
+DECL|macro|_WIN32_WINNT
 DECL|member|CurrentInstances
 DECL|member|InboundQuota
 DECL|member|Information
