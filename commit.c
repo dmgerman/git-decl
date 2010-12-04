@@ -16,6 +16,7 @@ DECL|function|is_descendant_of
 DECL|function|lookup_commit
 DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference
+DECL|function|lookup_commit_reference_by_name
 DECL|function|lookup_commit_reference_gently
 DECL|function|merge_bases_many
 DECL|function|parse_commit

@@ -52,6 +52,7 @@ DECL|variable|edit_flag
 DECL|variable|edit_message
 DECL|variable|empty_amend_advice
 DECL|variable|false_lock
+DECL|variable|fixup_message
 DECL|variable|force_author
 DECL|variable|force_date
 DECL|variable|head_sha1
@@ -75,6 +76,7 @@ DECL|variable|renew_authorship
 DECL|variable|show_ignored_in_status
 DECL|variable|sign_off_header
 DECL|variable|signoff
+DECL|variable|squash_message
 DECL|variable|status_format
 DECL|variable|status_show_branch
 DECL|variable|template_file

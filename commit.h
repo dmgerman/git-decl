@@ -25,6 +25,7 @@ DECL|member|next
 DECL|member|notes
 DECL|member|nr_parent
 DECL|member|object
+DECL|member|output_encoding
 DECL|member|parent
 DECL|member|parents
 DECL|member|reflog_info

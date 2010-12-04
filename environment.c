@@ -1,7 +1,9 @@
+DECL|function|get_commit_output_encoding
 DECL|function|get_git_dir
 DECL|function|get_git_work_tree
 DECL|function|get_graft_file
 DECL|function|get_index_file
+DECL|function|get_log_output_encoding
 DECL|function|get_object_directory
 DECL|function|have_git_dir
 DECL|function|is_bare_repository
