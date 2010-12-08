@@ -11,7 +11,6 @@ DECL|function|set_signingkey
 DECL|function|show_reference
 DECL|function|verify_tag
 DECL|function|write_tag_body
-DECL|macro|PGP_SIGNATURE
 DECL|member|buf
 DECL|member|given
 DECL|member|lines
