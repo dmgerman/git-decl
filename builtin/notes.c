@@ -5,11 +5,16 @@ DECL|function|commit_notes
 DECL|function|copy
 DECL|function|copy_note_for_rewrite
 DECL|function|create_note
+DECL|function|expand_notes_ref
 DECL|function|finish_copy_notes_for_rewrite
+DECL|function|get_ref
 DECL|function|init_copy_notes_for_rewrite
 DECL|function|init_notes_check
 DECL|function|list
 DECL|function|list_each_note
+DECL|function|merge
+DECL|function|merge_abort
+DECL|function|merge_commit
 DECL|function|notes_copy_from_stdin
 DECL|function|notes_rewrite_config
 DECL|function|parse_combine_notes_fn
@@ -30,7 +35,9 @@ DECL|variable|git_notes_add_usage
 DECL|variable|git_notes_append_usage
 DECL|variable|git_notes_copy_usage
 DECL|variable|git_notes_edit_usage
+DECL|variable|git_notes_get_ref_usage
 DECL|variable|git_notes_list_usage
+DECL|variable|git_notes_merge_usage
 DECL|variable|git_notes_prune_usage
 DECL|variable|git_notes_remove_usage
 DECL|variable|git_notes_show_usage

@@ -1,5 +1,6 @@
 DECL|function|add_non_note
 DECL|function|add_note
+DECL|function|combine_notes_cat_sort_uniq
 DECL|function|combine_notes_concatenate
 DECL|function|combine_notes_ignore
 DECL|function|combine_notes_overwrite
@@ -30,9 +31,11 @@ DECL|function|notes_display_config
 DECL|function|prune_notes
 DECL|function|prune_notes_helper
 DECL|function|remove_note
+DECL|function|string_list_add_note_lines
 DECL|function|string_list_add_one_ref
 DECL|function|string_list_add_refs_by_glob
 DECL|function|string_list_add_refs_from_colon_sep
+DECL|function|string_list_join_lines_helper
 DECL|function|tree_write_stack_finish_subtree
 DECL|function|tree_write_stack_init_subtree
 DECL|function|write_each_non_note_until
