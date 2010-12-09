@@ -8,6 +8,7 @@ DECL|function|finish_depth_computation
 DECL|function|get_name
 DECL|function|hash_sha1
 DECL|function|replace_name
+DECL|function|set_util
 DECL|function|show_suffix
 DECL|macro|MAX_TAGS
 DECL|macro|SEEN
@@ -31,6 +32,7 @@ DECL|variable|debug
 DECL|variable|describe_usage
 DECL|variable|diff_index_args
 DECL|variable|dirty
+DECL|variable|have_util
 DECL|variable|longformat
 DECL|variable|max_candidates
 DECL|variable|names
