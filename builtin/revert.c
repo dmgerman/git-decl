@@ -15,6 +15,7 @@ DECL|function|get_message
 DECL|function|parse_args
 DECL|function|prepare_revs
 DECL|function|print_advice
+DECL|function|read_and_refresh_cache
 DECL|function|revert_or_cherry_pick
 DECL|function|revert_or_cherry_pick_usage
 DECL|function|run_git_commit
