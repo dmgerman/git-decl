@@ -1,5 +1,6 @@
 DECL|function|color_fprintf
 DECL|function|color_fprintf_ln
+DECL|function|color_is_nil
 DECL|function|color_parse
 DECL|function|color_parse_mem
 DECL|function|color_vfprintf
