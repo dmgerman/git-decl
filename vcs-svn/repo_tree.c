@@ -15,8 +15,8 @@ DECL|function|repo_first_dirent
 DECL|function|repo_git_add
 DECL|function|repo_git_add_r
 DECL|function|repo_init
-DECL|function|repo_modify_path
 DECL|function|repo_read_dirent
+DECL|function|repo_read_mode
 DECL|function|repo_read_path
 DECL|function|repo_reset
 DECL|function|repo_write_dirent
