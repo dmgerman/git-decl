@@ -23,6 +23,7 @@ DECL|macro|NODEACT_REPLACE
 DECL|macro|NODEACT_UNKNOWN
 DECL|macro|NODE_CTX
 DECL|macro|REPORT_FILENO
+DECL|macro|REPORT_FILENO
 DECL|macro|REV_CTX
 DECL|member|action
 DECL|member|author
