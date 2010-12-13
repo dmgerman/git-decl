@@ -22,6 +22,7 @@ DECL|macro|NODEACT_REPLACE
 DECL|macro|NODEACT_UNKNOWN
 DECL|macro|NODE_CTX
 DECL|macro|REV_CTX
+DECL|macro|constcmp
 DECL|member|action
 DECL|member|author
 DECL|member|content_length
@@ -40,12 +41,7 @@ DECL|member|revision
 DECL|member|revision_number
 DECL|member|src
 DECL|member|srcRev
-DECL|member|svn_author
-DECL|member|svn_date
-DECL|member|svn_executable
 DECL|member|svn_fs_dump_format_version
-DECL|member|svn_log
-DECL|member|svn_special
 DECL|member|textLength
 DECL|member|text_content_length
 DECL|member|text_delta
