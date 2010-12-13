@@ -45,7 +45,6 @@ DECL|function|mingw_listen
 DECL|function|mingw_lstat
 DECL|function|mingw_open
 DECL|function|mingw_open_html
-DECL|function|mingw_readdir
 DECL|function|mingw_rename
 DECL|function|mingw_setsockopt
 DECL|function|mingw_signal
@@ -86,15 +85,9 @@ DECL|macro|rename
 DECL|macro|setsockopt
 DECL|macro|signal
 DECL|macro|write
-DECL|member|dd_dir
-DECL|member|dd_dta
-DECL|member|dd_handle
-DECL|member|dd_name
-DECL|member|dd_stat
 DECL|member|next
 DECL|member|pid
 DECL|member|proc
-DECL|struct|mingw_DIR
 DECL|struct|pinfo_t
 DECL|variable|ipv6_dll
 DECL|variable|ipv6_freeaddrinfo
