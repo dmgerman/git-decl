@@ -192,6 +192,7 @@ DECL|macro|WS_DEFAULT_RULE
 DECL|macro|WS_INDENT_WITH_NON_TAB
 DECL|macro|WS_SPACE_BEFORE_TAB
 DECL|macro|WS_TAB_IN_INDENT
+DECL|macro|WS_TAB_WIDTH_MASK
 DECL|macro|WS_TRAILING_SPACE
 DECL|macro|active_alloc
 DECL|macro|active_cache
@@ -240,6 +241,7 @@ DECL|macro|unmerge_cache
 DECL|macro|unmerge_cache_entry_at
 DECL|macro|unmerged_cache
 DECL|macro|write_cache
+DECL|macro|ws_tab_width
 DECL|member|alloc
 DECL|member|alloc
 DECL|member|array
