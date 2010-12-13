@@ -334,6 +334,7 @@ DECL|member|pack_size
 DECL|member|path
 DECL|member|path
 DECL|member|peer_ref
+DECL|member|prefix
 DECL|member|prefix_len_stat_func
 DECL|member|quiet
 DECL|member|refresh_cache

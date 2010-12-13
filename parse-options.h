@@ -6,6 +6,7 @@ DECL|enumerator|OPTION_END
 DECL|enumerator|OPTION_FILENAME
 DECL|enumerator|OPTION_GROUP
 DECL|enumerator|OPTION_INTEGER
+DECL|enumerator|OPTION_LOWLEVEL_CALLBACK
 DECL|enumerator|OPTION_NEGBIT
 DECL|enumerator|OPTION_NUMBER
 DECL|enumerator|OPTION_SET_INT
@@ -23,6 +24,7 @@ DECL|enumerator|PARSE_OPT_NEGHELP
 DECL|enumerator|PARSE_OPT_NOARG
 DECL|enumerator|PARSE_OPT_NODASH
 DECL|enumerator|PARSE_OPT_NONEG
+DECL|enumerator|PARSE_OPT_NON_OPTION
 DECL|enumerator|PARSE_OPT_NO_INTERNAL_HELP
 DECL|enumerator|PARSE_OPT_OPTARG
 DECL|enumerator|PARSE_OPT_SHELL_EVAL
@@ -74,3 +76,4 @@ DECL|member|value
 DECL|struct|option
 DECL|struct|parse_opt_ctx_t
 DECL|typedef|parse_opt_cb
+DECL|typedef|parse_opt_ll_cb
