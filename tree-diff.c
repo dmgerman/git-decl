@@ -5,8 +5,6 @@ DECL|function|diff_tree
 DECL|function|diff_tree_release_paths
 DECL|function|diff_tree_setup_paths
 DECL|function|diff_tree_sha1
-DECL|function|malloc_base
-DECL|function|malloc_fullname
 DECL|function|show_entry
 DECL|function|show_tree
 DECL|function|skip_uninteresting
