@@ -54,6 +54,7 @@ DECL|function|treat_directory
 DECL|function|treat_leading_path
 DECL|function|treat_one_path
 DECL|function|treat_path
+DECL|function|within_depth
 DECL|member|len
 DECL|member|path
 DECL|struct|path_simplify

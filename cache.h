@@ -297,6 +297,7 @@ DECL|member|len
 DECL|member|len
 DECL|member|len
 DECL|member|match
+DECL|member|max_depth
 DECL|member|merge
 DECL|member|mode
 DECL|member|mode
@@ -343,6 +344,7 @@ DECL|member|prefix
 DECL|member|prefix_len_stat_func
 DECL|member|quiet
 DECL|member|raw
+DECL|member|recursive
 DECL|member|refresh_cache
 DECL|member|remote_status
 DECL|member|resolve_undo
