@@ -10,5 +10,4 @@ DECL|function|malloc_fullname
 DECL|function|show_entry
 DECL|function|show_tree
 DECL|function|skip_uninteresting
-DECL|function|tree_entry_interesting
 DECL|function|try_to_follow_renames

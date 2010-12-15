@@ -14,6 +14,7 @@ DECL|function|name_compare
 DECL|function|setup_traverse_info
 DECL|function|traverse_trees
 DECL|function|tree_entry
+DECL|function|tree_entry_interesting
 DECL|function|update_extended_entry
 DECL|function|update_tree_entry
 DECL|member|d
