@@ -10,6 +10,7 @@ DECL|variable|progress
 DECL|variable|push_usage
 DECL|variable|receivepack
 DECL|variable|refspec
+DECL|variable|refspec_alloc
 DECL|variable|refspec_nr
 DECL|variable|thin
 DECL|variable|verbosity

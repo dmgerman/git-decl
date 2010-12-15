@@ -63,6 +63,7 @@ DECL|enum|push_default_type
 DECL|enum|rebase_setup_type
 DECL|enum|safe_crlf
 DECL|enum|sharedrepo
+DECL|function|canon_mode
 DECL|function|ce_mode_from_stat
 DECL|function|ce_namelen
 DECL|function|ce_to_dtype
@@ -119,6 +120,7 @@ DECL|macro|CE_UPDATE
 DECL|macro|CE_UPTODATE
 DECL|macro|CE_VALID
 DECL|macro|CE_WT_REMOVE
+DECL|macro|CONFIG_DATA_ENVIRONMENT
 DECL|macro|CONFIG_ENVIRONMENT
 DECL|macro|CONNECT_VERBOSE
 DECL|macro|CTIME_CHANGED
@@ -206,7 +208,6 @@ DECL|macro|cache_entry_size
 DECL|macro|cache_name_exists
 DECL|macro|cache_name_is_other
 DECL|macro|cache_name_pos
-DECL|macro|canon_mode
 DECL|macro|ce_mark_uptodate
 DECL|macro|ce_match_stat
 DECL|macro|ce_modified
@@ -276,6 +277,7 @@ DECL|member|force
 DECL|member|force
 DECL|member|gid
 DECL|member|gid
+DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version
@@ -367,5 +369,6 @@ DECL|struct|pack_entry
 DECL|struct|pack_window
 DECL|struct|packed_git
 DECL|struct|ref
+DECL|struct|startup_info
 DECL|typedef|alt_odb_fn
 DECL|typedef|config_fn_t

@@ -21,12 +21,15 @@ DECL|function|switch_branches
 DECL|function|unique_tracking_name
 DECL|function|update_refs_for_switch
 DECL|function|update_some
+DECL|member|branch_exists
 DECL|member|commit
+DECL|member|diff_options
 DECL|member|force
 DECL|member|merge
 DECL|member|name
 DECL|member|name
 DECL|member|new_branch
+DECL|member|new_branch_force
 DECL|member|new_branch_log
 DECL|member|new_orphan_branch
 DECL|member|path

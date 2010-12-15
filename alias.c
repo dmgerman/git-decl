@@ -1,5 +1,9 @@
 DECL|function|alias_lookup
 DECL|function|alias_lookup_cb
 DECL|function|split_cmdline
+DECL|function|split_cmdline_strerror
+DECL|macro|SPLIT_CMDLINE_BAD_ENDING
+DECL|macro|SPLIT_CMDLINE_UNCLOSED_QUOTE
 DECL|variable|alias_key
 DECL|variable|alias_val
+DECL|variable|split_cmdline_errors

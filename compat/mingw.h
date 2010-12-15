@@ -27,6 +27,7 @@ DECL|macro|DT_UNKNOWN
 DECL|macro|FD_CLOEXEC
 DECL|macro|F_GETFD
 DECL|macro|F_SETFD
+DECL|macro|HELP_COMMAND
 DECL|macro|ITIMER_REAL
 DECL|macro|PATH_SEP
 DECL|macro|POLLHUP
@@ -45,12 +46,21 @@ DECL|macro|SSL_set_wfd
 DECL|macro|S_IFLNK
 DECL|macro|S_IRGRP
 DECL|macro|S_IROTH
+DECL|macro|S_IRUSR
+DECL|macro|S_IRWXG
+DECL|macro|S_IRWXO
+DECL|macro|S_IRWXU
 DECL|macro|S_ISGID
 DECL|macro|S_ISLNK
 DECL|macro|S_ISSOCK
+DECL|macro|S_ISUID
+DECL|macro|S_ISVTX
 DECL|macro|S_IWGRP
+DECL|macro|S_IWOTH
+DECL|macro|S_IWUSR
 DECL|macro|S_IXGRP
 DECL|macro|S_IXOTH
+DECL|macro|S_IXUSR
 DECL|macro|WEXITSTATUS
 DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
@@ -58,6 +68,7 @@ DECL|macro|WTERMSIG
 DECL|macro|_stati64
 DECL|macro|connect
 DECL|macro|dirent
+DECL|macro|execv
 DECL|macro|execvp
 DECL|macro|exit
 DECL|macro|fopen
@@ -115,3 +126,4 @@ DECL|struct|pollfd
 DECL|struct|sigaction
 DECL|typedef|pid_t
 DECL|typedef|sig_handler_t
+DECL|typedef|uid_t

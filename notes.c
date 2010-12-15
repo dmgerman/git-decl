@@ -17,7 +17,6 @@ DECL|function|get_sha1_hex_segment
 DECL|function|init_display_notes
 DECL|function|init_notes
 DECL|function|load_notes_trees
-DECL|function|load_one_display_note_ref
 DECL|function|load_subtree
 DECL|function|matches_tree_write_stack
 DECL|function|non_note_cmp
@@ -34,7 +33,6 @@ DECL|function|remove_note
 DECL|function|string_list_add_one_ref
 DECL|function|string_list_add_refs_by_glob
 DECL|function|string_list_add_refs_from_colon_sep
-DECL|function|string_list_add_refs_from_list
 DECL|function|tree_write_stack_finish_subtree
 DECL|function|tree_write_stack_init_subtree
 DECL|function|write_each_non_note_until
@@ -53,7 +51,6 @@ DECL|macro|SET_PTR_TYPE
 DECL|macro|SUBTREE_SHA1_PREFIXCMP
 DECL|member|a
 DECL|member|buf
-DECL|member|counter
 DECL|member|key_sha1
 DECL|member|mode
 DECL|member|next
@@ -65,11 +62,9 @@ DECL|member|path
 DECL|member|root
 DECL|member|sha1
 DECL|member|sha1
-DECL|member|trees
 DECL|member|val_sha1
 DECL|struct|int_node
 DECL|struct|leaf_node
-DECL|struct|load_notes_cb_data
 DECL|struct|non_note
 DECL|struct|note_delete_list
 DECL|struct|tree_write_stack

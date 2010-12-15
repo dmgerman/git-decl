@@ -47,10 +47,11 @@ DECL|variable|have_message
 DECL|variable|head
 DECL|variable|merge_msg
 DECL|variable|option_commit
-DECL|variable|option_log
+DECL|variable|option_renormalize
 DECL|variable|pull_octopus
 DECL|variable|pull_twohead
 DECL|variable|remoteheads
+DECL|variable|shortlog_len
 DECL|variable|show_diffstat
 DECL|variable|squash
 DECL|variable|stash

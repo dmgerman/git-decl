@@ -10,6 +10,7 @@ DECL|function|git_mkstemp_mode
 DECL|function|git_mkstemps
 DECL|function|git_mkstemps_mode
 DECL|function|git_path
+DECL|function|git_path_submodule
 DECL|function|git_pathdup
 DECL|function|git_snpath
 DECL|function|git_vsnpath

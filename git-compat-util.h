@@ -37,6 +37,7 @@ DECL|macro|NORETURN_PTR
 DECL|macro|NORETURN_PTR
 DECL|macro|PATH_MAX
 DECL|macro|PATH_SEP
+DECL|macro|PRIo32
 DECL|macro|PRIu32
 DECL|macro|PRIuMAX
 DECL|macro|PRIx32
@@ -91,6 +92,7 @@ DECL|macro|isdigit
 DECL|macro|isdigit
 DECL|macro|isspace
 DECL|macro|isspace
+DECL|macro|maximum_signed_value_of_type
 DECL|macro|memmem
 DECL|macro|mempcpy
 DECL|macro|mkdtemp
@@ -103,10 +105,12 @@ DECL|macro|pread
 DECL|macro|qsort
 DECL|macro|sane_istest
 DECL|macro|setenv
+DECL|macro|signed_add_overflows
 DECL|macro|snprintf
 DECL|macro|strcasestr
 DECL|macro|strchrnul
 DECL|macro|strlcpy
+DECL|macro|strtok_r
 DECL|macro|strtoumax
 DECL|macro|tolower
 DECL|macro|tolower

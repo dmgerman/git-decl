@@ -9,6 +9,7 @@ DECL|function|apply_filter
 DECL|function|check_safe_crlf
 DECL|function|convert_to_git
 DECL|function|convert_to_working_tree
+DECL|function|convert_to_working_tree_internal
 DECL|function|count_ident
 DECL|function|crlf_to_git
 DECL|function|crlf_to_worktree
@@ -25,6 +26,7 @@ DECL|function|ident_to_git
 DECL|function|ident_to_worktree
 DECL|function|is_binary
 DECL|function|read_convert_config
+DECL|function|renormalize_buffer
 DECL|function|setup_convert_check
 DECL|member|clean
 DECL|member|cmd

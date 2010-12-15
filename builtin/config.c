@@ -54,4 +54,5 @@ DECL|variable|term
 DECL|variable|types
 DECL|variable|use_global_config
 DECL|variable|use_key_regexp
+DECL|variable|use_local_config
 DECL|variable|use_system_config

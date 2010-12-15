@@ -103,6 +103,7 @@ DECL|member|simplify_history
 DECL|member|simplify_merges
 DECL|member|skip_count
 DECL|member|subject_prefix
+DECL|member|submodule
 DECL|member|tag_objects
 DECL|member|topo_order
 DECL|member|total

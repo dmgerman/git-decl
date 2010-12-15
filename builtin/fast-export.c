@@ -6,6 +6,7 @@ DECL|enumerator|STRIP
 DECL|enumerator|VERBATIM
 DECL|enumerator|WARN
 DECL|function|cmd_fast_export
+DECL|function|depth_first
 DECL|function|export_marks
 DECL|function|find_encoding
 DECL|function|get_object_mark
@@ -27,6 +28,7 @@ DECL|function|show_filemodify
 DECL|function|show_progress
 DECL|variable|fake_missing_tagger
 DECL|variable|fast_export_usage
+DECL|variable|full_tree
 DECL|variable|idnums
 DECL|variable|last_idnum
 DECL|variable|no_data

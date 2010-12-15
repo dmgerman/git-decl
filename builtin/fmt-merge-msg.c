@@ -3,7 +3,6 @@ DECL|function|do_fmt_merge_msg
 DECL|function|do_fmt_merge_msg_title
 DECL|function|fmt_merge_msg
 DECL|function|fmt_merge_msg_config
-DECL|function|fmt_merge_msg_shortlog
 DECL|function|handle_line
 DECL|function|init_src_data
 DECL|function|print_joined
@@ -15,6 +14,6 @@ DECL|member|r_branch
 DECL|member|tag
 DECL|struct|src_data
 DECL|variable|fmt_merge_msg_usage
-DECL|variable|merge_summary
 DECL|variable|origins
+DECL|variable|shortlog_len
 DECL|variable|srcs

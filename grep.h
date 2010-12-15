@@ -8,6 +8,7 @@ DECL|enumerator|GREP_NODE_AND
 DECL|enumerator|GREP_NODE_ATOM
 DECL|enumerator|GREP_NODE_NOT
 DECL|enumerator|GREP_NODE_OR
+DECL|enumerator|GREP_NODE_TRUE
 DECL|enumerator|GREP_NOT
 DECL|enumerator|GREP_OPEN_PAREN
 DECL|enumerator|GREP_OR
@@ -22,6 +23,7 @@ DECL|macro|GREP_BINARY_DEFAULT
 DECL|macro|GREP_BINARY_NOMATCH
 DECL|macro|GREP_BINARY_TEXT
 DECL|macro|GREP_H
+DECL|macro|GREP_HEADER_FIELD_MAX
 DECL|member|all_match
 DECL|member|atom
 DECL|member|binary

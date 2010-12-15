@@ -1,11 +1,11 @@
 DECL|function|add_cacheinfo
+DECL|function|blob_unchanged
 DECL|function|conflict_rename_dir
 DECL|function|conflict_rename_rename
 DECL|function|conflict_rename_rename_2
 DECL|function|flush_buffer
 DECL|function|flush_output
 DECL|function|get_files_dirs
-DECL|function|get_porcelain_error_msgs
 DECL|function|get_ref
 DECL|function|get_renames
 DECL|function|get_unmerged
@@ -23,8 +23,11 @@ DECL|function|merge_recursive_generic
 DECL|function|merge_trees
 DECL|function|output
 DECL|function|output_commit_title
+DECL|function|parse_merge_opt
+DECL|function|process_df_entry
 DECL|function|process_entry
 DECL|function|process_renames
+DECL|function|read_sha1_strbuf
 DECL|function|remove_file
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs

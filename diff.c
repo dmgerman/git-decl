@@ -88,11 +88,13 @@ DECL|function|git_config_rename
 DECL|function|git_diff_basic_config
 DECL|function|git_diff_ui_config
 DECL|function|is_conflict_marker
+DECL|function|is_submodule_ignored
 DECL|function|is_summary_empty
 DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
-DECL|function|parse_num
+DECL|function|parse_long_opt
+DECL|function|parse_rename_score
 DECL|function|patch_id_consume
 DECL|function|populate_from_stdin
 DECL|function|pprint_rename
@@ -112,6 +114,7 @@ DECL|function|run_external_diff
 DECL|function|run_textconv
 DECL|function|sane_truncate_line
 DECL|function|scale_linear
+DECL|function|short_opt
 DECL|function|show_dirstat
 DECL|function|show_file_mode_name
 DECL|function|show_graph
@@ -122,6 +125,7 @@ DECL|function|show_rename_copy
 DECL|function|show_shortstats
 DECL|function|show_stats
 DECL|function|similarity_index
+DECL|function|stat_opt
 DECL|function|strip_prefix
 DECL|function|userdiff_word_regex
 DECL|macro|FAST_WORKING_DIRECTORY
@@ -205,6 +209,7 @@ DECL|struct|dirstat_file
 DECL|struct|emit_callback
 DECL|struct|patch_id_t
 DECL|typedef|sane_truncate_fn
+DECL|variable|default_diff_options
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default

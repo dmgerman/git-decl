@@ -1,6 +1,7 @@
 DECL|enumerator|CHERRY_PICK
 DECL|enumerator|REVERT
 DECL|function|add_message_to_msg
+DECL|function|advise
 DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
 DECL|function|die_dirty_index
@@ -11,11 +12,12 @@ DECL|function|fast_forward_to
 DECL|function|free_message
 DECL|function|get_encoding
 DECL|function|get_message
-DECL|function|help_msg
 DECL|function|parse_args
 DECL|function|prepare_revs
+DECL|function|print_advice
 DECL|function|revert_or_cherry_pick
 DECL|function|revert_or_cherry_pick_usage
+DECL|function|run_git_commit
 DECL|function|set_author_ident_env
 DECL|function|write_message
 DECL|macro|GIT_REFLOG_ACTION

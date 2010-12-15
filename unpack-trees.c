@@ -1,4 +1,5 @@
 DECL|function|add_entry
+DECL|function|add_rejected_path
 DECL|function|add_same_unmerged
 DECL|function|apply_sparse_checkout
 DECL|function|bind_merge
@@ -11,9 +12,11 @@ DECL|function|debug_name_entry
 DECL|function|debug_path
 DECL|function|debug_unpack_callback
 DECL|function|deleted_entry
+DECL|function|display_error_msgs
 DECL|function|do_compare_entry
 DECL|function|find_cache_entry
 DECL|function|find_cache_pos
+DECL|function|free_rejected_paths
 DECL|function|icase_exists
 DECL|function|invalidate_ce_path
 DECL|function|keep_entry
@@ -28,6 +31,7 @@ DECL|function|oneway_merge
 DECL|function|reject_merge
 DECL|function|restore_cache_bottom
 DECL|function|same
+DECL|function|setup_unpack_trees_porcelain
 DECL|function|show_stage_entry
 DECL|function|switch_cache_bottom
 DECL|function|threeway_merge
