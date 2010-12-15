@@ -1,5 +1,4 @@
 DECL|function|compare_tree_entry
-DECL|function|count_paths
 DECL|function|diff_might_be_rename
 DECL|function|diff_root_tree_sha1
 DECL|function|diff_tree
