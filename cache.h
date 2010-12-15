@@ -280,6 +280,8 @@ DECL|member|force
 DECL|member|force
 DECL|member|gid
 DECL|member|gid
+DECL|member|has_wildcard
+DECL|member|has_wildcard
 DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
