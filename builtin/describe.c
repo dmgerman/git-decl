@@ -3,9 +3,12 @@ DECL|function|cmd_describe
 DECL|function|compare_pt
 DECL|function|describe
 DECL|function|display_name
+DECL|function|find_commit_name
 DECL|function|finish_depth_computation
 DECL|function|get_name
+DECL|function|hash_sha1
 DECL|function|replace_name
+DECL|function|set_util
 DECL|function|show_suffix
 DECL|macro|MAX_TAGS
 DECL|macro|SEEN
@@ -14,7 +17,9 @@ DECL|member|flag_within
 DECL|member|found_order
 DECL|member|name
 DECL|member|name_checked
+DECL|member|next
 DECL|member|path
+DECL|member|peeled
 DECL|member|prio
 DECL|member|sha1
 DECL|member|tag
@@ -27,9 +32,10 @@ DECL|variable|debug
 DECL|variable|describe_usage
 DECL|variable|diff_index_args
 DECL|variable|dirty
-DECL|variable|found_names
+DECL|variable|have_util
 DECL|variable|longformat
 DECL|variable|max_candidates
+DECL|variable|names
 DECL|variable|pattern
 DECL|variable|prio_names
 DECL|variable|tags
