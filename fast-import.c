@@ -2,6 +2,8 @@ DECL|enumerator|WHENSPEC_NOW
 DECL|enumerator|WHENSPEC_RAW
 DECL|enumerator|WHENSPEC_RFC2822
 DECL|function|alloc_objects
+DECL|function|cat_blob
+DECL|function|cat_blob_write
 DECL|function|change_note_fanout
 DECL|function|checkpoint
 DECL|function|checkpoint_signal
@@ -44,6 +46,7 @@ DECL|function|new_tree_content
 DECL|function|new_tree_entry
 DECL|function|note_change_n
 DECL|function|option_active_branches
+DECL|function|option_cat_blob_fd
 DECL|function|option_date_format
 DECL|function|option_depth
 DECL|function|option_export_marks
@@ -51,6 +54,7 @@ DECL|function|option_export_pack_edges
 DECL|function|option_import_marks
 DECL|function|parse_and_store_blob
 DECL|function|parse_argv
+DECL|function|parse_cat_blob
 DECL|function|parse_checkpoint
 DECL|function|parse_data
 DECL|function|parse_feature
@@ -91,6 +95,7 @@ DECL|function|tree_content_remove
 DECL|function|tree_content_replace
 DECL|function|tree_content_set
 DECL|function|truncate_pack
+DECL|function|ulong_arg
 DECL|function|unkeep_all_packs
 DECL|function|unload_one_branch
 DECL|function|update_branch
@@ -184,6 +189,7 @@ DECL|variable|branch_count
 DECL|variable|branch_load_count
 DECL|variable|branch_table
 DECL|variable|branch_table_sz
+DECL|variable|cat_blob_fd
 DECL|variable|checkpoint_requested
 DECL|variable|cmd_hist
 DECL|variable|cmd_save
