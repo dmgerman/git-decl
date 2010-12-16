@@ -1,4 +1,6 @@
 DECL|macro|F_OK
+DECL|macro|INTMAX_MAX
+DECL|macro|INTMAX_MIN
 DECL|macro|R_OK
 DECL|macro|STDERR_FILENO
 DECL|macro|STDOUT_FILENO
@@ -18,6 +20,7 @@ DECL|macro|S_ISREG
 DECL|macro|S_IWRITE
 DECL|macro|S_IWUSR
 DECL|macro|S_IXUSR
+DECL|macro|UINTMAX_MAX
 DECL|macro|W_OK
 DECL|macro|X_OK
 DECL|macro|_MODE_T_
