@@ -1,8 +1,12 @@
+DECL|enumerator|RECURSE_SUBMODULES_DEFAULT
+DECL|enumerator|RECURSE_SUBMODULES_OFF
+DECL|enumerator|RECURSE_SUBMODULES_ON
 DECL|enumerator|TAGS_DEFAULT
 DECL|enumerator|TAGS_SET
 DECL|enumerator|TAGS_UNSET
 DECL|function|add_existing
 DECL|function|add_merge_config
+DECL|function|add_options_to_argv
 DECL|function|add_remote_or_group
 DECL|function|check_not_current_branch
 DECL|function|cmd_fetch
@@ -42,6 +46,8 @@ DECL|variable|keep
 DECL|variable|multiple
 DECL|variable|progress
 DECL|variable|prune
+DECL|variable|recurse_submodules
+DECL|variable|submodule_prefix
 DECL|variable|tags
 DECL|variable|transport
 DECL|variable|update_head_ok
