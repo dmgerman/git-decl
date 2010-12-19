@@ -1,4 +1,3 @@
-DECL|function|add_list
 DECL|function|check_local_mod
 DECL|function|cmd_rm
 DECL|member|alloc
