@@ -3,6 +3,8 @@ DECL|function|clear_commit_marks
 DECL|function|commit_graft_pos
 DECL|function|commit_list_count
 DECL|function|commit_list_insert
+DECL|function|commit_list_insert_by_date
+DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
 DECL|function|find_commit_subject
 DECL|function|free_commit_list
@@ -10,7 +12,6 @@ DECL|function|get_merge_bases
 DECL|function|get_merge_bases_many
 DECL|function|get_octopus_merge_bases
 DECL|function|in_merge_bases
-DECL|function|insert_by_date
 DECL|function|interesting
 DECL|function|is_descendant_of
 DECL|function|lookup_commit
@@ -29,7 +30,6 @@ DECL|function|read_graft_file
 DECL|function|read_graft_line
 DECL|function|reduce_heads
 DECL|function|register_commit_graft
-DECL|function|sort_by_date
 DECL|function|sort_in_topological_order
 DECL|function|unregister_shallow
 DECL|function|write_shallow_commits

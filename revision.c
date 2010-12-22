@@ -16,6 +16,7 @@ DECL|function|add_pending_object_with_mode
 DECL|function|append_prune_data
 DECL|function|cherry_pick_list
 DECL|function|collect_bottom_commits
+DECL|function|commit_list_insert_by_date_cached
 DECL|function|commit_match
 DECL|function|create_boundary_commit_list
 DECL|function|everybody_uninteresting
@@ -40,7 +41,6 @@ DECL|function|handle_revision_arg
 DECL|function|handle_revision_opt
 DECL|function|init_all_refs_cb
 DECL|function|init_revisions
-DECL|function|insert_by_date_cached
 DECL|function|limit_list
 DECL|function|limit_to_ancestry
 DECL|function|locate_simplify_state
