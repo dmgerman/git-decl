@@ -12,6 +12,7 @@ DECL|function|cmd_commit
 DECL|function|cmd_status
 DECL|function|commit_index_files
 DECL|function|create_base_index
+DECL|function|cut_ident_timestamp_part
 DECL|function|determine_author_info
 DECL|function|dry_run_commit
 DECL|function|ends_rfc2822_footer
@@ -37,9 +38,6 @@ DECL|variable|allow_empty
 DECL|variable|allow_empty_message
 DECL|variable|also
 DECL|variable|amend
-DECL|variable|author_date
-DECL|variable|author_email
-DECL|variable|author_name
 DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
