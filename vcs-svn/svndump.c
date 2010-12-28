@@ -1,3 +1,4 @@
+DECL|function|die_short_read
 DECL|function|handle_node
 DECL|function|handle_property
 DECL|function|handle_revision
