@@ -8,4 +8,7 @@ DECL|function|buffer_read_line
 DECL|function|buffer_read_string
 DECL|function|buffer_reset
 DECL|function|buffer_skip_bytes
+DECL|function|buffer_tmpfile_init
+DECL|function|buffer_tmpfile_prepare_to_read
+DECL|function|buffer_tmpfile_rewind
 DECL|macro|COPY_BUFFER_LEN
