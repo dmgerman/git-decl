@@ -2,6 +2,7 @@ DECL|function|buffer_copy_bytes
 DECL|function|buffer_deinit
 DECL|function|buffer_init
 DECL|function|buffer_read_binary
+DECL|function|buffer_read_char
 DECL|function|buffer_read_line
 DECL|function|buffer_read_string
 DECL|function|buffer_reset
