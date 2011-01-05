@@ -1,3 +1,4 @@
+DECL|function|fast_export_begin_commit
 DECL|function|fast_export_blob
 DECL|function|fast_export_commit
 DECL|function|fast_export_deinit

@@ -1,6 +1,7 @@
+DECL|function|begin_revision
+DECL|function|end_revision
 DECL|function|handle_node
 DECL|function|handle_property
-DECL|function|handle_revision
 DECL|function|init_keys
 DECL|function|log_copy
 DECL|function|read_props
@@ -13,6 +14,7 @@ DECL|function|svndump_read
 DECL|function|svndump_reset
 DECL|macro|DATE_RFC2822_LEN
 DECL|macro|DUMP_CTX
+DECL|macro|INTERNODE_CTX
 DECL|macro|LENGTH_UNKNOWN
 DECL|macro|NODEACT_ADD
 DECL|macro|NODEACT_CHANGE
