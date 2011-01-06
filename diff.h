@@ -91,6 +91,7 @@ DECL|member|break_opt
 DECL|member|change
 DECL|member|close_file
 DECL|member|context
+DECL|member|degraded_cc_to_c
 DECL|member|detect_rename
 DECL|member|dirstat_percent
 DECL|member|file
