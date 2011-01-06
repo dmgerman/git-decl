@@ -20,7 +20,7 @@ DECL|member|filespec
 DECL|member|index
 DECL|member|name_score
 DECL|member|next
-DECL|member|one
+DECL|member|p
 DECL|member|pair
 DECL|member|score
 DECL|member|score
