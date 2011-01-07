@@ -108,6 +108,7 @@ DECL|member|next
 DECL|member|pid
 DECL|member|proc
 DECL|struct|pinfo_t
+DECL|variable|_CRT_glob
 DECL|variable|delay
 DECL|variable|ipv6_dll
 DECL|variable|ipv6_freeaddrinfo
