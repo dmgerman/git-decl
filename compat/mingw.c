@@ -63,6 +63,7 @@ DECL|function|mingw_socket
 DECL|function|mingw_spawnve
 DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
+DECL|function|mingw_startup
 DECL|function|mingw_stat
 DECL|function|mingw_unlink
 DECL|function|mingw_utime
