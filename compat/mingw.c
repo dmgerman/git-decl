@@ -1,6 +1,7 @@
 DECL|function|ask_yes_no_if_possible
 DECL|function|copy_environ
 DECL|function|ctrl_ignore
+DECL|function|die_startup
 DECL|function|do_lstat
 DECL|function|do_stat_internal
 DECL|function|ensure_socket_initialization
@@ -104,10 +105,12 @@ DECL|macro|setsockopt
 DECL|macro|shutdown
 DECL|macro|signal
 DECL|macro|unlink
+DECL|member|newmode
 DECL|member|next
 DECL|member|pid
 DECL|member|proc
 DECL|struct|pinfo_t
+DECL|typedef|_startupinfo
 DECL|variable|_CRT_glob
 DECL|variable|delay
 DECL|variable|ipv6_dll
