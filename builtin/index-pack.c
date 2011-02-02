@@ -3,6 +3,7 @@ DECL|function|bad_object
 DECL|function|check_object
 DECL|function|check_objects
 DECL|function|cmd_index_pack
+DECL|function|compare_delta_bases
 DECL|function|compare_delta_entry
 DECL|function|delta_pos_compare
 DECL|function|fill
