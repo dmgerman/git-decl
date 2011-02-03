@@ -5,8 +5,10 @@ DECL|macro|PACK_VERSION
 DECL|macro|PH_ERROR_EOF
 DECL|macro|PH_ERROR_PACK_SIGNATURE
 DECL|macro|PH_ERROR_PROTOCOL
+DECL|macro|WRITE_IDX_VERIFY
 DECL|macro|pack_version_ok
 DECL|member|crc32
+DECL|member|flags
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version

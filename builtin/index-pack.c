@@ -23,6 +23,7 @@ DECL|function|open_pack_file
 DECL|function|parse_pack_header
 DECL|function|parse_pack_objects
 DECL|function|prune_base_data
+DECL|function|read_idx_option
 DECL|function|resolve_delta
 DECL|function|sha1_object
 DECL|function|unlink_base_data
