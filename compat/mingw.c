@@ -53,6 +53,7 @@ DECL|function|mingw_spawnve
 DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
 DECL|function|mingw_stat
+DECL|function|mingw_unlink
 DECL|function|mingw_utime
 DECL|function|mingw_write
 DECL|function|mkstemp
@@ -84,6 +85,7 @@ DECL|macro|open
 DECL|macro|rename
 DECL|macro|setsockopt
 DECL|macro|signal
+DECL|macro|unlink
 DECL|macro|write
 DECL|member|next
 DECL|member|pid
