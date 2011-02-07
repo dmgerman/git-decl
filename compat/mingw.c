@@ -18,6 +18,7 @@ DECL|function|getpass
 DECL|function|getpwuid
 DECL|function|gettimeofday
 DECL|function|gmtime_r
+DECL|function|is_dir_empty
 DECL|function|is_file_in_use_error
 DECL|function|is_timeval_eq
 DECL|function|link
