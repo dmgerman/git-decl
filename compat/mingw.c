@@ -1,3 +1,4 @@
+DECL|function|ask_yes_no_if_possible
 DECL|function|copy_environ
 DECL|function|do_lstat
 DECL|function|do_stat_internal
@@ -62,6 +63,7 @@ DECL|function|parse_interpreter
 DECL|function|path_lookup
 DECL|function|pipe
 DECL|function|quote_arg
+DECL|function|read_yes_no_answer
 DECL|function|setitimer
 DECL|function|sigaction
 DECL|function|sleep
