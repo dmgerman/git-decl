@@ -17,6 +17,7 @@ DECL|function|getpass
 DECL|function|getpwuid
 DECL|function|gettimeofday
 DECL|function|gmtime_r
+DECL|function|is_file_in_use_error
 DECL|function|is_timeval_eq
 DECL|function|link
 DECL|function|localtime_r
@@ -91,6 +92,7 @@ DECL|member|next
 DECL|member|pid
 DECL|member|proc
 DECL|struct|pinfo_t
+DECL|variable|delay
 DECL|variable|ipv6_dll
 DECL|variable|ipv6_freeaddrinfo
 DECL|variable|ipv6_getaddrinfo
