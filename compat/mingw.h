@@ -92,6 +92,7 @@ DECL|macro|open
 DECL|macro|open_html
 DECL|macro|printf
 DECL|macro|rename
+DECL|macro|rmdir
 DECL|macro|setsockopt
 DECL|macro|sigemptyset
 DECL|macro|signal

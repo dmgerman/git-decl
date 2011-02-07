@@ -48,6 +48,7 @@ DECL|function|mingw_lstat
 DECL|function|mingw_open
 DECL|function|mingw_open_html
 DECL|function|mingw_rename
+DECL|function|mingw_rmdir
 DECL|function|mingw_setsockopt
 DECL|function|mingw_signal
 DECL|function|mingw_socket
@@ -86,6 +87,7 @@ DECL|macro|gethostbyname
 DECL|macro|listen
 DECL|macro|open
 DECL|macro|rename
+DECL|macro|rmdir
 DECL|macro|setsockopt
 DECL|macro|signal
 DECL|macro|unlink
