@@ -10,6 +10,7 @@ DECL|function|detach_advice
 DECL|function|git_checkout_config
 DECL|function|interactive_checkout
 DECL|function|merge_working_tree
+DECL|function|parse_branchname_arg
 DECL|function|post_checkout_hook
 DECL|function|read_tree_some
 DECL|function|report_tracking
