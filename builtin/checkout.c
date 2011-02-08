@@ -26,6 +26,7 @@ DECL|member|branch_exists
 DECL|member|commit
 DECL|member|diff_options
 DECL|member|force
+DECL|member|force_detach
 DECL|member|merge
 DECL|member|name
 DECL|member|name
