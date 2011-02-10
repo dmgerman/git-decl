@@ -207,6 +207,7 @@ DECL|variable|global_argc
 DECL|variable|global_argv
 DECL|variable|import_marks_file
 DECL|variable|import_marks_file_from_stream
+DECL|variable|import_marks_file_ignore_missing
 DECL|variable|last_blob
 DECL|variable|last_tag
 DECL|variable|marks
