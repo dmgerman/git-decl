@@ -93,6 +93,7 @@ DECL|macro|isdigit
 DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|maximum_signed_value_of_type
+DECL|macro|maximum_unsigned_value_of_type
 DECL|macro|memmem
 DECL|macro|mempcpy
 DECL|macro|mkdtemp
@@ -117,5 +118,6 @@ DECL|macro|tolower
 DECL|macro|toupper
 DECL|macro|toupper
 DECL|macro|unsetenv
+DECL|macro|unsigned_add_overflows
 DECL|macro|vsnprintf
 DECL|typedef|try_to_free_t
