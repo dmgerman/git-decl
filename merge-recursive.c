@@ -75,3 +75,4 @@ DECL|struct|merge_file_info
 DECL|struct|rename
 DECL|struct|rename_df_conflict_info
 DECL|struct|stage_data
+DECL|variable|rename_limit_advice

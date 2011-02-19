@@ -105,6 +105,7 @@ DECL|member|len
 DECL|member|line_termination
 DECL|member|mode
 DECL|member|mode
+DECL|member|needed_rename_limit
 DECL|member|next
 DECL|member|nr_paths
 DECL|member|orderfile
@@ -130,7 +131,6 @@ DECL|member|stat_name_width
 DECL|member|stat_sep
 DECL|member|stat_width
 DECL|member|status
-DECL|member|warn_on_too_large_rename
 DECL|member|word_diff
 DECL|member|word_regex
 DECL|member|xdl_opts
