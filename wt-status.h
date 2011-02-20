@@ -1,3 +1,6 @@
+DECL|enumerator|FROM_CHERRY_PICK
+DECL|enumerator|FROM_COMMIT
+DECL|enumerator|FROM_MERGE
 DECL|enumerator|SHOW_ALL_UNTRACKED_FILES
 DECL|enumerator|SHOW_NORMAL_UNTRACKED_FILES
 DECL|enumerator|SHOW_NO_UNTRACKED_FILES
@@ -12,6 +15,7 @@ DECL|enumerator|WT_STATUS_UNMERGED
 DECL|enumerator|WT_STATUS_UNTRACKED
 DECL|enumerator|WT_STATUS_UPDATED
 DECL|enum|color_wt_status
+DECL|enum|commit_whence
 DECL|enum|untracked_status_type
 DECL|macro|STATUS_H
 DECL|member|amend
@@ -24,7 +28,6 @@ DECL|member|fp
 DECL|member|head_path
 DECL|member|ignore_submodule_arg
 DECL|member|ignored
-DECL|member|in_merge
 DECL|member|index_file
 DECL|member|index_status
 DECL|member|is_initial
@@ -41,6 +44,7 @@ DECL|member|submodule_summary
 DECL|member|untracked
 DECL|member|use_color
 DECL|member|verbose
+DECL|member|whence
 DECL|member|workdir_dirty
 DECL|member|worktree_status
 DECL|struct|wt_status
