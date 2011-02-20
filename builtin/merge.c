@@ -55,6 +55,7 @@ DECL|variable|pull_twohead
 DECL|variable|remoteheads
 DECL|variable|shortlog_len
 DECL|variable|show_diffstat
+DECL|variable|show_progress
 DECL|variable|squash
 DECL|variable|stash
 DECL|variable|use_strategies

@@ -16,6 +16,7 @@ DECL|member|obuf
 DECL|member|recursive_variant
 DECL|member|rename_score
 DECL|member|renormalize
+DECL|member|show_rename_progress
 DECL|member|subtree_shift
 DECL|member|verbosity
 DECL|member|xdl_opts
