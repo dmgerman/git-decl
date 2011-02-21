@@ -55,6 +55,7 @@ DECL|member|full_diff
 DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
+DECL|member|left_only
 DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
@@ -89,6 +90,7 @@ DECL|member|remove_empty_trees
 DECL|member|reverse
 DECL|member|reverse_output_stage
 DECL|member|rewrite_parents
+DECL|member|right_only
 DECL|member|show_all
 DECL|member|show_decorations
 DECL|member|show_log_size

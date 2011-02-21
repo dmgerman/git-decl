@@ -41,6 +41,7 @@ DECL|function|handle_revision_arg
 DECL|function|handle_revision_opt
 DECL|function|init_all_refs_cb
 DECL|function|init_revisions
+DECL|function|limit_left_right
 DECL|function|limit_list
 DECL|function|limit_to_ancestry
 DECL|function|locate_simplify_state
