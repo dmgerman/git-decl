@@ -5,4 +5,5 @@ DECL|function|trace_printf
 DECL|function|trace_printf_key
 DECL|function|trace_repo_setup
 DECL|function|trace_vprintf
+DECL|function|trace_want
 DECL|variable|err_msg
