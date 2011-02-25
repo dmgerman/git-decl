@@ -12,8 +12,11 @@ DECL|member|hdr_signature
 DECL|member|hdr_version
 DECL|member|idx_signature
 DECL|member|idx_version
+DECL|member|off32_limit
 DECL|member|offset
 DECL|member|sha1
+DECL|member|version
 DECL|struct|pack_header
 DECL|struct|pack_idx_entry
 DECL|struct|pack_idx_header
+DECL|struct|pack_idx_option

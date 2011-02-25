@@ -231,6 +231,7 @@ DECL|variable|pack_data
 DECL|variable|pack_edges
 DECL|variable|pack_file
 DECL|variable|pack_id
+DECL|variable|pack_idx_opts
 DECL|variable|pack_size
 DECL|variable|rc_free
 DECL|variable|relative_marks_paths

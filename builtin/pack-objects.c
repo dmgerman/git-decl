@@ -143,6 +143,7 @@ DECL|variable|objects
 DECL|variable|old_try_to_free_routine
 DECL|variable|pack_compression_level
 DECL|variable|pack_compression_seen
+DECL|variable|pack_idx_opts
 DECL|variable|pack_size_limit
 DECL|variable|pack_size_limit_cfg
 DECL|variable|pack_to_stdout
