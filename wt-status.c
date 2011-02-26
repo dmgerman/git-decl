@@ -1,4 +1,8 @@
 DECL|function|color
+DECL|function|status_printf
+DECL|function|status_printf_ln
+DECL|function|status_printf_more
+DECL|function|status_vprintf
 DECL|function|unmerged_mask
 DECL|function|wt_porcelain_print
 DECL|function|wt_shortstatus_other
