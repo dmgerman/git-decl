@@ -119,5 +119,6 @@ DECL|macro|toupper
 DECL|macro|toupper
 DECL|macro|unsetenv
 DECL|macro|unsigned_add_overflows
+DECL|macro|va_copy
 DECL|macro|vsnprintf
 DECL|typedef|try_to_free_t
