@@ -7,6 +7,9 @@ DECL|macro|PH_ERROR_PACK_SIGNATURE
 DECL|macro|PH_ERROR_PROTOCOL
 DECL|macro|WRITE_IDX_VERIFY
 DECL|macro|pack_version_ok
+DECL|member|anomaly
+DECL|member|anomaly_alloc
+DECL|member|anomaly_nr
 DECL|member|crc32
 DECL|member|flags
 DECL|member|hdr_entries
