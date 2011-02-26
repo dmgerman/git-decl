@@ -1,6 +1,7 @@
 DECL|function|encode_in_pack_object_header
 DECL|function|fixup_pack_header_footer
 DECL|function|index_pack_lockfile
+DECL|function|need_large_offset
 DECL|function|reset_pack_idx_option
 DECL|function|sha1_compare
 DECL|function|write_idx_file
