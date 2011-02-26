@@ -1,4 +1,5 @@
 DECL|function|handle_node
+DECL|function|handle_property
 DECL|function|handle_revision
 DECL|function|init_keys
 DECL|function|log_copy
@@ -25,7 +26,6 @@ DECL|member|author
 DECL|member|content_length
 DECL|member|dst
 DECL|member|log
-DECL|member|mark
 DECL|member|node_action
 DECL|member|node_copyfrom_path
 DECL|member|node_copyfrom_rev
@@ -33,10 +33,11 @@ DECL|member|node_kind
 DECL|member|node_path
 DECL|member|propLength
 DECL|member|prop_content_length
+DECL|member|prop_delta
+DECL|member|prop_delta
 DECL|member|revision
 DECL|member|revision_number
 DECL|member|src
-DECL|member|srcMode
 DECL|member|srcRev
 DECL|member|svn_author
 DECL|member|svn_date
@@ -46,6 +47,8 @@ DECL|member|svn_log
 DECL|member|svn_special
 DECL|member|textLength
 DECL|member|text_content_length
+DECL|member|text_delta
+DECL|member|text_delta
 DECL|member|timestamp
 DECL|member|type
 DECL|member|url
