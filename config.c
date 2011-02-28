@@ -20,6 +20,7 @@ DECL|function|git_config_int
 DECL|function|git_config_maybe_bool
 DECL|function|git_config_maybe_bool_text
 DECL|function|git_config_parse_environment
+DECL|function|git_config_parse_key
 DECL|function|git_config_parse_parameter
 DECL|function|git_config_pathname
 DECL|function|git_config_push_parameter
