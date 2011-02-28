@@ -4,8 +4,11 @@ DECL|function|add_to_alternates_file
 DECL|function|alloc_packed_git
 DECL|function|assert_sha1_type
 DECL|function|cache_or_unpack_entry
+DECL|function|check_commit
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
+DECL|function|check_tag
+DECL|function|check_tree
 DECL|function|clear_delta_base_cache
 DECL|function|close_pack_index
 DECL|function|close_pack_windows
