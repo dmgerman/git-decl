@@ -4,7 +4,7 @@ DECL|function|do_push
 DECL|function|push_with_options
 DECL|function|set_refspecs
 DECL|function|setup_default_push_refspecs
-DECL|function|setup_push_tracking
+DECL|function|setup_push_upstream
 DECL|variable|deleterefs
 DECL|variable|progress
 DECL|variable|push_usage
