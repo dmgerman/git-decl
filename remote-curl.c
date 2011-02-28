@@ -11,6 +11,7 @@ DECL|function|parse_git_refs
 DECL|function|parse_info_refs
 DECL|function|parse_push
 DECL|function|post_rpc
+DECL|function|probe_rpc
 DECL|function|push
 DECL|function|push_dav
 DECL|function|push_git
@@ -18,6 +19,7 @@ DECL|function|rpc_in
 DECL|function|rpc_ioctl
 DECL|function|rpc_out
 DECL|function|rpc_service
+DECL|function|run_slot
 DECL|function|set_option
 DECL|function|write_discovery
 DECL|member|alloc
