@@ -1,3 +1,4 @@
+DECL|function|ask_yes_no_if_possible
 DECL|function|copy_environ
 DECL|function|do_lstat
 DECL|function|do_stat_internal
@@ -17,6 +18,8 @@ DECL|function|getpass
 DECL|function|getpwuid
 DECL|function|gettimeofday
 DECL|function|gmtime_r
+DECL|function|is_dir_empty
+DECL|function|is_file_in_use_error
 DECL|function|is_timeval_eq
 DECL|function|link
 DECL|function|localtime_r
@@ -46,6 +49,7 @@ DECL|function|mingw_lstat
 DECL|function|mingw_open
 DECL|function|mingw_open_html
 DECL|function|mingw_rename
+DECL|function|mingw_rmdir
 DECL|function|mingw_setsockopt
 DECL|function|mingw_signal
 DECL|function|mingw_socket
@@ -53,6 +57,7 @@ DECL|function|mingw_spawnve
 DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
 DECL|function|mingw_stat
+DECL|function|mingw_unlink
 DECL|function|mingw_utime
 DECL|function|mingw_write
 DECL|function|mkstemp
@@ -60,6 +65,7 @@ DECL|function|parse_interpreter
 DECL|function|path_lookup
 DECL|function|pipe
 DECL|function|quote_arg
+DECL|function|read_yes_no_answer
 DECL|function|setitimer
 DECL|function|sigaction
 DECL|function|sleep
@@ -82,13 +88,16 @@ DECL|macro|gethostbyname
 DECL|macro|listen
 DECL|macro|open
 DECL|macro|rename
+DECL|macro|rmdir
 DECL|macro|setsockopt
 DECL|macro|signal
+DECL|macro|unlink
 DECL|macro|write
 DECL|member|next
 DECL|member|pid
 DECL|member|proc
 DECL|struct|pinfo_t
+DECL|variable|delay
 DECL|variable|ipv6_dll
 DECL|variable|ipv6_freeaddrinfo
 DECL|variable|ipv6_getaddrinfo
