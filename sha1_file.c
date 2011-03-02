@@ -36,6 +36,7 @@ DECL|function|index_fd
 DECL|function|index_mem
 DECL|function|index_path
 DECL|function|install_packed_git
+DECL|function|is_pack_valid
 DECL|function|legacy_loose_object
 DECL|function|link_alt_odb_entries
 DECL|function|link_alt_odb_entry
