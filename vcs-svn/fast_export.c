@@ -1,7 +1,12 @@
 DECL|function|fast_export_blob
 DECL|function|fast_export_commit
+DECL|function|fast_export_deinit
 DECL|function|fast_export_delete
+DECL|function|fast_export_init
 DECL|function|fast_export_modify
+DECL|function|fast_export_reset
+DECL|function|get_response_line
 DECL|macro|MAX_GITSVN_LINE_LEN
 DECL|variable|first_commit_done
 DECL|variable|gitsvnline
+DECL|variable|report_buffer
