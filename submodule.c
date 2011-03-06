@@ -4,6 +4,7 @@ DECL|function|fetch_populated_submodules
 DECL|function|find_first_merges
 DECL|function|gitmodules_config
 DECL|function|handle_ignore_submodules_arg
+DECL|function|is_submodule_commit_present
 DECL|function|is_submodule_modified
 DECL|function|merge_submodule
 DECL|function|parse_fetch_recurse_submodules_arg
