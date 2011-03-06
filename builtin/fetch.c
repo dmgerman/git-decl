@@ -1,6 +1,3 @@
-DECL|enumerator|RECURSE_SUBMODULES_DEFAULT
-DECL|enumerator|RECURSE_SUBMODULES_OFF
-DECL|enumerator|RECURSE_SUBMODULES_ON
 DECL|enumerator|TAGS_DEFAULT
 DECL|enumerator|TAGS_SET
 DECL|enumerator|TAGS_UNSET
@@ -47,6 +44,7 @@ DECL|variable|multiple
 DECL|variable|progress
 DECL|variable|prune
 DECL|variable|recurse_submodules
+DECL|variable|recurse_submodules_default
 DECL|variable|submodule_prefix
 DECL|variable|tags
 DECL|variable|transport
