@@ -15,6 +15,7 @@ DECL|function|find_non_local_tags
 DECL|function|get_one_remote_for_fetch
 DECL|function|get_ref_map
 DECL|function|get_remote_group
+DECL|function|option_parse_recurse_submodules
 DECL|function|prune_refs
 DECL|function|quickfetch
 DECL|function|s_update_ref
