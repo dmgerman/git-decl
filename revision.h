@@ -8,6 +8,7 @@ DECL|macro|BOUNDARY
 DECL|macro|CHILD_SHOWN
 DECL|macro|DECORATE_FULL_REFS
 DECL|macro|DECORATE_SHORT_REFS
+DECL|macro|PATCHSAME
 DECL|macro|REVISION_H
 DECL|macro|REV_TREE_DIFFERENT
 DECL|macro|REV_TREE_NEW
@@ -28,6 +29,7 @@ DECL|member|bisect
 DECL|member|blob_objects
 DECL|member|boundary
 DECL|member|boundary_commits
+DECL|member|cherry_mark
 DECL|member|cherry_pick
 DECL|member|children
 DECL|member|combine_merges
