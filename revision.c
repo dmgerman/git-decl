@@ -53,6 +53,7 @@ DECL|function|parse_revision_opt
 DECL|function|path_name
 DECL|function|prepare_revision_walk
 DECL|function|prepare_show_merge
+DECL|function|put_revision_mark
 DECL|function|read_pathspec_from_stdin
 DECL|function|read_revisions_from_stdin
 DECL|function|remove_duplicate_parents
