@@ -1,3 +1,4 @@
+DECL|function|Q_
 DECL|function|_
 DECL|macro|FORMAT_PRESERVING
 DECL|macro|GETTEXT_H
