@@ -60,7 +60,6 @@ DECL|variable|shared_repository
 DECL|variable|startup_info
 DECL|variable|trust_ctime
 DECL|variable|trust_executable_bit
-DECL|variable|unique_abbrev_extra_length
 DECL|variable|user_ident_explicitly_given
 DECL|variable|warn_ambiguous_refs
 DECL|variable|whitespace_rule_cfg
