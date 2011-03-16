@@ -1,4 +1,5 @@
 DECL|function|default_swab32
+DECL|function|git_bswap32
 DECL|macro|bswap32
 DECL|macro|bswap32
 DECL|macro|bswap32
