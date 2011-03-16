@@ -27,6 +27,7 @@ DECL|function|no_numbered_callback
 DECL|function|numbered_callback
 DECL|function|output_directory_callback
 DECL|function|parse_decoration_style
+DECL|function|print_commit
 DECL|function|print_signature
 DECL|function|reopen_stdout
 DECL|function|set_outdir
