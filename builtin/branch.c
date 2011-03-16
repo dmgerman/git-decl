@@ -8,6 +8,7 @@ DECL|enumerator|SHOW_MERGED
 DECL|enumerator|SHOW_NOT_MERGED
 DECL|enum|color_branch
 DECL|enum|merge_filter
+DECL|function|add_verbose_info
 DECL|function|append_ref
 DECL|function|branch_get_color
 DECL|function|branch_merged
