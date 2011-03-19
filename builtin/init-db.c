@@ -7,10 +7,13 @@ DECL|function|git_init_db_config
 DECL|function|guess_repository_type
 DECL|function|init_db
 DECL|function|safe_create_dir
+DECL|function|separate_git_dir
+DECL|function|set_git_dir_init
 DECL|function|shared_callback
 DECL|macro|DEFAULT_GIT_TEMPLATE_DIR
 DECL|macro|TEST_FILEMODE
 DECL|macro|TEST_FILEMODE
+DECL|variable|git_link
 DECL|variable|init_db_template_dir
 DECL|variable|init_db_usage
 DECL|variable|init_is_bare_repository
