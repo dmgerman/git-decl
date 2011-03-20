@@ -105,6 +105,7 @@ DECL|member|len
 DECL|member|line_termination
 DECL|member|mode
 DECL|member|mode
+DECL|member|needed_rename_limit
 DECL|member|next
 DECL|member|orderfile
 DECL|member|output_format
@@ -122,13 +123,13 @@ DECL|member|rename_score
 DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|show_rename_progress
 DECL|member|single_follow
 DECL|member|skip_stat_unmatch
 DECL|member|stat_name_width
 DECL|member|stat_sep
 DECL|member|stat_width
 DECL|member|status
-DECL|member|warn_on_too_large_rename
 DECL|member|word_diff
 DECL|member|word_regex
 DECL|member|xdl_opts
