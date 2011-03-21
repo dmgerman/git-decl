@@ -65,15 +65,15 @@ DECL|member|log_reencode
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
+DECL|member|max_parents
 DECL|member|merge_simplification
-DECL|member|merges_only
 DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
+DECL|member|min_parents
 DECL|member|missing_newline
 DECL|member|no_commit_id
 DECL|member|no_inline
-DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|notes_opt
 DECL|member|nr
