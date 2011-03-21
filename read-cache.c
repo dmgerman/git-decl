@@ -52,6 +52,7 @@ DECL|function|replace_index_entry
 DECL|function|set_index_entry
 DECL|function|show_file
 DECL|function|unmerged_index
+DECL|function|update_index_if_able
 DECL|function|verify_dotfile
 DECL|function|verify_hdr
 DECL|function|verify_path
