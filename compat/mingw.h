@@ -5,6 +5,7 @@ DECL|function|fork
 DECL|function|fsync
 DECL|function|getppid
 DECL|function|getpwnam
+DECL|function|getrlimit
 DECL|function|getuid
 DECL|function|git_ntohl
 DECL|function|mingw_SSL_set_fd
@@ -25,6 +26,7 @@ DECL|macro|HELP_COMMAND
 DECL|macro|ITIMER_REAL
 DECL|macro|PATH_SEP
 DECL|macro|PRIuMAX
+DECL|macro|RLIMIT_NOFILE
 DECL|macro|SA_RESTART
 DECL|macro|SHUT_WR
 DECL|macro|SIGALRM
@@ -102,10 +104,12 @@ DECL|member|it_value
 DECL|member|pw_dir
 DECL|member|pw_gecos
 DECL|member|pw_name
+DECL|member|rlim_cur
 DECL|member|sa_flags
 DECL|member|sa_handler
 DECL|struct|itimerval
 DECL|struct|passwd
+DECL|struct|rlimit
 DECL|struct|sigaction
 DECL|typedef|pid_t
 DECL|typedef|sig_handler_t

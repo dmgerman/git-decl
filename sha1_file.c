@@ -36,6 +36,7 @@ DECL|function|index_fd
 DECL|function|index_mem
 DECL|function|index_path
 DECL|function|install_packed_git
+DECL|function|is_pack_valid
 DECL|function|legacy_loose_object
 DECL|function|link_alt_odb_entries
 DECL|function|link_alt_odb_entry
@@ -131,7 +132,9 @@ DECL|variable|do_check_packed_object_crc
 DECL|variable|empty_tree
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
+DECL|variable|pack_max_fds
 DECL|variable|pack_mmap_calls
+DECL|variable|pack_open_fds
 DECL|variable|pack_open_windows
 DECL|variable|pack_used_ctr
 DECL|variable|packed_git
