@@ -20,6 +20,7 @@ DECL|function|get_rev
 DECL|function|mark_common
 DECL|function|mark_complete
 DECL|function|mark_recent_complete_commits
+DECL|function|next_flush
 DECL|function|remove_duplicates
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
@@ -28,6 +29,7 @@ DECL|function|sideband_demux
 DECL|macro|COMMON
 DECL|macro|COMMON_REF
 DECL|macro|COMPLETE
+DECL|macro|INITIAL_FLUSH
 DECL|macro|MAX_IN_VAIN
 DECL|macro|POPPED
 DECL|macro|SEEN
