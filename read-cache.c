@@ -27,6 +27,7 @@ DECL|function|estimate_cache_size
 DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
+DECL|function|has_racy_timestamp
 DECL|function|ie_match_stat
 DECL|function|ie_modified
 DECL|function|index_name_is_other
