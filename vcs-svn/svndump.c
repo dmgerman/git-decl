@@ -3,7 +3,6 @@ DECL|function|die_short_read
 DECL|function|end_revision
 DECL|function|handle_node
 DECL|function|handle_property
-DECL|function|log_copy
 DECL|function|read_props
 DECL|function|reset_dump_ctx
 DECL|function|reset_node_ctx
@@ -22,7 +21,6 @@ DECL|macro|NODEACT_DELETE
 DECL|macro|NODEACT_REPLACE
 DECL|macro|NODEACT_UNKNOWN
 DECL|macro|NODE_CTX
-DECL|macro|REPORT_FILENO
 DECL|macro|REPORT_FILENO
 DECL|macro|REV_CTX
 DECL|macro|constcmp
