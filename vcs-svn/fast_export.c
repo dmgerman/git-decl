@@ -1,3 +1,4 @@
+DECL|function|die_short_read
 DECL|function|fast_export_begin_commit
 DECL|function|fast_export_data
 DECL|function|fast_export_deinit
