@@ -36,3 +36,4 @@ DECL|member|url
 DECL|member|verbose
 DECL|struct|git_transport_options
 DECL|struct|transport
+DECL|typedef|alternate_ref_fn
