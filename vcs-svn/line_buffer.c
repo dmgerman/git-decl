@@ -1,6 +1,7 @@
 DECL|function|buffer_copy_bytes
 DECL|function|buffer_deinit
 DECL|function|buffer_fdinit
+DECL|function|buffer_ferror
 DECL|function|buffer_init
 DECL|function|buffer_read_binary
 DECL|function|buffer_read_char
