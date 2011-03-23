@@ -40,6 +40,7 @@ DECL|variable|fetch_unpack_limit
 DECL|variable|lock
 DECL|variable|marked
 DECL|variable|multi_ack
+DECL|variable|no_done
 DECL|variable|non_common_revs
 DECL|variable|prefer_ofs_delta
 DECL|variable|rev_list
