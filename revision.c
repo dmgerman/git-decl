@@ -30,6 +30,7 @@ DECL|function|get_reference
 DECL|function|get_revision
 DECL|function|get_revision_1
 DECL|function|get_revision_internal
+DECL|function|get_revision_mark
 DECL|function|handle_commit
 DECL|function|handle_one_ref
 DECL|function|handle_one_reflog
@@ -41,6 +42,7 @@ DECL|function|handle_revision_arg
 DECL|function|handle_revision_opt
 DECL|function|init_all_refs_cb
 DECL|function|init_revisions
+DECL|function|limit_left_right
 DECL|function|limit_list
 DECL|function|limit_to_ancestry
 DECL|function|locate_simplify_state
@@ -51,6 +53,7 @@ DECL|function|parse_revision_opt
 DECL|function|path_name
 DECL|function|prepare_revision_walk
 DECL|function|prepare_show_merge
+DECL|function|put_revision_mark
 DECL|function|read_pathspec_from_stdin
 DECL|function|read_revisions_from_stdin
 DECL|function|remove_duplicate_parents
