@@ -84,7 +84,6 @@ DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sort_pack
 DECL|function|sz_fmt
-DECL|function|sz_fmt
 DECL|function|try_to_free_pack_memory
 DECL|function|unpack_compressed_entry
 DECL|function|unpack_delta_entry
@@ -106,7 +105,6 @@ DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
 DECL|macro|SMALL_FILE_SIZE
-DECL|macro|SZ_FMT
 DECL|macro|SZ_FMT
 DECL|member|base_offset
 DECL|member|buf
