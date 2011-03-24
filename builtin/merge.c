@@ -23,6 +23,7 @@ DECL|function|read_tree_trivial
 DECL|function|reset_hard
 DECL|function|restore_state
 DECL|function|save_state
+DECL|function|setup_with_upstream
 DECL|function|split_merge_strategies
 DECL|function|squash_message
 DECL|function|suggest_conflicts
@@ -44,6 +45,7 @@ DECL|variable|allow_trivial
 DECL|variable|branch
 DECL|variable|builtin_merge_options
 DECL|variable|builtin_merge_usage
+DECL|variable|default_to_upstream
 DECL|variable|fast_forward_only
 DECL|variable|have_message
 DECL|variable|head
