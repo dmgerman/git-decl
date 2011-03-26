@@ -32,8 +32,6 @@ DECL|function|free_simplify
 DECL|function|get_dtype
 DECL|function|get_index_dtype
 DECL|function|get_relative_cwd
-DECL|function|is_empty_dir
-DECL|function|is_inside_dir
 DECL|function|match_one
 DECL|function|match_pathspec
 DECL|function|no_wildcard
@@ -41,9 +39,6 @@ DECL|function|prep_exclude
 DECL|function|read_directory
 DECL|function|read_directory_recursive
 DECL|function|read_skip_worktree_file_from_index
-DECL|function|remove_dir_recursively
-DECL|function|remove_path
-DECL|function|setup_standard_excludes
 DECL|function|simple_length
 DECL|function|simplify_away
 DECL|function|strcmp_icase
@@ -55,3 +50,4 @@ DECL|function|treat_path
 DECL|member|len
 DECL|member|path
 DECL|struct|path_simplify
+DECL|variable|dir
