@@ -27,6 +27,7 @@ DECL|function|estimate_cache_size
 DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
+DECL|function|has_racy_timestamp
 DECL|function|ie_match_stat
 DECL|function|ie_modified
 DECL|function|index_name_is_other
@@ -52,6 +53,7 @@ DECL|function|replace_index_entry
 DECL|function|set_index_entry
 DECL|function|show_file
 DECL|function|unmerged_index
+DECL|function|update_index_if_able
 DECL|function|verify_dotfile
 DECL|function|verify_hdr
 DECL|function|verify_path
