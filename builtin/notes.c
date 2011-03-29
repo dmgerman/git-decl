@@ -5,7 +5,6 @@ DECL|function|commit_notes
 DECL|function|copy
 DECL|function|copy_note_for_rewrite
 DECL|function|create_note
-DECL|function|expand_notes_ref
 DECL|function|finish_copy_notes_for_rewrite
 DECL|function|get_ref
 DECL|function|init_copy_notes_for_rewrite

@@ -8,6 +8,7 @@ DECL|function|construct_path_with_fanout
 DECL|function|copy_note
 DECL|function|default_notes_ref
 DECL|function|determine_fanout
+DECL|function|expand_notes_ref
 DECL|function|for_each_note
 DECL|function|for_each_note_helper
 DECL|function|format_display_notes
