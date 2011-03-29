@@ -29,7 +29,6 @@ DECL|variable|debug_fd
 DECL|variable|extra_edge_obj
 DECL|variable|have_obj
 DECL|variable|multi_ack
-DECL|variable|no_done
 DECL|variable|no_progress
 DECL|variable|nr_our_refs
 DECL|variable|oldest_have
