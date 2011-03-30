@@ -33,6 +33,7 @@ DECL|function|get_remote_ref_states
 DECL|function|migrate_file
 DECL|function|mv
 DECL|function|opt_parse_track
+DECL|function|parse_mirror_opt
 DECL|function|postfixcmp
 DECL|function|prune
 DECL|function|prune_remote
@@ -54,6 +55,10 @@ DECL|function|update
 DECL|macro|GET_HEAD_NAMES
 DECL|macro|GET_PUSH_REF_STATES
 DECL|macro|GET_REF_STATES
+DECL|macro|MIRROR_BOTH
+DECL|macro|MIRROR_FETCH
+DECL|macro|MIRROR_NONE
+DECL|macro|MIRROR_PUSH
 DECL|macro|abbrev_branch
 DECL|member|any_rebase
 DECL|member|branches
