@@ -108,4 +108,5 @@ DECL|variable|builtin_remote_seturl_usage
 DECL|variable|builtin_remote_show_usage
 DECL|variable|builtin_remote_update_usage
 DECL|variable|builtin_remote_usage
+DECL|variable|mirror_advice
 DECL|variable|verbose
