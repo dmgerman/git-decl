@@ -30,3 +30,4 @@ DECL|variable|option_shared
 DECL|variable|option_template
 DECL|variable|option_upload_pack
 DECL|variable|option_verbosity
+DECL|variable|real_git_dir
