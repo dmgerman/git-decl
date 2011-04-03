@@ -6,6 +6,7 @@ DECL|function|is_utf8
 DECL|function|pick_one_utf8_char
 DECL|function|reencode_string
 DECL|function|strbuf_add_indented_text
+DECL|function|strbuf_add_wrapped_bytes
 DECL|function|strbuf_add_wrapped_text
 DECL|function|strbuf_addchars
 DECL|function|utf8_strwidth
