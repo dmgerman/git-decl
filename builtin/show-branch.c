@@ -28,7 +28,6 @@ DECL|function|show_one_commit
 DECL|function|snarf_refs
 DECL|function|sort_ref_range
 DECL|function|version_cmp
-DECL|macro|COLUMN_COLORS_MAX
 DECL|macro|DEFAULT_REFLOG
 DECL|macro|MAX_REVS
 DECL|macro|REV_SHIFT
@@ -36,7 +35,6 @@ DECL|macro|UNINTERESTING
 DECL|member|generation
 DECL|member|head_name
 DECL|struct|commit_name
-DECL|variable|column_colors
 DECL|variable|default_alloc
 DECL|variable|default_arg
 DECL|variable|default_num

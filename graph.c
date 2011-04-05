@@ -42,7 +42,6 @@ DECL|function|graph_update_state
 DECL|function|graph_update_width
 DECL|function|next_interesting_parent
 DECL|function|strbuf_write_column
-DECL|macro|COLUMN_COLORS_ANSI_MAX
 DECL|member|color
 DECL|member|column_capacity
 DECL|member|columns
@@ -66,5 +65,4 @@ DECL|member|width
 DECL|struct|column
 DECL|struct|git_graph
 DECL|variable|column_colors
-DECL|variable|column_colors_ansi
 DECL|variable|column_colors_max
