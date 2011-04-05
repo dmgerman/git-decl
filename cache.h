@@ -281,7 +281,6 @@ DECL|member|force
 DECL|member|gid
 DECL|member|gid
 DECL|member|has_wildcard
-DECL|member|has_wildcard
 DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
@@ -365,6 +364,7 @@ DECL|member|track_flags
 DECL|member|tree
 DECL|member|uid
 DECL|member|uid
+DECL|member|use_wildcard
 DECL|member|windows
 DECL|struct|alternate_object_database
 DECL|struct|cache_def
