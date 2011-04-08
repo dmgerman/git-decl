@@ -1,6 +1,7 @@
 DECL|function|add_again
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
+DECL|function|add_rfc822_quoted
 DECL|function|find_commit_format
 DECL|function|find_commit_format_recursive
 DECL|function|format_commit_item
@@ -15,8 +16,10 @@ DECL|function|get_header
 DECL|function|get_one_line
 DECL|function|git_pretty_formats_config
 DECL|function|has_non_ascii
+DECL|function|has_rfc822_specials
 DECL|function|is_empty_line
 DECL|function|is_rfc2047_special
+DECL|function|is_rfc822_special
 DECL|function|istitlechar
 DECL|function|logmsg_reencode
 DECL|function|mailmap_name
