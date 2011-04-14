@@ -11,6 +11,7 @@ DECL|function|cmd_log_reflog
 DECL|function|cmd_log_walk
 DECL|function|cmd_show
 DECL|function|cmd_whatchanged
+DECL|function|decorate_callback
 DECL|function|early_output
 DECL|function|estimate_commit_count
 DECL|function|finish_early_output
@@ -46,6 +47,7 @@ DECL|variable|auto_number
 DECL|variable|builtin_format_patch_usage
 DECL|variable|builtin_log_usage
 DECL|variable|cherry_usage
+DECL|variable|decoration_given
 DECL|variable|decoration_style
 DECL|variable|default_attach
 DECL|variable|default_date_mode
