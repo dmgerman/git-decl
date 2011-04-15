@@ -25,6 +25,7 @@ DECL|function|reset_hard
 DECL|function|restore_state
 DECL|function|run_prepare_commit_msg
 DECL|function|save_state
+DECL|function|setup_with_upstream
 DECL|function|split_merge_strategies
 DECL|function|squash_message
 DECL|function|suggest_conflicts
@@ -47,6 +48,7 @@ DECL|variable|allow_trivial
 DECL|variable|branch
 DECL|variable|builtin_merge_options
 DECL|variable|builtin_merge_usage
+DECL|variable|default_to_upstream
 DECL|variable|fast_forward_only
 DECL|variable|have_message
 DECL|variable|head
@@ -58,6 +60,7 @@ DECL|variable|pull_twohead
 DECL|variable|remoteheads
 DECL|variable|shortlog_len
 DECL|variable|show_diffstat
+DECL|variable|show_progress
 DECL|variable|squash
 DECL|variable|stash
 DECL|variable|use_strategies

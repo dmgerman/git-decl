@@ -1,5 +1,6 @@
 DECL|function|check_argc
 DECL|function|cmd_config
+DECL|function|cmd_repo_config
 DECL|function|get_color
 DECL|function|get_colorbool
 DECL|function|get_value

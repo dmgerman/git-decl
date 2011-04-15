@@ -1,6 +1,3 @@
-DECL|enumerator|RECURSE_SUBMODULES_DEFAULT
-DECL|enumerator|RECURSE_SUBMODULES_OFF
-DECL|enumerator|RECURSE_SUBMODULES_ON
 DECL|enumerator|TAGS_DEFAULT
 DECL|enumerator|TAGS_SET
 DECL|enumerator|TAGS_UNSET
@@ -18,6 +15,7 @@ DECL|function|find_non_local_tags
 DECL|function|get_one_remote_for_fetch
 DECL|function|get_ref_map
 DECL|function|get_remote_group
+DECL|function|option_parse_recurse_submodules
 DECL|function|prune_refs
 DECL|function|quickfetch
 DECL|function|s_update_ref
@@ -47,6 +45,7 @@ DECL|variable|multiple
 DECL|variable|progress
 DECL|variable|prune
 DECL|variable|recurse_submodules
+DECL|variable|recurse_submodules_default
 DECL|variable|submodule_prefix
 DECL|variable|tags
 DECL|variable|transport

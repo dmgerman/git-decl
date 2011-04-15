@@ -11,6 +11,7 @@ DECL|function|construct_path_with_fanout
 DECL|function|convert_num_notes_to_fanout
 DECL|function|create_index
 DECL|function|cycle_packfile
+DECL|function|dereference
 DECL|function|die_nicely
 DECL|function|do_change_note_fanout
 DECL|function|dump_branches
@@ -62,6 +63,7 @@ DECL|function|parse_from
 DECL|function|parse_from_commit
 DECL|function|parse_from_existing
 DECL|function|parse_ident
+DECL|function|parse_ls
 DECL|function|parse_mark
 DECL|function|parse_merge
 DECL|function|parse_new_blob
@@ -72,9 +74,11 @@ DECL|function|parse_one_option
 DECL|function|parse_option
 DECL|function|parse_progress
 DECL|function|parse_reset_branch
+DECL|function|parse_treeish_dataref
 DECL|function|pool_alloc
 DECL|function|pool_calloc
 DECL|function|pool_strdup
+DECL|function|print_ls
 DECL|function|read_marks
 DECL|function|read_next_command
 DECL|function|release_tree_content
@@ -207,6 +211,7 @@ DECL|variable|global_argc
 DECL|variable|global_argv
 DECL|variable|import_marks_file
 DECL|variable|import_marks_file_from_stream
+DECL|variable|import_marks_file_ignore_missing
 DECL|variable|last_blob
 DECL|variable|last_tag
 DECL|variable|marks

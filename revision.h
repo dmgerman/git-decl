@@ -8,6 +8,7 @@ DECL|macro|BOUNDARY
 DECL|macro|CHILD_SHOWN
 DECL|macro|DECORATE_FULL_REFS
 DECL|macro|DECORATE_SHORT_REFS
+DECL|macro|PATCHSAME
 DECL|macro|REVISION_H
 DECL|macro|REV_TREE_DIFFERENT
 DECL|macro|REV_TREE_NEW
@@ -28,6 +29,7 @@ DECL|member|bisect
 DECL|member|blob_objects
 DECL|member|boundary
 DECL|member|boundary_commits
+DECL|member|cherry_mark
 DECL|member|cherry_pick
 DECL|member|children
 DECL|member|combine_merges
@@ -55,6 +57,7 @@ DECL|member|full_diff
 DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
+DECL|member|left_only
 DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
@@ -62,15 +65,15 @@ DECL|member|log_reencode
 DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
+DECL|member|max_parents
 DECL|member|merge_simplification
-DECL|member|merges_only
 DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
+DECL|member|min_parents
 DECL|member|missing_newline
 DECL|member|no_commit_id
 DECL|member|no_inline
-DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|notes_opt
 DECL|member|nr
@@ -89,6 +92,7 @@ DECL|member|remove_empty_trees
 DECL|member|reverse
 DECL|member|reverse_output_stage
 DECL|member|rewrite_parents
+DECL|member|right_only
 DECL|member|show_all
 DECL|member|show_decorations
 DECL|member|show_log_size

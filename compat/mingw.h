@@ -12,7 +12,6 @@ DECL|function|mingw_SSL_set_fd
 DECL|function|mingw_SSL_set_rfd
 DECL|function|mingw_SSL_set_wfd
 DECL|function|mingw_mkdir
-DECL|function|mingw_unlink
 DECL|function|readlink
 DECL|function|symlink
 DECL|function|sync
@@ -91,6 +90,7 @@ DECL|macro|open
 DECL|macro|open_html
 DECL|macro|printf
 DECL|macro|rename
+DECL|macro|rmdir
 DECL|macro|setsockopt
 DECL|macro|sigemptyset
 DECL|macro|signal

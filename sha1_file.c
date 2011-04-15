@@ -4,8 +4,11 @@ DECL|function|add_to_alternates_file
 DECL|function|alloc_packed_git
 DECL|function|assert_sha1_type
 DECL|function|cache_or_unpack_entry
+DECL|function|check_commit
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
+DECL|function|check_tag
+DECL|function|check_tree
 DECL|function|clear_delta_base_cache
 DECL|function|close_pack_index
 DECL|function|close_pack_windows
@@ -42,6 +45,7 @@ DECL|function|link_alt_odb_entries
 DECL|function|link_alt_odb_entry
 DECL|function|map_sha1_file
 DECL|function|mark_bad_packed_object
+DECL|function|mkdir_in_gitdir
 DECL|function|move_temp_to_file
 DECL|function|nth_packed_object_offset
 DECL|function|nth_packed_object_sha1
@@ -81,7 +85,6 @@ DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sort_pack
 DECL|function|sz_fmt
-DECL|function|sz_fmt
 DECL|function|try_to_free_pack_memory
 DECL|function|unpack_compressed_entry
 DECL|function|unpack_delta_entry
@@ -103,7 +106,6 @@ DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
 DECL|macro|SMALL_FILE_SIZE
-DECL|macro|SZ_FMT
 DECL|macro|SZ_FMT
 DECL|member|base_offset
 DECL|member|buf
