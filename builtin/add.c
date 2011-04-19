@@ -2,6 +2,7 @@ DECL|function|add_config
 DECL|function|add_files
 DECL|function|add_files_to_cache
 DECL|function|cmd_add
+DECL|function|directory_given
 DECL|function|edit_patch
 DECL|function|fix_unmerged_status
 DECL|function|interactive_add
@@ -12,11 +13,13 @@ DECL|function|treat_gitlinks
 DECL|function|update_callback
 DECL|function|validate_pathspec
 DECL|function|warn_pathless_add
+DECL|macro|ADDREMOVE_DEFAULT
 DECL|member|add_errors
 DECL|member|flags
 DECL|struct|update_callback_data
 DECL|variable|add_interactive
 DECL|variable|addremove
+DECL|variable|addremove_explicit
 DECL|variable|builtin_add_options
 DECL|variable|builtin_add_usage
 DECL|variable|edit_interactive
