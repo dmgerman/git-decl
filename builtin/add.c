@@ -5,6 +5,7 @@ DECL|function|cmd_add
 DECL|function|edit_patch
 DECL|function|fill_pathspec_matches
 DECL|function|find_used_pathspec
+DECL|function|fix_unmerged_status
 DECL|function|interactive_add
 DECL|function|prune_directory
 DECL|function|refresh
