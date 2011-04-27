@@ -187,7 +187,6 @@ DECL|variable|atom_table_sz
 DECL|variable|avail_tree_entry
 DECL|variable|avail_tree_table
 DECL|variable|avail_tree_table_sz
-DECL|variable|big_file_threshold
 DECL|variable|blocks
 DECL|variable|branch_count
 DECL|variable|branch_load_count
