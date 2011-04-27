@@ -9,4 +9,6 @@ DECL|function|git_color_default_config
 DECL|function|git_config_colorbool
 DECL|function|parse_attr
 DECL|function|parse_color
+DECL|variable|column_colors_ansi
+DECL|variable|column_colors_ansi_max
 DECL|variable|git_use_color_default
