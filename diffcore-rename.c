@@ -13,13 +13,14 @@ DECL|function|record_if_better
 DECL|function|record_rename_pair
 DECL|function|register_rename_src
 DECL|function|score_compare
+DECL|function|too_many_rename_candidates
 DECL|macro|NUM_CANDIDATE_PER_DST
 DECL|member|dst
 DECL|member|filespec
 DECL|member|index
 DECL|member|name_score
 DECL|member|next
-DECL|member|one
+DECL|member|p
 DECL|member|pair
 DECL|member|score
 DECL|member|score

@@ -48,6 +48,7 @@ DECL|function|diff_summary
 DECL|function|diff_unique_abbrev
 DECL|function|diff_unmerge
 DECL|function|diff_unmodified_pair
+DECL|function|diff_warn_rename_limit
 DECL|function|diff_words_append
 DECL|function|diff_words_fill
 DECL|function|diff_words_flush
@@ -211,6 +212,7 @@ DECL|struct|emit_callback
 DECL|struct|patch_id_t
 DECL|typedef|sane_truncate_fn
 DECL|variable|default_diff_options
+DECL|variable|degrade_cc_to_c_warning
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
@@ -226,3 +228,5 @@ DECL|variable|diff_words_styles
 DECL|variable|external_diff_cmd_cfg
 DECL|variable|mime_boundary_leader
 DECL|variable|remove_tempfile_installed
+DECL|variable|rename_limit_advice
+DECL|variable|rename_limit_warning
