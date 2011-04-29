@@ -120,6 +120,7 @@ DECL|function|sane_truncate_line
 DECL|function|scale_linear
 DECL|function|short_opt
 DECL|function|show_dirstat
+DECL|function|show_dirstat_by_line
 DECL|function|show_file_mode_name
 DECL|function|show_graph
 DECL|function|show_mode_change
