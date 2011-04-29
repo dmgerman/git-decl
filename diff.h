@@ -93,7 +93,7 @@ DECL|member|close_file
 DECL|member|context
 DECL|member|degraded_cc_to_c
 DECL|member|detect_rename
-DECL|member|dirstat_percent
+DECL|member|dirstat_permille
 DECL|member|file
 DECL|member|filter
 DECL|member|flags
