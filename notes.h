@@ -14,7 +14,7 @@ DECL|member|initialized
 DECL|member|prev_non_note
 DECL|member|ref
 DECL|member|root
-DECL|member|suppress_default_notes
+DECL|member|use_default_notes
 DECL|struct|display_notes_opt
 DECL|struct|notes_tree
 DECL|typedef|combine_notes_fn
