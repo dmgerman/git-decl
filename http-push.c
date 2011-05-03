@@ -20,6 +20,8 @@ DECL|function|add_one_object
 DECL|function|add_remote_info_ref
 DECL|function|add_send_request
 DECL|function|check_locks
+DECL|function|curl_setup_http
+DECL|function|curl_setup_http_get
 DECL|function|delete_remote_branch
 DECL|function|fetch_indices
 DECL|function|fetch_symref
