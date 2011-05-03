@@ -11,10 +11,12 @@ DECL|member|current_directory_set
 DECL|member|current_file_set
 DECL|member|diff_rename_limit
 DECL|member|merge_rename_limit
+DECL|member|needed_rename_limit
 DECL|member|obuf
 DECL|member|recursive_variant
 DECL|member|rename_score
 DECL|member|renormalize
+DECL|member|show_rename_progress
 DECL|member|subtree_shift
 DECL|member|verbosity
 DECL|member|xdl_opts

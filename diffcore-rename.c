@@ -3,6 +3,7 @@ DECL|function|diffcore_rename
 DECL|function|estimate_similarity
 DECL|function|find_exact_renames
 DECL|function|find_identical_files
+DECL|function|find_renames
 DECL|function|find_same_files
 DECL|function|free_similarity_list
 DECL|function|hash_filespec

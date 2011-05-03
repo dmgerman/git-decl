@@ -17,9 +17,12 @@ DECL|function|find_common
 DECL|function|get_ack
 DECL|function|get_pack
 DECL|function|get_rev
+DECL|function|insert_alternate_refs
+DECL|function|insert_one_alternate_ref
 DECL|function|mark_common
 DECL|function|mark_complete
 DECL|function|mark_recent_complete_commits
+DECL|function|next_flush
 DECL|function|remove_duplicates
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
@@ -28,7 +31,10 @@ DECL|function|sideband_demux
 DECL|macro|COMMON
 DECL|macro|COMMON_REF
 DECL|macro|COMPLETE
+DECL|macro|INITIAL_FLUSH
+DECL|macro|LARGE_FLUSH
 DECL|macro|MAX_IN_VAIN
+DECL|macro|PIPESAFE_FLUSH
 DECL|macro|POPPED
 DECL|macro|SEEN
 DECL|variable|args
@@ -38,6 +44,7 @@ DECL|variable|fetch_unpack_limit
 DECL|variable|lock
 DECL|variable|marked
 DECL|variable|multi_ack
+DECL|variable|no_done
 DECL|variable|non_common_revs
 DECL|variable|prefer_ofs_delta
 DECL|variable|rev_list

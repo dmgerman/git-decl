@@ -11,11 +11,11 @@ DECL|function|git_pathdup
 DECL|function|git_snpath
 DECL|function|git_vsnpath
 DECL|function|longest_ancestor_length
-DECL|function|make_relative_path
 DECL|function|mkpath
 DECL|function|mksnpath
 DECL|function|normalize_path_copy
 DECL|function|offset_1st_component
+DECL|function|relative_path
 DECL|function|set_shared_perm
 DECL|function|strip_path_suffix
 DECL|function|validate_headref

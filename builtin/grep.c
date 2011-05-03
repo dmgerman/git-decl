@@ -1,7 +1,6 @@
 DECL|enumerator|WORK_FILE
 DECL|enumerator|WORK_SHA1
 DECL|enum|work_type
-DECL|function|accept_subdir
 DECL|function|add_work
 DECL|function|and_callback
 DECL|function|append_path
@@ -21,13 +20,11 @@ DECL|function|grep_sha1
 DECL|function|grep_sha1_async
 DECL|function|grep_tree
 DECL|function|help_callback
-DECL|function|is_subdir
 DECL|function|load_file
 DECL|function|load_sha1
 DECL|function|lock_and_read_sha1_file
 DECL|function|not_callback
 DECL|function|open_callback
-DECL|function|pathspec_matches
 DECL|function|pattern_callback
 DECL|function|run
 DECL|function|run_pager

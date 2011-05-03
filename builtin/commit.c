@@ -14,6 +14,7 @@ DECL|function|commit_index_files
 DECL|function|create_base_index
 DECL|function|cut_ident_timestamp_part
 DECL|function|determine_author_info
+DECL|function|determine_whence
 DECL|function|dry_run_commit
 DECL|function|ends_rfc2822_footer
 DECL|function|find_author_by_nickname
@@ -29,15 +30,19 @@ DECL|function|parse_status_slot
 DECL|function|prepare_index
 DECL|function|prepare_to_commit
 DECL|function|print_summary
+DECL|function|read_commit_message
 DECL|function|refresh_cache_or_die
 DECL|function|rollback_index_files
 DECL|function|run_rewrite_hook
 DECL|function|run_status
+DECL|function|whence_s
 DECL|variable|all
 DECL|variable|allow_empty
 DECL|variable|allow_empty_message
 DECL|variable|also
 DECL|variable|amend
+DECL|variable|author_message
+DECL|variable|author_message_buffer
 DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
@@ -49,6 +54,7 @@ DECL|variable|dry_run
 DECL|variable|edit_flag
 DECL|variable|edit_message
 DECL|variable|empty_amend_advice
+DECL|variable|empty_cherry_pick_advice
 DECL|variable|false_lock
 DECL|variable|fixup_message
 DECL|variable|force_author
@@ -56,7 +62,6 @@ DECL|variable|force_date
 DECL|variable|head_sha1
 DECL|variable|ignore_submodule_arg
 DECL|variable|implicit_ident_advice
-DECL|variable|in_merge
 DECL|variable|include_status
 DECL|variable|index_lock
 DECL|variable|initial_commit
@@ -83,3 +88,4 @@ DECL|variable|use_editor
 DECL|variable|use_message
 DECL|variable|use_message_buffer
 DECL|variable|verbose
+DECL|variable|whence

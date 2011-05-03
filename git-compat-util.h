@@ -32,6 +32,8 @@ DECL|macro|MSB
 DECL|macro|NORETURN
 DECL|macro|NORETURN
 DECL|macro|NORETURN
+DECL|macro|NORETURN
+DECL|macro|NORETURN_PTR
 DECL|macro|NORETURN_PTR
 DECL|macro|NORETURN_PTR
 DECL|macro|NORETURN_PTR
@@ -119,5 +121,7 @@ DECL|macro|toupper
 DECL|macro|toupper
 DECL|macro|unsetenv
 DECL|macro|unsigned_add_overflows
+DECL|macro|va_copy
+DECL|macro|va_copy
 DECL|macro|vsnprintf
 DECL|typedef|try_to_free_t

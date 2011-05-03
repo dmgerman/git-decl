@@ -18,6 +18,7 @@ DECL|function|print_one_push_status
 DECL|function|print_ref_status
 DECL|function|push_had_errors
 DECL|function|read_loose_refs
+DECL|function|refs_from_alternate_cb
 DECL|function|rsync_transport_push
 DECL|function|rsync_url
 DECL|function|set_git_option

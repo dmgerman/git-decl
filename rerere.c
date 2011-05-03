@@ -1,3 +1,4 @@
+DECL|function|check_one_conflict
 DECL|function|do_plain_rerere
 DECL|function|ferr_puts
 DECL|function|ferr_write
@@ -20,9 +21,13 @@ DECL|function|rerere_io_putmem
 DECL|function|rerere_io_putstr
 DECL|function|rerere_mem_getline
 DECL|function|rerere_path
+DECL|function|rerere_remaining
 DECL|function|setup_rerere
 DECL|function|update_paths
 DECL|function|write_rr
+DECL|macro|PUNTED
+DECL|macro|RESOLVED
+DECL|macro|THREE_STAGED
 DECL|member|getline
 DECL|member|input
 DECL|member|input
@@ -33,6 +38,7 @@ DECL|member|wrerror
 DECL|struct|rerere_io
 DECL|struct|rerere_io_file
 DECL|struct|rerere_io_mem
+DECL|variable|RERERE_RESOLVED
 DECL|variable|index_lock
 DECL|variable|merge_rr_path
 DECL|variable|rerere_autoupdate

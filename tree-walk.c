@@ -10,10 +10,13 @@ DECL|function|get_mode
 DECL|function|get_tree_entry
 DECL|function|init_tree_desc
 DECL|function|make_traverse_path
+DECL|function|match_dir_prefix
+DECL|function|match_entry
 DECL|function|name_compare
 DECL|function|setup_traverse_info
 DECL|function|traverse_trees
 DECL|function|tree_entry
+DECL|function|tree_entry_interesting
 DECL|function|update_extended_entry
 DECL|function|update_tree_entry
 DECL|member|d

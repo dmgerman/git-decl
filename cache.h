@@ -42,7 +42,7 @@ DECL|enumerator|PERM_UMASK
 DECL|enumerator|PUSH_DEFAULT_CURRENT
 DECL|enumerator|PUSH_DEFAULT_MATCHING
 DECL|enumerator|PUSH_DEFAULT_NOTHING
-DECL|enumerator|PUSH_DEFAULT_TRACKING
+DECL|enumerator|PUSH_DEFAULT_UPSTREAM
 DECL|enumerator|REF_STATUS_EXPECTING_REPORT
 DECL|enumerator|REF_STATUS_NONE
 DECL|enumerator|REF_STATUS_OK
@@ -271,6 +271,7 @@ DECL|member|ctime
 DECL|member|deletion
 DECL|member|dev
 DECL|member|dev
+DECL|member|do_not_close
 DECL|member|fd
 DECL|member|filename
 DECL|member|flags
@@ -281,6 +282,8 @@ DECL|member|force
 DECL|member|force
 DECL|member|gid
 DECL|member|gid
+DECL|member|has_wildcard
+DECL|member|has_wildcard
 DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
@@ -292,9 +295,13 @@ DECL|member|initialized
 DECL|member|ino
 DECL|member|ino
 DECL|member|inuse_cnt
+DECL|member|items
 DECL|member|last_used
 DECL|member|len
 DECL|member|len
+DECL|member|len
+DECL|member|match
+DECL|member|max_depth
 DECL|member|merge
 DECL|member|mode
 DECL|member|mode
@@ -319,6 +326,7 @@ DECL|member|next
 DECL|member|nonfastforward
 DECL|member|not_new
 DECL|member|nr
+DECL|member|nr
 DECL|member|nsec
 DECL|member|num_bad_objects
 DECL|member|num_objects
@@ -339,6 +347,8 @@ DECL|member|peer_ref
 DECL|member|prefix
 DECL|member|prefix_len_stat_func
 DECL|member|quiet
+DECL|member|raw
+DECL|member|recursive
 DECL|member|refresh_cache
 DECL|member|remote_status
 DECL|member|resolve_undo
@@ -373,6 +383,8 @@ DECL|struct|ondisk_cache_entry_extended
 DECL|struct|pack_entry
 DECL|struct|pack_window
 DECL|struct|packed_git
+DECL|struct|pathspec
+DECL|struct|pathspec_item
 DECL|struct|ref
 DECL|struct|startup_info
 DECL|typedef|alt_odb_fn

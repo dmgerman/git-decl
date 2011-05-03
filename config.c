@@ -15,11 +15,11 @@ DECL|function|git_config_bool_or_int
 DECL|function|git_config_early
 DECL|function|git_config_from_file
 DECL|function|git_config_from_parameters
-DECL|function|git_config_global
 DECL|function|git_config_int
 DECL|function|git_config_maybe_bool
 DECL|function|git_config_maybe_bool_text
 DECL|function|git_config_parse_environment
+DECL|function|git_config_parse_key
 DECL|function|git_config_parse_parameter
 DECL|function|git_config_pathname
 DECL|function|git_config_push_parameter
