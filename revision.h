@@ -38,6 +38,7 @@ DECL|member|commits
 DECL|member|count
 DECL|member|count_left
 DECL|member|count_right
+DECL|member|count_same
 DECL|member|date_mode
 DECL|member|date_mode_explicit
 DECL|member|def
