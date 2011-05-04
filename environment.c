@@ -19,6 +19,7 @@ DECL|variable|askpass_program
 DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
 DECL|variable|autorebase
+DECL|variable|big_file_threshold
 DECL|variable|core_apply_sparse_checkout
 DECL|variable|core_compression_level
 DECL|variable|core_compression_seen
