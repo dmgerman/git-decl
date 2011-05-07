@@ -73,6 +73,7 @@ DECL|variable|no_verify
 DECL|variable|null_termination
 DECL|variable|only
 DECL|variable|only_include_assumed
+DECL|variable|patch_interactive
 DECL|variable|post_rewrite_hook
 DECL|variable|quiet
 DECL|variable|renew_authorship
