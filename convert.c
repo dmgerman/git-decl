@@ -4,7 +4,7 @@ DECL|enumerator|CRLF_CRLF
 DECL|enumerator|CRLF_GUESS
 DECL|enumerator|CRLF_INPUT
 DECL|enumerator|CRLF_TEXT
-DECL|enum|action
+DECL|enum|crlf_action
 DECL|function|apply_filter
 DECL|function|check_safe_crlf
 DECL|function|convert_to_git
@@ -13,8 +13,6 @@ DECL|function|convert_to_working_tree_internal
 DECL|function|count_ident
 DECL|function|crlf_to_git
 DECL|function|crlf_to_worktree
-DECL|function|determine_action
-DECL|function|determine_output_conversion
 DECL|function|filter_buffer
 DECL|function|gather_stats
 DECL|function|git_path_check_convert
@@ -24,7 +22,9 @@ DECL|function|git_path_check_ident
 DECL|function|has_cr_in_index
 DECL|function|ident_to_git
 DECL|function|ident_to_worktree
+DECL|function|input_crlf_action
 DECL|function|is_binary
+DECL|function|output_eol
 DECL|function|read_convert_config
 DECL|function|renormalize_buffer
 DECL|function|setup_convert_check
