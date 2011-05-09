@@ -7,6 +7,7 @@ DECL|enumerator|CRLF_TEXT
 DECL|enum|crlf_action
 DECL|function|apply_filter
 DECL|function|check_safe_crlf
+DECL|function|convert_attrs
 DECL|function|convert_to_git
 DECL|function|convert_to_working_tree
 DECL|function|convert_to_working_tree_internal
@@ -27,12 +28,15 @@ DECL|function|is_binary
 DECL|function|output_eol
 DECL|function|read_convert_config
 DECL|function|renormalize_buffer
-DECL|function|setup_convert_check
 DECL|macro|NUM_CONV_ATTRS
 DECL|member|clean
 DECL|member|cmd
 DECL|member|cr
 DECL|member|crlf
+DECL|member|crlf_action
+DECL|member|drv
+DECL|member|eol_attr
+DECL|member|ident
 DECL|member|lf
 DECL|member|name
 DECL|member|next
@@ -43,6 +47,7 @@ DECL|member|printable
 DECL|member|size
 DECL|member|smudge
 DECL|member|src
+DECL|struct|conv_attrs
 DECL|struct|convert_driver
 DECL|struct|filter_params
 DECL|struct|text_stat
