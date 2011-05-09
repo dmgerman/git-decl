@@ -9,6 +9,7 @@ DECL|function|list_tags
 DECL|function|parse_msg_arg
 DECL|function|set_signingkey
 DECL|function|show_reference
+DECL|function|strbuf_check_tag_ref
 DECL|function|verify_tag
 DECL|function|write_tag_body
 DECL|member|buf
