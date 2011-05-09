@@ -16,6 +16,7 @@ DECL|function|dup_entry
 DECL|function|emit_one_suspect_detail
 DECL|function|emit_other
 DECL|function|emit_porcelain
+DECL|function|emit_porcelain_details
 DECL|function|ent_score
 DECL|function|fake_working_tree_commit
 DECL|function|fill_blob_sha1_and_mode
