@@ -28,6 +28,7 @@ DECL|function|output_eol
 DECL|function|read_convert_config
 DECL|function|renormalize_buffer
 DECL|function|setup_convert_check
+DECL|macro|NUM_CONV_ATTRS
 DECL|member|clean
 DECL|member|cmd
 DECL|member|cr
@@ -45,5 +46,6 @@ DECL|member|src
 DECL|struct|convert_driver
 DECL|struct|filter_params
 DECL|struct|text_stat
+DECL|variable|conv_attr_name
 DECL|variable|user_convert
 DECL|variable|user_convert_tail
