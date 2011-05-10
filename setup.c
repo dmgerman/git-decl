@@ -24,7 +24,6 @@ DECL|function|setup_work_tree
 DECL|function|verify_filename
 DECL|function|verify_non_filename
 DECL|macro|PATHSPEC_FROMTOP
-DECL|macro|PATHSPEC_ICASE
 DECL|member|bit
 DECL|member|mnemonic
 DECL|member|name
