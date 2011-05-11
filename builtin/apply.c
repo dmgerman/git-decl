@@ -188,6 +188,7 @@ DECL|struct|fragment
 DECL|struct|image
 DECL|struct|line
 DECL|struct|patch
+DECL|variable|allow_overlap
 DECL|variable|applied_after_fixing_ws
 DECL|variable|apply
 DECL|variable|apply_in_reverse
