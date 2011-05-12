@@ -84,6 +84,7 @@ DECL|function|sha1_file_name
 DECL|function|sha1_get_pack_name
 DECL|function|sha1_loose_object_info
 DECL|function|sha1_object_info
+DECL|function|sha1_object_info_extended
 DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sort_pack
