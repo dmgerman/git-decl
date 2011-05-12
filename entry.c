@@ -6,4 +6,5 @@ DECL|function|fstat_output
 DECL|function|open_output_fd
 DECL|function|read_blob_entry
 DECL|function|remove_subtree
+DECL|function|streaming_write_entry
 DECL|function|write_entry
