@@ -35,6 +35,7 @@ DECL|enumerator|OBJ_REF_DELTA
 DECL|enumerator|OBJ_TAG
 DECL|enumerator|OBJ_TREE
 DECL|enumerator|OI_CACHED
+DECL|enumerator|OI_DBCACHED
 DECL|enumerator|OI_LOOSE
 DECL|enumerator|OI_PACKED
 DECL|enumerator|OLD_PERM_EVERYBODY
