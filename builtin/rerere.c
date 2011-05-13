@@ -1,11 +1,4 @@
 DECL|function|cmd_rerere
 DECL|function|diff_two
-DECL|function|garbage_collect
-DECL|function|git_rerere_gc_config
 DECL|function|outf
-DECL|function|rerere_created_at
-DECL|function|rerere_last_used_at
-DECL|function|unlink_rr_item
-DECL|variable|cutoff_noresolve
-DECL|variable|cutoff_resolve
 DECL|variable|rerere_usage
