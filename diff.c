@@ -95,6 +95,8 @@ DECL|function|is_summary_empty
 DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
 DECL|function|parse_diff_color_slot
+DECL|function|parse_dirstat_opt
+DECL|function|parse_dirstat_params
 DECL|function|parse_long_opt
 DECL|function|parse_rename_score
 DECL|function|patch_id_consume
@@ -118,6 +120,7 @@ DECL|function|sane_truncate_line
 DECL|function|scale_linear
 DECL|function|short_opt
 DECL|function|show_dirstat
+DECL|function|show_dirstat_by_line
 DECL|function|show_file_mode_name
 DECL|function|show_graph
 DECL|function|show_mode_change
@@ -182,7 +185,7 @@ DECL|member|orig
 DECL|member|orig_alloc
 DECL|member|orig_nr
 DECL|member|patchlen
-DECL|member|percent
+DECL|member|permille
 DECL|member|plus
 DECL|member|prefix
 DECL|member|print_name
@@ -216,6 +219,7 @@ DECL|variable|degrade_cc_to_c_warning
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_detect_rename_default
+DECL|variable|diff_dirstat_permille_default
 DECL|variable|diff_mnemonic_prefix
 DECL|variable|diff_no_prefix
 DECL|variable|diff_queued_diff

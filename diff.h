@@ -37,6 +37,7 @@ DECL|macro|DIFF_OPT_CLR
 DECL|macro|DIFF_OPT_COLOR_DIFF
 DECL|macro|DIFF_OPT_DIFF_FROM_CONTENTS
 DECL|macro|DIFF_OPT_DIRSTAT_BY_FILE
+DECL|macro|DIFF_OPT_DIRSTAT_BY_LINE
 DECL|macro|DIFF_OPT_DIRSTAT_CUMULATIVE
 DECL|macro|DIFF_OPT_DIRTY_SUBMODULES
 DECL|macro|DIFF_OPT_EXIT_WITH_STATUS
@@ -93,7 +94,7 @@ DECL|member|close_file
 DECL|member|context
 DECL|member|degraded_cc_to_c
 DECL|member|detect_rename
-DECL|member|dirstat_percent
+DECL|member|dirstat_permille
 DECL|member|file
 DECL|member|filter
 DECL|member|flags
