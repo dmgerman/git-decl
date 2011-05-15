@@ -35,9 +35,12 @@ DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
 DECL|function|hash_sha1_file
 DECL|function|in_window
+DECL|function|index_core
 DECL|function|index_fd
 DECL|function|index_mem
 DECL|function|index_path
+DECL|function|index_pipe
+DECL|function|index_stream
 DECL|function|install_packed_git
 DECL|function|is_pack_valid
 DECL|function|legacy_loose_object
@@ -69,7 +72,7 @@ DECL|function|read_object
 DECL|function|read_object_with_reference
 DECL|function|read_pack_header
 DECL|function|read_packed_sha1
-DECL|function|read_sha1_file_repl
+DECL|function|read_sha1_file_extended
 DECL|function|rearrange_packed_git
 DECL|function|release_delta_base_cache
 DECL|function|release_pack_memory
