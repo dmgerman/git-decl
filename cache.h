@@ -78,6 +78,7 @@ DECL|function|hashcpy
 DECL|function|hexval
 DECL|function|is_absolute_path
 DECL|function|is_null_sha1
+DECL|function|lookup_replace_object
 DECL|function|object_type
 DECL|function|remove_name_hash
 DECL|function|write_str_in_full
