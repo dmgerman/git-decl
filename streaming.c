@@ -11,6 +11,7 @@ DECL|function|close_deflated_stream
 DECL|function|close_istream
 DECL|function|close_method_decl
 DECL|function|close_method_decl
+DECL|function|close_method_decl
 DECL|function|istream_source
 DECL|function|open_istream
 DECL|function|open_method_decl
@@ -19,15 +20,20 @@ DECL|function|open_method_decl
 DECL|function|read_istream
 DECL|function|read_method_decl
 DECL|function|read_method_decl
+DECL|function|read_method_decl
 DECL|macro|close_method_decl
 DECL|macro|open_method_decl
 DECL|macro|read_method_decl
 DECL|member|buf
 DECL|member|close
-DECL|member|fd
+DECL|member|hdr
+DECL|member|hdr_avail
+DECL|member|hdr_used
 DECL|member|in_pack
 DECL|member|incore
 DECL|member|loose
+DECL|member|mapped
+DECL|member|mapsize
 DECL|member|pack
 DECL|member|pos
 DECL|member|read
@@ -43,5 +49,6 @@ DECL|typedef|close_istream_fn
 DECL|typedef|open_istream_fn
 DECL|typedef|read_istream_fn
 DECL|variable|incore_vtbl
+DECL|variable|loose_vtbl
 DECL|variable|open_istream_tbl
 DECL|variable|pack_non_delta_vtbl
