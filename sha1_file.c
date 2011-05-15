@@ -69,7 +69,7 @@ DECL|function|read_object
 DECL|function|read_object_with_reference
 DECL|function|read_pack_header
 DECL|function|read_packed_sha1
-DECL|function|read_sha1_file
+DECL|function|read_sha1_file_extended
 DECL|function|rearrange_packed_git
 DECL|function|release_delta_base_cache
 DECL|function|release_pack_memory
