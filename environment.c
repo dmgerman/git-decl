@@ -23,11 +23,11 @@ DECL|variable|big_file_threshold
 DECL|variable|core_apply_sparse_checkout
 DECL|variable|core_compression_level
 DECL|variable|core_compression_seen
+DECL|variable|core_eol
 DECL|variable|core_preload_index
 DECL|variable|default_abbrev
 DECL|variable|delta_base_cache_limit
 DECL|variable|editor_program
-DECL|variable|eol
 DECL|variable|excludes_file
 DECL|variable|fsync_object_files
 DECL|variable|git_branch_track
