@@ -18,6 +18,7 @@ DECL|function|option_parse_message
 DECL|function|option_parse_n
 DECL|function|option_parse_strategy
 DECL|function|option_parse_x
+DECL|function|parse_branch_merge_options
 DECL|function|read_empty
 DECL|function|read_merge_msg
 DECL|function|read_tree_trivial
@@ -46,6 +47,7 @@ DECL|variable|allow_fast_forward
 DECL|variable|allow_rerere_auto
 DECL|variable|allow_trivial
 DECL|variable|branch
+DECL|variable|branch_mergeoptions
 DECL|variable|builtin_merge_options
 DECL|variable|builtin_merge_usage
 DECL|variable|default_to_upstream
