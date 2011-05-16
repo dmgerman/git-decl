@@ -11,6 +11,7 @@ DECL|function|get_port
 DECL|function|get_protocol
 DECL|function|get_remote_heads
 DECL|function|git_connect
+DECL|function|git_connection_is_socket
 DECL|function|git_proxy_command_options
 DECL|function|git_proxy_connect
 DECL|function|git_tcp_connect
