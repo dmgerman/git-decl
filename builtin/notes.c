@@ -23,6 +23,7 @@ DECL|function|parse_reedit_arg
 DECL|function|parse_reuse_arg
 DECL|function|prune
 DECL|function|remove_cmd
+DECL|function|remove_one_note
 DECL|function|show
 DECL|function|write_commented_object
 DECL|function|write_note_data
