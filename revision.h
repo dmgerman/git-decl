@@ -22,6 +22,7 @@ DECL|macro|TREESAME
 DECL|macro|UNINTERESTING
 DECL|member|abbrev
 DECL|member|abbrev_commit
+DECL|member|abbrev_commit_given
 DECL|member|add_signoff
 DECL|member|always_show_header
 DECL|member|ancestry_path

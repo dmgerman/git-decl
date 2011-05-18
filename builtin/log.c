@@ -51,6 +51,7 @@ DECL|variable|builtin_log_usage
 DECL|variable|cherry_usage
 DECL|variable|decoration_given
 DECL|variable|decoration_style
+DECL|variable|default_abbrev_commit
 DECL|variable|default_attach
 DECL|variable|default_date_mode
 DECL|variable|default_show_root
