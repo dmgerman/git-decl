@@ -92,6 +92,7 @@ DECL|macro|open_html
 DECL|macro|printf
 DECL|macro|rename
 DECL|macro|setsockopt
+DECL|macro|shutdown
 DECL|macro|sigemptyset
 DECL|macro|signal
 DECL|macro|socket
