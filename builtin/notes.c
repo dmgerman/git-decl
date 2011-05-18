@@ -27,7 +27,7 @@ DECL|function|remove_one_note
 DECL|function|show
 DECL|function|write_commented_object
 DECL|function|write_note_data
-DECL|macro|MISSING_OK
+DECL|macro|IGNORE_MISSING
 DECL|member|buf
 DECL|member|given
 DECL|member|use_editor
