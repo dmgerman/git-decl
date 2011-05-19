@@ -4,10 +4,11 @@ DECL|enumerator|DENY_UNCONFIGURED
 DECL|enumerator|DENY_WARN
 DECL|enum|deny_action
 DECL|function|add_alternate_refs
-DECL|function|add_one_alternate_ref
+DECL|function|add_one_alternate_sha1
 DECL|function|check_aliased_update
 DECL|function|check_aliased_updates
 DECL|function|cmd_receive_pack
+DECL|function|collect_one_alternate_ref
 DECL|function|copy_to_sideband
 DECL|function|delete_only
 DECL|function|execute_commands

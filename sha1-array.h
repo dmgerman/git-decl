@@ -5,3 +5,4 @@ DECL|member|nr
 DECL|member|sha1
 DECL|member|sorted
 DECL|struct|sha1_array
+DECL|typedef|for_each_sha1_fn
