@@ -9,5 +9,7 @@ DECL|function|git_author_info
 DECL|function|git_committer_info
 DECL|function|setup_ident
 DECL|function|user_ident_sufficiently_given
+DECL|macro|get_gecos
+DECL|macro|get_gecos
 DECL|variable|env_hint
 DECL|variable|git_default_date
