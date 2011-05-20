@@ -23,3 +23,4 @@ DECL|variable|config_fetch_recurse_submodules
 DECL|variable|config_fetch_recurse_submodules_for_name
 DECL|variable|config_ignore_for_name
 DECL|variable|config_name_for_path
+DECL|variable|gitmodules_is_unmerged
