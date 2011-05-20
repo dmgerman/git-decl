@@ -28,6 +28,7 @@ DECL|function|ident_to_worktree
 DECL|function|input_crlf_action
 DECL|function|is_binary
 DECL|function|is_null_stream_filter
+DECL|function|lf_to_crlf_filter_fn
 DECL|function|null_filter_fn
 DECL|function|null_free_fn
 DECL|function|output_eol
@@ -65,6 +66,8 @@ DECL|struct|text_stat
 DECL|typedef|filter_fn
 DECL|typedef|free_fn
 DECL|variable|conv_attr_name
+DECL|variable|lf_to_crlf_filter_singleton
+DECL|variable|lf_to_crlf_vtbl
 DECL|variable|null_filter_singleton
 DECL|variable|null_vtbl
 DECL|variable|user_convert
