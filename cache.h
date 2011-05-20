@@ -78,6 +78,7 @@ DECL|function|hashcpy
 DECL|function|hexval
 DECL|function|is_absolute_path
 DECL|function|is_null_sha1
+DECL|function|lookup_replace_object
 DECL|function|object_type
 DECL|function|read_sha1_file
 DECL|function|remove_name_hash
@@ -173,6 +174,7 @@ DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
 DECL|macro|NO_REPLACE_OBJECTS_ENVIRONMENT
 DECL|macro|OWNER_CHANGED
+DECL|macro|READ_SHA1_FILE_REPLACE
 DECL|macro|REFRESH_IGNORE_MISSING
 DECL|macro|REFRESH_IGNORE_SUBMODULES
 DECL|macro|REFRESH_IN_PORCELAIN
