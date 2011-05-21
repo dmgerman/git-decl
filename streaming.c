@@ -40,6 +40,7 @@ DECL|member|i_ptr
 DECL|member|ibuf
 DECL|member|in_pack
 DECL|member|incore
+DECL|member|input_finished
 DECL|member|loose
 DECL|member|mapped
 DECL|member|mapsize
