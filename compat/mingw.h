@@ -92,6 +92,7 @@ DECL|macro|printf
 DECL|macro|rename
 DECL|macro|rmdir
 DECL|macro|setsockopt
+DECL|macro|shutdown
 DECL|macro|sigemptyset
 DECL|macro|signal
 DECL|macro|socket

@@ -51,6 +51,7 @@ DECL|function|mingw_open_html
 DECL|function|mingw_rename
 DECL|function|mingw_rmdir
 DECL|function|mingw_setsockopt
+DECL|function|mingw_shutdown
 DECL|function|mingw_signal
 DECL|function|mingw_socket
 DECL|function|mingw_spawnve
@@ -90,6 +91,7 @@ DECL|macro|open
 DECL|macro|rename
 DECL|macro|rmdir
 DECL|macro|setsockopt
+DECL|macro|shutdown
 DECL|macro|signal
 DECL|macro|unlink
 DECL|macro|write
