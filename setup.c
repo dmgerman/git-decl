@@ -11,6 +11,7 @@ DECL|function|is_inside_git_dir
 DECL|function|is_inside_work_tree
 DECL|function|prefix_filename
 DECL|function|prefix_path
+DECL|function|prefix_pathspec
 DECL|function|read_gitfile_gently
 DECL|function|setup_bare_git_dir
 DECL|function|setup_discovered_git_dir
@@ -22,5 +23,11 @@ DECL|function|setup_nongit
 DECL|function|setup_work_tree
 DECL|function|verify_filename
 DECL|function|verify_non_filename
+DECL|macro|PATHSPEC_FROMTOP
+DECL|member|bit
+DECL|member|mnemonic
+DECL|member|name
+DECL|struct|pathspec_magic
 DECL|variable|inside_git_dir
 DECL|variable|inside_work_tree
+DECL|variable|pathspec_magic
