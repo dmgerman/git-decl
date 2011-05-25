@@ -17,6 +17,7 @@ DECL|member|debug_unpack
 DECL|member|df_conflict_entry
 DECL|member|diff_index_cached
 DECL|member|dir
+DECL|member|dry_run
 DECL|member|dst_index
 DECL|member|el
 DECL|member|fn
