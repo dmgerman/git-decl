@@ -25,6 +25,7 @@ DECL|macro|ISXDIGIT
 DECL|macro|IS_CHAR_CLASS
 DECL|macro|IS_CHAR_CLASS
 DECL|macro|IS_CHAR_CLASS
+DECL|macro|NULL
 DECL|macro|STREQ
 DECL|macro|_GNU_SOURCE
 DECL|macro|internal_function
