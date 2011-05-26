@@ -12,6 +12,7 @@ DECL|function|finish_up_to_date
 DECL|function|get_strategy
 DECL|function|git_merge_config
 DECL|function|is_old_style_invocation
+DECL|function|merge_argument
 DECL|function|merge_name
 DECL|function|merge_trivial
 DECL|function|option_parse_message
