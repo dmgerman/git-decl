@@ -23,6 +23,7 @@ DECL|function|mailmap_name
 DECL|function|non_ascii
 DECL|function|parse_commit_header
 DECL|function|parse_commit_message
+DECL|function|pp_commit_easy
 DECL|function|pp_header
 DECL|function|pp_remainder
 DECL|function|pp_title_line
