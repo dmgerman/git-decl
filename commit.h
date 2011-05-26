@@ -29,6 +29,7 @@ DECL|member|object
 DECL|member|output_encoding
 DECL|member|parent
 DECL|member|parents
+DECL|member|preserve_subject
 DECL|member|reflog_info
 DECL|member|sha1
 DECL|member|show_notes
