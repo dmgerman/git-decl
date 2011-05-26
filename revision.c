@@ -72,10 +72,14 @@ DECL|function|want_ancestry
 DECL|macro|SLOP
 DECL|member|all_flags
 DECL|member|all_revs
+DECL|member|alloc
 DECL|member|name_for_errormsg
+DECL|member|nr
+DECL|member|path
 DECL|member|simplified
 DECL|member|warned_bad_reflog
 DECL|struct|all_refs_cb
+DECL|struct|cmdline_pathspec
 DECL|struct|merge_simplify_state
 DECL|variable|show_early_output
 DECL|variable|tree_difference
