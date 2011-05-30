@@ -6,6 +6,7 @@ DECL|function|external_specification_len
 DECL|function|fetch_objs_via_rsync
 DECL|function|fetch_refs_from_bundle
 DECL|function|fetch_refs_via_pack
+DECL|function|for_each_alternate_ref
 DECL|function|get_refs_from_bundle
 DECL|function|get_refs_via_connect
 DECL|function|get_refs_via_rsync
@@ -43,11 +44,14 @@ DECL|function|transport_verify_remote_names
 DECL|function|write_one_ref
 DECL|function|write_refs_to_temp_dir
 DECL|member|conn
+DECL|member|data
 DECL|member|extra_have
 DECL|member|fd
 DECL|member|fd
+DECL|member|fn
 DECL|member|got_remote_heads
 DECL|member|header
 DECL|member|options
+DECL|struct|alternate_refs_data
 DECL|struct|bundle_transport_data
 DECL|struct|git_transport_data
