@@ -9,11 +9,16 @@ DECL|function|compile_pattern_atom
 DECL|function|compile_pattern_expr
 DECL|function|compile_pattern_not
 DECL|function|compile_pattern_or
+DECL|function|compile_pcre_regexp
+DECL|function|compile_pcre_regexp
 DECL|function|compile_regexp
+DECL|function|compile_regexp_failed
 DECL|function|end_of_line
 DECL|function|fixmatch
 DECL|function|free_grep_patterns
 DECL|function|free_pattern_expr
+DECL|function|free_pcre_regexp
+DECL|function|free_pcre_regexp
 DECL|function|grep_buffer
 DECL|function|grep_buffer_1
 DECL|function|grep_opt_dup
@@ -30,6 +35,9 @@ DECL|function|match_one_pattern
 DECL|function|next_match
 DECL|function|output_color
 DECL|function|output_sep
+DECL|function|patmatch
+DECL|function|pcrematch
+DECL|function|pcrematch
 DECL|function|prep_header_patterns
 DECL|function|regmatch
 DECL|function|should_lookahead

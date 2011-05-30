@@ -66,6 +66,9 @@ DECL|member|pattern_expression
 DECL|member|pattern_list
 DECL|member|pattern_tail
 DECL|member|patternlen
+DECL|member|pcre
+DECL|member|pcre_extra_info
+DECL|member|pcre_regexp
 DECL|member|post_context
 DECL|member|pre_context
 DECL|member|prefix
@@ -87,3 +90,5 @@ DECL|member|word_regexp
 DECL|struct|grep_expr
 DECL|struct|grep_opt
 DECL|struct|grep_pat
+DECL|typedef|pcre
+DECL|typedef|pcre_extra
