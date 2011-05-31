@@ -19,6 +19,7 @@ DECL|member|diff_index_cached
 DECL|member|dir
 DECL|member|dst_index
 DECL|member|el
+DECL|member|exiting_early
 DECL|member|fn
 DECL|member|gently
 DECL|member|head_idx
