@@ -1,4 +1,5 @@
 DECL|macro|SHORTLOG_H
+DECL|member|abbrev
 DECL|member|common_repo_prefix
 DECL|member|email
 DECL|member|in1

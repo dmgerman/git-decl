@@ -1,3 +1,4 @@
+DECL|function|parse_bool
 DECL|function|parse_driver
 DECL|function|parse_funcname
 DECL|function|parse_string
@@ -6,6 +7,8 @@ DECL|function|userdiff_config
 DECL|function|userdiff_find_by_name
 DECL|function|userdiff_find_by_namelen
 DECL|function|userdiff_find_by_path
+DECL|macro|IPATTERN
+DECL|macro|IPATTERN
 DECL|macro|PATTERNS
 DECL|macro|PATTERNS
 DECL|variable|builtin_drivers

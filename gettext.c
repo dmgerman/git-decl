@@ -1,0 +1,1 @@
+DECL|function|use_gettext_poison

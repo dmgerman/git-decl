@@ -1,0 +1,17 @@
+DECL|macro|INFTIM
+DECL|macro|POLLERR
+DECL|macro|POLLHUP
+DECL|macro|POLLIN
+DECL|macro|POLLNVAL
+DECL|macro|POLLOUT
+DECL|macro|POLLPRI
+DECL|macro|POLLRDBAND
+DECL|macro|POLLRDNORM
+DECL|macro|POLLWRBAND
+DECL|macro|POLLWRNORM
+DECL|macro|_GL_POLL_H
+DECL|member|events
+DECL|member|fd
+DECL|member|revents
+DECL|struct|pollfd
+DECL|typedef|nfds_t

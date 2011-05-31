@@ -15,5 +15,7 @@ DECL|function|load_command_list
 DECL|function|pretty_print_string_list
 DECL|function|term_columns
 DECL|function|uniq
+DECL|macro|SIMILARITY_FLOOR
+DECL|macro|SIMILAR_ENOUGH
 DECL|variable|aliases
 DECL|variable|autocorrect

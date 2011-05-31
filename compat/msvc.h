@@ -1,0 +1,14 @@
+DECL|function|strcasecmp
+DECL|macro|ALREADY_DECLARED_STAT_FUNCS
+DECL|macro|ALREADY_DECLARED_STAT_FUNCS
+DECL|macro|ERROR
+DECL|macro|__MSVC__HEAD
+DECL|macro|__attribute__
+DECL|macro|__inline__
+DECL|macro|_stat64
+DECL|macro|fstat
+DECL|macro|ftruncate
+DECL|macro|inline
+DECL|macro|lstat
+DECL|macro|stat
+DECL|macro|strncasecmp

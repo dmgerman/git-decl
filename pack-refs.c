@@ -3,6 +3,7 @@ DECL|function|handle_one_ref
 DECL|function|pack_refs
 DECL|function|prune_ref
 DECL|function|prune_refs
+DECL|function|try_remove_empty_parents
 DECL|member|flags
 DECL|member|name
 DECL|member|next

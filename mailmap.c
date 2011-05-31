@@ -3,7 +3,6 @@ DECL|function|clear_mailmap
 DECL|function|debug_mm
 DECL|function|free_mailmap_entry
 DECL|function|free_mailmap_info
-DECL|function|map_email
 DECL|function|map_user
 DECL|function|parse_name_and_email
 DECL|function|read_mailmap

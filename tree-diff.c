@@ -1,15 +1,11 @@
 DECL|function|compare_tree_entry
-DECL|function|count_paths
 DECL|function|diff_might_be_rename
 DECL|function|diff_root_tree_sha1
 DECL|function|diff_tree
 DECL|function|diff_tree_release_paths
 DECL|function|diff_tree_setup_paths
 DECL|function|diff_tree_sha1
-DECL|function|malloc_base
-DECL|function|malloc_fullname
 DECL|function|show_entry
 DECL|function|show_tree
 DECL|function|skip_uninteresting
-DECL|function|tree_entry_interesting
 DECL|function|try_to_follow_renames

@@ -9,6 +9,9 @@ DECL|macro|DIFF_PAIR_MODE_CHANGED
 DECL|macro|DIFF_PAIR_RENAME
 DECL|macro|DIFF_PAIR_TYPE_CHANGED
 DECL|macro|DIFF_PAIR_UNMERGED
+DECL|macro|DIFF_QUEUE_CLEAR
+DECL|macro|DIRTY_SUBMODULE_MODIFIED
+DECL|macro|DIRTY_SUBMODULE_UNTRACKED
 DECL|macro|MAX_SCORE
 DECL|macro|MINIMUM_BREAK_SIZE
 DECL|macro|diff_debug_filepair
@@ -19,6 +22,7 @@ DECL|member|broken_pair
 DECL|member|cnt_data
 DECL|member|count
 DECL|member|data
+DECL|member|dirty_submodule
 DECL|member|driver
 DECL|member|funcname_pattern_ident
 DECL|member|is_binary

@@ -2,7 +2,6 @@ DECL|function|abort_http_object_request
 DECL|function|add_fill_function
 DECL|function|append_remote_object_url
 DECL|function|closedown_active_slot
-DECL|function|end_url_with_slash
 DECL|function|fetch_and_setup_pack_index
 DECL|function|fetch_pack_index
 DECL|function|fill_active_slots
@@ -48,6 +47,7 @@ DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|HTTP_REQUEST_FILE
 DECL|macro|HTTP_REQUEST_STRBUF
+DECL|macro|LIBCURL_CAN_HANDLE_AUTH_ANY
 DECL|macro|PREV_BUF_SIZE
 DECL|macro|RANGE_HEADER_SIZE
 DECL|member|data
@@ -62,12 +62,15 @@ DECL|variable|curl_ftp_no_epsv
 DECL|variable|curl_http_proxy
 DECL|variable|curl_low_speed_limit
 DECL|variable|curl_low_speed_time
+DECL|variable|curl_session_count
 DECL|variable|curl_ssl_verify
 DECL|variable|curlm
 DECL|variable|data_received
 DECL|variable|fill_cfg
 DECL|variable|http_is_verbose
+DECL|variable|http_post_buffer
 DECL|variable|max_requests
+DECL|variable|min_curl_sessions
 DECL|variable|no_pragma_header
 DECL|variable|pragma_header
 DECL|variable|ssl_cainfo
@@ -76,5 +79,6 @@ DECL|variable|ssl_cert
 DECL|variable|ssl_cert_password
 DECL|variable|ssl_cert_password_required
 DECL|variable|ssl_key
+DECL|variable|user_agent
 DECL|variable|user_name
 DECL|variable|user_pass

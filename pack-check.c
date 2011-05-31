@@ -1,6 +1,7 @@
 DECL|function|check_pack_crc
 DECL|function|compare_entries
 DECL|function|verify_pack
+DECL|function|verify_pack_index
 DECL|function|verify_packfile
 DECL|member|nr
 DECL|member|offset

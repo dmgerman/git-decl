@@ -2,7 +2,9 @@ DECL|function|add_commit_info
 DECL|function|add_reflog_for_walk
 DECL|function|fake_reflog_parent
 DECL|function|get_commit_info
+DECL|function|get_reflog_message
 DECL|function|get_reflog_recno_by_time
+DECL|function|get_reflog_selector
 DECL|function|init_reflog_walk
 DECL|function|read_complete_reflog
 DECL|function|read_one_reflog
@@ -25,6 +27,7 @@ DECL|member|recno
 DECL|member|ref
 DECL|member|reflogs
 DECL|member|reflogs
+DECL|member|short_ref
 DECL|member|timestamp
 DECL|member|tz
 DECL|member|util

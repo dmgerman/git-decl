@@ -1,0 +1,11 @@
+DECL|macro|DIRENT_H
+DECL|macro|DT_DIR
+DECL|macro|DT_LNK
+DECL|macro|DT_REG
+DECL|macro|DT_UNKNOWN
+DECL|member|d_ino
+DECL|member|d_name
+DECL|member|d_reclen
+DECL|member|d_type
+DECL|struct|dirent
+DECL|typedef|DIR
