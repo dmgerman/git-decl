@@ -84,6 +84,7 @@ DECL|member|numbered_files
 DECL|member|patch_suffix
 DECL|member|pending
 DECL|member|prefix
+DECL|member|preserve_subject
 DECL|member|pretty_given
 DECL|member|print_parents
 DECL|member|prune
