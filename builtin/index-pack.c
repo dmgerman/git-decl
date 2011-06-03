@@ -18,6 +18,7 @@ DECL|function|free_base_data
 DECL|function|get_base_data
 DECL|function|get_data_from_pack
 DECL|function|git_index_pack_config
+DECL|function|is_delta_type
 DECL|function|link_base_data
 DECL|function|mark_link
 DECL|function|open_pack_file
