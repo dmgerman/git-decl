@@ -61,6 +61,7 @@ DECL|union|delta_base
 DECL|variable|base_cache
 DECL|variable|base_cache_used
 DECL|variable|consumed_bytes
+DECL|variable|deepest_delta
 DECL|variable|deltas
 DECL|variable|from_stdin
 DECL|variable|index_pack_usage
