@@ -29,6 +29,7 @@ DECL|function|read_idx_option
 DECL|function|read_v2_anomalous_offsets
 DECL|function|resolve_delta
 DECL|function|sha1_object
+DECL|function|show_pack_info
 DECL|function|unlink_base_data
 DECL|function|unpack_entry_data
 DECL|function|unpack_raw_entry
@@ -39,8 +40,10 @@ DECL|macro|FLAG_LINK
 DECL|macro|UNION_BASE_SZ
 DECL|member|base
 DECL|member|base
+DECL|member|base_object_no
 DECL|member|child
 DECL|member|data
+DECL|member|delta_depth
 DECL|member|hdr_size
 DECL|member|idx
 DECL|member|obj
