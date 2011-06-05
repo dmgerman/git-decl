@@ -39,6 +39,7 @@ DECL|member|color_sep
 DECL|member|count
 DECL|member|extended
 DECL|member|field
+DECL|member|file_break
 DECL|member|fixed
 DECL|member|fixed
 DECL|member|funcname
