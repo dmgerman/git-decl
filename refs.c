@@ -45,6 +45,7 @@ DECL|function|prettify_refname
 DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
+DECL|function|ref_exists
 DECL|function|ref_msg
 DECL|function|refname_match
 DECL|function|remove_empty_directories
