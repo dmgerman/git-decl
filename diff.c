@@ -11,6 +11,7 @@ DECL|function|count_lines
 DECL|function|count_trailing_blank
 DECL|function|deflate_it
 DECL|function|diff_addremove
+DECL|function|diff_can_quit_early
 DECL|function|diff_change
 DECL|function|diff_debug_filepair
 DECL|function|diff_debug_filespec
