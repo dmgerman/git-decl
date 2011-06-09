@@ -8,6 +8,8 @@ DECL|function|remove_junk_on_signal
 DECL|function|setup_reference
 DECL|function|strip_trailing_slashes
 DECL|function|wanted_peer_refs
+DECL|function|write_config
+DECL|function|write_one_config
 DECL|function|write_remote_refs
 DECL|variable|argv_submodule
 DECL|variable|builtin_clone_options
@@ -17,6 +19,7 @@ DECL|variable|junk_pid
 DECL|variable|junk_work_tree
 DECL|variable|option_bare
 DECL|variable|option_branch
+DECL|variable|option_config
 DECL|variable|option_depth
 DECL|variable|option_local
 DECL|variable|option_mirror
