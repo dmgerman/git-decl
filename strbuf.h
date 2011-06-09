@@ -3,6 +3,7 @@ DECL|function|strbuf_addch
 DECL|function|strbuf_addstr
 DECL|function|strbuf_avail
 DECL|function|strbuf_setlen
+DECL|function|strbuf_split
 DECL|function|strbuf_swap
 DECL|macro|STRBUF_H
 DECL|macro|STRBUF_INIT
