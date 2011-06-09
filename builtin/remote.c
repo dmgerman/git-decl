@@ -32,7 +32,6 @@ DECL|function|get_remote_default
 DECL|function|get_remote_ref_states
 DECL|function|migrate_file
 DECL|function|mv
-DECL|function|opt_parse_track
 DECL|function|parse_mirror_opt
 DECL|function|postfixcmp
 DECL|function|prune
