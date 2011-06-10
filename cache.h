@@ -219,7 +219,6 @@ DECL|macro|ce_size
 DECL|macro|ce_skip_worktree
 DECL|macro|ce_stage
 DECL|macro|ce_uptodate
-DECL|macro|deflateBound
 DECL|macro|discard_cache
 DECL|macro|flexible_size
 DECL|macro|git_SHA1_Final
