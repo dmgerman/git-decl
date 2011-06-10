@@ -246,6 +246,8 @@ DECL|macro|ws_tab_width
 DECL|member|alloc
 DECL|member|alloc
 DECL|member|array
+DECL|member|avail_in
+DECL|member|avail_out
 DECL|member|bad_object_sha1
 DECL|member|base
 DECL|member|base
@@ -322,6 +324,8 @@ DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|next
+DECL|member|next_in
+DECL|member|next_out
 DECL|member|nonfastforward
 DECL|member|not_new
 DECL|member|nr
@@ -362,11 +366,14 @@ DECL|member|size
 DECL|member|status
 DECL|member|symref
 DECL|member|timestamp
+DECL|member|total_in
+DECL|member|total_out
 DECL|member|track_flags
 DECL|member|tree
 DECL|member|uid
 DECL|member|uid
 DECL|member|windows
+DECL|member|z
 DECL|struct|alternate_object_database
 DECL|struct|cache_def
 DECL|struct|cache_entry
@@ -374,6 +381,7 @@ DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|struct|checkout
 DECL|struct|extra_have_objects
+DECL|struct|git_zstream
 DECL|struct|index_state
 DECL|struct|lock_file
 DECL|struct|object_context
@@ -388,3 +396,4 @@ DECL|struct|ref
 DECL|struct|startup_info
 DECL|typedef|alt_odb_fn
 DECL|typedef|config_fn_t
+DECL|typedef|git_zstream
