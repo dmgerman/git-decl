@@ -1,4 +1,5 @@
 DECL|function|git_inflate
 DECL|function|git_inflate_end
 DECL|function|git_inflate_init
+DECL|function|git_inflate_init_gzip_only
 DECL|function|zerr_to_string
