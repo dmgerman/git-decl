@@ -1,10 +1,13 @@
 DECL|function|build_tag_object
 DECL|function|cmd_tag
+DECL|function|contains
+DECL|function|contains_recurse
 DECL|function|create_tag
 DECL|function|delete_tag
 DECL|function|do_sign
 DECL|function|for_each_tag_name
 DECL|function|git_tag_config
+DECL|function|in_commit_list
 DECL|function|list_tags
 DECL|function|parse_msg_arg
 DECL|function|set_signingkey
