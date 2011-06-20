@@ -16,13 +16,11 @@ DECL|function|fast_export_reset
 DECL|function|fast_export_truncate
 DECL|function|get_response_line
 DECL|function|init_postimage
-DECL|function|init_report_buffer
 DECL|function|ls_from_active_commit
 DECL|function|ls_from_rev
 DECL|function|parse_cat_response_line
 DECL|function|parse_ls_response
 DECL|macro|MAX_GITSVN_LINE_LEN
-DECL|macro|REPORT_FILENO
 DECL|variable|first_commit_done
 DECL|variable|gitsvnline
 DECL|variable|postimage
