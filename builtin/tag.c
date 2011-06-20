@@ -6,6 +6,7 @@ DECL|function|do_sign
 DECL|function|for_each_tag_name
 DECL|function|git_tag_config
 DECL|function|list_tags
+DECL|function|match_pattern
 DECL|function|parse_msg_arg
 DECL|function|set_signingkey
 DECL|function|show_reference
@@ -14,7 +15,7 @@ DECL|function|write_tag_body
 DECL|member|buf
 DECL|member|given
 DECL|member|lines
-DECL|member|pattern
+DECL|member|patterns
 DECL|member|with_commit
 DECL|struct|msg_arg
 DECL|struct|tag_filter
