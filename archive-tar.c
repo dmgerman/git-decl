@@ -1,5 +1,6 @@
 DECL|function|get_path_prefix
 DECL|function|git_tar_config
+DECL|function|init_tar_archiver
 DECL|function|strbuf_append_ext_header
 DECL|function|ustar_header_chksum
 DECL|function|write_blocked
@@ -12,4 +13,5 @@ DECL|macro|BLOCKSIZE
 DECL|macro|RECORDSIZE
 DECL|variable|block
 DECL|variable|offset
+DECL|variable|tar_archiver
 DECL|variable|tar_umask

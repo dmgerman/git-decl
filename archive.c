@@ -4,6 +4,7 @@ DECL|function|parse_archive_args
 DECL|function|parse_pathspec_arg
 DECL|function|parse_treeish_arg
 DECL|function|path_exists
+DECL|function|register_archiver
 DECL|function|reject_entry
 DECL|function|setup_archive_check
 DECL|function|sha1_file_to_archive
@@ -12,13 +13,10 @@ DECL|function|write_archive_entries
 DECL|function|write_archive_entry
 DECL|macro|OPT__COMPR
 DECL|macro|OPT__COMPR_HIDDEN
-DECL|macro|USES_ZLIB_COMPRESSION
 DECL|member|args
-DECL|member|flags
-DECL|member|name
-DECL|member|write_archive
 DECL|member|write_entry
-DECL|struct|archiver
 DECL|struct|archiver_context
+DECL|variable|alloc_archivers
 DECL|variable|archive_usage
 DECL|variable|archivers
+DECL|variable|nr_archivers

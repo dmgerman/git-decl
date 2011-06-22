@@ -1,6 +1,7 @@
 DECL|function|copy_le16
 DECL|function|copy_le32
 DECL|function|dos_time
+DECL|function|init_zip_archiver
 DECL|function|write_zip_archive
 DECL|function|write_zip_entry
 DECL|function|write_zip_trailer
@@ -51,6 +52,7 @@ DECL|member|version
 DECL|struct|zip_dir_header
 DECL|struct|zip_dir_trailer
 DECL|struct|zip_local_header
+DECL|variable|zip_archiver
 DECL|variable|zip_date
 DECL|variable|zip_dir
 DECL|variable|zip_dir_entries
