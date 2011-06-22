@@ -1,3 +1,4 @@
+DECL|function|archive_format_from_filename
 DECL|function|format_subst
 DECL|function|lookup_archiver
 DECL|function|parse_archive_args
