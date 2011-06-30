@@ -11,6 +11,7 @@ DECL|function|git_ntohl
 DECL|function|mingw_SSL_set_fd
 DECL|function|mingw_SSL_set_rfd
 DECL|function|mingw_SSL_set_wfd
+DECL|function|mingw_find_last_dir_sep
 DECL|function|mingw_mkdir
 DECL|function|readlink
 DECL|function|symlink
@@ -63,6 +64,7 @@ DECL|macro|connect
 DECL|macro|execv
 DECL|macro|execvp
 DECL|macro|exit
+DECL|macro|find_last_dir_sep
 DECL|macro|fopen
 DECL|macro|fprintf
 DECL|macro|fputs

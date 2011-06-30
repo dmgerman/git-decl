@@ -76,6 +76,7 @@ DECL|macro|__attribute__
 DECL|macro|basename
 DECL|macro|bitsizeof
 DECL|macro|decimal_length
+DECL|macro|find_last_dir_sep
 DECL|macro|fopen
 DECL|macro|fopen
 DECL|macro|fstat_is_reliable
