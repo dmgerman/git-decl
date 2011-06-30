@@ -56,6 +56,7 @@ DECL|member|next
 DECL|struct|fill_chain
 DECL|variable|active_queue_head
 DECL|variable|active_requests
+DECL|variable|curl_cookie_file
 DECL|variable|curl_default
 DECL|variable|curl_errorstr
 DECL|variable|curl_ftp_no_epsv
