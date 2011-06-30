@@ -1,9 +1,12 @@
+DECL|function|add_descendants_to_write_order
+DECL|function|add_family_to_write_order
 DECL|function|add_object_entry
 DECL|function|add_objects_in_unpacked_packs
 DECL|function|add_pbase_object
 DECL|function|add_preferred_base
 DECL|function|add_preferred_base_object
 DECL|function|add_ref_tag
+DECL|function|add_to_write_order
 DECL|function|check_delta_limit
 DECL|function|check_object
 DECL|function|check_pack_inflate
@@ -11,6 +14,7 @@ DECL|function|check_pbase_path
 DECL|function|cleanup_preferred_base
 DECL|function|cleanup_threaded_search
 DECL|function|cmd_pack_objects
+DECL|function|compute_write_order
 DECL|function|copy_pack_data
 DECL|function|delta_cacheable
 DECL|function|do_compress
@@ -28,6 +32,7 @@ DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
 DECL|function|loosen_unused_packed_objects
 DECL|function|mark_in_pack_object
+DECL|function|mark_tagged
 DECL|function|name_cmp_len
 DECL|function|name_hash
 DECL|function|no_try_delta
@@ -78,6 +83,7 @@ DECL|member|delta_size
 DECL|member|depth
 DECL|member|depth
 DECL|member|entry
+DECL|member|filled
 DECL|member|hash
 DECL|member|idx
 DECL|member|in_pack
@@ -100,6 +106,7 @@ DECL|member|ref
 DECL|member|remaining
 DECL|member|sha1
 DECL|member|size
+DECL|member|tagged
 DECL|member|temporary
 DECL|member|thread
 DECL|member|tree_data
