@@ -20,6 +20,7 @@ DECL|member|dir
 DECL|member|dry_run
 DECL|member|dst_index
 DECL|member|el
+DECL|member|exiting_early
 DECL|member|fn
 DECL|member|gently
 DECL|member|head_idx
