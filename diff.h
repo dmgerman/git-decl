@@ -129,6 +129,7 @@ DECL|member|sha1
 DECL|member|show_rename_progress
 DECL|member|single_follow
 DECL|member|skip_stat_unmatch
+DECL|member|stat_count
 DECL|member|stat_name_width
 DECL|member|stat_sep
 DECL|member|stat_width
