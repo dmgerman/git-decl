@@ -34,6 +34,7 @@ DECL|function|has_packed_and_bad
 DECL|function|has_sha1_file
 DECL|function|has_sha1_pack
 DECL|function|hash_sha1_file
+DECL|function|in_delta_base_cache
 DECL|function|in_window
 DECL|function|index_core
 DECL|function|index_fd
@@ -84,6 +85,7 @@ DECL|function|sha1_file_name
 DECL|function|sha1_get_pack_name
 DECL|function|sha1_loose_object_info
 DECL|function|sha1_object_info
+DECL|function|sha1_object_info_extended
 DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sort_pack

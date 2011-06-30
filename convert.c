@@ -6,6 +6,7 @@ DECL|enumerator|CRLF_INPUT
 DECL|enumerator|CRLF_TEXT
 DECL|enum|crlf_action
 DECL|function|apply_filter
+DECL|function|can_bypass_conversion
 DECL|function|check_safe_crlf
 DECL|function|convert_attrs
 DECL|function|convert_to_git
