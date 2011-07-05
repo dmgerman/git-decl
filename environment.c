@@ -1,5 +1,7 @@
+DECL|function|expand_namespace
 DECL|function|get_commit_output_encoding
 DECL|function|get_git_dir
+DECL|function|get_git_namespace
 DECL|function|get_git_work_tree
 DECL|function|get_graft_file
 DECL|function|get_index_file
@@ -12,6 +14,7 @@ DECL|function|odb_pack_keep
 DECL|function|set_git_dir
 DECL|function|set_git_work_tree
 DECL|function|setup_git_env
+DECL|function|strip_namespace
 DECL|macro|OBJECT_CREATION_MODE
 DECL|variable|apply_default_ignorewhitespace
 DECL|variable|apply_default_whitespace
@@ -48,6 +51,8 @@ DECL|variable|is_bare_repository_cfg
 DECL|variable|local_repo_env
 DECL|variable|log_all_ref_updates
 DECL|variable|minimum_abbrev
+DECL|variable|namespace
+DECL|variable|namespace_len
 DECL|variable|notes_ref_name
 DECL|variable|object_creation_mode
 DECL|variable|packed_git_limit

@@ -18,6 +18,7 @@ DECL|function|for_each_branch_ref
 DECL|function|for_each_branch_ref_submodule
 DECL|function|for_each_glob_ref
 DECL|function|for_each_glob_ref_in
+DECL|function|for_each_namespaced_ref
 DECL|function|for_each_rawref
 DECL|function|for_each_recent_reflog_ent
 DECL|function|for_each_ref
@@ -37,6 +38,7 @@ DECL|function|get_loose_refs
 DECL|function|get_packed_refs
 DECL|function|get_ref_dir
 DECL|function|head_ref
+DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
 DECL|function|invalidate_cached_refs
 DECL|function|is_branch
