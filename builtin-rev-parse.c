@@ -1,5 +1,7 @@
+DECL|function|anti_reference
 DECL|function|cmd_parseopt
 DECL|function|cmd_rev_parse
+DECL|function|cmd_sq_quote
 DECL|function|die_no_single_rev
 DECL|function|is_rev_argument
 DECL|function|parseopt_dump
@@ -23,6 +25,9 @@ DECL|macro|REVERSED
 DECL|macro|SHOW_SYMBOLIC_ASIS
 DECL|macro|SHOW_SYMBOLIC_FULL
 DECL|variable|abbrev
+DECL|variable|abbrev_ref
+DECL|variable|abbrev_ref_strict
+DECL|variable|builtin_rev_parse_usage
 DECL|variable|def
 DECL|variable|filter
 DECL|variable|output_sq

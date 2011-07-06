@@ -1,7 +1,9 @@
 DECL|function|cmd_read_tree
+DECL|function|debug_merge
+DECL|function|debug_stage
+DECL|function|exclude_per_directory_cb
+DECL|function|index_output_cb
 DECL|function|list_tree
-DECL|function|prime_cache_tree
-DECL|function|prime_cache_tree_rec
 DECL|variable|lock_file
 DECL|variable|nr_trees
 DECL|variable|read_tree_usage

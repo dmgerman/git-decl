@@ -2,7 +2,6 @@ DECL|function|append_option
 DECL|function|cmd_gc
 DECL|function|gc_config
 DECL|function|need_to_gc
-DECL|function|run_hook
 DECL|function|too_many_loose_objects
 DECL|function|too_many_packs
 DECL|macro|FAILED_RUN

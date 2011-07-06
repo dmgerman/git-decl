@@ -2,10 +2,13 @@ DECL|function|add_config
 DECL|function|add_files
 DECL|function|add_files_to_cache
 DECL|function|cmd_add
-DECL|function|fill_directory
+DECL|function|edit_patch
+DECL|function|fill_pathspec_matches
 DECL|function|interactive_add
 DECL|function|prune_directory
 DECL|function|refresh
+DECL|function|run_add_interactive
+DECL|function|treat_gitlinks
 DECL|function|update_callback
 DECL|function|validate_pathspec
 DECL|member|add_errors
@@ -15,9 +18,11 @@ DECL|variable|add_interactive
 DECL|variable|addremove
 DECL|variable|builtin_add_options
 DECL|variable|builtin_add_usage
+DECL|variable|edit_interactive
 DECL|variable|ignore_add_errors
 DECL|variable|ignore_error
 DECL|variable|ignored_too
+DECL|variable|intent_to_add
 DECL|variable|lock_file
 DECL|variable|patch_interactive
 DECL|variable|refresh_only

@@ -1,0 +1,7 @@
+DECL|function|record_resolve_undo
+DECL|function|resolve_undo_clear_index
+DECL|function|resolve_undo_read
+DECL|function|resolve_undo_write
+DECL|function|unmerge_index
+DECL|function|unmerge_index_entry_at
+DECL|function|write_one

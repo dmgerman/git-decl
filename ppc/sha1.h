@@ -1,8 +1,11 @@
+DECL|macro|git_SHA1_Final
+DECL|macro|git_SHA1_Init
+DECL|macro|git_SHA1_Update
+DECL|macro|git_SHA_CTX
 DECL|member|b
 DECL|member|buf
 DECL|member|cnt
 DECL|member|hash
 DECL|member|l
 DECL|member|len
-DECL|struct|sha_context
-DECL|typedef|SHA_CTX
+DECL|typedef|ppc_SHA_CTX

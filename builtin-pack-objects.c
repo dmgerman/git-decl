@@ -9,6 +9,8 @@ DECL|function|check_delta_limit
 DECL|function|check_object
 DECL|function|check_pack_inflate
 DECL|function|check_pbase_path
+DECL|function|cleanup_preferred_base
+DECL|function|cleanup_threaded_search
 DECL|function|cmd_pack_objects
 DECL|function|copy_pack_data
 DECL|function|delta_cacheable
@@ -21,6 +23,8 @@ DECL|function|get_delta
 DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
+DECL|function|has_sha1_pack_kept_or_nonlocal
+DECL|function|init_threaded_search
 DECL|function|ll_find_deltas
 DECL|function|locate_object_entry
 DECL|function|locate_object_entry_hash
@@ -122,6 +126,7 @@ DECL|variable|depth
 DECL|variable|done_pbase_paths
 DECL|variable|done_pbase_paths_alloc
 DECL|variable|done_pbase_paths_num
+DECL|variable|ignore_packed_keep
 DECL|variable|include_tag
 DECL|variable|incremental
 DECL|variable|keep_unreachable

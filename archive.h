@@ -8,6 +8,7 @@ DECL|member|pathspec
 DECL|member|time
 DECL|member|tree
 DECL|member|verbose
+DECL|member|worktree_attributes
 DECL|struct|archiver_args
 DECL|typedef|write_archive_entry_fn_t
 DECL|typedef|write_archive_fn_t

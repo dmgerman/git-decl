@@ -10,6 +10,7 @@ DECL|function|get_octopus_merge_bases
 DECL|function|in_merge_bases
 DECL|function|insert_by_date
 DECL|function|interesting
+DECL|function|is_descendant_of
 DECL|function|lookup_commit
 DECL|function|lookup_commit_graft
 DECL|function|lookup_commit_reference

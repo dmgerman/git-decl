@@ -16,10 +16,11 @@ DECL|macro|diff_debug_filespec
 DECL|macro|diff_debug_queue
 DECL|member|alloc
 DECL|member|broken_pair
-DECL|member|checked_attr
 DECL|member|cnt_data
 DECL|member|count
 DECL|member|data
+DECL|member|dirty_submodule
+DECL|member|driver
 DECL|member|funcname_pattern_ident
 DECL|member|is_binary
 DECL|member|is_unmerged

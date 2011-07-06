@@ -10,5 +10,8 @@ DECL|macro|strbuf_reset
 DECL|member|alloc
 DECL|member|buf
 DECL|member|len
+DECL|member|placeholder
+DECL|member|value
 DECL|struct|strbuf
+DECL|struct|strbuf_expand_dict_entry
 DECL|typedef|expand_fn_t

@@ -1,0 +1,16 @@
+DECL|function|main
+DECL|function|test_class
+DECL|function|test_is_glob_special
+DECL|function|test_is_regex_special
+DECL|function|test_isalnum
+DECL|function|test_isalpha
+DECL|function|test_isdigit
+DECL|function|test_isspace
+DECL|macro|DIGIT
+DECL|macro|LOWER
+DECL|macro|UPPER
+DECL|member|members
+DECL|member|name
+DECL|member|test_fn
+DECL|struct|ctype_class
+DECL|variable|classes
