@@ -1,12 +1,11 @@
 DECL|function|checkout_paths
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
-DECL|function|git_checkout_config
 DECL|function|merge_working_tree
 DECL|function|post_checkout_hook
 DECL|function|read_tree_some
-DECL|function|reset_clean_to_new
-DECL|function|reset_to_new
+DECL|function|report_tracking
+DECL|function|reset_tree
 DECL|function|setup_branch_path
 DECL|function|show_local_changes
 DECL|function|switch_branches
@@ -21,7 +20,7 @@ DECL|member|new_branch_log
 DECL|member|path
 DECL|member|quiet
 DECL|member|track
+DECL|member|writeout_error
 DECL|struct|branch_info
 DECL|struct|checkout_opts
-DECL|variable|branch_track
 DECL|variable|checkout_usage

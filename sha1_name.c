@@ -17,6 +17,7 @@ DECL|function|get_short_sha1
 DECL|function|handle_one_ref
 DECL|function|match_sha
 DECL|function|peel_onion
+DECL|function|peel_to_type
 DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND

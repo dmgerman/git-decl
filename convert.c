@@ -1,4 +1,5 @@
 DECL|function|apply_filter
+DECL|function|check_safe_crlf
 DECL|function|convert_to_git
 DECL|function|convert_to_working_tree
 DECL|function|count_ident

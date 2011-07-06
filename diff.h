@@ -12,7 +12,9 @@ DECL|macro|DIFF_DETECT_COPY
 DECL|macro|DIFF_DETECT_RENAME
 DECL|macro|DIFF_FORMAT_CALLBACK
 DECL|macro|DIFF_FORMAT_CHECKDIFF
+DECL|macro|DIFF_FORMAT_CUMULATIVE
 DECL|macro|DIFF_FORMAT_DIFFSTAT
+DECL|macro|DIFF_FORMAT_DIRSTAT
 DECL|macro|DIFF_FORMAT_NAME
 DECL|macro|DIFF_FORMAT_NAME_STATUS
 DECL|macro|DIFF_FORMAT_NO_OUTPUT
@@ -33,9 +35,11 @@ DECL|macro|DIFF_OPT_FIND_COPIES_HARDER
 DECL|macro|DIFF_OPT_FOLLOW_RENAMES
 DECL|macro|DIFF_OPT_FULL_INDEX
 DECL|macro|DIFF_OPT_HAS_CHANGES
+DECL|macro|DIFF_OPT_IGNORE_SUBMODULES
 DECL|macro|DIFF_OPT_NO_INDEX
 DECL|macro|DIFF_OPT_QUIET
 DECL|macro|DIFF_OPT_RECURSIVE
+DECL|macro|DIFF_OPT_RELATIVE_NAME
 DECL|macro|DIFF_OPT_REVERSE_DIFF
 DECL|macro|DIFF_OPT_SET
 DECL|macro|DIFF_OPT_SILENT_ON_REMOVE
@@ -67,8 +71,11 @@ DECL|member|add_remove
 DECL|member|b_prefix
 DECL|member|break_opt
 DECL|member|change
+DECL|member|close_file
 DECL|member|context
 DECL|member|detect_rename
+DECL|member|dirstat_percent
+DECL|member|file
 DECL|member|filter
 DECL|member|flags
 DECL|member|format_callback
@@ -78,7 +85,6 @@ DECL|member|len
 DECL|member|line_termination
 DECL|member|mode
 DECL|member|mode
-DECL|member|msg_sep
 DECL|member|next
 DECL|member|nr_paths
 DECL|member|orderfile
@@ -89,6 +95,8 @@ DECL|member|pathlens
 DECL|member|paths
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
+DECL|member|prefix
+DECL|member|prefix_length
 DECL|member|rename_limit
 DECL|member|rename_score
 DECL|member|setup
@@ -100,6 +108,7 @@ DECL|member|stat_name_width
 DECL|member|stat_sep
 DECL|member|stat_width
 DECL|member|status
+DECL|member|warn_on_too_large_rename
 DECL|member|xdl_opts
 DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path

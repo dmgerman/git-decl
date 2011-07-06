@@ -1,6 +1,8 @@
+DECL|function|add_extra_ref
 DECL|function|add_ref
 DECL|function|bad_ref_char
 DECL|function|check_ref_format
+DECL|function|clear_extra_refs
 DECL|function|close_ref
 DECL|function|commit_ref
 DECL|function|copy_msg
@@ -62,6 +64,8 @@ DECL|member|sha1
 DECL|struct|cached_refs
 DECL|struct|ref_list
 DECL|variable|cached_refs
+DECL|variable|current_ref
+DECL|variable|extra_refs
 DECL|variable|packlock
 DECL|variable|ref_fetch_rules
 DECL|variable|ref_rev_parse_rules

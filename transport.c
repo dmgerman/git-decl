@@ -1,4 +1,5 @@
 DECL|function|close_bundle
+DECL|function|connect_setup
 DECL|function|curl_transport_push
 DECL|function|disconnect_git
 DECL|function|disconnect_walker
@@ -28,8 +29,11 @@ DECL|function|transport_set_option
 DECL|function|transport_unlock_pack
 DECL|function|write_one_ref
 DECL|function|write_refs_to_temp_dir
+DECL|member|conn
 DECL|member|depth
 DECL|member|fd
+DECL|member|fd
+DECL|member|followtags
 DECL|member|header
 DECL|member|keep
 DECL|member|receivepack

@@ -1,7 +1,6 @@
 DECL|function|color
 DECL|function|git_status_config
 DECL|function|parse_status_slot
-DECL|function|quote_path
 DECL|function|wt_status_prepare
 DECL|function|wt_status_print
 DECL|function|wt_status_print_cached_header
@@ -10,14 +9,19 @@ DECL|function|wt_status_print_changed_cb
 DECL|function|wt_status_print_filepair
 DECL|function|wt_status_print_header
 DECL|function|wt_status_print_initial
+DECL|function|wt_status_print_submodule_summary
+DECL|function|wt_status_print_tracking
 DECL|function|wt_status_print_trailer
 DECL|function|wt_status_print_untracked
 DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_updated_cb
 DECL|function|wt_status_print_verbose
+DECL|macro|quote_path
+DECL|variable|show_untracked_files
 DECL|variable|use_add_msg
 DECL|variable|use_add_rm_msg
 DECL|variable|use_add_to_include_msg
 DECL|variable|wt_status_colors
 DECL|variable|wt_status_relative_paths
+DECL|variable|wt_status_submodule_summary
 DECL|variable|wt_status_use_color

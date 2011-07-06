@@ -1,8 +1,12 @@
-DECL|function|check_and_emit_line
 DECL|function|parse_whitespace_rule
 DECL|function|setup_whitespace_attr_check
 DECL|function|whitespace_error_string
 DECL|function|whitespace_rule
+DECL|function|ws_blank_line
+DECL|function|ws_check
+DECL|function|ws_check_emit
+DECL|function|ws_check_emit_1
+DECL|function|ws_fix_copy
 DECL|member|rule_bits
 DECL|member|rule_name
 DECL|struct|whitespace_rule

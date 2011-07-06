@@ -10,12 +10,11 @@ DECL|macro|RUN_COMMAND_NO_STDIN
 DECL|macro|RUN_COMMAND_STDOUT_TO_STDERR
 DECL|macro|RUN_GIT_CMD
 DECL|member|argv
-DECL|member|close_in
-DECL|member|close_out
 DECL|member|data
 DECL|member|dir
 DECL|member|env
 DECL|member|err
+DECL|member|fd_for_proc
 DECL|member|git_cmd
 DECL|member|in
 DECL|member|no_stderr
@@ -27,5 +26,6 @@ DECL|member|pid
 DECL|member|pid
 DECL|member|proc
 DECL|member|stdout_to_stderr
+DECL|member|tid
 DECL|struct|async
 DECL|struct|child_process

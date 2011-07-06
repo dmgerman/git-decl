@@ -1,8 +1,13 @@
+DECL|enumerator|SHOW_ALL_UNTRACKED_FILES
+DECL|enumerator|SHOW_NORMAL_UNTRACKED_FILES
+DECL|enumerator|SHOW_NO_UNTRACKED_FILES
 DECL|enumerator|WT_STATUS_CHANGED
 DECL|enumerator|WT_STATUS_HEADER
+DECL|enumerator|WT_STATUS_NOBRANCH
 DECL|enumerator|WT_STATUS_UNTRACKED
 DECL|enumerator|WT_STATUS_UPDATED
 DECL|enum|color_wt_status
+DECL|enum|untracked_status_type
 DECL|macro|STATUS_H
 DECL|member|amend
 DECL|member|branch
@@ -18,5 +23,3 @@ DECL|member|verbose
 DECL|member|workdir_dirty
 DECL|member|workdir_untracked
 DECL|struct|wt_status
-DECL|variable|wt_status_relative_paths
-DECL|variable|wt_status_use_color

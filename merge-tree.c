@@ -14,6 +14,7 @@ DECL|function|show_outf
 DECL|function|show_result
 DECL|function|show_result_list
 DECL|function|threeway_callback
+DECL|function|traverse_path
 DECL|function|unresolved
 DECL|function|unresolved_directory
 DECL|member|blob

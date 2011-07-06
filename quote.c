@@ -4,6 +4,7 @@ DECL|function|perl_quote_print
 DECL|function|python_quote_print
 DECL|function|quote_c_style
 DECL|function|quote_c_style_counted
+DECL|function|quote_path_relative
 DECL|function|quote_two_c_style
 DECL|function|sq_dequote
 DECL|function|sq_must_quote
@@ -19,4 +20,5 @@ DECL|macro|EMIT
 DECL|macro|EMITBUF
 DECL|macro|X16
 DECL|macro|X8
+DECL|variable|quote_path_fully
 DECL|variable|sq_lookup

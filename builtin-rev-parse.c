@@ -1,5 +1,6 @@
 DECL|function|cmd_parseopt
 DECL|function|cmd_rev_parse
+DECL|function|die_no_single_rev
 DECL|function|is_rev_argument
 DECL|function|parseopt_dump
 DECL|function|show
@@ -9,8 +10,10 @@ DECL|function|show_file
 DECL|function|show_flag
 DECL|function|show_reference
 DECL|function|show_rev
+DECL|function|show_with_type
 DECL|function|skipspaces
 DECL|function|try_difference
+DECL|function|try_parent_shorthands
 DECL|macro|DO_FLAGS
 DECL|macro|DO_NONFLAGS
 DECL|macro|DO_NOREV
@@ -23,6 +26,5 @@ DECL|variable|abbrev
 DECL|variable|def
 DECL|variable|filter
 DECL|variable|output_sq
-DECL|variable|revs_count
 DECL|variable|show_type
 DECL|variable|symbolic

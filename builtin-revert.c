@@ -7,6 +7,7 @@ DECL|function|cmd_revert
 DECL|function|get_encoding
 DECL|function|get_oneline
 DECL|function|help_msg
+DECL|function|index_is_dirty
 DECL|function|merge_recursive
 DECL|function|parse_args
 DECL|function|revert_or_cherry_pick
@@ -23,3 +24,4 @@ DECL|variable|msg_file
 DECL|variable|no_commit
 DECL|variable|no_replay
 DECL|variable|revert_usage
+DECL|variable|signoff

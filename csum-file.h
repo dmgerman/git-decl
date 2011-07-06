@@ -1,4 +1,6 @@
+DECL|macro|CSUM_CLOSE
 DECL|macro|CSUM_FILE_H
+DECL|macro|CSUM_FSYNC
 DECL|member|buffer
 DECL|member|crc32
 DECL|member|ctx

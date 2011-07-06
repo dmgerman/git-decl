@@ -18,7 +18,7 @@ DECL|function|message_is_empty
 DECL|function|opt_parse_m
 DECL|function|parse_and_validate_options
 DECL|function|prepare_index
-DECL|function|prepare_log_message
+DECL|function|prepare_to_commit
 DECL|function|print_summary
 DECL|function|rollback_index_files
 DECL|function|run_hook
@@ -27,6 +27,9 @@ DECL|variable|all
 DECL|variable|allow_empty
 DECL|variable|also
 DECL|variable|amend
+DECL|variable|author_date
+DECL|variable|author_email
+DECL|variable|author_name
 DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
@@ -54,7 +57,7 @@ DECL|variable|quiet
 DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|template_file
-DECL|variable|untracked_files
+DECL|variable|untracked_files_arg
 DECL|variable|use_editor
 DECL|variable|use_message
 DECL|variable|use_message_buffer

@@ -1,6 +1,7 @@
 DECL|macro|FETCH_PACK_H
 DECL|member|depth
 DECL|member|fetch_all
+DECL|member|include_tag
 DECL|member|keep_pack
 DECL|member|lock_pack
 DECL|member|no_progress

@@ -4,9 +4,10 @@ DECL|function|enter_repo
 DECL|function|get_pathname
 DECL|function|git_mkstemp
 DECL|function|git_path
-DECL|function|make_absolute_path
+DECL|function|longest_ancestor_length
+DECL|function|make_relative_path
 DECL|function|mkpath
+DECL|function|normalize_absolute_path
 DECL|function|user_path
 DECL|function|validate_headref
-DECL|macro|MAXDEPTH
 DECL|variable|bad_path

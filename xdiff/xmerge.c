@@ -1,11 +1,15 @@
+DECL|function|line_contains_alnum
+DECL|function|lines_contain_alnum
 DECL|function|xdl_append_merge
 DECL|function|xdl_cleanup_merge
 DECL|function|xdl_do_merge
 DECL|function|xdl_fill_merge_buffer
 DECL|function|xdl_merge
 DECL|function|xdl_merge_cmp_lines
+DECL|function|xdl_merge_two_conflicts
 DECL|function|xdl_recs_copy
 DECL|function|xdl_refine_conflicts
+DECL|function|xdl_simplify_non_conflicts
 DECL|member|chg1
 DECL|member|chg2
 DECL|member|i1
