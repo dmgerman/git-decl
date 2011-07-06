@@ -4,8 +4,10 @@ DECL|macro|DEFAULT_MAX_REQUESTS
 DECL|macro|HTTP_ERROR
 DECL|macro|HTTP_H
 DECL|macro|HTTP_MISSING_TARGET
+DECL|macro|HTTP_NOAUTH
 DECL|macro|HTTP_NO_CACHE
 DECL|macro|HTTP_OK
+DECL|macro|HTTP_REAUTH
 DECL|macro|HTTP_START_FAILED
 DECL|macro|NO_CURL_EASY_DUPHANDLE
 DECL|macro|NO_CURL_IOCTL
@@ -23,8 +25,6 @@ DECL|member|curl_result
 DECL|member|curl_result
 DECL|member|curl_result
 DECL|member|errorstr
-DECL|member|filename
-DECL|member|filename
 DECL|member|finished
 DECL|member|http_code
 DECL|member|http_code

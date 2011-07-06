@@ -6,6 +6,7 @@ DECL|enumerator|OPTION_END
 DECL|enumerator|OPTION_FILENAME
 DECL|enumerator|OPTION_GROUP
 DECL|enumerator|OPTION_INTEGER
+DECL|enumerator|OPTION_LOWLEVEL_CALLBACK
 DECL|enumerator|OPTION_NEGBIT
 DECL|enumerator|OPTION_NUMBER
 DECL|enumerator|OPTION_SET_INT
@@ -23,8 +24,10 @@ DECL|enumerator|PARSE_OPT_NEGHELP
 DECL|enumerator|PARSE_OPT_NOARG
 DECL|enumerator|PARSE_OPT_NODASH
 DECL|enumerator|PARSE_OPT_NONEG
+DECL|enumerator|PARSE_OPT_NON_OPTION
 DECL|enumerator|PARSE_OPT_NO_INTERNAL_HELP
 DECL|enumerator|PARSE_OPT_OPTARG
+DECL|enumerator|PARSE_OPT_SHELL_EVAL
 DECL|enumerator|PARSE_OPT_STOP_AT_NON_OPTION
 DECL|enumerator|PARSE_OPT_UNKNOWN
 DECL|enum|parse_opt_flags
@@ -34,6 +37,7 @@ DECL|macro|OPT_ARGUMENT
 DECL|macro|OPT_BIT
 DECL|macro|OPT_BOOLEAN
 DECL|macro|OPT_CALLBACK
+DECL|macro|OPT_COLOR_FLAG
 DECL|macro|OPT_DATE
 DECL|macro|OPT_END
 DECL|macro|OPT_FILENAME
@@ -46,7 +50,9 @@ DECL|macro|OPT_SET_PTR
 DECL|macro|OPT_STRING
 DECL|macro|OPT_UYN
 DECL|macro|OPT__ABBREV
+DECL|macro|OPT__COLOR
 DECL|macro|OPT__DRY_RUN
+DECL|macro|OPT__FORCE
 DECL|macro|OPT__QUIET
 DECL|macro|OPT__VERBOSE
 DECL|macro|OPT__VERBOSITY
@@ -70,3 +76,4 @@ DECL|member|value
 DECL|struct|option
 DECL|struct|parse_opt_ctx_t
 DECL|typedef|parse_opt_cb
+DECL|typedef|parse_opt_ll_cb

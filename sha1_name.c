@@ -15,6 +15,7 @@ DECL|function|get_sha1_1
 DECL|function|get_sha1_basic
 DECL|function|get_sha1_mb
 DECL|function|get_sha1_oneline
+DECL|function|get_sha1_with_context_1
 DECL|function|get_sha1_with_mode_1
 DECL|function|get_short_sha1
 DECL|function|grab_nth_branch_switch
@@ -24,6 +25,9 @@ DECL|function|interpret_nth_prior_checkout
 DECL|function|match_sha
 DECL|function|peel_onion
 DECL|function|peel_to_type
+DECL|function|resolve_relative_path
+DECL|function|strbuf_branchname
+DECL|function|strbuf_check_branch_ref
 DECL|function|substitute_branch_name
 DECL|function|upstream_mark
 DECL|macro|ONELINE_SEEN

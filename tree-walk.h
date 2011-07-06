@@ -13,6 +13,7 @@ DECL|member|path
 DECL|member|pathlen
 DECL|member|prev
 DECL|member|sha1
+DECL|member|show_all_errors
 DECL|member|size
 DECL|struct|name_entry
 DECL|struct|traverse_info

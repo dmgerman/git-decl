@@ -1,4 +1,4 @@
-DECL|function|lookup_replace_object
+DECL|function|do_lookup_replace_object
 DECL|function|prepare_replace_object
 DECL|function|register_replace_object
 DECL|function|register_replace_ref

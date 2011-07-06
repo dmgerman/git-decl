@@ -8,6 +8,7 @@ DECL|function|ll_merge
 DECL|function|ll_merge_marker_size
 DECL|function|ll_union_merge
 DECL|function|ll_xdl_merge
+DECL|function|normalize_file
 DECL|function|read_merge_config
 DECL|macro|LL_BINARY_MERGE
 DECL|macro|LL_TEXT_MERGE

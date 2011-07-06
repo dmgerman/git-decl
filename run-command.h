@@ -9,8 +9,8 @@ DECL|member|data
 DECL|member|dir
 DECL|member|env
 DECL|member|err
-DECL|member|fd_for_proc
 DECL|member|git_cmd
+DECL|member|in
 DECL|member|in
 DECL|member|no_stderr
 DECL|member|no_stdin
@@ -21,6 +21,8 @@ DECL|member|pid
 DECL|member|pid
 DECL|member|preexec_cb
 DECL|member|proc
+DECL|member|proc_in
+DECL|member|proc_out
 DECL|member|silent_exec_failure
 DECL|member|stdout_to_stderr
 DECL|member|tid

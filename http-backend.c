@@ -1,6 +1,4 @@
 DECL|function|check_content_type
-DECL|function|decode_char
-DECL|function|decode_parameter
 DECL|function|die_webcgi
 DECL|function|end_headers
 DECL|function|forbidden

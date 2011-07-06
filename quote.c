@@ -1,5 +1,6 @@
 DECL|function|need_bs_quote
 DECL|function|next_quote_pos
+DECL|function|path_relative
 DECL|function|perl_quote_print
 DECL|function|python_quote_print
 DECL|function|quote_c_style
@@ -16,6 +17,7 @@ DECL|function|sq_quote_print
 DECL|function|tcl_quote_print
 DECL|function|unquote_c_style
 DECL|function|write_name_quoted
+DECL|function|write_name_quoted_relative
 DECL|function|write_name_quotedpfx
 DECL|macro|EMIT
 DECL|macro|EMIT

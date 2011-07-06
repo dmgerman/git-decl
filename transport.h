@@ -4,9 +4,8 @@ DECL|macro|TRANSPORT_PUSH_DRY_RUN
 DECL|macro|TRANSPORT_PUSH_FORCE
 DECL|macro|TRANSPORT_PUSH_MIRROR
 DECL|macro|TRANSPORT_PUSH_PORCELAIN
-DECL|macro|TRANSPORT_PUSH_QUIET
 DECL|macro|TRANSPORT_PUSH_SET_UPSTREAM
-DECL|macro|TRANSPORT_PUSH_VERBOSE
+DECL|macro|TRANSPORT_SUMMARY_WIDTH
 DECL|macro|TRANS_OPT_DEPTH
 DECL|macro|TRANS_OPT_FOLLOWTAGS
 DECL|macro|TRANS_OPT_KEEP
@@ -20,6 +19,7 @@ DECL|member|disconnect
 DECL|member|fetch
 DECL|member|followtags
 DECL|member|get_refs_list
+DECL|member|got_remote_refs
 DECL|member|keep
 DECL|member|pack_lockfile
 DECL|member|progress
@@ -36,3 +36,4 @@ DECL|member|url
 DECL|member|verbose
 DECL|struct|git_transport_options
 DECL|struct|transport
+DECL|typedef|alternate_ref_fn
