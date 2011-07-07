@@ -7,6 +7,7 @@ DECL|function|xdl_cha_init
 DECL|function|xdl_cha_next
 DECL|function|xdl_emit_diffrec
 DECL|function|xdl_emit_hunk_hdr
+DECL|function|xdl_fall_back_diff
 DECL|function|xdl_guess_lines
 DECL|function|xdl_hash_record
 DECL|function|xdl_hash_record_with_whitespace
