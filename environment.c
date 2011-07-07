@@ -47,6 +47,7 @@ DECL|variable|ignore_case
 DECL|variable|is_bare_repository_cfg
 DECL|variable|local_repo_env
 DECL|variable|log_all_ref_updates
+DECL|variable|log_pack_access
 DECL|variable|minimum_abbrev
 DECL|variable|notes_ref_name
 DECL|variable|object_creation_mode
