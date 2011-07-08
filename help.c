@@ -19,3 +19,4 @@ DECL|macro|SIMILARITY_FLOOR
 DECL|macro|SIMILAR_ENOUGH
 DECL|variable|aliases
 DECL|variable|autocorrect
+DECL|variable|bad_interpreter_advice
