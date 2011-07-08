@@ -26,6 +26,7 @@ DECL|function|run_receive_hook
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
 DECL|function|show_ref
+DECL|function|show_ref_cb
 DECL|function|unpack
 DECL|function|update
 DECL|function|write_head_info
