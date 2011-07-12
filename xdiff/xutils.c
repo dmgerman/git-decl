@@ -17,4 +17,3 @@ DECL|function|xdl_mmfile_next
 DECL|function|xdl_mmfile_size
 DECL|function|xdl_num_out
 DECL|function|xdl_recmatch
-DECL|macro|XDL_GUESS_NLINES
