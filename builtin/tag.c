@@ -23,7 +23,6 @@ DECL|member|with_commit
 DECL|struct|msg_arg
 DECL|struct|tag_filter
 DECL|typedef|each_tag_name_fn
-DECL|variable|core_clock_skew
 DECL|variable|git_tag_usage
 DECL|variable|signingkey
 DECL|variable|tag_template
