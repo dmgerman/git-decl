@@ -15,6 +15,8 @@ DECL|function|process_connect_service
 DECL|function|push_refs
 DECL|function|push_refs_with_export
 DECL|function|push_refs_with_push
+DECL|function|push_update_ref_status
+DECL|function|push_update_refs_status
 DECL|function|recvline
 DECL|function|recvline_fh
 DECL|function|release_helper
