@@ -52,10 +52,12 @@ DECL|member|dest
 DECL|member|dest_is_sock
 DECL|member|dest_name
 DECL|member|export
+DECL|member|export_marks
 DECL|member|fetch
 DECL|member|gtp
 DECL|member|helper
 DECL|member|import
+DECL|member|import_marks
 DECL|member|name
 DECL|member|no_disconnect_req
 DECL|member|option
