@@ -237,6 +237,7 @@ DECL|variable|pack_id
 DECL|variable|pack_size
 DECL|variable|rc_free
 DECL|variable|relative_marks_paths
+DECL|variable|require_explicit_termination
 DECL|variable|seen_data_command
 DECL|variable|show_stats
 DECL|variable|total_allocd
