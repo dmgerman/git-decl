@@ -28,6 +28,7 @@ DECL|function|http_get_strbuf
 DECL|function|http_init
 DECL|function|http_options
 DECL|function|http_request
+DECL|function|http_request_reauth
 DECL|function|init_curl_http_auth
 DECL|function|ioctl_buffer
 DECL|function|needs_quote
