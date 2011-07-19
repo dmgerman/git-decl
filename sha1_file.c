@@ -61,7 +61,6 @@ DECL|function|pack_entry_hash
 DECL|function|pack_report
 DECL|function|packed_delta_info
 DECL|function|packed_object_info
-DECL|function|packed_object_info_detail
 DECL|function|parse_pack_index
 DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb

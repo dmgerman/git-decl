@@ -3,6 +3,8 @@ DECL|function|bad_object
 DECL|function|check_object
 DECL|function|check_objects
 DECL|function|cmd_index_pack
+DECL|function|cmp_uint32
+DECL|function|compare_delta_bases
 DECL|function|compare_delta_entry
 DECL|function|delta_pos_compare
 DECL|function|fill
@@ -16,14 +18,18 @@ DECL|function|free_base_data
 DECL|function|get_base_data
 DECL|function|get_data_from_pack
 DECL|function|git_index_pack_config
+DECL|function|is_delta_type
 DECL|function|link_base_data
 DECL|function|mark_link
 DECL|function|open_pack_file
 DECL|function|parse_pack_header
 DECL|function|parse_pack_objects
 DECL|function|prune_base_data
+DECL|function|read_idx_option
+DECL|function|read_v2_anomalous_offsets
 DECL|function|resolve_delta
 DECL|function|sha1_object
+DECL|function|show_pack_info
 DECL|function|unlink_base_data
 DECL|function|unpack_entry_data
 DECL|function|unpack_raw_entry
@@ -34,8 +40,10 @@ DECL|macro|FLAG_LINK
 DECL|macro|UNION_BASE_SZ
 DECL|member|base
 DECL|member|base
+DECL|member|base_object_no
 DECL|member|child
 DECL|member|data
+DECL|member|delta_depth
 DECL|member|hdr_size
 DECL|member|idx
 DECL|member|obj
@@ -53,6 +61,7 @@ DECL|union|delta_base
 DECL|variable|base_cache
 DECL|variable|base_cache_used
 DECL|variable|consumed_bytes
+DECL|variable|deepest_delta
 DECL|variable|deltas
 DECL|variable|from_stdin
 DECL|variable|index_pack_usage
