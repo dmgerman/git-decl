@@ -2,7 +2,6 @@ DECL|function|cmp_recs
 DECL|function|fall_back_to_classic_diff
 DECL|function|find_lcs
 DECL|function|histogram_diff
-DECL|function|reduce_common_start_end
 DECL|function|scanA
 DECL|function|try_lcs
 DECL|function|xdl_do_histogram_diff
