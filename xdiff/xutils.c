@@ -13,7 +13,6 @@ DECL|function|xdl_hash_record
 DECL|function|xdl_hash_record_with_whitespace
 DECL|function|xdl_hashbits
 DECL|function|xdl_mmfile_first
-DECL|function|xdl_mmfile_next
 DECL|function|xdl_mmfile_size
 DECL|function|xdl_num_out
 DECL|function|xdl_recmatch
