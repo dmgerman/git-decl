@@ -15,6 +15,7 @@ DECL|function|close_pack_windows
 DECL|function|close_sha1_file
 DECL|function|create_tmpfile
 DECL|function|directory_size
+DECL|function|experimental_loose_object
 DECL|function|fill_sha1_path
 DECL|function|find_cached_object
 DECL|function|find_pack_entry
@@ -43,7 +44,6 @@ DECL|function|index_pipe
 DECL|function|index_stream
 DECL|function|install_packed_git
 DECL|function|is_pack_valid
-DECL|function|legacy_loose_object
 DECL|function|link_alt_odb_entries
 DECL|function|link_alt_odb_entry
 DECL|function|map_sha1_file
