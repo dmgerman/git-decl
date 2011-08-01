@@ -42,6 +42,7 @@ DECL|member|field
 DECL|member|file_break
 DECL|member|fixed
 DECL|member|fixed
+DECL|member|funcbody
 DECL|member|funcname
 DECL|member|header_list
 DECL|member|header_tail
