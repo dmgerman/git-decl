@@ -13,7 +13,7 @@ DECL|function|git_attr_internal
 DECL|function|git_attr_name
 DECL|function|git_attr_set_direction
 DECL|function|git_attr_system
-DECL|function|git_checkattr
+DECL|function|git_check_attr
 DECL|function|git_etc_gitattributes
 DECL|function|handle_attr_line
 DECL|function|hash_name
