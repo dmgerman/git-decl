@@ -14,10 +14,10 @@ DECL|function|get_encoding
 DECL|function|get_message
 DECL|function|option_parse_x
 DECL|function|parse_args
+DECL|function|pick_commits
 DECL|function|prepare_revs
 DECL|function|print_advice
 DECL|function|read_and_refresh_cache
-DECL|function|revert_or_cherry_pick
 DECL|function|revert_or_cherry_pick_usage
 DECL|function|run_git_commit
 DECL|function|write_cherry_pick_head
