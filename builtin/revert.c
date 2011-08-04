@@ -24,6 +24,7 @@ DECL|function|read_and_refresh_cache
 DECL|function|revert_or_cherry_pick_usage
 DECL|function|run_git_commit
 DECL|function|save_head
+DECL|function|save_opts
 DECL|function|save_todo
 DECL|function|verify_opt_compatible
 DECL|function|walk_revs_populate_todo
@@ -32,6 +33,7 @@ DECL|function|write_message
 DECL|macro|GIT_REFLOG_ACTION
 DECL|macro|SEQ_DIR
 DECL|macro|SEQ_HEAD_FILE
+DECL|macro|SEQ_OPTS_FILE
 DECL|macro|SEQ_TODO_FILE
 DECL|member|action
 DECL|member|allow_ff
