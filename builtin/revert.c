@@ -14,6 +14,7 @@ DECL|function|do_pick_commit
 DECL|function|do_recursive_merge
 DECL|function|empty_tree
 DECL|function|fast_forward_to
+DECL|function|fatal
 DECL|function|format_todo
 DECL|function|free_message
 DECL|function|get_encoding
