@@ -6,6 +6,7 @@ DECL|function|drop_attr_stack
 DECL|function|fill
 DECL|function|fill_one
 DECL|function|free_attr_elem
+DECL|function|git_all_attrs
 DECL|function|git_attr
 DECL|function|git_attr_config
 DECL|function|git_attr_internal
