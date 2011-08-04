@@ -20,6 +20,7 @@ DECL|function|print_advice
 DECL|function|read_and_refresh_cache
 DECL|function|revert_or_cherry_pick_usage
 DECL|function|run_git_commit
+DECL|function|verify_opt_compatible
 DECL|function|write_cherry_pick_head
 DECL|function|write_message
 DECL|macro|GIT_REFLOG_ACTION
