@@ -1,0 +1,1 @@
+DECL|function|remove_sequencer_state

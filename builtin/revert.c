@@ -1,6 +1,9 @@
 DECL|enumerator|CHERRY_PICK
+DECL|enumerator|REPLAY_NONE
+DECL|enumerator|REPLAY_RESET
 DECL|enumerator|REVERT
 DECL|enum|replay_action
+DECL|enum|replay_subcommand
 DECL|function|action_name
 DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
@@ -32,10 +35,6 @@ DECL|function|walk_revs_populate_todo
 DECL|function|write_cherry_pick_head
 DECL|function|write_message
 DECL|macro|GIT_REFLOG_ACTION
-DECL|macro|SEQ_DIR
-DECL|macro|SEQ_HEAD_FILE
-DECL|macro|SEQ_OPTS_FILE
-DECL|macro|SEQ_TODO_FILE
 DECL|member|action
 DECL|member|allow_ff
 DECL|member|allow_rerere_auto
@@ -51,6 +50,7 @@ DECL|member|record_origin
 DECL|member|reencoded_message
 DECL|member|signoff
 DECL|member|strategy
+DECL|member|subcommand
 DECL|member|subject
 DECL|member|xopts
 DECL|member|xopts_alloc
