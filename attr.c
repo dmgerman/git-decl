@@ -8,6 +8,7 @@ DECL|function|free_attr_elem
 DECL|function|git_attr
 DECL|function|git_attr_config
 DECL|function|git_attr_internal
+DECL|function|git_attr_name
 DECL|function|git_attr_set_direction
 DECL|function|git_attr_system
 DECL|function|git_checkattr
