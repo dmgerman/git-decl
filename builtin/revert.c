@@ -10,12 +10,11 @@ DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
 DECL|function|commit_list_append
 DECL|function|create_seq_dir
-DECL|function|die_dirty_index
 DECL|function|do_pick_commit
 DECL|function|do_recursive_merge
 DECL|function|empty_tree
+DECL|function|error_dirty_index
 DECL|function|fast_forward_to
-DECL|function|fatal
 DECL|function|format_todo
 DECL|function|free_message
 DECL|function|get_encoding
