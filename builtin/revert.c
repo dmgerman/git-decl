@@ -38,7 +38,7 @@ DECL|variable|edit
 DECL|variable|mainline
 DECL|variable|me
 DECL|variable|no_commit
-DECL|variable|no_replay
+DECL|variable|record_origin
 DECL|variable|revert_usage
 DECL|variable|signoff
 DECL|variable|strategy
