@@ -18,6 +18,7 @@ DECL|function|get_message
 DECL|function|option_parse_x
 DECL|function|parse_args
 DECL|function|pick_commits
+DECL|function|pick_revisions
 DECL|function|prepare_revs
 DECL|function|print_advice
 DECL|function|read_and_refresh_cache
