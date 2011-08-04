@@ -1,4 +1,5 @@
 DECL|function|bootstrap_attr_stack
+DECL|function|collect_all_attrs
 DECL|function|debug_info
 DECL|function|debug_set
 DECL|function|drop_attr_stack
