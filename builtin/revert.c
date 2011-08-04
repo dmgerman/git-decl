@@ -1,7 +1,6 @@
 DECL|enumerator|CHERRY_PICK
 DECL|enumerator|REVERT
 DECL|function|add_message_to_msg
-DECL|function|advise
 DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
 DECL|function|die_dirty_index
