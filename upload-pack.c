@@ -1,3 +1,4 @@
+DECL|function|check_non_tip
 DECL|function|create_pack_file
 DECL|function|do_rev_list
 DECL|function|get_common_commits
