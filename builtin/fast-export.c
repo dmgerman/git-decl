@@ -23,6 +23,7 @@ DECL|function|mark_object
 DECL|function|mark_to_ptr
 DECL|function|parse_opt_signed_tag_mode
 DECL|function|parse_opt_tag_of_filtered_mode
+DECL|function|print_path
 DECL|function|ptr_to_mark
 DECL|function|show_filemodify
 DECL|function|show_progress
