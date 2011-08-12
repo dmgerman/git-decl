@@ -19,7 +19,6 @@ DECL|function|handle_delete_modify
 DECL|function|init_merge_options
 DECL|function|init_tree_desc_from_tree
 DECL|function|insert_stage_data
-DECL|function|make_room_for_directories_of_df_conflicts
 DECL|function|make_room_for_path
 DECL|function|make_virtual_commit
 DECL|function|merge_3way
@@ -36,6 +35,7 @@ DECL|function|process_df_entry
 DECL|function|process_entry
 DECL|function|process_renames
 DECL|function|read_sha1_strbuf
+DECL|function|record_df_conflict_files
 DECL|function|remove_file
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs

@@ -9,6 +9,7 @@ DECL|member|buffer_output
 DECL|member|call_depth
 DECL|member|current_directory_set
 DECL|member|current_file_set
+DECL|member|df_conflict_file_set
 DECL|member|diff_rename_limit
 DECL|member|merge_rename_limit
 DECL|member|needed_rename_limit
