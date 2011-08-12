@@ -7,6 +7,7 @@ DECL|function|clear_extra_refs
 DECL|function|close_ref
 DECL|function|commit_ref
 DECL|function|copy_msg
+DECL|function|create_cached_refs
 DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|do_for_each_ref
