@@ -46,10 +46,10 @@ DECL|function|show
 DECL|function|stage_sha
 DECL|function|string_list_df_name_compare
 DECL|function|unique_path
+DECL|function|update_entry
 DECL|function|update_file
 DECL|function|update_file_flags
 DECL|function|update_stages
-DECL|function|update_stages_and_entry
 DECL|function|was_tracked
 DECL|function|would_lose_untracked
 DECL|function|write_tree_from_memory
@@ -59,6 +59,7 @@ DECL|member|clean
 DECL|member|dst_entry
 DECL|member|dst_entry1
 DECL|member|dst_entry2
+DECL|member|involved_in_rename
 DECL|member|merge
 DECL|member|mode
 DECL|member|mode
