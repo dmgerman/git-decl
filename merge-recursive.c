@@ -1,5 +1,6 @@
 DECL|enumerator|RENAME_DELETE
 DECL|enumerator|RENAME_NORMAL
+DECL|enumerator|RENAME_ONE_FILE_TO_ONE
 DECL|enumerator|RENAME_ONE_FILE_TO_TWO
 DECL|enum|rename_type
 DECL|function|add_cacheinfo
@@ -38,7 +39,7 @@ DECL|function|record_df_conflict_files
 DECL|function|remove_file
 DECL|function|reverse_commit_list
 DECL|function|save_files_dirs
-DECL|function|setup_rename_df_conflict_info
+DECL|function|setup_rename_conflict_info
 DECL|function|sha_eq
 DECL|function|shift_tree_object
 DECL|function|show
@@ -58,7 +59,6 @@ DECL|member|clean
 DECL|member|dst_entry
 DECL|member|dst_entry1
 DECL|member|dst_entry2
-DECL|member|involved_in_rename
 DECL|member|merge
 DECL|member|mode
 DECL|member|mode
@@ -67,7 +67,7 @@ DECL|member|pair1
 DECL|member|pair2
 DECL|member|processed
 DECL|member|processed
-DECL|member|rename_df_conflict_info
+DECL|member|rename_conflict_info
 DECL|member|rename_type
 DECL|member|sha
 DECL|member|sha
@@ -75,5 +75,5 @@ DECL|member|src_entry
 DECL|member|stages
 DECL|struct|merge_file_info
 DECL|struct|rename
-DECL|struct|rename_df_conflict_info
+DECL|struct|rename_conflict_info
 DECL|struct|stage_data
