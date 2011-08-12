@@ -25,6 +25,7 @@ DECL|function|make_virtual_commit
 DECL|function|merge_3way
 DECL|function|merge_content
 DECL|function|merge_file
+DECL|function|merge_file_1
 DECL|function|merge_recursive
 DECL|function|merge_recursive_config
 DECL|function|merge_recursive_generic
