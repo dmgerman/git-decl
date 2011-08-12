@@ -50,6 +50,7 @@ DECL|function|update_file
 DECL|function|update_file_flags
 DECL|function|update_stages
 DECL|function|update_stages_and_entry
+DECL|function|was_tracked
 DECL|function|would_lose_untracked
 DECL|function|write_tree_from_memory
 DECL|member|branch1
