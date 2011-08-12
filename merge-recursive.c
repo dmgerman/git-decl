@@ -7,6 +7,7 @@ DECL|function|blob_unchanged
 DECL|function|conflict_rename_delete
 DECL|function|conflict_rename_rename_1to2
 DECL|function|conflict_rename_rename_2to1
+DECL|function|dir_in_way
 DECL|function|flush_buffer
 DECL|function|flush_output
 DECL|function|get_files_dirs
