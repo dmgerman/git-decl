@@ -19,6 +19,7 @@ DECL|function|get_renames
 DECL|function|get_unmerged
 DECL|function|git_merge_trees
 DECL|function|handle_change_delete
+DECL|function|handle_file
 DECL|function|handle_modify_delete
 DECL|function|init_merge_options
 DECL|function|init_tree_desc_from_tree
