@@ -90,6 +90,7 @@ DECL|member|msg_fmt
 DECL|member|name
 DECL|member|name
 DECL|member|next
+DECL|member|next
 DECL|member|packed
 DECL|member|pattern
 DECL|member|peeled
@@ -105,4 +106,3 @@ DECL|variable|extra_refs
 DECL|variable|packlock
 DECL|variable|ref_fetch_rules
 DECL|variable|ref_rev_parse_rules
-DECL|variable|submodule_refs
