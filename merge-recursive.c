@@ -2,6 +2,7 @@ DECL|enumerator|RENAME_DELETE
 DECL|enumerator|RENAME_NORMAL
 DECL|enumerator|RENAME_ONE_FILE_TO_ONE
 DECL|enumerator|RENAME_ONE_FILE_TO_TWO
+DECL|enumerator|RENAME_TWO_FILES_TO_ONE
 DECL|enum|rename_type
 DECL|function|add_cacheinfo
 DECL|function|blob_unchanged
