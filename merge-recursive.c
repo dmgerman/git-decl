@@ -69,6 +69,8 @@ DECL|member|pair1
 DECL|member|pair2
 DECL|member|processed
 DECL|member|processed
+DECL|member|ren1_other
+DECL|member|ren2_other
 DECL|member|rename_conflict_info
 DECL|member|rename_type
 DECL|member|sha
