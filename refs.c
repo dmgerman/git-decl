@@ -88,6 +88,7 @@ DECL|member|fp
 DECL|member|loose
 DECL|member|msg_fmt
 DECL|member|name
+DECL|member|name
 DECL|member|next
 DECL|member|packed
 DECL|member|pattern
