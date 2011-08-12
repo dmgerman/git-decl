@@ -43,6 +43,7 @@ DECL|function|sha_eq
 DECL|function|shift_tree_object
 DECL|function|show
 DECL|function|stage_sha
+DECL|function|string_list_df_name_compare
 DECL|function|unique_path
 DECL|function|update_file
 DECL|function|update_file_flags
