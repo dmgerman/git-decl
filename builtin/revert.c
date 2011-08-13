@@ -51,8 +51,6 @@ DECL|macro|GIT_REFLOG_ACTION
 DECL|member|action
 DECL|member|allow_ff
 DECL|member|allow_rerere_auto
-DECL|member|commit_argc
-DECL|member|commit_argv
 DECL|member|edit
 DECL|member|label
 DECL|member|mainline
@@ -61,6 +59,7 @@ DECL|member|no_commit
 DECL|member|parent_label
 DECL|member|record_origin
 DECL|member|reencoded_message
+DECL|member|revs
 DECL|member|signoff
 DECL|member|strategy
 DECL|member|subcommand
