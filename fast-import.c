@@ -109,6 +109,7 @@ DECL|function|write_crash_report
 DECL|macro|DEPTH_BITS
 DECL|macro|MAX_DEPTH
 DECL|macro|MAX_PACK_ID
+DECL|macro|NO_DELTA
 DECL|macro|PACK_ID_BITS
 DECL|member|active
 DECL|member|active_next_branch
