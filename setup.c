@@ -13,6 +13,7 @@ DECL|function|prefix_filename
 DECL|function|prefix_path
 DECL|function|prefix_pathspec
 DECL|function|read_gitfile_gently
+DECL|function|resolve_gitdir
 DECL|function|setup_bare_git_dir
 DECL|function|setup_discovered_git_dir
 DECL|function|setup_explicit_git_dir
