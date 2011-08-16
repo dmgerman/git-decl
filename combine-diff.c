@@ -15,6 +15,7 @@ DECL|function|intersect_paths
 DECL|function|make_hunks
 DECL|function|reuse_combine_diff
 DECL|function|show_combined_diff
+DECL|function|show_combined_header
 DECL|function|show_line_to_eol
 DECL|function|show_parent_lno
 DECL|function|show_patch_diff
