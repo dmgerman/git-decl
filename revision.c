@@ -64,6 +64,7 @@ DECL|function|rewrite_one
 DECL|function|rewrite_parents
 DECL|function|set_children
 DECL|function|setup_revisions
+DECL|function|show_object_with_name
 DECL|function|simplify_commit
 DECL|function|simplify_merges
 DECL|function|simplify_one
