@@ -2,6 +2,7 @@ DECL|function|close_pair
 DECL|function|die_async
 DECL|function|die_child
 DECL|function|dup_devnull
+DECL|function|error_child
 DECL|function|execv_shell_cmd
 DECL|function|finish_async
 DECL|function|finish_command
