@@ -6,6 +6,7 @@ DECL|function|color_parse
 DECL|function|color_parse_mem
 DECL|function|color_print_strbuf
 DECL|function|color_vfprintf
+DECL|function|git_color_config
 DECL|function|git_color_default_config
 DECL|function|git_config_colorbool
 DECL|function|parse_attr
