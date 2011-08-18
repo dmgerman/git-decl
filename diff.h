@@ -34,7 +34,6 @@ DECL|macro|DIFF_OPT_ALLOW_TEXTCONV
 DECL|macro|DIFF_OPT_BINARY
 DECL|macro|DIFF_OPT_CHECK_FAILED
 DECL|macro|DIFF_OPT_CLR
-DECL|macro|DIFF_OPT_COLOR_DIFF
 DECL|macro|DIFF_OPT_DIFF_FROM_CONTENTS
 DECL|macro|DIFF_OPT_DIRSTAT_BY_FILE
 DECL|macro|DIFF_OPT_DIRSTAT_BY_LINE
@@ -133,6 +132,7 @@ DECL|member|stat_name_width
 DECL|member|stat_sep
 DECL|member|stat_width
 DECL|member|status
+DECL|member|use_color
 DECL|member|word_diff
 DECL|member|word_regex
 DECL|member|xdl_opts
