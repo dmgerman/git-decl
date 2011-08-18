@@ -33,7 +33,6 @@ DECL|function|reduce_heads
 DECL|function|register_commit_graft
 DECL|function|sort_in_topological_order
 DECL|function|unregister_shallow
-DECL|function|write_shallow_commits
 DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT
