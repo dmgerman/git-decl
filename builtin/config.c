@@ -50,7 +50,6 @@ DECL|variable|parsed_color
 DECL|variable|regexp
 DECL|variable|seen
 DECL|variable|show_keys
-DECL|variable|stdout_is_tty
 DECL|variable|term
 DECL|variable|types
 DECL|variable|use_global_config
