@@ -38,6 +38,7 @@ DECL|variable|end_null
 DECL|variable|get_color_found
 DECL|variable|get_color_slot
 DECL|variable|get_color_slot
+DECL|variable|get_color_ui_found
 DECL|variable|get_colorbool_found
 DECL|variable|get_colorbool_slot
 DECL|variable|get_colorbool_slot
