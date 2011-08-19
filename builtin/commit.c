@@ -59,12 +59,10 @@ DECL|variable|false_lock
 DECL|variable|fixup_message
 DECL|variable|force_author
 DECL|variable|force_date
-DECL|variable|head_sha1
 DECL|variable|ignore_submodule_arg
 DECL|variable|implicit_ident_advice
 DECL|variable|include_status
 DECL|variable|index_lock
-DECL|variable|initial_commit
 DECL|variable|interactive
 DECL|variable|logfile
 DECL|variable|message
