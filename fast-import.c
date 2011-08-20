@@ -199,6 +199,7 @@ DECL|variable|cmd_save
 DECL|variable|cmd_tail
 DECL|variable|command_buf
 DECL|variable|cur_active_branches
+DECL|variable|delta_count_attempts_by_type
 DECL|variable|delta_count_by_type
 DECL|variable|duplicate_count_by_type
 DECL|variable|export_marks_file
