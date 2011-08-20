@@ -4,6 +4,7 @@ DECL|function|install_branch_config
 DECL|function|remove_branch_state
 DECL|function|setup_tracking
 DECL|function|should_setup_rebase
+DECL|function|validate_new_branchname
 DECL|member|matches
 DECL|member|remote
 DECL|member|spec
