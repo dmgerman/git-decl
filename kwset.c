@@ -13,8 +13,6 @@ DECL|function|treenext
 DECL|macro|DEPTH_SIZE
 DECL|macro|NCHAR
 DECL|macro|U
-DECL|macro|malloc
-DECL|macro|malloc
 DECL|macro|obstack_chunk_alloc
 DECL|macro|obstack_chunk_free
 DECL|member|accepting
