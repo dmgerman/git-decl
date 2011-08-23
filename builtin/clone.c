@@ -1,8 +1,10 @@
+DECL|function|add_one_reference
 DECL|function|clone_local
 DECL|function|cmd_clone
 DECL|function|copy_or_link_directory
 DECL|function|get_repo_path
 DECL|function|guess_dir_name
+DECL|function|opt_parse_reference
 DECL|function|remove_junk
 DECL|function|remove_junk_on_signal
 DECL|function|setup_reference
