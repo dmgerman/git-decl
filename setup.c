@@ -10,7 +10,6 @@ DECL|function|is_git_directory
 DECL|function|is_inside_git_dir
 DECL|function|is_inside_work_tree
 DECL|function|pathspec_prefix
-DECL|function|prefix_filename
 DECL|function|prefix_path
 DECL|function|prefix_pathspec
 DECL|function|read_gitfile_gently
