@@ -1,3 +1,8 @@
+DECL|enumerator|REV_CMD_LEFT
+DECL|enumerator|REV_CMD_PARENTS_ONLY
+DECL|enumerator|REV_CMD_REF
+DECL|enumerator|REV_CMD_REV
+DECL|enumerator|REV_CMD_RIGHT
 DECL|enumerator|commit_error
 DECL|enumerator|commit_ignore
 DECL|enumerator|commit_show
@@ -22,6 +27,7 @@ DECL|macro|UNINTERESTING
 DECL|member|abbrev
 DECL|member|abbrev_commit
 DECL|member|add_signoff
+DECL|member|alloc
 DECL|member|always_show_header
 DECL|member|ancestry_path
 DECL|member|bisect
@@ -30,6 +36,7 @@ DECL|member|boundary
 DECL|member|boundary_commits
 DECL|member|cherry_pick
 DECL|member|children
+DECL|member|cmdline
 DECL|member|combine_merges
 DECL|member|commit_format
 DECL|member|commits
@@ -48,10 +55,12 @@ DECL|member|elem
 DECL|member|elem_len
 DECL|member|extra_headers
 DECL|member|first_parent_only
+DECL|member|flags
 DECL|member|full_diff
 DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
+DECL|member|item
 DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
@@ -65,11 +74,13 @@ DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
 DECL|member|missing_newline
+DECL|member|name
 DECL|member|no_commit_id
 DECL|member|no_inline
 DECL|member|no_merges
 DECL|member|no_walk
 DECL|member|notes_opt
+DECL|member|nr
 DECL|member|nr
 DECL|member|numbered_files
 DECL|member|patch_suffix
@@ -83,6 +94,7 @@ DECL|member|pruning
 DECL|member|ref_message_ids
 DECL|member|reflog_info
 DECL|member|remove_empty_trees
+DECL|member|rev
 DECL|member|reverse
 DECL|member|reverse_output_stage
 DECL|member|rewrite_parents
@@ -109,7 +121,10 @@ DECL|member|unpacked
 DECL|member|up
 DECL|member|use_terminator
 DECL|member|verbose_header
+DECL|member|whence
 DECL|struct|name_path
+DECL|struct|rev_cmdline_entry
+DECL|struct|rev_cmdline_info
 DECL|struct|rev_info
 DECL|struct|setup_revision_opt
 DECL|typedef|show_early_output_fn_t
