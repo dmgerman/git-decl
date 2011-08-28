@@ -11,9 +11,7 @@ DECL|macro|CALL_FREEFUN
 DECL|macro|COPYING_UNIT
 DECL|macro|ELIDE_CODE
 DECL|macro|OBSTACK_INTERFACE_VERSION
-DECL|macro|_
 DECL|macro|__attribute__
-DECL|macro|obstack_exit_failure
 DECL|macro|obstack_free
 DECL|member|c
 DECL|member|d
@@ -24,4 +22,3 @@ DECL|struct|fooalign
 DECL|union|fooround
 DECL|variable|_obstack_compat
 DECL|variable|obstack_alloc_failed_handler
-DECL|variable|obstack_exit_failure
