@@ -18,6 +18,7 @@ DECL|function|delete_branches
 DECL|function|fill_tracking_info
 DECL|function|free_ref_list
 DECL|function|git_branch_config
+DECL|function|match_patterns
 DECL|function|matches_merge_filter
 DECL|function|opt_parse_merge_filter
 DECL|function|parse_branch_color_slot
@@ -40,6 +41,7 @@ DECL|member|len
 DECL|member|list
 DECL|member|maxwidth
 DECL|member|name
+DECL|member|pattern
 DECL|member|ref_list
 DECL|member|ret
 DECL|member|revs
