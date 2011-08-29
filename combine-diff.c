@@ -1,14 +1,17 @@
 DECL|function|adjust_hunk_tail
 DECL|function|append_lost
 DECL|function|combine_diff
+DECL|function|combined_pair
 DECL|function|consume_line
 DECL|function|diff_tree_combined
 DECL|function|diff_tree_combined_merge
 DECL|function|dump_quoted_path
 DECL|function|dump_sline
 DECL|function|find_next
+DECL|function|free_combined_pair
 DECL|function|give_context
 DECL|function|grab_blob
+DECL|function|handle_combined_callback
 DECL|function|hunk_comment_line
 DECL|function|interesting
 DECL|function|intersect_paths
