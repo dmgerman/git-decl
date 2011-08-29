@@ -28,6 +28,8 @@ DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
 DECL|function|send_request
 DECL|function|sideband_demux
+DECL|function|write_one_shallow
+DECL|function|write_shallow_commits
 DECL|macro|COMMON
 DECL|macro|COMMON_REF
 DECL|macro|COMPLETE
@@ -37,6 +39,10 @@ DECL|macro|MAX_IN_VAIN
 DECL|macro|PIPESAFE_FLUSH
 DECL|macro|POPPED
 DECL|macro|SEEN
+DECL|member|count
+DECL|member|out
+DECL|member|use_pack_protocol
+DECL|struct|write_shallow_data
 DECL|variable|args
 DECL|variable|complete
 DECL|variable|fetch_pack_usage

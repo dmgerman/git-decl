@@ -1,3 +1,4 @@
+DECL|enumerator|DECORATION_GRAFTED
 DECL|enumerator|DECORATION_NONE
 DECL|enumerator|DECORATION_REF_HEAD
 DECL|enumerator|DECORATION_REF_LOCAL
@@ -5,6 +6,7 @@ DECL|enumerator|DECORATION_REF_REMOTE
 DECL|enumerator|DECORATION_REF_STASH
 DECL|enumerator|DECORATION_REF_TAG
 DECL|enum|decoration_type
+DECL|function|add_graft_decoration
 DECL|function|add_name_decoration
 DECL|function|add_ref_decoration
 DECL|function|append_signoff

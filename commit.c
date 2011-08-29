@@ -7,6 +7,7 @@ DECL|function|commit_list_insert_by_date
 DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
 DECL|function|find_commit_subject
+DECL|function|for_each_commit_graft
 DECL|function|free_commit_list
 DECL|function|get_merge_bases
 DECL|function|get_merge_bases_many
@@ -32,7 +33,6 @@ DECL|function|reduce_heads
 DECL|function|register_commit_graft
 DECL|function|sort_in_topological_order
 DECL|function|unregister_shallow
-DECL|function|write_shallow_commits
 DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT

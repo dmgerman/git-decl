@@ -43,3 +43,4 @@ DECL|struct|commit_list
 DECL|struct|name_decoration
 DECL|struct|pretty_print_context
 DECL|struct|userformat_want
+DECL|typedef|each_commit_graft_fn
