@@ -38,6 +38,7 @@ DECL|variable|end_null
 DECL|variable|get_color_found
 DECL|variable|get_color_slot
 DECL|variable|get_color_slot
+DECL|variable|get_color_ui_found
 DECL|variable|get_colorbool_found
 DECL|variable|get_colorbool_slot
 DECL|variable|get_colorbool_slot
@@ -50,7 +51,6 @@ DECL|variable|parsed_color
 DECL|variable|regexp
 DECL|variable|seen
 DECL|variable|show_keys
-DECL|variable|stdout_is_tty
 DECL|variable|term
 DECL|variable|types
 DECL|variable|use_global_config

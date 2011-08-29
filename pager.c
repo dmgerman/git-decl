@@ -7,4 +7,3 @@ DECL|function|wait_for_pager_signal
 DECL|macro|DEFAULT_PAGER
 DECL|variable|pager_argv
 DECL|variable|pager_process
-DECL|variable|spawned_pager
