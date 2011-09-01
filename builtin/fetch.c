@@ -5,6 +5,7 @@ DECL|function|add_existing
 DECL|function|add_merge_config
 DECL|function|add_options_to_argv
 DECL|function|add_remote_or_group
+DECL|function|check_everything_connected
 DECL|function|check_not_current_branch
 DECL|function|cmd_fetch
 DECL|function|do_fetch
