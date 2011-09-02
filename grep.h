@@ -51,6 +51,7 @@ DECL|member|hit
 DECL|member|ignore_case
 DECL|member|ignore_case
 DECL|member|invert
+DECL|member|kws
 DECL|member|last_shown
 DECL|member|left
 DECL|member|linenum

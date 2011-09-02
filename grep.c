@@ -25,6 +25,7 @@ DECL|function|grep_opt_dup
 DECL|function|grep_or_expr
 DECL|function|grep_threads_ok
 DECL|function|grep_true_expr
+DECL|function|is_fixed
 DECL|function|look_ahead
 DECL|function|match_expr
 DECL|function|match_expr_eval
