@@ -12,5 +12,6 @@ DECL|function|string_list_has_string
 DECL|function|string_list_insert
 DECL|function|string_list_insert_at_index
 DECL|function|string_list_lookup
+DECL|function|unsorted_string_list_delete_item
 DECL|function|unsorted_string_list_has_string
 DECL|function|unsorted_string_list_lookup
