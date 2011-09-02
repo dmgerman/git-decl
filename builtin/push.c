@@ -1,6 +1,7 @@
 DECL|function|add_refspec
 DECL|function|cmd_push
 DECL|function|do_push
+DECL|function|option_parse_recurse_submodules
 DECL|function|push_with_options
 DECL|function|set_refspecs
 DECL|function|setup_default_push_refspecs
