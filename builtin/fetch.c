@@ -5,7 +5,6 @@ DECL|function|add_existing
 DECL|function|add_merge_config
 DECL|function|add_options_to_argv
 DECL|function|add_remote_or_group
-DECL|function|check_everything_connected
 DECL|function|check_not_current_branch
 DECL|function|cmd_fetch
 DECL|function|do_fetch
@@ -34,7 +33,6 @@ DECL|macro|STORE_REF_ERROR_OTHER
 DECL|member|list
 DECL|member|name
 DECL|struct|remote_group_data
-DECL|typedef|sha1_iterate_fn
 DECL|variable|all
 DECL|variable|append
 DECL|variable|builtin_fetch_options
