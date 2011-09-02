@@ -16,6 +16,7 @@ DECL|function|find_non_local_tags
 DECL|function|get_one_remote_for_fetch
 DECL|function|get_ref_map
 DECL|function|get_remote_group
+DECL|function|iterate_ref_map
 DECL|function|option_parse_recurse_submodules
 DECL|function|prune_refs
 DECL|function|quickfetch
@@ -33,6 +34,7 @@ DECL|macro|STORE_REF_ERROR_OTHER
 DECL|member|list
 DECL|member|name
 DECL|struct|remote_group_data
+DECL|typedef|sha1_iterate_fn
 DECL|variable|all
 DECL|variable|append
 DECL|variable|builtin_fetch_options
