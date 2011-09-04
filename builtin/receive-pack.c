@@ -52,6 +52,7 @@ DECL|variable|refuse_unconfigured_deny_delete_current_msg
 DECL|variable|refuse_unconfigured_deny_msg
 DECL|variable|report_status
 DECL|variable|sent_capabilities
+DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|update_post_hook

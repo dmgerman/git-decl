@@ -42,6 +42,7 @@ DECL|variable|multi_ack
 DECL|variable|non_common_revs
 DECL|variable|prefer_ofs_delta
 DECL|variable|rev_list
+DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|use_sideband
