@@ -8,6 +8,7 @@ DECL|function|copy_advance
 DECL|function|copy_email
 DECL|function|copy_line
 DECL|function|copy_name
+DECL|function|copy_subject
 DECL|function|default_sort
 DECL|function|emit
 DECL|function|fill_missing_values
