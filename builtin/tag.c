@@ -11,7 +11,6 @@ DECL|function|in_commit_list
 DECL|function|list_tags
 DECL|function|match_pattern
 DECL|function|parse_msg_arg
-DECL|function|set_signingkey
 DECL|function|show_reference
 DECL|function|strbuf_check_tag_ref
 DECL|function|verify_tag
@@ -25,5 +24,4 @@ DECL|struct|msg_arg
 DECL|struct|tag_filter
 DECL|typedef|each_tag_name_fn
 DECL|variable|git_tag_usage
-DECL|variable|signingkey
 DECL|variable|tag_template
