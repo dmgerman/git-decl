@@ -42,7 +42,7 @@ DECL|function|make_rewrite
 DECL|function|match_explicit
 DECL|function|match_explicit_refs
 DECL|function|match_name_with_pattern
-DECL|function|match_refs
+DECL|function|match_push_refs
 DECL|function|one_local_ref
 DECL|function|parse_fetch_refspec
 DECL|function|parse_push_refspec
