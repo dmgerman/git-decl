@@ -1,5 +1,3 @@
-DECL|function|argv_array_push
-DECL|function|argv_array_push_sha1
 DECL|function|best_bisection
 DECL|function|best_bisection_sorted
 DECL|function|bisect_checkout
@@ -40,12 +38,8 @@ DECL|macro|COUNTED
 DECL|macro|DEBUG_BISECT
 DECL|macro|PRN_MODULO
 DECL|macro|show_list
-DECL|member|argv
-DECL|member|argv_alloc
-DECL|member|argv_nr
 DECL|member|commit
 DECL|member|distance
-DECL|struct|argv_array
 DECL|struct|commit_dist
 DECL|variable|argv_checkout
 DECL|variable|argv_show_branch
