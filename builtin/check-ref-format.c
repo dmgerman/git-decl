@@ -1,5 +1,4 @@
 DECL|function|check_ref_format_branch
 DECL|function|cmd_check_ref_format
 DECL|function|collapse_slashes
-DECL|function|refname_format_print
 DECL|variable|builtin_check_ref_format_usage
