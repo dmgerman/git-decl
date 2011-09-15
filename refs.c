@@ -1,6 +1,7 @@
 DECL|function|add_extra_ref
 DECL|function|add_ref
 DECL|function|bad_ref_char
+DECL|function|check_refname_component
 DECL|function|check_refname_format
 DECL|function|clear_extra_refs
 DECL|function|close_ref
