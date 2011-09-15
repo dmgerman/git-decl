@@ -36,6 +36,7 @@ DECL|function|for_each_tag_ref_submodule
 DECL|function|free_ref_list
 DECL|function|gen_scanf_fmt
 DECL|function|get_loose_refs
+DECL|function|get_packed_ref
 DECL|function|get_packed_refs
 DECL|function|get_ref_dir
 DECL|function|head_ref
