@@ -4,6 +4,7 @@ DECL|enumerator|QUIET_ON_ERR
 DECL|enum|action_on_err
 DECL|function|has_glob_specials
 DECL|macro|REFNAME_ALLOW_ONELEVEL
+DECL|macro|REFNAME_DOT_COMPONENT
 DECL|macro|REFNAME_REFSPEC_PATTERN
 DECL|macro|REFS_H
 DECL|macro|REF_ISPACKED
