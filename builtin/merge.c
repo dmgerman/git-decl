@@ -54,7 +54,6 @@ DECL|variable|builtin_merge_usage
 DECL|variable|default_to_upstream
 DECL|variable|fast_forward_only
 DECL|variable|have_message
-DECL|variable|head
 DECL|variable|merge_msg
 DECL|variable|option_commit
 DECL|variable|option_renormalize
