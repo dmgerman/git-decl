@@ -1,7 +1,7 @@
 DECL|enumerator|OPTION_ARGUMENT
 DECL|enumerator|OPTION_BIT
-DECL|enumerator|OPTION_BOOLEAN
 DECL|enumerator|OPTION_CALLBACK
+DECL|enumerator|OPTION_COUNTUP
 DECL|enumerator|OPTION_END
 DECL|enumerator|OPTION_FILENAME
 DECL|enumerator|OPTION_GROUP
@@ -33,11 +33,14 @@ DECL|enumerator|PARSE_OPT_UNKNOWN
 DECL|enum|parse_opt_flags
 DECL|enum|parse_opt_option_flags
 DECL|enum|parse_opt_type
+DECL|macro|OPTION_BOOLEAN
 DECL|macro|OPT_ARGUMENT
 DECL|macro|OPT_BIT
+DECL|macro|OPT_BOOL
 DECL|macro|OPT_BOOLEAN
 DECL|macro|OPT_CALLBACK
 DECL|macro|OPT_COLOR_FLAG
+DECL|macro|OPT_COUNTUP
 DECL|macro|OPT_DATE
 DECL|macro|OPT_END
 DECL|macro|OPT_FILENAME
