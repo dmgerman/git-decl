@@ -31,6 +31,7 @@ DECL|function|show_ref_cb
 DECL|function|unpack
 DECL|function|update
 DECL|function|write_head_info
+DECL|member|did_not_exist
 DECL|member|error_string
 DECL|member|new_sha1
 DECL|member|next
