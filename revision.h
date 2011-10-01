@@ -60,6 +60,7 @@ DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
 DECL|member|ignore_missing
+DECL|member|leak_pending
 DECL|member|left_only
 DECL|member|left_right
 DECL|member|lifo
