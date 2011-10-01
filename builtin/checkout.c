@@ -1,5 +1,4 @@
-DECL|function|add_one_ref_to_rev_list_arg
-DECL|function|add_one_rev_list_arg
+DECL|function|add_pending_uninteresting_ref
 DECL|function|check_all_stages
 DECL|function|check_stage
 DECL|function|check_tracking_name
@@ -29,9 +28,6 @@ DECL|function|unique_tracking_name
 DECL|function|update_refs_for_switch
 DECL|function|update_some
 DECL|macro|ORPHAN_CUTOFF
-DECL|member|alloc
-DECL|member|argc
-DECL|member|argv
 DECL|member|branch_exists
 DECL|member|commit
 DECL|member|diff_options
@@ -53,6 +49,5 @@ DECL|member|writeout_error
 DECL|member|writeout_stage
 DECL|struct|branch_info
 DECL|struct|checkout_opts
-DECL|struct|rev_list_args
 DECL|struct|tracking_name_data
 DECL|variable|checkout_usage
