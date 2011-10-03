@@ -1,3 +1,5 @@
+DECL|function|add_domainname
+DECL|function|add_mailname_host
 DECL|function|add_raw
 DECL|function|copy
 DECL|function|copy_email
