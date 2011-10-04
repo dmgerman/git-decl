@@ -10,6 +10,7 @@ DECL|function|log_tree_commit
 DECL|function|log_tree_diff
 DECL|function|log_tree_diff_flush
 DECL|function|log_write_email_headers
+DECL|function|show_children
 DECL|function|show_decorations
 DECL|function|show_log
 DECL|function|show_parents
