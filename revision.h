@@ -133,6 +133,7 @@ DECL|member|unpacked
 DECL|member|up
 DECL|member|use_terminator
 DECL|member|verbose_header
+DECL|member|verify_objects
 DECL|member|whence
 DECL|struct|name_path
 DECL|struct|rev_cmdline_entry
