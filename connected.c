@@ -1,0 +1,1 @@
+DECL|function|check_everything_connected

@@ -5,7 +5,6 @@ DECL|function|add_existing
 DECL|function|add_merge_config
 DECL|function|add_options_to_argv
 DECL|function|add_remote_or_group
-DECL|function|check_everything_connected
 DECL|function|check_not_current_branch
 DECL|function|cmd_fetch
 DECL|function|do_fetch
@@ -16,6 +15,7 @@ DECL|function|find_non_local_tags
 DECL|function|get_one_remote_for_fetch
 DECL|function|get_ref_map
 DECL|function|get_remote_group
+DECL|function|iterate_ref_map
 DECL|function|option_parse_recurse_submodules
 DECL|function|prune_refs
 DECL|function|quickfetch

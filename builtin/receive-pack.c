@@ -9,10 +9,12 @@ DECL|function|check_aliased_update
 DECL|function|check_aliased_updates
 DECL|function|cmd_receive_pack
 DECL|function|collect_one_alternate_ref
+DECL|function|command_singleton_iterator
 DECL|function|copy_to_sideband
 DECL|function|delete_only
 DECL|function|execute_commands
 DECL|function|is_ref_checked_out
+DECL|function|iterate_receive_command_list
 DECL|function|parse_deny_action
 DECL|function|parse_pack_header
 DECL|function|read_head_info
@@ -26,6 +28,7 @@ DECL|function|rp_warning
 DECL|function|run_receive_hook
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
+DECL|function|set_connectivity_errors
 DECL|function|show_ref
 DECL|function|show_ref_cb
 DECL|function|unpack
