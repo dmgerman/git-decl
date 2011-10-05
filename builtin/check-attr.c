@@ -4,6 +4,7 @@ DECL|function|cmd_check_attr
 DECL|function|error_with_usage
 DECL|function|output_attr
 DECL|variable|all_attrs
+DECL|variable|cached_attrs
 DECL|variable|check_attr_options
 DECL|variable|check_attr_usage
 DECL|variable|null_term_line
