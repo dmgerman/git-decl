@@ -45,6 +45,7 @@ DECL|member|use_pack_protocol
 DECL|struct|write_shallow_data
 DECL|variable|args
 DECL|variable|complete
+DECL|variable|fetch_fsck_objects
 DECL|variable|fetch_pack_usage
 DECL|variable|fetch_unpack_limit
 DECL|variable|lock
@@ -54,6 +55,7 @@ DECL|variable|no_done
 DECL|variable|non_common_revs
 DECL|variable|prefer_ofs_delta
 DECL|variable|rev_list
+DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
 DECL|variable|use_sideband
