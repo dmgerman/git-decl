@@ -24,7 +24,9 @@ DECL|function|git_config_pathname
 DECL|function|git_config_push_parameter
 DECL|function|git_config_rename_section
 DECL|function|git_config_set
+DECL|function|git_config_set_in_file
 DECL|function|git_config_set_multivar
+DECL|function|git_config_set_multivar_in_file
 DECL|function|git_config_string
 DECL|function|git_config_system
 DECL|function|git_config_ulong

@@ -1,4 +1,6 @@
+DECL|function|advise
 DECL|function|die_resolve_conflict
+DECL|function|error_resolve_conflict
 DECL|function|git_default_advice_config
 DECL|member|name
 DECL|member|preference
