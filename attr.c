@@ -8,7 +8,6 @@ DECL|function|fill_one
 DECL|function|free_attr_elem
 DECL|function|git_all_attrs
 DECL|function|git_attr
-DECL|function|git_attr_config
 DECL|function|git_attr_internal
 DECL|function|git_attr_name
 DECL|function|git_attr_set_direction
@@ -63,7 +62,6 @@ DECL|struct|git_attr
 DECL|struct|match_attr
 DECL|variable|attr_nr
 DECL|variable|attr_stack
-DECL|variable|attributes_file
 DECL|variable|blank
 DECL|variable|builtin_attr
 DECL|variable|check_all_attr
