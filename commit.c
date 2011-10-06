@@ -10,6 +10,7 @@ DECL|function|commit_list_insert_by_date
 DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
 DECL|function|commit_tree_extended
+DECL|function|do_sign_commit
 DECL|function|find_commit_subject
 DECL|function|for_each_commit_graft
 DECL|function|free_commit_extra_headers
@@ -54,4 +55,6 @@ DECL|variable|commit_graft_alloc
 DECL|variable|commit_graft_nr
 DECL|variable|commit_type
 DECL|variable|commit_utf8_warn
+DECL|variable|gpg_sig_header
+DECL|variable|gpg_sig_header_len
 DECL|variable|save_commit_buffer
