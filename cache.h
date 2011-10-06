@@ -282,6 +282,7 @@ DECL|member|ctime
 DECL|member|deletion
 DECL|member|dev
 DECL|member|dev
+DECL|member|dir_next
 DECL|member|do_not_close
 DECL|member|fd
 DECL|member|filename
