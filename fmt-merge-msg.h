@@ -1,0 +1,1 @@
+DECL|macro|FMT_MERGE_MSG_H

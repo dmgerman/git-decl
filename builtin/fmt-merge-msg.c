@@ -1,3 +1,4 @@
+DECL|function|add_branch_desc
 DECL|function|cmd_fmt_merge_msg
 DECL|function|do_fmt_merge_msg
 DECL|function|do_fmt_merge_msg_title
@@ -10,10 +11,13 @@ DECL|function|shortlog
 DECL|member|branch
 DECL|member|generic
 DECL|member|head_status
+DECL|member|is_local_branch
 DECL|member|r_branch
+DECL|member|sha1
 DECL|member|tag
+DECL|struct|origin_data
 DECL|struct|src_data
 DECL|variable|fmt_merge_msg_usage
 DECL|variable|origins
-DECL|variable|shortlog_len
 DECL|variable|srcs
+DECL|variable|use_branch_desc
