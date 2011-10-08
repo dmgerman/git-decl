@@ -1,3 +1,4 @@
+DECL|function|abort_commit
 DECL|function|add_strategies
 DECL|function|append_strategy
 DECL|function|checkout_fast_forward
@@ -20,12 +21,12 @@ DECL|function|option_parse_n
 DECL|function|option_parse_strategy
 DECL|function|option_parse_x
 DECL|function|parse_branch_merge_options
+DECL|function|prepare_to_commit
 DECL|function|read_empty
 DECL|function|read_merge_msg
 DECL|function|read_tree_trivial
 DECL|function|reset_hard
 DECL|function|restore_state
-DECL|function|run_prepare_commit_msg
 DECL|function|save_state
 DECL|function|setup_with_upstream
 DECL|function|split_merge_strategies
@@ -34,6 +35,7 @@ DECL|function|suggest_conflicts
 DECL|function|try_merge_command
 DECL|function|try_merge_strategy
 DECL|function|write_merge_msg
+DECL|function|write_merge_state
 DECL|function|write_tree_trivial
 DECL|macro|DEFAULT_OCTOPUS
 DECL|macro|DEFAULT_TWOHEAD
@@ -57,6 +59,7 @@ DECL|variable|have_message
 DECL|variable|head
 DECL|variable|merge_msg
 DECL|variable|option_commit
+DECL|variable|option_edit
 DECL|variable|option_renormalize
 DECL|variable|pull_octopus
 DECL|variable|pull_twohead
