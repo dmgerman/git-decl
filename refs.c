@@ -35,7 +35,7 @@ DECL|function|for_each_remote_ref_submodule
 DECL|function|for_each_replace_ref
 DECL|function|for_each_tag_ref
 DECL|function|for_each_tag_ref_submodule
-DECL|function|free_ref_list
+DECL|function|free_ref_array
 DECL|function|gen_scanf_fmt
 DECL|function|get_cached_refs
 DECL|function|get_loose_refs
@@ -59,6 +59,7 @@ DECL|function|prettify_refname
 DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
+DECL|function|ref_entry_cmp
 DECL|function|ref_exists
 DECL|function|ref_msg
 DECL|function|refname_match
@@ -69,8 +70,9 @@ DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref
+DECL|function|search_ref_array
 DECL|function|shorten_unambiguous_ref
-DECL|function|sort_ref_list
+DECL|function|sort_ref_array
 DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|verify_lock
@@ -83,6 +85,7 @@ DECL|macro|MAXREFLEN
 DECL|macro|REF_BROKEN
 DECL|macro|REF_KNOWS_PEELED
 DECL|macro|TMP_RENAMED_LOG
+DECL|member|alloc
 DECL|member|cb_data
 DECL|member|did_loose
 DECL|member|did_packed
@@ -94,15 +97,17 @@ DECL|member|msg_fmt
 DECL|member|name
 DECL|member|name
 DECL|member|next
-DECL|member|next
+DECL|member|nr
 DECL|member|packed
 DECL|member|pattern
 DECL|member|peeled
 DECL|member|refname
+DECL|member|refs
 DECL|member|sha1
 DECL|struct|cached_refs
+DECL|struct|ref_array
+DECL|struct|ref_entry
 DECL|struct|ref_filter
-DECL|struct|ref_list
 DECL|struct|warn_if_dangling_data
 DECL|variable|cached_refs
 DECL|variable|current_ref
