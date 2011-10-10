@@ -2,10 +2,12 @@ DECL|function|add_extra_ref
 DECL|function|add_ref
 DECL|function|bad_ref_char
 DECL|function|check_ref_format
+DECL|function|clear_cached_refs
 DECL|function|clear_extra_refs
 DECL|function|close_ref
 DECL|function|commit_ref
 DECL|function|copy_msg
+DECL|function|create_cached_refs
 DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|do_for_each_ref
@@ -34,6 +36,7 @@ DECL|function|for_each_tag_ref
 DECL|function|for_each_tag_ref_submodule
 DECL|function|free_ref_list
 DECL|function|gen_scanf_fmt
+DECL|function|get_cached_refs
 DECL|function|get_loose_refs
 DECL|function|get_packed_refs
 DECL|function|get_ref_dir
@@ -87,6 +90,8 @@ DECL|member|fp
 DECL|member|loose
 DECL|member|msg_fmt
 DECL|member|name
+DECL|member|name
+DECL|member|next
 DECL|member|next
 DECL|member|packed
 DECL|member|pattern
@@ -103,4 +108,3 @@ DECL|variable|extra_refs
 DECL|variable|packlock
 DECL|variable|ref_fetch_rules
 DECL|variable|ref_rev_parse_rules
-DECL|variable|submodule_refs
