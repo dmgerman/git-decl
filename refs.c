@@ -1,7 +1,8 @@
 DECL|function|add_extra_ref
 DECL|function|add_ref
 DECL|function|bad_ref_char
-DECL|function|check_ref_format
+DECL|function|check_refname_component
+DECL|function|check_refname_format
 DECL|function|clear_cached_refs
 DECL|function|clear_extra_refs
 DECL|function|close_ref
@@ -38,6 +39,7 @@ DECL|function|free_ref_list
 DECL|function|gen_scanf_fmt
 DECL|function|get_cached_refs
 DECL|function|get_loose_refs
+DECL|function|get_packed_ref
 DECL|function|get_packed_refs
 DECL|function|get_ref_dir
 DECL|function|head_ref
