@@ -13,6 +13,8 @@ DECL|function|do_for_each_ref
 DECL|function|do_for_each_reflog
 DECL|function|do_head_ref
 DECL|function|do_one_ref
+DECL|function|dwim_log
+DECL|function|dwim_ref
 DECL|function|filter_refs
 DECL|function|find_ref_by_name
 DECL|function|for_each_branch_ref
@@ -68,6 +70,7 @@ DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref
 DECL|function|shorten_unambiguous_ref
 DECL|function|sort_ref_list
+DECL|function|substitute_branch_name
 DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|verify_lock
