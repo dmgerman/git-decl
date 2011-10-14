@@ -55,7 +55,6 @@ DECL|variable|builtin_merge_usage
 DECL|variable|default_to_upstream
 DECL|variable|fast_forward_only
 DECL|variable|have_message
-DECL|variable|head
 DECL|variable|merge_msg
 DECL|variable|option_commit
 DECL|variable|option_renormalize
@@ -66,7 +65,6 @@ DECL|variable|shortlog_len
 DECL|variable|show_diffstat
 DECL|variable|show_progress
 DECL|variable|squash
-DECL|variable|stash
 DECL|variable|use_strategies
 DECL|variable|use_strategies_alloc
 DECL|variable|use_strategies_nr
