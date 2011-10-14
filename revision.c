@@ -13,6 +13,7 @@ DECL|function|add_parents_to_list
 DECL|function|add_pending_commit_list
 DECL|function|add_pending_object
 DECL|function|add_pending_object_with_mode
+DECL|function|add_pending_sha1
 DECL|function|add_rev_cmdline
 DECL|function|append_prune_data
 DECL|function|cherry_pick_list

@@ -1,11 +1,10 @@
-DECL|function|add_one_ref_to_rev_list_arg
+DECL|function|add_pending_uninteresting_ref
 DECL|function|check_all_stages
 DECL|function|check_stage
 DECL|function|check_tracking_name
 DECL|function|checkout_merged
 DECL|function|checkout_paths
 DECL|function|checkout_stage
-DECL|function|clear_commit_marks_from_one_ref
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
 DECL|function|describe_one_orphan
