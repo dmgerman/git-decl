@@ -16,6 +16,7 @@ DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
 DECL|function|get_curl_handle
 DECL|function|get_remote_object_url
+DECL|function|git_getpass_with_description
 DECL|function|has_cert_password
 DECL|function|hex
 DECL|function|http_auth_init
@@ -68,6 +69,7 @@ DECL|variable|curl_session_count
 DECL|variable|curl_ssl_verify
 DECL|variable|curlm
 DECL|variable|data_received
+DECL|variable|description
 DECL|variable|fill_cfg
 DECL|variable|http_is_verbose
 DECL|variable|http_post_buffer
