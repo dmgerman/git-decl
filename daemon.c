@@ -12,6 +12,7 @@ DECL|function|enable_service
 DECL|function|execute
 DECL|function|git_daemon_config
 DECL|function|handle
+DECL|function|ip2str
 DECL|function|kill_some_child
 DECL|function|logerror
 DECL|function|loginfo
