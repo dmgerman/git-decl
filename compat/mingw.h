@@ -75,6 +75,7 @@ DECL|macro|getaddrinfo
 DECL|macro|getcwd
 DECL|macro|getenv
 DECL|macro|gethostbyname
+DECL|macro|gethostname
 DECL|macro|getnameinfo
 DECL|macro|getpagesize
 DECL|macro|has_dos_drive_prefix

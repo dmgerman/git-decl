@@ -42,6 +42,7 @@ DECL|function|mingw_getaddrinfo
 DECL|function|mingw_getcwd
 DECL|function|mingw_getenv
 DECL|function|mingw_gethostbyname
+DECL|function|mingw_gethostname
 DECL|function|mingw_getnameinfo
 DECL|function|mingw_getpagesize
 DECL|function|mingw_kill
@@ -87,6 +88,7 @@ DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|getenv
 DECL|macro|gethostbyname
+DECL|macro|gethostname
 DECL|macro|listen
 DECL|macro|open
 DECL|macro|rename
