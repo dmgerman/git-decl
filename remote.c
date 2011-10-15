@@ -75,8 +75,9 @@ DECL|member|instead_of
 DECL|member|instead_of_alloc
 DECL|member|instead_of_nr
 DECL|member|len
+DECL|member|ref_count
 DECL|member|ref_names
-DECL|member|remote
+DECL|member|refs
 DECL|member|rewrite
 DECL|member|rewrite_alloc
 DECL|member|rewrite_nr
