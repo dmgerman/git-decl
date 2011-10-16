@@ -13,6 +13,7 @@ DECL|function|make_traverse_path
 DECL|function|match_dir_prefix
 DECL|function|match_entry
 DECL|function|name_compare
+DECL|function|prune_traversal
 DECL|function|setup_traverse_info
 DECL|function|traverse_trees
 DECL|function|tree_entry

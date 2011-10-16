@@ -11,6 +11,7 @@ DECL|member|mode
 DECL|member|name
 DECL|member|path
 DECL|member|pathlen
+DECL|member|pathspec
 DECL|member|prev
 DECL|member|sha1
 DECL|member|show_all_errors
