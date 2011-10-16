@@ -1,4 +1,5 @@
 DECL|macro|BUNDLE_H
+DECL|macro|BUNDLE_VERBOSE
 DECL|member|alloc
 DECL|member|list
 DECL|member|name
