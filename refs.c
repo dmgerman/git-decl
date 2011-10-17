@@ -6,7 +6,6 @@ DECL|function|check_refname_format
 DECL|function|clear_extra_refs
 DECL|function|clear_loose_ref_cache
 DECL|function|clear_packed_ref_cache
-DECL|function|clear_ref_cache
 DECL|function|close_ref
 DECL|function|commit_ref
 DECL|function|copy_msg
