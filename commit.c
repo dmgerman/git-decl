@@ -33,6 +33,7 @@ DECL|function|merge_bases_many
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
+DECL|function|parse_signed_commit
 DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
 DECL|function|prepare_commit_graft
