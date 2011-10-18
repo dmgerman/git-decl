@@ -38,11 +38,13 @@ DECL|function|update
 DECL|function|write_head_info
 DECL|member|buf
 DECL|member|cmd
+DECL|member|did_not_exist
 DECL|member|error_string
 DECL|member|new_sha1
 DECL|member|next
 DECL|member|old_sha1
 DECL|member|ref_name
+DECL|member|skip_broken
 DECL|member|skip_update
 DECL|struct|command
 DECL|struct|receive_hook_feed_state
