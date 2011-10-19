@@ -22,6 +22,7 @@ DECL|function|log_tree_diff_flush
 DECL|function|log_write_email_headers
 DECL|function|parse_decorate_color_config
 DECL|function|parse_decorate_color_slot
+DECL|function|show_children
 DECL|function|show_decorations
 DECL|function|show_log
 DECL|function|show_parents
