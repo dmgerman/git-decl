@@ -16,6 +16,8 @@ DECL|function|do_for_each_ref
 DECL|function|do_for_each_reflog
 DECL|function|do_head_ref
 DECL|function|do_one_ref
+DECL|function|dwim_log
+DECL|function|dwim_ref
 DECL|function|filter_refs
 DECL|function|find_ref_by_name
 DECL|function|for_each_branch_ref
@@ -74,6 +76,7 @@ DECL|function|resolve_ref
 DECL|function|search_ref_array
 DECL|function|shorten_unambiguous_ref
 DECL|function|sort_ref_array
+DECL|function|substitute_branch_name
 DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|verify_lock
@@ -83,7 +86,6 @@ DECL|function|write_ref_sha1
 DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
 DECL|macro|MAXREFLEN
-DECL|macro|REF_BROKEN
 DECL|macro|REF_KNOWS_PEELED
 DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc

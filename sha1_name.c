@@ -1,8 +1,6 @@
 DECL|function|ambiguous_path
 DECL|function|diagnose_invalid_index_path
 DECL|function|diagnose_invalid_sha1_path
-DECL|function|dwim_log
-DECL|function|dwim_ref
 DECL|function|find_short_object_filename
 DECL|function|find_short_packed_object
 DECL|function|find_unique_abbrev
@@ -28,7 +26,6 @@ DECL|function|peel_to_type
 DECL|function|resolve_relative_path
 DECL|function|strbuf_branchname
 DECL|function|strbuf_check_branch_ref
-DECL|function|substitute_branch_name
 DECL|function|upstream_mark
 DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
