@@ -4,6 +4,7 @@ DECL|function|check_dead_children
 DECL|function|child_handler
 DECL|function|copy_to_log
 DECL|function|daemon_die
+DECL|function|daemon_error
 DECL|function|daemonize
 DECL|function|daemonize
 DECL|function|drop_privileges
@@ -68,6 +69,7 @@ DECL|variable|daemon_usage
 DECL|variable|export_all_trees
 DECL|variable|firstborn
 DECL|variable|hostname
+DECL|variable|informative_errors
 DECL|variable|init_timeout
 DECL|variable|interpolated_path
 DECL|variable|ip_address
