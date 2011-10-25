@@ -35,6 +35,7 @@ DECL|function|wait_all
 DECL|function|work_done
 DECL|macro|THREADS
 DECL|macro|TODO_SIZE
+DECL|macro|WHEN_THREADED
 DECL|macro|grep_lock
 DECL|macro|grep_unlock
 DECL|macro|read_sha1_lock
