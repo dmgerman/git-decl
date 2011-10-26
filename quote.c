@@ -10,6 +10,8 @@ DECL|function|quote_two_c_style
 DECL|function|sq_dequote
 DECL|function|sq_dequote_step
 DECL|function|sq_dequote_to_argv
+DECL|function|sq_dequote_to_argv_array
+DECL|function|sq_dequote_to_argv_internal
 DECL|function|sq_must_quote
 DECL|function|sq_quote_argv
 DECL|function|sq_quote_buf
