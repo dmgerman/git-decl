@@ -12,6 +12,7 @@ DECL|function|collect_one_alternate_ref
 DECL|function|copy_to_sideband
 DECL|function|delete_only
 DECL|function|execute_commands
+DECL|function|feed_receive_hook
 DECL|function|is_ref_checked_out
 DECL|function|parse_deny_action
 DECL|function|parse_pack_header
@@ -23,6 +24,7 @@ DECL|function|report
 DECL|function|report_message
 DECL|function|rp_error
 DECL|function|rp_warning
+DECL|function|run_and_feed_hook
 DECL|function|run_receive_hook
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
@@ -31,6 +33,8 @@ DECL|function|show_ref_cb
 DECL|function|unpack
 DECL|function|update
 DECL|function|write_head_info
+DECL|member|buf
+DECL|member|cmd
 DECL|member|error_string
 DECL|member|new_sha1
 DECL|member|next
@@ -38,6 +42,8 @@ DECL|member|old_sha1
 DECL|member|ref_name
 DECL|member|skip_update
 DECL|struct|command
+DECL|struct|receive_hook_feed_state
+DECL|typedef|feed_fn
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
 DECL|variable|deny_current_branch
