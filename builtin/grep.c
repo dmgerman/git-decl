@@ -14,11 +14,13 @@ DECL|function|grep_config
 DECL|function|grep_directory
 DECL|function|grep_file
 DECL|function|grep_file_async
+DECL|function|grep_lock
 DECL|function|grep_object
 DECL|function|grep_objects
 DECL|function|grep_sha1
 DECL|function|grep_sha1_async
 DECL|function|grep_tree
+DECL|function|grep_unlock
 DECL|function|help_callback
 DECL|function|load_file
 DECL|function|load_sha1
@@ -26,6 +28,8 @@ DECL|function|lock_and_read_sha1_file
 DECL|function|not_callback
 DECL|function|open_callback
 DECL|function|pattern_callback
+DECL|function|read_sha1_lock
+DECL|function|read_sha1_unlock
 DECL|function|run
 DECL|function|run_pager
 DECL|function|start_threads
@@ -35,11 +39,7 @@ DECL|function|wait_all
 DECL|function|work_done
 DECL|macro|THREADS
 DECL|macro|TODO_SIZE
-DECL|macro|grep_lock
-DECL|macro|grep_unlock
 DECL|macro|read_sha1_lock
-DECL|macro|read_sha1_lock
-DECL|macro|read_sha1_unlock
 DECL|macro|read_sha1_unlock
 DECL|member|done
 DECL|member|identifier
