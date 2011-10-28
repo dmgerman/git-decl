@@ -1,4 +1,5 @@
 DECL|function|git_deflate
+DECL|function|git_deflate_abort
 DECL|function|git_deflate_bound
 DECL|function|git_deflate_end
 DECL|function|git_deflate_end_gently
