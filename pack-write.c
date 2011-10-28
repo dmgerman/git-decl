@@ -6,3 +6,4 @@ DECL|function|need_large_offset
 DECL|function|reset_pack_idx_option
 DECL|function|sha1_compare
 DECL|function|write_idx_file
+DECL|function|write_pack_header
