@@ -1,6 +1,7 @@
 DECL|function|cmp_uint32
 DECL|function|create_tmp_packfile
 DECL|function|encode_in_pack_object_header
+DECL|function|finish_tmp_packfile
 DECL|function|fixup_pack_header_footer
 DECL|function|index_pack_lockfile
 DECL|function|need_large_offset
