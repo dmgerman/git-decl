@@ -33,6 +33,7 @@ DECL|variable|delta_base_cache_limit
 DECL|variable|editor_program
 DECL|variable|excludes_file
 DECL|variable|fsync_object_files
+DECL|variable|git_attributes_file
 DECL|variable|git_branch_track
 DECL|variable|git_commit_encoding
 DECL|variable|git_default_email
