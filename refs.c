@@ -113,5 +113,4 @@ DECL|variable|cached_refs
 DECL|variable|current_ref
 DECL|variable|extra_refs
 DECL|variable|packlock
-DECL|variable|ref_fetch_rules
 DECL|variable|ref_rev_parse_rules
