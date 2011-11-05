@@ -1,7 +1,9 @@
 DECL|function|cmd_fmt_merge_msg
 DECL|function|fmt_merge_msg
 DECL|function|fmt_merge_msg_config
+DECL|function|fmt_merge_msg_sigs
 DECL|function|fmt_merge_msg_title
+DECL|function|fmt_tag_signature
 DECL|function|handle_line
 DECL|function|init_src_data
 DECL|function|print_joined
