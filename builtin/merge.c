@@ -34,7 +34,6 @@ DECL|function|squash_message
 DECL|function|suggest_conflicts
 DECL|function|try_merge_command
 DECL|function|try_merge_strategy
-DECL|function|want_commit
 DECL|function|write_merge_msg
 DECL|function|write_merge_state
 DECL|function|write_tree_trivial

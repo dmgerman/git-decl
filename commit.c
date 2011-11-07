@@ -12,6 +12,7 @@ DECL|function|for_each_commit_graft
 DECL|function|free_commit_list
 DECL|function|get_merge_bases
 DECL|function|get_merge_bases_many
+DECL|function|get_merge_parent
 DECL|function|get_octopus_merge_bases
 DECL|function|in_merge_bases
 DECL|function|interesting

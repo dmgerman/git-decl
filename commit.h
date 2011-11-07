@@ -11,6 +11,7 @@ DECL|enumerator|CMIT_FMT_USERFORMAT
 DECL|enum|cmit_fmt
 DECL|function|single_parent
 DECL|macro|COMMIT_H
+DECL|macro|merge_remote_util
 DECL|member|abbrev
 DECL|member|after_subject
 DECL|member|buffer
@@ -20,11 +21,13 @@ DECL|member|fmt
 DECL|member|indegree
 DECL|member|item
 DECL|member|name
+DECL|member|name
 DECL|member|need_8bit_cte
 DECL|member|next
 DECL|member|next
 DECL|member|notes
 DECL|member|nr_parent
+DECL|member|obj
 DECL|member|object
 DECL|member|output_encoding
 DECL|member|parent
@@ -40,6 +43,7 @@ DECL|member|util
 DECL|struct|commit
 DECL|struct|commit_graft
 DECL|struct|commit_list
+DECL|struct|merge_remote_desc
 DECL|struct|name_decoration
 DECL|struct|pretty_print_context
 DECL|struct|userformat_want
