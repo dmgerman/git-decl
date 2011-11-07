@@ -54,6 +54,7 @@ DECL|variable|include_reflogs
 DECL|variable|keep_cache_objects
 DECL|variable|pending
 DECL|variable|sha1_list
+DECL|variable|show_progress
 DECL|variable|show_root
 DECL|variable|show_tags
 DECL|variable|show_unreachable
