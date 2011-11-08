@@ -9,4 +9,8 @@ DECL|function|process_blob
 DECL|function|process_gitlink
 DECL|function|process_tag
 DECL|function|process_tree
+DECL|function|update_progress
 DECL|function|walk_commit_list
+DECL|member|count
+DECL|member|progress
+DECL|struct|connectivity_progress
