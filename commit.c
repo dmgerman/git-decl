@@ -35,11 +35,14 @@ DECL|function|parse_commit_date
 DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
 DECL|function|prepare_commit_graft
+DECL|function|read_commit_extra_header_lines
+DECL|function|read_commit_extra_headers
 DECL|function|read_graft_file
 DECL|function|read_graft_line
 DECL|function|reduce_heads
 DECL|function|register_commit_graft
 DECL|function|sort_in_topological_order
+DECL|function|standard_header_field
 DECL|function|unregister_shallow
 DECL|macro|PARENT1
 DECL|macro|PARENT2
