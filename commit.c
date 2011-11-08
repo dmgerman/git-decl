@@ -1,3 +1,5 @@
+DECL|function|add_extra_header
+DECL|function|append_merge_tag_headers
 DECL|function|check_commit
 DECL|function|clear_commit_marks
 DECL|function|clear_commit_marks_for_object_array
@@ -7,13 +9,16 @@ DECL|function|commit_list_insert
 DECL|function|commit_list_insert_by_date
 DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
+DECL|function|commit_tree_extended
 DECL|function|find_commit_subject
 DECL|function|for_each_commit_graft
+DECL|function|free_commit_extra_headers
 DECL|function|free_commit_list
 DECL|function|get_merge_bases
 DECL|function|get_merge_bases_many
 DECL|function|get_merge_parent
 DECL|function|get_octopus_merge_bases
+DECL|function|handle_signed_tag
 DECL|function|in_merge_bases
 DECL|function|interesting
 DECL|function|is_descendant_of

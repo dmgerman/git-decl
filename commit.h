@@ -20,9 +20,12 @@ DECL|member|date_mode
 DECL|member|fmt
 DECL|member|indegree
 DECL|member|item
+DECL|member|key
+DECL|member|len
 DECL|member|name
 DECL|member|name
 DECL|member|need_8bit_cte
+DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|notes
@@ -40,7 +43,9 @@ DECL|member|subject
 DECL|member|tree
 DECL|member|type
 DECL|member|util
+DECL|member|value
 DECL|struct|commit
+DECL|struct|commit_extra_header
 DECL|struct|commit_graft
 DECL|struct|commit_list
 DECL|struct|merge_remote_desc
