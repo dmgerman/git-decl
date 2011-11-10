@@ -1,4 +1,7 @@
 DECL|macro|CACHE_TREE_H
+DECL|macro|WRITE_TREE_PREFIX_ERROR
+DECL|macro|WRITE_TREE_UNMERGED_INDEX
+DECL|macro|WRITE_TREE_UNREADABLE_INDEX
 DECL|member|cache_tree
 DECL|member|down
 DECL|member|entry_count

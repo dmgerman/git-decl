@@ -1,0 +1,13 @@
+DECL|macro|WALKER_H
+DECL|member|cleanup
+DECL|member|corrupt_object_found
+DECL|member|data
+DECL|member|fetch
+DECL|member|fetch_ref
+DECL|member|get_all
+DECL|member|get_history
+DECL|member|get_recover
+DECL|member|get_tree
+DECL|member|get_verbosely
+DECL|member|prefetch
+DECL|struct|walker

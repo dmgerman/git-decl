@@ -11,5 +11,4 @@ DECL|function|remove_keep_on_signal
 DECL|function|show_new
 DECL|function|update_local_ref
 DECL|function|update_ref_env
-DECL|macro|CHUNK_SIZE
 DECL|variable|keep

@@ -16,9 +16,10 @@ DECL|macro|diff_debug_filespec
 DECL|macro|diff_debug_queue
 DECL|member|alloc
 DECL|member|broken_pair
-DECL|member|checked_attr
 DECL|member|cnt_data
+DECL|member|count
 DECL|member|data
+DECL|member|driver
 DECL|member|funcname_pattern_ident
 DECL|member|is_binary
 DECL|member|is_unmerged
@@ -27,6 +28,7 @@ DECL|member|nr
 DECL|member|one
 DECL|member|path
 DECL|member|queue
+DECL|member|rename_used
 DECL|member|renamed_pair
 DECL|member|score
 DECL|member|sha1
@@ -34,7 +36,6 @@ DECL|member|sha1_valid
 DECL|member|should_free
 DECL|member|should_munmap
 DECL|member|size
-DECL|member|source_stays
 DECL|member|status
 DECL|member|two
 DECL|member|xfrm_flags

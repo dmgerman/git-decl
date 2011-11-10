@@ -9,9 +9,11 @@ DECL|enumerator|CMIT_FMT_SHORT
 DECL|enumerator|CMIT_FMT_UNSPECIFIED
 DECL|enumerator|CMIT_FMT_USERFORMAT
 DECL|enum|cmit_fmt
+DECL|function|single_parent
 DECL|macro|COMMIT_H
 DECL|member|buffer
 DECL|member|date
+DECL|member|indegree
 DECL|member|item
 DECL|member|name
 DECL|member|next
@@ -27,5 +29,3 @@ DECL|struct|commit
 DECL|struct|commit_graft
 DECL|struct|commit_list
 DECL|struct|name_decoration
-DECL|typedef|topo_sort_get_fn_t
-DECL|typedef|topo_sort_set_fn_t

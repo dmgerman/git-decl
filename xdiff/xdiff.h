@@ -2,6 +2,7 @@ DECL|macro|XDF_IGNORE_WHITESPACE
 DECL|macro|XDF_IGNORE_WHITESPACE_AT_EOL
 DECL|macro|XDF_IGNORE_WHITESPACE_CHANGE
 DECL|macro|XDF_NEED_MINIMAL
+DECL|macro|XDF_PATIENCE_DIFF
 DECL|macro|XDF_WHITESPACE_FLAGS
 DECL|macro|XDIFF_H
 DECL|macro|XDL_BDOP_CPY
@@ -9,9 +10,13 @@ DECL|macro|XDL_BDOP_INS
 DECL|macro|XDL_BDOP_INSB
 DECL|macro|XDL_EMIT_COMMON
 DECL|macro|XDL_EMIT_FUNCNAMES
+DECL|macro|XDL_MERGE_DIFF3
 DECL|macro|XDL_MERGE_EAGER
+DECL|macro|XDL_MERGE_LEVEL_MASK
 DECL|macro|XDL_MERGE_MINIMAL
+DECL|macro|XDL_MERGE_STYLE_MASK
 DECL|macro|XDL_MERGE_ZEALOUS
+DECL|macro|XDL_MERGE_ZEALOUS_ALNUM
 DECL|macro|XDL_MMB_READONLY
 DECL|macro|XDL_MMF_ATOMIC
 DECL|macro|XDL_PATCH_IGNOREBSPACE
@@ -23,10 +28,12 @@ DECL|macro|xdl_malloc
 DECL|macro|xdl_realloc
 DECL|member|bsize
 DECL|member|ctxlen
+DECL|member|emit_func
 DECL|member|find_func
 DECL|member|find_func_priv
 DECL|member|flags
 DECL|member|flags
+DECL|member|interhunkctxlen
 DECL|member|outf
 DECL|member|priv
 DECL|member|ptr

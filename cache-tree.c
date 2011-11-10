@@ -9,10 +9,13 @@ DECL|function|cache_tree_update
 DECL|function|cache_tree_write
 DECL|function|discard_unused_subtrees
 DECL|function|find_subtree
+DECL|function|prime_cache_tree
+DECL|function|prime_cache_tree_rec
 DECL|function|read_one
 DECL|function|subtree_name_cmp
 DECL|function|subtree_pos
 DECL|function|update_one
 DECL|function|verify_cache
+DECL|function|write_cache_as_tree
 DECL|function|write_one
 DECL|macro|DEBUG

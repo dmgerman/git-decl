@@ -1,4 +1,5 @@
 DECL|function|create_pack_file
+DECL|function|do_rev_list
 DECL|function|get_common_commits
 DECL|function|got_sha1
 DECL|function|main
@@ -21,6 +22,7 @@ DECL|macro|REACHABLE
 DECL|macro|SHALLOW
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
+DECL|variable|debug_fd
 DECL|variable|have_obj
 DECL|variable|multi_ack
 DECL|variable|no_progress
@@ -29,6 +31,7 @@ DECL|variable|oldest_have
 DECL|variable|pack_pipe
 DECL|variable|timeout
 DECL|variable|upload_pack_usage
+DECL|variable|use_include_tag
 DECL|variable|use_ofs_delta
 DECL|variable|use_sideband
 DECL|variable|use_thin_pack

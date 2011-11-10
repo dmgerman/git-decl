@@ -1,3 +1,0 @@
-DECL|function|interp_clear_table
-DECL|function|interp_set_entry
-DECL|function|interpolate

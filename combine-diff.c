@@ -15,6 +15,7 @@ DECL|function|intersect_paths
 DECL|function|make_hunks
 DECL|function|reuse_combine_diff
 DECL|function|show_combined_diff
+DECL|function|show_line_to_eol
 DECL|function|show_parent_lno
 DECL|function|show_patch_diff
 DECL|function|show_raw_diff
@@ -39,7 +40,6 @@ DECL|member|on
 DECL|member|p_lno
 DECL|member|parent_map
 DECL|member|sline
-DECL|member|xm
 DECL|struct|combine_diff_state
 DECL|struct|lline
 DECL|struct|sline

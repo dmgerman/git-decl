@@ -1,4 +1,5 @@
 DECL|function|fixup_pack_header_footer
+DECL|function|index_pack_lockfile
 DECL|function|sha1_compare
 DECL|function|write_idx_file
 DECL|variable|pack_idx_default_version

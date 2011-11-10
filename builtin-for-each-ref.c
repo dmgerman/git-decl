@@ -26,6 +26,7 @@ DECL|function|grab_values
 DECL|function|hex1
 DECL|function|hex2
 DECL|function|num_parents
+DECL|function|opt_parse_sort
 DECL|function|parse_atom
 DECL|function|populate_value
 DECL|function|print_value
@@ -55,6 +56,7 @@ DECL|struct|grab_ref_cbdata
 DECL|struct|ref_sort
 DECL|struct|refinfo
 DECL|typedef|cmp_type
+DECL|variable|for_each_ref_usage
 DECL|variable|need_tagged
 DECL|variable|ref_sort
 DECL|variable|sort_atom_limit

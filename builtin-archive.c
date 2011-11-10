@@ -1,13 +1,4 @@
 DECL|function|cmd_archive
-DECL|function|extract_remote_arg
-DECL|function|init_archiver
-DECL|function|parse_archive_args
-DECL|function|parse_pathspec_arg
-DECL|function|parse_treeish_arg
+DECL|function|create_output_file
 DECL|function|run_remote_archiver
-DECL|member|name
-DECL|member|parse_extra
-DECL|member|write_archive
-DECL|struct|archiver_desc
-DECL|variable|archive_usage
-DECL|variable|archivers
+DECL|macro|PARSE_OPT_KEEP_ALL

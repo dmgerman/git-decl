@@ -1,3 +1,7 @@
+DECL|enumerator|GIT_ATTR_CHECKIN
+DECL|enumerator|GIT_ATTR_CHECKOUT
+DECL|enumerator|GIT_ATTR_INDEX
+DECL|enum|git_attr_direction
 DECL|macro|ATTR_FALSE
 DECL|macro|ATTR_H
 DECL|macro|ATTR_TRUE

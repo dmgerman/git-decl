@@ -2,11 +2,12 @@ DECL|function|add_refspec
 DECL|function|cmd_push
 DECL|function|do_push
 DECL|function|set_refspecs
-DECL|variable|all
-DECL|variable|force
+DECL|function|setup_default_push_refspecs
+DECL|function|setup_push_tracking
+DECL|function|warn_unconfigured_push
 DECL|variable|push_usage
 DECL|variable|receivepack
 DECL|variable|refspec
 DECL|variable|refspec_nr
 DECL|variable|thin
-DECL|variable|verbose
+DECL|variable|warn_unconfigured_push_msg

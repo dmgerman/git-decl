@@ -1,0 +1,1 @@
+DECL|function|cmd_http_fetch

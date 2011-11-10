@@ -1,7 +1,10 @@
 DECL|function|cmd_grep
 DECL|function|exec_grep
 DECL|function|external_grep
+DECL|function|flush_grep
+DECL|function|grep_add_color
 DECL|function|grep_cache
+DECL|function|grep_config
 DECL|function|grep_file
 DECL|function|grep_object
 DECL|function|grep_sha1
@@ -9,7 +12,10 @@ DECL|function|grep_tree
 DECL|function|pathspec_matches
 DECL|macro|ARGBUF
 DECL|macro|MAXARGS
+DECL|macro|NO_EXTERNAL_GREP
+DECL|macro|NO_EXTERNAL_GREP
 DECL|macro|push_arg
+DECL|variable|builtin_grep
 DECL|variable|builtin_grep_usage
 DECL|variable|emsg_invalid_context_len
 DECL|variable|emsg_missing_argument

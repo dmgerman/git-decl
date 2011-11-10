@@ -9,5 +9,4 @@ DECL|function|read_one_entry_opt
 DECL|function|read_one_entry_quick
 DECL|function|read_tree
 DECL|function|read_tree_recursive
-DECL|function|track_tree_refs
 DECL|variable|tree_type

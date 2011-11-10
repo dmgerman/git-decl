@@ -1,0 +1,13 @@
+DECL|function|append_to_tree
+DECL|function|cmd_mktree
+DECL|function|ent_compare
+DECL|function|write_tree
+DECL|member|len
+DECL|member|mode
+DECL|member|name
+DECL|member|sha1
+DECL|struct|treeent
+DECL|variable|alloc
+DECL|variable|entries
+DECL|variable|mktree_usage
+DECL|variable|used

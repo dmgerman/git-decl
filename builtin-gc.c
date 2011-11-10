@@ -1,6 +1,9 @@
 DECL|function|append_option
 DECL|function|cmd_gc
 DECL|function|gc_config
+DECL|function|need_to_gc
+DECL|function|too_many_loose_objects
+DECL|function|too_many_packs
 DECL|macro|FAILED_RUN
 DECL|macro|MAX_ADD
 DECL|variable|aggressive_window
@@ -10,4 +13,7 @@ DECL|variable|argv_reflog
 DECL|variable|argv_repack
 DECL|variable|argv_rerere
 DECL|variable|builtin_gc_usage
+DECL|variable|gc_auto_pack_limit
+DECL|variable|gc_auto_threshold
 DECL|variable|pack_refs
+DECL|variable|prune_expire
