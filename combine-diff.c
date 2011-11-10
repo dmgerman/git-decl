@@ -32,6 +32,7 @@ DECL|member|lost_tail
 DECL|member|n
 DECL|member|nb
 DECL|member|next
+DECL|member|next_lost
 DECL|member|nmask
 DECL|member|nn
 DECL|member|num_parent

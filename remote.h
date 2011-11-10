@@ -13,6 +13,7 @@ DECL|member|fetch_refspec_alloc
 DECL|member|fetch_refspec_nr
 DECL|member|fetch_tags
 DECL|member|force
+DECL|member|foreign_vcs
 DECL|member|http_proxy
 DECL|member|matching
 DECL|member|merge
@@ -28,6 +29,9 @@ DECL|member|push
 DECL|member|push_refspec
 DECL|member|push_refspec_alloc
 DECL|member|push_refspec_nr
+DECL|member|pushurl
+DECL|member|pushurl_alloc
+DECL|member|pushurl_nr
 DECL|member|receivepack
 DECL|member|refname
 DECL|member|remote

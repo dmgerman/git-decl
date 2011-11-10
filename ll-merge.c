@@ -5,6 +5,7 @@ DECL|function|initialize_ll_merge
 DECL|function|ll_binary_merge
 DECL|function|ll_ext_merge
 DECL|function|ll_merge
+DECL|function|ll_merge_marker_size
 DECL|function|ll_union_merge
 DECL|function|ll_xdl_merge
 DECL|function|read_merge_config

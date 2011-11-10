@@ -6,9 +6,12 @@ DECL|macro|ADDED
 DECL|macro|ALL_REV_FLAGS
 DECL|macro|BOUNDARY
 DECL|macro|CHILD_SHOWN
+DECL|macro|DECORATE_FULL_REFS
+DECL|macro|DECORATE_SHORT_REFS
 DECL|macro|REVISION_H
 DECL|macro|REV_TREE_DIFFERENT
 DECL|macro|REV_TREE_NEW
+DECL|macro|REV_TREE_OLD
 DECL|macro|REV_TREE_SAME
 DECL|macro|SEEN
 DECL|macro|SHOWN
@@ -20,6 +23,7 @@ DECL|member|abbrev
 DECL|member|abbrev_commit
 DECL|member|add_signoff
 DECL|member|always_show_header
+DECL|member|bisect
 DECL|member|blob_objects
 DECL|member|boundary
 DECL|member|boundary_commits
@@ -29,11 +33,13 @@ DECL|member|combine_merges
 DECL|member|commit_format
 DECL|member|commits
 DECL|member|date_mode
+DECL|member|date_mode_explicit
 DECL|member|def
 DECL|member|dense
 DECL|member|dense_combined_merges
 DECL|member|diff
 DECL|member|diffopt
+DECL|member|disable_stdin
 DECL|member|early_output
 DECL|member|edge_hint
 DECL|member|elem
@@ -52,6 +58,7 @@ DECL|member|loginfo
 DECL|member|max_age
 DECL|member|max_count
 DECL|member|merge_simplification
+DECL|member|merges_only
 DECL|member|message_id
 DECL|member|mime_boundary
 DECL|member|min_age
@@ -65,6 +72,7 @@ DECL|member|numbered_files
 DECL|member|patch_suffix
 DECL|member|pending
 DECL|member|prefix
+DECL|member|pretty_given
 DECL|member|print_parents
 DECL|member|prune
 DECL|member|prune_data
@@ -79,6 +87,8 @@ DECL|member|show_all
 DECL|member|show_decorations
 DECL|member|show_log_size
 DECL|member|show_merge
+DECL|member|show_notes
+DECL|member|show_notes_given
 DECL|member|show_root_diff
 DECL|member|show_source
 DECL|member|shown_one

@@ -1,0 +1,8 @@
+DECL|function|pthread_cond_broadcast
+DECL|function|pthread_cond_destroy
+DECL|function|pthread_cond_init
+DECL|function|pthread_cond_signal
+DECL|function|pthread_cond_wait
+DECL|function|pthread_create
+DECL|function|win32_pthread_join
+DECL|function|win32_start_routine

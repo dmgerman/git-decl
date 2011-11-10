@@ -9,6 +9,7 @@ DECL|macro|ARRAY_SIZE
 DECL|macro|DEFAULT_PACKED_GIT_LIMIT
 DECL|macro|DEFAULT_PACKED_GIT_WINDOW_SIZE
 DECL|macro|DEFAULT_PACKED_GIT_WINDOW_SIZE
+DECL|macro|DIV_ROUND_UP
 DECL|macro|FLEX_ARRAY
 DECL|macro|FLEX_ARRAY
 DECL|macro|FLEX_ARRAY
@@ -28,6 +29,10 @@ DECL|macro|MAP_PRIVATE
 DECL|macro|MSB
 DECL|macro|NORETURN
 DECL|macro|NORETURN
+DECL|macro|NORETURN
+DECL|macro|NORETURN_PTR
+DECL|macro|NORETURN_PTR
+DECL|macro|NORETURN_PTR
 DECL|macro|PATH_MAX
 DECL|macro|PATH_SEP
 DECL|macro|PRIu32
@@ -45,6 +50,7 @@ DECL|macro|ST_MTIME_NSEC
 DECL|macro|TYPEOF
 DECL|macro|TYPEOF
 DECL|macro|USE_NSEC
+DECL|macro|WIN32_LEAN_AND_MEAN
 DECL|macro|_ALL_SOURCE
 DECL|macro|_ALL_SOURCE
 DECL|macro|_ALL_SOURCE
@@ -52,11 +58,16 @@ DECL|macro|_BSD_SOURCE
 DECL|macro|_FILE_OFFSET_BITS
 DECL|macro|_GNU_SOURCE
 DECL|macro|_NETBSD_SOURCE
+DECL|macro|_SGI_SOURCE
+DECL|macro|_XOPEN_SOURCE
+DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|macro|__attribute__
+DECL|macro|basename
+DECL|macro|bitsizeof
 DECL|macro|decimal_length
 DECL|macro|fopen
 DECL|macro|fopen
@@ -79,6 +90,7 @@ DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|memmem
 DECL|macro|mkdtemp
+DECL|macro|mkstemps
 DECL|macro|mmap
 DECL|macro|munmap
 DECL|macro|on_disk_bytes

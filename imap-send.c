@@ -4,8 +4,6 @@ DECL|enumerator|NOLOGIN
 DECL|enumerator|STARTTLS
 DECL|enumerator|UIDPLUS
 DECL|enum|CAPABILITY
-DECL|function|arc4_getbyte
-DECL|function|arc4_init
 DECL|function|buffer_gets
 DECL|function|count_messages
 DECL|function|encode_html_chars
@@ -25,6 +23,7 @@ DECL|function|imap_warn
 DECL|function|is_atom
 DECL|function|is_list
 DECL|function|issue_imap_cmd
+DECL|function|lf_to_crlf
 DECL|function|main
 DECL|function|next_arg
 DECL|function|nfsnprintf
@@ -49,6 +48,7 @@ DECL|macro|CHUNKSIZE
 DECL|macro|DRV_BOX_BAD
 DECL|macro|DRV_MSG_BAD
 DECL|macro|DRV_OK
+DECL|macro|DRV_OK
 DECL|macro|DRV_STORE_BAD
 DECL|macro|LIST
 DECL|macro|M_DEAD
@@ -58,7 +58,6 @@ DECL|macro|NIL
 DECL|macro|RESP_BAD
 DECL|macro|RESP_NO
 DECL|macro|RESP_OK
-DECL|macro|TUIDL
 DECL|member|buf
 DECL|member|buf
 DECL|member|bytes
@@ -71,7 +70,6 @@ DECL|member|conf
 DECL|member|cont
 DECL|member|count
 DECL|member|create
-DECL|member|crlf
 DECL|member|ctx
 DECL|member|data
 DECL|member|data
@@ -83,11 +81,9 @@ DECL|member|flags
 DECL|member|gen
 DECL|member|gen
 DECL|member|host
-DECL|member|i
 DECL|member|imap
 DECL|member|in_progress
 DECL|member|in_progress_append
-DECL|member|j
 DECL|member|len
 DECL|member|len
 DECL|member|literal_pending
@@ -124,7 +120,6 @@ DECL|member|port
 DECL|member|prefix
 DECL|member|rcaps
 DECL|member|recent
-DECL|member|s
 DECL|member|server
 DECL|member|size
 DECL|member|slave
@@ -175,5 +170,5 @@ DECL|variable|Quiet
 DECL|variable|Verbose
 DECL|variable|cap_list
 DECL|variable|imap_folder
-DECL|variable|rs
+DECL|variable|imap_send_usage
 DECL|variable|server

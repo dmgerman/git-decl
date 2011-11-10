@@ -19,13 +19,11 @@ DECL|function|force_object_loose
 DECL|function|foreach_alt_odb
 DECL|function|free_pack_by_name
 DECL|function|get_delta_base
-DECL|function|get_sha1_hex
 DECL|function|get_size_from_delta
 DECL|function|git_open_noatime
 DECL|function|has_loose_object
 DECL|function|has_loose_object_local
 DECL|function|has_loose_object_nonlocal
-DECL|function|has_pack_file
 DECL|function|has_pack_index
 DECL|function|has_packed_and_bad
 DECL|function|has_sha1_file
@@ -65,7 +63,7 @@ DECL|function|read_object
 DECL|function|read_object_with_reference
 DECL|function|read_pack_header
 DECL|function|read_packed_sha1
-DECL|function|read_sha1_file
+DECL|function|read_sha1_file_repl
 DECL|function|rearrange_packed_git
 DECL|function|release_delta_base_cache
 DECL|function|release_pack_memory
@@ -79,7 +77,6 @@ DECL|function|sha1_loose_object_info
 DECL|function|sha1_object_info
 DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
-DECL|function|sha1_to_hex
 DECL|function|sort_pack
 DECL|function|sz_fmt
 DECL|function|sz_fmt
@@ -128,7 +125,6 @@ DECL|variable|delta_base_cache_lru
 DECL|variable|delta_base_cached
 DECL|variable|do_check_packed_object_crc
 DECL|variable|empty_tree
-DECL|variable|hexval_table
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
 DECL|variable|pack_mmap_calls
