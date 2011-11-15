@@ -1,6 +1,7 @@
 DECL|function|alarm
 DECL|function|fchmod
 DECL|function|fcntl
+DECL|function|fork
 DECL|function|fsync
 DECL|function|getppid
 DECL|function|getpwnam
