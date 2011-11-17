@@ -1,1 +1,4 @@
+DECL|function|git_setup_gettext
+DECL|function|init_gettext_charset
 DECL|function|use_gettext_poison
+DECL|macro|locale_charset
