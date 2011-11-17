@@ -1,3 +1,8 @@
+DECL|enumerator|WRITE_ONE_BREAK
+DECL|enumerator|WRITE_ONE_RECURSIVE
+DECL|enumerator|WRITE_ONE_SKIP
+DECL|enumerator|WRITE_ONE_WRITTEN
+DECL|enum|write_one_status
 DECL|function|add_object_entry
 DECL|function|add_objects_in_unpacked_packs
 DECL|function|add_pbase_object
