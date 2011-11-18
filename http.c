@@ -18,7 +18,6 @@ DECL|function|get_curl_handle
 DECL|function|get_remote_object_url
 DECL|function|git_getpass_with_description
 DECL|function|has_cert_password
-DECL|function|hex
 DECL|function|http_auth_init
 DECL|function|http_cleanup
 DECL|function|http_error
