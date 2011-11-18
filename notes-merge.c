@@ -16,7 +16,6 @@ DECL|function|path_to_sha1
 DECL|function|verify_notes_filepair
 DECL|function|write_buf_to_worktree
 DECL|function|write_note_to_worktree
-DECL|macro|OUTPUT
 DECL|member|base
 DECL|member|local
 DECL|member|obj
