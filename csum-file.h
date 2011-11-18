@@ -5,10 +5,13 @@ DECL|member|buffer
 DECL|member|check_fd
 DECL|member|crc32
 DECL|member|ctx
+DECL|member|ctx
 DECL|member|do_crc
 DECL|member|fd
 DECL|member|name
 DECL|member|offset
+DECL|member|offset
 DECL|member|total
 DECL|member|tp
 DECL|struct|sha1file
+DECL|struct|sha1file_checkpoint

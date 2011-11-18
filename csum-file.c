@@ -5,5 +5,7 @@ DECL|function|sha1close
 DECL|function|sha1fd
 DECL|function|sha1fd_check
 DECL|function|sha1fd_throughput
+DECL|function|sha1file_checkpoint
+DECL|function|sha1file_truncate
 DECL|function|sha1flush
 DECL|function|sha1write
