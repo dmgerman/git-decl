@@ -1,7 +1,7 @@
 DECL|enumerator|CHERRY_PICK
 DECL|enumerator|REPLAY_CONTINUE
 DECL|enumerator|REPLAY_NONE
-DECL|enumerator|REPLAY_RESET
+DECL|enumerator|REPLAY_REMOVE_STATE
 DECL|enumerator|REVERT
 DECL|enum|replay_action
 DECL|enum|replay_subcommand
