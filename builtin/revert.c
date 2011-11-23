@@ -1,7 +1,8 @@
 DECL|enumerator|CHERRY_PICK
 DECL|enumerator|REPLAY_CONTINUE
 DECL|enumerator|REPLAY_NONE
-DECL|enumerator|REPLAY_RESET
+DECL|enumerator|REPLAY_REMOVE_STATE
+DECL|enumerator|REPLAY_ROLLBACK
 DECL|enumerator|REVERT
 DECL|enum|replay_action
 DECL|enum|replay_subcommand
@@ -31,11 +32,14 @@ DECL|function|print_advice
 DECL|function|read_and_refresh_cache
 DECL|function|read_populate_opts
 DECL|function|read_populate_todo
+DECL|function|reset_for_rollback
 DECL|function|revert_or_cherry_pick_usage
+DECL|function|rollback_single_pick
 DECL|function|run_git_commit
 DECL|function|save_head
 DECL|function|save_opts
 DECL|function|save_todo
+DECL|function|sequencer_rollback
 DECL|function|verify_opt_compatible
 DECL|function|verify_opt_mutually_compatible
 DECL|function|walk_revs_populate_todo
