@@ -141,7 +141,6 @@ DECL|member|uid
 DECL|member|uidnext
 DECL|member|uidvalidity
 DECL|member|uidvalidity
-DECL|member|use_namespace
 DECL|member|user
 DECL|member|val
 DECL|struct|_list
