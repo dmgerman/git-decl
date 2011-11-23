@@ -1,0 +1,4 @@
+DECL|function|get_shallow_commits
+DECL|function|is_repository_shallow
+DECL|function|register_shallow
+DECL|variable|is_shallow

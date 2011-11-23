@@ -1,0 +1,4 @@
+DECL|function|init_recursive_mutex
+DECL|function|online_cpus
+DECL|macro|_SC_NPROCESSORS_ONLN
+DECL|macro|_SC_NPROCESSORS_ONLN

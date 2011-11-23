@@ -1,0 +1,14 @@
+DECL|enumerator|AUTO_CRLF_FALSE
+DECL|enumerator|AUTO_CRLF_INPUT
+DECL|enumerator|AUTO_CRLF_TRUE
+DECL|enumerator|EOL_CRLF
+DECL|enumerator|EOL_LF
+DECL|enumerator|EOL_NATIVE
+DECL|enumerator|EOL_UNSET
+DECL|enumerator|SAFE_CRLF_FAIL
+DECL|enumerator|SAFE_CRLF_FALSE
+DECL|enumerator|SAFE_CRLF_WARN
+DECL|enum|auto_crlf
+DECL|enum|eol
+DECL|enum|safe_crlf
+DECL|macro|CONVERT_H

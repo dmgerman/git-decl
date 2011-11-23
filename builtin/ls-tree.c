@@ -1,0 +1,15 @@
+DECL|function|cmd_ls_tree
+DECL|function|show_recursive
+DECL|function|show_tree
+DECL|macro|LS_NAME_ONLY
+DECL|macro|LS_RECURSIVE
+DECL|macro|LS_SHOW_SIZE
+DECL|macro|LS_SHOW_TREES
+DECL|macro|LS_TREE_ONLY
+DECL|variable|abbrev
+DECL|variable|chomp_prefix
+DECL|variable|line_termination
+DECL|variable|ls_options
+DECL|variable|ls_tree_prefix
+DECL|variable|ls_tree_usage
+DECL|variable|pathspec

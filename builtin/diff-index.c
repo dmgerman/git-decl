@@ -1,0 +1,2 @@
+DECL|function|cmd_diff_index
+DECL|variable|diff_cache_usage

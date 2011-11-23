@@ -1,0 +1,15 @@
+DECL|function|do_not_prune
+DECL|function|handle_one_ref
+DECL|function|pack_refs
+DECL|function|prune_ref
+DECL|function|prune_refs
+DECL|function|try_remove_empty_parents
+DECL|member|flags
+DECL|member|name
+DECL|member|next
+DECL|member|ref_to_prune
+DECL|member|refs_file
+DECL|member|sha1
+DECL|struct|pack_refs_cb_data
+DECL|struct|ref_to_prune
+DECL|variable|packed

@@ -1,2 +1,10 @@
 DECL|function|contains
+DECL|function|diff_grep
 DECL|function|diffcore_pickaxe
+DECL|function|diffcore_pickaxe_count
+DECL|function|diffcore_pickaxe_grep
+DECL|function|diffgrep_consume
+DECL|function|fill_one
+DECL|member|hit
+DECL|member|regexp
+DECL|struct|diffgrep_cb

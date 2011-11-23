@@ -1,2 +1,15 @@
+DECL|function|add_spanhash
 DECL|function|diffcore_count_changes
-DECL|function|diffcore_count_changes_1
+DECL|function|hash_chars
+DECL|function|spanhash_cmp
+DECL|function|spanhash_rehash
+DECL|macro|HASHBASE
+DECL|macro|INITIAL_FREE
+DECL|macro|INITIAL_HASH_SIZE
+DECL|member|alloc_log2
+DECL|member|cnt
+DECL|member|data
+DECL|member|free
+DECL|member|hashval
+DECL|struct|spanhash
+DECL|struct|spanhash_top

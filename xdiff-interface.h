@@ -1,0 +1,3 @@
+DECL|macro|XDIFF_INTERFACE_H
+DECL|typedef|xdiff_emit_consume_fn
+DECL|typedef|xdiff_emit_hunk_consume_fn

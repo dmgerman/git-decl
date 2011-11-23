@@ -1,0 +1,11 @@
+DECL|function|alloc_report
+DECL|function|report
+DECL|macro|BLOCKING
+DECL|macro|DEFINE_ALLOCATOR
+DECL|macro|REPORT
+DECL|member|blob
+DECL|member|commit
+DECL|member|object
+DECL|member|tag
+DECL|member|tree
+DECL|union|any_object

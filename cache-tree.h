@@ -1,0 +1,17 @@
+DECL|macro|CACHE_TREE_H
+DECL|macro|WRITE_TREE_IGNORE_CACHE_TREE
+DECL|macro|WRITE_TREE_MISSING_OK
+DECL|macro|WRITE_TREE_PREFIX_ERROR
+DECL|macro|WRITE_TREE_UNMERGED_INDEX
+DECL|macro|WRITE_TREE_UNREADABLE_INDEX
+DECL|member|cache_tree
+DECL|member|down
+DECL|member|entry_count
+DECL|member|name
+DECL|member|namelen
+DECL|member|sha1
+DECL|member|subtree_alloc
+DECL|member|subtree_nr
+DECL|member|used
+DECL|struct|cache_tree
+DECL|struct|cache_tree_sub

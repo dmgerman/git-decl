@@ -1,9 +1,12 @@
+DECL|function|cmp_cache_name_compare
 DECL|function|lookup_tree
-DECL|function|match_tree_entry
 DECL|function|parse_tree
 DECL|function|parse_tree_buffer
 DECL|function|parse_tree_indirect
 DECL|function|read_one_entry
+DECL|function|read_one_entry_opt
+DECL|function|read_one_entry_quick
 DECL|function|read_tree
+DECL|function|read_tree_1
 DECL|function|read_tree_recursive
 DECL|variable|tree_type

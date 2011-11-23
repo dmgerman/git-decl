@@ -1,2 +1,2 @@
 DECL|function|main
-DECL|variable|usage
+DECL|variable|usage_str

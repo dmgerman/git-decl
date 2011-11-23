@@ -1,0 +1,9 @@
+DECL|macro|DECORATE_H
+DECL|member|base
+DECL|member|decoration
+DECL|member|hash
+DECL|member|name
+DECL|member|nr
+DECL|member|size
+DECL|struct|decoration
+DECL|struct|object_decoration

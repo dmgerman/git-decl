@@ -1,0 +1,14 @@
+DECL|macro|SHORTLOG_H
+DECL|member|abbrev
+DECL|member|common_repo_prefix
+DECL|member|email
+DECL|member|in1
+DECL|member|in2
+DECL|member|list
+DECL|member|mailmap
+DECL|member|sort_by_number
+DECL|member|summary
+DECL|member|user_format
+DECL|member|wrap
+DECL|member|wrap_lines
+DECL|struct|shortlog

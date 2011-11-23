@@ -1,0 +1,1 @@
+DECL|macro|REFLOG_WALK_H
