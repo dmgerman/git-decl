@@ -16,6 +16,8 @@ DECL|function|mingw_mkdir
 DECL|function|readlink
 DECL|function|symlink
 DECL|function|sync
+DECL|function|xutftowcs
+DECL|function|xutftowcs_path
 DECL|macro|EAFNOSUPPORT
 DECL|macro|ECONNABORTED
 DECL|macro|EWOULDBLOCK
