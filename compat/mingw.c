@@ -32,7 +32,6 @@ DECL|function|mingw_accept
 DECL|function|mingw_bind
 DECL|function|mingw_connect
 DECL|function|mingw_execv
-DECL|function|mingw_execve
 DECL|function|mingw_execvp
 DECL|function|mingw_fflush
 DECL|function|mingw_fgetc
@@ -60,7 +59,7 @@ DECL|function|mingw_setsockopt
 DECL|function|mingw_shutdown
 DECL|function|mingw_signal
 DECL|function|mingw_socket
-DECL|function|mingw_spawnve
+DECL|function|mingw_spawnv
 DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
 DECL|function|mingw_startup
