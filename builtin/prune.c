@@ -7,4 +7,5 @@ DECL|function|remove_temporary_files
 DECL|variable|expire
 DECL|variable|prune_usage
 DECL|variable|show_only
+DECL|variable|show_progress
 DECL|variable|verbose
