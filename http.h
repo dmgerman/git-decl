@@ -30,7 +30,6 @@ DECL|member|http_code
 DECL|member|http_code
 DECL|member|http_code
 DECL|member|in_use
-DECL|member|local
 DECL|member|localfile
 DECL|member|lst
 DECL|member|next
