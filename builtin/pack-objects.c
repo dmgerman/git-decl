@@ -1,3 +1,8 @@
+DECL|enumerator|WRITE_ONE_BREAK
+DECL|enumerator|WRITE_ONE_RECURSIVE
+DECL|enumerator|WRITE_ONE_SKIP
+DECL|enumerator|WRITE_ONE_WRITTEN
+DECL|enum|write_one_status
 DECL|function|add_descendants_to_write_order
 DECL|function|add_family_to_write_order
 DECL|function|add_object_entry
