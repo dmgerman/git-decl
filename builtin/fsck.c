@@ -11,6 +11,8 @@ DECL|function|fsck_handle_ref
 DECL|function|fsck_handle_reflog
 DECL|function|fsck_handle_reflog_ent
 DECL|function|fsck_head_link
+DECL|function|fsck_obj
+DECL|function|fsck_obj_buffer
 DECL|function|fsck_object_dir
 DECL|function|fsck_sha1
 DECL|function|fsck_sha1_list
@@ -28,6 +30,7 @@ DECL|function|traverse_reachable
 DECL|macro|DIRENT_SORT_HINT
 DECL|macro|DIRENT_SORT_HINT
 DECL|macro|ERROR_OBJECT
+DECL|macro|ERROR_PACK
 DECL|macro|ERROR_REACHABLE
 DECL|macro|MAX_SHA1_ENTRIES
 DECL|macro|REACHABLE
@@ -51,6 +54,7 @@ DECL|variable|include_reflogs
 DECL|variable|keep_cache_objects
 DECL|variable|pending
 DECL|variable|sha1_list
+DECL|variable|show_progress
 DECL|variable|show_root
 DECL|variable|show_tags
 DECL|variable|show_unreachable

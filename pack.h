@@ -25,3 +25,4 @@ DECL|struct|pack_header
 DECL|struct|pack_idx_entry
 DECL|struct|pack_idx_header
 DECL|struct|pack_idx_option
+DECL|typedef|verify_fn
