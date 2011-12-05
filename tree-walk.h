@@ -1,3 +1,8 @@
+DECL|enumerator|all_entries_interesting
+DECL|enumerator|all_entries_not_interesting
+DECL|enumerator|entry_interesting
+DECL|enumerator|entry_not_interesting
+DECL|enum|interesting
 DECL|function|traverse_path_len
 DECL|function|tree_entry_extract
 DECL|function|tree_entry_len
