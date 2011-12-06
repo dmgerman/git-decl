@@ -16,6 +16,7 @@ DECL|function|prime_cache_tree_rec
 DECL|function|read_one
 DECL|function|subtree_name_cmp
 DECL|function|subtree_pos
+DECL|function|update_main_cache_tree
 DECL|function|update_one
 DECL|function|verify_cache
 DECL|function|write_cache_as_tree
