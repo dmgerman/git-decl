@@ -247,7 +247,6 @@ DECL|macro|unmerged_cache
 DECL|macro|write_cache
 DECL|macro|ws_tab_width
 DECL|member|alloc
-DECL|member|alloc
 DECL|member|array
 DECL|member|avail_in
 DECL|member|avail_out
