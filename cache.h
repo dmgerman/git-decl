@@ -236,6 +236,7 @@ DECL|macro|read_cache
 DECL|macro|read_cache_from
 DECL|macro|read_cache_preload
 DECL|macro|read_cache_unmerged
+DECL|macro|ref_fetch_rules
 DECL|macro|refresh_cache
 DECL|macro|remove_cache_entry_at
 DECL|macro|remove_file_from_cache

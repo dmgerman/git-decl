@@ -1,5 +1,6 @@
 DECL|function|prefixcmp
 DECL|function|strbuf_add
+DECL|function|strbuf_add_lines
 DECL|function|strbuf_addbuf_percentquote
 DECL|function|strbuf_adddup
 DECL|function|strbuf_addf
