@@ -62,6 +62,7 @@ DECL|function|prettify_refname
 DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
+DECL|function|read_ref_full
 DECL|function|ref_entry_cmp
 DECL|function|ref_exists
 DECL|function|ref_msg
