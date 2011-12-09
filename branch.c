@@ -1,12 +1,17 @@
 DECL|function|create_branch
 DECL|function|find_tracked_branch
 DECL|function|install_branch_config
+DECL|function|read_branch_desc
+DECL|function|read_branch_desc_cb
 DECL|function|remove_branch_state
 DECL|function|setup_tracking
 DECL|function|should_setup_rebase
 DECL|function|validate_new_branchname
+DECL|member|config_name
 DECL|member|matches
 DECL|member|remote
 DECL|member|spec
 DECL|member|src
+DECL|member|value
+DECL|struct|branch_desc_cb
 DECL|struct|tracking

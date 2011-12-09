@@ -15,6 +15,7 @@ DECL|function|branch_merged
 DECL|function|calc_maxwidth
 DECL|function|cmd_branch
 DECL|function|delete_branches
+DECL|function|edit_branch_description
 DECL|function|fill_tracking_info
 DECL|function|free_ref_list
 DECL|function|git_branch_config
@@ -53,6 +54,7 @@ DECL|struct|ref_list
 DECL|variable|branch_colors
 DECL|variable|branch_use_color
 DECL|variable|builtin_branch_usage
+DECL|variable|edit_description
 DECL|variable|head
 DECL|variable|head_sha1
 DECL|variable|merge_filter

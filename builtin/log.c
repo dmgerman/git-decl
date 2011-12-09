@@ -1,3 +1,4 @@
+DECL|function|add_branch_description
 DECL|function|add_header
 DECL|function|add_pending_commit
 DECL|function|attach_callback
@@ -16,6 +17,7 @@ DECL|function|cmd_whatchanged
 DECL|function|decorate_callback
 DECL|function|early_output
 DECL|function|estimate_commit_count
+DECL|function|find_branch_name
 DECL|function|finish_early_output
 DECL|function|gen_message_id
 DECL|function|get_patch_ids
