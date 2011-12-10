@@ -1,0 +1,10 @@
+DECL|macro|CREDENTIAL_H
+DECL|macro|CREDENTIAL_INIT
+DECL|member|approved
+DECL|member|helpers
+DECL|member|host
+DECL|member|password
+DECL|member|path
+DECL|member|protocol
+DECL|member|username
+DECL|struct|credential
