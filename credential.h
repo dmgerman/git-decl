@@ -1,6 +1,7 @@
 DECL|macro|CREDENTIAL_H
 DECL|macro|CREDENTIAL_INIT
 DECL|member|approved
+DECL|member|configured
 DECL|member|helpers
 DECL|member|host
 DECL|member|password
