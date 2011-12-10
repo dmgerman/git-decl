@@ -1,1 +1,2 @@
+DECL|macro|PROMPT_ASKPASS
 DECL|macro|PROMPT_H
