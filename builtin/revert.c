@@ -42,6 +42,7 @@ DECL|function|save_opts
 DECL|function|save_todo
 DECL|function|sequencer_continue
 DECL|function|sequencer_rollback
+DECL|function|single_pick
 DECL|function|verify_opt_compatible
 DECL|function|verify_opt_mutually_compatible
 DECL|function|walk_revs_populate_todo
