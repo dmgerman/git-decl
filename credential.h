@@ -7,5 +7,6 @@ DECL|member|host
 DECL|member|password
 DECL|member|path
 DECL|member|protocol
+DECL|member|use_http_path
 DECL|member|username
 DECL|struct|credential

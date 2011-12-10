@@ -14,6 +14,7 @@ DECL|function|credential_read
 DECL|function|credential_reject
 DECL|function|credential_write
 DECL|function|credential_write_item
+DECL|function|proto_is_http
 DECL|function|run_credential_helper
 DECL|macro|CHECK
 DECL|macro|CHECK
