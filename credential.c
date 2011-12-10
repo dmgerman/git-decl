@@ -4,6 +4,7 @@ DECL|function|credential_clear
 DECL|function|credential_describe
 DECL|function|credential_do
 DECL|function|credential_fill
+DECL|function|credential_from_url
 DECL|function|credential_getpass
 DECL|function|credential_init
 DECL|function|credential_read
