@@ -39,6 +39,7 @@ DECL|function|run_git_commit
 DECL|function|save_head
 DECL|function|save_opts
 DECL|function|save_todo
+DECL|function|sequencer_continue
 DECL|function|sequencer_rollback
 DECL|function|verify_opt_compatible
 DECL|function|verify_opt_mutually_compatible
