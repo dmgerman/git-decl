@@ -89,6 +89,7 @@ DECL|member|token
 DECL|member|u
 DECL|member|unary
 DECL|member|unmatch_name_only
+DECL|member|use_threads
 DECL|member|word_regexp
 DECL|member|word_regexp
 DECL|struct|grep_expr

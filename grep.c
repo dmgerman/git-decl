@@ -19,11 +19,12 @@ DECL|function|free_grep_patterns
 DECL|function|free_pattern_expr
 DECL|function|free_pcre_regexp
 DECL|function|free_pcre_regexp
+DECL|function|grep_attr_lock
+DECL|function|grep_attr_unlock
 DECL|function|grep_buffer
 DECL|function|grep_buffer_1
 DECL|function|grep_opt_dup
 DECL|function|grep_or_expr
-DECL|function|grep_threads_ok
 DECL|function|grep_true_expr
 DECL|function|is_fixed
 DECL|function|look_ahead
@@ -49,6 +50,9 @@ DECL|function|show_pre_context
 DECL|function|std_output
 DECL|function|strip_timestamp
 DECL|function|word_char
+DECL|macro|grep_attr_lock
+DECL|macro|grep_attr_unlock
 DECL|member|field
 DECL|member|len
+DECL|variable|grep_attr_mutex
 DECL|variable|header_field
