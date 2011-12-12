@@ -6,6 +6,7 @@ DECL|function|check_refname_format
 DECL|function|clear_extra_refs
 DECL|function|clear_loose_ref_cache
 DECL|function|clear_packed_ref_cache
+DECL|function|clear_ref_array
 DECL|function|close_ref
 DECL|function|commit_ref
 DECL|function|copy_msg
@@ -38,7 +39,6 @@ DECL|function|for_each_remote_ref_submodule
 DECL|function|for_each_replace_ref
 DECL|function|for_each_tag_ref
 DECL|function|for_each_tag_ref_submodule
-DECL|function|free_ref_array
 DECL|function|gen_scanf_fmt
 DECL|function|get_loose_refs
 DECL|function|get_packed_ref
