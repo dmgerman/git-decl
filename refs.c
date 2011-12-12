@@ -50,6 +50,7 @@ DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
 DECL|function|invalidate_ref_cache
 DECL|function|is_branch
+DECL|function|is_dup_ref
 DECL|function|is_refname_available
 DECL|function|lock_any_ref_for_update
 DECL|function|lock_ref_sha1
