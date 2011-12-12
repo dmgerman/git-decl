@@ -73,7 +73,7 @@ DECL|function|repack_without_ref
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
-DECL|function|resolve_ref
+DECL|function|resolve_ref_unsafe
 DECL|function|resolve_refdup
 DECL|function|search_ref_array
 DECL|function|shorten_unambiguous_ref
