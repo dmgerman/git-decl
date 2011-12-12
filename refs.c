@@ -11,6 +11,7 @@ DECL|function|close_ref
 DECL|function|commit_ref
 DECL|function|copy_msg
 DECL|function|create_ref_cache
+DECL|function|create_ref_entry
 DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|do_for_each_ref
