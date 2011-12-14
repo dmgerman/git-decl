@@ -67,7 +67,6 @@ DECL|variable|curl_low_speed_time
 DECL|variable|curl_session_count
 DECL|variable|curl_ssl_verify
 DECL|variable|curlm
-DECL|variable|data_received
 DECL|variable|description
 DECL|variable|fill_cfg
 DECL|variable|http_is_verbose
