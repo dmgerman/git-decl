@@ -60,6 +60,7 @@ DECL|variable|merge_msg
 DECL|variable|option_commit
 DECL|variable|option_edit
 DECL|variable|option_renormalize
+DECL|variable|overwrite_ignore
 DECL|variable|pull_octopus
 DECL|variable|pull_twohead
 DECL|variable|remoteheads
