@@ -1,3 +1,6 @@
+DECL|enumerator|CLEANUP_ALL
+DECL|enumerator|CLEANUP_NONE
+DECL|enumerator|CLEANUP_SPACE
 DECL|function|build_tag_object
 DECL|function|cmd_tag
 DECL|function|contains
@@ -16,12 +19,17 @@ DECL|function|strbuf_check_tag_ref
 DECL|function|verify_tag
 DECL|function|write_tag_body
 DECL|member|buf
+DECL|member|cleanup_mode
 DECL|member|given
 DECL|member|lines
+DECL|member|message_given
 DECL|member|patterns
+DECL|member|sign
 DECL|member|with_commit
+DECL|struct|create_tag_options
 DECL|struct|msg_arg
 DECL|struct|tag_filter
 DECL|typedef|each_tag_name_fn
 DECL|variable|git_tag_usage
 DECL|variable|tag_template
+DECL|variable|tag_template_nocleanup
