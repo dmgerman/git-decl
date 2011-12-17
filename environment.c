@@ -58,6 +58,7 @@ DECL|variable|namespace
 DECL|variable|namespace_len
 DECL|variable|notes_ref_name
 DECL|variable|object_creation_mode
+DECL|variable|pack_size_limit_cfg
 DECL|variable|packed_git_limit
 DECL|variable|packed_git_window_size
 DECL|variable|pager_program
