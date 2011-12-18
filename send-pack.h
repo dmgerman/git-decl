@@ -1,9 +1,10 @@
 DECL|macro|SEND_PACK_H
 DECL|member|dry_run
 DECL|member|force_update
-DECL|member|receivepack
-DECL|member|send_all
+DECL|member|quiet
 DECL|member|send_mirror
+DECL|member|stateless_rpc
+DECL|member|use_ofs_delta
 DECL|member|use_thin_pack
 DECL|member|verbose
 DECL|struct|send_pack_args

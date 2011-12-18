@@ -1,0 +1,16 @@
+DECL|function|checkout_all
+DECL|function|checkout_file
+DECL|function|cmd_checkout_index
+DECL|function|option_parse_prefix
+DECL|function|option_parse_stage
+DECL|function|option_parse_u
+DECL|function|option_parse_z
+DECL|function|write_tempfile_record
+DECL|macro|CHECKOUT_ALL
+DECL|variable|builtin_checkout_index_usage
+DECL|variable|checkout_stage
+DECL|variable|line_termination
+DECL|variable|lock_file
+DECL|variable|state
+DECL|variable|to_tempfile
+DECL|variable|topath

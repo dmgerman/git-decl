@@ -1,1 +1,0 @@
-DECL|function|cmd_check_ref_format

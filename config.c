@@ -15,6 +15,7 @@ DECL|function|git_config_bool_or_int
 DECL|function|git_config_from_file
 DECL|function|git_config_global
 DECL|function|git_config_int
+DECL|function|git_config_pathname
 DECL|function|git_config_rename_section
 DECL|function|git_config_set
 DECL|function|git_config_set_multivar
@@ -25,6 +26,8 @@ DECL|function|git_default_branch_config
 DECL|function|git_default_config
 DECL|function|git_default_core_config
 DECL|function|git_default_i18n_config
+DECL|function|git_default_mailmap_config
+DECL|function|git_default_push_config
 DECL|function|git_default_user_config
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig

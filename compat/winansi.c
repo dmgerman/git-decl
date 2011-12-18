@@ -1,4 +1,5 @@
 DECL|function|ansi_emulate
+DECL|function|erase_in_line
 DECL|function|init
 DECL|function|set_attr
 DECL|function|set_console_attr

@@ -1,6 +1,9 @@
 DECL|enumerator|MATCH_REFS_ALL
 DECL|enumerator|MATCH_REFS_MIRROR
 DECL|enumerator|MATCH_REFS_NONE
+DECL|enumerator|REMOTE_BRANCHES
+DECL|enumerator|REMOTE_CONFIG
+DECL|enumerator|REMOTE_REMOTES
 DECL|enum|match_refs_flags
 DECL|macro|REMOTE_H
 DECL|member|dst
@@ -10,6 +13,7 @@ DECL|member|fetch_refspec_alloc
 DECL|member|fetch_refspec_nr
 DECL|member|fetch_tags
 DECL|member|force
+DECL|member|foreign_vcs
 DECL|member|http_proxy
 DECL|member|matching
 DECL|member|merge
@@ -19,11 +23,15 @@ DECL|member|merge_nr
 DECL|member|mirror
 DECL|member|name
 DECL|member|name
+DECL|member|origin
 DECL|member|pattern
 DECL|member|push
 DECL|member|push_refspec
 DECL|member|push_refspec_alloc
 DECL|member|push_refspec_nr
+DECL|member|pushurl
+DECL|member|pushurl_alloc
+DECL|member|pushurl_nr
 DECL|member|receivepack
 DECL|member|refname
 DECL|member|remote

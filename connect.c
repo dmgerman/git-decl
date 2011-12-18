@@ -2,11 +2,11 @@ DECL|enumerator|PROTO_GIT
 DECL|enumerator|PROTO_LOCAL
 DECL|enumerator|PROTO_SSH
 DECL|enum|protocol
+DECL|function|add_extra_have
 DECL|function|ai_name
 DECL|function|check_ref
 DECL|function|check_ref_type
 DECL|function|finish_connect
-DECL|function|get_ack
 DECL|function|get_port
 DECL|function|get_protocol
 DECL|function|get_remote_heads
@@ -24,6 +24,4 @@ DECL|macro|STR
 DECL|macro|STR_
 DECL|variable|git_proxy_command
 DECL|variable|no_fork
-DECL|variable|rhost_len
-DECL|variable|rhost_name
 DECL|variable|server_capabilities

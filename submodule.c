@@ -1,0 +1,3 @@
+DECL|function|add_submodule_odb
+DECL|function|is_submodule_modified
+DECL|function|show_submodule_summary
