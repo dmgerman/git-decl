@@ -16,9 +16,7 @@ DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
 DECL|function|get_curl_handle
 DECL|function|get_remote_object_url
-DECL|function|git_getpass_with_description
 DECL|function|has_cert_password
-DECL|function|http_auth_init
 DECL|function|http_cleanup
 DECL|function|http_error
 DECL|function|http_fetch_ref
@@ -57,6 +55,7 @@ DECL|member|next
 DECL|struct|fill_chain
 DECL|variable|active_queue_head
 DECL|variable|active_requests
+DECL|variable|cert_auth
 DECL|variable|curl_cookie_file
 DECL|variable|curl_default
 DECL|variable|curl_errorstr
@@ -67,8 +66,8 @@ DECL|variable|curl_low_speed_time
 DECL|variable|curl_session_count
 DECL|variable|curl_ssl_verify
 DECL|variable|curlm
-DECL|variable|description
 DECL|variable|fill_cfg
+DECL|variable|http_auth
 DECL|variable|http_is_verbose
 DECL|variable|http_post_buffer
 DECL|variable|max_requests
@@ -78,9 +77,6 @@ DECL|variable|pragma_header
 DECL|variable|ssl_cainfo
 DECL|variable|ssl_capath
 DECL|variable|ssl_cert
-DECL|variable|ssl_cert_password
 DECL|variable|ssl_cert_password_required
 DECL|variable|ssl_key
 DECL|variable|user_agent
-DECL|variable|user_name
-DECL|variable|user_pass

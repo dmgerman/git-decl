@@ -1,0 +1,9 @@
+DECL|function|lookup_credential
+DECL|function|main
+DECL|function|parse_credential_file
+DECL|function|print_entry
+DECL|function|print_line
+DECL|function|remove_credential
+DECL|function|rewrite_credential_file
+DECL|function|store_credential
+DECL|variable|credential_lock
