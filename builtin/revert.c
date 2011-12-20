@@ -10,6 +10,7 @@ DECL|function|action_name
 DECL|function|cmd_cherry_pick
 DECL|function|cmd_revert
 DECL|function|commit_list_append
+DECL|function|continue_single_pick
 DECL|function|create_seq_dir
 DECL|function|do_pick_commit
 DECL|function|do_recursive_merge
@@ -39,7 +40,9 @@ DECL|function|run_git_commit
 DECL|function|save_head
 DECL|function|save_opts
 DECL|function|save_todo
+DECL|function|sequencer_continue
 DECL|function|sequencer_rollback
+DECL|function|single_pick
 DECL|function|verify_opt_compatible
 DECL|function|verify_opt_mutually_compatible
 DECL|function|walk_revs_populate_todo
@@ -49,8 +52,6 @@ DECL|macro|GIT_REFLOG_ACTION
 DECL|member|action
 DECL|member|allow_ff
 DECL|member|allow_rerere_auto
-DECL|member|commit_argc
-DECL|member|commit_argv
 DECL|member|edit
 DECL|member|label
 DECL|member|mainline
@@ -59,6 +60,7 @@ DECL|member|no_commit
 DECL|member|parent_label
 DECL|member|record_origin
 DECL|member|reencoded_message
+DECL|member|revs
 DECL|member|signoff
 DECL|member|strategy
 DECL|member|subcommand
