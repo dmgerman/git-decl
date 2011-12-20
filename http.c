@@ -70,6 +70,7 @@ DECL|variable|fill_cfg
 DECL|variable|http_auth
 DECL|variable|http_is_verbose
 DECL|variable|http_post_buffer
+DECL|variable|http_proactive_auth
 DECL|variable|max_requests
 DECL|variable|min_curl_sessions
 DECL|variable|no_pragma_header
