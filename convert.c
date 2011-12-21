@@ -36,7 +36,9 @@ DECL|function|input_crlf_action
 DECL|function|is_binary
 DECL|function|is_foreign_ident
 DECL|function|is_null_stream_filter
+DECL|function|lf_to_crlf_filter
 DECL|function|lf_to_crlf_filter_fn
+DECL|function|lf_to_crlf_free_fn
 DECL|function|null_filter_fn
 DECL|function|null_free_fn
 DECL|function|output_eol
@@ -59,6 +61,7 @@ DECL|member|eol_attr
 DECL|member|filter
 DECL|member|filter
 DECL|member|filter
+DECL|member|filter
 DECL|member|free
 DECL|member|ident
 DECL|member|ident
@@ -78,11 +81,13 @@ DECL|member|src
 DECL|member|state
 DECL|member|two
 DECL|member|vtbl
+DECL|member|want_lf
 DECL|struct|cascade_filter
 DECL|struct|conv_attrs
 DECL|struct|convert_driver
 DECL|struct|filter_params
 DECL|struct|ident_filter
+DECL|struct|lf_to_crlf_filter
 DECL|struct|stream_filter
 DECL|struct|stream_filter_vtbl
 DECL|struct|text_stat
@@ -91,7 +96,6 @@ DECL|typedef|free_fn
 DECL|variable|cascade_vtbl
 DECL|variable|conv_attr_name
 DECL|variable|ident_vtbl
-DECL|variable|lf_to_crlf_filter_singleton
 DECL|variable|lf_to_crlf_vtbl
 DECL|variable|null_filter_singleton
 DECL|variable|null_vtbl
