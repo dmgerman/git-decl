@@ -1,0 +1,17 @@
+DECL|function|add_internet_password
+DECL|function|delete_internet_password
+DECL|function|die
+DECL|function|find_internet_password
+DECL|function|find_username_in_item
+DECL|function|main
+DECL|function|read_credential
+DECL|function|write_item
+DECL|function|xstrdup
+DECL|macro|KEYCHAIN_ARGS
+DECL|macro|KEYCHAIN_ITEM
+DECL|variable|host
+DECL|variable|password
+DECL|variable|path
+DECL|variable|port
+DECL|variable|protocol
+DECL|variable|username
