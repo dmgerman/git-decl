@@ -9,6 +9,7 @@ DECL|function|format_commit_message
 DECL|function|format_commit_one
 DECL|function|format_decoration
 DECL|function|format_person_part
+DECL|function|format_reflog_person
 DECL|function|format_sanitized_subject
 DECL|function|format_subject
 DECL|function|get_commit_format
