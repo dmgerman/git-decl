@@ -63,6 +63,8 @@ DECL|member|filter
 DECL|member|filter
 DECL|member|filter
 DECL|member|free
+DECL|member|has_held
+DECL|member|held
 DECL|member|ident
 DECL|member|ident
 DECL|member|left
@@ -81,7 +83,6 @@ DECL|member|src
 DECL|member|state
 DECL|member|two
 DECL|member|vtbl
-DECL|member|want_lf
 DECL|struct|cascade_filter
 DECL|struct|conv_attrs
 DECL|struct|convert_driver
