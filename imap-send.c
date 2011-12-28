@@ -151,7 +151,6 @@ DECL|member|uidnext
 DECL|member|uidvalidity
 DECL|member|uidvalidity
 DECL|member|use_html
-DECL|member|use_namespace
 DECL|member|use_ssl
 DECL|member|user
 DECL|member|val
