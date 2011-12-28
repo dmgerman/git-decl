@@ -1,6 +1,6 @@
 DECL|function|add_pending_uninteresting_ref
-DECL|function|check_all_stages
 DECL|function|check_stage
+DECL|function|check_stages
 DECL|function|check_tracking_name
 DECL|function|checkout_merged
 DECL|function|checkout_paths
