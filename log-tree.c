@@ -25,9 +25,12 @@ DECL|function|parse_decorate_color_slot
 DECL|function|show_children
 DECL|function|show_decorations
 DECL|function|show_log
+DECL|function|show_mergetag
+DECL|function|show_one_mergetag
 DECL|function|show_parents
 DECL|function|show_sig_lines
 DECL|function|show_signature
+DECL|function|which_parent
 DECL|macro|decorate_get_color_opt
 DECL|variable|decoration_colors
 DECL|variable|name_decoration
