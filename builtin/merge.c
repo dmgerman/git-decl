@@ -66,6 +66,7 @@ DECL|variable|remoteheads
 DECL|variable|shortlog_len
 DECL|variable|show_diffstat
 DECL|variable|show_progress
+DECL|variable|sign_commit
 DECL|variable|squash
 DECL|variable|use_strategies
 DECL|variable|use_strategies_alloc

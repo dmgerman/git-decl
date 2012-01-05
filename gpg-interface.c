@@ -4,3 +4,4 @@ DECL|function|set_signing_key
 DECL|function|sign_buffer
 DECL|function|verify_signed_buffer
 DECL|variable|configured_signing_key
+DECL|variable|gpg_program
