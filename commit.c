@@ -11,6 +11,7 @@ DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
 DECL|function|commit_tree_extended
 DECL|function|do_sign_commit
+DECL|function|excluded_header_field
 DECL|function|find_commit_subject
 DECL|function|for_each_commit_graft
 DECL|function|free_commit_extra_headers
