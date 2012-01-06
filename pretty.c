@@ -27,6 +27,8 @@ DECL|function|mailmap_name
 DECL|function|non_ascii
 DECL|function|parse_commit_header
 DECL|function|parse_commit_message
+DECL|function|parse_commit_signature
+DECL|function|parse_signature_lines
 DECL|function|pp_commit_easy
 DECL|function|pp_header
 DECL|function|pp_remainder
@@ -47,12 +49,16 @@ DECL|member|abbrev_parent_hashes
 DECL|member|abbrev_tree_hash
 DECL|member|author
 DECL|member|body_off
+DECL|member|check
 DECL|member|commit
 DECL|member|commit_header_parsed
 DECL|member|commit_message_parsed
+DECL|member|commit_signature_parsed
 DECL|member|committer
 DECL|member|encoding
 DECL|member|format
+DECL|member|good_bad
+DECL|member|gpg_output
 DECL|member|indent1
 DECL|member|indent2
 DECL|member|is_alias
@@ -63,6 +69,9 @@ DECL|member|message_off
 DECL|member|name
 DECL|member|off
 DECL|member|pretty_ctx
+DECL|member|result
+DECL|member|signature
+DECL|member|signer
 DECL|member|subject_off
 DECL|member|user_format
 DECL|member|width
@@ -74,4 +83,5 @@ DECL|variable|builtin_formats_len
 DECL|variable|commit_formats
 DECL|variable|commit_formats_alloc
 DECL|variable|commit_formats_len
+DECL|variable|signature_check
 DECL|variable|user_format

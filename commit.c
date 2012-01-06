@@ -10,6 +10,8 @@ DECL|function|commit_list_insert_by_date
 DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
 DECL|function|commit_tree_extended
+DECL|function|do_sign_commit
+DECL|function|excluded_header_field
 DECL|function|find_commit_subject
 DECL|function|for_each_commit_graft
 DECL|function|free_commit_extra_headers
@@ -32,6 +34,7 @@ DECL|function|merge_bases_many
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
+DECL|function|parse_signed_commit
 DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
 DECL|function|prepare_commit_graft
@@ -54,4 +57,6 @@ DECL|variable|commit_graft_alloc
 DECL|variable|commit_graft_nr
 DECL|variable|commit_type
 DECL|variable|commit_utf8_warn
+DECL|variable|gpg_sig_header
+DECL|variable|gpg_sig_header_len
 DECL|variable|save_commit_buffer

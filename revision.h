@@ -117,6 +117,7 @@ DECL|member|show_merge
 DECL|member|show_notes
 DECL|member|show_notes_given
 DECL|member|show_root_diff
+DECL|member|show_signature
 DECL|member|show_source
 DECL|member|shown_one
 DECL|member|simplify_by_decoration
