@@ -3,7 +3,6 @@ DECL|enumerator|DENY_REFUSE
 DECL|enumerator|DENY_UNCONFIGURED
 DECL|enumerator|DENY_WARN
 DECL|enum|deny_action
-DECL|function|add_alternate_refs
 DECL|function|add_one_alternate_sha1
 DECL|function|check_aliased_update
 DECL|function|check_aliased_updates
