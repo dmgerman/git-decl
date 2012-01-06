@@ -3,7 +3,6 @@ DECL|enumerator|DENY_REFUSE
 DECL|enumerator|DENY_UNCONFIGURED
 DECL|enumerator|DENY_WARN
 DECL|enum|deny_action
-DECL|function|add_one_alternate_sha1
 DECL|function|check_aliased_update
 DECL|function|check_aliased_updates
 DECL|function|cmd_receive_pack
@@ -30,6 +29,7 @@ DECL|function|run_receive_hook
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
 DECL|function|set_connectivity_errors
+DECL|function|show_one_alternate_sha1
 DECL|function|show_ref
 DECL|function|show_ref_cb
 DECL|function|unpack
