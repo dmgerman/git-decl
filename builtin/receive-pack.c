@@ -61,6 +61,7 @@ DECL|variable|pack_lockfile
 DECL|variable|post_receive_hook
 DECL|variable|pre_receive_hook
 DECL|variable|prefer_ofs_delta
+DECL|variable|quiet
 DECL|variable|receive_fsck_objects
 DECL|variable|receive_pack_usage
 DECL|variable|receive_unpack_limit
