@@ -73,8 +73,6 @@ DECL|macro|fflush
 DECL|macro|fgetc
 DECL|macro|find_last_dir_sep
 DECL|macro|fopen
-DECL|macro|fprintf
-DECL|macro|fputs
 DECL|macro|freeaddrinfo
 DECL|macro|freopen
 DECL|macro|fstat
@@ -89,6 +87,7 @@ DECL|macro|getpagesize
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
+DECL|macro|isatty
 DECL|macro|kill
 DECL|macro|listen
 DECL|macro|lseek
@@ -101,7 +100,6 @@ DECL|macro|off_t
 DECL|macro|offset_1st_component
 DECL|macro|open
 DECL|macro|open_html
-DECL|macro|printf
 DECL|macro|raise
 DECL|macro|rename
 DECL|macro|rmdir
@@ -114,7 +112,6 @@ DECL|macro|stat
 DECL|macro|stat
 DECL|macro|unlink
 DECL|macro|utime
-DECL|macro|vfprintf
 DECL|member|it_interval
 DECL|member|it_value
 DECL|member|pw_dir
