@@ -12,6 +12,7 @@ DECL|function|remove_junk_on_signal
 DECL|function|setup_reference
 DECL|function|strip_trailing_slashes
 DECL|function|update_head
+DECL|function|update_remote_refs
 DECL|function|wanted_peer_refs
 DECL|function|write_config
 DECL|function|write_followtags
