@@ -1,4 +1,5 @@
 DECL|function|add_one_reference
+DECL|function|checkout
 DECL|function|clone_local
 DECL|function|cmd_clone
 DECL|function|copy_alternates
