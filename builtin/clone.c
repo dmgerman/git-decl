@@ -4,6 +4,7 @@ DECL|function|clone_local
 DECL|function|cmd_clone
 DECL|function|copy_alternates
 DECL|function|copy_or_link_directory
+DECL|function|find_remote_branch
 DECL|function|get_repo_path
 DECL|function|guess_dir_name
 DECL|function|opt_parse_reference
@@ -42,4 +43,3 @@ DECL|variable|option_template
 DECL|variable|option_upload_pack
 DECL|variable|option_verbosity
 DECL|variable|real_git_dir
-DECL|variable|src_ref_prefix
