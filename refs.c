@@ -1,4 +1,5 @@
 DECL|function|add_extra_ref
+DECL|function|add_packed_ref
 DECL|function|add_ref
 DECL|function|bad_ref_char
 DECL|function|check_refname_component
