@@ -111,6 +111,7 @@ DECL|member|peeled
 DECL|member|refname
 DECL|member|refs
 DECL|member|sha1
+DECL|member|sorted
 DECL|struct|ref_array
 DECL|struct|ref_cache
 DECL|struct|ref_entry
