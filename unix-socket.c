@@ -1,4 +1,8 @@
+DECL|function|chdir_len
+DECL|function|unix_sockaddr_cleanup
 DECL|function|unix_sockaddr_init
 DECL|function|unix_stream_connect
 DECL|function|unix_stream_listen
 DECL|function|unix_stream_socket
+DECL|member|orig_dir
+DECL|struct|unix_sockaddr_context
