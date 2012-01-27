@@ -1,1 +1,0 @@
-DECL|function|main
