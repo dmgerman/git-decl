@@ -12,6 +12,7 @@ DECL|function|setup_reference
 DECL|function|strip_trailing_slashes
 DECL|function|wanted_peer_refs
 DECL|function|write_config
+DECL|function|write_followtags
 DECL|function|write_one_config
 DECL|function|write_remote_refs
 DECL|variable|argv_submodule
@@ -33,7 +34,9 @@ DECL|variable|option_progress
 DECL|variable|option_recursive
 DECL|variable|option_reference
 DECL|variable|option_shared
+DECL|variable|option_single_branch
 DECL|variable|option_template
 DECL|variable|option_upload_pack
 DECL|variable|option_verbosity
 DECL|variable|real_git_dir
+DECL|variable|src_ref_prefix
