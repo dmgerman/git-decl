@@ -2,6 +2,7 @@ DECL|function|add_extra_header
 DECL|function|append_merge_tag_headers
 DECL|function|check_commit
 DECL|function|clear_commit_marks
+DECL|function|clear_commit_marks_1
 DECL|function|clear_commit_marks_for_object_array
 DECL|function|commit_graft_pos
 DECL|function|commit_list_count

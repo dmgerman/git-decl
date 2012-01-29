@@ -1,3 +1,4 @@
+DECL|function|alloc_base_data
 DECL|function|append_obj_to_pack
 DECL|function|bad_object
 DECL|function|check_object
@@ -12,6 +13,7 @@ DECL|function|final
 DECL|function|find_delta
 DECL|function|find_delta_children
 DECL|function|find_unresolved_deltas
+DECL|function|find_unresolved_deltas_1
 DECL|function|fix_unresolved_deltas
 DECL|function|flush
 DECL|function|free_base_data
@@ -49,7 +51,11 @@ DECL|member|idx
 DECL|member|obj
 DECL|member|obj_no
 DECL|member|offset
+DECL|member|ofs_first
+DECL|member|ofs_last
 DECL|member|real_type
+DECL|member|ref_first
+DECL|member|ref_last
 DECL|member|sha1
 DECL|member|size
 DECL|member|size
