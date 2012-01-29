@@ -1,4 +1,5 @@
 DECL|function|add_extra_ref
+DECL|function|add_packed_ref
 DECL|function|add_ref
 DECL|function|bad_ref_char
 DECL|function|check_refname_component
@@ -111,6 +112,7 @@ DECL|member|peeled
 DECL|member|refname
 DECL|member|refs
 DECL|member|sha1
+DECL|member|sorted
 DECL|struct|ref_array
 DECL|struct|ref_cache
 DECL|struct|ref_entry
