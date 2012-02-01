@@ -8,7 +8,6 @@ DECL|function|checkout_stage
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
 DECL|function|describe_one_orphan
-DECL|function|detach_advice
 DECL|function|git_checkout_config
 DECL|function|interactive_checkout
 DECL|function|merge_working_tree

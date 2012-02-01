@@ -1,4 +1,5 @@
 DECL|function|advise
+DECL|function|detach_advice
 DECL|function|die_resolve_conflict
 DECL|function|error_resolve_conflict
 DECL|function|git_default_advice_config
