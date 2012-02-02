@@ -33,8 +33,8 @@ DECL|member|prop_delta
 DECL|member|revision
 DECL|member|src
 DECL|member|srcRev
-DECL|member|textLength
 DECL|member|text_delta
+DECL|member|text_length
 DECL|member|timestamp
 DECL|member|type
 DECL|member|url
