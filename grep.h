@@ -46,6 +46,7 @@ DECL|member|color_match
 DECL|member|color_selected
 DECL|member|color_sep
 DECL|member|count
+DECL|member|driver
 DECL|member|extended
 DECL|member|field
 DECL|member|file_break
