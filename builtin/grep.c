@@ -1,6 +1,3 @@
-DECL|enumerator|WORK_FILE
-DECL|enumerator|WORK_SHA1
-DECL|enum|work_type
 DECL|function|add_work
 DECL|function|and_callback
 DECL|function|append_path
@@ -13,17 +10,13 @@ DECL|function|grep_cache
 DECL|function|grep_config
 DECL|function|grep_directory
 DECL|function|grep_file
-DECL|function|grep_file_async
 DECL|function|grep_lock
 DECL|function|grep_object
 DECL|function|grep_objects
 DECL|function|grep_sha1
-DECL|function|grep_sha1_async
 DECL|function|grep_tree
 DECL|function|grep_unlock
 DECL|function|help_callback
-DECL|function|load_file
-DECL|function|load_sha1
 DECL|function|lock_and_read_sha1_file
 DECL|function|not_callback
 DECL|function|open_callback
@@ -38,10 +31,8 @@ DECL|function|work_done
 DECL|macro|THREADS
 DECL|macro|TODO_SIZE
 DECL|member|done
-DECL|member|identifier
-DECL|member|name
 DECL|member|out
-DECL|member|type
+DECL|member|source
 DECL|struct|work_item
 DECL|variable|all_work_added
 DECL|variable|cond_add
