@@ -15,10 +15,14 @@ DECL|enumerator|GREP_OR
 DECL|enumerator|GREP_PATTERN
 DECL|enumerator|GREP_PATTERN_BODY
 DECL|enumerator|GREP_PATTERN_HEAD
+DECL|enumerator|GREP_SOURCE_BUF
+DECL|enumerator|GREP_SOURCE_FILE
+DECL|enumerator|GREP_SOURCE_SHA1
 DECL|enum|grep_context
 DECL|enum|grep_expr_node
 DECL|enum|grep_header_field
 DECL|enum|grep_pat_token
+DECL|enum|grep_source_type
 DECL|function|grep_read_lock
 DECL|function|grep_read_unlock
 DECL|macro|GREP_BINARY_DEFAULT
@@ -32,6 +36,7 @@ DECL|member|all_match
 DECL|member|atom
 DECL|member|binary
 DECL|member|binary
+DECL|member|buf
 DECL|member|color
 DECL|member|color_context
 DECL|member|color_filename
@@ -52,6 +57,7 @@ DECL|member|header_list
 DECL|member|header_tail
 DECL|member|heading
 DECL|member|hit
+DECL|member|identifier
 DECL|member|ignore_case
 DECL|member|ignore_case
 DECL|member|invert
@@ -60,6 +66,7 @@ DECL|member|last_shown
 DECL|member|left
 DECL|member|linenum
 DECL|member|max_depth
+DECL|member|name
 DECL|member|name_only
 DECL|member|next
 DECL|member|no
@@ -88,8 +95,10 @@ DECL|member|regflags
 DECL|member|relative
 DECL|member|right
 DECL|member|show_hunk_mark
+DECL|member|size
 DECL|member|status_only
 DECL|member|token
+DECL|member|type
 DECL|member|u
 DECL|member|unary
 DECL|member|unmatch_name_only
@@ -98,5 +107,6 @@ DECL|member|word_regexp
 DECL|struct|grep_expr
 DECL|struct|grep_opt
 DECL|struct|grep_pat
+DECL|struct|grep_source
 DECL|typedef|pcre
 DECL|typedef|pcre_extra
