@@ -1,4 +1,4 @@
-DECL|function|check_overflow
+DECL|function|check_offset_overflow
 DECL|function|input_error
 DECL|function|move_window
 DECL|function|read_to_fill_or_whine
