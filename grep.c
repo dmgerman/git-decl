@@ -55,5 +55,6 @@ DECL|macro|grep_attr_unlock
 DECL|member|field
 DECL|member|len
 DECL|variable|grep_attr_mutex
+DECL|variable|grep_read_mutex
 DECL|variable|grep_use_locks
 DECL|variable|header_field

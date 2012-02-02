@@ -28,8 +28,6 @@ DECL|function|lock_and_read_sha1_file
 DECL|function|not_callback
 DECL|function|open_callback
 DECL|function|pattern_callback
-DECL|function|read_sha1_lock
-DECL|function|read_sha1_unlock
 DECL|function|run
 DECL|function|run_pager
 DECL|function|start_threads
@@ -39,8 +37,6 @@ DECL|function|wait_all
 DECL|function|work_done
 DECL|macro|THREADS
 DECL|macro|TODO_SIZE
-DECL|macro|read_sha1_lock
-DECL|macro|read_sha1_unlock
 DECL|member|done
 DECL|member|identifier
 DECL|member|name
@@ -53,7 +49,6 @@ DECL|variable|cond_result
 DECL|variable|cond_write
 DECL|variable|grep_mutex
 DECL|variable|grep_usage
-DECL|variable|read_sha1_mutex
 DECL|variable|skip_first_line
 DECL|variable|threads
 DECL|variable|todo

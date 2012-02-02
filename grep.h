@@ -19,11 +19,15 @@ DECL|enum|grep_context
 DECL|enum|grep_expr_node
 DECL|enum|grep_header_field
 DECL|enum|grep_pat_token
+DECL|function|grep_read_lock
+DECL|function|grep_read_unlock
 DECL|macro|GREP_BINARY_DEFAULT
 DECL|macro|GREP_BINARY_NOMATCH
 DECL|macro|GREP_BINARY_TEXT
 DECL|macro|GREP_H
 DECL|macro|GREP_HEADER_FIELD_MAX
+DECL|macro|grep_read_lock
+DECL|macro|grep_read_unlock
 DECL|member|all_match
 DECL|member|atom
 DECL|member|binary
