@@ -29,6 +29,7 @@ DECL|function|grep_source_1
 DECL|function|grep_source_clear
 DECL|function|grep_source_clear_data
 DECL|function|grep_source_init
+DECL|function|grep_source_is_binary
 DECL|function|grep_source_load
 DECL|function|grep_source_load_driver
 DECL|function|grep_source_load_file
