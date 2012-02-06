@@ -20,6 +20,7 @@ DECL|function|git_tcp_connect
 DECL|function|git_tcp_connect_sock
 DECL|function|git_tcp_connect_sock
 DECL|function|git_use_proxy
+DECL|function|parse_feature_request
 DECL|function|server_supports
 DECL|macro|MAX_CMD_LEN
 DECL|macro|STR
