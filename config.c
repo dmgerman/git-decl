@@ -15,6 +15,7 @@ DECL|function|git_config_bool_or_int
 DECL|function|git_config_early
 DECL|function|git_config_from_file
 DECL|function|git_config_from_parameters
+DECL|function|git_config_include
 DECL|function|git_config_int
 DECL|function|git_config_maybe_bool
 DECL|function|git_config_maybe_bool_text
@@ -44,6 +45,7 @@ DECL|function|git_etc_gitconfig
 DECL|function|git_parse_file
 DECL|function|git_parse_long
 DECL|function|git_parse_ulong
+DECL|function|handle_path_include
 DECL|function|iskeychar
 DECL|function|lowercase
 DECL|function|matches
@@ -55,6 +57,7 @@ DECL|function|store_write_pair
 DECL|function|store_write_section
 DECL|function|write_error
 DECL|macro|MAXNAME
+DECL|macro|MAX_INCLUDE_DEPTH
 DECL|macro|MAX_MATCHES
 DECL|member|baselen
 DECL|member|do_not_match
@@ -74,5 +77,6 @@ DECL|member|var
 DECL|struct|config_file
 DECL|typedef|config_file
 DECL|variable|cf
+DECL|variable|include_depth_advice
 DECL|variable|store
 DECL|variable|zlib_compression_seen
