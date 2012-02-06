@@ -13,6 +13,7 @@ DECL|function|match_pattern
 DECL|function|parse_msg_arg
 DECL|function|set_signingkey
 DECL|function|show_reference
+DECL|function|show_tag_lines
 DECL|function|strbuf_check_tag_ref
 DECL|function|verify_tag
 DECL|function|write_tag_body
