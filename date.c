@@ -20,6 +20,7 @@ DECL|function|local_tzoffset
 DECL|function|match_alpha
 DECL|function|match_digit
 DECL|function|match_multi_number
+DECL|function|match_object_header_date
 DECL|function|match_string
 DECL|function|match_tz
 DECL|function|nodate
