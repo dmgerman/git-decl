@@ -2,6 +2,7 @@ DECL|function|gitmempcpy
 DECL|function|gitstrchrnul
 DECL|function|has_extension
 DECL|function|sane_case
+DECL|function|sane_iscase
 DECL|function|skip_prefix
 DECL|function|strtol_i
 DECL|function|strtoul_ui
@@ -95,8 +96,12 @@ DECL|macro|isascii
 DECL|macro|isascii
 DECL|macro|isdigit
 DECL|macro|isdigit
+DECL|macro|islower
+DECL|macro|islower
 DECL|macro|isspace
 DECL|macro|isspace
+DECL|macro|isupper
+DECL|macro|isupper
 DECL|macro|maximum_signed_value_of_type
 DECL|macro|maximum_unsigned_value_of_type
 DECL|macro|memmem
