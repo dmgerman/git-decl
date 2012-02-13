@@ -106,6 +106,7 @@ DECL|function|pprint_rename
 DECL|function|prep_temp_blob
 DECL|function|prepare_temp_file
 DECL|function|print_line_count
+DECL|function|print_stat_summary
 DECL|function|quote_two
 DECL|function|remove_space
 DECL|function|remove_tempfile
