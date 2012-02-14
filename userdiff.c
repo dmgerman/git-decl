@@ -1,7 +1,6 @@
 DECL|function|parse_bool
 DECL|function|parse_driver
 DECL|function|parse_funcname
-DECL|function|parse_string
 DECL|function|parse_tristate
 DECL|function|userdiff_config
 DECL|function|userdiff_find_by_name
