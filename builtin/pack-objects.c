@@ -42,6 +42,8 @@ DECL|function|name_cmp_len
 DECL|function|name_hash
 DECL|function|no_try_delta
 DECL|function|ofscmp
+DECL|function|option_parse_index_version
+DECL|function|option_parse_ulong
 DECL|function|pack_offset_sort
 DECL|function|pbase_tree_cache_ix
 DECL|function|pbase_tree_cache_ix_incr
@@ -62,6 +64,7 @@ DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
 DECL|macro|OBJECT_ADDED
+DECL|macro|OPT_ULONG
 DECL|macro|cache_lock
 DECL|macro|cache_lock
 DECL|macro|cache_unlock
