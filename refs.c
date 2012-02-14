@@ -1,10 +1,8 @@
-DECL|function|add_extra_ref
 DECL|function|add_packed_ref
 DECL|function|add_ref
 DECL|function|bad_ref_char
 DECL|function|check_refname_component
 DECL|function|check_refname_format
-DECL|function|clear_extra_refs
 DECL|function|clear_loose_ref_cache
 DECL|function|clear_packed_ref_cache
 DECL|function|clear_ref_array
@@ -119,7 +117,6 @@ DECL|struct|ref_entry
 DECL|struct|ref_filter
 DECL|struct|warn_if_dangling_data
 DECL|variable|current_ref
-DECL|variable|extra_refs
 DECL|variable|packlock
 DECL|variable|ref_cache
 DECL|variable|ref_rev_parse_rules

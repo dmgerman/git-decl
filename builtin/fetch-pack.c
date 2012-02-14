@@ -17,8 +17,8 @@ DECL|function|find_common
 DECL|function|get_ack
 DECL|function|get_pack
 DECL|function|get_rev
-DECL|function|insert_alternate_refs
 DECL|function|insert_one_alternate_ref
+DECL|function|mark_alternate_complete
 DECL|function|mark_common
 DECL|function|mark_complete
 DECL|function|mark_recent_complete_commits
