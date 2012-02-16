@@ -74,6 +74,5 @@ DECL|member|var
 DECL|struct|config_file
 DECL|typedef|config_file
 DECL|variable|cf
-DECL|variable|config_exclusive_filename
 DECL|variable|store
 DECL|variable|zlib_compression_seen
