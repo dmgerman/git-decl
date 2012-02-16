@@ -23,6 +23,7 @@ DECL|function|git_config_parse_parameter
 DECL|function|git_config_pathname
 DECL|function|git_config_push_parameter
 DECL|function|git_config_rename_section
+DECL|function|git_config_rename_section_in_file
 DECL|function|git_config_set
 DECL|function|git_config_set_in_file
 DECL|function|git_config_set_multivar
