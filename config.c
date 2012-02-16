@@ -31,6 +31,7 @@ DECL|function|git_config_set_multivar_in_file
 DECL|function|git_config_string
 DECL|function|git_config_system
 DECL|function|git_config_ulong
+DECL|function|git_config_with_options
 DECL|function|git_default_branch_config
 DECL|function|git_default_config
 DECL|function|git_default_core_config
