@@ -13,7 +13,9 @@ DECL|function|git_tag_config
 DECL|function|in_commit_list
 DECL|function|list_tags
 DECL|function|match_pattern
+DECL|function|match_points_at
 DECL|function|parse_msg_arg
+DECL|function|parse_opt_points_at
 DECL|function|show_reference
 DECL|function|show_tag_lines
 DECL|function|strbuf_check_tag_ref
@@ -32,5 +34,6 @@ DECL|struct|msg_arg
 DECL|struct|tag_filter
 DECL|typedef|each_tag_name_fn
 DECL|variable|git_tag_usage
+DECL|variable|points_at
 DECL|variable|tag_template
 DECL|variable|tag_template_nocleanup
