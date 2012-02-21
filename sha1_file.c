@@ -16,6 +16,7 @@ DECL|function|close_sha1_file
 DECL|function|create_tmpfile
 DECL|function|directory_size
 DECL|function|experimental_loose_object
+DECL|function|fill_pack_entry
 DECL|function|fill_sha1_path
 DECL|function|find_cached_object
 DECL|function|find_pack_entry
@@ -137,6 +138,7 @@ DECL|variable|delta_base_cache_lru
 DECL|variable|delta_base_cached
 DECL|variable|do_check_packed_object_crc
 DECL|variable|empty_tree
+DECL|variable|last_found_pack
 DECL|variable|null_sha1
 DECL|variable|pack_mapped
 DECL|variable|pack_max_fds
