@@ -14,7 +14,6 @@ DECL|function|apply_refspecs
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
-DECL|function|check_pattern_match
 DECL|function|copy_ref
 DECL|function|copy_ref_list
 DECL|function|count_refspec_match
@@ -29,6 +28,7 @@ DECL|function|get_expanded_map
 DECL|function|get_fetch_map
 DECL|function|get_local_heads
 DECL|function|get_local_ref
+DECL|function|get_ref_match
 DECL|function|get_remote_ref
 DECL|function|get_stale_heads
 DECL|function|get_stale_heads_cb
