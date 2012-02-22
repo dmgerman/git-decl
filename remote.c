@@ -8,6 +8,7 @@ DECL|function|add_url
 DECL|function|add_url_alias
 DECL|function|alias_all_urls
 DECL|function|alias_url
+DECL|function|alloc_delete_ref
 DECL|function|alloc_ref
 DECL|function|alloc_ref_with_prefix
 DECL|function|apply_refspecs
