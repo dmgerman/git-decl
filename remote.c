@@ -1,3 +1,6 @@
+DECL|enumerator|FROM_DST
+DECL|enumerator|FROM_SRC
+DECL|enum|map_direction
 DECL|function|add_fetch_refspec
 DECL|function|add_instead_of
 DECL|function|add_merge
