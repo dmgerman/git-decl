@@ -115,6 +115,7 @@ DECL|macro|CE_VALID
 DECL|macro|CE_WT_REMOVE
 DECL|macro|CONFIG_DATA_ENVIRONMENT
 DECL|macro|CONFIG_ENVIRONMENT
+DECL|macro|CONFIG_INCLUDE_INIT
 DECL|macro|CONFIG_INVALID_FILE
 DECL|macro|CONFIG_INVALID_KEY
 DECL|macro|CONFIG_INVALID_PATTERN
@@ -272,7 +273,9 @@ DECL|member|ce_size
 DECL|member|ce_uid
 DECL|member|ctime
 DECL|member|ctime
+DECL|member|data
 DECL|member|deletion
+DECL|member|depth
 DECL|member|dev
 DECL|member|dev
 DECL|member|dir_next
@@ -283,6 +286,7 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|flags
 DECL|member|flags2
+DECL|member|fn
 DECL|member|force
 DECL|member|force
 DECL|member|gid
@@ -391,6 +395,7 @@ DECL|struct|cache_entry
 DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|struct|checkout
+DECL|struct|config_include_data
 DECL|struct|extra_have_objects
 DECL|struct|git_zstream
 DECL|struct|index_state
