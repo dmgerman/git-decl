@@ -13,7 +13,6 @@ DECL|function|list_commands
 DECL|function|list_commands_in_dir
 DECL|function|load_command_list
 DECL|function|pretty_print_string_list
-DECL|function|term_columns
 DECL|function|uniq
 DECL|macro|SIMILARITY_FLOOR
 DECL|macro|SIMILAR_ENOUGH
