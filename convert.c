@@ -77,6 +77,7 @@ DECL|member|one
 DECL|member|path
 DECL|member|printable
 DECL|member|ptr
+DECL|member|required
 DECL|member|size
 DECL|member|smudge
 DECL|member|src
