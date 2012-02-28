@@ -22,6 +22,7 @@ DECL|function|show_local_changes
 DECL|function|skip_same_name
 DECL|function|suggest_reattach
 DECL|function|switch_branches
+DECL|function|switch_unborn_to_new_branch
 DECL|function|unique_tracking_name
 DECL|function|update_refs_for_switch
 DECL|function|update_some

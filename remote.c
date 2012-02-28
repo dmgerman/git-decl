@@ -1,3 +1,6 @@
+DECL|enumerator|FROM_DST
+DECL|enumerator|FROM_SRC
+DECL|enum|map_direction
 DECL|function|add_fetch_refspec
 DECL|function|add_instead_of
 DECL|function|add_merge
@@ -8,13 +11,13 @@ DECL|function|add_url
 DECL|function|add_url_alias
 DECL|function|alias_all_urls
 DECL|function|alias_url
+DECL|function|alloc_delete_ref
 DECL|function|alloc_ref
 DECL|function|alloc_ref_with_prefix
 DECL|function|apply_refspecs
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
-DECL|function|check_pattern_match
 DECL|function|copy_ref
 DECL|function|copy_ref_list
 DECL|function|count_refspec_match
@@ -29,6 +32,7 @@ DECL|function|get_expanded_map
 DECL|function|get_fetch_map
 DECL|function|get_local_heads
 DECL|function|get_local_ref
+DECL|function|get_ref_match
 DECL|function|get_remote_ref
 DECL|function|get_stale_heads
 DECL|function|get_stale_heads_cb

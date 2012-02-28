@@ -49,6 +49,7 @@ DECL|variable|key_delim
 DECL|variable|key_regexp
 DECL|variable|parsed_color
 DECL|variable|regexp
+DECL|variable|respect_includes
 DECL|variable|seen
 DECL|variable|show_keys
 DECL|variable|term

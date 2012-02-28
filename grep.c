@@ -22,9 +22,18 @@ DECL|function|free_pcre_regexp
 DECL|function|grep_attr_lock
 DECL|function|grep_attr_unlock
 DECL|function|grep_buffer
-DECL|function|grep_buffer_1
 DECL|function|grep_opt_dup
 DECL|function|grep_or_expr
+DECL|function|grep_source
+DECL|function|grep_source_1
+DECL|function|grep_source_clear
+DECL|function|grep_source_clear_data
+DECL|function|grep_source_init
+DECL|function|grep_source_is_binary
+DECL|function|grep_source_load
+DECL|function|grep_source_load_driver
+DECL|function|grep_source_load_file
+DECL|function|grep_source_load_sha1
 DECL|function|grep_true_expr
 DECL|function|is_fixed
 DECL|function|look_ahead
@@ -55,4 +64,6 @@ DECL|macro|grep_attr_unlock
 DECL|member|field
 DECL|member|len
 DECL|variable|grep_attr_mutex
+DECL|variable|grep_read_mutex
+DECL|variable|grep_use_locks
 DECL|variable|header_field
