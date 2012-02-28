@@ -1,6 +1,7 @@
 DECL|macro|BISECT_H
 DECL|macro|BISECT_SHOW_ALL
-DECL|member|bisect_show_flags
+DECL|macro|REV_LIST_QUIET
+DECL|member|flags
 DECL|member|hdr_termination
 DECL|member|header_prefix
 DECL|member|revs
