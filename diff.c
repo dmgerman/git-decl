@@ -225,6 +225,7 @@ DECL|variable|diff_mnemonic_prefix
 DECL|variable|diff_no_prefix
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
+DECL|variable|diff_stat_graph_width
 DECL|variable|diff_suppress_blank_empty
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
