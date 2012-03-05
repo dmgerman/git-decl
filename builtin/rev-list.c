@@ -11,5 +11,4 @@ DECL|function|show_bisect_vars
 DECL|function|show_commit
 DECL|function|show_edge
 DECL|function|show_object
-DECL|function|show_tried_revs
 DECL|variable|rev_list_usage
