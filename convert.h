@@ -11,4 +11,5 @@ DECL|enumerator|SAFE_CRLF_WARN
 DECL|enum|auto_crlf
 DECL|enum|eol
 DECL|enum|safe_crlf
+DECL|function|would_convert_to_git
 DECL|macro|CONVERT_H
