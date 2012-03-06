@@ -8,6 +8,8 @@ DECL|function|lstat_cache_matchlen
 DECL|function|remove_scheduled_dirs
 DECL|function|reset_lstat_cache
 DECL|function|schedule_dir_for_removal
+DECL|function|threaded_check_leading_path
+DECL|function|threaded_has_dirs_only_path
 DECL|function|threaded_has_symlink_leading_path
 DECL|macro|FL_DIR
 DECL|macro|FL_ERR
