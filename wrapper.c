@@ -4,6 +4,7 @@ DECL|function|git_mkstemp_mode
 DECL|function|git_mkstemps
 DECL|function|git_mkstemps_mode
 DECL|function|gitmkstemps
+DECL|function|memory_limit_check
 DECL|function|read_in_full
 DECL|function|remove_or_warn
 DECL|function|rmdir_or_warn
