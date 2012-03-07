@@ -36,6 +36,7 @@ DECL|function|find_name_gnu
 DECL|function|find_name_traditional
 DECL|function|find_pos
 DECL|function|fractional_time_len
+DECL|function|free_patch
 DECL|function|fuzzy_matchlines
 DECL|function|get_current_sha1
 DECL|function|git_apply_config
@@ -145,6 +146,7 @@ DECL|member|def_name
 DECL|member|deflate_origlen
 DECL|member|flag
 DECL|member|fragments
+DECL|member|free_patch
 DECL|member|hash
 DECL|member|inaccurate_eof
 DECL|member|is_binary
