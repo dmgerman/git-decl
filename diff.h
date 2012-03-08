@@ -50,6 +50,7 @@ DECL|macro|DIFF_OPT_IGNORE_SUBMODULES
 DECL|macro|DIFF_OPT_IGNORE_UNTRACKED_IN_SUBMODULES
 DECL|macro|DIFF_OPT_NO_INDEX
 DECL|macro|DIFF_OPT_OVERRIDE_SUBMODULE_CONFIG
+DECL|macro|DIFF_OPT_PICKAXE_IGNORE_CASE
 DECL|macro|DIFF_OPT_QUICK
 DECL|macro|DIFF_OPT_RECURSIVE
 DECL|macro|DIFF_OPT_RELATIVE_NAME
@@ -130,6 +131,7 @@ DECL|member|show_rename_progress
 DECL|member|single_follow
 DECL|member|skip_stat_unmatch
 DECL|member|stat_count
+DECL|member|stat_graph_width
 DECL|member|stat_name_width
 DECL|member|stat_sep
 DECL|member|stat_width
