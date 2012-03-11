@@ -272,6 +272,8 @@ DECL|member|ce_size
 DECL|member|ce_uid
 DECL|member|ctime
 DECL|member|ctime
+DECL|member|date_begin
+DECL|member|date_end
 DECL|member|deletion
 DECL|member|dev
 DECL|member|dev
@@ -305,6 +307,8 @@ DECL|member|last_used
 DECL|member|len
 DECL|member|len
 DECL|member|len
+DECL|member|mail_begin
+DECL|member|mail_end
 DECL|member|match
 DECL|member|max_depth
 DECL|member|merge
@@ -319,6 +323,8 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|name
+DECL|member|name_begin
+DECL|member|name_end
 DECL|member|name_hash
 DECL|member|name_hash_initialized
 DECL|member|new_sha1
@@ -378,6 +384,8 @@ DECL|member|total_in
 DECL|member|total_out
 DECL|member|track_flags
 DECL|member|tree
+DECL|member|tz_begin
+DECL|member|tz_end
 DECL|member|u
 DECL|member|uid
 DECL|member|uid
@@ -393,6 +401,7 @@ DECL|struct|cache_time
 DECL|struct|checkout
 DECL|struct|extra_have_objects
 DECL|struct|git_zstream
+DECL|struct|ident_split
 DECL|struct|index_state
 DECL|struct|lock_file
 DECL|struct|object_context
