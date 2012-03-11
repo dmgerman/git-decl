@@ -17,6 +17,7 @@ DECL|function|determine_author_info
 DECL|function|determine_whence
 DECL|function|dry_run_commit
 DECL|function|ends_rfc2822_footer
+DECL|function|export_one
 DECL|function|find_author_by_nickname
 DECL|function|git_commit_config
 DECL|function|git_status_config
