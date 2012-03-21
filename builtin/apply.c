@@ -68,6 +68,7 @@ DECL|function|linelen
 DECL|function|match_fragment
 DECL|function|metadata_changes
 DECL|function|name_terminate
+DECL|function|null_strdup
 DECL|function|numstat_patch_list
 DECL|function|option_parse_directory
 DECL|function|option_parse_exclude
