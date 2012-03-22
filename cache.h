@@ -68,6 +68,7 @@ DECL|function|hashcmp
 DECL|function|hashcpy
 DECL|function|hexval
 DECL|function|is_absolute_path
+DECL|function|is_empty_blob_sha1
 DECL|function|is_null_sha1
 DECL|function|lookup_replace_object
 DECL|function|object_type
@@ -140,6 +141,9 @@ DECL|macro|DT_REG
 DECL|macro|DT_REG
 DECL|macro|DT_UNKNOWN
 DECL|macro|DT_UNKNOWN
+DECL|macro|EMPTY_BLOB_SHA1_BIN
+DECL|macro|EMPTY_BLOB_SHA1_BIN_LITERAL
+DECL|macro|EMPTY_BLOB_SHA1_HEX
 DECL|macro|EMPTY_TREE_SHA1_BIN
 DECL|macro|EMPTY_TREE_SHA1_BIN_LITERAL
 DECL|macro|EMPTY_TREE_SHA1_HEX
