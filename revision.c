@@ -60,6 +60,7 @@ DECL|function|put_revision_mark
 DECL|function|read_pathspec_from_stdin
 DECL|function|read_revisions_from_stdin
 DECL|function|remove_duplicate_parents
+DECL|function|reset_revision_walk
 DECL|function|rev_compare_tree
 DECL|function|rev_same_tree_as_empty
 DECL|function|rewrite_one
