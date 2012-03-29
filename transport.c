@@ -1,6 +1,7 @@
 DECL|function|close_bundle
 DECL|function|connect_git
 DECL|function|connect_setup
+DECL|function|die_with_unpushed_submodules
 DECL|function|disconnect_git
 DECL|function|external_specification_len
 DECL|function|fetch_objs_via_rsync

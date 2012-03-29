@@ -3,11 +3,11 @@ DECL|function|add_sha1_to_array
 DECL|function|add_submodule_odb
 DECL|function|calculate_changed_submodule_paths
 DECL|function|check_for_new_submodule_commits
-DECL|function|check_submodule_needs_pushing
 DECL|function|collect_submodules_from_diff
-DECL|function|commit_need_pushing
 DECL|function|fetch_populated_submodules
 DECL|function|find_first_merges
+DECL|function|find_unpushed_submodule_commits
+DECL|function|find_unpushed_submodules
 DECL|function|gitmodules_config
 DECL|function|handle_ignore_submodules_arg
 DECL|function|has_remote
