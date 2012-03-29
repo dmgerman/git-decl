@@ -36,6 +36,7 @@ DECL|function|find_name_gnu
 DECL|function|find_name_traditional
 DECL|function|find_pos
 DECL|function|fractional_time_len
+DECL|function|free_fragment_list
 DECL|function|free_patch
 DECL|function|free_patch_list
 DECL|function|fuzzy_matchlines
