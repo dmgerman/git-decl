@@ -23,6 +23,7 @@ DECL|function|set_cloexec
 DECL|function|start_async
 DECL|function|start_command
 DECL|function|wait_or_whine
+DECL|macro|SHELL_PATH
 DECL|member|next
 DECL|member|pid
 DECL|struct|child_to_clean
