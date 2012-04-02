@@ -5,6 +5,7 @@ DECL|function|checkout_fast_forward
 DECL|function|cmd_merge
 DECL|function|count_diff_files
 DECL|function|count_unmerged_entries
+DECL|function|default_edit_option
 DECL|function|drop_save
 DECL|function|evaluate_result
 DECL|function|finish
