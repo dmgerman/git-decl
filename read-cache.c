@@ -25,6 +25,7 @@ DECL|function|create_from_disk
 DECL|function|df_name_compare
 DECL|function|different_name
 DECL|function|discard_index
+DECL|function|expand_name_field
 DECL|function|fill_stat_cache_info
 DECL|function|has_dir_name
 DECL|function|has_file_name
