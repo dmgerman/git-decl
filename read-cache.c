@@ -3,6 +3,7 @@ DECL|function|add_index_entry
 DECL|function|add_index_entry_with_check
 DECL|function|add_to_index
 DECL|function|base_name_compare
+DECL|function|cache_entry_from_ondisk
 DECL|function|cache_name_compare
 DECL|function|ce_compare_data
 DECL|function|ce_compare_gitlink
