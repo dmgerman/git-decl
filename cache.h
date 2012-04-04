@@ -164,6 +164,8 @@ DECL|macro|IDENT_NAME_GIVEN
 DECL|macro|IDENT_NO_DATE
 DECL|macro|IDENT_WARN_ON_NO_NAME
 DECL|macro|INDEX_ENVIRONMENT
+DECL|macro|INDEX_FORMAT_LB
+DECL|macro|INDEX_FORMAT_UB
 DECL|macro|INFOATTRIBUTES_FILE
 DECL|macro|INIT_DB_QUIET
 DECL|macro|INODE_CHANGED
@@ -359,6 +361,7 @@ DECL|member|track_flags
 DECL|member|tree
 DECL|member|u
 DECL|member|use_wildcard
+DECL|member|version
 DECL|member|whence
 DECL|member|windows
 DECL|member|z
