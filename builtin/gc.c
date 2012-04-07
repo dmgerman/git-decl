@@ -1,3 +1,4 @@
+DECL|function|add_repack_all_option
 DECL|function|append_option
 DECL|function|cmd_gc
 DECL|function|gc_config
