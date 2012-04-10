@@ -122,11 +122,14 @@ DECL|member|refname
 DECL|member|refs
 DECL|member|sha1
 DECL|member|sorted
+DECL|member|u
+DECL|member|value
 DECL|struct|name_conflict_cb
 DECL|struct|ref_array
 DECL|struct|ref_cache
 DECL|struct|ref_entry
 DECL|struct|ref_filter
+DECL|struct|ref_value
 DECL|struct|repack_without_ref_sb
 DECL|struct|warn_if_dangling_data
 DECL|variable|current_ref
