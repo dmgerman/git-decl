@@ -59,6 +59,7 @@ DECL|function|lock_ref_sha1
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
 DECL|function|log_ref_write
+DECL|function|name_conflict_fn
 DECL|function|names_conflict
 DECL|function|parse_ref_line
 DECL|function|peel_ref
@@ -97,6 +98,7 @@ DECL|macro|REF_KNOWS_PEELED
 DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc
 DECL|member|cb_data
+DECL|member|conflicting_refname
 DECL|member|did_loose
 DECL|member|did_packed
 DECL|member|fd
@@ -109,14 +111,17 @@ DECL|member|name
 DECL|member|name
 DECL|member|next
 DECL|member|nr
+DECL|member|oldrefname
 DECL|member|packed
 DECL|member|pattern
 DECL|member|peeled
 DECL|member|refname
 DECL|member|refname
+DECL|member|refname
 DECL|member|refs
 DECL|member|sha1
 DECL|member|sorted
+DECL|struct|name_conflict_cb
 DECL|struct|ref_array
 DECL|struct|ref_cache
 DECL|struct|ref_entry
