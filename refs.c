@@ -5,7 +5,7 @@ DECL|function|check_refname_component
 DECL|function|check_refname_format
 DECL|function|clear_loose_ref_cache
 DECL|function|clear_packed_ref_cache
-DECL|function|clear_ref_array
+DECL|function|clear_ref_dir
 DECL|function|close_ref
 DECL|function|commit_ref
 DECL|function|copy_msg
@@ -14,8 +14,8 @@ DECL|function|create_ref_entry
 DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|do_for_each_ref
-DECL|function|do_for_each_ref_in_array
-DECL|function|do_for_each_ref_in_arrays
+DECL|function|do_for_each_ref_in_dir
+DECL|function|do_for_each_ref_in_dirs
 DECL|function|do_for_each_reflog
 DECL|function|do_head_ref
 DECL|function|do_one_ref
@@ -82,9 +82,9 @@ DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref_unsafe
 DECL|function|resolve_refdup
-DECL|function|search_ref_array
+DECL|function|search_ref_dir
 DECL|function|shorten_unambiguous_ref
-DECL|function|sort_ref_array
+DECL|function|sort_ref_dir
 DECL|function|substitute_branch_name
 DECL|function|unlock_ref
 DECL|function|update_ref
@@ -102,6 +102,7 @@ DECL|member|cb_data
 DECL|member|conflicting_refname
 DECL|member|did_loose
 DECL|member|did_packed
+DECL|member|entries
 DECL|member|fd
 DECL|member|flag
 DECL|member|fn
@@ -119,14 +120,13 @@ DECL|member|peeled
 DECL|member|refname
 DECL|member|refname
 DECL|member|refname
-DECL|member|refs
 DECL|member|sha1
 DECL|member|sorted
 DECL|member|u
 DECL|member|value
 DECL|struct|name_conflict_cb
-DECL|struct|ref_array
 DECL|struct|ref_cache
+DECL|struct|ref_dir
 DECL|struct|ref_entry
 DECL|struct|ref_filter
 DECL|struct|ref_value
