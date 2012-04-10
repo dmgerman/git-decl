@@ -1,3 +1,4 @@
+DECL|function|add_entry_to_dir
 DECL|function|add_packed_ref
 DECL|function|add_ref
 DECL|function|bad_ref_char
@@ -9,6 +10,7 @@ DECL|function|clear_ref_dir
 DECL|function|close_ref
 DECL|function|commit_ref
 DECL|function|copy_msg
+DECL|function|create_dir_entry
 DECL|function|create_ref_cache
 DECL|function|create_ref_entry
 DECL|function|create_symref
@@ -22,6 +24,8 @@ DECL|function|do_one_ref
 DECL|function|dwim_log
 DECL|function|dwim_ref
 DECL|function|filter_refs
+DECL|function|find_containing_dir
+DECL|function|find_ref
 DECL|function|find_ref_by_name
 DECL|function|for_each_branch_ref
 DECL|function|for_each_branch_ref_submodule
@@ -95,6 +99,7 @@ DECL|function|write_ref_sha1
 DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
 DECL|macro|MAXREFLEN
+DECL|macro|REF_DIR
 DECL|macro|REF_KNOWS_PEELED
 DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc
@@ -122,6 +127,7 @@ DECL|member|refname
 DECL|member|refname
 DECL|member|sha1
 DECL|member|sorted
+DECL|member|subdir
 DECL|member|u
 DECL|member|value
 DECL|struct|name_conflict_cb
