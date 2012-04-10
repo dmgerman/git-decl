@@ -59,6 +59,7 @@ DECL|function|lock_ref_sha1
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
 DECL|function|log_ref_write
+DECL|function|names_conflict
 DECL|function|parse_ref_line
 DECL|function|peel_ref
 DECL|function|prettify_refname
@@ -73,6 +74,7 @@ DECL|function|refname_match
 DECL|function|remove_empty_directories
 DECL|function|rename_ref
 DECL|function|repack_without_ref
+DECL|function|repack_without_ref_fn
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
@@ -97,6 +99,7 @@ DECL|member|alloc
 DECL|member|cb_data
 DECL|member|did_loose
 DECL|member|did_packed
+DECL|member|fd
 DECL|member|flag
 DECL|member|fn
 DECL|member|fp
@@ -110,6 +113,7 @@ DECL|member|packed
 DECL|member|pattern
 DECL|member|peeled
 DECL|member|refname
+DECL|member|refname
 DECL|member|refs
 DECL|member|sha1
 DECL|member|sorted
@@ -117,6 +121,7 @@ DECL|struct|ref_array
 DECL|struct|ref_cache
 DECL|struct|ref_entry
 DECL|struct|ref_filter
+DECL|struct|repack_without_ref_sb
 DECL|struct|warn_if_dangling_data
 DECL|variable|current_ref
 DECL|variable|packlock
