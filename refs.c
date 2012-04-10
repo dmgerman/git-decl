@@ -14,6 +14,7 @@ DECL|function|create_ref_entry
 DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|do_for_each_ref
+DECL|function|do_for_each_ref_in_array
 DECL|function|do_for_each_reflog
 DECL|function|do_head_ref
 DECL|function|do_one_ref
