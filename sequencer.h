@@ -12,6 +12,7 @@ DECL|macro|SEQ_HEAD_FILE
 DECL|macro|SEQ_OPTS_FILE
 DECL|macro|SEQ_TODO_FILE
 DECL|member|action
+DECL|member|allow_empty
 DECL|member|allow_ff
 DECL|member|allow_rerere_auto
 DECL|member|edit
