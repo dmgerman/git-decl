@@ -1,6 +1,7 @@
 DECL|function|pthread_exit
 DECL|function|pthread_getspecific
 DECL|function|pthread_key_create
+DECL|function|pthread_key_delete
 DECL|function|pthread_setspecific
 DECL|macro|PTHREAD_H
 DECL|macro|PTHREAD_MUTEX_RECURSIVE
