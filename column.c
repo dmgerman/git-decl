@@ -11,7 +11,9 @@ DECL|function|parse_config
 DECL|function|parse_option
 DECL|function|parseopt_column_callback
 DECL|function|print_columns
+DECL|function|run_column_filter
 DECL|function|shrink_columns
+DECL|function|stop_column_filter
 DECL|macro|ENABLE_SET
 DECL|macro|LAYOUT_SET
 DECL|macro|XY2LINEAR
@@ -27,3 +29,5 @@ DECL|member|value
 DECL|member|width
 DECL|struct|colopt
 DECL|struct|column_data
+DECL|variable|column_process
+DECL|variable|fd_out
