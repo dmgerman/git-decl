@@ -33,6 +33,7 @@ DECL|struct|create_tag_options
 DECL|struct|msg_arg
 DECL|struct|tag_filter
 DECL|typedef|each_tag_name_fn
+DECL|variable|colopts
 DECL|variable|git_tag_usage
 DECL|variable|points_at
 DECL|variable|tag_template
