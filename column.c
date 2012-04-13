@@ -1,4 +1,5 @@
 DECL|function|column_config
+DECL|function|compute_column_width
 DECL|function|display_cell
 DECL|function|display_plain
 DECL|function|display_table
@@ -10,6 +11,7 @@ DECL|function|parse_config
 DECL|function|parse_option
 DECL|function|parseopt_column_callback
 DECL|function|print_columns
+DECL|function|shrink_columns
 DECL|macro|ENABLE_SET
 DECL|macro|LAYOUT_SET
 DECL|macro|XY2LINEAR
@@ -22,5 +24,6 @@ DECL|member|name
 DECL|member|opts
 DECL|member|rows
 DECL|member|value
+DECL|member|width
 DECL|struct|colopt
 DECL|struct|column_data

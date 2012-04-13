@@ -2,6 +2,7 @@ DECL|function|column_active
 DECL|macro|COLUMN_H
 DECL|macro|COL_AUTO
 DECL|macro|COL_COLUMN
+DECL|macro|COL_DENSE
 DECL|macro|COL_DISABLED
 DECL|macro|COL_ENABLED
 DECL|macro|COL_ENABLE_MASK
