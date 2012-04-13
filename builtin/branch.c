@@ -54,8 +54,10 @@ DECL|struct|ref_list
 DECL|variable|branch_colors
 DECL|variable|branch_use_color
 DECL|variable|builtin_branch_usage
+DECL|variable|colopts
 DECL|variable|edit_description
 DECL|variable|head
 DECL|variable|head_sha1
 DECL|variable|merge_filter
 DECL|variable|merge_filter_ref
+DECL|variable|output
