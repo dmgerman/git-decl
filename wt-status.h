@@ -21,6 +21,7 @@ DECL|macro|STATUS_H
 DECL|member|amend
 DECL|member|branch
 DECL|member|change
+DECL|member|colopts
 DECL|member|color_palette
 DECL|member|commitable
 DECL|member|dirty_submodule

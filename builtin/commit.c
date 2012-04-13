@@ -48,6 +48,7 @@ DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
 DECL|variable|cleanup_arg
 DECL|variable|cleanup_mode
+DECL|variable|colopts
 DECL|variable|commit_editmsg
 DECL|variable|commit_style
 DECL|variable|dry_run
