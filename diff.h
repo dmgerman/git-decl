@@ -115,6 +115,7 @@ DECL|member|orderfile
 DECL|member|output_format
 DECL|member|output_prefix
 DECL|member|output_prefix_data
+DECL|member|output_prefix_length
 DECL|member|parent
 DECL|member|path
 DECL|member|pathspec
