@@ -24,6 +24,7 @@ DECL|function|read_method_decl
 DECL|function|read_method_decl
 DECL|function|read_method_decl
 DECL|function|read_method_decl
+DECL|function|stream_blob_to_fd
 DECL|macro|FILTER_BUFFER
 DECL|macro|close_method_decl
 DECL|macro|open_method_decl
