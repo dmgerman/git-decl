@@ -32,7 +32,6 @@ DECL|function|ie_modified
 DECL|function|index_name_is_other
 DECL|function|index_name_pos
 DECL|function|index_name_pos_also_unmerged
-DECL|function|is_empty_blob_sha1
 DECL|function|is_index_unborn
 DECL|function|is_racy_timestamp
 DECL|function|make_cache_entry
