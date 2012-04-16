@@ -65,7 +65,6 @@ DECL|variable|option_renormalize
 DECL|variable|overwrite_ignore
 DECL|variable|pull_octopus
 DECL|variable|pull_twohead
-DECL|variable|remoteheads
 DECL|variable|shortlog_len
 DECL|variable|show_diffstat
 DECL|variable|show_progress
