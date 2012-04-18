@@ -3,4 +3,5 @@ DECL|function|argv_array_init
 DECL|function|argv_array_push
 DECL|function|argv_array_push_nodup
 DECL|function|argv_array_pushf
+DECL|function|argv_array_pushl
 DECL|variable|empty_argv
