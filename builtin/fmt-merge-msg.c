@@ -1,5 +1,9 @@
 DECL|function|add_branch_desc
+DECL|function|add_people_count
+DECL|function|add_people_info
 DECL|function|cmd_fmt_merge_msg
+DECL|function|cmp_string_list_util_as_integral
+DECL|function|credit_people
 DECL|function|fmt_merge_msg
 DECL|function|fmt_merge_msg_config
 DECL|function|fmt_merge_msg_sigs
@@ -8,7 +12,9 @@ DECL|function|fmt_tag_signature
 DECL|function|handle_line
 DECL|function|init_src_data
 DECL|function|print_joined
+DECL|function|record_person
 DECL|function|shortlog
+DECL|macro|util_as_integral
 DECL|member|branch
 DECL|member|generic
 DECL|member|head_status
