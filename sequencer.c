@@ -11,6 +11,8 @@ DECL|function|format_todo
 DECL|function|free_message
 DECL|function|get_encoding
 DECL|function|get_message
+DECL|function|is_index_unchanged
+DECL|function|is_original_commit_empty
 DECL|function|parse_insn_buffer
 DECL|function|parse_insn_line
 DECL|function|pick_commits
