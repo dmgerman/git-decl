@@ -1,0 +1,16 @@
+DECL|function|column_active
+DECL|macro|COLUMN_H
+DECL|macro|COL_AUTO
+DECL|macro|COL_DISABLED
+DECL|macro|COL_ENABLED
+DECL|macro|COL_ENABLE_MASK
+DECL|macro|COL_LAYOUT
+DECL|macro|COL_LAYOUT_MASK
+DECL|macro|COL_PARSEOPT
+DECL|macro|COL_PLAIN
+DECL|macro|explicitly_enable_column
+DECL|member|indent
+DECL|member|nl
+DECL|member|padding
+DECL|member|width
+DECL|struct|column_options

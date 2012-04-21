@@ -1,0 +1,14 @@
+DECL|function|column_config
+DECL|function|display_plain
+DECL|function|finalize_colopts
+DECL|function|git_column_config
+DECL|function|parse_config
+DECL|function|parse_option
+DECL|function|parseopt_column_callback
+DECL|function|print_columns
+DECL|macro|ENABLE_SET
+DECL|macro|LAYOUT_SET
+DECL|member|mask
+DECL|member|name
+DECL|member|value
+DECL|struct|colopt
