@@ -5,9 +5,13 @@ DECL|function|clear_commit_marks
 DECL|function|clear_commit_marks_1
 DECL|function|clear_commit_marks_for_object_array
 DECL|function|commit_graft_pos
+DECL|function|commit_list_compare_by_date
 DECL|function|commit_list_count
+DECL|function|commit_list_get_next
 DECL|function|commit_list_insert
 DECL|function|commit_list_insert_by_date
+DECL|function|commit_list_reverse
+DECL|function|commit_list_set_next
 DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
 DECL|function|commit_tree_extended
