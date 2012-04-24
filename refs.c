@@ -86,6 +86,7 @@ DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref_unsafe
 DECL|function|resolve_refdup
+DECL|function|search_for_subdir
 DECL|function|search_ref_dir
 DECL|function|shorten_unambiguous_ref
 DECL|function|sort_ref_dir
