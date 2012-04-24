@@ -45,6 +45,7 @@ DECL|member|result
 DECL|member|service
 DECL|member|service_name
 DECL|member|service_url
+DECL|member|stdin_preamble
 DECL|member|thin
 DECL|member|verbosity
 DECL|struct|discovery
