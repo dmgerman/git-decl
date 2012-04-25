@@ -5,6 +5,7 @@ DECL|function|clear_commit_marks
 DECL|function|clear_commit_marks_1
 DECL|function|clear_commit_marks_for_object_array
 DECL|function|commit_graft_pos
+DECL|function|commit_list_append
 DECL|function|commit_list_compare_by_date
 DECL|function|commit_list_count
 DECL|function|commit_list_get_next
