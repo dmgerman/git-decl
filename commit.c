@@ -11,7 +11,6 @@ DECL|function|commit_list_count
 DECL|function|commit_list_get_next
 DECL|function|commit_list_insert
 DECL|function|commit_list_insert_by_date
-DECL|function|commit_list_reverse
 DECL|function|commit_list_set_next
 DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
