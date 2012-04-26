@@ -106,8 +106,6 @@ DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc
 DECL|member|cb_data
 DECL|member|conflicting_refname
-DECL|member|did_loose
-DECL|member|did_packed
 DECL|member|entries
 DECL|member|fd
 DECL|member|flag
