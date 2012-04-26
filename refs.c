@@ -122,6 +122,7 @@ DECL|member|oldrefname
 DECL|member|packed
 DECL|member|pattern
 DECL|member|peeled
+DECL|member|ref_cache
 DECL|member|refname
 DECL|member|refname
 DECL|member|refname
