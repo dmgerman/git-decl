@@ -33,9 +33,11 @@ DECL|function|prepare_to_commit
 DECL|function|print_summary
 DECL|function|read_commit_message
 DECL|function|refresh_cache_or_die
+DECL|function|rest_is_empty
 DECL|function|rollback_index_files
 DECL|function|run_rewrite_hook
 DECL|function|run_status
+DECL|function|template_untouched
 DECL|function|whence_s
 DECL|variable|all
 DECL|variable|allow_empty
