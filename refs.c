@@ -51,7 +51,6 @@ DECL|function|get_loose_refs
 DECL|function|get_packed_ref
 DECL|function|get_packed_refs
 DECL|function|get_ref_cache
-DECL|function|get_ref_dir
 DECL|function|head_ref
 DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
@@ -69,6 +68,7 @@ DECL|function|names_conflict
 DECL|function|parse_ref_line
 DECL|function|peel_ref
 DECL|function|prettify_refname
+DECL|function|read_loose_refs
 DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
