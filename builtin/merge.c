@@ -3,6 +3,7 @@ DECL|function|add_strategies
 DECL|function|append_strategy
 DECL|function|checkout_fast_forward
 DECL|function|cmd_merge
+DECL|function|collect_parents
 DECL|function|count_diff_files
 DECL|function|count_unmerged_entries
 DECL|function|default_edit_option
@@ -65,7 +66,6 @@ DECL|variable|option_renormalize
 DECL|variable|overwrite_ignore
 DECL|variable|pull_octopus
 DECL|variable|pull_twohead
-DECL|variable|remoteheads
 DECL|variable|shortlog_len
 DECL|variable|show_diffstat
 DECL|variable|show_progress
