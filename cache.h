@@ -39,6 +39,7 @@ DECL|enumerator|PERM_UMASK
 DECL|enumerator|PUSH_DEFAULT_CURRENT
 DECL|enumerator|PUSH_DEFAULT_MATCHING
 DECL|enumerator|PUSH_DEFAULT_NOTHING
+DECL|enumerator|PUSH_DEFAULT_UNSPECIFIED
 DECL|enumerator|PUSH_DEFAULT_UPSTREAM
 DECL|enumerator|REF_STATUS_EXPECTING_REPORT
 DECL|enumerator|REF_STATUS_NONE
@@ -68,6 +69,7 @@ DECL|function|hashcmp
 DECL|function|hashcpy
 DECL|function|hexval
 DECL|function|is_absolute_path
+DECL|function|is_empty_blob_sha1
 DECL|function|is_null_sha1
 DECL|function|lookup_replace_object
 DECL|function|object_type
@@ -140,6 +142,9 @@ DECL|macro|DT_REG
 DECL|macro|DT_REG
 DECL|macro|DT_UNKNOWN
 DECL|macro|DT_UNKNOWN
+DECL|macro|EMPTY_BLOB_SHA1_BIN
+DECL|macro|EMPTY_BLOB_SHA1_BIN_LITERAL
+DECL|macro|EMPTY_BLOB_SHA1_HEX
 DECL|macro|EMPTY_TREE_SHA1_BIN
 DECL|macro|EMPTY_TREE_SHA1_BIN_LITERAL
 DECL|macro|EMPTY_TREE_SHA1_HEX
@@ -274,6 +279,8 @@ DECL|member|ce_uid
 DECL|member|ctime
 DECL|member|ctime
 DECL|member|data
+DECL|member|date_begin
+DECL|member|date_end
 DECL|member|deletion
 DECL|member|depth
 DECL|member|dev
@@ -309,6 +316,8 @@ DECL|member|last_used
 DECL|member|len
 DECL|member|len
 DECL|member|len
+DECL|member|mail_begin
+DECL|member|mail_end
 DECL|member|match
 DECL|member|max_depth
 DECL|member|merge
@@ -323,6 +332,8 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|name
+DECL|member|name_begin
+DECL|member|name_end
 DECL|member|name_hash
 DECL|member|name_hash_initialized
 DECL|member|new_sha1
@@ -382,6 +393,8 @@ DECL|member|total_in
 DECL|member|total_out
 DECL|member|track_flags
 DECL|member|tree
+DECL|member|tz_begin
+DECL|member|tz_end
 DECL|member|u
 DECL|member|uid
 DECL|member|uid
@@ -398,6 +411,7 @@ DECL|struct|checkout
 DECL|struct|config_include_data
 DECL|struct|extra_have_objects
 DECL|struct|git_zstream
+DECL|struct|ident_split
 DECL|struct|index_state
 DECL|struct|lock_file
 DECL|struct|object_context

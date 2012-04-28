@@ -17,6 +17,7 @@ DECL|function|debug_path
 DECL|function|debug_unpack_callback
 DECL|function|deleted_entry
 DECL|function|display_error_msgs
+DECL|function|do_add_entry
 DECL|function|do_compare_entry
 DECL|function|find_cache_entry
 DECL|function|find_cache_pos

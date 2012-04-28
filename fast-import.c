@@ -65,6 +65,9 @@ DECL|function|parse_from_existing
 DECL|function|parse_ident
 DECL|function|parse_ls
 DECL|function|parse_mark
+DECL|function|parse_mark_ref
+DECL|function|parse_mark_ref_eol
+DECL|function|parse_mark_ref_space
 DECL|function|parse_merge
 DECL|function|parse_new_blob
 DECL|function|parse_new_commit

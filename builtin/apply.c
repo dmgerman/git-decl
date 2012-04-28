@@ -36,6 +36,9 @@ DECL|function|find_name_gnu
 DECL|function|find_name_traditional
 DECL|function|find_pos
 DECL|function|fractional_time_len
+DECL|function|free_fragment_list
+DECL|function|free_patch
+DECL|function|free_patch_list
 DECL|function|fuzzy_matchlines
 DECL|function|get_current_sha1
 DECL|function|git_apply_config
@@ -66,6 +69,7 @@ DECL|function|linelen
 DECL|function|match_fragment
 DECL|function|metadata_changes
 DECL|function|name_terminate
+DECL|function|null_strdup
 DECL|function|numstat_patch_list
 DECL|function|option_parse_directory
 DECL|function|option_parse_exclude
@@ -126,7 +130,6 @@ DECL|function|write_out_one_result
 DECL|function|write_out_results
 DECL|macro|BINARY_DELTA_DEFLATED
 DECL|macro|BINARY_LITERAL_DEFLATED
-DECL|macro|CHUNKSIZE
 DECL|macro|INACCURATE_EOF
 DECL|macro|LINE_COMMON
 DECL|macro|LINE_PATCHED
@@ -145,6 +148,7 @@ DECL|member|def_name
 DECL|member|deflate_origlen
 DECL|member|flag
 DECL|member|fragments
+DECL|member|free_patch
 DECL|member|hash
 DECL|member|inaccurate_eof
 DECL|member|is_binary
