@@ -51,6 +51,7 @@ DECL|function|lowercase
 DECL|function|matches
 DECL|function|parse_unit_factor
 DECL|function|parse_value
+DECL|function|section_name_is_ok
 DECL|function|section_name_match
 DECL|function|store_aux
 DECL|function|store_write_pair
