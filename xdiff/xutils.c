@@ -1,5 +1,4 @@
 DECL|function|count_masked_bytes
-DECL|function|count_masked_bytes
 DECL|function|has_zero
 DECL|function|xdl_atol
 DECL|function|xdl_bogosqrt
