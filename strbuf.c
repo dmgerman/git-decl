@@ -1,12 +1,15 @@
+DECL|function|fprintf_ln
 DECL|function|is_rfc3986_reserved
 DECL|function|is_rfc3986_unreserved
 DECL|function|prefixcmp
+DECL|function|printf_ln
 DECL|function|strbuf_add
 DECL|function|strbuf_add_lines
 DECL|function|strbuf_add_urlencode
 DECL|function|strbuf_addbuf_percentquote
 DECL|function|strbuf_adddup
 DECL|function|strbuf_addf
+DECL|function|strbuf_addf_ln
 DECL|function|strbuf_addstr_urlencode
 DECL|function|strbuf_attach
 DECL|function|strbuf_cmp
