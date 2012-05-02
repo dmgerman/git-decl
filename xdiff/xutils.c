@@ -1,3 +1,5 @@
+DECL|function|count_masked_bytes
+DECL|function|has_zero
 DECL|function|xdl_atol
 DECL|function|xdl_bogosqrt
 DECL|function|xdl_cha_alloc
@@ -10,9 +12,13 @@ DECL|function|xdl_emit_hunk_hdr
 DECL|function|xdl_fall_back_diff
 DECL|function|xdl_guess_lines
 DECL|function|xdl_hash_record
+DECL|function|xdl_hash_record
 DECL|function|xdl_hash_record_with_whitespace
 DECL|function|xdl_hashbits
 DECL|function|xdl_mmfile_first
 DECL|function|xdl_mmfile_size
 DECL|function|xdl_num_out
 DECL|function|xdl_recmatch
+DECL|macro|HIGHBITS
+DECL|macro|NEWLINEBYTES
+DECL|macro|ONEBYTES
