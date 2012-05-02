@@ -38,7 +38,6 @@ DECL|function|rollback_index_files
 DECL|function|run_rewrite_hook
 DECL|function|run_status
 DECL|function|template_untouched
-DECL|function|whence_s
 DECL|variable|all
 DECL|variable|allow_empty
 DECL|variable|allow_empty_message
