@@ -3,6 +3,7 @@ DECL|function|advise_checkout_pull_push
 DECL|function|advise_pull_before_push
 DECL|function|advise_use_upstream
 DECL|function|cmd_push
+DECL|function|die_push_simple
 DECL|function|do_push
 DECL|function|option_parse_recurse_submodules
 DECL|function|push_url_of_remote
