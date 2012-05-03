@@ -2,6 +2,8 @@ DECL|function|copy_le16
 DECL|function|copy_le32
 DECL|function|dos_time
 DECL|function|init_zip_archiver
+DECL|function|set_zip_dir_data_desc
+DECL|function|set_zip_header_data_desc
 DECL|function|write_zip_archive
 DECL|function|write_zip_entry
 DECL|function|write_zip_trailer
