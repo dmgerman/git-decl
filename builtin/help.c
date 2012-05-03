@@ -38,6 +38,7 @@ DECL|struct|man_viewer_info_list
 DECL|struct|man_viewer_list
 DECL|variable|builtin_help_options
 DECL|variable|builtin_help_usage
+DECL|variable|colopts
 DECL|variable|help_format
 DECL|variable|main_cmds
 DECL|variable|man_viewer_info_list
