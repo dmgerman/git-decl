@@ -1,3 +1,7 @@
+DECL|enumerator|SELECTOR_DATE
+DECL|enumerator|SELECTOR_INDEX
+DECL|enumerator|SELECTOR_NONE
+DECL|enum|selector_type
 DECL|function|add_commit_info
 DECL|function|add_reflog_for_walk
 DECL|function|fake_reflog_parent
@@ -14,7 +18,6 @@ DECL|member|alloc
 DECL|member|commit
 DECL|member|complete_reflogs
 DECL|member|email
-DECL|member|flag
 DECL|member|items
 DECL|member|items
 DECL|member|last_commit_reflog
@@ -27,6 +30,7 @@ DECL|member|recno
 DECL|member|ref
 DECL|member|reflogs
 DECL|member|reflogs
+DECL|member|selector
 DECL|member|short_ref
 DECL|member|timestamp
 DECL|member|tz
