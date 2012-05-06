@@ -49,6 +49,7 @@ DECL|function|use
 DECL|function|write_compressed
 DECL|macro|FLAG_CHECKED
 DECL|macro|FLAG_LINK
+DECL|macro|NO_PTHREADS
 DECL|macro|UNION_BASE_SZ
 DECL|macro|counter_lock
 DECL|macro|counter_lock
