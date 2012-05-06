@@ -130,6 +130,8 @@ DECL|function|write_out_one_result
 DECL|function|write_out_results
 DECL|macro|BINARY_DELTA_DEFLATED
 DECL|macro|BINARY_LITERAL_DEFLATED
+DECL|macro|DIFF_NEW_NAME
+DECL|macro|DIFF_OLD_NAME
 DECL|macro|INACCURATE_EOF
 DECL|macro|LINE_COMMON
 DECL|macro|LINE_PATCHED
