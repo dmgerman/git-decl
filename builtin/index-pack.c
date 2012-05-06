@@ -7,6 +7,7 @@ DECL|function|cmd_index_pack
 DECL|function|cmp_uint32
 DECL|function|compare_delta_bases
 DECL|function|compare_delta_entry
+DECL|function|conclude_pack
 DECL|function|delta_pos_compare
 DECL|function|fill
 DECL|function|final
@@ -29,7 +30,9 @@ DECL|function|parse_pack_objects
 DECL|function|prune_base_data
 DECL|function|read_idx_option
 DECL|function|read_v2_anomalous_offsets
+DECL|function|resolve_base
 DECL|function|resolve_delta
+DECL|function|resolve_deltas
 DECL|function|sha1_object
 DECL|function|show_pack_info
 DECL|function|unlink_base_data
