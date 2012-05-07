@@ -82,7 +82,6 @@ DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|squash_message
 DECL|variable|status_format
-DECL|variable|status_show_branch
 DECL|variable|template_file
 DECL|variable|untracked_files_arg
 DECL|variable|use_editor

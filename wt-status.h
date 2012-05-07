@@ -38,6 +38,7 @@ DECL|member|pathspec
 DECL|member|prefix
 DECL|member|reference
 DECL|member|relative_paths
+DECL|member|show_branch
 DECL|member|show_ignored_files
 DECL|member|show_untracked_files
 DECL|member|stagemask
