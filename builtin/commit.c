@@ -46,7 +46,6 @@ DECL|variable|also
 DECL|variable|amend
 DECL|variable|author_message
 DECL|variable|author_message_buffer
-DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
 DECL|variable|cleanup_arg
