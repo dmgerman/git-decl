@@ -70,7 +70,6 @@ DECL|variable|logfile
 DECL|variable|message
 DECL|variable|no_post_rewrite
 DECL|variable|no_verify
-DECL|variable|null_termination
 DECL|variable|only
 DECL|variable|only_include_assumed
 DECL|variable|patch_interactive

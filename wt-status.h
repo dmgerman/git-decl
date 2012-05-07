@@ -33,6 +33,7 @@ DECL|member|index_status
 DECL|member|is_initial
 DECL|member|new_submodule_commits
 DECL|member|nowarn
+DECL|member|null_termination
 DECL|member|pathspec
 DECL|member|prefix
 DECL|member|reference
