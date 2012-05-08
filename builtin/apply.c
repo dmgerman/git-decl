@@ -124,6 +124,7 @@ DECL|function|summary_patch_list
 DECL|function|to_be_deleted
 DECL|function|trailing_spaces_len
 DECL|function|try_create_file
+DECL|function|try_threeway
 DECL|function|tz_with_colon_len
 DECL|function|update_image
 DECL|function|update_pre_post_images
@@ -237,6 +238,7 @@ DECL|variable|root
 DECL|variable|root_len
 DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
+DECL|variable|threeway
 DECL|variable|unidiff_zero
 DECL|variable|update_index
 DECL|variable|whitespace_error
