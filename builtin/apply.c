@@ -67,6 +67,7 @@ DECL|function|in_fn_table
 DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|linelen
+DECL|function|load_preimage
 DECL|function|match_fragment
 DECL|function|metadata_changes
 DECL|function|name_terminate
