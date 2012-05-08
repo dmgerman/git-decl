@@ -95,6 +95,7 @@ DECL|function|prefix_one
 DECL|function|prefix_patches
 DECL|function|prepare_fn_table
 DECL|function|prepare_image
+DECL|function|read_blob_object
 DECL|function|read_file_or_gitlink
 DECL|function|read_old_data
 DECL|function|read_patch_file
