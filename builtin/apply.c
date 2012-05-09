@@ -154,6 +154,7 @@ DECL|macro|myswap
 DECL|macro|swap
 DECL|member|alloc
 DECL|member|buf
+DECL|member|conflicted_threeway
 DECL|member|def_name
 DECL|member|deflate_origlen
 DECL|member|flag
@@ -196,6 +197,7 @@ DECL|member|result
 DECL|member|resultsize
 DECL|member|score
 DECL|member|size
+DECL|member|threeway_stage
 DECL|member|trailing
 DECL|member|ws_rule
 DECL|struct|fragment
