@@ -11,6 +11,7 @@ DECL|function|cmd_blame
 DECL|function|coalesce
 DECL|function|copy_split_if_better
 DECL|function|decref_split
+DECL|function|diff_hunks
 DECL|function|drop_origin_blob
 DECL|function|dup_entry
 DECL|function|emit_one_suspect_detail
