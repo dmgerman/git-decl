@@ -6,6 +6,7 @@ DECL|enumerator|nowarn_ws_error
 DECL|enumerator|warn_on_ws_error
 DECL|enum|ws_error_action
 DECL|enum|ws_ignore
+DECL|function|add_conflicted_stages_file
 DECL|function|add_index_file
 DECL|function|add_line_info
 DECL|function|add_name_limit
