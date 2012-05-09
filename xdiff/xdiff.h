@@ -31,7 +31,6 @@ DECL|macro|xdl_realloc
 DECL|member|ancestor
 DECL|member|bsize
 DECL|member|ctxlen
-DECL|member|emit_func
 DECL|member|favor
 DECL|member|file1
 DECL|member|file2
