@@ -1,5 +1,6 @@
 DECL|function|xdl_add_change
 DECL|function|xdl_build_script
+DECL|function|xdl_call_hunk_func
 DECL|function|xdl_change_compact
 DECL|function|xdl_diff
 DECL|function|xdl_do_diff
