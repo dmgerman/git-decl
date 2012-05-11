@@ -44,6 +44,7 @@ DECL|function|no_try_delta
 DECL|function|ofscmp
 DECL|function|option_parse_index_version
 DECL|function|option_parse_ulong
+DECL|function|option_parse_unpack_unreachable
 DECL|function|pack_offset_sort
 DECL|function|pbase_tree_cache_ix
 DECL|function|pbase_tree_cache_ix_incr
@@ -174,6 +175,7 @@ DECL|variable|reuse_object
 DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|unpack_unreachable
+DECL|variable|unpack_unreachable_expiration
 DECL|variable|window
 DECL|variable|window_memory_limit
 DECL|variable|written
