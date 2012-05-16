@@ -61,9 +61,11 @@ DECL|function|threaded_find_deltas
 DECL|function|try_delta
 DECL|function|try_to_free_from_threads
 DECL|function|type_size_sort
+DECL|function|write_no_reuse_object
 DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
+DECL|function|write_reuse_object
 DECL|macro|OBJECT_ADDED
 DECL|macro|OPT_ULONG
 DECL|macro|cache_lock
