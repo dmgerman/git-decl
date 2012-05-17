@@ -1,12 +1,9 @@
 DECL|function|count_masked_bytes
 DECL|function|has_zero
-DECL|function|xdl_atol
 DECL|function|xdl_bogosqrt
 DECL|function|xdl_cha_alloc
-DECL|function|xdl_cha_first
 DECL|function|xdl_cha_free
 DECL|function|xdl_cha_init
-DECL|function|xdl_cha_next
 DECL|function|xdl_emit_diffrec
 DECL|function|xdl_emit_hunk_hdr
 DECL|function|xdl_fall_back_diff

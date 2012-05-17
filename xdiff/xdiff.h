@@ -31,7 +31,6 @@ DECL|macro|xdl_realloc
 DECL|member|ancestor
 DECL|member|bsize
 DECL|member|ctxlen
-DECL|member|emit_func
 DECL|member|favor
 DECL|member|file1
 DECL|member|file2
@@ -39,6 +38,7 @@ DECL|member|find_func
 DECL|member|find_func_priv
 DECL|member|flags
 DECL|member|flags
+DECL|member|hunk_func
 DECL|member|interhunkctxlen
 DECL|member|level
 DECL|member|marker_size
@@ -63,5 +63,6 @@ DECL|typedef|mmbuffer_t
 DECL|typedef|mmfile_t
 DECL|typedef|xdemitcb_t
 DECL|typedef|xdemitconf_t
+DECL|typedef|xdl_emit_hunk_consume_func_t
 DECL|typedef|xmparam_t
 DECL|typedef|xpparam_t
