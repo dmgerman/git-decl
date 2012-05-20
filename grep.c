@@ -13,6 +13,7 @@ DECL|function|compile_pcre_regexp
 DECL|function|compile_pcre_regexp
 DECL|function|compile_regexp
 DECL|function|compile_regexp_failed
+DECL|function|create_grep_pat
 DECL|function|end_of_line
 DECL|function|fixmatch
 DECL|function|free_grep_patterns
