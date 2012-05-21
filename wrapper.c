@@ -15,6 +15,7 @@ DECL|function|write_in_full
 DECL|function|xcalloc
 DECL|function|xdup
 DECL|function|xfdopen
+DECL|function|xgetpwuid_self
 DECL|function|xmalloc
 DECL|function|xmallocz
 DECL|function|xmemdupz
