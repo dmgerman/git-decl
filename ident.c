@@ -1,7 +1,5 @@
 DECL|function|add_domainname
 DECL|function|add_mailname_host
-DECL|function|add_raw
-DECL|function|copy
 DECL|function|copy_email
 DECL|function|copy_gecos
 DECL|function|crud
@@ -14,6 +12,7 @@ DECL|function|ident_default_date
 DECL|function|ident_default_email
 DECL|function|ident_default_name
 DECL|function|split_ident_line
+DECL|function|strbuf_addstr_without_crud
 DECL|function|user_ident_sufficiently_given
 DECL|macro|get_gecos
 DECL|macro|get_gecos
