@@ -9,6 +9,7 @@ DECL|function|fmt_ident
 DECL|function|fmt_name
 DECL|function|git_author_info
 DECL|function|git_committer_info
+DECL|function|git_ident_config
 DECL|function|ident_default_date
 DECL|function|ident_default_email
 DECL|function|ident_default_name
