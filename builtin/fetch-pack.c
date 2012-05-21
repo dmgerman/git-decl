@@ -6,6 +6,7 @@ DECL|enumerator|NAK
 DECL|enum|ack_type
 DECL|function|clear_marks
 DECL|function|cmd_fetch_pack
+DECL|function|compare_heads
 DECL|function|consume_shallow_list
 DECL|function|do_fetch_pack
 DECL|function|everything_local
