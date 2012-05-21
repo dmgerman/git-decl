@@ -15,7 +15,6 @@ DECL|function|ident_default_email
 DECL|function|ident_default_name
 DECL|function|split_ident_line
 DECL|function|user_ident_sufficiently_given
-DECL|macro|MAX_GITNAME
 DECL|macro|get_gecos
 DECL|macro|get_gecos
 DECL|variable|env_hint
