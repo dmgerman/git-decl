@@ -55,6 +55,9 @@ DECL|function|query_refspecs
 DECL|function|read_branches_file
 DECL|function|read_config
 DECL|function|read_remotes_file
+DECL|function|ref_compare_name
+DECL|function|ref_list_get_next
+DECL|function|ref_list_set_next
 DECL|function|ref_newer
 DECL|function|ref_remove_duplicates
 DECL|function|remote_find_tracking
@@ -63,6 +66,7 @@ DECL|function|remote_has_url
 DECL|function|remote_is_configured
 DECL|function|resolve_remote_symref
 DECL|function|set_ref_status_for_push
+DECL|function|sort_ref_list
 DECL|function|stat_tracking_info
 DECL|function|tail_link_ref
 DECL|function|tail_ref
