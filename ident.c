@@ -9,7 +9,9 @@ DECL|function|fmt_ident
 DECL|function|fmt_name
 DECL|function|git_author_info
 DECL|function|git_committer_info
-DECL|function|setup_ident
+DECL|function|ident_default_date
+DECL|function|ident_default_email
+DECL|function|ident_default_name
 DECL|function|split_ident_line
 DECL|function|user_ident_sufficiently_given
 DECL|macro|get_gecos
