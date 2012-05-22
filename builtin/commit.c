@@ -45,12 +45,10 @@ DECL|variable|also
 DECL|variable|amend
 DECL|variable|author_message
 DECL|variable|author_message_buffer
-DECL|variable|builtin_commit_options
 DECL|variable|builtin_commit_usage
 DECL|variable|builtin_status_usage
 DECL|variable|cleanup_arg
 DECL|variable|cleanup_mode
-DECL|variable|colopts
 DECL|variable|commit_editmsg
 DECL|variable|commit_style
 DECL|variable|dry_run
@@ -71,7 +69,6 @@ DECL|variable|logfile
 DECL|variable|message
 DECL|variable|no_post_rewrite
 DECL|variable|no_verify
-DECL|variable|null_termination
 DECL|variable|only
 DECL|variable|only_include_assumed
 DECL|variable|patch_interactive
@@ -84,7 +81,6 @@ DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|squash_message
 DECL|variable|status_format
-DECL|variable|status_show_branch
 DECL|variable|template_file
 DECL|variable|untracked_files_arg
 DECL|variable|use_editor

@@ -17,6 +17,7 @@ DECL|member|after_subject
 DECL|member|buffer
 DECL|member|date
 DECL|member|date_mode
+DECL|member|date_mode_explicit
 DECL|member|fmt
 DECL|member|indegree
 DECL|member|item

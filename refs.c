@@ -69,6 +69,7 @@ DECL|function|names_conflict
 DECL|function|parse_ref_line
 DECL|function|peel_ref
 DECL|function|prettify_refname
+DECL|function|read_loose_refs
 DECL|function|read_packed_refs
 DECL|function|read_ref
 DECL|function|read_ref_at
@@ -86,6 +87,7 @@ DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref_unsafe
 DECL|function|resolve_refdup
+DECL|function|search_for_subdir
 DECL|function|search_ref_dir
 DECL|function|shorten_unambiguous_ref
 DECL|function|sort_ref_dir
@@ -100,13 +102,12 @@ DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
 DECL|macro|MAXREFLEN
 DECL|macro|REF_DIR
+DECL|macro|REF_INCOMPLETE
 DECL|macro|REF_KNOWS_PEELED
 DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc
 DECL|member|cb_data
 DECL|member|conflicting_refname
-DECL|member|did_loose
-DECL|member|did_packed
 DECL|member|entries
 DECL|member|fd
 DECL|member|flag
@@ -122,6 +123,7 @@ DECL|member|oldrefname
 DECL|member|packed
 DECL|member|pattern
 DECL|member|peeled
+DECL|member|ref_cache
 DECL|member|refname
 DECL|member|refname
 DECL|member|refname

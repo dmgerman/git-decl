@@ -1,11 +1,16 @@
+DECL|function|do_write_blocked
 DECL|function|find_tar_filter
+DECL|function|finish_record
 DECL|function|get_path_prefix
 DECL|function|git_tar_config
 DECL|function|init_tar_archiver
+DECL|function|prepare_header
 DECL|function|strbuf_append_ext_header
+DECL|function|stream_blocked
 DECL|function|tar_filter_config
 DECL|function|ustar_header_chksum
 DECL|function|write_blocked
+DECL|function|write_extended_header
 DECL|function|write_global_extended_header
 DECL|function|write_if_needed
 DECL|function|write_tar_archive
