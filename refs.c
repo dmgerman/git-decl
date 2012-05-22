@@ -75,6 +75,7 @@ DECL|function|read_ref
 DECL|function|read_ref_at
 DECL|function|read_ref_full
 DECL|function|ref_entry_cmp
+DECL|function|ref_entry_cmp_sslice
 DECL|function|ref_exists
 DECL|function|ref_msg
 DECL|function|refname_match
@@ -113,6 +114,7 @@ DECL|member|fd
 DECL|member|flag
 DECL|member|fn
 DECL|member|fp
+DECL|member|len
 DECL|member|loose
 DECL|member|msg_fmt
 DECL|member|name
@@ -129,6 +131,7 @@ DECL|member|refname
 DECL|member|refname
 DECL|member|sha1
 DECL|member|sorted
+DECL|member|str
 DECL|member|subdir
 DECL|member|u
 DECL|member|value
@@ -139,6 +142,7 @@ DECL|struct|ref_entry
 DECL|struct|ref_filter
 DECL|struct|ref_value
 DECL|struct|repack_without_ref_sb
+DECL|struct|string_slice
 DECL|struct|warn_if_dangling_data
 DECL|variable|current_ref
 DECL|variable|packlock
