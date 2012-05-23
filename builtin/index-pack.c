@@ -43,6 +43,7 @@ DECL|function|show_pack_info
 DECL|function|threaded_second_pass
 DECL|function|unlink_base_data
 DECL|function|unlock_mutex
+DECL|function|unpack_data
 DECL|function|unpack_entry_data
 DECL|function|unpack_raw_entry
 DECL|function|use
