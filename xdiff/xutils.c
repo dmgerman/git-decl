@@ -19,3 +19,4 @@ DECL|function|xdl_recmatch
 DECL|macro|HIGHBITS
 DECL|macro|NEWLINEBYTES
 DECL|macro|ONEBYTES
+DECL|macro|REPEAT_BYTE
