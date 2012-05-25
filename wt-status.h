@@ -33,10 +33,12 @@ DECL|member|index_status
 DECL|member|is_initial
 DECL|member|new_submodule_commits
 DECL|member|nowarn
+DECL|member|null_termination
 DECL|member|pathspec
 DECL|member|prefix
 DECL|member|reference
 DECL|member|relative_paths
+DECL|member|show_branch
 DECL|member|show_ignored_files
 DECL|member|show_untracked_files
 DECL|member|stagemask
