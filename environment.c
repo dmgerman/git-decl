@@ -36,8 +36,6 @@ DECL|variable|fsync_object_files
 DECL|variable|git_attributes_file
 DECL|variable|git_branch_track
 DECL|variable|git_commit_encoding
-DECL|variable|git_default_email
-DECL|variable|git_default_name
 DECL|variable|git_dir
 DECL|variable|git_graft_file
 DECL|variable|git_index_file
@@ -72,7 +70,6 @@ DECL|variable|shared_repository
 DECL|variable|startup_info
 DECL|variable|trust_ctime
 DECL|variable|trust_executable_bit
-DECL|variable|user_ident_explicitly_given
 DECL|variable|warn_ambiguous_refs
 DECL|variable|whitespace_rule_cfg
 DECL|variable|work_tree
