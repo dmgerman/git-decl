@@ -12,7 +12,6 @@ DECL|function|fast_export_init
 DECL|function|fast_export_ls
 DECL|function|fast_export_ls_rev
 DECL|function|fast_export_modify
-DECL|function|fast_export_reset
 DECL|function|fast_export_truncate
 DECL|function|get_response_line
 DECL|function|init_postimage
