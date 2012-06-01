@@ -1,4 +1,5 @@
 DECL|function|action_name
+DECL|function|allow_empty
 DECL|function|continue_single_pick
 DECL|function|create_seq_dir
 DECL|function|do_pick_commit
