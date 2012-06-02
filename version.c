@@ -1,1 +1,2 @@
+DECL|function|git_user_agent
 DECL|variable|git_version_string
