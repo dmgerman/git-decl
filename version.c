@@ -1,0 +1,1 @@
+DECL|variable|git_version_string

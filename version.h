@@ -1,0 +1,1 @@
+DECL|macro|VERSION_H
