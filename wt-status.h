@@ -6,6 +6,7 @@ DECL|enumerator|SHOW_NORMAL_UNTRACKED_FILES
 DECL|enumerator|SHOW_NO_UNTRACKED_FILES
 DECL|enumerator|WT_STATUS_CHANGED
 DECL|enumerator|WT_STATUS_HEADER
+DECL|enumerator|WT_STATUS_IN_PROGRESS
 DECL|enumerator|WT_STATUS_LOCAL_BRANCH
 DECL|enumerator|WT_STATUS_MAXSLOT
 DECL|enumerator|WT_STATUS_NOBRANCH
@@ -18,9 +19,13 @@ DECL|enum|color_wt_status
 DECL|enum|commit_whence
 DECL|enum|untracked_status_type
 DECL|macro|STATUS_H
+DECL|member|am_empty_patch
+DECL|member|am_in_progress
 DECL|member|amend
+DECL|member|bisect_in_progress
 DECL|member|branch
 DECL|member|change
+DECL|member|cherry_pick_in_progress
 DECL|member|colopts
 DECL|member|color_palette
 DECL|member|commitable
@@ -32,11 +37,14 @@ DECL|member|ignored
 DECL|member|index_file
 DECL|member|index_status
 DECL|member|is_initial
+DECL|member|merge_in_progress
 DECL|member|new_submodule_commits
 DECL|member|nowarn
 DECL|member|null_termination
 DECL|member|pathspec
 DECL|member|prefix
+DECL|member|rebase_in_progress
+DECL|member|rebase_interactive_in_progress
 DECL|member|reference
 DECL|member|relative_paths
 DECL|member|show_branch
@@ -52,3 +60,4 @@ DECL|member|workdir_dirty
 DECL|member|worktree_status
 DECL|struct|wt_status
 DECL|struct|wt_status_change_data
+DECL|struct|wt_status_state
