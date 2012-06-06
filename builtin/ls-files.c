@@ -1,3 +1,4 @@
+DECL|function|ce_excluded
 DECL|function|cmd_ls_files
 DECL|function|option_parse_exclude
 DECL|function|option_parse_exclude_from
