@@ -29,6 +29,7 @@ DECL|function|show_html_page
 DECL|function|show_info_page
 DECL|function|show_man_page
 DECL|function|supported_man_viewer
+DECL|macro|DEFAULT_HELP_FORMAT
 DECL|member|info
 DECL|member|name
 DECL|member|name
