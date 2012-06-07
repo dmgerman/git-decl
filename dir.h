@@ -11,7 +11,6 @@ DECL|macro|EXC_FILE
 DECL|macro|EXC_FLAG_ENDSWITH
 DECL|macro|EXC_FLAG_MUSTBEDIR
 DECL|macro|EXC_FLAG_NODIR
-DECL|macro|EXC_FLAG_NOWILDCARD
 DECL|macro|MATCHED_EXACTLY
 DECL|macro|MATCHED_FNMATCH
 DECL|macro|MATCHED_RECURSIVELY
@@ -38,6 +37,7 @@ DECL|member|ignored_alloc
 DECL|member|ignored_nr
 DECL|member|len
 DECL|member|name
+DECL|member|nowildcardlen
 DECL|member|nr
 DECL|member|nr
 DECL|member|pattern
