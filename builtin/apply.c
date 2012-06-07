@@ -67,6 +67,7 @@ DECL|function|in_fn_table
 DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|linelen
+DECL|function|load_current
 DECL|function|load_patch_target
 DECL|function|load_preimage
 DECL|function|match_fragment
@@ -157,6 +158,7 @@ DECL|member|buf
 DECL|member|conflicted_threeway
 DECL|member|def_name
 DECL|member|deflate_origlen
+DECL|member|direct_to_threeway
 DECL|member|flag
 DECL|member|fragments
 DECL|member|free_patch
