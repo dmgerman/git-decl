@@ -20,7 +20,7 @@ DECL|function|build_fake_ancestor
 DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|check_preimage
-DECL|function|check_to_create_blob
+DECL|function|check_to_create
 DECL|function|check_whitespace
 DECL|function|checkout_target
 DECL|function|clear_image
@@ -135,6 +135,8 @@ DECL|function|write_out_one_result
 DECL|function|write_out_results
 DECL|macro|BINARY_DELTA_DEFLATED
 DECL|macro|BINARY_LITERAL_DEFLATED
+DECL|macro|EXISTS_IN_INDEX
+DECL|macro|EXISTS_IN_WORKTREE
 DECL|macro|INACCURATE_EOF
 DECL|macro|LINE_COMMON
 DECL|macro|LINE_PATCHED
