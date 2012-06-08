@@ -121,6 +121,7 @@ DECL|function|squash_slash
 DECL|function|stat_patch_list
 DECL|function|stop_at_slash
 DECL|function|summary_patch_list
+DECL|function|three_way_merge
 DECL|function|to_be_deleted
 DECL|function|trailing_spaces_len
 DECL|function|try_create_file
