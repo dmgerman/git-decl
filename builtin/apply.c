@@ -67,6 +67,7 @@ DECL|function|in_fn_table
 DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|linelen
+DECL|function|load_patch_target
 DECL|function|load_preimage
 DECL|function|match_fragment
 DECL|function|metadata_changes
@@ -141,6 +142,7 @@ DECL|macro|PATH_TO_BE_DELETED
 DECL|macro|PATH_WAS_DELETED
 DECL|macro|RECOUNT
 DECL|macro|SLOP
+DECL|macro|SUBMODULE_PATCH_WITHOUT_INDEX
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
 DECL|macro|binary_patch_method
