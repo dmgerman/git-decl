@@ -22,6 +22,7 @@ DECL|function|check_patch_list
 DECL|function|check_preimage
 DECL|function|check_to_create_blob
 DECL|function|check_whitespace
+DECL|function|checkout_target
 DECL|function|clear_image
 DECL|function|cmd_apply
 DECL|function|count_slashes
