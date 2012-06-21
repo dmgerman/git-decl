@@ -24,6 +24,7 @@ DECL|member|base
 DECL|member|basebuf
 DECL|member|baselen
 DECL|member|baselen
+DECL|member|dir
 DECL|member|entries
 DECL|member|exclude_ix
 DECL|member|exclude_list
@@ -40,6 +41,7 @@ DECL|member|len
 DECL|member|name
 DECL|member|nr
 DECL|member|nr
+DECL|member|path
 DECL|member|pattern
 DECL|member|patternlen
 DECL|member|prev
@@ -49,3 +51,4 @@ DECL|struct|dir_struct
 DECL|struct|exclude
 DECL|struct|exclude_list
 DECL|struct|exclude_stack
+DECL|struct|path_exclude_check

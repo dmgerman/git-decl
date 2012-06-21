@@ -30,6 +30,7 @@ DECL|member|merge
 DECL|member|merge_size
 DECL|member|msgs
 DECL|member|nontrivial_merge
+DECL|member|path_exclude_check
 DECL|member|pathspec
 DECL|member|prefix
 DECL|member|reset
