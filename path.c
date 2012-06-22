@@ -10,8 +10,10 @@ DECL|function|git_path_submodule
 DECL|function|git_pathdup
 DECL|function|git_snpath
 DECL|function|git_vsnpath
+DECL|function|home_config_paths
 DECL|function|longest_ancestor_length
 DECL|function|mkpath
+DECL|function|mkpathdup
 DECL|function|mksnpath
 DECL|function|normalize_path_copy
 DECL|function|offset_1st_component
