@@ -11,6 +11,7 @@ DECL|function|push_with_options
 DECL|function|set_refspecs
 DECL|function|setup_default_push_refspecs
 DECL|function|setup_push_upstream
+DECL|function|warn_unspecified_push_default_configuration
 DECL|variable|default_matching_used
 DECL|variable|deleterefs
 DECL|variable|message_advice_checkout_pull_push
@@ -24,3 +25,4 @@ DECL|variable|refspec_alloc
 DECL|variable|refspec_nr
 DECL|variable|thin
 DECL|variable|verbosity
+DECL|variable|warn_unspecified_push_default_msg
