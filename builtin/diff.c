@@ -6,6 +6,7 @@ DECL|function|builtin_diff_index
 DECL|function|builtin_diff_tree
 DECL|function|cmd_diff
 DECL|function|refresh_index_quietly
+DECL|function|setup_diff_pager
 DECL|function|stuff_change
 DECL|member|mode
 DECL|member|name
