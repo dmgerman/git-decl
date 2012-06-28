@@ -1,6 +1,7 @@
 DECL|function|alloc_base_data
 DECL|function|append_obj_to_pack
 DECL|function|bad_object
+DECL|function|check_collison
 DECL|function|check_object
 DECL|function|check_objects
 DECL|function|cleanup_thread
@@ -8,6 +9,7 @@ DECL|function|cmd_index_pack
 DECL|function|cmp_uint32
 DECL|function|compare_delta_bases
 DECL|function|compare_delta_entry
+DECL|function|compare_objects
 DECL|function|conclude_pack
 DECL|function|delta_pos_compare
 DECL|function|fill
@@ -43,6 +45,7 @@ DECL|function|show_pack_info
 DECL|function|threaded_second_pass
 DECL|function|unlink_base_data
 DECL|function|unlock_mutex
+DECL|function|unpack_data
 DECL|function|unpack_entry_data
 DECL|function|unpack_raw_entry
 DECL|function|use
@@ -68,9 +71,12 @@ DECL|member|base
 DECL|member|base_cache
 DECL|member|base_cache_used
 DECL|member|base_object_no
+DECL|member|buf
+DECL|member|buf_size
 DECL|member|child
 DECL|member|data
 DECL|member|delta_depth
+DECL|member|entry
 DECL|member|hdr_size
 DECL|member|idx
 DECL|member|obj
@@ -84,9 +90,11 @@ DECL|member|ref_last
 DECL|member|sha1
 DECL|member|size
 DECL|member|size
+DECL|member|st
 DECL|member|thread
 DECL|member|type
 DECL|struct|base_data
+DECL|struct|compare_data
 DECL|struct|delta_entry
 DECL|struct|object_entry
 DECL|struct|thread_local
