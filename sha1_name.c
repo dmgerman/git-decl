@@ -15,7 +15,6 @@ DECL|function|get_sha1_mb
 DECL|function|get_sha1_oneline
 DECL|function|get_sha1_with_context
 DECL|function|get_sha1_with_context_1
-DECL|function|get_sha1_with_mode
 DECL|function|get_short_sha1
 DECL|function|grab_nth_branch_switch
 DECL|function|handle_one_ref
