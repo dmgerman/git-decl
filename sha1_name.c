@@ -2,6 +2,7 @@ DECL|function|ambiguous_path
 DECL|function|diagnose_invalid_index_path
 DECL|function|diagnose_invalid_sha1_path
 DECL|function|disambiguate_commit_only
+DECL|function|disambiguate_committish_only
 DECL|function|find_short_object_filename
 DECL|function|find_short_packed_object
 DECL|function|find_unique_abbrev
