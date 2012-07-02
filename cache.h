@@ -61,7 +61,6 @@ DECL|function|ce_to_dtype
 DECL|function|copy_cache_entry
 DECL|function|create_ce_flags
 DECL|function|create_ce_mode
-DECL|function|get_sha1_with_mode
 DECL|function|hashclr
 DECL|function|hashcmp
 DECL|function|hashcpy
