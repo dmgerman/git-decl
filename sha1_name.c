@@ -13,6 +13,7 @@ DECL|function|get_parent
 DECL|function|get_sha1
 DECL|function|get_sha1_1
 DECL|function|get_sha1_basic
+DECL|function|get_sha1_committish
 DECL|function|get_sha1_mb
 DECL|function|get_sha1_oneline
 DECL|function|get_sha1_with_context
