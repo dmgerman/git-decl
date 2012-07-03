@@ -413,4 +413,5 @@ DECL|struct|ref
 DECL|struct|startup_info
 DECL|typedef|alt_odb_fn
 DECL|typedef|config_fn_t
+DECL|typedef|each_abbrev_fn
 DECL|typedef|git_zstream

@@ -10,6 +10,7 @@ DECL|function|find_short_object_filename
 DECL|function|find_short_packed_object
 DECL|function|find_unique_abbrev
 DECL|function|finish_object_disambiguation
+DECL|function|for_each_abbrev
 DECL|function|get_describe_name
 DECL|function|get_nth_ancestor
 DECL|function|get_parent
@@ -34,6 +35,7 @@ DECL|function|match_sha
 DECL|function|maybe_die_on_misspelt_object_name
 DECL|function|peel_onion
 DECL|function|peel_to_type
+DECL|function|prepare_prefixes
 DECL|function|resolve_relative_path
 DECL|function|strbuf_branchname
 DECL|function|strbuf_check_branch_ref
@@ -44,6 +46,7 @@ DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
 DECL|member|alloc
+DECL|member|always_call_fn
 DECL|member|ambiguous
 DECL|member|buf
 DECL|member|candidate
