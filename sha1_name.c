@@ -1,8 +1,11 @@
 DECL|function|ambiguous_path
 DECL|function|diagnose_invalid_index_path
 DECL|function|diagnose_invalid_sha1_path
+DECL|function|disambiguate_blob_only
 DECL|function|disambiguate_commit_only
 DECL|function|disambiguate_committish_only
+DECL|function|disambiguate_tree_only
+DECL|function|disambiguate_treeish_only
 DECL|function|find_short_object_filename
 DECL|function|find_short_packed_object
 DECL|function|find_unique_abbrev
@@ -13,9 +16,13 @@ DECL|function|get_parent
 DECL|function|get_sha1
 DECL|function|get_sha1_1
 DECL|function|get_sha1_basic
+DECL|function|get_sha1_blob
+DECL|function|get_sha1_commit
 DECL|function|get_sha1_committish
 DECL|function|get_sha1_mb
 DECL|function|get_sha1_oneline
+DECL|function|get_sha1_tree
+DECL|function|get_sha1_treeish
 DECL|function|get_sha1_with_context
 DECL|function|get_sha1_with_context_1
 DECL|function|get_short_sha1
