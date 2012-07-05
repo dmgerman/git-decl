@@ -6,6 +6,7 @@ DECL|function|add_extra_have
 DECL|function|ai_name
 DECL|function|check_ref
 DECL|function|check_ref_type
+DECL|function|die_initial_contact
 DECL|function|enable_keepalive
 DECL|function|finish_connect
 DECL|function|get_host_and_port

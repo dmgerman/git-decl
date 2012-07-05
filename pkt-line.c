@@ -4,6 +4,8 @@ DECL|function|packet_buf_write
 DECL|function|packet_flush
 DECL|function|packet_get_line
 DECL|function|packet_length
+DECL|function|packet_read
+DECL|function|packet_read_internal
 DECL|function|packet_read_line
 DECL|function|packet_trace
 DECL|function|packet_trace_identity
