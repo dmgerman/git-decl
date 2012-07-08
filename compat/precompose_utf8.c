@@ -1,0 +1,10 @@
+DECL|function|has_utf8
+DECL|function|precompose_argv
+DECL|function|precompose_utf8_closedir
+DECL|function|precompose_utf8_opendir
+DECL|function|precompose_utf8_readdir
+DECL|function|probe_utf8_pathname_composition
+DECL|macro|PRECOMPOSE_UNICODE_C
+DECL|typedef|iconv_ibp
+DECL|variable|path_encoding
+DECL|variable|repo_encoding

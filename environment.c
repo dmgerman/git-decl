@@ -61,6 +61,7 @@ DECL|variable|packed_git_limit
 DECL|variable|packed_git_window_size
 DECL|variable|pager_program
 DECL|variable|pager_use_color
+DECL|variable|precomposed_unicode
 DECL|variable|prefer_symlink_refs
 DECL|variable|push_default
 DECL|variable|read_replace_refs
