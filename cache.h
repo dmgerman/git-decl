@@ -58,7 +58,6 @@ DECL|enum|rebase_setup_type
 DECL|enum|sharedrepo
 DECL|function|canon_mode
 DECL|function|ce_mode_from_stat
-DECL|function|ce_namelen
 DECL|function|ce_to_dtype
 DECL|function|copy_cache_entry
 DECL|function|create_ce_flags
@@ -103,7 +102,6 @@ DECL|macro|CE_INTENT_TO_ADD
 DECL|macro|CE_MATCH_IGNORE_SKIP_WORKTREE
 DECL|macro|CE_MATCH_IGNORE_VALID
 DECL|macro|CE_MATCH_RACY_IS_DIRTY
-DECL|macro|CE_NAMEMASK
 DECL|macro|CE_NEW_SKIP_WORKTREE
 DECL|macro|CE_REMOVE
 DECL|macro|CE_SKIP_WORKTREE
@@ -225,6 +223,7 @@ DECL|macro|cache_name_pos
 DECL|macro|ce_mark_uptodate
 DECL|macro|ce_match_stat
 DECL|macro|ce_modified
+DECL|macro|ce_namelen
 DECL|macro|ce_permissions
 DECL|macro|ce_size
 DECL|macro|ce_skip_worktree
@@ -272,6 +271,7 @@ DECL|member|ce_gid
 DECL|member|ce_ino
 DECL|member|ce_mode
 DECL|member|ce_mtime
+DECL|member|ce_namelen
 DECL|member|ce_size
 DECL|member|ce_uid
 DECL|member|data
