@@ -9,7 +9,9 @@ DECL|function|git_config_perm
 DECL|function|is_git_directory
 DECL|function|is_inside_git_dir
 DECL|function|is_inside_work_tree
+DECL|function|path_inside_repo
 DECL|function|prefix_path
+DECL|function|prefix_path_gently
 DECL|function|prefix_pathspec
 DECL|function|read_gitfile
 DECL|function|resolve_gitdir
