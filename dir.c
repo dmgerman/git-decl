@@ -42,6 +42,9 @@ DECL|function|match_pathspec
 DECL|function|match_pathspec_depth
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
+DECL|function|path_exclude_check_clear
+DECL|function|path_exclude_check_init
+DECL|function|path_excluded
 DECL|function|pathspec_item_cmp
 DECL|function|prep_exclude
 DECL|function|read_directory
