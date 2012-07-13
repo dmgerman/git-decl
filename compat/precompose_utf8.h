@@ -1,0 +1,16 @@
+DECL|macro|DIR
+DECL|macro|PRECOMPOSE_UNICODE_H
+DECL|macro|closedir
+DECL|macro|dirent
+DECL|macro|opendir
+DECL|macro|readdir
+DECL|member|d_ino
+DECL|member|d_name
+DECL|member|d_type
+DECL|member|dirent_nfc
+DECL|member|dirp
+DECL|member|ic_precompose
+DECL|member|max_name_len
+DECL|struct|dirent_prec_psx
+DECL|typedef|PREC_DIR
+DECL|typedef|dirent_prec_psx

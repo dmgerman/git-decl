@@ -113,6 +113,9 @@ DECL|macro|munmap
 DECL|macro|on_disk_bytes
 DECL|macro|on_disk_bytes
 DECL|macro|pread
+DECL|macro|precompose_argv
+DECL|macro|precompose_str
+DECL|macro|probe_utf8_pathname_composition
 DECL|macro|qsort
 DECL|macro|sane_istest
 DECL|macro|setenv
