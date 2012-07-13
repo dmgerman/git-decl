@@ -27,6 +27,7 @@ DECL|member|driver
 DECL|member|funcname_pattern_ident
 DECL|member|has_more_entries
 DECL|member|is_binary
+DECL|member|is_stdin
 DECL|member|is_unmerged
 DECL|member|mode
 DECL|member|nr
