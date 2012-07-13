@@ -14,7 +14,6 @@ DECL|function|svndump_reset
 DECL|macro|DATE_RFC2822_LEN
 DECL|macro|DUMP_CTX
 DECL|macro|INTERNODE_CTX
-DECL|macro|LENGTH_UNKNOWN
 DECL|macro|NODEACT_ADD
 DECL|macro|NODEACT_CHANGE
 DECL|macro|NODEACT_DELETE
@@ -28,8 +27,8 @@ DECL|member|action
 DECL|member|author
 DECL|member|dst
 DECL|member|log
-DECL|member|propLength
 DECL|member|prop_delta
+DECL|member|prop_length
 DECL|member|revision
 DECL|member|src
 DECL|member|srcRev
