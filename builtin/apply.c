@@ -6,6 +6,7 @@ DECL|enumerator|nowarn_ws_error
 DECL|enumerator|warn_on_ws_error
 DECL|enum|ws_error_action
 DECL|enum|ws_ignore
+DECL|function|add_conflicted_stages_file
 DECL|function|add_index_file
 DECL|function|add_line_info
 DECL|function|add_name_limit
@@ -20,8 +21,9 @@ DECL|function|build_fake_ancestor
 DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|check_preimage
-DECL|function|check_to_create_blob
+DECL|function|check_to_create
 DECL|function|check_whitespace
+DECL|function|checkout_target
 DECL|function|clear_image
 DECL|function|cmd_apply
 DECL|function|count_slashes
@@ -66,6 +68,9 @@ DECL|function|in_fn_table
 DECL|function|inflate_it
 DECL|function|is_dev_null
 DECL|function|linelen
+DECL|function|load_current
+DECL|function|load_patch_target
+DECL|function|load_preimage
 DECL|function|match_fragment
 DECL|function|metadata_changes
 DECL|function|name_terminate
@@ -95,6 +100,8 @@ DECL|function|prefix_one
 DECL|function|prefix_patches
 DECL|function|prepare_fn_table
 DECL|function|prepare_image
+DECL|function|previous_patch
+DECL|function|read_blob_object
 DECL|function|read_file_or_gitlink
 DECL|function|read_old_data
 DECL|function|read_patch_file
@@ -116,9 +123,11 @@ DECL|function|squash_slash
 DECL|function|stat_patch_list
 DECL|function|stop_at_slash
 DECL|function|summary_patch_list
+DECL|function|three_way_merge
 DECL|function|to_be_deleted
 DECL|function|trailing_spaces_len
 DECL|function|try_create_file
+DECL|function|try_threeway
 DECL|function|tz_with_colon_len
 DECL|function|update_image
 DECL|function|update_pre_post_images
@@ -132,6 +141,8 @@ DECL|macro|BINARY_DELTA_DEFLATED
 DECL|macro|BINARY_LITERAL_DEFLATED
 DECL|macro|DIFF_NEW_NAME
 DECL|macro|DIFF_OLD_NAME
+DECL|macro|EXISTS_IN_INDEX
+DECL|macro|EXISTS_IN_WORKTREE
 DECL|macro|INACCURATE_EOF
 DECL|macro|LINE_COMMON
 DECL|macro|LINE_PATCHED
@@ -139,6 +150,7 @@ DECL|macro|PATH_TO_BE_DELETED
 DECL|macro|PATH_WAS_DELETED
 DECL|macro|RECOUNT
 DECL|macro|SLOP
+DECL|macro|SUBMODULE_PATCH_WITHOUT_INDEX
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
 DECL|macro|binary_patch_method
@@ -146,8 +158,10 @@ DECL|macro|myswap
 DECL|macro|swap
 DECL|member|alloc
 DECL|member|buf
+DECL|member|conflicted_threeway
 DECL|member|def_name
 DECL|member|deflate_origlen
+DECL|member|direct_to_threeway
 DECL|member|flag
 DECL|member|fragments
 DECL|member|free_patch
@@ -188,6 +202,7 @@ DECL|member|result
 DECL|member|resultsize
 DECL|member|score
 DECL|member|size
+DECL|member|threeway_stage
 DECL|member|trailing
 DECL|member|ws_rule
 DECL|struct|fragment
@@ -231,6 +246,7 @@ DECL|variable|root
 DECL|variable|root_len
 DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
+DECL|variable|threeway
 DECL|variable|unidiff_zero
 DECL|variable|update_index
 DECL|variable|whitespace_error
