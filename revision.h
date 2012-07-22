@@ -14,6 +14,8 @@ DECL|macro|CHILD_SHOWN
 DECL|macro|DECORATE_FULL_REFS
 DECL|macro|DECORATE_SHORT_REFS
 DECL|macro|PATCHSAME
+DECL|macro|REVARG_CANNOT_BE_FILENAME
+DECL|macro|REVARG_COMMITTISH
 DECL|macro|REVISION_H
 DECL|macro|REV_TREE_DIFFERENT
 DECL|macro|REV_TREE_NEW
@@ -107,6 +109,7 @@ DECL|member|ref_message_ids
 DECL|member|reflog_info
 DECL|member|remove_empty_trees
 DECL|member|rev
+DECL|member|revarg_opt
 DECL|member|reverse
 DECL|member|reverse_output_stage
 DECL|member|rewrite_parents

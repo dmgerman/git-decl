@@ -6,6 +6,7 @@ DECL|function|die_no_single_rev
 DECL|function|is_rev_argument
 DECL|function|parseopt_dump
 DECL|function|show
+DECL|function|show_abbrev
 DECL|function|show_datestring
 DECL|function|show_default
 DECL|function|show_file

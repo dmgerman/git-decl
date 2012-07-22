@@ -63,8 +63,6 @@ DECL|function|ce_to_dtype
 DECL|function|copy_cache_entry
 DECL|function|create_ce_flags
 DECL|function|create_ce_mode
-DECL|function|get_sha1_with_context
-DECL|function|get_sha1_with_mode
 DECL|function|hashclr
 DECL|function|hashcmp
 DECL|function|hashcpy
@@ -150,6 +148,13 @@ DECL|macro|EMPTY_TREE_SHA1_BIN
 DECL|macro|EMPTY_TREE_SHA1_BIN_LITERAL
 DECL|macro|EMPTY_TREE_SHA1_HEX
 DECL|macro|EXEC_PATH_ENVIRONMENT
+DECL|macro|GET_SHA1_BLOB
+DECL|macro|GET_SHA1_COMMIT
+DECL|macro|GET_SHA1_COMMITTISH
+DECL|macro|GET_SHA1_ONLY_TO_DIE
+DECL|macro|GET_SHA1_QUIETLY
+DECL|macro|GET_SHA1_TREE
+DECL|macro|GET_SHA1_TREEISH
 DECL|macro|GITATTRIBUTES_FILE
 DECL|macro|GIT_DIR_ENVIRONMENT
 DECL|macro|GIT_NAMESPACE_ENVIRONMENT
@@ -401,4 +406,5 @@ DECL|struct|ref
 DECL|struct|startup_info
 DECL|typedef|alt_odb_fn
 DECL|typedef|config_fn_t
+DECL|typedef|each_abbrev_fn
 DECL|typedef|git_zstream
