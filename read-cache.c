@@ -5,6 +5,7 @@ DECL|function|add_to_index
 DECL|function|base_name_compare
 DECL|function|cache_entry_from_ondisk
 DECL|function|cache_name_compare
+DECL|function|cache_name_stage_compare
 DECL|function|ce_compare_data
 DECL|function|ce_compare_gitlink
 DECL|function|ce_compare_link
@@ -35,6 +36,7 @@ DECL|function|ie_modified
 DECL|function|index_name_is_other
 DECL|function|index_name_pos
 DECL|function|index_name_pos_also_unmerged
+DECL|function|index_name_stage_pos
 DECL|function|is_index_unborn
 DECL|function|is_racy_timestamp
 DECL|function|make_cache_entry
@@ -65,6 +67,7 @@ DECL|function|write_index_ext_header
 DECL|macro|CACHE_EXT
 DECL|macro|CACHE_EXT_RESOLVE_UNDO
 DECL|macro|CACHE_EXT_TREE
+DECL|macro|CE_NAMEMASK
 DECL|macro|INDEX_FORMAT_DEFAULT
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|macro|WRITE_BUFFER_SIZE
