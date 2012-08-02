@@ -142,7 +142,6 @@ DECL|macro|swap
 DECL|member|alloc
 DECL|member|buf
 DECL|member|def_name
-DECL|member|deflate_origlen
 DECL|member|flag
 DECL|member|fragments
 DECL|member|hash
