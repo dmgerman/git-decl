@@ -44,6 +44,7 @@ DECL|member|count
 DECL|member|out
 DECL|member|use_pack_protocol
 DECL|struct|write_shallow_data
+DECL|variable|agent_supported
 DECL|variable|args
 DECL|variable|complete
 DECL|variable|fetch_fsck_objects
