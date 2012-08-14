@@ -26,6 +26,7 @@ DECL|function|path_ok
 DECL|function|prepare_credentials
 DECL|function|prepare_credentials
 DECL|function|receive_pack
+DECL|function|run_access_hook
 DECL|function|run_service
 DECL|function|run_service_command
 DECL|function|sanitize_stdfds
@@ -41,6 +42,8 @@ DECL|function|upload_pack
 DECL|function|xstrdup_tolower
 DECL|macro|HOST_NAME_MAX
 DECL|macro|NI_MAXSERV
+DECL|macro|STRARG
+DECL|macro|STRARG
 DECL|macro|initgroups
 DECL|member|address
 DECL|member|alloc
@@ -60,6 +63,7 @@ DECL|struct|credentials
 DECL|struct|daemon_service
 DECL|struct|socketlist
 DECL|typedef|daemon_service_fn
+DECL|variable|access_hook
 DECL|variable|base_path
 DECL|variable|base_path_relaxed
 DECL|variable|canon_hostname
