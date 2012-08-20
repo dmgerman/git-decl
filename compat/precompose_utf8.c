@@ -1,4 +1,4 @@
-DECL|function|has_utf8
+DECL|function|has_non_ascii
 DECL|function|precompose_argv
 DECL|function|precompose_utf8_closedir
 DECL|function|precompose_utf8_opendir
