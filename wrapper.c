@@ -12,6 +12,7 @@ DECL|function|rmdir_or_warn
 DECL|function|set_try_to_free_routine
 DECL|function|unlink_or_warn
 DECL|function|warn_if_unremovable
+DECL|function|warn_on_inaccessible
 DECL|function|write_in_full
 DECL|function|xcalloc
 DECL|function|xdup
