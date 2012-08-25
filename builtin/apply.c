@@ -108,9 +108,9 @@ DECL|function|show_file_mode_name
 DECL|function|show_mode_change
 DECL|function|show_rename_copy
 DECL|function|show_stats
+DECL|function|skip_tree_prefix
 DECL|function|squash_slash
 DECL|function|stat_patch_list
-DECL|function|stop_at_slash
 DECL|function|summary_patch_list
 DECL|function|to_be_deleted
 DECL|function|trailing_spaces_len
