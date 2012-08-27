@@ -15,6 +15,11 @@ DECL|enumerator|GREP_OR
 DECL|enumerator|GREP_PATTERN
 DECL|enumerator|GREP_PATTERN_BODY
 DECL|enumerator|GREP_PATTERN_HEAD
+DECL|enumerator|GREP_PATTERN_TYPE_BRE
+DECL|enumerator|GREP_PATTERN_TYPE_ERE
+DECL|enumerator|GREP_PATTERN_TYPE_FIXED
+DECL|enumerator|GREP_PATTERN_TYPE_PCRE
+DECL|enumerator|GREP_PATTERN_TYPE_UNSPECIFIED
 DECL|enumerator|GREP_SOURCE_BUF
 DECL|enumerator|GREP_SOURCE_FILE
 DECL|enumerator|GREP_SOURCE_SHA1
@@ -22,6 +27,7 @@ DECL|enum|grep_context
 DECL|enum|grep_expr_node
 DECL|enum|grep_header_field
 DECL|enum|grep_pat_token
+DECL|enum|grep_pattern_type
 DECL|enum|grep_source_type
 DECL|function|grep_read_lock
 DECL|function|grep_read_unlock
@@ -48,6 +54,7 @@ DECL|member|color_sep
 DECL|member|count
 DECL|member|driver
 DECL|member|extended
+DECL|member|extended_regexp_option
 DECL|member|field
 DECL|member|file_break
 DECL|member|fixed
@@ -81,6 +88,7 @@ DECL|member|pattern
 DECL|member|pattern_expression
 DECL|member|pattern_list
 DECL|member|pattern_tail
+DECL|member|pattern_type_option
 DECL|member|patternlen
 DECL|member|pcre
 DECL|member|pcre_extra_info
