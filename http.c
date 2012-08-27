@@ -16,6 +16,7 @@ DECL|function|fwrite_sha1_file
 DECL|function|get_active_slot
 DECL|function|get_curl_handle
 DECL|function|get_remote_object_url
+DECL|function|handle_curl_result
 DECL|function|has_cert_password
 DECL|function|http_cleanup
 DECL|function|http_error
