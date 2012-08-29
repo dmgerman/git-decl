@@ -40,9 +40,13 @@ DECL|member|new_branch_force
 DECL|member|new_branch_log
 DECL|member|new_orphan_branch
 DECL|member|overwrite_ignore
+DECL|member|patch_mode
 DECL|member|path
+DECL|member|pathspec
+DECL|member|prefix
 DECL|member|quiet
 DECL|member|remote
+DECL|member|source_tree
 DECL|member|track
 DECL|member|unique
 DECL|member|writeout_stage
