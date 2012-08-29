@@ -45,7 +45,6 @@ DECL|member|quiet
 DECL|member|remote
 DECL|member|track
 DECL|member|unique
-DECL|member|writeout_error
 DECL|member|writeout_stage
 DECL|struct|branch_info
 DECL|struct|checkout_opts
