@@ -45,6 +45,7 @@ DECL|function|read_graft_file
 DECL|function|read_graft_line
 DECL|function|reduce_heads
 DECL|function|register_commit_graft
+DECL|function|remove_redundant
 DECL|function|sort_in_topological_order
 DECL|function|standard_header_field
 DECL|function|unregister_shallow
