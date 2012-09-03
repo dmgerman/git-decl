@@ -106,6 +106,7 @@ DECL|macro|maximum_signed_value_of_type
 DECL|macro|maximum_unsigned_value_of_type
 DECL|macro|memmem
 DECL|macro|mempcpy
+DECL|macro|mkdir
 DECL|macro|mkdtemp
 DECL|macro|mkstemps
 DECL|macro|mmap

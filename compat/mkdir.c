@@ -1,0 +1,2 @@
+DECL|function|compat_mkdir_wo_trailing_slash
+DECL|macro|mkdir
