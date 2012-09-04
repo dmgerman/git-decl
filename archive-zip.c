@@ -16,6 +16,7 @@ DECL|macro|ZIP_DIR_HEADER_SIZE
 DECL|macro|ZIP_DIR_TRAILER_SIZE
 DECL|macro|ZIP_LOCAL_HEADER_SIZE
 DECL|macro|ZIP_STREAM
+DECL|macro|ZIP_UTF8
 DECL|member|_end
 DECL|member|_end
 DECL|member|_end
