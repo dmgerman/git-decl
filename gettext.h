@@ -1,5 +1,6 @@
 DECL|function|Q_
 DECL|function|_
+DECL|function|gettext_width
 DECL|function|git_setup_gettext
 DECL|macro|FORMAT_PRESERVING
 DECL|macro|GETTEXT_H
