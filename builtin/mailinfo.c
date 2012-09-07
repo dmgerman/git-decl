@@ -17,7 +17,6 @@ DECL|function|decode_transfer_encoding
 DECL|function|find_boundary
 DECL|function|get_sane_name
 DECL|function|git_mailinfo_config
-DECL|function|guess_charset
 DECL|function|handle_body
 DECL|function|handle_boundary
 DECL|function|handle_commit_msg

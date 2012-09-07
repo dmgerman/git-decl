@@ -18,6 +18,7 @@ DECL|function|commit_tree_extended
 DECL|function|do_sign_commit
 DECL|function|excluded_header_field
 DECL|function|find_commit_subject
+DECL|function|find_invalid_utf8
 DECL|function|for_each_commit_graft
 DECL|function|free_commit_extra_headers
 DECL|function|free_commit_list
@@ -52,6 +53,7 @@ DECL|function|register_commit_graft
 DECL|function|sort_in_topological_order
 DECL|function|standard_header_field
 DECL|function|unregister_shallow
+DECL|function|verify_utf8
 DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT
