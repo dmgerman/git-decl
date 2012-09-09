@@ -23,6 +23,7 @@ DECL|function|mark_common
 DECL|function|mark_complete
 DECL|function|mark_recent_complete_commits
 DECL|function|next_flush
+DECL|function|non_matching_ref
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
 DECL|function|send_request
