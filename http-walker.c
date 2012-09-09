@@ -9,11 +9,11 @@ DECL|function|fetch
 DECL|function|fetch_alternates
 DECL|function|fetch_indices
 DECL|function|fetch_object
-DECL|function|fetch_pack
 DECL|function|fetch_ref
 DECL|function|fill_active_slot
 DECL|function|finish_object_request
 DECL|function|get_http_walker
+DECL|function|http_fetch_pack
 DECL|function|prefetch
 DECL|function|process_alternates_response
 DECL|function|process_object_response
