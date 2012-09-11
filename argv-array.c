@@ -1,5 +1,6 @@
 DECL|function|argv_array_clear
 DECL|function|argv_array_init
+DECL|function|argv_array_pop
 DECL|function|argv_array_push
 DECL|function|argv_array_push_nodup
 DECL|function|argv_array_pushf
