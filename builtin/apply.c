@@ -160,7 +160,6 @@ DECL|member|alloc
 DECL|member|buf
 DECL|member|conflicted_threeway
 DECL|member|def_name
-DECL|member|deflate_origlen
 DECL|member|direct_to_threeway
 DECL|member|flag
 DECL|member|fragments
