@@ -1,5 +1,7 @@
 DECL|function|add_blame_entry
 DECL|function|add_prefix
+DECL|function|append_merge_parents
+DECL|function|append_parent
 DECL|function|assign_blame
 DECL|function|blame_bottomtop_callback
 DECL|function|blame_chunk
