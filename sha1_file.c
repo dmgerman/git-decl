@@ -26,6 +26,7 @@ DECL|function|force_object_loose
 DECL|function|foreach_alt_odb
 DECL|function|free_pack_by_name
 DECL|function|get_delta_base
+DECL|function|get_max_fd_limit
 DECL|function|get_size_from_delta
 DECL|function|git_open_noatime
 DECL|function|has_loose_object
