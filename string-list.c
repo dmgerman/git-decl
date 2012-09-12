@@ -5,6 +5,7 @@ DECL|function|get_entry_index
 DECL|function|print_string_list
 DECL|function|sort_string_list
 DECL|function|string_list_append
+DECL|function|string_list_append_nodup
 DECL|function|string_list_clear
 DECL|function|string_list_clear_func
 DECL|function|string_list_find_insert_index
