@@ -32,12 +32,6 @@ DECL|macro|MAP_FAILED
 DECL|macro|MAP_PRIVATE
 DECL|macro|MSB
 DECL|macro|NORETURN
-DECL|macro|NORETURN
-DECL|macro|NORETURN
-DECL|macro|NORETURN
-DECL|macro|NORETURN_PTR
-DECL|macro|NORETURN_PTR
-DECL|macro|NORETURN_PTR
 DECL|macro|NORETURN_PTR
 DECL|macro|PATH_MAX
 DECL|macro|PATH_SEP
@@ -73,8 +67,6 @@ DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
-DECL|macro|__attribute__
-DECL|macro|basename
 DECL|macro|bitsizeof
 DECL|macro|decimal_length
 DECL|macro|find_last_dir_sep
@@ -120,6 +112,7 @@ DECL|macro|probe_utf8_pathname_composition
 DECL|macro|qsort
 DECL|macro|sane_istest
 DECL|macro|setenv
+DECL|macro|setitimer
 DECL|macro|signed_add_overflows
 DECL|macro|snprintf
 DECL|macro|strcasestr
@@ -137,4 +130,7 @@ DECL|macro|unsigned_add_overflows
 DECL|macro|va_copy
 DECL|macro|va_copy
 DECL|macro|vsnprintf
+DECL|member|it_interval
+DECL|member|it_value
+DECL|struct|itimerval
 DECL|typedef|try_to_free_t
