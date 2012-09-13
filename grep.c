@@ -40,6 +40,7 @@ DECL|function|grep_source_load
 DECL|function|grep_source_load_driver
 DECL|function|grep_source_load_file
 DECL|function|grep_source_load_sha1
+DECL|function|grep_splice_or
 DECL|function|grep_true_expr
 DECL|function|indent
 DECL|function|is_fixed
