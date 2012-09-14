@@ -2,6 +2,7 @@ DECL|function|add_pending_uninteresting_ref
 DECL|function|check_stage
 DECL|function|check_stages
 DECL|function|check_tracking_name
+DECL|function|checkout_branch
 DECL|function|checkout_merged
 DECL|function|checkout_paths
 DECL|function|checkout_stage
@@ -9,7 +10,6 @@ DECL|function|cmd_checkout
 DECL|function|describe_detached_head
 DECL|function|describe_one_orphan
 DECL|function|git_checkout_config
-DECL|function|interactive_checkout
 DECL|function|merge_working_tree
 DECL|function|orphaned_commit_warning
 DECL|function|parse_branchname_arg
@@ -40,12 +40,15 @@ DECL|member|new_branch_force
 DECL|member|new_branch_log
 DECL|member|new_orphan_branch
 DECL|member|overwrite_ignore
+DECL|member|patch_mode
 DECL|member|path
+DECL|member|pathspec
+DECL|member|prefix
 DECL|member|quiet
 DECL|member|remote
+DECL|member|source_tree
 DECL|member|track
 DECL|member|unique
-DECL|member|writeout_error
 DECL|member|writeout_stage
 DECL|struct|branch_info
 DECL|struct|checkout_opts
