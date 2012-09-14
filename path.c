@@ -9,7 +9,6 @@ DECL|function|git_path
 DECL|function|git_path_submodule
 DECL|function|git_pathdup
 DECL|function|git_snpath
-DECL|function|git_vsnpath
 DECL|function|home_config_paths
 DECL|function|longest_ancestor_length
 DECL|function|mkpath
@@ -21,4 +20,5 @@ DECL|function|relative_path
 DECL|function|set_shared_perm
 DECL|function|strip_path_suffix
 DECL|function|validate_headref
+DECL|function|vsnpath
 DECL|variable|bad_path
