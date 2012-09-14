@@ -16,7 +16,6 @@ DECL|function|cut_ident_timestamp_part
 DECL|function|determine_author_info
 DECL|function|determine_whence
 DECL|function|dry_run_commit
-DECL|function|ends_rfc2822_footer
 DECL|function|export_one
 DECL|function|find_author_by_nickname
 DECL|function|git_commit_config
@@ -78,7 +77,6 @@ DECL|variable|quiet
 DECL|variable|renew_authorship
 DECL|variable|show_ignored_in_status
 DECL|variable|sign_commit
-DECL|variable|sign_off_header
 DECL|variable|signoff
 DECL|variable|squash_message
 DECL|variable|status_format
