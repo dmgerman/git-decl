@@ -37,6 +37,7 @@ DECL|function|rest_is_empty
 DECL|function|rollback_index_files
 DECL|function|run_rewrite_hook
 DECL|function|run_status
+DECL|function|sane_ident_split
 DECL|function|template_untouched
 DECL|variable|all
 DECL|variable|allow_empty
