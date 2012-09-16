@@ -9,7 +9,6 @@ DECL|function|strbuf_add_urlencode
 DECL|function|strbuf_addbuf_percentquote
 DECL|function|strbuf_adddup
 DECL|function|strbuf_addf
-DECL|function|strbuf_addf_ln
 DECL|function|strbuf_addstr_urlencode
 DECL|function|strbuf_attach
 DECL|function|strbuf_cmp
