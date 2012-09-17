@@ -6,7 +6,6 @@ DECL|enumerator|NAK
 DECL|enum|ack_type
 DECL|function|clear_marks
 DECL|function|cmd_fetch_pack
-DECL|function|compare_heads
 DECL|function|consume_shallow_list
 DECL|function|do_fetch_pack
 DECL|function|everything_local
@@ -24,7 +23,7 @@ DECL|function|mark_common
 DECL|function|mark_complete
 DECL|function|mark_recent_complete_commits
 DECL|function|next_flush
-DECL|function|remove_duplicates
+DECL|function|non_matching_ref
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
 DECL|function|send_request
