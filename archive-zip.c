@@ -1,6 +1,7 @@
 DECL|function|copy_le16
 DECL|function|copy_le32
 DECL|function|dos_time
+DECL|function|has_only_ascii
 DECL|function|init_zip_archiver
 DECL|function|set_zip_dir_data_desc
 DECL|function|set_zip_header_data_desc
@@ -16,6 +17,7 @@ DECL|macro|ZIP_DIR_HEADER_SIZE
 DECL|macro|ZIP_DIR_TRAILER_SIZE
 DECL|macro|ZIP_LOCAL_HEADER_SIZE
 DECL|macro|ZIP_STREAM
+DECL|macro|ZIP_UTF8
 DECL|member|_end
 DECL|member|_end
 DECL|member|_end
