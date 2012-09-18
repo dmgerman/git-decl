@@ -52,6 +52,7 @@ DECL|member|color_match
 DECL|member|color_selected
 DECL|member|color_sep
 DECL|member|count
+DECL|member|debug
 DECL|member|driver
 DECL|member|extended
 DECL|member|extended_regexp_option
