@@ -1,10 +1,13 @@
+DECL|function|check_or_regenerate_marks
 DECL|function|cmd_capabilities
 DECL|function|cmd_import
 DECL|function|cmd_list
 DECL|function|do_command
 DECL|function|main
+DECL|function|note2mark_cb
 DECL|function|parse_rev_note
 DECL|function|read_ref_note
+DECL|function|regenerate_marks
 DECL|function|terminate_batch
 DECL|member|batchable
 DECL|member|fn
