@@ -133,4 +133,6 @@ DECL|macro|vsnprintf
 DECL|member|it_interval
 DECL|member|it_value
 DECL|struct|itimerval
+DECL|typedef|intptr_t
 DECL|typedef|try_to_free_t
+DECL|typedef|uintptr_t
