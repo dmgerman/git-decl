@@ -1,0 +1,15 @@
+DECL|function|cmd_capabilities
+DECL|function|cmd_import
+DECL|function|cmd_list
+DECL|function|do_command
+DECL|function|main
+DECL|function|terminate_batch
+DECL|member|batchable
+DECL|member|fn
+DECL|member|name
+DECL|struct|input_command_entry
+DECL|typedef|input_command_handler
+DECL|variable|input_command_list
+DECL|variable|private_ref
+DECL|variable|remote_ref
+DECL|variable|url
