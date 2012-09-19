@@ -9,6 +9,7 @@ DECL|member|fn
 DECL|member|name
 DECL|struct|input_command_entry
 DECL|typedef|input_command_handler
+DECL|variable|dump_from_file
 DECL|variable|input_command_list
 DECL|variable|private_ref
 DECL|variable|remote_ref
