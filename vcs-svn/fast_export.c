@@ -3,6 +3,7 @@ DECL|function|check_preimage_overflow
 DECL|function|die_short_read
 DECL|function|ends_with
 DECL|function|fast_export_begin_commit
+DECL|function|fast_export_begin_note
 DECL|function|fast_export_blob_delta
 DECL|function|fast_export_buf_to_data
 DECL|function|fast_export_data

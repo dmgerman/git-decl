@@ -29,6 +29,7 @@ DECL|member|action
 DECL|member|author
 DECL|member|dst
 DECL|member|log
+DECL|member|note
 DECL|member|prop_delta
 DECL|member|prop_length
 DECL|member|revision
