@@ -14,6 +14,7 @@ DECL|function|has_remote
 DECL|function|is_submodule_commit_present
 DECL|function|is_submodule_modified
 DECL|function|merge_submodule
+DECL|function|ok_to_remove_submodule
 DECL|function|parse_fetch_recurse_submodules_arg
 DECL|function|parse_submodule_config_option
 DECL|function|prepare_submodule_summary
@@ -27,6 +28,7 @@ DECL|function|show_submodule_summary
 DECL|function|submodule_collect_changed_cb
 DECL|function|submodule_config
 DECL|function|submodule_needs_pushing
+DECL|function|submodule_uses_gitfile
 DECL|macro|MERGE_WARNING
 DECL|variable|changed_submodule_paths
 DECL|variable|config_fetch_recurse_submodules
