@@ -220,6 +220,7 @@ DECL|variable|default_diff_options
 DECL|variable|degrade_cc_to_c_warning
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
+DECL|variable|diff_context_default
 DECL|variable|diff_detect_rename_default
 DECL|variable|diff_dirstat_permille_default
 DECL|variable|diff_mnemonic_prefix
