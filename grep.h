@@ -4,6 +4,7 @@ DECL|enumerator|GREP_CONTEXT_BODY
 DECL|enumerator|GREP_CONTEXT_HEAD
 DECL|enumerator|GREP_HEADER_AUTHOR
 DECL|enumerator|GREP_HEADER_COMMITTER
+DECL|enumerator|GREP_HEADER_FIELD_MAX
 DECL|enumerator|GREP_NODE_AND
 DECL|enumerator|GREP_NODE_ATOM
 DECL|enumerator|GREP_NODE_NOT
@@ -35,7 +36,6 @@ DECL|macro|GREP_BINARY_DEFAULT
 DECL|macro|GREP_BINARY_NOMATCH
 DECL|macro|GREP_BINARY_TEXT
 DECL|macro|GREP_H
-DECL|macro|GREP_HEADER_FIELD_MAX
 DECL|macro|grep_read_lock
 DECL|macro|grep_read_unlock
 DECL|member|all_match
