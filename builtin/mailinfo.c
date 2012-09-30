@@ -1,8 +1,6 @@
 DECL|enumerator|TE_BASE64
 DECL|enumerator|TE_DONTCARE
 DECL|enumerator|TE_QP
-DECL|enumerator|TYPE_OTHER
-DECL|enumerator|TYPE_TEXT
 DECL|function|check_header
 DECL|function|cleanup_space
 DECL|function|cleanup_subject
@@ -51,7 +49,6 @@ DECL|variable|keep_non_patch_brackets_in_subject
 DECL|variable|keep_subject
 DECL|variable|line
 DECL|variable|mailinfo_usage
-DECL|variable|message_type
 DECL|variable|metainfo_charset
 DECL|variable|name
 DECL|variable|p_hdr_data
