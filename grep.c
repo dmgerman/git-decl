@@ -4,6 +4,7 @@ DECL|function|append_header_grep_pattern
 DECL|function|chk_hit_marker
 DECL|function|clr_hit_marker
 DECL|function|compile_grep_patterns
+DECL|function|compile_grep_patterns_real
 DECL|function|compile_pattern_and
 DECL|function|compile_pattern_atom
 DECL|function|compile_pattern_expr
@@ -15,6 +16,9 @@ DECL|function|compile_regexp
 DECL|function|compile_regexp_failed
 DECL|function|create_grep_pat
 DECL|function|do_append_grep_pat
+DECL|function|dump_grep_expression
+DECL|function|dump_grep_expression_1
+DECL|function|dump_grep_pat
 DECL|function|end_of_line
 DECL|function|fixmatch
 DECL|function|free_grep_patterns
@@ -36,7 +40,9 @@ DECL|function|grep_source_load
 DECL|function|grep_source_load_driver
 DECL|function|grep_source_load_file
 DECL|function|grep_source_load_sha1
+DECL|function|grep_splice_or
 DECL|function|grep_true_expr
+DECL|function|indent
 DECL|function|is_fixed
 DECL|function|look_ahead
 DECL|function|match_expr
