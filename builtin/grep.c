@@ -13,7 +13,6 @@ DECL|function|grep_file
 DECL|function|grep_lock
 DECL|function|grep_object
 DECL|function|grep_objects
-DECL|function|grep_pattern_type_options
 DECL|function|grep_sha1
 DECL|function|grep_tree
 DECL|function|grep_unlock

@@ -28,10 +28,12 @@ DECL|function|free_pcre_regexp
 DECL|function|grep_attr_lock
 DECL|function|grep_attr_unlock
 DECL|function|grep_buffer
+DECL|function|grep_commit_pattern_type
 DECL|function|grep_config
 DECL|function|grep_init
 DECL|function|grep_opt_dup
 DECL|function|grep_or_expr
+DECL|function|grep_set_pattern_type_option
 DECL|function|grep_source
 DECL|function|grep_source_1
 DECL|function|grep_source_clear
