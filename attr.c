@@ -51,6 +51,7 @@ DECL|member|next
 DECL|member|num_attr
 DECL|member|num_matches
 DECL|member|origin
+DECL|member|originlen
 DECL|member|pattern
 DECL|member|prev
 DECL|member|setto
