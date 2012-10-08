@@ -33,6 +33,7 @@ DECL|function|show_one_alternate_sha1
 DECL|function|show_ref
 DECL|function|show_ref_cb
 DECL|function|unpack
+DECL|function|unpack_with_sideband
 DECL|function|update
 DECL|function|write_head_info
 DECL|member|buf
