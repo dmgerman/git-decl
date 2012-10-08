@@ -18,6 +18,7 @@ DECL|function|wanted_peer_refs
 DECL|function|write_config
 DECL|function|write_followtags
 DECL|function|write_one_config
+DECL|function|write_refspec_config
 DECL|function|write_remote_refs
 DECL|variable|argv_submodule
 DECL|variable|builtin_clone_options
