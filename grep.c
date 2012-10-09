@@ -28,6 +28,8 @@ DECL|function|free_pcre_regexp
 DECL|function|grep_attr_lock
 DECL|function|grep_attr_unlock
 DECL|function|grep_buffer
+DECL|function|grep_config
+DECL|function|grep_init
 DECL|function|grep_opt_dup
 DECL|function|grep_or_expr
 DECL|function|grep_source
@@ -43,6 +45,7 @@ DECL|function|grep_source_load_sha1
 DECL|function|grep_splice_or
 DECL|function|grep_true_expr
 DECL|function|indent
+DECL|function|init_grep_defaults
 DECL|function|is_fixed
 DECL|function|look_ahead
 DECL|function|match_expr
@@ -54,6 +57,7 @@ DECL|function|match_one_pattern
 DECL|function|next_match
 DECL|function|output_color
 DECL|function|output_sep
+DECL|function|parse_pattern_type_arg
 DECL|function|patmatch
 DECL|function|pcrematch
 DECL|function|pcrematch
@@ -72,6 +76,7 @@ DECL|macro|grep_attr_unlock
 DECL|member|field
 DECL|member|len
 DECL|variable|grep_attr_mutex
+DECL|variable|grep_defaults
 DECL|variable|grep_read_mutex
 DECL|variable|grep_use_locks
 DECL|variable|header_field
