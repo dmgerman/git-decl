@@ -77,6 +77,7 @@ DECL|member|null_following_name
 DECL|member|origin
 DECL|member|output
 DECL|member|output_priv
+DECL|member|path
 DECL|member|pathname
 DECL|member|pattern
 DECL|member|pattern_expression
