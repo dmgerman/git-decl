@@ -44,6 +44,7 @@ DECL|function|match_pathspec
 DECL|function|match_pathspec_depth
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
+DECL|function|parse_exclude_pattern
 DECL|function|path_exclude_check_clear
 DECL|function|path_exclude_check_init
 DECL|function|path_excluded

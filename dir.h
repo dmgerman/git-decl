@@ -10,6 +10,7 @@ DECL|macro|EXC_DIRS
 DECL|macro|EXC_FILE
 DECL|macro|EXC_FLAG_ENDSWITH
 DECL|macro|EXC_FLAG_MUSTBEDIR
+DECL|macro|EXC_FLAG_NEGATIVE
 DECL|macro|EXC_FLAG_NODIR
 DECL|macro|MATCHED_EXACTLY
 DECL|macro|MATCHED_FNMATCH
@@ -45,7 +46,6 @@ DECL|member|path
 DECL|member|pattern
 DECL|member|patternlen
 DECL|member|prev
-DECL|member|to_exclude
 DECL|struct|dir_entry
 DECL|struct|dir_struct
 DECL|struct|exclude
