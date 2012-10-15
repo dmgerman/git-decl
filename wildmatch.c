@@ -1,7 +1,5 @@
 DECL|function|dowild
 DECL|function|wildmatch
-DECL|macro|ABORT_ALL
-DECL|macro|ABORT_TO_STARSTAR
 DECL|macro|CC_EQ
 DECL|macro|FALSE
 DECL|macro|ISALNUM
@@ -20,9 +18,7 @@ DECL|macro|ISPUNCT
 DECL|macro|ISSPACE
 DECL|macro|ISUPPER
 DECL|macro|ISXDIGIT
-DECL|macro|MATCH
 DECL|macro|NEGATE_CLASS
 DECL|macro|NEGATE_CLASS2
-DECL|macro|NOMATCH
 DECL|macro|TRUE
 DECL|typedef|uchar
