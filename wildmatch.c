@@ -1,10 +1,6 @@
-DECL|function|doliteral
 DECL|function|dowild
 DECL|function|iwildmatch
-DECL|function|litmatch_array
-DECL|function|trailing_N_elements
 DECL|function|wildmatch
-DECL|function|wildmatch_array
 DECL|macro|ABORT_ALL
 DECL|macro|ABORT_TO_STARSTAR
 DECL|macro|CC_EQ
@@ -29,4 +25,3 @@ DECL|macro|NEGATE_CLASS
 DECL|macro|NEGATE_CLASS2
 DECL|macro|TRUE
 DECL|variable|force_lower_case
-DECL|variable|wildmatch_iteration_count
