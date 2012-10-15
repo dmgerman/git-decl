@@ -39,6 +39,7 @@ DECL|function|is_empty_dir
 DECL|function|is_inside_dir
 DECL|function|match_basename
 DECL|function|match_one
+DECL|function|match_pathname
 DECL|function|match_pathspec
 DECL|function|match_pathspec_depth
 DECL|function|match_pathspec_item
