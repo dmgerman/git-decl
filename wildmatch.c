@@ -24,4 +24,5 @@ DECL|macro|ISXDIGIT
 DECL|macro|NEGATE_CLASS
 DECL|macro|NEGATE_CLASS2
 DECL|macro|TRUE
+DECL|typedef|uchar
 DECL|variable|force_lower_case
