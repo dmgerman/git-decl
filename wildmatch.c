@@ -1,5 +1,4 @@
 DECL|function|dowild
-DECL|function|iwildmatch
 DECL|function|wildmatch
 DECL|macro|ABORT_ALL
 DECL|macro|ABORT_TO_STARSTAR
@@ -27,4 +26,3 @@ DECL|macro|NEGATE_CLASS2
 DECL|macro|NOMATCH
 DECL|macro|TRUE
 DECL|typedef|uchar
-DECL|variable|force_lower_case
