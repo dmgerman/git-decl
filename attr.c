@@ -44,15 +44,19 @@ DECL|member|attr
 DECL|member|attr
 DECL|member|attr_nr
 DECL|member|attrs
+DECL|member|flags
 DECL|member|h
 DECL|member|is_macro
 DECL|member|name
 DECL|member|next
+DECL|member|nowildcardlen
 DECL|member|num_attr
 DECL|member|num_matches
 DECL|member|origin
 DECL|member|originlen
+DECL|member|pat
 DECL|member|pattern
+DECL|member|patternlen
 DECL|member|prev
 DECL|member|setto
 DECL|member|state
@@ -61,6 +65,7 @@ DECL|struct|attr_stack
 DECL|struct|attr_state
 DECL|struct|git_attr
 DECL|struct|match_attr
+DECL|struct|pattern
 DECL|variable|attr_nr
 DECL|variable|attr_stack
 DECL|variable|blank
