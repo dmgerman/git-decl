@@ -34,6 +34,7 @@ DECL|function|mingw_connect
 DECL|function|mingw_execv
 DECL|function|mingw_execve
 DECL|function|mingw_execvp
+DECL|function|mingw_fflush
 DECL|function|mingw_fopen
 DECL|function|mingw_freeaddrinfo
 DECL|function|mingw_freopen
@@ -82,6 +83,7 @@ DECL|function|waitpid
 DECL|macro|accept
 DECL|macro|bind
 DECL|macro|connect
+DECL|macro|fflush
 DECL|macro|fopen
 DECL|macro|freopen
 DECL|macro|fstat
