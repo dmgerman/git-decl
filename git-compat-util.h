@@ -98,6 +98,8 @@ DECL|macro|isdigit
 DECL|macro|isdigit
 DECL|macro|islower
 DECL|macro|islower
+DECL|macro|isprint
+DECL|macro|isprint
 DECL|macro|isspace
 DECL|macro|isspace
 DECL|macro|isupper

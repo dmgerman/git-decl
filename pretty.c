@@ -1,3 +1,6 @@
+DECL|enumerator|RFC2047_ADDRESS
+DECL|enumerator|RFC2047_SUBJECT
+DECL|enum|rfc2047_type
 DECL|function|add_again
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
