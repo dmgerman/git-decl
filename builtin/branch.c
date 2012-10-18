@@ -13,6 +13,7 @@ DECL|function|append_ref
 DECL|function|branch_get_color
 DECL|function|branch_merged
 DECL|function|calc_maxwidth
+DECL|function|check_branch_commit
 DECL|function|cmd_branch
 DECL|function|delete_branches
 DECL|function|edit_branch_description
