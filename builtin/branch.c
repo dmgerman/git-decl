@@ -15,6 +15,7 @@ DECL|function|branch_merged
 DECL|function|calc_maxwidth
 DECL|function|check_branch_commit
 DECL|function|cmd_branch
+DECL|function|delete_branch_config
 DECL|function|delete_branches
 DECL|function|edit_branch_description
 DECL|function|fill_tracking_info
