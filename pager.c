@@ -1,7 +1,6 @@
 DECL|function|decimal_width
 DECL|function|git_pager
 DECL|function|pager_in_use
-DECL|function|pager_preexec
 DECL|function|setup_pager
 DECL|function|term_columns
 DECL|function|wait_for_pager
