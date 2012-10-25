@@ -56,7 +56,6 @@ DECL|function|store_aux
 DECL|function|store_write_pair
 DECL|function|store_write_section
 DECL|function|write_error
-DECL|macro|MAXNAME
 DECL|macro|MAX_INCLUDE_DEPTH
 DECL|macro|MAX_MATCHES
 DECL|member|baselen
