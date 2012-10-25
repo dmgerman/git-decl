@@ -64,6 +64,7 @@ DECL|macro|connect
 DECL|macro|execv
 DECL|macro|execvp
 DECL|macro|exit
+DECL|macro|fflush
 DECL|macro|find_last_dir_sep
 DECL|macro|fopen
 DECL|macro|fprintf
