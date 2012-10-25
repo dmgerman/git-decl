@@ -45,6 +45,7 @@ DECL|macro|SSTATE_TRANSFERING
 DECL|macro|STATE_NEEDS_CLOSING
 DECL|macro|STATE_NEEDS_READING
 DECL|macro|STATE_NEEDS_WRITING
+DECL|member|bidi_import
 DECL|member|buf
 DECL|member|bufuse
 DECL|member|connect

@@ -3,7 +3,9 @@ DECL|function|check_preimage_overflow
 DECL|function|die_short_read
 DECL|function|ends_with
 DECL|function|fast_export_begin_commit
+DECL|function|fast_export_begin_note
 DECL|function|fast_export_blob_delta
+DECL|function|fast_export_buf_to_data
 DECL|function|fast_export_data
 DECL|function|fast_export_deinit
 DECL|function|fast_export_delete
@@ -12,6 +14,7 @@ DECL|function|fast_export_init
 DECL|function|fast_export_ls
 DECL|function|fast_export_ls_rev
 DECL|function|fast_export_modify
+DECL|function|fast_export_note
 DECL|function|fast_export_truncate
 DECL|function|get_response_line
 DECL|function|init_postimage

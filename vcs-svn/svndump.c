@@ -3,12 +3,14 @@ DECL|function|die_short_read
 DECL|function|end_revision
 DECL|function|handle_node
 DECL|function|handle_property
+DECL|function|init
 DECL|function|read_props
 DECL|function|reset_dump_ctx
 DECL|function|reset_node_ctx
 DECL|function|reset_rev_ctx
 DECL|function|svndump_deinit
 DECL|function|svndump_init
+DECL|function|svndump_init_fd
 DECL|function|svndump_read
 DECL|function|svndump_reset
 DECL|macro|DATE_RFC2822_LEN
@@ -27,6 +29,7 @@ DECL|member|action
 DECL|member|author
 DECL|member|dst
 DECL|member|log
+DECL|member|note
 DECL|member|prop_delta
 DECL|member|prop_length
 DECL|member|revision
