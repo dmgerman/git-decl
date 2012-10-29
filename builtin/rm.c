@@ -1,6 +1,10 @@
 DECL|function|check_local_mod
+DECL|function|check_submodules_use_gitfiles
 DECL|function|cmd_rm
+DECL|function|get_ours_cache_pos
 DECL|member|alloc
+DECL|member|entry
+DECL|member|is_submodule
 DECL|member|name
 DECL|member|nr
 DECL|variable|builtin_rm_options
