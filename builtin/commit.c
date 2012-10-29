@@ -5,6 +5,7 @@ DECL|enumerator|COMMIT_AS_IS
 DECL|enumerator|COMMIT_NORMAL
 DECL|enumerator|COMMIT_PARTIAL
 DECL|enumerator|STATUS_FORMAT_LONG
+DECL|enumerator|STATUS_FORMAT_NONE
 DECL|enumerator|STATUS_FORMAT_PORCELAIN
 DECL|enumerator|STATUS_FORMAT_SHORT
 DECL|function|add_remove_files
