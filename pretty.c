@@ -1,3 +1,6 @@
+DECL|enumerator|RFC2047_ADDRESS
+DECL|enumerator|RFC2047_SUBJECT
+DECL|enum|rfc2047_type
 DECL|function|add_again
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
@@ -17,13 +20,15 @@ DECL|function|get_header
 DECL|function|get_one_line
 DECL|function|git_pretty_formats_config
 DECL|function|has_non_ascii
-DECL|function|has_rfc822_specials
 DECL|function|is_empty_line
 DECL|function|is_rfc2047_special
 DECL|function|is_rfc822_special
 DECL|function|istitlechar
+DECL|function|last_line_length
 DECL|function|logmsg_reencode
 DECL|function|mailmap_name
+DECL|function|needs_rfc2047_encoding
+DECL|function|needs_rfc822_quoting
 DECL|function|non_ascii
 DECL|function|parse_commit_header
 DECL|function|parse_commit_message
