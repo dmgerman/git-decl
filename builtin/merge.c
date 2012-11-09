@@ -1,7 +1,6 @@
 DECL|function|abort_commit
 DECL|function|add_strategies
 DECL|function|append_strategy
-DECL|function|checkout_fast_forward
 DECL|function|cmd_merge
 DECL|function|collect_parents
 DECL|function|count_diff_files
@@ -15,7 +14,6 @@ DECL|function|finish_up_to_date
 DECL|function|get_strategy
 DECL|function|git_merge_config
 DECL|function|is_old_style_invocation
-DECL|function|merge_argument
 DECL|function|merge_name
 DECL|function|merge_trivial
 DECL|function|option_parse_message
@@ -34,7 +32,6 @@ DECL|function|setup_with_upstream
 DECL|function|split_merge_strategies
 DECL|function|squash_message
 DECL|function|suggest_conflicts
-DECL|function|try_merge_command
 DECL|function|try_merge_strategy
 DECL|function|write_merge_msg
 DECL|function|write_merge_state

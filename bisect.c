@@ -12,7 +12,9 @@ DECL|function|compare_commit_dist
 DECL|function|count_distance
 DECL|function|count_interesting_parents
 DECL|function|do_find_bisection
+DECL|function|estimate_bisect_steps
 DECL|function|exit_if_skipped_commits
+DECL|function|exp2i
 DECL|function|filter_skipped
 DECL|function|find_bisection
 DECL|function|get_bad_and_good_commits
@@ -23,6 +25,7 @@ DECL|function|handle_bad_merge_base
 DECL|function|handle_skipped_merge_base
 DECL|function|is_expected_rev
 DECL|function|join_sha1_array_hex
+DECL|function|log2i
 DECL|function|managed_skipped
 DECL|function|mark_expected_rev
 DECL|function|read_bisect_paths

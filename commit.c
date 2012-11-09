@@ -45,6 +45,7 @@ DECL|function|parse_signed_commit
 DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
 DECL|function|prepare_commit_graft
+DECL|function|print_commit_list
 DECL|function|read_commit_extra_header_lines
 DECL|function|read_commit_extra_headers
 DECL|function|read_graft_file

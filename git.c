@@ -1,11 +1,9 @@
-DECL|function|check_pager_config
 DECL|function|commit_pager_choice
 DECL|function|execv_dashed_external
 DECL|function|handle_alias
 DECL|function|handle_internal_command
 DECL|function|handle_options
 DECL|function|main
-DECL|function|pager_command_config
 DECL|function|run_argv
 DECL|function|run_builtin
 DECL|macro|NEED_WORK_TREE
@@ -13,13 +11,9 @@ DECL|macro|RUN_SETUP
 DECL|macro|RUN_SETUP_GENTLY
 DECL|macro|USE_PAGER
 DECL|member|cmd
-DECL|member|cmd
 DECL|member|fn
 DECL|member|option
-DECL|member|value
-DECL|member|want
 DECL|struct|cmd_struct
-DECL|struct|pager_config
 DECL|variable|git_more_info_string
 DECL|variable|git_startup_info
 DECL|variable|git_usage_string

@@ -120,6 +120,7 @@ DECL|function|run_external_diff
 DECL|function|run_textconv
 DECL|function|sane_truncate_line
 DECL|function|scale_linear
+DECL|function|setup_diff_pager
 DECL|function|short_opt
 DECL|function|show_dirstat
 DECL|function|show_dirstat_by_line
