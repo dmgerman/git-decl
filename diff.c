@@ -101,6 +101,8 @@ DECL|function|parse_dirstat_opt
 DECL|function|parse_dirstat_params
 DECL|function|parse_long_opt
 DECL|function|parse_rename_score
+DECL|function|parse_submodule_opt
+DECL|function|parse_submodule_params
 DECL|function|patch_id_consume
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
