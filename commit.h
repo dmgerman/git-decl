@@ -30,6 +30,7 @@ DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|notes
+DECL|member|notes_message
 DECL|member|nr_parent
 DECL|member|obj
 DECL|member|object
@@ -39,7 +40,6 @@ DECL|member|parents
 DECL|member|preserve_subject
 DECL|member|reflog_info
 DECL|member|sha1
-DECL|member|show_notes
 DECL|member|subject
 DECL|member|tree
 DECL|member|type
