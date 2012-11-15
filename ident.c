@@ -14,6 +14,9 @@ DECL|function|ident_default_name
 DECL|function|split_ident_line
 DECL|function|strbuf_addstr_without_crud
 DECL|function|user_ident_sufficiently_given
+DECL|macro|IDENT_ALL_GIVEN
+DECL|macro|IDENT_MAIL_GIVEN
+DECL|macro|IDENT_NAME_GIVEN
 DECL|macro|get_gecos
 DECL|macro|get_gecos
 DECL|variable|env_hint
