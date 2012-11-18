@@ -334,6 +334,7 @@ DECL|member|next_in
 DECL|member|next_out
 DECL|member|nonfastforward
 DECL|member|not_new
+DECL|member|nowildcard_len
 DECL|member|nr
 DECL|member|nr
 DECL|member|nsec
@@ -379,7 +380,6 @@ DECL|member|tree
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
-DECL|member|use_wildcard
 DECL|member|version
 DECL|member|whence
 DECL|member|windows
