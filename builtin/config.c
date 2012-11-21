@@ -1,6 +1,7 @@
 DECL|function|check_argc
 DECL|function|cmd_config
 DECL|function|cmd_repo_config
+DECL|function|collect_config
 DECL|function|get_color
 DECL|function|get_colorbool
 DECL|function|get_value
@@ -8,7 +9,6 @@ DECL|function|git_get_color_config
 DECL|function|git_get_colorbool_config
 DECL|function|normalize_value
 DECL|function|show_all_config
-DECL|function|show_config
 DECL|macro|ACTION_ADD
 DECL|macro|ACTION_EDIT
 DECL|macro|ACTION_GET
@@ -28,6 +28,10 @@ DECL|macro|TYPE_BOOL
 DECL|macro|TYPE_BOOL_OR_INT
 DECL|macro|TYPE_INT
 DECL|macro|TYPE_PATH
+DECL|member|alloc
+DECL|member|items
+DECL|member|nr
+DECL|struct|strbuf_list
 DECL|variable|actions
 DECL|variable|builtin_config_options
 DECL|variable|builtin_config_usage
@@ -50,7 +54,6 @@ DECL|variable|key_regexp
 DECL|variable|parsed_color
 DECL|variable|regexp
 DECL|variable|respect_includes
-DECL|variable|seen
 DECL|variable|show_keys
 DECL|variable|term
 DECL|variable|types
