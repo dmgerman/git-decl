@@ -187,6 +187,7 @@ DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
 DECL|macro|NO_REPLACE_OBJECTS_ENVIRONMENT
 DECL|macro|OWNER_CHANGED
+DECL|macro|PATHSPEC_ONESTAR
 DECL|macro|READ_SHA1_FILE_REPLACE
 DECL|macro|REFRESH_IGNORE_MISSING
 DECL|macro|REFRESH_IGNORE_SUBMODULES
@@ -289,6 +290,7 @@ DECL|member|dir_next
 DECL|member|do_not_close
 DECL|member|fd
 DECL|member|filename
+DECL|member|flags
 DECL|member|flags
 DECL|member|fn
 DECL|member|force
