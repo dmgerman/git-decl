@@ -34,6 +34,7 @@ DECL|function|free_pathspec
 DECL|function|free_simplify
 DECL|function|get_dtype
 DECL|function|get_index_dtype
+DECL|function|git_fnmatch
 DECL|function|init_pathspec
 DECL|function|is_empty_dir
 DECL|function|is_inside_dir
