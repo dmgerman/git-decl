@@ -91,7 +91,6 @@ DECL|member|imap
 DECL|member|in_progress
 DECL|member|in_progress_append
 DECL|member|len
-DECL|member|len
 DECL|member|literal_pending
 DECL|member|map_inbox
 DECL|member|max_size
