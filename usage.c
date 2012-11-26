@@ -13,6 +13,7 @@ DECL|function|vwritef
 DECL|function|warn_builtin
 DECL|function|warning
 DECL|variable|die_routine
+DECL|variable|dying
 DECL|variable|error_routine
 DECL|variable|usage_routine
 DECL|variable|warn_routine
