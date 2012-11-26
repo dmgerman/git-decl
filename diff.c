@@ -164,6 +164,7 @@ DECL|member|from_name
 DECL|member|header
 DECL|member|hex
 DECL|member|is_binary
+DECL|member|is_interesting
 DECL|member|is_renamed
 DECL|member|is_unmerged
 DECL|member|label_path
