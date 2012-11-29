@@ -1,5 +1,7 @@
 DECL|function|add_domainname
 DECL|function|add_mailname_host
+DECL|function|author_ident_sufficiently_given
+DECL|function|committer_ident_sufficiently_given
 DECL|function|copy_email
 DECL|function|copy_gecos
 DECL|function|crud
@@ -11,13 +13,17 @@ DECL|function|git_ident_config
 DECL|function|ident_default_date
 DECL|function|ident_default_email
 DECL|function|ident_default_name
+DECL|function|ident_is_sufficient
 DECL|function|split_ident_line
 DECL|function|strbuf_addstr_without_crud
-DECL|function|user_ident_sufficiently_given
+DECL|macro|IDENT_ALL_GIVEN
+DECL|macro|IDENT_MAIL_GIVEN
+DECL|macro|IDENT_NAME_GIVEN
 DECL|macro|get_gecos
 DECL|macro|get_gecos
+DECL|variable|author_ident_explicitly_given
+DECL|variable|committer_ident_explicitly_given
 DECL|variable|env_hint
 DECL|variable|git_default_date
 DECL|variable|git_default_email
 DECL|variable|git_default_name
-DECL|variable|user_ident_explicitly_given
