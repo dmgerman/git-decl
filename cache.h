@@ -380,6 +380,7 @@ DECL|member|tree
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
+DECL|member|update
 DECL|member|use_wildcard
 DECL|member|version
 DECL|member|whence
