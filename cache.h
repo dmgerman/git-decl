@@ -364,6 +364,7 @@ DECL|member|raw
 DECL|member|recursive
 DECL|member|refresh_cache
 DECL|member|remote_status
+DECL|member|requires_force
 DECL|member|resolve_undo
 DECL|member|sec
 DECL|member|sha1
