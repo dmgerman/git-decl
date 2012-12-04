@@ -16,7 +16,6 @@ DECL|function|get_path_split
 DECL|function|getaddrinfo_stub
 DECL|function|getenv_cs
 DECL|function|getnameinfo_stub
-DECL|function|getpass
 DECL|function|getpwuid
 DECL|function|gettimeofday
 DECL|function|gmtime_r
