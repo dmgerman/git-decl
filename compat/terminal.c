@@ -1,7 +1,17 @@
 DECL|function|disable_echo
+DECL|function|disable_echo
 DECL|function|git_terminal_prompt
 DECL|function|git_terminal_prompt
 DECL|function|restore_term
+DECL|function|restore_term
 DECL|function|restore_term_on_signal
+DECL|macro|FORCE_TEXT
+DECL|macro|FORCE_TEXT
+DECL|macro|INPUT_PATH
+DECL|macro|INPUT_PATH
+DECL|macro|OUTPUT_PATH
+DECL|macro|OUTPUT_PATH
+DECL|variable|cmode
+DECL|variable|hconin
 DECL|variable|old_term
 DECL|variable|term_fd
