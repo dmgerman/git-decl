@@ -1,3 +1,4 @@
+DECL|function|disable_echo
 DECL|function|git_terminal_prompt
 DECL|function|git_terminal_prompt
 DECL|function|restore_term
