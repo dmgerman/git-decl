@@ -18,7 +18,6 @@ DECL|function|traverse_path
 DECL|function|unresolved
 DECL|function|unresolved_directory
 DECL|member|blob
-DECL|member|flags
 DECL|member|link
 DECL|member|mode
 DECL|member|next
