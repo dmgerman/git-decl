@@ -27,4 +27,3 @@ DECL|struct|merge_list
 DECL|variable|merge_result
 DECL|variable|merge_result_end
 DECL|variable|merge_tree_usage
-DECL|variable|resolve_directories
