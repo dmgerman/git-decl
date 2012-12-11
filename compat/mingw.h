@@ -65,6 +65,7 @@ DECL|macro|execv
 DECL|macro|execvp
 DECL|macro|exit
 DECL|macro|fflush
+DECL|macro|fgetc
 DECL|macro|find_last_dir_sep
 DECL|macro|fopen
 DECL|macro|fprintf
@@ -93,6 +94,7 @@ DECL|macro|off_t
 DECL|macro|open
 DECL|macro|open_html
 DECL|macro|printf
+DECL|macro|raise
 DECL|macro|rename
 DECL|macro|rmdir
 DECL|macro|setsockopt

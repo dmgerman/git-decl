@@ -1,5 +1,6 @@
 DECL|function|ask_yes_no_if_possible
 DECL|function|copy_environ
+DECL|function|ctrl_ignore
 DECL|function|do_lstat
 DECL|function|do_stat_internal
 DECL|function|ensure_socket_initialization
@@ -15,7 +16,6 @@ DECL|function|get_path_split
 DECL|function|getaddrinfo_stub
 DECL|function|getenv_cs
 DECL|function|getnameinfo_stub
-DECL|function|getpass
 DECL|function|getpwuid
 DECL|function|gettimeofday
 DECL|function|gmtime_r
@@ -35,6 +35,7 @@ DECL|function|mingw_execv
 DECL|function|mingw_execve
 DECL|function|mingw_execvp
 DECL|function|mingw_fflush
+DECL|function|mingw_fgetc
 DECL|function|mingw_fopen
 DECL|function|mingw_freeaddrinfo
 DECL|function|mingw_freopen
@@ -51,6 +52,7 @@ DECL|function|mingw_listen
 DECL|function|mingw_lstat
 DECL|function|mingw_open
 DECL|function|mingw_open_html
+DECL|function|mingw_raise
 DECL|function|mingw_rename
 DECL|function|mingw_rmdir
 DECL|function|mingw_setsockopt
@@ -84,6 +86,7 @@ DECL|macro|accept
 DECL|macro|bind
 DECL|macro|connect
 DECL|macro|fflush
+DECL|macro|fgetc
 DECL|macro|fopen
 DECL|macro|freopen
 DECL|macro|fstat
@@ -93,6 +96,7 @@ DECL|macro|gethostbyname
 DECL|macro|gethostname
 DECL|macro|listen
 DECL|macro|open
+DECL|macro|raise
 DECL|macro|rename
 DECL|macro|rmdir
 DECL|macro|setsockopt
@@ -113,6 +117,7 @@ DECL|variable|one_shot
 DECL|variable|pinfo
 DECL|variable|pinfo_cs
 DECL|variable|pinfo_t
+DECL|variable|sigint_fn
 DECL|variable|timer_event
 DECL|variable|timer_fn
 DECL|variable|timer_interval
