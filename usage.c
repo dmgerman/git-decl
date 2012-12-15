@@ -12,6 +12,7 @@ DECL|function|vreportf
 DECL|function|vwritef
 DECL|function|warn_builtin
 DECL|function|warning
+DECL|macro|error
 DECL|variable|die_routine
 DECL|variable|dying
 DECL|variable|error_routine

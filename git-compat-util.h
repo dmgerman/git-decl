@@ -69,6 +69,7 @@ DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|macro|bitsizeof
 DECL|macro|decimal_length
+DECL|macro|error
 DECL|macro|find_last_dir_sep
 DECL|macro|fopen
 DECL|macro|fopen
