@@ -21,3 +21,4 @@ DECL|macro|OPT_SHORT
 DECL|macro|OPT_UNSET
 DECL|macro|USAGE_GAP
 DECL|macro|USAGE_OPTS_WIDTH
+DECL|macro|opterror
