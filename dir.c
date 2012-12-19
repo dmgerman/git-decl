@@ -37,6 +37,7 @@ DECL|function|get_index_dtype
 DECL|function|init_pathspec
 DECL|function|is_empty_dir
 DECL|function|is_inside_dir
+DECL|function|limit_pathspec_to_literal
 DECL|function|match_basename
 DECL|function|match_one
 DECL|function|match_pathname
