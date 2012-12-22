@@ -14,7 +14,8 @@ DECL|function|decorate_get_color
 DECL|function|detect_any_signoff
 DECL|function|digits_in_number
 DECL|function|do_diff_combined
-DECL|function|get_patch_filename
+DECL|function|fmt_output_commit
+DECL|function|fmt_output_subject
 DECL|function|is_common_merge
 DECL|function|load_ref_decorations
 DECL|function|log_tree_commit
