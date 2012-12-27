@@ -38,6 +38,7 @@ DECL|function|is_excluded
 DECL|function|is_excluded_from_list
 DECL|function|is_inside_dir
 DECL|function|is_path_excluded
+DECL|function|last_exclude_matching_from_list
 DECL|function|match_basename
 DECL|function|match_one
 DECL|function|match_pathname
