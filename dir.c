@@ -13,6 +13,7 @@ DECL|enum|path_treatment
 DECL|function|add_exclude
 DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_to_list
+DECL|function|clear_exclude_list
 DECL|function|cmp_name
 DECL|function|common_prefix
 DECL|function|common_prefix_len
@@ -27,7 +28,6 @@ DECL|function|exclude_matches_pathspec
 DECL|function|file_exists
 DECL|function|fill_directory
 DECL|function|fnmatch_icase
-DECL|function|free_excludes
 DECL|function|free_pathspec
 DECL|function|free_simplify
 DECL|function|get_dtype
