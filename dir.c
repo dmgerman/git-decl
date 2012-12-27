@@ -40,6 +40,7 @@ DECL|function|is_inside_dir
 DECL|function|is_path_excluded
 DECL|function|last_exclude_matching
 DECL|function|last_exclude_matching_from_list
+DECL|function|last_exclude_matching_path
 DECL|function|match_basename
 DECL|function|match_one
 DECL|function|match_pathname

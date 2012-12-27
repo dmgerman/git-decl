@@ -26,6 +26,7 @@ DECL|member|baselen
 DECL|member|baselen
 DECL|member|dir
 DECL|member|entries
+DECL|member|exclude
 DECL|member|exclude_ix
 DECL|member|exclude_list
 DECL|member|exclude_per_dir
