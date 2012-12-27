@@ -25,7 +25,6 @@ DECL|function|directory_exists_in_index
 DECL|function|directory_exists_in_index_icase
 DECL|function|exclude_matches_pathspec
 DECL|function|excluded
-DECL|function|excluded_from_list
 DECL|function|file_exists
 DECL|function|fill_directory
 DECL|function|fnmatch_icase
@@ -36,6 +35,7 @@ DECL|function|get_dtype
 DECL|function|get_index_dtype
 DECL|function|init_pathspec
 DECL|function|is_empty_dir
+DECL|function|is_excluded_from_list
 DECL|function|is_inside_dir
 DECL|function|is_path_excluded
 DECL|function|match_basename
