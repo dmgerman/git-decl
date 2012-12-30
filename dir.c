@@ -59,6 +59,7 @@ DECL|function|simplify_away
 DECL|function|strcmp_icase
 DECL|function|strncmp_icase
 DECL|function|treat_directory
+DECL|function|treat_file
 DECL|function|treat_leading_path
 DECL|function|treat_one_path
 DECL|function|treat_path
