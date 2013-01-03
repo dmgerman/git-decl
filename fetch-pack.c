@@ -46,7 +46,6 @@ DECL|variable|agent_supported
 DECL|variable|complete
 DECL|variable|fetch_fsck_objects
 DECL|variable|fetch_unpack_limit
-DECL|variable|lock
 DECL|variable|marked
 DECL|variable|multi_ack
 DECL|variable|no_done

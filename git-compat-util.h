@@ -74,6 +74,7 @@ DECL|macro|fopen
 DECL|macro|fopen
 DECL|macro|fstat_is_reliable
 DECL|macro|fstat_is_reliable
+DECL|macro|getpagesize
 DECL|macro|has_dos_drive_prefix
 DECL|macro|hstrerror
 DECL|macro|is_dir_sep
