@@ -11,6 +11,8 @@ DECL|function|blame_move_callback
 DECL|function|blame_overlap
 DECL|function|cmd_blame
 DECL|function|coalesce
+DECL|function|commit_info_destroy
+DECL|function|commit_info_init
 DECL|function|copy_split_if_better
 DECL|function|decref_split
 DECL|function|diff_hunks
