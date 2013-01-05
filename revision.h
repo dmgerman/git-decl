@@ -82,6 +82,7 @@ DECL|member|lifo
 DECL|member|limited
 DECL|member|log_reencode
 DECL|member|loginfo
+DECL|member|mailmap
 DECL|member|max_age
 DECL|member|max_count
 DECL|member|max_parents
