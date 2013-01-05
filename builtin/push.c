@@ -4,7 +4,6 @@ DECL|function|advise_pull_before_push
 DECL|function|advise_ref_already_exists
 DECL|function|advise_ref_fetch_first
 DECL|function|advise_ref_needs_force
-DECL|function|advise_use_upstream
 DECL|function|cmd_push
 DECL|function|die_push_simple
 DECL|function|do_push
@@ -18,14 +17,12 @@ DECL|function|setup_push_current
 DECL|function|setup_push_upstream
 DECL|function|warn_unspecified_push_default_configuration
 DECL|variable|cas
-DECL|variable|default_matching_used
 DECL|variable|deleterefs
 DECL|variable|message_advice_checkout_pull_push
 DECL|variable|message_advice_pull_before_push
 DECL|variable|message_advice_ref_already_exists
 DECL|variable|message_advice_ref_fetch_first
 DECL|variable|message_advice_ref_needs_force
-DECL|variable|message_advice_use_upstream
 DECL|variable|message_detached_head_die
 DECL|variable|progress
 DECL|variable|push_usage
