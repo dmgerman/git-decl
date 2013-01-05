@@ -1,7 +1,6 @@
 DECL|function|add_refspec
 DECL|function|advise_checkout_pull_push
 DECL|function|advise_pull_before_push
-DECL|function|advise_use_upstream
 DECL|function|cmd_push
 DECL|function|die_push_simple
 DECL|function|do_push
@@ -12,11 +11,9 @@ DECL|function|set_refspecs
 DECL|function|setup_default_push_refspecs
 DECL|function|setup_push_upstream
 DECL|function|warn_unspecified_push_default_configuration
-DECL|variable|default_matching_used
 DECL|variable|deleterefs
 DECL|variable|message_advice_checkout_pull_push
 DECL|variable|message_advice_pull_before_push
-DECL|variable|message_advice_use_upstream
 DECL|variable|progress
 DECL|variable|push_usage
 DECL|variable|receivepack

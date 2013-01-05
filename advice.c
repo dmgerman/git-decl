@@ -10,7 +10,6 @@ DECL|variable|advice_config
 DECL|variable|advice_detached_head
 DECL|variable|advice_implicit_identity
 DECL|variable|advice_push_non_ff_current
-DECL|variable|advice_push_non_ff_default
 DECL|variable|advice_push_non_ff_matching
 DECL|variable|advice_push_nonfastforward
 DECL|variable|advice_resolve_conflict
