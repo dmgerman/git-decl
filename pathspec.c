@@ -1,0 +1,2 @@
+DECL|function|fill_pathspec_matches
+DECL|function|find_used_pathspec
