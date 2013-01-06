@@ -14,6 +14,7 @@ DECL|function|add_exclude
 DECL|function|add_exclude_list
 DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_to_list
+DECL|function|clear_directory
 DECL|function|clear_exclude_list
 DECL|function|cmp_name
 DECL|function|common_prefix
