@@ -5,6 +5,7 @@ DECL|function|debug_set
 DECL|function|drop_attr_stack
 DECL|function|fill
 DECL|function|fill_one
+DECL|function|find_basename
 DECL|function|free_attr_elem
 DECL|function|git_all_attrs
 DECL|function|git_attr
