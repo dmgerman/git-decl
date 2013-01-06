@@ -15,6 +15,7 @@ DECL|macro|merge_remote_util
 DECL|member|abbrev
 DECL|member|after_subject
 DECL|member|buffer
+DECL|member|color
 DECL|member|date
 DECL|member|date_mode
 DECL|member|date_mode_explicit
