@@ -1,2 +1,2 @@
-DECL|function|fill_pathspec_matches
-DECL|function|find_used_pathspec
+DECL|function|add_pathspec_matches_against_index
+DECL|function|find_pathspecs_matching_against_index
