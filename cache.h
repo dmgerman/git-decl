@@ -45,6 +45,7 @@ DECL|enumerator|PUSH_DEFAULT_UPSTREAM
 DECL|enumerator|REF_STATUS_EXPECTING_REPORT
 DECL|enumerator|REF_STATUS_NONE
 DECL|enumerator|REF_STATUS_OK
+DECL|enumerator|REF_STATUS_REJECT_ALREADY_EXISTS
 DECL|enumerator|REF_STATUS_REJECT_NODELETE
 DECL|enumerator|REF_STATUS_REJECT_NONFASTFORWARD
 DECL|enumerator|REF_STATUS_REMOTE_REJECT
@@ -332,6 +333,7 @@ DECL|member|next
 DECL|member|next_in
 DECL|member|next_out
 DECL|member|nonfastforward
+DECL|member|not_forwardable
 DECL|member|not_new
 DECL|member|nowildcard_len
 DECL|member|nr
@@ -363,6 +365,7 @@ DECL|member|raw
 DECL|member|recursive
 DECL|member|refresh_cache
 DECL|member|remote_status
+DECL|member|requires_force
 DECL|member|resolve_undo
 DECL|member|sec
 DECL|member|sha1
@@ -379,6 +382,7 @@ DECL|member|tree
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
+DECL|member|update
 DECL|member|version
 DECL|member|whence
 DECL|member|windows
