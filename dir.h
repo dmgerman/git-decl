@@ -27,6 +27,7 @@ DECL|member|baselen
 DECL|member|baselen
 DECL|member|dir
 DECL|member|el
+DECL|member|el
 DECL|member|entries
 DECL|member|exclude
 DECL|member|exclude_ix
@@ -50,6 +51,8 @@ DECL|member|path
 DECL|member|pattern
 DECL|member|patternlen
 DECL|member|prev
+DECL|member|src
+DECL|member|srcpos
 DECL|struct|dir_entry
 DECL|struct|dir_struct
 DECL|struct|exclude

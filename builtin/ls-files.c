@@ -19,6 +19,7 @@ DECL|variable|abbrev
 DECL|variable|debug_mode
 DECL|variable|error_unmatch
 DECL|variable|exc_given
+DECL|variable|exclude_args
 DECL|variable|line_terminator
 DECL|variable|ls_files_usage
 DECL|variable|max_prefix_len
