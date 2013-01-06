@@ -234,6 +234,7 @@ DECL|macro|ce_size
 DECL|macro|ce_skip_worktree
 DECL|macro|ce_stage
 DECL|macro|ce_uptodate
+DECL|macro|config_error_nonbool
 DECL|macro|discard_cache
 DECL|macro|git_SHA1_Final
 DECL|macro|git_SHA1_Init

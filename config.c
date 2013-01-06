@@ -58,6 +58,7 @@ DECL|function|store_write_section
 DECL|function|write_error
 DECL|macro|MAX_INCLUDE_DEPTH
 DECL|macro|MAX_MATCHES
+DECL|macro|config_error_nonbool
 DECL|member|baselen
 DECL|member|do_not_match
 DECL|member|eof

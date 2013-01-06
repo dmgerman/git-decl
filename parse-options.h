@@ -62,6 +62,7 @@ DECL|macro|OPT__QUIET
 DECL|macro|OPT__VERBOSE
 DECL|macro|OPT__VERBOSITY
 DECL|macro|PARSE_OPTIONS_H
+DECL|macro|opterror
 DECL|member|argc
 DECL|member|argh
 DECL|member|argv
