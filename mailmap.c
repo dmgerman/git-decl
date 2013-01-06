@@ -6,7 +6,10 @@ DECL|function|free_mailmap_info
 DECL|function|map_user
 DECL|function|parse_name_and_email
 DECL|function|read_mailmap
-DECL|function|read_single_mailmap
+DECL|function|read_mailmap_blob
+DECL|function|read_mailmap_buf
+DECL|function|read_mailmap_file
+DECL|function|read_mailmap_line
 DECL|macro|DEBUG_MAILMAP
 DECL|macro|debug_mm
 DECL|member|email
@@ -16,4 +19,5 @@ DECL|member|name
 DECL|member|namemap
 DECL|struct|mailmap_entry
 DECL|struct|mailmap_info
+DECL|variable|git_mailmap_blob
 DECL|variable|git_mailmap_file
