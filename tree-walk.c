@@ -12,6 +12,7 @@ DECL|function|init_tree_desc
 DECL|function|make_traverse_path
 DECL|function|match_dir_prefix
 DECL|function|match_entry
+DECL|function|match_wildcard_base
 DECL|function|name_compare
 DECL|function|prune_traversal
 DECL|function|setup_traverse_info

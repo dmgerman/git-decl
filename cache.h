@@ -184,6 +184,7 @@ DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
 DECL|macro|NO_REPLACE_OBJECTS_ENVIRONMENT
 DECL|macro|OWNER_CHANGED
+DECL|macro|PATHSPEC_ONESTAR
 DECL|macro|READ_SHA1_FILE_REPLACE
 DECL|macro|REFRESH_IGNORE_MISSING
 DECL|macro|REFRESH_IGNORE_SUBMODULES
@@ -287,6 +288,7 @@ DECL|member|do_not_close
 DECL|member|fd
 DECL|member|filename
 DECL|member|flags
+DECL|member|flags
 DECL|member|fn
 DECL|member|force
 DECL|member|force
@@ -331,6 +333,7 @@ DECL|member|next_in
 DECL|member|next_out
 DECL|member|nonfastforward
 DECL|member|not_new
+DECL|member|nowildcard_len
 DECL|member|nr
 DECL|member|nr
 DECL|member|nsec
@@ -376,7 +379,6 @@ DECL|member|tree
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
-DECL|member|use_wildcard
 DECL|member|version
 DECL|member|whence
 DECL|member|windows
