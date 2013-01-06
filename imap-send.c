@@ -10,7 +10,6 @@ DECL|function|buffer_gets
 DECL|function|count_messages
 DECL|function|cram
 DECL|function|cram
-DECL|function|encode_html_chars
 DECL|function|free_generic_messages
 DECL|function|free_list
 DECL|function|get_cmd_result
@@ -90,7 +89,6 @@ DECL|member|host
 DECL|member|imap
 DECL|member|in_progress
 DECL|member|in_progress_append
-DECL|member|len
 DECL|member|len
 DECL|member|literal_pending
 DECL|member|map_inbox
