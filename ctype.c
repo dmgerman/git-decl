@@ -4,5 +4,8 @@ DECL|enumerator|G
 DECL|enumerator|P
 DECL|enumerator|R
 DECL|enumerator|S
+DECL|enumerator|U
+DECL|enumerator|X
+DECL|enumerator|Z
 DECL|variable|sane_ctype
 DECL|variable|tolower_trans_tbl
