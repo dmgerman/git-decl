@@ -13,6 +13,7 @@ DECL|enum|path_treatment
 DECL|function|add_exclude
 DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_to_list
+DECL|function|clear_exclude_list
 DECL|function|cmp_name
 DECL|function|common_prefix
 DECL|function|common_prefix_len
@@ -24,12 +25,9 @@ DECL|function|dir_inside_of
 DECL|function|directory_exists_in_index
 DECL|function|directory_exists_in_index_icase
 DECL|function|exclude_matches_pathspec
-DECL|function|excluded
-DECL|function|excluded_from_list
 DECL|function|file_exists
 DECL|function|fill_directory
 DECL|function|fnmatch_icase
-DECL|function|free_excludes
 DECL|function|free_pathspec
 DECL|function|free_simplify
 DECL|function|get_dtype
@@ -37,7 +35,13 @@ DECL|function|get_index_dtype
 DECL|function|git_fnmatch
 DECL|function|init_pathspec
 DECL|function|is_empty_dir
+DECL|function|is_excluded
+DECL|function|is_excluded_from_list
 DECL|function|is_inside_dir
+DECL|function|is_path_excluded
+DECL|function|last_exclude_matching
+DECL|function|last_exclude_matching_from_list
+DECL|function|last_exclude_matching_path
 DECL|function|limit_pathspec_to_literal
 DECL|function|match_basename
 DECL|function|match_one
@@ -49,7 +53,6 @@ DECL|function|no_wildcard
 DECL|function|parse_exclude_pattern
 DECL|function|path_exclude_check_clear
 DECL|function|path_exclude_check_init
-DECL|function|path_excluded
 DECL|function|pathspec_item_cmp
 DECL|function|prep_exclude
 DECL|function|read_directory
