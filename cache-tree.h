@@ -7,6 +7,7 @@ DECL|macro|WRITE_TREE_SILENT
 DECL|macro|WRITE_TREE_UNMERGED_INDEX
 DECL|macro|WRITE_TREE_UNREADABLE_INDEX
 DECL|member|cache_tree
+DECL|member|count
 DECL|member|down
 DECL|member|entry_count
 DECL|member|name
