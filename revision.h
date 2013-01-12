@@ -111,6 +111,7 @@ DECL|member|pruning
 DECL|member|ref_message_ids
 DECL|member|reflog_info
 DECL|member|remove_empty_trees
+DECL|member|reroll_count
 DECL|member|rev
 DECL|member|revarg_opt
 DECL|member|reverse
