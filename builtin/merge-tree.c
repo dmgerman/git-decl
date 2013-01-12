@@ -5,6 +5,7 @@ DECL|function|explanation
 DECL|function|get_tree_descriptor
 DECL|function|link_entry
 DECL|function|merge_trees
+DECL|function|merge_trees_recursive
 DECL|function|origin
 DECL|function|resolve
 DECL|function|result
@@ -17,8 +18,9 @@ DECL|function|threeway_callback
 DECL|function|traverse_path
 DECL|function|unresolved
 DECL|function|unresolved_directory
+DECL|macro|ENTRY_SHA1
+DECL|macro|ENTRY_SHA1
 DECL|member|blob
-DECL|member|flags
 DECL|member|link
 DECL|member|mode
 DECL|member|next
@@ -28,4 +30,3 @@ DECL|struct|merge_list
 DECL|variable|merge_result
 DECL|variable|merge_result_end
 DECL|variable|merge_tree_usage
-DECL|variable|resolve_directories
