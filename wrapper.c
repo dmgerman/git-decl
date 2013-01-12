@@ -1,3 +1,4 @@
+DECL|function|access_or_die
 DECL|function|access_or_warn
 DECL|function|do_nothing
 DECL|function|git_mkstemp
