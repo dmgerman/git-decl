@@ -9,6 +9,7 @@ DECL|function|dup_devnull
 DECL|function|error_child
 DECL|function|execv_shell_cmd
 DECL|function|exists_in_PATH
+DECL|function|find_hook
 DECL|function|finish_async
 DECL|function|finish_command
 DECL|function|locate_in_PATH
