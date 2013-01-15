@@ -91,7 +91,6 @@ DECL|member|tunnel
 DECL|member|uid
 DECL|member|uidnext
 DECL|member|uidvalidity
-DECL|member|uidvalidity
 DECL|member|use_html
 DECL|member|use_ssl
 DECL|member|user
