@@ -81,7 +81,6 @@ DECL|member|done
 DECL|member|fd
 DECL|member|flags
 DECL|member|gen
-DECL|member|gen
 DECL|member|host
 DECL|member|imap
 DECL|member|in_progress
@@ -111,7 +110,6 @@ DECL|member|port
 DECL|member|prefix
 DECL|member|rcaps
 DECL|member|recent
-DECL|member|server
 DECL|member|size
 DECL|member|sock
 DECL|member|ssl
@@ -141,7 +139,6 @@ DECL|struct|imap_list
 DECL|struct|imap_server_conf
 DECL|struct|imap_socket
 DECL|struct|imap_store
-DECL|struct|imap_store_conf
 DECL|struct|message
 DECL|struct|store
 DECL|struct|store_conf
