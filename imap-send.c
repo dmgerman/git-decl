@@ -70,7 +70,6 @@ DECL|member|caps
 DECL|member|cb
 DECL|member|child
 DECL|member|cmd
-DECL|member|conf
 DECL|member|cont
 DECL|member|count
 DECL|member|create
@@ -87,10 +86,7 @@ DECL|member|in_progress
 DECL|member|in_progress_append
 DECL|member|len
 DECL|member|literal_pending
-DECL|member|map_inbox
-DECL|member|max_size
 DECL|member|msgs
-DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|next
@@ -105,7 +101,6 @@ DECL|member|offset
 DECL|member|opts
 DECL|member|pass
 DECL|member|path
-DECL|member|path
 DECL|member|port
 DECL|member|prefix
 DECL|member|rcaps
@@ -116,9 +111,6 @@ DECL|member|ssl
 DECL|member|ssl_verify
 DECL|member|status
 DECL|member|tag
-DECL|member|trash
-DECL|member|trash_only_new
-DECL|member|trash_remote_new
 DECL|member|trashnc
 DECL|member|trycreate
 DECL|member|tunnel
@@ -141,7 +133,6 @@ DECL|struct|imap_socket
 DECL|struct|imap_store
 DECL|struct|message
 DECL|struct|store
-DECL|struct|store_conf
 DECL|typedef|SSL
 DECL|variable|Quiet
 DECL|variable|Verbose
