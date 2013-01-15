@@ -20,7 +20,6 @@ DECL|function|imap_close_store
 DECL|function|imap_exec
 DECL|function|imap_exec_m
 DECL|function|imap_info
-DECL|function|imap_make_flags
 DECL|function|imap_open_store
 DECL|function|imap_store_msg
 DECL|function|imap_warn
@@ -81,7 +80,6 @@ DECL|member|data
 DECL|member|dlen
 DECL|member|done
 DECL|member|fd
-DECL|member|flags
 DECL|member|flags
 DECL|member|gen
 DECL|member|gen
@@ -150,7 +148,6 @@ DECL|struct|msg_data
 DECL|struct|store
 DECL|struct|store_conf
 DECL|typedef|SSL
-DECL|variable|Flags
 DECL|variable|Quiet
 DECL|variable|Verbose
 DECL|variable|cap_list
