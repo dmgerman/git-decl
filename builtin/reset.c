@@ -8,6 +8,7 @@ DECL|enum|reset_type
 DECL|function|cmd_reset
 DECL|function|die_if_unmerged_cache
 DECL|function|is_merge
+DECL|function|parse_args
 DECL|function|print_new_head_line
 DECL|function|read_from_tree
 DECL|function|reset_index_file
