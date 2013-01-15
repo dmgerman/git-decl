@@ -76,7 +76,6 @@ DECL|member|count
 DECL|member|create
 DECL|member|ctx
 DECL|member|data
-DECL|member|data
 DECL|member|dlen
 DECL|member|done
 DECL|member|fd
@@ -144,7 +143,6 @@ DECL|struct|imap_socket
 DECL|struct|imap_store
 DECL|struct|imap_store_conf
 DECL|struct|message
-DECL|struct|msg_data
 DECL|struct|store
 DECL|struct|store_conf
 DECL|typedef|SSL
