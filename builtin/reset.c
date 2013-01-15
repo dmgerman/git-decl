@@ -11,7 +11,7 @@ DECL|function|is_merge
 DECL|function|parse_args
 DECL|function|print_new_head_line
 DECL|function|read_from_tree
-DECL|function|reset_index_file
+DECL|function|reset_index
 DECL|function|set_reflog_message
 DECL|function|update_index_from_diff
 DECL|function|update_index_refresh
