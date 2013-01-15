@@ -10,7 +10,6 @@ DECL|function|buffer_gets
 DECL|function|count_messages
 DECL|function|cram
 DECL|function|cram
-DECL|function|free_generic_messages
 DECL|function|free_list
 DECL|function|get_cmd_result
 DECL|function|git_imap_config
@@ -55,9 +54,6 @@ DECL|macro|DRV_OK
 DECL|macro|DRV_STORE_BAD
 DECL|macro|ENCODED_SIZE
 DECL|macro|LIST
-DECL|macro|M_DEAD
-DECL|macro|M_FLAGS
-DECL|macro|M_RECENT
 DECL|macro|NIL
 DECL|macro|RESP_BAD
 DECL|macro|RESP_NO
@@ -78,7 +74,6 @@ DECL|member|data
 DECL|member|dlen
 DECL|member|done
 DECL|member|fd
-DECL|member|flags
 DECL|member|gen
 DECL|member|host
 DECL|member|imap
@@ -86,10 +81,8 @@ DECL|member|in_progress
 DECL|member|in_progress_append
 DECL|member|len
 DECL|member|literal_pending
-DECL|member|msgs
 DECL|member|name
 DECL|member|name
-DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|nexttag
@@ -105,16 +98,13 @@ DECL|member|port
 DECL|member|prefix
 DECL|member|rcaps
 DECL|member|recent
-DECL|member|size
 DECL|member|sock
 DECL|member|ssl
 DECL|member|ssl_verify
-DECL|member|status
 DECL|member|tag
 DECL|member|trashnc
 DECL|member|trycreate
 DECL|member|tunnel
-DECL|member|uid
 DECL|member|uid
 DECL|member|uidnext
 DECL|member|uidvalidity
@@ -131,7 +121,6 @@ DECL|struct|imap_list
 DECL|struct|imap_server_conf
 DECL|struct|imap_socket
 DECL|struct|imap_store
-DECL|struct|message
 DECL|struct|store
 DECL|typedef|SSL
 DECL|variable|Quiet
