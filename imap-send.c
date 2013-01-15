@@ -67,7 +67,6 @@ DECL|member|cb
 DECL|member|child
 DECL|member|cmd
 DECL|member|cont
-DECL|member|count
 DECL|member|create
 DECL|member|ctx
 DECL|member|data
@@ -91,13 +90,10 @@ DECL|member|ns_personal
 DECL|member|ns_shared
 DECL|member|num_in_progress
 DECL|member|offset
-DECL|member|opts
 DECL|member|pass
-DECL|member|path
 DECL|member|port
 DECL|member|prefix
 DECL|member|rcaps
-DECL|member|recent
 DECL|member|sock
 DECL|member|ssl
 DECL|member|ssl_verify
