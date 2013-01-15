@@ -31,7 +31,6 @@ DECL|function|next_arg
 DECL|function|nfsnprintf
 DECL|function|nfvasprintf
 DECL|function|parse_capability
-DECL|function|parse_imap_list
 DECL|function|parse_imap_list_l
 DECL|function|parse_list
 DECL|function|parse_response_code
