@@ -15,5 +15,6 @@ DECL|function|reset_index_file
 DECL|function|set_reflog_message
 DECL|function|update_index_from_diff
 DECL|function|update_index_refresh
+DECL|function|update_refs
 DECL|variable|git_reset_usage
 DECL|variable|reset_type_names
