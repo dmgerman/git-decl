@@ -10,7 +10,6 @@ DECL|function|buffer_gets
 DECL|function|count_messages
 DECL|function|cram
 DECL|function|cram
-DECL|function|free_list
 DECL|function|get_cmd_result
 DECL|function|git_imap_config
 DECL|function|hexchar
@@ -22,8 +21,6 @@ DECL|function|imap_info
 DECL|function|imap_open_store
 DECL|function|imap_store_msg
 DECL|function|imap_warn
-DECL|function|is_atom
-DECL|function|is_list
 DECL|function|issue_imap_cmd
 DECL|function|lf_to_crlf
 DECL|function|main
@@ -31,10 +28,10 @@ DECL|function|next_arg
 DECL|function|nfsnprintf
 DECL|function|nfvasprintf
 DECL|function|parse_capability
-DECL|function|parse_imap_list_l
-DECL|function|parse_list
 DECL|function|parse_response_code
 DECL|function|read_message
+DECL|function|skip_imap_list_l
+DECL|function|skip_list
 DECL|function|socket_perror
 DECL|function|socket_read
 DECL|function|socket_shutdown
@@ -52,8 +49,6 @@ DECL|macro|DRV_OK
 DECL|macro|DRV_OK
 DECL|macro|DRV_STORE_BAD
 DECL|macro|ENCODED_SIZE
-DECL|macro|LIST
-DECL|macro|NIL
 DECL|macro|RESP_BAD
 DECL|macro|RESP_NO
 DECL|macro|RESP_OK
@@ -63,7 +58,6 @@ DECL|member|buf
 DECL|member|bytes
 DECL|member|caps
 DECL|member|cb
-DECL|member|child
 DECL|member|cmd
 DECL|member|cont
 DECL|member|create
@@ -77,16 +71,11 @@ DECL|member|host
 DECL|member|imap
 DECL|member|in_progress
 DECL|member|in_progress_append
-DECL|member|len
 DECL|member|literal_pending
 DECL|member|name
 DECL|member|name
 DECL|member|next
-DECL|member|next
 DECL|member|nexttag
-DECL|member|ns_other
-DECL|member|ns_personal
-DECL|member|ns_shared
 DECL|member|num_in_progress
 DECL|member|offset
 DECL|member|pass
@@ -107,12 +96,10 @@ DECL|member|uidvalidity
 DECL|member|use_html
 DECL|member|use_ssl
 DECL|member|user
-DECL|member|val
 DECL|struct|imap
 DECL|struct|imap_buffer
 DECL|struct|imap_cmd
 DECL|struct|imap_cmd_cb
-DECL|struct|imap_list
 DECL|struct|imap_server_conf
 DECL|struct|imap_socket
 DECL|struct|imap_store
