@@ -7,7 +7,6 @@ DECL|enumerator|SOFT
 DECL|enum|reset_type
 DECL|function|cmd_reset
 DECL|function|die_if_unmerged_cache
-DECL|function|interactive_reset
 DECL|function|is_merge
 DECL|function|print_new_head_line
 DECL|function|read_from_tree
