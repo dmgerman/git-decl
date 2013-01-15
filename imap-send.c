@@ -86,7 +86,6 @@ DECL|member|sock
 DECL|member|ssl
 DECL|member|ssl_verify
 DECL|member|tag
-DECL|member|trashnc
 DECL|member|trycreate
 DECL|member|tunnel
 DECL|member|uid
