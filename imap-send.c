@@ -66,7 +66,6 @@ DECL|member|data
 DECL|member|dlen
 DECL|member|done
 DECL|member|fd
-DECL|member|gen
 DECL|member|host
 DECL|member|imap
 DECL|member|in_progress
@@ -101,7 +100,6 @@ DECL|struct|imap_cmd_cb
 DECL|struct|imap_server_conf
 DECL|struct|imap_socket
 DECL|struct|imap_store
-DECL|struct|store
 DECL|typedef|SSL
 DECL|variable|Quiet
 DECL|variable|Verbose
