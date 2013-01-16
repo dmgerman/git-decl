@@ -1,9 +1,11 @@
+DECL|function|add_lines
 DECL|function|fprintf_ln
 DECL|function|is_rfc3986_reserved
 DECL|function|is_rfc3986_unreserved
 DECL|function|prefixcmp
 DECL|function|printf_ln
 DECL|function|strbuf_add
+DECL|function|strbuf_add_commented_lines
 DECL|function|strbuf_add_lines
 DECL|function|strbuf_add_urlencode
 DECL|function|strbuf_addbuf_percentquote
@@ -13,6 +15,7 @@ DECL|function|strbuf_addstr_urlencode
 DECL|function|strbuf_addstr_xml_quoted
 DECL|function|strbuf_attach
 DECL|function|strbuf_cmp
+DECL|function|strbuf_commented_addf
 DECL|function|strbuf_detach
 DECL|function|strbuf_expand
 DECL|function|strbuf_expand_dict_cb
