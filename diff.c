@@ -96,6 +96,7 @@ DECL|function|is_submodule_ignored
 DECL|function|is_summary_empty
 DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
+DECL|function|parse_algorithm_value
 DECL|function|parse_diff_color_slot
 DECL|function|parse_dirstat_opt
 DECL|function|parse_dirstat_params
@@ -222,6 +223,7 @@ DECL|struct|patch_id_t
 DECL|typedef|sane_truncate_fn
 DECL|variable|default_diff_options
 DECL|variable|degrade_cc_to_c_warning
+DECL|variable|diff_algorithm
 DECL|variable|diff_auto_refresh_index
 DECL|variable|diff_colors
 DECL|variable|diff_context_default
