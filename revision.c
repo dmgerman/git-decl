@@ -47,6 +47,7 @@ DECL|function|prepare_revision_walk
 DECL|function|prepare_show_merge
 DECL|function|read_revisions_from_stdin
 DECL|function|remove_duplicate_parents
+DECL|function|remove_treesame_parents
 DECL|function|rev_compare_tree
 DECL|function|rev_same_tree_as_empty
 DECL|function|rewrite_one
