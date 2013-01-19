@@ -20,6 +20,7 @@ DECL|function|read_head_info
 DECL|function|receive_pack_config
 DECL|function|refuse_unconfigured_deny
 DECL|function|refuse_unconfigured_deny_delete_current
+DECL|function|reject_updates_to_hidden
 DECL|function|report
 DECL|function|report_message
 DECL|function|rp_error
