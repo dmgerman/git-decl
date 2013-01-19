@@ -11,6 +11,7 @@ DECL|function|is_in_cmdlist
 DECL|function|levenshtein_compare
 DECL|function|list_commands
 DECL|function|list_commands_in_dir
+DECL|function|list_common_cmds_help
 DECL|function|load_command_list
 DECL|function|pretty_print_string_list
 DECL|function|uniq
