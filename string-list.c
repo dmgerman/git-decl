@@ -22,3 +22,4 @@ DECL|function|string_list_split_in_place
 DECL|function|unsorted_string_list_delete_item
 DECL|function|unsorted_string_list_has_string
 DECL|function|unsorted_string_list_lookup
+DECL|variable|compare_for_qsort

@@ -24,6 +24,7 @@ DECL|member|indegree
 DECL|member|item
 DECL|member|key
 DECL|member|len
+DECL|member|mailmap
 DECL|member|name
 DECL|member|name
 DECL|member|need_8bit_cte

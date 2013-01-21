@@ -20,6 +20,7 @@ DECL|function|cherry_pick_list
 DECL|function|collect_bottom_commits
 DECL|function|commit_list_insert_by_date_cached
 DECL|function|commit_match
+DECL|function|commit_rewrite_person
 DECL|function|create_boundary_commit_list
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove

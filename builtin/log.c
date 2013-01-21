@@ -75,3 +75,4 @@ DECL|variable|realstdout
 DECL|variable|signature
 DECL|variable|subject_prefix
 DECL|variable|thread
+DECL|variable|use_mailmap_config
