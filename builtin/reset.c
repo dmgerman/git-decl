@@ -7,13 +7,13 @@ DECL|enumerator|SOFT
 DECL|enum|reset_type
 DECL|function|cmd_reset
 DECL|function|die_if_unmerged_cache
-DECL|function|interactive_reset
 DECL|function|is_merge
+DECL|function|parse_args
 DECL|function|print_new_head_line
 DECL|function|read_from_tree
-DECL|function|reset_index_file
+DECL|function|reset_index
 DECL|function|set_reflog_message
 DECL|function|update_index_from_diff
-DECL|function|update_index_refresh
+DECL|function|update_refs
 DECL|variable|git_reset_usage
 DECL|variable|reset_type_names
