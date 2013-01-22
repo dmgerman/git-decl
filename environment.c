@@ -23,6 +23,7 @@ DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
 DECL|variable|autorebase
 DECL|variable|big_file_threshold
+DECL|variable|check_stat
 DECL|variable|core_apply_sparse_checkout
 DECL|variable|core_compression_level
 DECL|variable|core_compression_seen
