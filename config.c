@@ -48,6 +48,7 @@ DECL|function|handle_path_include
 DECL|function|iskeychar
 DECL|function|lowercase
 DECL|function|matches
+DECL|function|parse_config_key
 DECL|function|parse_unit_factor
 DECL|function|parse_value
 DECL|function|section_name_is_ok
