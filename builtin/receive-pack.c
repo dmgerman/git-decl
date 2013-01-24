@@ -58,8 +58,6 @@ DECL|variable|deny_non_fast_forwards
 DECL|variable|head_name
 DECL|variable|head_name_to_free
 DECL|variable|pack_lockfile
-DECL|variable|post_receive_hook
-DECL|variable|pre_receive_hook
 DECL|variable|prefer_ofs_delta
 DECL|variable|quiet
 DECL|variable|receive_fsck_objects
@@ -72,5 +70,4 @@ DECL|variable|sent_capabilities
 DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
-DECL|variable|update_post_hook
 DECL|variable|use_sideband

@@ -23,6 +23,7 @@ DECL|function|read_loose_refs
 DECL|function|refs_from_alternate_cb
 DECL|function|rsync_transport_push
 DECL|function|rsync_url
+DECL|function|run_pre_push_hook
 DECL|function|set_git_option
 DECL|function|set_upstreams
 DECL|function|status_abbrev
