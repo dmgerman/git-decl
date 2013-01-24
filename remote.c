@@ -40,7 +40,6 @@ DECL|function|guess_ref
 DECL|function|guess_remote_head
 DECL|function|handle_config
 DECL|function|ignore_symref_update
-DECL|function|is_forwardable
 DECL|function|make_branch
 DECL|function|make_linked_ref
 DECL|function|make_remote

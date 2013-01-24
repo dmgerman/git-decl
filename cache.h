@@ -335,7 +335,6 @@ DECL|member|next
 DECL|member|next_in
 DECL|member|next_out
 DECL|member|nonfastforward
-DECL|member|not_forwardable
 DECL|member|not_new
 DECL|member|nowildcard_len
 DECL|member|nr
