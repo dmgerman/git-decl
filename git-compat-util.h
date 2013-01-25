@@ -1,3 +1,4 @@
+DECL|function|fnmatch
 DECL|function|gitmempcpy
 DECL|function|gitstrchrnul
 DECL|function|has_extension
@@ -16,6 +17,9 @@ DECL|macro|FLEX_ARRAY
 DECL|macro|FLEX_ARRAY
 DECL|macro|FLEX_ARRAY
 DECL|macro|FLEX_ARRAY
+DECL|macro|FNM_CASEFOLD
+DECL|macro|FNM_NOMATCH
+DECL|macro|FNM_PATHNAME
 DECL|macro|FORCE_DIR_SET_GID
 DECL|macro|FORCE_DIR_SET_GID
 DECL|macro|GIT_ALPHA
