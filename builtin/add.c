@@ -13,6 +13,7 @@ DECL|function|run_add_interactive
 DECL|function|treat_gitlinks
 DECL|function|update_callback
 DECL|function|validate_pathspec
+DECL|function|warn_pathless_add
 DECL|member|add_errors
 DECL|member|flags
 DECL|struct|update_callback_data
