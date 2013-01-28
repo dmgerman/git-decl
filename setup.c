@@ -1,3 +1,4 @@
+DECL|function|canonicalize_ceiling_entry
 DECL|function|check_filename
 DECL|function|check_repository_format
 DECL|function|check_repository_format_gently
