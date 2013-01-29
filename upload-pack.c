@@ -32,7 +32,6 @@ DECL|variable|have_obj
 DECL|variable|multi_ack
 DECL|variable|no_done
 DECL|variable|no_progress
-DECL|variable|nr_our_refs
 DECL|variable|oldest_have
 DECL|variable|pack_pipe
 DECL|variable|shallow_nr
