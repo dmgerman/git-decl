@@ -44,6 +44,7 @@ DECL|member|out
 DECL|member|use_pack_protocol
 DECL|struct|write_shallow_data
 DECL|variable|agent_supported
+DECL|variable|allow_tip_sha1_in_want
 DECL|variable|complete
 DECL|variable|fetch_fsck_objects
 DECL|variable|fetch_unpack_limit

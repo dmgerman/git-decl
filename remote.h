@@ -8,6 +8,7 @@ DECL|enumerator|REMOTE_REMOTES
 DECL|enum|match_refs_flags
 DECL|macro|REMOTE_H
 DECL|member|dst
+DECL|member|exact_sha1
 DECL|member|fetch
 DECL|member|fetch_refspec
 DECL|member|fetch_refspec_alloc
