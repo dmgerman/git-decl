@@ -50,6 +50,7 @@ DECL|variable|recurse_submodules_default
 DECL|variable|submodule_prefix
 DECL|variable|tags
 DECL|variable|transport
+DECL|variable|unshallow
 DECL|variable|update_head_ok
 DECL|variable|upload_pack
 DECL|variable|verbosity
