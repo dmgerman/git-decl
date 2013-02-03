@@ -23,7 +23,6 @@ DECL|function|show_line_to_eol
 DECL|function|show_parent_lno
 DECL|function|show_patch_diff
 DECL|function|show_raw_diff
-DECL|macro|COLONS
 DECL|member|bol
 DECL|member|flag
 DECL|member|len
