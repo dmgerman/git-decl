@@ -1,5 +1,6 @@
 DECL|function|color
 DECL|function|has_unmerged
+DECL|function|read_and_strip_branch
 DECL|function|read_line_from_git_path
 DECL|function|show_am_in_progress
 DECL|function|show_bisect_in_progress
