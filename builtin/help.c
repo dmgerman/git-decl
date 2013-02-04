@@ -20,7 +20,6 @@ DECL|function|get_html_page_path
 DECL|function|get_man_viewer_info
 DECL|function|git_help_config
 DECL|function|is_git_command
-DECL|function|list_common_cmds_help
 DECL|function|open_html
 DECL|function|parse_help_format
 DECL|function|prepend
