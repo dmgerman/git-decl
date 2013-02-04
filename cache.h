@@ -46,6 +46,8 @@ DECL|enumerator|REF_STATUS_EXPECTING_REPORT
 DECL|enumerator|REF_STATUS_NONE
 DECL|enumerator|REF_STATUS_OK
 DECL|enumerator|REF_STATUS_REJECT_ALREADY_EXISTS
+DECL|enumerator|REF_STATUS_REJECT_FETCH_FIRST
+DECL|enumerator|REF_STATUS_REJECT_NEEDS_FORCE
 DECL|enumerator|REF_STATUS_REJECT_NODELETE
 DECL|enumerator|REF_STATUS_REJECT_NONFASTFORWARD
 DECL|enumerator|REF_STATUS_REMOTE_REJECT
@@ -295,6 +297,7 @@ DECL|member|flags
 DECL|member|fn
 DECL|member|force
 DECL|member|force
+DECL|member|forced_update
 DECL|member|has_wildcard
 DECL|member|have_repository
 DECL|member|hdr_entries
@@ -334,7 +337,6 @@ DECL|member|next
 DECL|member|next
 DECL|member|next_in
 DECL|member|next_out
-DECL|member|nonfastforward
 DECL|member|not_new
 DECL|member|nowildcard_len
 DECL|member|nr
@@ -366,7 +368,6 @@ DECL|member|raw
 DECL|member|recursive
 DECL|member|refresh_cache
 DECL|member|remote_status
-DECL|member|requires_force
 DECL|member|resolve_undo
 DECL|member|sec
 DECL|member|sha1
@@ -383,7 +384,6 @@ DECL|member|tree
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
-DECL|member|update
 DECL|member|version
 DECL|member|whence
 DECL|member|windows
