@@ -33,6 +33,7 @@ DECL|function|diff_free_filespec_data
 DECL|function|diff_funcname_pattern
 DECL|function|diff_get_color
 DECL|function|diff_get_patch_id
+DECL|function|diff_line_prefix
 DECL|function|diff_opt_parse
 DECL|function|diff_populate_filespec
 DECL|function|diff_populate_gitlink
