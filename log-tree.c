@@ -32,6 +32,7 @@ DECL|function|show_parents
 DECL|function|show_sig_lines
 DECL|function|show_signature
 DECL|function|which_parent
+DECL|macro|APPEND_SIGNOFF_DEDUP
 DECL|macro|decorate_get_color_opt
 DECL|variable|decoration_colors
 DECL|variable|name_decoration
