@@ -23,6 +23,7 @@ DECL|member|am_in_progress
 DECL|member|amend
 DECL|member|bisect_in_progress
 DECL|member|branch
+DECL|member|branch
 DECL|member|change
 DECL|member|cherry_pick_in_progress
 DECL|member|colopts
@@ -40,6 +41,7 @@ DECL|member|merge_in_progress
 DECL|member|new_submodule_commits
 DECL|member|nowarn
 DECL|member|null_termination
+DECL|member|onto
 DECL|member|pathspec
 DECL|member|prefix
 DECL|member|rebase_in_progress
