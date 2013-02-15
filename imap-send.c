@@ -45,6 +45,7 @@ DECL|function|socket_shutdown
 DECL|function|socket_write
 DECL|function|split_msg
 DECL|function|ssl_socket_connect
+DECL|function|ssl_socket_connect
 DECL|function|ssl_socket_perror
 DECL|function|v_issue_imap_cmd
 DECL|function|wrap_in_html
