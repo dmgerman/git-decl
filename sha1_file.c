@@ -78,6 +78,8 @@ DECL|function|read_sha1_file_extended
 DECL|function|rearrange_packed_git
 DECL|function|release_delta_base_cache
 DECL|function|release_pack_memory
+DECL|function|report_helper
+DECL|function|report_pack_garbage
 DECL|function|reprepare_packed_git
 DECL|function|safe_create_leading_directories
 DECL|function|safe_create_leading_directories_const
@@ -151,3 +153,4 @@ DECL|variable|packed_git
 DECL|variable|peak_pack_mapped
 DECL|variable|peak_pack_open_windows
 DECL|variable|prepare_packed_git_run_once
+DECL|variable|report_garbage
