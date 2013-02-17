@@ -66,6 +66,7 @@ DECL|function|log_ref_setup
 DECL|function|log_ref_write
 DECL|function|name_conflict_fn
 DECL|function|names_conflict
+DECL|function|parse_hide_refs_config
 DECL|function|parse_ref_line
 DECL|function|peel_ref
 DECL|function|prettify_refname
@@ -77,6 +78,7 @@ DECL|function|read_ref_full
 DECL|function|ref_entry_cmp
 DECL|function|ref_entry_cmp_sslice
 DECL|function|ref_exists
+DECL|function|ref_is_hidden
 DECL|function|ref_msg
 DECL|function|refname_match
 DECL|function|remove_empty_directories
@@ -145,6 +147,7 @@ DECL|struct|repack_without_ref_sb
 DECL|struct|string_slice
 DECL|struct|warn_if_dangling_data
 DECL|variable|current_ref
+DECL|variable|hide_refs
 DECL|variable|packlock
 DECL|variable|ref_cache
 DECL|variable|ref_rev_parse_rules
