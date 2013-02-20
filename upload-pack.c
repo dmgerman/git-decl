@@ -14,7 +14,6 @@ DECL|function|send_ref
 DECL|function|show_commit
 DECL|function|show_edge
 DECL|function|show_object
-DECL|function|strip
 DECL|function|upload_pack
 DECL|function|upload_pack_config
 DECL|macro|CLIENT_SHALLOW
