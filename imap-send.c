@@ -16,6 +16,7 @@ DECL|function|free_list
 DECL|function|get_cmd_result
 DECL|function|git_imap_config
 DECL|function|hexchar
+DECL|function|host_matches
 DECL|function|imap_close_server
 DECL|function|imap_close_store
 DECL|function|imap_exec
@@ -45,8 +46,10 @@ DECL|function|socket_shutdown
 DECL|function|socket_write
 DECL|function|split_msg
 DECL|function|ssl_socket_connect
+DECL|function|ssl_socket_connect
 DECL|function|ssl_socket_perror
 DECL|function|v_issue_imap_cmd
+DECL|function|verify_hostname
 DECL|function|wrap_in_html
 DECL|macro|CAP
 DECL|macro|CHUNKSIZE
