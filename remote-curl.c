@@ -21,7 +21,6 @@ DECL|function|rpc_out
 DECL|function|rpc_service
 DECL|function|run_slot
 DECL|function|set_option
-DECL|function|write_discovery
 DECL|member|alloc
 DECL|member|argv
 DECL|member|buf
