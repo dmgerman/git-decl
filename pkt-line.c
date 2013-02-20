@@ -12,5 +12,6 @@ DECL|function|packet_write
 DECL|function|safe_read
 DECL|macro|hex
 DECL|variable|buffer
+DECL|variable|packet_buffer
 DECL|variable|packet_trace_prefix
 DECL|variable|trace_key
