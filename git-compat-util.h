@@ -135,7 +135,6 @@ DECL|macro|strcasestr
 DECL|macro|strchrnul
 DECL|macro|strlcpy
 DECL|macro|strtoimax
-DECL|macro|strtok_r
 DECL|macro|strtoumax
 DECL|macro|tolower
 DECL|macro|tolower
