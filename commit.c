@@ -29,6 +29,7 @@ DECL|function|get_merge_parent
 DECL|function|get_octopus_merge_bases
 DECL|function|handle_signed_tag
 DECL|function|in_merge_bases
+DECL|function|in_merge_bases_many
 DECL|function|interesting
 DECL|function|is_descendant_of
 DECL|function|lookup_commit
