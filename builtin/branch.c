@@ -20,6 +20,7 @@ DECL|function|delete_branches
 DECL|function|edit_branch_description
 DECL|function|fill_tracking_info
 DECL|function|free_ref_list
+DECL|function|get_head_description
 DECL|function|git_branch_config
 DECL|function|match_patterns
 DECL|function|matches_merge_filter
