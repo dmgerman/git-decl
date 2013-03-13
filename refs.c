@@ -24,6 +24,7 @@ DECL|function|do_one_ref
 DECL|function|dwim_log
 DECL|function|dwim_ref
 DECL|function|filter_refs
+DECL|function|find_beginning_of_line
 DECL|function|find_containing_dir
 DECL|function|find_ref
 DECL|function|find_ref_by_name
@@ -33,13 +34,13 @@ DECL|function|for_each_glob_ref
 DECL|function|for_each_glob_ref_in
 DECL|function|for_each_namespaced_ref
 DECL|function|for_each_rawref
-DECL|function|for_each_recent_reflog_ent
 DECL|function|for_each_ref
 DECL|function|for_each_ref_in
 DECL|function|for_each_ref_in_submodule
 DECL|function|for_each_ref_submodule
 DECL|function|for_each_reflog
 DECL|function|for_each_reflog_ent
+DECL|function|for_each_reflog_ent_reverse
 DECL|function|for_each_remote_ref
 DECL|function|for_each_remote_ref_submodule
 DECL|function|for_each_replace_ref
@@ -91,6 +92,7 @@ DECL|function|resolve_refdup
 DECL|function|search_for_subdir
 DECL|function|search_ref_dir
 DECL|function|shorten_unambiguous_ref
+DECL|function|show_one_reflog_ent
 DECL|function|sort_ref_dir
 DECL|function|substitute_branch_name
 DECL|function|unlock_ref
