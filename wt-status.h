@@ -52,6 +52,7 @@ DECL|member|show_untracked_files
 DECL|member|stagemask
 DECL|member|submodule_summary
 DECL|member|untracked
+DECL|member|untracked_in_ms
 DECL|member|use_color
 DECL|member|verbose
 DECL|member|whence
