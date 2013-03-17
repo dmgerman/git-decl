@@ -1,4 +1,5 @@
 DECL|function|init_hash
+DECL|function|preallocate_hash
 DECL|macro|HASH_H
 DECL|member|array
 DECL|member|hash
