@@ -7,12 +7,12 @@ DECL|enumerator|VERBATIM
 DECL|enumerator|WARN
 DECL|function|cmd_fast_export
 DECL|function|depth_first
+DECL|function|export_blob
 DECL|function|export_marks
 DECL|function|find_encoding
 DECL|function|get_object_mark
 DECL|function|get_tags_and_duplicates
 DECL|function|handle_commit
-DECL|function|handle_object
 DECL|function|handle_tag
 DECL|function|handle_tags_and_duplicates
 DECL|function|handle_tail
