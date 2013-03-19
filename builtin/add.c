@@ -12,6 +12,7 @@ DECL|function|treat_gitlinks
 DECL|function|update_callback
 DECL|function|validate_pathspec
 DECL|function|warn_pathless_add
+DECL|macro|WARN_IMPLICIT_DOT
 DECL|member|add_errors
 DECL|member|flags
 DECL|member|implicit_dot
