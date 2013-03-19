@@ -26,8 +26,10 @@ DECL|variable|ignore_missing
 DECL|variable|ignored_too
 DECL|variable|intent_to_add
 DECL|variable|lock_file
+DECL|variable|option_with_implicit_dot
 DECL|variable|patch_interactive
 DECL|variable|refresh_only
+DECL|variable|short_option_with_implicit_dot
 DECL|variable|show_only
 DECL|variable|take_worktree_changes
 DECL|variable|verbose
