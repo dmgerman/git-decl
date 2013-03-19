@@ -12,3 +12,5 @@ DECL|macro|inline
 DECL|macro|lstat
 DECL|macro|stat
 DECL|macro|strncasecmp
+DECL|macro|strtoll
+DECL|macro|strtoull
