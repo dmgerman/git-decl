@@ -14,6 +14,8 @@ DECL|function|validate_pathspec
 DECL|function|warn_pathless_add
 DECL|member|add_errors
 DECL|member|flags
+DECL|member|implicit_dot
+DECL|member|implicit_dot_len
 DECL|struct|update_callback_data
 DECL|variable|add_interactive
 DECL|variable|addremove
