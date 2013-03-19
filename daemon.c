@@ -41,7 +41,6 @@ DECL|function|upload_archive
 DECL|function|upload_pack
 DECL|function|xstrdup_tolower
 DECL|macro|HOST_NAME_MAX
-DECL|macro|NI_MAXSERV
 DECL|macro|STRARG
 DECL|macro|STRARG
 DECL|macro|initgroups
