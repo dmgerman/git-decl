@@ -317,6 +317,7 @@ DECL|member|len
 DECL|member|mail_begin
 DECL|member|mail_end
 DECL|member|match
+DECL|member|matched
 DECL|member|max_depth
 DECL|member|merge
 DECL|member|mode

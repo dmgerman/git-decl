@@ -1,2 +1,4 @@
+DECL|function|add_sought_entry
+DECL|function|add_sought_entry_mem
 DECL|function|cmd_fetch_pack
 DECL|variable|fetch_pack_usage

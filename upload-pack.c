@@ -3,6 +3,7 @@ DECL|function|create_pack_file
 DECL|function|do_rev_list
 DECL|function|get_common_commits
 DECL|function|got_sha1
+DECL|function|is_our_ref
 DECL|function|main
 DECL|function|mark_our_ref
 DECL|function|ok_to_give_up
@@ -19,6 +20,7 @@ DECL|function|upload_pack
 DECL|function|upload_pack_config
 DECL|macro|CLIENT_SHALLOW
 DECL|macro|COMMON_KNOWN
+DECL|macro|HIDDEN_REF
 DECL|macro|NOT_SHALLOW
 DECL|macro|OUR_REF
 DECL|macro|REACHABLE
@@ -26,6 +28,7 @@ DECL|macro|SHALLOW
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
 DECL|variable|advertise_refs
+DECL|variable|allow_tip_sha1_in_want
 DECL|variable|daemon_mode
 DECL|variable|debug_fd
 DECL|variable|extra_edge_obj

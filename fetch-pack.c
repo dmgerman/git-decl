@@ -5,6 +5,7 @@ DECL|enumerator|ACK_ready
 DECL|enumerator|NAK
 DECL|enum|ack_type
 DECL|function|clear_marks
+DECL|function|cmp_ref_by_name
 DECL|function|consume_shallow_list
 DECL|function|do_fetch_pack
 DECL|function|everything_local
@@ -22,7 +23,7 @@ DECL|function|mark_common
 DECL|function|mark_complete
 DECL|function|mark_recent_complete_commits
 DECL|function|next_flush
-DECL|function|non_matching_ref
+DECL|function|remove_duplicates_in_refs
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
 DECL|function|send_request
@@ -43,6 +44,7 @@ DECL|member|out
 DECL|member|use_pack_protocol
 DECL|struct|write_shallow_data
 DECL|variable|agent_supported
+DECL|variable|allow_tip_sha1_in_want
 DECL|variable|complete
 DECL|variable|fetch_fsck_objects
 DECL|variable|fetch_unpack_limit
