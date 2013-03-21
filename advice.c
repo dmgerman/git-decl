@@ -18,3 +18,4 @@ DECL|variable|advice_push_non_ff_matching
 DECL|variable|advice_push_update_rejected
 DECL|variable|advice_resolve_conflict
 DECL|variable|advice_status_hints
+DECL|variable|advice_status_u_option
