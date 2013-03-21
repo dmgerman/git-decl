@@ -7,6 +7,7 @@ DECL|function|make_cmd
 DECL|function|run_shell
 DECL|macro|COMMAND_DIR
 DECL|macro|HELP_COMMAND
+DECL|macro|NOLOGIN_COMMAND
 DECL|member|exec
 DECL|member|name
 DECL|struct|commands
