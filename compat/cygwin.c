@@ -1,3 +1,4 @@
+DECL|function|cygwin_get_st_mode_bits
 DECL|function|cygwin_lstat
 DECL|function|cygwin_lstat_stub
 DECL|function|cygwin_stat
@@ -6,6 +7,7 @@ DECL|function|do_stat
 DECL|function|filetime_to_timespec
 DECL|function|git_cygwin_config
 DECL|function|init_stat
+DECL|macro|CYGWIN_C
 DECL|macro|WIN32_LEAN_AND_MEAN
 DECL|macro|size_to_blocks
 DECL|variable|core_filemode
