@@ -61,7 +61,6 @@ DECL|function|open_packed_git_1
 DECL|function|open_sha1_file
 DECL|function|pack_entry_hash
 DECL|function|pack_report
-DECL|function|packed_delta_info
 DECL|function|packed_object_info
 DECL|function|parse_pack_index
 DECL|function|parse_sha1_header
@@ -79,6 +78,7 @@ DECL|function|rearrange_packed_git
 DECL|function|release_delta_base_cache
 DECL|function|release_pack_memory
 DECL|function|reprepare_packed_git
+DECL|function|retry_bad_packed_offset
 DECL|function|safe_create_leading_directories
 DECL|function|safe_create_leading_directories_const
 DECL|function|scan_windows
@@ -112,6 +112,7 @@ DECL|function|xmmap
 DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
+DECL|macro|POI_STACK_PREALLOC
 DECL|macro|SMALL_FILE_SIZE
 DECL|macro|SZ_FMT
 DECL|member|base_offset
