@@ -15,6 +15,7 @@ DECL|function|object_list_contains
 DECL|function|object_list_insert
 DECL|function|parse_object
 DECL|function|parse_object_buffer
+DECL|function|parse_object_or_die
 DECL|function|type_from_string
 DECL|function|typename
 DECL|variable|nr_objs
