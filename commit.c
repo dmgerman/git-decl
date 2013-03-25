@@ -4,6 +4,7 @@ DECL|function|check_commit
 DECL|function|clear_commit_marks
 DECL|function|clear_commit_marks_1
 DECL|function|clear_commit_marks_for_object_array
+DECL|function|clear_commit_marks_many
 DECL|function|commit_graft_pos
 DECL|function|commit_list_append
 DECL|function|commit_list_compare_by_date
@@ -28,6 +29,7 @@ DECL|function|get_merge_parent
 DECL|function|get_octopus_merge_bases
 DECL|function|handle_signed_tag
 DECL|function|in_merge_bases
+DECL|function|in_merge_bases_many
 DECL|function|interesting
 DECL|function|is_descendant_of
 DECL|function|lookup_commit
