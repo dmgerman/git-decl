@@ -3,6 +3,7 @@ DECL|function|display_mode_esc_sequence_len
 DECL|function|git_wcwidth
 DECL|function|is_encoding_utf8
 DECL|function|is_utf8
+DECL|function|mbs_chrlen
 DECL|function|pick_one_utf8_char
 DECL|function|reencode_string
 DECL|function|reencode_string_iconv
