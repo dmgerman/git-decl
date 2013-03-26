@@ -45,7 +45,6 @@ DECL|function|upstream_mark
 DECL|macro|ONELINE_SEEN
 DECL|macro|SHORT_NAME_AMBIGUOUS
 DECL|macro|SHORT_NAME_NOT_FOUND
-DECL|member|alloc
 DECL|member|always_call_fn
 DECL|member|ambiguous
 DECL|member|buf
@@ -54,9 +53,9 @@ DECL|member|candidate_checked
 DECL|member|candidate_exists
 DECL|member|candidate_ok
 DECL|member|cb_data
-DECL|member|cnt
 DECL|member|disambiguate_fn_used
 DECL|member|fn
+DECL|member|remaining
 DECL|struct|disambiguate_state
 DECL|struct|grab_nth_branch_switch_cbdata
 DECL|typedef|disambiguate_hint_fn
