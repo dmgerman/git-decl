@@ -9,7 +9,7 @@ DECL|function|write_zip_archive
 DECL|function|write_zip_data_desc
 DECL|function|write_zip_entry
 DECL|function|write_zip_trailer
-DECL|function|zlib_deflate
+DECL|function|zlib_deflate_raw
 DECL|macro|STREAM_BUFFER_SIZE
 DECL|macro|ZIP_DATA_DESC_SIZE
 DECL|macro|ZIP_DIRECTORY_MIN_SIZE
