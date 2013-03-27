@@ -96,7 +96,6 @@ DECL|function|sort_pack
 DECL|function|sz_fmt
 DECL|function|try_to_free_pack_memory
 DECL|function|unpack_compressed_entry
-DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
 DECL|function|unpack_object_header
 DECL|function|unpack_object_header_buffer
@@ -118,14 +117,18 @@ DECL|macro|O_NOATIME
 DECL|macro|POI_STACK_PREALLOC
 DECL|macro|SMALL_FILE_SIZE
 DECL|macro|SZ_FMT
+DECL|macro|UNPACK_ENTRY_STACK_PREALLOC
 DECL|member|base_offset
 DECL|member|buf
+DECL|member|curpos
 DECL|member|data
 DECL|member|lru
 DECL|member|next
+DECL|member|obj_offset
 DECL|member|p
 DECL|member|prev
 DECL|member|sha1
+DECL|member|size
 DECL|member|size
 DECL|member|size
 DECL|member|type
@@ -133,6 +136,7 @@ DECL|member|type
 DECL|struct|cached_object
 DECL|struct|delta_base_cache_entry
 DECL|struct|delta_base_cache_lru_list
+DECL|struct|unpack_entry_stack_ent
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail
 DECL|variable|cached_object_alloc
