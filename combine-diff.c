@@ -16,6 +16,7 @@ DECL|function|hunk_comment_line
 DECL|function|interesting
 DECL|function|intersect_paths
 DECL|function|make_hunks
+DECL|function|match_string_spaces
 DECL|function|reuse_combine_diff
 DECL|function|show_combined_diff
 DECL|function|show_combined_header
@@ -25,6 +26,7 @@ DECL|function|show_patch_diff
 DECL|function|show_raw_diff
 DECL|member|bol
 DECL|member|flag
+DECL|member|flags
 DECL|member|len
 DECL|member|len
 DECL|member|line
