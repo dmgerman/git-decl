@@ -29,6 +29,7 @@ DECL|function|excluded_from_list
 DECL|function|file_exists
 DECL|function|fill_directory
 DECL|function|fnmatch_icase
+DECL|function|fnmatch_icase_mem
 DECL|function|free_excludes
 DECL|function|free_pathspec
 DECL|function|free_simplify
