@@ -1,7 +1,3 @@
-DECL|enumerator|rewrite_one_error
-DECL|enumerator|rewrite_one_noparents
-DECL|enumerator|rewrite_one_ok
-DECL|enum|rewrite_result
 DECL|function|add_child
 DECL|function|add_grep
 DECL|function|add_head_to_pending
