@@ -5,6 +5,7 @@ DECL|function|collect_diff
 DECL|function|collect_diff_cb
 DECL|function|count_parents
 DECL|function|diff_filepair_dup
+DECL|function|diff_might_be_rename
 DECL|function|diff_ranges_filter_touched
 DECL|function|diff_ranges_init
 DECL|function|diff_ranges_release
@@ -12,6 +13,7 @@ DECL|function|dump_diff_hacky
 DECL|function|dump_diff_hacky_one
 DECL|function|fill_blob_sha1
 DECL|function|fill_line_ends
+DECL|function|filter_diffs_for_paths
 DECL|function|free_diffqueues
 DECL|function|free_line_log_data
 DECL|function|get_nth_line
