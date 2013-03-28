@@ -84,6 +84,8 @@ DECL|member|left_only
 DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
+DECL|member|line_level_traverse
+DECL|member|line_log_data
 DECL|member|log_reencode
 DECL|member|loginfo
 DECL|member|mailmap
