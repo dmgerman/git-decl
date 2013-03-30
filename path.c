@@ -1,4 +1,5 @@
 DECL|function|adjust_shared_perm
+DECL|function|calc_shared_perm
 DECL|function|chomp_trailing_dir_sep
 DECL|function|cleanup_path
 DECL|function|daemon_avoid_alias
