@@ -6,15 +6,17 @@ DECL|function|create_seq_dir
 DECL|function|do_pick_commit
 DECL|function|do_recursive_merge
 DECL|function|empty_tree
-DECL|function|ends_rfc2822_footer
 DECL|function|error_dirty_index
 DECL|function|fast_forward_to
 DECL|function|format_todo
 DECL|function|free_message
 DECL|function|get_encoding
 DECL|function|get_message
+DECL|function|has_conforming_footer
+DECL|function|is_cherry_picked_from_line
 DECL|function|is_index_unchanged
 DECL|function|is_original_commit_empty
+DECL|function|is_rfc2822_line
 DECL|function|parse_insn_buffer
 DECL|function|parse_insn_line
 DECL|function|pick_commits
@@ -45,4 +47,5 @@ DECL|member|parent_label
 DECL|member|reencoded_message
 DECL|member|subject
 DECL|struct|commit_message
+DECL|variable|cherry_picked_prefix
 DECL|variable|sign_off_header

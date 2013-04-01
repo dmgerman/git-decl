@@ -6,6 +6,7 @@ DECL|enumerator|REPLAY_REVERT
 DECL|enumerator|REPLAY_ROLLBACK
 DECL|enum|replay_action
 DECL|enum|replay_subcommand
+DECL|macro|APPEND_SIGNOFF_DEDUP
 DECL|macro|SEQUENCER_H
 DECL|macro|SEQ_DIR
 DECL|macro|SEQ_HEAD_FILE
