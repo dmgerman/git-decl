@@ -75,7 +75,6 @@ DECL|function|is_null_sha1
 DECL|function|lookup_replace_object
 DECL|function|object_type
 DECL|function|read_sha1_file
-DECL|function|remove_name_hash
 DECL|function|write_str_in_full
 DECL|macro|ADD_CACHE_IGNORE_ERRORS
 DECL|macro|ADD_CACHE_IGNORE_REMOVAL
@@ -289,7 +288,7 @@ DECL|member|date_begin
 DECL|member|date_end
 DECL|member|deletion
 DECL|member|depth
-DECL|member|dir_next
+DECL|member|dir_hash
 DECL|member|do_not_close
 DECL|member|fd
 DECL|member|filename
