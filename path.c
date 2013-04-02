@@ -4,6 +4,7 @@ DECL|function|daemon_avoid_alias
 DECL|function|enter_repo
 DECL|function|expand_user_path
 DECL|function|get_pathname
+DECL|function|get_st_mode_bits
 DECL|function|getpw_str
 DECL|function|git_path
 DECL|function|git_path_submodule
