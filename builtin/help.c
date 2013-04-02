@@ -46,3 +46,4 @@ DECL|variable|man_viewer_info_list
 DECL|variable|man_viewer_list
 DECL|variable|other_cmds
 DECL|variable|show_all
+DECL|variable|show_guides
