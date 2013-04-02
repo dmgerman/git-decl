@@ -20,6 +20,7 @@ DECL|function|get_html_page_path
 DECL|function|get_man_viewer_info
 DECL|function|git_help_config
 DECL|function|is_git_command
+DECL|function|list_common_guides_help
 DECL|function|open_html
 DECL|function|parse_help_format
 DECL|function|prepend
@@ -29,7 +30,9 @@ DECL|function|show_info_page
 DECL|function|show_man_page
 DECL|function|supported_man_viewer
 DECL|macro|DEFAULT_HELP_FORMAT
+DECL|member|help
 DECL|member|info
+DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|next
@@ -39,6 +42,7 @@ DECL|struct|man_viewer_list
 DECL|variable|builtin_help_options
 DECL|variable|builtin_help_usage
 DECL|variable|colopts
+DECL|variable|common_guides
 DECL|variable|help_format
 DECL|variable|html_path
 DECL|variable|main_cmds
