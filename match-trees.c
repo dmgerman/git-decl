@@ -1,3 +1,4 @@
+DECL|function|base_name_entries_compare
 DECL|function|match_trees
 DECL|function|score_differs
 DECL|function|score_matches
