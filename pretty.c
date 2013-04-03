@@ -64,10 +64,12 @@ DECL|member|encoding
 DECL|member|format
 DECL|member|good_bad
 DECL|member|gpg_output
+DECL|member|gpg_status
 DECL|member|indent1
 DECL|member|indent2
 DECL|member|is_alias
 DECL|member|is_tformat
+DECL|member|key
 DECL|member|len
 DECL|member|message
 DECL|member|message_off
