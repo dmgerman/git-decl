@@ -4,3 +4,4 @@ DECL|function|resolve_undo_read
 DECL|function|resolve_undo_write
 DECL|function|unmerge_index
 DECL|function|unmerge_index_entry_at
+DECL|function|unmerge_marked_index
