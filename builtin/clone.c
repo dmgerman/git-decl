@@ -1,3 +1,6 @@
+DECL|enumerator|JUNK_LEAVE_ALL
+DECL|enumerator|JUNK_LEAVE_NONE
+DECL|enumerator|JUNK_LEAVE_REPO
 DECL|function|add_one_reference
 DECL|function|checkout
 DECL|function|clone_local
@@ -7,6 +10,7 @@ DECL|function|copy_or_link_directory
 DECL|function|find_remote_branch
 DECL|function|get_repo_path
 DECL|function|guess_dir_name
+DECL|function|iterate_ref_map
 DECL|function|opt_parse_reference
 DECL|function|remove_junk
 DECL|function|remove_junk_on_signal
@@ -24,6 +28,8 @@ DECL|variable|argv_submodule
 DECL|variable|builtin_clone_options
 DECL|variable|builtin_clone_usage
 DECL|variable|junk_git_dir
+DECL|variable|junk_leave_repo_msg
+DECL|variable|junk_mode
 DECL|variable|junk_pid
 DECL|variable|junk_work_tree
 DECL|variable|option_bare
