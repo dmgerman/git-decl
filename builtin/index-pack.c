@@ -58,6 +58,10 @@ DECL|macro|counter_lock
 DECL|macro|counter_lock
 DECL|macro|counter_unlock
 DECL|macro|counter_unlock
+DECL|macro|deepest_delta_lock
+DECL|macro|deepest_delta_lock
+DECL|macro|deepest_delta_unlock
+DECL|macro|deepest_delta_unlock
 DECL|macro|read_lock
 DECL|macro|read_lock
 DECL|macro|read_unlock
@@ -102,6 +106,7 @@ DECL|union|delta_base
 DECL|variable|consumed_bytes
 DECL|variable|counter_mutex
 DECL|variable|deepest_delta
+DECL|variable|deepest_delta_mutex
 DECL|variable|deltas
 DECL|variable|from_stdin
 DECL|variable|index_pack_usage
@@ -123,6 +128,7 @@ DECL|variable|output_fd
 DECL|variable|pack_fd
 DECL|variable|progress
 DECL|variable|read_mutex
+DECL|variable|show_stat
 DECL|variable|strict
 DECL|variable|thread_data
 DECL|variable|threads_active
