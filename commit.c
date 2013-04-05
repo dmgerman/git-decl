@@ -1,6 +1,7 @@
 DECL|function|add_extra_header
 DECL|function|append_merge_tag_headers
 DECL|function|check_commit
+DECL|function|check_commit_signature
 DECL|function|clear_commit_marks
 DECL|function|clear_commit_marks_1
 DECL|function|clear_commit_marks_for_object_array
@@ -43,6 +44,7 @@ DECL|function|paint_down_to_common
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
+DECL|function|parse_gpg_output
 DECL|function|parse_signed_commit
 DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
@@ -63,6 +65,8 @@ DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT
 DECL|macro|STALE
+DECL|member|check
+DECL|member|result
 DECL|variable|all_flags
 DECL|variable|commit_graft
 DECL|variable|commit_graft_alloc
@@ -72,3 +76,4 @@ DECL|variable|commit_utf8_warn
 DECL|variable|gpg_sig_header
 DECL|variable|gpg_sig_header_len
 DECL|variable|save_commit_buffer
+DECL|variable|sigcheck_gpg_status
