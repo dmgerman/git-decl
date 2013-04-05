@@ -42,6 +42,7 @@ DECL|function|process_ranges_ordinary_commit
 DECL|function|queue_diffs
 DECL|function|range_cmp
 DECL|function|range_set_append
+DECL|function|range_set_check_invariants
 DECL|function|range_set_copy
 DECL|function|range_set_difference
 DECL|function|range_set_grow
