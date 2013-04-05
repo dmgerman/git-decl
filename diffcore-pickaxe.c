@@ -6,6 +6,7 @@ DECL|function|diffcore_pickaxe_grep
 DECL|function|diffgrep_consume
 DECL|function|has_changes
 DECL|function|pickaxe
+DECL|function|pickaxe_match
 DECL|member|hit
 DECL|member|regexp
 DECL|struct|diffgrep_cb
