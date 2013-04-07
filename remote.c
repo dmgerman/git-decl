@@ -54,6 +54,7 @@ DECL|function|one_local_ref
 DECL|function|parse_fetch_refspec
 DECL|function|parse_push_refspec
 DECL|function|parse_refspec_internal
+DECL|function|pushremote_get
 DECL|function|query_refspecs
 DECL|function|read_branches_file
 DECL|function|read_config
@@ -65,6 +66,7 @@ DECL|function|ref_newer
 DECL|function|ref_remove_duplicates
 DECL|function|remote_find_tracking
 DECL|function|remote_get
+DECL|function|remote_get_1
 DECL|function|remote_has_url
 DECL|function|remote_is_configured
 DECL|function|resolve_remote_symref
@@ -108,6 +110,7 @@ DECL|variable|buffer
 DECL|variable|current_branch
 DECL|variable|default_remote_name
 DECL|variable|explicit_default_remote_name
+DECL|variable|pushremote_name
 DECL|variable|remotes
 DECL|variable|remotes_alloc
 DECL|variable|remotes_nr
