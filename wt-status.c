@@ -8,6 +8,7 @@ DECL|function|show_bisect_in_progress
 DECL|function|show_cherry_pick_in_progress
 DECL|function|show_merge_in_progress
 DECL|function|show_rebase_in_progress
+DECL|function|show_revert_in_progress
 DECL|function|split_commit_in_progress
 DECL|function|status_printf
 DECL|function|status_printf_ln

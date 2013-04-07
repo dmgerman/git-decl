@@ -50,6 +50,8 @@ DECL|member|rebase_in_progress
 DECL|member|rebase_interactive_in_progress
 DECL|member|reference
 DECL|member|relative_paths
+DECL|member|revert_head_sha1
+DECL|member|revert_in_progress
 DECL|member|show_branch
 DECL|member|show_ignored_files
 DECL|member|show_untracked_files
