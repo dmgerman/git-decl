@@ -1,4 +1,5 @@
 DECL|function|add_merge_entry
+DECL|function|both_empty
 DECL|function|cmd_merge_tree
 DECL|function|create_entry
 DECL|function|explanation
