@@ -1,3 +1,7 @@
+DECL|enumerator|COVER_AUTO
+DECL|enumerator|COVER_OFF
+DECL|enumerator|COVER_ON
+DECL|enumerator|COVER_UNSET
 DECL|function|add_branch_description
 DECL|function|add_header
 DECL|function|add_pending_commit
@@ -52,6 +56,7 @@ DECL|variable|auto_number
 DECL|variable|builtin_format_patch_usage
 DECL|variable|builtin_log_usage
 DECL|variable|cherry_usage
+DECL|variable|config_cover_letter
 DECL|variable|decoration_given
 DECL|variable|decoration_style
 DECL|variable|default_abbrev_commit
