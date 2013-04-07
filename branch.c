@@ -15,3 +15,6 @@ DECL|member|src
 DECL|member|value
 DECL|struct|branch_desc_cb
 DECL|struct|tracking
+DECL|variable|upstream_advice
+DECL|variable|upstream_missing
+DECL|variable|upstream_not_branch
