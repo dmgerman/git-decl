@@ -8,6 +8,7 @@ DECL|function|skip_prefix
 DECL|function|strtol_i
 DECL|function|strtoul_ui
 DECL|function|xsize_t
+DECL|macro|ACCESS_EACCES_OK
 DECL|macro|ARRAY_SIZE
 DECL|macro|DEFAULT_PACKED_GIT_LIMIT
 DECL|macro|DEFAULT_PACKED_GIT_WINDOW_SIZE
