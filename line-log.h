@@ -9,9 +9,9 @@ DECL|member|next
 DECL|member|nr
 DECL|member|pair
 DECL|member|parent
+DECL|member|path
 DECL|member|ranges
 DECL|member|ranges
-DECL|member|spec
 DECL|member|start
 DECL|member|status
 DECL|member|target
