@@ -64,9 +64,12 @@ DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT
 DECL|macro|STALE
-DECL|member|alloc
 DECL|member|buf
+DECL|member|piece
+DECL|member|piece_count
+DECL|member|piece_size
 DECL|struct|commit_slab
+DECL|struct|commit_slab_piece
 DECL|variable|all_flags
 DECL|variable|commit_count
 DECL|variable|commit_graft
