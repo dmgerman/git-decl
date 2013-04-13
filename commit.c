@@ -53,9 +53,6 @@ DECL|function|read_graft_line
 DECL|function|reduce_heads
 DECL|function|register_commit_graft
 DECL|function|remove_redundant
-DECL|function|slab_at
-DECL|function|slab_clear
-DECL|function|slab_init
 DECL|function|sort_in_topological_order
 DECL|function|standard_header_field
 DECL|function|unregister_shallow
@@ -64,12 +61,6 @@ DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT
 DECL|macro|STALE
-DECL|member|buf
-DECL|member|piece
-DECL|member|piece_count
-DECL|member|piece_size
-DECL|struct|commit_slab
-DECL|struct|commit_slab_piece
 DECL|variable|all_flags
 DECL|variable|commit_count
 DECL|variable|commit_graft
