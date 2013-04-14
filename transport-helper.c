@@ -67,6 +67,7 @@ DECL|member|ptg
 DECL|member|push
 DECL|member|refspec_nr
 DECL|member|refspecs
+DECL|member|signed_tags
 DECL|member|src
 DECL|member|src_is_sock
 DECL|member|src_name
