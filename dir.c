@@ -44,6 +44,7 @@ DECL|function|is_inside_dir
 DECL|function|is_path_excluded
 DECL|function|last_exclude_matching
 DECL|function|last_exclude_matching_from_list
+DECL|function|last_exclude_matching_from_lists
 DECL|function|last_exclude_matching_path
 DECL|function|limit_pathspec_to_literal
 DECL|function|match_basename
