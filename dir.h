@@ -2,6 +2,7 @@ DECL|enumerator|DIR_COLLECT_IGNORED
 DECL|enumerator|DIR_HIDE_EMPTY_DIRECTORIES
 DECL|enumerator|DIR_NO_GITLINKS
 DECL|enumerator|DIR_SHOW_IGNORED
+DECL|enumerator|DIR_SHOW_IGNORED_TOO
 DECL|enumerator|DIR_SHOW_OTHER_DIRECTORIES
 DECL|function|is_dot_or_dotdot
 DECL|macro|DIR_H
