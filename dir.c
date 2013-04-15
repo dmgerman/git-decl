@@ -1,13 +1,10 @@
-DECL|enumerator|ignore_directory
 DECL|enumerator|index_directory
 DECL|enumerator|index_gitdir
 DECL|enumerator|index_nonexistent
-DECL|enumerator|path_handled
-DECL|enumerator|path_ignored
+DECL|enumerator|path_excluded
+DECL|enumerator|path_none
 DECL|enumerator|path_recurse
-DECL|enumerator|recurse_into_directory
-DECL|enumerator|show_directory
-DECL|enum|directory_treatment
+DECL|enumerator|path_untracked
 DECL|enum|exist_status
 DECL|enum|path_treatment
 DECL|function|add_exclude
