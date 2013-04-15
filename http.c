@@ -19,7 +19,6 @@ DECL|function|get_remote_object_url
 DECL|function|handle_curl_result
 DECL|function|has_cert_password
 DECL|function|http_cleanup
-DECL|function|http_error
 DECL|function|http_fetch_ref
 DECL|function|http_get_file
 DECL|function|http_get_info_packs
