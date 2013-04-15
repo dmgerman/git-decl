@@ -27,7 +27,6 @@ DECL|member|base
 DECL|member|basebuf
 DECL|member|baselen
 DECL|member|baselen
-DECL|member|dir
 DECL|member|el
 DECL|member|el
 DECL|member|entries
@@ -60,4 +59,3 @@ DECL|struct|exclude
 DECL|struct|exclude_list
 DECL|struct|exclude_list_group
 DECL|struct|exclude_stack
-DECL|struct|path_exclude_check

@@ -41,11 +41,9 @@ DECL|function|is_empty_dir
 DECL|function|is_excluded
 DECL|function|is_excluded_from_list
 DECL|function|is_inside_dir
-DECL|function|is_path_excluded
 DECL|function|last_exclude_matching
 DECL|function|last_exclude_matching_from_list
 DECL|function|last_exclude_matching_from_lists
-DECL|function|last_exclude_matching_path
 DECL|function|limit_pathspec_to_literal
 DECL|function|match_basename
 DECL|function|match_one
@@ -55,8 +53,6 @@ DECL|function|match_pathspec_depth
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
 DECL|function|parse_exclude_pattern
-DECL|function|path_exclude_check_clear
-DECL|function|path_exclude_check_init
 DECL|function|pathspec_item_cmp
 DECL|function|prep_exclude
 DECL|function|read_directory
