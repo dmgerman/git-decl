@@ -49,7 +49,6 @@ DECL|member|nowildcardlen
 DECL|member|nr
 DECL|member|nr
 DECL|member|nr
-DECL|member|path
 DECL|member|pattern
 DECL|member|patternlen
 DECL|member|prev
