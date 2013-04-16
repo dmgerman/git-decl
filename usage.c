@@ -1,8 +1,10 @@
 DECL|function|die
 DECL|function|die_builtin
 DECL|function|die_errno
+DECL|function|die_is_recursing_builtin
 DECL|function|error
 DECL|function|error_builtin
+DECL|function|set_die_is_recursing_routine
 DECL|function|set_die_routine
 DECL|function|set_error_routine
 DECL|function|usage
@@ -12,8 +14,8 @@ DECL|function|vreportf
 DECL|function|vwritef
 DECL|function|warn_builtin
 DECL|function|warning
+DECL|variable|die_is_recursing
 DECL|variable|die_routine
-DECL|variable|dying
 DECL|variable|error_routine
 DECL|variable|usage_routine
 DECL|variable|warn_routine
