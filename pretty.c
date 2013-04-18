@@ -53,10 +53,10 @@ DECL|member|abbrev_tree_hash
 DECL|member|author
 DECL|member|body_off
 DECL|member|commit
+DECL|member|commit_encoding
 DECL|member|commit_header_parsed
 DECL|member|commit_message_parsed
 DECL|member|committer
-DECL|member|encoding
 DECL|member|format
 DECL|member|indent1
 DECL|member|indent2
