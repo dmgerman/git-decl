@@ -3,6 +3,7 @@ DECL|function|die_webcgi
 DECL|function|end_headers
 DECL|function|forbidden
 DECL|function|format_write
+DECL|function|get_head
 DECL|function|get_idx_file
 DECL|function|get_info_packs
 DECL|function|get_info_refs
@@ -28,6 +29,7 @@ DECL|function|select_service
 DECL|function|send_local_file
 DECL|function|send_strbuf
 DECL|function|service_rpc
+DECL|function|show_head_ref
 DECL|function|show_text_ref
 DECL|member|config_name
 DECL|member|enabled
