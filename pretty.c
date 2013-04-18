@@ -2,6 +2,7 @@ DECL|enumerator|RFC2047_ADDRESS
 DECL|enumerator|RFC2047_SUBJECT
 DECL|enumerator|flush_both
 DECL|enumerator|flush_left
+DECL|enumerator|flush_left_and_steal
 DECL|enumerator|flush_right
 DECL|enumerator|no_flush
 DECL|enumerator|trunc_left
