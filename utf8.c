@@ -13,6 +13,7 @@ DECL|function|strbuf_add_wrapped_bytes
 DECL|function|strbuf_add_wrapped_text
 DECL|function|strbuf_addchars
 DECL|function|utf8_fprintf
+DECL|function|utf8_strnwidth
 DECL|function|utf8_strwidth
 DECL|function|utf8_width
 DECL|member|first
