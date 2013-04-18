@@ -30,6 +30,7 @@ DECL|function|mailmap_name
 DECL|function|needs_rfc2047_encoding
 DECL|function|needs_rfc822_quoting
 DECL|function|non_ascii
+DECL|function|parse_color
 DECL|function|parse_commit_header
 DECL|function|parse_commit_message
 DECL|function|pp_commit_easy
