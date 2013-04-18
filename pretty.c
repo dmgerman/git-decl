@@ -51,6 +51,7 @@ DECL|member|abbrev_commit_hash
 DECL|member|abbrev_parent_hashes
 DECL|member|abbrev_tree_hash
 DECL|member|author
+DECL|member|auto_color
 DECL|member|body_off
 DECL|member|commit
 DECL|member|commit_encoding
