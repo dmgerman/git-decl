@@ -1,5 +1,10 @@
 DECL|enumerator|RFC2047_ADDRESS
 DECL|enumerator|RFC2047_SUBJECT
+DECL|enumerator|flush_both
+DECL|enumerator|flush_left
+DECL|enumerator|flush_right
+DECL|enumerator|no_flush
+DECL|enum|flush_type
 DECL|enum|rfc2047_type
 DECL|function|add_again
 DECL|function|add_merge_info
@@ -7,6 +12,7 @@ DECL|function|add_rfc2047
 DECL|function|add_rfc822_quoted
 DECL|function|find_commit_format
 DECL|function|find_commit_format_recursive
+DECL|function|format_and_pad_commit
 DECL|function|format_commit_item
 DECL|function|format_commit_message
 DECL|function|format_commit_one
@@ -33,6 +39,7 @@ DECL|function|non_ascii
 DECL|function|parse_color
 DECL|function|parse_commit_header
 DECL|function|parse_commit_message
+DECL|function|parse_padding_placeholder
 DECL|function|pp_commit_easy
 DECL|function|pp_header
 DECL|function|pp_remainder
@@ -58,6 +65,7 @@ DECL|member|commit_encoding
 DECL|member|commit_header_parsed
 DECL|member|commit_message_parsed
 DECL|member|committer
+DECL|member|flush_type
 DECL|member|format
 DECL|member|indent1
 DECL|member|indent2
@@ -68,6 +76,7 @@ DECL|member|message
 DECL|member|message_off
 DECL|member|name
 DECL|member|off
+DECL|member|padding
 DECL|member|pretty_ctx
 DECL|member|signature_check
 DECL|member|subject_off
