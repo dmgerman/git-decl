@@ -10,11 +10,13 @@ DECL|function|check_sha1_signature
 DECL|function|check_tag
 DECL|function|check_tree
 DECL|function|clear_delta_base_cache
+DECL|function|clear_delta_base_cache_entry
 DECL|function|close_pack_index
 DECL|function|close_pack_windows
 DECL|function|close_sha1_file
 DECL|function|create_tmpfile
 DECL|function|directory_size
+DECL|function|eq_delta_base_cache_entry
 DECL|function|experimental_loose_object
 DECL|function|fill_pack_entry
 DECL|function|fill_sha1_path
@@ -26,6 +28,7 @@ DECL|function|force_object_loose
 DECL|function|foreach_alt_odb
 DECL|function|free_pack_by_name
 DECL|function|get_delta_base
+DECL|function|get_delta_base_cache_entry
 DECL|function|get_max_fd_limit
 DECL|function|get_size_from_delta
 DECL|function|git_open_noatime
@@ -61,7 +64,6 @@ DECL|function|open_packed_git_1
 DECL|function|open_sha1_file
 DECL|function|pack_entry_hash
 DECL|function|pack_report
-DECL|function|packed_delta_info
 DECL|function|packed_object_info
 DECL|function|parse_pack_index
 DECL|function|parse_sha1_header
@@ -81,6 +83,7 @@ DECL|function|release_pack_memory
 DECL|function|report_helper
 DECL|function|report_pack_garbage
 DECL|function|reprepare_packed_git
+DECL|function|retry_bad_packed_offset
 DECL|function|safe_create_leading_directories
 DECL|function|safe_create_leading_directories_const
 DECL|function|scan_windows
@@ -95,7 +98,6 @@ DECL|function|sort_pack
 DECL|function|sz_fmt
 DECL|function|try_to_free_pack_memory
 DECL|function|unpack_compressed_entry
-DECL|function|unpack_delta_entry
 DECL|function|unpack_entry
 DECL|function|unpack_object_header
 DECL|function|unpack_object_header_buffer
@@ -114,16 +116,21 @@ DECL|function|xmmap
 DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
+DECL|macro|POI_STACK_PREALLOC
 DECL|macro|SMALL_FILE_SIZE
 DECL|macro|SZ_FMT
+DECL|macro|UNPACK_ENTRY_STACK_PREALLOC
 DECL|member|base_offset
 DECL|member|buf
+DECL|member|curpos
 DECL|member|data
 DECL|member|lru
 DECL|member|next
+DECL|member|obj_offset
 DECL|member|p
 DECL|member|prev
 DECL|member|sha1
+DECL|member|size
 DECL|member|size
 DECL|member|size
 DECL|member|type
@@ -131,6 +138,7 @@ DECL|member|type
 DECL|struct|cached_object
 DECL|struct|delta_base_cache_entry
 DECL|struct|delta_base_cache_lru_list
+DECL|struct|unpack_entry_stack_ent
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail
 DECL|variable|cached_object_alloc
