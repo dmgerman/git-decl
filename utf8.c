@@ -12,6 +12,7 @@ DECL|function|strbuf_add_indented_text
 DECL|function|strbuf_add_wrapped_bytes
 DECL|function|strbuf_add_wrapped_text
 DECL|function|strbuf_addchars
+DECL|function|strbuf_utf8_replace
 DECL|function|utf8_fprintf
 DECL|function|utf8_strnwidth
 DECL|function|utf8_strwidth

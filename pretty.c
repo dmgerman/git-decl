@@ -4,8 +4,13 @@ DECL|enumerator|flush_both
 DECL|enumerator|flush_left
 DECL|enumerator|flush_right
 DECL|enumerator|no_flush
+DECL|enumerator|trunc_left
+DECL|enumerator|trunc_middle
+DECL|enumerator|trunc_none
+DECL|enumerator|trunc_right
 DECL|enum|flush_type
 DECL|enum|rfc2047_type
+DECL|enum|trunc_type
 DECL|function|add_again
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
@@ -80,6 +85,7 @@ DECL|member|padding
 DECL|member|pretty_ctx
 DECL|member|signature_check
 DECL|member|subject_off
+DECL|member|truncate
 DECL|member|user_format
 DECL|member|width
 DECL|member|wrap_start
