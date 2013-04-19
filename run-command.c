@@ -1,3 +1,4 @@
+DECL|function|async_die_is_recursing
 DECL|function|cleanup_children
 DECL|function|cleanup_children_on_exit
 DECL|function|cleanup_children_on_signal
@@ -31,6 +32,7 @@ DECL|macro|SHELL_PATH
 DECL|member|next
 DECL|member|pid
 DECL|struct|child_to_clean
+DECL|variable|async_die_counter
 DECL|variable|async_key
 DECL|variable|child_err
 DECL|variable|child_notifier
