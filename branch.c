@@ -1,3 +1,4 @@
+DECL|function|check_tracking_branch
 DECL|function|create_branch
 DECL|function|find_tracked_branch
 DECL|function|install_branch_config
@@ -7,6 +8,7 @@ DECL|function|remove_branch_state
 DECL|function|setup_tracking
 DECL|function|should_setup_rebase
 DECL|function|validate_new_branchname
+DECL|function|validate_remote_tracking_branch
 DECL|member|config_name
 DECL|member|matches
 DECL|member|remote
