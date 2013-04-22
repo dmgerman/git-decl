@@ -42,6 +42,7 @@ DECL|function|is_racy_timestamp
 DECL|function|make_cache_entry
 DECL|function|ntoh_l_force_align
 DECL|function|ntoh_s_force_align
+DECL|function|read_blob_data_from_index
 DECL|function|read_index
 DECL|function|read_index_extension
 DECL|function|read_index_from

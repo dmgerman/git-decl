@@ -26,7 +26,6 @@ DECL|function|read_attr
 DECL|function|read_attr_from_array
 DECL|function|read_attr_from_file
 DECL|function|read_attr_from_index
-DECL|function|read_index_data
 DECL|macro|ATTR__FALSE
 DECL|macro|ATTR__TRUE
 DECL|macro|ATTR__UNKNOWN
