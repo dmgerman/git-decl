@@ -4,6 +4,7 @@ DECL|function|add_files_to_cache
 DECL|function|cmd_add
 DECL|function|edit_patch
 DECL|function|fix_unmerged_status
+DECL|function|ignore_removal_cb
 DECL|function|interactive_add
 DECL|function|prune_directory
 DECL|function|refresh
