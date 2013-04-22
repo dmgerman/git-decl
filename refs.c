@@ -90,9 +90,10 @@ DECL|function|ref_msg
 DECL|function|ref_resolves_to_object
 DECL|function|refname_match
 DECL|function|remove_empty_directories
+DECL|function|remove_entry
 DECL|function|rename_ref
+DECL|function|repack_ref_fn
 DECL|function|repack_without_ref
-DECL|function|repack_without_ref_fn
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
@@ -123,7 +124,6 @@ DECL|member|cb_data
 DECL|member|cb_data
 DECL|member|conflicting_refname
 DECL|member|entries
-DECL|member|fd
 DECL|member|flag
 DECL|member|flags
 DECL|member|fn
@@ -143,7 +143,6 @@ DECL|member|peeled
 DECL|member|ref_cache
 DECL|member|refname
 DECL|member|refname
-DECL|member|refname
 DECL|member|sha1
 DECL|member|sorted
 DECL|member|str
@@ -158,7 +157,6 @@ DECL|struct|ref_entry
 DECL|struct|ref_entry_cb
 DECL|struct|ref_filter
 DECL|struct|ref_value
-DECL|struct|repack_without_ref_sb
 DECL|struct|string_slice
 DECL|struct|warn_if_dangling_data
 DECL|typedef|each_ref_entry_fn
