@@ -20,6 +20,7 @@ DECL|member|flags
 DECL|member|warn_add_would_remove
 DECL|struct|update_callback_data
 DECL|variable|add_interactive
+DECL|variable|add_would_remove_warning
 DECL|variable|addremove
 DECL|variable|addremove_explicit
 DECL|variable|builtin_add_options
