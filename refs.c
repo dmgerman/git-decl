@@ -1,4 +1,6 @@
+DECL|enumerator|PEEL_BROKEN
 DECL|enumerator|PEEL_INVALID
+DECL|enumerator|PEEL_IS_SYMREF
 DECL|enumerator|PEEL_NON_TAG
 DECL|enumerator|PEEL_PEELED
 DECL|enum|peel_status
@@ -71,6 +73,7 @@ DECL|function|log_ref_write
 DECL|function|name_conflict_fn
 DECL|function|names_conflict
 DECL|function|parse_ref_line
+DECL|function|peel_entry
 DECL|function|peel_object
 DECL|function|peel_ref
 DECL|function|prettify_refname
