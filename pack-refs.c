@@ -1,5 +1,5 @@
 DECL|function|do_not_prune
-DECL|function|handle_one_ref
+DECL|function|pack_one_ref
 DECL|function|pack_refs
 DECL|function|prune_ref
 DECL|function|prune_refs
