@@ -179,3 +179,4 @@ DECL|variable|current_ref
 DECL|variable|packlock
 DECL|variable|ref_cache
 DECL|variable|ref_rev_parse_rules
+DECL|variable|submodule_ref_caches
