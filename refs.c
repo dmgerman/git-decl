@@ -109,6 +109,7 @@ DECL|function|update_ref
 DECL|function|verify_lock
 DECL|function|warn_dangling_symref
 DECL|function|warn_if_dangling_symref
+DECL|function|write_packed_entry
 DECL|function|write_ref_sha1
 DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
