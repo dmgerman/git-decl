@@ -67,6 +67,7 @@ DECL|function|log_ref_write
 DECL|function|name_conflict_fn
 DECL|function|names_conflict
 DECL|function|parse_ref_line
+DECL|function|peel_object
 DECL|function|peel_ref
 DECL|function|prettify_refname
 DECL|function|read_loose_refs
