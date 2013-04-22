@@ -130,6 +130,7 @@ DECL|member|cb_data
 DECL|member|cb_data
 DECL|member|conflicting_refname
 DECL|member|entries
+DECL|member|fd
 DECL|member|flag
 DECL|member|flags
 DECL|member|flags
@@ -153,7 +154,6 @@ DECL|member|ref_cache
 DECL|member|ref_to_prune
 DECL|member|refname
 DECL|member|refname
-DECL|member|refs_file
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sorted
