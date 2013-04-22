@@ -78,6 +78,7 @@ DECL|function|ref_entry_cmp
 DECL|function|ref_entry_cmp_sslice
 DECL|function|ref_exists
 DECL|function|ref_msg
+DECL|function|ref_resolves_to_object
 DECL|function|refname_match
 DECL|function|remove_empty_directories
 DECL|function|rename_ref
