@@ -3,6 +3,8 @@ DECL|enumerator|MSG_ON_ERR
 DECL|enumerator|QUIET_ON_ERR
 DECL|enum|action_on_err
 DECL|function|has_glob_specials
+DECL|macro|PACK_REFS_ALL
+DECL|macro|PACK_REFS_PRUNE
 DECL|macro|REFNAME_ALLOW_ONELEVEL
 DECL|macro|REFNAME_DOT_COMPONENT
 DECL|macro|REFNAME_REFSPEC_PATTERN
