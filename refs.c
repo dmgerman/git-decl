@@ -160,6 +160,7 @@ DECL|struct|ref_value
 DECL|struct|string_slice
 DECL|struct|warn_if_dangling_data
 DECL|typedef|each_ref_entry_fn
+DECL|variable|PACKED_REFS_HEADER
 DECL|variable|current_ref
 DECL|variable|packlock
 DECL|variable|ref_cache
