@@ -1,3 +1,7 @@
+DECL|enumerator|PEEL_INVALID
+DECL|enumerator|PEEL_NON_TAG
+DECL|enumerator|PEEL_PEELED
+DECL|enum|peel_status
 DECL|function|add_entry_to_dir
 DECL|function|add_packed_ref
 DECL|function|add_ref
