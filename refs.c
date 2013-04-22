@@ -27,7 +27,6 @@ DECL|function|do_for_each_entry_in_dirs
 DECL|function|do_for_each_ref
 DECL|function|do_for_each_reflog
 DECL|function|do_head_ref
-DECL|function|do_not_prune
 DECL|function|do_one_ref
 DECL|function|dwim_log
 DECL|function|dwim_ref
