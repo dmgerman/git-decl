@@ -2,6 +2,7 @@ DECL|enumerator|DIR_COLLECT_IGNORED
 DECL|enumerator|DIR_HIDE_EMPTY_DIRECTORIES
 DECL|enumerator|DIR_NO_GITLINKS
 DECL|enumerator|DIR_SHOW_IGNORED
+DECL|enumerator|DIR_SHOW_IGNORED_TOO
 DECL|enumerator|DIR_SHOW_OTHER_DIRECTORIES
 DECL|function|is_dot_or_dotdot
 DECL|macro|DIR_H
@@ -27,7 +28,6 @@ DECL|member|base
 DECL|member|basebuf
 DECL|member|baselen
 DECL|member|baselen
-DECL|member|dir
 DECL|member|el
 DECL|member|el
 DECL|member|entries
@@ -49,7 +49,6 @@ DECL|member|nowildcardlen
 DECL|member|nr
 DECL|member|nr
 DECL|member|nr
-DECL|member|path
 DECL|member|pattern
 DECL|member|patternlen
 DECL|member|prev
@@ -61,4 +60,3 @@ DECL|struct|exclude
 DECL|struct|exclude_list
 DECL|struct|exclude_list_group
 DECL|struct|exclude_stack
-DECL|struct|path_exclude_check

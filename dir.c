@@ -1,13 +1,10 @@
-DECL|enumerator|ignore_directory
 DECL|enumerator|index_directory
 DECL|enumerator|index_gitdir
 DECL|enumerator|index_nonexistent
-DECL|enumerator|path_handled
-DECL|enumerator|path_ignored
+DECL|enumerator|path_excluded
+DECL|enumerator|path_none
 DECL|enumerator|path_recurse
-DECL|enumerator|recurse_into_directory
-DECL|enumerator|show_directory
-DECL|enum|directory_treatment
+DECL|enumerator|path_untracked
 DECL|enum|exist_status
 DECL|enum|path_treatment
 DECL|function|add_exclude
@@ -41,10 +38,9 @@ DECL|function|is_empty_dir
 DECL|function|is_excluded
 DECL|function|is_excluded_from_list
 DECL|function|is_inside_dir
-DECL|function|is_path_excluded
 DECL|function|last_exclude_matching
 DECL|function|last_exclude_matching_from_list
-DECL|function|last_exclude_matching_path
+DECL|function|last_exclude_matching_from_lists
 DECL|function|limit_pathspec_to_literal
 DECL|function|match_basename
 DECL|function|match_one
@@ -54,8 +50,6 @@ DECL|function|match_pathspec_depth
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
 DECL|function|parse_exclude_pattern
-DECL|function|path_exclude_check_clear
-DECL|function|path_exclude_check_init
 DECL|function|pathspec_item_cmp
 DECL|function|prep_exclude
 DECL|function|read_directory
@@ -70,7 +64,6 @@ DECL|function|simplify_away
 DECL|function|strcmp_icase
 DECL|function|strncmp_icase
 DECL|function|treat_directory
-DECL|function|treat_file
 DECL|function|treat_leading_path
 DECL|function|treat_one_path
 DECL|function|treat_path
