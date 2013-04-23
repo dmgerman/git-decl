@@ -5,14 +5,16 @@ DECL|function|is_encoding_utf8
 DECL|function|is_utf8
 DECL|function|mbs_chrlen
 DECL|function|pick_one_utf8_char
-DECL|function|reencode_string
 DECL|function|reencode_string_iconv
+DECL|function|reencode_string_len
 DECL|function|same_encoding
 DECL|function|strbuf_add_indented_text
 DECL|function|strbuf_add_wrapped_bytes
 DECL|function|strbuf_add_wrapped_text
 DECL|function|strbuf_addchars
+DECL|function|strbuf_utf8_replace
 DECL|function|utf8_fprintf
+DECL|function|utf8_strnwidth
 DECL|function|utf8_strwidth
 DECL|function|utf8_width
 DECL|member|first
