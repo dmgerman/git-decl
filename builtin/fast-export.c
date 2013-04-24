@@ -5,6 +5,7 @@ DECL|enumerator|REWRITE
 DECL|enumerator|STRIP
 DECL|enumerator|VERBATIM
 DECL|enumerator|WARN
+DECL|enumerator|WARN_STRIP
 DECL|function|cmd_fast_export
 DECL|function|depth_first
 DECL|function|export_blob
