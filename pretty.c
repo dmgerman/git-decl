@@ -45,6 +45,7 @@ DECL|function|replace_encoding_header
 DECL|function|rewrap_message_tail
 DECL|function|save_user_format
 DECL|function|setup_commit_formats
+DECL|function|show_ident_date
 DECL|function|skip_empty_lines
 DECL|function|strbuf_wrap
 DECL|function|userformat_find_requirements
