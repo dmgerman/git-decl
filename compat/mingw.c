@@ -116,7 +116,6 @@ DECL|variable|ipv6_getnameinfo
 DECL|variable|one_shot
 DECL|variable|pinfo
 DECL|variable|pinfo_cs
-DECL|variable|pinfo_t
 DECL|variable|sigint_fn
 DECL|variable|timer_event
 DECL|variable|timer_fn
