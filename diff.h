@@ -60,6 +60,7 @@ DECL|macro|DIFF_OPT_SET
 DECL|macro|DIFF_OPT_SILENT_ON_REMOVE
 DECL|macro|DIFF_OPT_SUBMODULE_LOG
 DECL|macro|DIFF_OPT_TEXT
+DECL|macro|DIFF_OPT_TOUCHED
 DECL|macro|DIFF_OPT_TREE_IN_RECURSIVE
 DECL|macro|DIFF_OPT_TST
 DECL|macro|DIFF_PICKAXE_ALL
@@ -127,6 +128,7 @@ DECL|member|prefix
 DECL|member|prefix_length
 DECL|member|rename_limit
 DECL|member|rename_score
+DECL|member|set_default
 DECL|member|setup
 DECL|member|sha1
 DECL|member|sha1
@@ -139,6 +141,7 @@ DECL|member|stat_name_width
 DECL|member|stat_sep
 DECL|member|stat_width
 DECL|member|status
+DECL|member|touched_flags
 DECL|member|use_color
 DECL|member|word_diff
 DECL|member|word_regex
