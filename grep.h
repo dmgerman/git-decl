@@ -41,6 +41,7 @@ DECL|macro|GREP_H
 DECL|macro|grep_read_lock
 DECL|macro|grep_read_unlock
 DECL|member|all_match
+DECL|member|allow_textconv
 DECL|member|atom
 DECL|member|binary
 DECL|member|binary

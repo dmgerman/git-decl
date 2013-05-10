@@ -20,6 +20,7 @@ DECL|function|dump_grep_expression
 DECL|function|dump_grep_expression_1
 DECL|function|dump_grep_pat
 DECL|function|end_of_line
+DECL|function|fill_textconv_grep
 DECL|function|fixmatch
 DECL|function|free_grep_patterns
 DECL|function|free_pattern_expr
