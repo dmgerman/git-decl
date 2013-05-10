@@ -145,6 +145,7 @@ DECL|macro|unsigned_add_overflows
 DECL|macro|va_copy
 DECL|macro|va_copy
 DECL|macro|vsnprintf
+DECL|macro|write
 DECL|member|it_interval
 DECL|member|it_value
 DECL|struct|itimerval
