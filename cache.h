@@ -15,6 +15,9 @@ DECL|enumerator|DATE_RAW
 DECL|enumerator|DATE_RELATIVE
 DECL|enumerator|DATE_RFC2822
 DECL|enumerator|DATE_SHORT
+DECL|enumerator|FETCH_HEAD_IGNORE
+DECL|enumerator|FETCH_HEAD_MERGE
+DECL|enumerator|FETCH_HEAD_NOT_FOR_MERGE
 DECL|enumerator|OBJECT_CREATION_USES_HARDLINKS
 DECL|enumerator|OBJECT_CREATION_USES_RENAMES
 DECL|enumerator|OBJ_ANY
@@ -293,6 +296,7 @@ DECL|member|depth
 DECL|member|dir_hash
 DECL|member|do_not_close
 DECL|member|fd
+DECL|member|fetch_head_status
 DECL|member|filename
 DECL|member|flags
 DECL|member|flags
@@ -321,7 +325,6 @@ DECL|member|mail_end
 DECL|member|match
 DECL|member|matched
 DECL|member|max_depth
-DECL|member|merge
 DECL|member|mode
 DECL|member|mtime
 DECL|member|name
