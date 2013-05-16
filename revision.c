@@ -58,6 +58,7 @@ DECL|function|mark_blob_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_redundant_parents
 DECL|function|mark_tree_uninteresting
+DECL|function|mark_treesame_root_parents
 DECL|function|parse_revision_opt
 DECL|function|path_name
 DECL|function|prepare_revision_walk
