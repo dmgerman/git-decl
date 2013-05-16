@@ -49,6 +49,7 @@ DECL|function|handle_revision_pseudo_opt
 DECL|function|init_all_refs_cb
 DECL|function|init_revisions
 DECL|function|initialise_treesame
+DECL|function|leave_one_treesame_to_parent
 DECL|function|limit_left_right
 DECL|function|limit_list
 DECL|function|limit_to_ancestry
