@@ -53,12 +53,14 @@ DECL|function|leave_one_treesame_to_parent
 DECL|function|limit_left_right
 DECL|function|limit_list
 DECL|function|limit_to_ancestry
+DECL|function|limiting_can_increase_treesame
 DECL|function|locate_simplify_state
 DECL|function|mark_blob_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_redundant_parents
 DECL|function|mark_tree_uninteresting
 DECL|function|mark_treesame_root_parents
+DECL|function|one_relevant_parent
 DECL|function|parse_revision_opt
 DECL|function|path_name
 DECL|function|prepare_revision_walk
@@ -66,6 +68,7 @@ DECL|function|prepare_show_merge
 DECL|function|put_revision_mark
 DECL|function|read_pathspec_from_stdin
 DECL|function|read_revisions_from_stdin
+DECL|function|relevant_commit
 DECL|function|remove_duplicate_parents
 DECL|function|remove_marked_parents
 DECL|function|reset_revision_walk
