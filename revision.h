@@ -10,6 +10,7 @@ DECL|enumerator|commit_show
 DECL|enum|commit_action
 DECL|macro|ADDED
 DECL|macro|ALL_REV_FLAGS
+DECL|macro|BOTTOM
 DECL|macro|BOUNDARY
 DECL|macro|CHILD_SHOWN
 DECL|macro|DECORATE_FULL_REFS
