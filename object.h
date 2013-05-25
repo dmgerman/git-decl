@@ -19,3 +19,4 @@ DECL|struct|object
 DECL|struct|object_array
 DECL|struct|object_array_entry
 DECL|struct|object_list
+DECL|typedef|object_array_each_func_t
