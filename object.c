@@ -1,6 +1,7 @@
 DECL|function|add_object_array
 DECL|function|add_object_array_with_mode
 DECL|function|clear_object_flags
+DECL|function|contains_name
 DECL|function|create_object
 DECL|function|get_indexed_object
 DECL|function|get_max_object_index
