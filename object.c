@@ -23,4 +23,5 @@ DECL|function|typename
 DECL|variable|nr_objs
 DECL|variable|obj_hash
 DECL|variable|obj_hash_size
+DECL|variable|object_array_slopbuf
 DECL|variable|object_type_strings
