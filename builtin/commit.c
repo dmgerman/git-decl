@@ -61,6 +61,7 @@ DECL|variable|false_lock
 DECL|variable|fixup_message
 DECL|variable|force_author
 DECL|variable|force_date
+DECL|variable|have_option_m
 DECL|variable|ignore_submodule_arg
 DECL|variable|implicit_ident_advice
 DECL|variable|include_status
