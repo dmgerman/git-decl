@@ -22,6 +22,7 @@ DECL|function|commit_list_insert_by_date_cached
 DECL|function|commit_match
 DECL|function|commit_rewrite_person
 DECL|function|create_boundary_commit_list
+DECL|function|entry_unshown
 DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change
