@@ -27,6 +27,7 @@ DECL|function|remove_duplicates_in_refs
 DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
 DECL|function|send_request
+DECL|function|setup_alternate_shallow
 DECL|function|sideband_demux
 DECL|function|write_one_shallow
 DECL|function|write_shallow_commits
@@ -45,6 +46,7 @@ DECL|member|use_pack_protocol
 DECL|struct|write_shallow_data
 DECL|variable|agent_supported
 DECL|variable|allow_tip_sha1_in_want
+DECL|variable|alternate_shallow_file
 DECL|variable|complete
 DECL|variable|fetch_fsck_objects
 DECL|variable|fetch_unpack_limit
@@ -54,6 +56,7 @@ DECL|variable|no_done
 DECL|variable|non_common_revs
 DECL|variable|prefer_ofs_delta
 DECL|variable|rev_list
+DECL|variable|shallow_lock
 DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
