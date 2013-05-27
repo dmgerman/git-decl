@@ -1,5 +1,7 @@
 DECL|macro|BUILTIN_H
 DECL|macro|DEFAULT_MERGE_LOG_LEN
+DECL|macro|PRUNE_PACKED_DRY_RUN
+DECL|macro|PRUNE_PACKED_VERBOSE
 DECL|member|add_title
 DECL|member|cmd
 DECL|member|combine
