@@ -272,6 +272,7 @@ DECL|macro|USE_SPIN_LOCKS
 DECL|macro|WIN32
 DECL|macro|WIN32
 DECL|macro|WIN32_LEAN_AND_MEAN
+DECL|macro|_GNU_SOURCE
 DECL|macro|_ReadWriteBarrier
 DECL|macro|_ReadWriteBarrier
 DECL|macro|_SC_PAGE_SIZE
