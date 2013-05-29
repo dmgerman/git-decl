@@ -9,6 +9,7 @@ DECL|variable|advice_commit_before_merge
 DECL|variable|advice_config
 DECL|variable|advice_detached_head
 DECL|variable|advice_implicit_identity
+DECL|variable|advice_object_name_warning
 DECL|variable|advice_push_already_exists
 DECL|variable|advice_push_fetch_first
 DECL|variable|advice_push_needs_force
