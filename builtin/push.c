@@ -23,6 +23,7 @@ DECL|variable|message_advice_ref_already_exists
 DECL|variable|message_advice_ref_fetch_first
 DECL|variable|message_advice_ref_needs_force
 DECL|variable|message_advice_use_upstream
+DECL|variable|message_detached_head_die
 DECL|variable|progress
 DECL|variable|push_usage
 DECL|variable|receivepack
