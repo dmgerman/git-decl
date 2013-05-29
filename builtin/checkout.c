@@ -30,11 +30,12 @@ DECL|macro|ORPHAN_CUTOFF
 DECL|member|branch_exists
 DECL|member|commit
 DECL|member|diff_options
+DECL|member|dst_ref
+DECL|member|dst_sha1
 DECL|member|force
 DECL|member|force_detach
 DECL|member|ignore_skipworktree
 DECL|member|merge
-DECL|member|name
 DECL|member|name
 DECL|member|new_branch
 DECL|member|new_branch_force
@@ -46,8 +47,8 @@ DECL|member|path
 DECL|member|pathspec
 DECL|member|prefix
 DECL|member|quiet
-DECL|member|remote
 DECL|member|source_tree
+DECL|member|src_ref
 DECL|member|track
 DECL|member|unique
 DECL|member|writeout_stage
