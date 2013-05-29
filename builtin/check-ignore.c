@@ -6,5 +6,6 @@ DECL|variable|check_ignore_options
 DECL|variable|check_ignore_usage
 DECL|variable|null_term_line
 DECL|variable|quiet
+DECL|variable|show_non_matching
 DECL|variable|stdin_paths
 DECL|variable|verbose
