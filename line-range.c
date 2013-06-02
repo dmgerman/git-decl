@@ -1,0 +1,6 @@
+DECL|function|find_funcname_matching_regexp
+DECL|function|match_funcname
+DECL|function|parse_loc
+DECL|function|parse_range_arg
+DECL|function|parse_range_funcname
+DECL|function|skip_range_arg

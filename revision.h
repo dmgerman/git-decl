@@ -7,7 +7,11 @@ DECL|enumerator|REV_CMD_RIGHT
 DECL|enumerator|commit_error
 DECL|enumerator|commit_ignore
 DECL|enumerator|commit_show
+DECL|enumerator|rewrite_one_error
+DECL|enumerator|rewrite_one_noparents
+DECL|enumerator|rewrite_one_ok
 DECL|enum|commit_action
+DECL|enum|rewrite_result
 DECL|macro|ADDED
 DECL|macro|ALL_REV_FLAGS
 DECL|macro|BOUNDARY
@@ -81,6 +85,8 @@ DECL|member|left_only
 DECL|member|left_right
 DECL|member|lifo
 DECL|member|limited
+DECL|member|line_level_traverse
+DECL|member|line_log_data
 DECL|member|log_reencode
 DECL|member|loginfo
 DECL|member|mailmap
@@ -153,4 +159,5 @@ DECL|struct|rev_cmdline_entry
 DECL|struct|rev_cmdline_info
 DECL|struct|rev_info
 DECL|struct|setup_revision_opt
+DECL|typedef|rewrite_parent_fn_t
 DECL|typedef|show_early_output_fn_t

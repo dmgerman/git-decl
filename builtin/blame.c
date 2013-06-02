@@ -45,11 +45,11 @@ DECL|function|handle_split_cb
 DECL|function|has_string_in_work_tree
 DECL|function|make_origin
 DECL|function|nth_line
+DECL|function|nth_line_cb
 DECL|function|num_scapegoats
 DECL|function|origin_decref
 DECL|function|origin_incref
 DECL|function|output
-DECL|function|parse_loc
 DECL|function|parse_score
 DECL|function|pass_blame
 DECL|function|pass_blame_to_parent

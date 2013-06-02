@@ -30,6 +30,7 @@ DECL|function|git_log_config
 DECL|function|header_callback
 DECL|function|inline_callback
 DECL|function|keep_callback
+DECL|function|log_line_range_callback
 DECL|function|log_show_early
 DECL|function|make_cover_letter
 DECL|function|no_numbered_callback
@@ -52,6 +53,10 @@ DECL|function|thread_callback
 DECL|function|to_callback
 DECL|macro|THREAD_DEEP
 DECL|macro|THREAD_SHALLOW
+DECL|member|args
+DECL|member|prefix
+DECL|member|rev
+DECL|struct|line_opt_callback_data
 DECL|variable|auto_number
 DECL|variable|builtin_format_patch_usage
 DECL|variable|builtin_log_usage
