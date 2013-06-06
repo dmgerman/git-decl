@@ -8,7 +8,10 @@ DECL|enumerator|CMIT_FMT_RAW
 DECL|enumerator|CMIT_FMT_SHORT
 DECL|enumerator|CMIT_FMT_UNSPECIFIED
 DECL|enumerator|CMIT_FMT_USERFORMAT
+DECL|enumerator|REV_SORT_BY_COMMIT_DATE
+DECL|enumerator|REV_SORT_IN_GRAPH_ORDER
 DECL|enum|cmit_fmt
+DECL|enum|rev_sort_order
 DECL|function|single_parent
 DECL|macro|COMMIT_H
 DECL|macro|INFINITE_DEPTH
