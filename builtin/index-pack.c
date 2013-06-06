@@ -103,11 +103,13 @@ DECL|struct|delta_entry
 DECL|struct|object_entry
 DECL|struct|thread_local
 DECL|union|delta_base
+DECL|variable|check_self_contained_and_connected
 DECL|variable|consumed_bytes
 DECL|variable|counter_mutex
 DECL|variable|deepest_delta
 DECL|variable|deepest_delta_mutex
 DECL|variable|deltas
+DECL|variable|do_fsck_object
 DECL|variable|from_stdin
 DECL|variable|index_pack_usage
 DECL|variable|input_buffer

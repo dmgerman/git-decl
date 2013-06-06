@@ -23,6 +23,7 @@ DECL|macro|TRANS_OPT_KEEP
 DECL|macro|TRANS_OPT_RECEIVEPACK
 DECL|macro|TRANS_OPT_THIN
 DECL|macro|TRANS_OPT_UPLOADPACK
+DECL|member|check_self_contained_and_connected
 DECL|member|connect
 DECL|member|data
 DECL|member|depth
@@ -39,6 +40,7 @@ DECL|member|push_refs
 DECL|member|receivepack
 DECL|member|remote
 DECL|member|remote_refs
+DECL|member|self_contained_and_connected
 DECL|member|set_option
 DECL|member|smart_options
 DECL|member|thin

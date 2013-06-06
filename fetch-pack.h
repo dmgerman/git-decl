@@ -1,4 +1,5 @@
 DECL|macro|FETCH_PACK_H
+DECL|member|check_self_contained_and_connected
 DECL|member|depth
 DECL|member|fetch_all
 DECL|member|include_tag
@@ -6,6 +7,7 @@ DECL|member|keep_pack
 DECL|member|lock_pack
 DECL|member|no_progress
 DECL|member|quiet
+DECL|member|self_contained_and_connected
 DECL|member|stateless_rpc
 DECL|member|stdin_refs
 DECL|member|unpacklimit

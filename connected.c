@@ -1,1 +1,2 @@
 DECL|function|check_everything_connected
+DECL|function|check_everything_connected_with_transport
