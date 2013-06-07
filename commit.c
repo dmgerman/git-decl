@@ -15,6 +15,7 @@ DECL|function|commit_list_set_next
 DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
 DECL|function|commit_tree_extended
+DECL|function|compare_commits_by_commit_date
 DECL|function|do_sign_commit
 DECL|function|excluded_header_field
 DECL|function|find_commit_subject
