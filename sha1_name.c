@@ -30,12 +30,14 @@ DECL|function|get_short_sha1
 DECL|function|grab_nth_branch_switch
 DECL|function|handle_one_ref
 DECL|function|interpret_branch_name
+DECL|function|interpret_empty_at
 DECL|function|interpret_nth_prior_checkout
 DECL|function|match_sha
 DECL|function|maybe_die_on_misspelt_object_name
 DECL|function|peel_onion
 DECL|function|peel_to_type
 DECL|function|prepare_prefixes
+DECL|function|reinterpret
 DECL|function|resolve_relative_path
 DECL|function|strbuf_branchname
 DECL|function|strbuf_check_branch_ref
