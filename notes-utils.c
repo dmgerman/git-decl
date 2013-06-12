@@ -1,5 +1,6 @@
 DECL|function|commit_notes
 DECL|function|copy_note_for_rewrite
+DECL|function|create_notes_commit
 DECL|function|finish_copy_notes_for_rewrite
 DECL|function|init_copy_notes_for_rewrite
 DECL|function|notes_rewrite_config
