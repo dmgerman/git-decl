@@ -1,6 +1,7 @@
 DECL|function|add_object_array
 DECL|function|add_object_array_with_mode
 DECL|function|clear_object_flags
+DECL|function|contains_name
 DECL|function|create_object
 DECL|function|get_indexed_object
 DECL|function|get_max_object_index
@@ -10,6 +11,7 @@ DECL|function|hashtable_index
 DECL|function|insert_obj_hash
 DECL|function|lookup_object
 DECL|function|lookup_unknown_object
+DECL|function|object_array_filter
 DECL|function|object_array_remove_duplicates
 DECL|function|object_list_contains
 DECL|function|object_list_insert
@@ -21,4 +23,5 @@ DECL|function|typename
 DECL|variable|nr_objs
 DECL|variable|obj_hash
 DECL|variable|obj_hash_size
+DECL|variable|object_array_slopbuf
 DECL|variable|object_type_strings
