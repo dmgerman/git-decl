@@ -4,6 +4,7 @@ DECL|function|name_ref
 DECL|function|name_rev
 DECL|function|name_rev_line
 DECL|function|show_name
+DECL|function|subpath_matches
 DECL|macro|CUTOFF_DATE_SLOP
 DECL|macro|MERGE_TRAVERSAL_WEIGHT
 DECL|macro|ishex
