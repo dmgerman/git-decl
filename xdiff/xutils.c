@@ -1,5 +1,6 @@
 DECL|function|count_masked_bytes
 DECL|function|has_zero
+DECL|function|xdl_blankline
 DECL|function|xdl_bogosqrt
 DECL|function|xdl_cha_alloc
 DECL|function|xdl_cha_free

@@ -5,6 +5,7 @@ DECL|function|xdl_change_compact
 DECL|function|xdl_diff
 DECL|function|xdl_do_diff
 DECL|function|xdl_free_script
+DECL|function|xdl_mark_ignorable
 DECL|function|xdl_recs_cmp
 DECL|function|xdl_split
 DECL|macro|XDL_HEUR_MIN_COST
