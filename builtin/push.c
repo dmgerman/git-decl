@@ -8,11 +8,13 @@ DECL|function|advise_use_upstream
 DECL|function|cmd_push
 DECL|function|die_push_simple
 DECL|function|do_push
+DECL|function|is_workflow_triangular
 DECL|function|option_parse_recurse_submodules
 DECL|function|push_url_of_remote
 DECL|function|push_with_options
 DECL|function|set_refspecs
 DECL|function|setup_default_push_refspecs
+DECL|function|setup_push_current
 DECL|function|setup_push_upstream
 DECL|function|warn_unspecified_push_default_configuration
 DECL|variable|default_matching_used
