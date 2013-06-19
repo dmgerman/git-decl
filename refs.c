@@ -60,6 +60,7 @@ DECL|function|get_packed_ref
 DECL|function|get_packed_refs
 DECL|function|get_ref_cache
 DECL|function|get_ref_dir
+DECL|function|handle_missing_loose_ref
 DECL|function|head_ref
 DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
