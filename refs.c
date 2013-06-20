@@ -4,6 +4,7 @@ DECL|enumerator|PEEL_IS_SYMREF
 DECL|enumerator|PEEL_NON_TAG
 DECL|enumerator|PEEL_PEELED
 DECL|enum|peel_status
+DECL|function|acquire_packed_ref_cache
 DECL|function|add_entry_to_dir
 DECL|function|add_packed_ref
 DECL|function|add_ref
@@ -101,6 +102,7 @@ DECL|function|ref_is_hidden
 DECL|function|ref_msg
 DECL|function|ref_resolves_to_object
 DECL|function|refname_match
+DECL|function|release_packed_ref_cache
 DECL|function|remove_empty_directories
 DECL|function|remove_entry
 DECL|function|rename_ref
@@ -163,6 +165,7 @@ DECL|member|pattern
 DECL|member|peeled
 DECL|member|ref_cache
 DECL|member|ref_to_prune
+DECL|member|referrers
 DECL|member|refname
 DECL|member|refname
 DECL|member|root
