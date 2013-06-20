@@ -58,6 +58,8 @@ DECL|function|free_ref_entry
 DECL|function|gen_scanf_fmt
 DECL|function|get_loose_refs
 DECL|function|get_packed_ref
+DECL|function|get_packed_ref_cache
+DECL|function|get_packed_ref_dir
 DECL|function|get_packed_refs
 DECL|function|get_ref_cache
 DECL|function|get_ref_dir
@@ -159,6 +161,7 @@ DECL|member|ref_cache
 DECL|member|ref_to_prune
 DECL|member|refname
 DECL|member|refname
+DECL|member|root
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sorted
@@ -169,6 +172,7 @@ DECL|member|u
 DECL|member|value
 DECL|struct|name_conflict_cb
 DECL|struct|pack_refs_cb_data
+DECL|struct|packed_ref_cache
 DECL|struct|ref_cache
 DECL|struct|ref_dir
 DECL|struct|ref_entry
