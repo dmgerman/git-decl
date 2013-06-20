@@ -176,6 +176,7 @@ DECL|member|str
 DECL|member|subdir
 DECL|member|trim
 DECL|member|u
+DECL|member|validity
 DECL|member|value
 DECL|struct|name_conflict_cb
 DECL|struct|pack_refs_cb_data
