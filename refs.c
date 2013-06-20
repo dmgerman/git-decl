@@ -20,6 +20,7 @@ DECL|function|create_dir_entry
 DECL|function|create_ref_cache
 DECL|function|create_ref_entry
 DECL|function|create_symref
+DECL|function|curate_packed_ref_fn
 DECL|function|delete_ref
 DECL|function|do_for_each_entry
 DECL|function|do_for_each_entry_in_dir
@@ -99,7 +100,6 @@ DECL|function|refname_match
 DECL|function|remove_empty_directories
 DECL|function|remove_entry
 DECL|function|rename_ref
-DECL|function|repack_ref_fn
 DECL|function|repack_without_ref
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
@@ -119,6 +119,7 @@ DECL|function|verify_lock
 DECL|function|warn_dangling_symref
 DECL|function|warn_if_dangling_symref
 DECL|function|write_packed_entry
+DECL|function|write_packed_entry_fn
 DECL|function|write_ref_sha1
 DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
