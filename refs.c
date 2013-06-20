@@ -88,6 +88,7 @@ DECL|function|peel_entry
 DECL|function|peel_object
 DECL|function|peel_ref
 DECL|function|prettify_refname
+DECL|function|prime_ref_dir
 DECL|function|prune_ref
 DECL|function|prune_refs
 DECL|function|read_loose_refs
