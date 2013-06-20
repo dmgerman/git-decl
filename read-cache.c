@@ -60,6 +60,9 @@ DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_index_entry
 DECL|function|show_file
+DECL|function|stat_validity_check
+DECL|function|stat_validity_clear
+DECL|function|stat_validity_update
 DECL|function|unmerged_index
 DECL|function|update_index_if_able
 DECL|function|verify_dotfile

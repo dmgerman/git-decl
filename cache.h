@@ -369,6 +369,7 @@ DECL|member|recursive
 DECL|member|refresh_cache
 DECL|member|remote_status
 DECL|member|resolve_undo
+DECL|member|sd
 DECL|member|sd_ctime
 DECL|member|sd_dev
 DECL|member|sd_gid
@@ -417,6 +418,7 @@ DECL|struct|pathspec_item
 DECL|struct|ref
 DECL|struct|startup_info
 DECL|struct|stat_data
+DECL|struct|stat_validity
 DECL|typedef|alt_odb_fn
 DECL|typedef|config_fn_t
 DECL|typedef|each_abbrev_fn
