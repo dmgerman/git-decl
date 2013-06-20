@@ -75,7 +75,7 @@ DECL|function|log_ref_setup
 DECL|function|log_ref_write
 DECL|function|name_conflict_fn
 DECL|function|names_conflict
-DECL|function|pack_one_ref
+DECL|function|pack_if_possible_fn
 DECL|function|pack_refs
 DECL|function|parse_hide_refs_config
 DECL|function|parse_ref_line
@@ -135,7 +135,6 @@ DECL|member|cb_data
 DECL|member|cb_data
 DECL|member|conflicting_refname
 DECL|member|entries
-DECL|member|fd
 DECL|member|flag
 DECL|member|flags
 DECL|member|flags
@@ -153,6 +152,7 @@ DECL|member|next
 DECL|member|nr
 DECL|member|oldrefname
 DECL|member|packed
+DECL|member|packed_refs
 DECL|member|pattern
 DECL|member|peeled
 DECL|member|ref_cache
