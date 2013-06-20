@@ -14,6 +14,7 @@ DECL|function|clear_loose_ref_cache
 DECL|function|clear_packed_ref_cache
 DECL|function|clear_ref_dir
 DECL|function|close_ref
+DECL|function|commit_packed_refs
 DECL|function|commit_ref
 DECL|function|copy_msg
 DECL|function|create_dir_entry
@@ -71,6 +72,7 @@ DECL|function|is_branch
 DECL|function|is_dup_ref
 DECL|function|is_refname_available
 DECL|function|lock_any_ref_for_update
+DECL|function|lock_packed_refs
 DECL|function|lock_ref_sha1
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
@@ -108,6 +110,7 @@ DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_ref_unsafe
 DECL|function|resolve_refdup
+DECL|function|rollback_packed_refs
 DECL|function|search_for_subdir
 DECL|function|search_ref_dir
 DECL|function|shorten_unambiguous_ref
@@ -144,6 +147,7 @@ DECL|member|fn
 DECL|member|fn
 DECL|member|fp
 DECL|member|len
+DECL|member|lock
 DECL|member|loose
 DECL|member|msg_fmt
 DECL|member|name
