@@ -3,14 +3,6 @@ DECL|macro|DEFAULT_MERGE_LOG_LEN
 DECL|macro|PRUNE_PACKED_DRY_RUN
 DECL|macro|PRUNE_PACKED_VERBOSE
 DECL|member|add_title
-DECL|member|cmd
-DECL|member|combine
 DECL|member|credit_people
-DECL|member|enabled
-DECL|member|mode_from_env
-DECL|member|refs
-DECL|member|refs_from_env
 DECL|member|shortlog_len
-DECL|member|trees
 DECL|struct|fmt_merge_msg_opts
-DECL|struct|notes_rewrite_cfg

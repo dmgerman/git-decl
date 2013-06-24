@@ -1,5 +1,4 @@
 DECL|function|check_notes_merge_worktree
-DECL|function|create_notes_commit
 DECL|function|diff_tree_local
 DECL|function|diff_tree_remote
 DECL|function|find_notes_merge_pair_pos
