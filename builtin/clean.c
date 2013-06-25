@@ -8,6 +8,7 @@ DECL|enumerator|MENU_STUFF_TYPE_MENU_ITEM
 DECL|enumerator|MENU_STUFF_TYPE_STRING_LIST
 DECL|enum|color_clean
 DECL|enum|menu_stuff_type
+DECL|function|ask_each_cmd
 DECL|function|clean_cmd
 DECL|function|clean_get_color
 DECL|function|clean_print_color
