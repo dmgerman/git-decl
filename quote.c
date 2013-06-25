@@ -1,6 +1,5 @@
 DECL|function|need_bs_quote
 DECL|function|next_quote_pos
-DECL|function|path_relative
 DECL|function|perl_quote_print
 DECL|function|python_quote_print
 DECL|function|quote_c_style
