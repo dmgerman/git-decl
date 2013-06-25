@@ -2,8 +2,10 @@ DECL|function|cmd_clean
 DECL|function|exclude_cb
 DECL|function|git_clean_config
 DECL|function|interactive_main_loop
+DECL|function|pretty_print_dels
 DECL|function|remove_dirs
 DECL|variable|builtin_clean_usage
+DECL|variable|colopts
 DECL|variable|del_list
 DECL|variable|force
 DECL|variable|interactive
