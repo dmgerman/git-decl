@@ -13,6 +13,7 @@ DECL|function|clean_get_color
 DECL|function|clean_print_color
 DECL|function|cmd_clean
 DECL|function|exclude_cb
+DECL|function|filter_by_patterns_cmd
 DECL|function|git_clean_config
 DECL|function|help_cmd
 DECL|function|interactive_main_loop
