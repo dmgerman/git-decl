@@ -1,2 +1,3 @@
 DECL|function|main
+DECL|function|normalize_argv_string
 DECL|function|normalize_ceiling_entry
