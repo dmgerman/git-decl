@@ -26,6 +26,7 @@ DECL|function|print_highlight_menu_stuff
 DECL|function|prompt_help_cmd
 DECL|function|quit_cmd
 DECL|function|remove_dirs
+DECL|function|select_by_numbers_cmd
 DECL|macro|MENU_OPTS_IMMEDIATE
 DECL|macro|MENU_OPTS_LIST_ONLY
 DECL|macro|MENU_OPTS_SINGLETON
