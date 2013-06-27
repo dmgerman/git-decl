@@ -1,4 +1,5 @@
 DECL|enumerator|REV_CMD_LEFT
+DECL|enumerator|REV_CMD_MERGE_BASE
 DECL|enumerator|REV_CMD_PARENTS_ONLY
 DECL|enumerator|REV_CMD_REF
 DECL|enumerator|REV_CMD_REV

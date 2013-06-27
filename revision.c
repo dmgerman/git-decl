@@ -15,6 +15,7 @@ DECL|function|add_pending_object
 DECL|function|add_pending_object_with_mode
 DECL|function|add_pending_sha1
 DECL|function|add_rev_cmdline
+DECL|function|add_rev_cmdline_list
 DECL|function|append_prune_data
 DECL|function|cherry_pick_list
 DECL|function|collect_bottom_commits
