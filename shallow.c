@@ -1,4 +1,8 @@
+DECL|function|check_shallow_file_for_update
 DECL|function|get_shallow_commits
 DECL|function|is_repository_shallow
 DECL|function|register_shallow
+DECL|function|set_alternate_shallow_file
+DECL|variable|alternate_shallow_file
 DECL|variable|is_shallow
+DECL|variable|shallow_stat
