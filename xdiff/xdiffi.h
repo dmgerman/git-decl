@@ -5,6 +5,7 @@ DECL|member|ha
 DECL|member|heur_min
 DECL|member|i1
 DECL|member|i2
+DECL|member|ignore
 DECL|member|mxcost
 DECL|member|next
 DECL|member|nrec
