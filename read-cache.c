@@ -28,6 +28,7 @@ DECL|function|different_name
 DECL|function|discard_index
 DECL|function|expand_name_field
 DECL|function|fill_stat_cache_info
+DECL|function|fill_stat_data
 DECL|function|has_dir_name
 DECL|function|has_file_name
 DECL|function|has_racy_timestamp
@@ -40,6 +41,7 @@ DECL|function|index_name_stage_pos
 DECL|function|is_index_unborn
 DECL|function|is_racy_timestamp
 DECL|function|make_cache_entry
+DECL|function|match_stat_data
 DECL|function|ntoh_l_force_align
 DECL|function|ntoh_s_force_align
 DECL|function|read_blob_data_from_index
@@ -58,6 +60,9 @@ DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_index_entry
 DECL|function|show_file
+DECL|function|stat_validity_check
+DECL|function|stat_validity_clear
+DECL|function|stat_validity_update
 DECL|function|unmerged_index
 DECL|function|update_index_if_able
 DECL|function|verify_dotfile
