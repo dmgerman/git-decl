@@ -84,7 +84,6 @@ DECL|member|item
 DECL|member|leak_pending
 DECL|member|left_only
 DECL|member|left_right
-DECL|member|lifo
 DECL|member|limited
 DECL|member|line_level_traverse
 DECL|member|line_log_data
@@ -142,6 +141,7 @@ DECL|member|simplify_by_decoration
 DECL|member|simplify_history
 DECL|member|simplify_merges
 DECL|member|skip_count
+DECL|member|sort_order
 DECL|member|subject_prefix
 DECL|member|submodule
 DECL|member|tag_objects

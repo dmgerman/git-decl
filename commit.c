@@ -17,6 +17,8 @@ DECL|function|commit_list_set_next
 DECL|function|commit_list_sort_by_date
 DECL|function|commit_tree
 DECL|function|commit_tree_extended
+DECL|function|compare_commits_by_author_date
+DECL|function|compare_commits_by_commit_date
 DECL|function|do_sign_commit
 DECL|function|excluded_header_field
 DECL|function|find_commit_subject
@@ -54,6 +56,7 @@ DECL|function|read_commit_extra_header_lines
 DECL|function|read_commit_extra_headers
 DECL|function|read_graft_file
 DECL|function|read_graft_line
+DECL|function|record_author_date
 DECL|function|reduce_heads
 DECL|function|register_commit_graft
 DECL|function|remove_redundant
