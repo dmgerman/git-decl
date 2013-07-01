@@ -21,7 +21,7 @@ DECL|member|date
 DECL|member|date_mode
 DECL|member|date_mode_explicit
 DECL|member|fmt
-DECL|member|indegree
+DECL|member|index
 DECL|member|item
 DECL|member|key
 DECL|member|len
