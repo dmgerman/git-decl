@@ -23,6 +23,7 @@ DECL|function|early_output
 DECL|function|estimate_commit_count
 DECL|function|find_branch_name
 DECL|function|finish_early_output
+DECL|function|from_callback
 DECL|function|gen_message_id
 DECL|function|get_patch_ids
 DECL|function|git_format_config
