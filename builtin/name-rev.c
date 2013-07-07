@@ -1,6 +1,7 @@
 DECL|function|cmd_name_rev
 DECL|function|get_rev_name
 DECL|function|name_ref
+DECL|function|name_ref_abbrev
 DECL|function|name_rev
 DECL|function|name_rev_line
 DECL|function|show_name
