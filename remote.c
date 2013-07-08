@@ -23,6 +23,7 @@ DECL|function|branch_merge_matches
 DECL|function|copy_ref
 DECL|function|copy_ref_list
 DECL|function|count_refspec_match
+DECL|function|find_ref_by_name
 DECL|function|find_ref_by_name_abbrev
 DECL|function|for_each_remote
 DECL|function|format_tracking_info
