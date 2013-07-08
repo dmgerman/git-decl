@@ -1,6 +1,7 @@
 DECL|enumerator|FROM_DST
 DECL|enumerator|FROM_SRC
 DECL|enum|map_direction
+DECL|function|add_cas_entry
 DECL|function|add_fetch_refspec
 DECL|function|add_instead_of
 DECL|function|add_merge
@@ -20,6 +21,7 @@ DECL|function|apply_refspecs
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
+DECL|function|clear_cas_option
 DECL|function|copy_ref
 DECL|function|copy_ref_list
 DECL|function|count_refspec_match
@@ -53,8 +55,10 @@ DECL|function|match_name_with_pattern
 DECL|function|match_push_refs
 DECL|function|one_local_ref
 DECL|function|parse_fetch_refspec
+DECL|function|parse_push_cas_option
 DECL|function|parse_push_refspec
 DECL|function|parse_refspec_internal
+DECL|function|parseopt_push_cas_option
 DECL|function|pushremote_get
 DECL|function|query_refspecs
 DECL|function|read_branches_file
