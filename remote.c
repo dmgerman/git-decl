@@ -54,6 +54,7 @@ DECL|function|one_local_ref
 DECL|function|parse_fetch_refspec
 DECL|function|parse_push_refspec
 DECL|function|parse_refspec_internal
+DECL|function|prepare_ref_index
 DECL|function|pushremote_get
 DECL|function|query_refspecs
 DECL|function|read_branches_file
