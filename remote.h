@@ -33,6 +33,8 @@ DECL|member|dst
 DECL|member|entry
 DECL|member|exact_sha1
 DECL|member|expect
+DECL|member|expect_old_no_trackback
+DECL|member|expect_old_sha1
 DECL|member|fetch
 DECL|member|fetch_head_status
 DECL|member|fetch_refspec
@@ -59,6 +61,7 @@ DECL|member|next
 DECL|member|nr
 DECL|member|nr
 DECL|member|old_sha1
+DECL|member|old_sha1_expect
 DECL|member|origin
 DECL|member|pattern
 DECL|member|peer_ref

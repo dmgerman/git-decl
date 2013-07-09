@@ -17,6 +17,8 @@ DECL|function|alias_url
 DECL|function|alloc_delete_ref
 DECL|function|alloc_ref
 DECL|function|alloc_ref_with_prefix
+DECL|function|apply_cas
+DECL|function|apply_push_cas
 DECL|function|apply_refspecs
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
@@ -45,6 +47,7 @@ DECL|function|guess_ref
 DECL|function|guess_remote_head
 DECL|function|handle_config
 DECL|function|ignore_symref_update
+DECL|function|is_empty_cas
 DECL|function|make_branch
 DECL|function|make_linked_ref
 DECL|function|make_remote
@@ -74,6 +77,7 @@ DECL|function|remote_get
 DECL|function|remote_get_1
 DECL|function|remote_has_url
 DECL|function|remote_is_configured
+DECL|function|remote_tracking
 DECL|function|resolve_remote_symref
 DECL|function|set_ref_status_for_push
 DECL|function|sort_ref_list
