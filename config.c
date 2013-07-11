@@ -73,6 +73,7 @@ DECL|macro|config_error_nonbool
 DECL|member|baselen
 DECL|member|buf
 DECL|member|buf
+DECL|member|die_on_error
 DECL|member|do_not_match
 DECL|member|eof
 DECL|member|fgetc
