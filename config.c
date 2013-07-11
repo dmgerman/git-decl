@@ -3,6 +3,9 @@ DECL|enumerator|SECTION_END_SEEN
 DECL|enumerator|SECTION_SEEN
 DECL|enumerator|START
 DECL|function|config_error_nonbool
+DECL|function|config_file_fgetc
+DECL|function|config_file_ftell
+DECL|function|config_file_ungetc
 DECL|function|die_bad_config
 DECL|function|do_config_from
 DECL|function|find_beginning_of_line
@@ -42,8 +45,8 @@ DECL|function|git_default_mailmap_config
 DECL|function|git_default_push_config
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
-DECL|function|git_parse_file
 DECL|function|git_parse_long
+DECL|function|git_parse_source
 DECL|function|git_parse_ulong
 DECL|function|handle_path_include
 DECL|function|iskeychar
@@ -64,7 +67,9 @@ DECL|macro|config_error_nonbool
 DECL|member|baselen
 DECL|member|do_not_match
 DECL|member|eof
-DECL|member|f
+DECL|member|fgetc
+DECL|member|file
+DECL|member|ftell
 DECL|member|key
 DECL|member|linenr
 DECL|member|multi_replace
@@ -73,11 +78,12 @@ DECL|member|offset
 DECL|member|prev
 DECL|member|seen
 DECL|member|state
+DECL|member|u
+DECL|member|ungetc
 DECL|member|value
 DECL|member|value_regex
 DECL|member|var
-DECL|struct|config_file
-DECL|typedef|config_file
+DECL|struct|config_source
 DECL|variable|cf
 DECL|variable|include_depth_advice
 DECL|variable|store
