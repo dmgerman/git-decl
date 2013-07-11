@@ -1,4 +1,5 @@
 DECL|function|check_argc
+DECL|function|check_blob_write
 DECL|function|cmd_config
 DECL|function|cmd_repo_config
 DECL|function|collect_config
@@ -47,6 +48,7 @@ DECL|variable|get_colorbool_found
 DECL|variable|get_colorbool_slot
 DECL|variable|get_colorbool_slot
 DECL|variable|get_diff_color_found
+DECL|variable|given_config_blob
 DECL|variable|given_config_file
 DECL|variable|key
 DECL|variable|key_delim
