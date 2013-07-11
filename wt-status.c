@@ -50,7 +50,6 @@ DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_verbose
 DECL|macro|quote_path
 DECL|member|buf
-DECL|member|found
 DECL|member|nsha1
 DECL|struct|grab_1st_switch_cbdata
 DECL|variable|default_wt_status_colors
