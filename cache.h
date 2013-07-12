@@ -385,6 +385,7 @@ DECL|member|total_in
 DECL|member|total_out
 DECL|member|track_flags
 DECL|member|tree
+DECL|member|typep
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
