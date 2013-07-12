@@ -95,6 +95,7 @@ DECL|function|sha1_object_info_extended
 DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sort_pack
+DECL|function|stat_sha1_file
 DECL|function|sz_fmt
 DECL|function|try_to_free_pack_memory
 DECL|function|unpack_compressed_entry
