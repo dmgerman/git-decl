@@ -7,5 +7,5 @@ DECL|variable|all_attrs
 DECL|variable|cached_attrs
 DECL|variable|check_attr_options
 DECL|variable|check_attr_usage
-DECL|variable|null_term_line
+DECL|variable|nul_term_line
 DECL|variable|stdin_paths
