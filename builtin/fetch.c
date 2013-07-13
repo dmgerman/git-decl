@@ -15,6 +15,7 @@ DECL|function|find_non_local_tags
 DECL|function|get_one_remote_for_fetch
 DECL|function|get_ref_map
 DECL|function|get_remote_group
+DECL|function|git_fetch_config
 DECL|function|iterate_ref_map
 DECL|function|option_parse_recurse_submodules
 DECL|function|prune_refs
@@ -27,6 +28,7 @@ DECL|function|unlock_pack
 DECL|function|unlock_pack_on_signal
 DECL|function|update_local_ref
 DECL|function|will_fetch
+DECL|macro|PRUNE_BY_DEFAULT
 DECL|macro|REFCOL_WIDTH
 DECL|macro|STORE_REF_ERROR_DF_CONFLICT
 DECL|macro|STORE_REF_ERROR_OTHER
@@ -40,6 +42,7 @@ DECL|variable|builtin_fetch_usage
 DECL|variable|default_rla
 DECL|variable|depth
 DECL|variable|dry_run
+DECL|variable|fetch_prune_config
 DECL|variable|force
 DECL|variable|keep
 DECL|variable|multiple
