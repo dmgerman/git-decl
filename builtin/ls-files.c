@@ -13,7 +13,6 @@ DECL|function|show_files
 DECL|function|show_killed_files
 DECL|function|show_other_files
 DECL|function|show_ru_info
-DECL|function|strip_trailing_slash_from_submodules
 DECL|function|write_name
 DECL|variable|abbrev
 DECL|variable|debug_mode
