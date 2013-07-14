@@ -12,6 +12,7 @@ DECL|macro|PATHSPEC_PREFIX_ORIGIN
 DECL|macro|PATHSPEC_STRIP_SUBMODULE_SLASH_CHEAP
 DECL|macro|PATHSPEC_STRIP_SUBMODULE_SLASH_EXPENSIVE
 DECL|macro|PATHSPEC_SYMLINK_LEADING_PATH
+DECL|member|_raw
 DECL|member|flags
 DECL|member|has_wildcard
 DECL|member|items
@@ -23,7 +24,6 @@ DECL|member|max_depth
 DECL|member|nowildcard_len
 DECL|member|nr
 DECL|member|original
-DECL|member|raw
 DECL|member|recursive
 DECL|struct|pathspec
 DECL|struct|pathspec_item
