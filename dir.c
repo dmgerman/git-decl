@@ -41,9 +41,7 @@ DECL|function|last_exclude_matching_from_list
 DECL|function|last_exclude_matching_from_lists
 DECL|function|limit_pathspec_to_literal
 DECL|function|match_basename
-DECL|function|match_one
 DECL|function|match_pathname
-DECL|function|match_pathspec
 DECL|function|match_pathspec_depth
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
