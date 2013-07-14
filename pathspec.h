@@ -1,9 +1,13 @@
+DECL|macro|PATHSPEC_ALL_MAGIC
+DECL|macro|PATHSPEC_FROMTOP
 DECL|macro|PATHSPEC_H
 DECL|macro|PATHSPEC_ONESTAR
 DECL|member|flags
 DECL|member|has_wildcard
 DECL|member|items
 DECL|member|len
+DECL|member|magic
+DECL|member|magic
 DECL|member|match
 DECL|member|max_depth
 DECL|member|nowildcard_len

@@ -4,8 +4,10 @@ DECL|function|copy_pathspec
 DECL|function|die_if_path_beyond_symlink
 DECL|function|find_pathspecs_matching_against_index
 DECL|function|get_pathspec
+DECL|function|parse_pathspec
+DECL|function|pathspec_item_cmp
 DECL|function|prefix_pathspec
-DECL|macro|PATHSPEC_FROMTOP
+DECL|function|unsupported_magic
 DECL|member|bit
 DECL|member|mnemonic
 DECL|member|name
