@@ -24,6 +24,7 @@ DECL|member|max_depth
 DECL|member|nowildcard_len
 DECL|member|nr
 DECL|member|original
+DECL|member|prefix
 DECL|member|recursive
 DECL|struct|pathspec
 DECL|struct|pathspec_item
