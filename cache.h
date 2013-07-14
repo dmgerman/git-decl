@@ -193,7 +193,6 @@ DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
 DECL|macro|NO_REPLACE_OBJECTS_ENVIRONMENT
 DECL|macro|OWNER_CHANGED
-DECL|macro|PATHSPEC_ONESTAR
 DECL|macro|READ_SHA1_FILE_REPLACE
 DECL|macro|REFRESH_IGNORE_MISSING
 DECL|macro|REFRESH_IGNORE_SUBMODULES
@@ -293,12 +292,10 @@ DECL|member|fd
 DECL|member|fetch_head_status
 DECL|member|filename
 DECL|member|flags
-DECL|member|flags
 DECL|member|fn
 DECL|member|force
 DECL|member|force
 DECL|member|forced_update
-DECL|member|has_wildcard
 DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
@@ -309,16 +306,12 @@ DECL|member|index_version
 DECL|member|initialized
 DECL|member|inuse_cnt
 DECL|member|is_delta
-DECL|member|items
 DECL|member|last_used
-DECL|member|len
 DECL|member|len
 DECL|member|len
 DECL|member|mail_begin
 DECL|member|mail_end
-DECL|member|match
 DECL|member|matched
-DECL|member|max_depth
 DECL|member|mode
 DECL|member|mtime
 DECL|member|name
@@ -338,8 +331,6 @@ DECL|member|next
 DECL|member|next_in
 DECL|member|next_out
 DECL|member|not_new
-DECL|member|nowildcard_len
-DECL|member|nr
 DECL|member|nr
 DECL|member|nsec
 DECL|member|num_bad_objects
@@ -364,8 +355,6 @@ DECL|member|peer_ref
 DECL|member|prefix
 DECL|member|prefix_len_stat_func
 DECL|member|quiet
-DECL|member|raw
-DECL|member|recursive
 DECL|member|refresh_cache
 DECL|member|remote_status
 DECL|member|resolve_undo
@@ -413,8 +402,6 @@ DECL|struct|object_info
 DECL|struct|pack_entry
 DECL|struct|pack_window
 DECL|struct|packed_git
-DECL|struct|pathspec
-DECL|struct|pathspec_item
 DECL|struct|ref
 DECL|struct|startup_info
 DECL|struct|stat_data

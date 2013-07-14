@@ -1,1 +1,14 @@
 DECL|macro|PATHSPEC_H
+DECL|macro|PATHSPEC_ONESTAR
+DECL|member|flags
+DECL|member|has_wildcard
+DECL|member|items
+DECL|member|len
+DECL|member|match
+DECL|member|max_depth
+DECL|member|nowildcard_len
+DECL|member|nr
+DECL|member|raw
+DECL|member|recursive
+DECL|struct|pathspec
+DECL|struct|pathspec_item
