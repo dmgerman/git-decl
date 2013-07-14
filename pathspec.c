@@ -1,7 +1,5 @@
 DECL|function|add_pathspec_matches_against_index
-DECL|function|check_path_for_gitlink
 DECL|function|copy_pathspec
-DECL|function|die_if_path_beyond_symlink
 DECL|function|find_pathspecs_matching_against_index
 DECL|function|get_pathspec
 DECL|function|parse_pathspec

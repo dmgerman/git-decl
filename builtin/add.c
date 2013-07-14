@@ -9,10 +9,8 @@ DECL|function|interactive_add
 DECL|function|prune_directory
 DECL|function|refresh
 DECL|function|run_add_interactive
-DECL|function|treat_gitlinks
 DECL|function|update_callback
 DECL|function|update_files_in_cache
-DECL|function|validate_pathspec
 DECL|function|warn_add_would_remove
 DECL|function|warn_pathless_add
 DECL|macro|ADDREMOVE_DEFAULT
