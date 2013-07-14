@@ -1,6 +1,7 @@
 DECL|function|add_pathspec_matches_against_index
 DECL|function|copy_pathspec
 DECL|function|find_pathspecs_matching_against_index
+DECL|function|free_pathspec
 DECL|function|get_pathspec
 DECL|function|parse_pathspec
 DECL|function|pathspec_item_cmp

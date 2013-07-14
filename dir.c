@@ -28,12 +28,10 @@ DECL|function|file_exists
 DECL|function|fill_directory
 DECL|function|fnmatch_icase
 DECL|function|fnmatch_icase_mem
-DECL|function|free_pathspec
 DECL|function|free_simplify
 DECL|function|get_dtype
 DECL|function|get_index_dtype
 DECL|function|git_fnmatch
-DECL|function|init_pathspec
 DECL|function|is_empty_dir
 DECL|function|is_excluded
 DECL|function|is_excluded_from_list
@@ -50,7 +48,6 @@ DECL|function|match_pathspec_depth
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
 DECL|function|parse_exclude_pattern
-DECL|function|pathspec_item_cmp
 DECL|function|prep_exclude
 DECL|function|read_directory
 DECL|function|read_directory_recursive
