@@ -25,6 +25,8 @@ DECL|member|date
 DECL|member|date_mode
 DECL|member|date_mode_explicit
 DECL|member|fmt
+DECL|member|from_ident
+DECL|member|in_body_headers
 DECL|member|index
 DECL|member|item
 DECL|member|key

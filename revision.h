@@ -75,6 +75,7 @@ DECL|member|elem_len
 DECL|member|extra_headers
 DECL|member|first_parent_only
 DECL|member|flags
+DECL|member|from_ident
 DECL|member|full_diff
 DECL|member|graph
 DECL|member|grep_filter
