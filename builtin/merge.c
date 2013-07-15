@@ -1,3 +1,7 @@
+DECL|enumerator|FF_ALLOW
+DECL|enumerator|FF_NO
+DECL|enumerator|FF_ONLY
+DECL|enum|ff_type
 DECL|function|abort_commit
 DECL|function|add_strategies
 DECL|function|append_strategy
@@ -16,6 +20,7 @@ DECL|function|git_merge_config
 DECL|function|is_old_style_invocation
 DECL|function|merge_name
 DECL|function|merge_trivial
+DECL|function|option_parse_ff_only
 DECL|function|option_parse_message
 DECL|function|option_parse_n
 DECL|function|option_parse_strategy
@@ -45,7 +50,6 @@ DECL|member|name
 DECL|struct|strategy
 DECL|variable|abort_current_merge
 DECL|variable|all_strategy
-DECL|variable|allow_fast_forward
 DECL|variable|allow_rerere_auto
 DECL|variable|allow_trivial
 DECL|variable|branch
@@ -53,7 +57,7 @@ DECL|variable|branch_mergeoptions
 DECL|variable|builtin_merge_options
 DECL|variable|builtin_merge_usage
 DECL|variable|default_to_upstream
-DECL|variable|fast_forward_only
+DECL|variable|fast_forward
 DECL|variable|have_message
 DECL|variable|merge_editor_comment
 DECL|variable|merge_msg
