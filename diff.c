@@ -71,6 +71,7 @@ DECL|function|emit_line
 DECL|function|emit_line_0
 DECL|function|emit_rewrite_diff
 DECL|function|emit_rewrite_lines
+DECL|function|enable_patch_output
 DECL|function|external_diff
 DECL|function|fill_filespec
 DECL|function|fill_metainfo
