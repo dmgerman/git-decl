@@ -77,6 +77,7 @@ DECL|function|fill_metainfo
 DECL|function|fill_mmfile
 DECL|function|fill_print_name
 DECL|function|fill_textconv
+DECL|function|filter_bit_tst
 DECL|function|find_lno
 DECL|function|find_word_boundaries
 DECL|function|flush_one_pair
@@ -100,6 +101,7 @@ DECL|function|new_blank_line_at_eof
 DECL|function|opt_arg
 DECL|function|parse_algorithm_value
 DECL|function|parse_diff_color_slot
+DECL|function|parse_diff_filter_opt
 DECL|function|parse_dirstat_opt
 DECL|function|parse_dirstat_params
 DECL|function|parse_long_opt
@@ -109,6 +111,7 @@ DECL|function|parse_submodule_params
 DECL|function|patch_id_consume
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
+DECL|function|prepare_filter_bits
 DECL|function|prepare_temp_file
 DECL|function|print_line_count
 DECL|function|print_stat_summary
@@ -236,12 +239,14 @@ DECL|variable|diff_no_prefix
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_stat_graph_width
+DECL|variable|diff_status_letters
 DECL|variable|diff_suppress_blank_empty
 DECL|variable|diff_temp
 DECL|variable|diff_use_color_default
 DECL|variable|diff_word_regex_cfg
 DECL|variable|diff_words_styles
 DECL|variable|external_diff_cmd_cfg
+DECL|variable|filter_bit
 DECL|variable|mime_boundary_leader
 DECL|variable|remove_tempfile_installed
 DECL|variable|rename_limit_advice
