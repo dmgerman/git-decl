@@ -288,6 +288,7 @@ DECL|member|date_end
 DECL|member|deletion
 DECL|member|depth
 DECL|member|dir_hash
+DECL|member|disk_sizep
 DECL|member|do_not_close
 DECL|member|fd
 DECL|member|fetch_head_status
