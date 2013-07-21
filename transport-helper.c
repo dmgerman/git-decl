@@ -48,6 +48,7 @@ DECL|macro|STATE_NEEDS_WRITING
 DECL|member|bidi_import
 DECL|member|buf
 DECL|member|bufuse
+DECL|member|check_connectivity
 DECL|member|connect
 DECL|member|dest
 DECL|member|dest_is_sock
