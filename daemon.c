@@ -29,7 +29,6 @@ DECL|function|receive_pack
 DECL|function|run_access_hook
 DECL|function|run_service
 DECL|function|run_service_command
-DECL|function|sanitize_stdfds
 DECL|function|serve
 DECL|function|service_loop
 DECL|function|set_reuse_addr
