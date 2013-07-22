@@ -1,6 +1,7 @@
 DECL|function|add_mapping
 DECL|function|clear_mailmap
 DECL|function|debug_mm
+DECL|function|debug_str
 DECL|function|free_mailmap_entry
 DECL|function|free_mailmap_info
 DECL|function|lookup_prefix
@@ -13,6 +14,7 @@ DECL|function|read_mailmap_file
 DECL|function|read_mailmap_line
 DECL|macro|DEBUG_MAILMAP
 DECL|macro|debug_mm
+DECL|macro|debug_str
 DECL|member|email
 DECL|member|email
 DECL|member|name
