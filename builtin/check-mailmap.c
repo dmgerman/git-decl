@@ -1,0 +1,5 @@
+DECL|function|check_mailmap
+DECL|function|cmd_check_mailmap
+DECL|variable|check_mailmap_options
+DECL|variable|check_mailmap_usage
+DECL|variable|use_stdin
