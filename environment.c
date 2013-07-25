@@ -73,6 +73,7 @@ DECL|variable|startup_info
 DECL|variable|trust_ctime
 DECL|variable|trust_executable_bit
 DECL|variable|warn_ambiguous_refs
+DECL|variable|warn_on_object_refname_ambiguity
 DECL|variable|whitespace_rule_cfg
 DECL|variable|work_tree
 DECL|variable|zlib_compression_level

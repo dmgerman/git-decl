@@ -65,6 +65,7 @@ DECL|function|open_sha1_file
 DECL|function|pack_entry_hash
 DECL|function|pack_report
 DECL|function|packed_object_info
+DECL|function|packed_to_object_type
 DECL|function|parse_pack_index
 DECL|function|parse_sha1_header
 DECL|function|prepare_alt_odb
@@ -95,6 +96,7 @@ DECL|function|sha1_object_info_extended
 DECL|function|sha1_pack_index_name
 DECL|function|sha1_pack_name
 DECL|function|sort_pack
+DECL|function|stat_sha1_file
 DECL|function|sz_fmt
 DECL|function|try_to_free_pack_memory
 DECL|function|unpack_compressed_entry
