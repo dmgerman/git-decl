@@ -56,6 +56,8 @@ DECL|variable|edit_flag
 DECL|variable|edit_message
 DECL|variable|empty_amend_advice
 DECL|variable|empty_cherry_pick_advice
+DECL|variable|empty_cherry_pick_advice_multi
+DECL|variable|empty_cherry_pick_advice_single
 DECL|variable|false_lock
 DECL|variable|fixup_message
 DECL|variable|force_author
@@ -75,6 +77,7 @@ DECL|variable|patch_interactive
 DECL|variable|post_rewrite_hook
 DECL|variable|quiet
 DECL|variable|renew_authorship
+DECL|variable|sequencer_in_use
 DECL|variable|show_ignored_in_status
 DECL|variable|sign_commit
 DECL|variable|signoff
