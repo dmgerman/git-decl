@@ -14,7 +14,6 @@ DECL|function|sq_dequote_to_argv_internal
 DECL|function|sq_must_quote
 DECL|function|sq_quote_argv
 DECL|function|sq_quote_buf
-DECL|function|sq_quote_print
 DECL|function|tcl_quote_buf
 DECL|function|unquote_c_style
 DECL|function|write_name_quoted
