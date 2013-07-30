@@ -1,7 +1,7 @@
 DECL|function|need_bs_quote
 DECL|function|next_quote_pos
-DECL|function|perl_quote_print
-DECL|function|python_quote_print
+DECL|function|perl_quote_buf
+DECL|function|python_quote_buf
 DECL|function|quote_c_style
 DECL|function|quote_c_style_counted
 DECL|function|quote_path_relative
@@ -15,7 +15,7 @@ DECL|function|sq_must_quote
 DECL|function|sq_quote_argv
 DECL|function|sq_quote_buf
 DECL|function|sq_quote_print
-DECL|function|tcl_quote_print
+DECL|function|tcl_quote_buf
 DECL|function|unquote_c_style
 DECL|function|write_name_quoted
 DECL|function|write_name_quoted_relative
