@@ -4,6 +4,7 @@ DECL|function|add_submodule_odb
 DECL|function|calculate_changed_submodule_paths
 DECL|function|check_for_new_submodule_commits
 DECL|function|collect_submodules_from_diff
+DECL|function|connect_work_tree_and_git_dir
 DECL|function|fetch_populated_submodules
 DECL|function|find_first_merges
 DECL|function|find_unpushed_submodule_commits
