@@ -1,0 +1,14 @@
+DECL|member|err
+DECL|member|host_len
+DECL|member|host_off
+DECL|member|passwd_len
+DECL|member|passwd_off
+DECL|member|path_len
+DECL|member|path_off
+DECL|member|port_len
+DECL|member|scheme_len
+DECL|member|url
+DECL|member|url_len
+DECL|member|user_len
+DECL|member|user_off
+DECL|struct|url_info
