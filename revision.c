@@ -26,6 +26,7 @@ DECL|function|file_add_remove
 DECL|function|file_change
 DECL|function|for_each_bad_bisect_ref
 DECL|function|for_each_good_bisect_ref
+DECL|function|free_saved_parents
 DECL|function|gc_boundary
 DECL|function|get_commit_action
 DECL|function|get_reference
@@ -33,6 +34,7 @@ DECL|function|get_revision
 DECL|function|get_revision_1
 DECL|function|get_revision_internal
 DECL|function|get_revision_mark
+DECL|function|get_saved_parents
 DECL|function|handle_commit
 DECL|function|handle_one_ref
 DECL|function|handle_one_reflog
@@ -73,6 +75,7 @@ DECL|function|rev_compare_tree
 DECL|function|rev_same_tree_as_empty
 DECL|function|rewrite_one
 DECL|function|rewrite_parents
+DECL|function|save_parents
 DECL|function|set_children
 DECL|function|setup_revisions
 DECL|function|show_object_with_name
