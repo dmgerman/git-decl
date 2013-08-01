@@ -1,6 +1,7 @@
 DECL|function|check_local_mod
 DECL|function|check_submodules_use_gitfiles
 DECL|function|cmd_rm
+DECL|function|error_removing_concrete_submodules
 DECL|function|get_ours_cache_pos
 DECL|function|print_error_files
 DECL|member|alloc
