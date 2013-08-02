@@ -14,8 +14,10 @@ DECL|member|format
 DECL|member|info
 DECL|member|mark_query
 DECL|member|print_contents
+DECL|member|rest
 DECL|member|sha1
 DECL|member|size
+DECL|member|split_on_whitespace
 DECL|member|type
 DECL|struct|batch_options
 DECL|struct|expand_data
