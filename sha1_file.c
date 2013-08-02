@@ -10,6 +10,7 @@ DECL|function|check_sha1_signature
 DECL|function|check_tag
 DECL|function|check_tree
 DECL|function|clear_delta_base_cache
+DECL|function|close_one_pack
 DECL|function|close_pack_index
 DECL|function|close_pack_windows
 DECL|function|close_sha1_file
@@ -19,6 +20,7 @@ DECL|function|experimental_loose_object
 DECL|function|fill_pack_entry
 DECL|function|fill_sha1_path
 DECL|function|find_cached_object
+DECL|function|find_lru_pack
 DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_pack
