@@ -52,6 +52,7 @@ DECL|member|verbosity
 DECL|struct|discovery
 DECL|struct|options
 DECL|struct|rpc_state
+DECL|variable|cas_options
 DECL|variable|last_discovery
 DECL|variable|options
 DECL|variable|remote
