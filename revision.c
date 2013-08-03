@@ -88,6 +88,7 @@ DECL|function|still_interesting
 DECL|function|try_to_simplify_commit
 DECL|function|update_treesame
 DECL|function|want_ancestry
+DECL|macro|EMPTY_PARENT_LIST
 DECL|macro|SLOP
 DECL|member|all_flags
 DECL|member|all_revs
