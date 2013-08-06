@@ -32,6 +32,7 @@ DECL|function|submodule_collect_changed_cb
 DECL|function|submodule_config
 DECL|function|submodule_needs_pushing
 DECL|function|submodule_uses_gitfile
+DECL|function|update_path_in_gitmodules
 DECL|macro|MERGE_WARNING
 DECL|variable|changed_submodule_paths
 DECL|variable|config_fetch_recurse_submodules
