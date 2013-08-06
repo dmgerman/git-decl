@@ -24,6 +24,7 @@ DECL|function|print_commit
 DECL|function|print_submodule_summary
 DECL|function|push_submodule
 DECL|function|push_unpushed_submodules
+DECL|function|remove_path_from_gitmodules
 DECL|function|set_config_fetch_recurse_submodules
 DECL|function|set_diffopt_flags_from_submodule_config
 DECL|function|show_submodule_summary
