@@ -17,6 +17,7 @@ DECL|function|get_ref_map
 DECL|function|get_remote_group
 DECL|function|iterate_ref_map
 DECL|function|option_parse_recurse_submodules
+DECL|function|prepare_transport
 DECL|function|prune_refs
 DECL|function|quickfetch
 DECL|function|s_update_ref
