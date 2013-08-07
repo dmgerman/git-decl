@@ -23,6 +23,7 @@ DECL|macro|TRANS_OPT_KEEP
 DECL|macro|TRANS_OPT_RECEIVEPACK
 DECL|macro|TRANS_OPT_THIN
 DECL|macro|TRANS_OPT_UPLOADPACK
+DECL|member|cannot_reuse
 DECL|member|check_self_contained_and_connected
 DECL|member|connect
 DECL|member|data

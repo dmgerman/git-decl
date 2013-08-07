@@ -43,6 +43,7 @@ DECL|variable|default_rla
 DECL|variable|depth
 DECL|variable|dry_run
 DECL|variable|force
+DECL|variable|gsecondary
 DECL|variable|gtransport
 DECL|variable|keep
 DECL|variable|multiple
