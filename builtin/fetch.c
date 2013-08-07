@@ -41,6 +41,7 @@ DECL|variable|default_rla
 DECL|variable|depth
 DECL|variable|dry_run
 DECL|variable|force
+DECL|variable|gtransport
 DECL|variable|keep
 DECL|variable|multiple
 DECL|variable|progress
@@ -49,7 +50,6 @@ DECL|variable|recurse_submodules
 DECL|variable|recurse_submodules_default
 DECL|variable|submodule_prefix
 DECL|variable|tags
-DECL|variable|transport
 DECL|variable|unshallow
 DECL|variable|update_head_ok
 DECL|variable|upload_pack
