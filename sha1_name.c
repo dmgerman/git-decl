@@ -30,7 +30,6 @@ DECL|function|get_short_sha1
 DECL|function|grab_nth_branch_switch
 DECL|function|handle_one_ref
 DECL|function|interpret_branch_name
-DECL|function|interpret_empty_at
 DECL|function|interpret_nth_prior_checkout
 DECL|function|match_sha
 DECL|function|maybe_die_on_misspelt_object_name
