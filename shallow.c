@@ -4,6 +4,7 @@ DECL|function|is_repository_shallow
 DECL|function|register_shallow
 DECL|function|set_alternate_shallow_file
 DECL|function|setup_alternate_shallow
+DECL|function|setup_temporary_shallow
 DECL|function|write_one_shallow
 DECL|function|write_shallow_commits
 DECL|member|count
