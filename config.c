@@ -74,11 +74,12 @@ DECL|member|baselen
 DECL|member|buf
 DECL|member|buf
 DECL|member|die_on_error
+DECL|member|do_fgetc
+DECL|member|do_ftell
 DECL|member|do_not_match
+DECL|member|do_ungetc
 DECL|member|eof
-DECL|member|fgetc
 DECL|member|file
-DECL|member|ftell
 DECL|member|key
 DECL|member|len
 DECL|member|linenr
@@ -90,7 +91,6 @@ DECL|member|prev
 DECL|member|seen
 DECL|member|state
 DECL|member|u
-DECL|member|ungetc
 DECL|member|value
 DECL|member|value_regex
 DECL|member|var
