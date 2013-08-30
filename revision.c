@@ -10,10 +10,12 @@ DECL|function|add_pending_commit_list
 DECL|function|add_pending_object
 DECL|function|add_pending_object_with_mode
 DECL|function|add_pending_sha1
+DECL|function|add_ref_exclusion
 DECL|function|add_rev_cmdline
 DECL|function|add_rev_cmdline_list
 DECL|function|append_prune_data
 DECL|function|cherry_pick_list
+DECL|function|clear_ref_exclusion
 DECL|function|collect_bottom_commits
 DECL|function|commit_list_insert_by_date_cached
 DECL|function|commit_match
@@ -65,6 +67,7 @@ DECL|function|prepare_show_merge
 DECL|function|put_revision_mark
 DECL|function|read_pathspec_from_stdin
 DECL|function|read_revisions_from_stdin
+DECL|function|ref_excluded
 DECL|function|relevant_commit
 DECL|function|remove_duplicate_parents
 DECL|function|remove_marked_parents
