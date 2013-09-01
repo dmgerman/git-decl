@@ -28,6 +28,7 @@ DECL|function|print_path
 DECL|function|ptr_to_mark
 DECL|function|show_filemodify
 DECL|function|show_progress
+DECL|variable|extra_refs
 DECL|variable|fake_missing_tagger
 DECL|variable|fast_export_usage
 DECL|variable|full_tree
