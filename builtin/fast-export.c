@@ -11,6 +11,7 @@ DECL|function|depth_first
 DECL|function|export_blob
 DECL|function|export_marks
 DECL|function|find_encoding
+DECL|function|get_commit
 DECL|function|get_object_mark
 DECL|function|get_tags_and_duplicates
 DECL|function|handle_commit
