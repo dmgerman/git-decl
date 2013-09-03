@@ -61,6 +61,7 @@ DECL|member|import
 DECL|member|import_marks
 DECL|member|name
 DECL|member|no_disconnect_req
+DECL|member|no_private_update
 DECL|member|option
 DECL|member|out
 DECL|member|ptg
