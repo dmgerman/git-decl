@@ -110,6 +110,7 @@ DECL|function|remove_empty_directories
 DECL|function|remove_entry
 DECL|function|rename_ref
 DECL|function|repack_without_ref
+DECL|function|repack_without_refs
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
