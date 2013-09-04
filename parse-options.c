@@ -2,6 +2,7 @@ DECL|function|check_typos
 DECL|function|fix_filename
 DECL|function|get_arg
 DECL|function|get_value
+DECL|function|opt_command_mode_error
 DECL|function|optbug
 DECL|function|opterror
 DECL|function|parse_long_opt
