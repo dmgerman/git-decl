@@ -104,6 +104,8 @@ DECL|function|ref_exists
 DECL|function|ref_is_hidden
 DECL|function|ref_msg
 DECL|function|ref_resolves_to_object
+DECL|function|ref_update_compare
+DECL|function|ref_update_reject_duplicates
 DECL|function|refname_match
 DECL|function|release_packed_ref_cache
 DECL|function|remove_empty_directories
@@ -128,6 +130,7 @@ DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|update_ref_lock
 DECL|function|update_ref_write
+DECL|function|update_refs
 DECL|function|verify_lock
 DECL|function|warn_dangling_symref
 DECL|function|warn_if_dangling_symref
