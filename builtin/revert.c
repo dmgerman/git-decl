@@ -5,6 +5,5 @@ DECL|function|option_parse_x
 DECL|function|parse_args
 DECL|function|revert_or_cherry_pick_usage
 DECL|function|verify_opt_compatible
-DECL|function|verify_opt_mutually_compatible
 DECL|variable|cherry_pick_usage
 DECL|variable|revert_usage

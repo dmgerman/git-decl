@@ -33,7 +33,6 @@ DECL|enumerator|PARSE_OPT_UNKNOWN
 DECL|enum|parse_opt_flags
 DECL|enum|parse_opt_option_flags
 DECL|enum|parse_opt_type
-DECL|macro|OPTION_BOOLEAN
 DECL|macro|OPT_ARGUMENT
 DECL|macro|OPT_BIT
 DECL|macro|OPT_BOOL
@@ -48,6 +47,7 @@ DECL|macro|OPT_END
 DECL|macro|OPT_EXPIRY_DATE
 DECL|macro|OPT_FILENAME
 DECL|macro|OPT_GROUP
+DECL|macro|OPT_HIDDEN_BOOL
 DECL|macro|OPT_INTEGER
 DECL|macro|OPT_NEGBIT
 DECL|macro|OPT_NOOP_NOARG
