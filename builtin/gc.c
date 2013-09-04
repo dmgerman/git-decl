@@ -1,6 +1,7 @@
 DECL|function|add_repack_all_option
 DECL|function|cmd_gc
 DECL|function|gc_config
+DECL|function|lock_repo_for_gc
 DECL|function|need_to_gc
 DECL|function|too_many_loose_objects
 DECL|function|too_many_packs
