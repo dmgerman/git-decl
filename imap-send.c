@@ -52,12 +52,6 @@ DECL|macro|DRV_OK
 DECL|macro|DRV_OK
 DECL|macro|DRV_STORE_BAD
 DECL|macro|ENCODED_SIZE
-DECL|macro|EVP_md5
-DECL|macro|HMAC_CTX
-DECL|macro|HMAC_CTX_cleanup
-DECL|macro|HMAC_Final
-DECL|macro|HMAC_Init
-DECL|macro|HMAC_Update
 DECL|macro|RESP_BAD
 DECL|macro|RESP_NO
 DECL|macro|RESP_OK
