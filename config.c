@@ -27,6 +27,7 @@ DECL|function|git_config_from_file
 DECL|function|git_config_from_parameters
 DECL|function|git_config_include
 DECL|function|git_config_int
+DECL|function|git_config_int64
 DECL|function|git_config_maybe_bool
 DECL|function|git_config_maybe_bool_text
 DECL|function|git_config_parse_key
@@ -52,6 +53,7 @@ DECL|function|git_default_push_config
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
 DECL|function|git_parse_int
+DECL|function|git_parse_int64
 DECL|function|git_parse_signed
 DECL|function|git_parse_source
 DECL|function|git_parse_ulong
