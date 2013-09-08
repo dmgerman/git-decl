@@ -9,7 +9,7 @@ DECL|function|config_error_nonbool
 DECL|function|config_file_fgetc
 DECL|function|config_file_ftell
 DECL|function|config_file_ungetc
-DECL|function|die_bad_config
+DECL|function|die_bad_number
 DECL|function|do_config_from
 DECL|function|find_beginning_of_line
 DECL|function|get_base_var
