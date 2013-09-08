@@ -52,8 +52,10 @@ DECL|function|git_default_push_config
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
 DECL|function|git_parse_long
+DECL|function|git_parse_signed
 DECL|function|git_parse_source
 DECL|function|git_parse_ulong
+DECL|function|git_parse_unsigned
 DECL|function|handle_path_include
 DECL|function|iskeychar
 DECL|function|lowercase
