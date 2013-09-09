@@ -3,13 +3,17 @@ DECL|function|check_blob_write
 DECL|function|cmd_config
 DECL|function|cmd_repo_config
 DECL|function|collect_config
+DECL|function|dup_downcase
+DECL|function|format_config
 DECL|function|get_color
 DECL|function|get_colorbool
+DECL|function|get_urlmatch
 DECL|function|get_value
 DECL|function|git_get_color_config
 DECL|function|git_get_colorbool_config
 DECL|function|normalize_value
 DECL|function|show_all_config
+DECL|function|urlmatch_collect_fn
 DECL|macro|ACTION_ADD
 DECL|macro|ACTION_EDIT
 DECL|macro|ACTION_GET
@@ -17,6 +21,7 @@ DECL|macro|ACTION_GET_ALL
 DECL|macro|ACTION_GET_COLOR
 DECL|macro|ACTION_GET_COLORBOOL
 DECL|macro|ACTION_GET_REGEXP
+DECL|macro|ACTION_GET_URLMATCH
 DECL|macro|ACTION_LIST
 DECL|macro|ACTION_REMOVE_SECTION
 DECL|macro|ACTION_RENAME_SECTION
@@ -32,7 +37,10 @@ DECL|macro|TYPE_PATH
 DECL|member|alloc
 DECL|member|items
 DECL|member|nr
+DECL|member|value
+DECL|member|value_is_null
 DECL|struct|strbuf_list
+DECL|struct|urlmatch_current_candidate_value
 DECL|variable|actions
 DECL|variable|builtin_config_options
 DECL|variable|builtin_config_usage
