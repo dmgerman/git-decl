@@ -18,6 +18,7 @@ DECL|function|mkpath
 DECL|function|mkpathdup
 DECL|function|mksnpath
 DECL|function|normalize_path_copy
+DECL|function|normalize_path_copy_len
 DECL|function|offset_1st_component
 DECL|function|relative_path
 DECL|function|strip_path_suffix

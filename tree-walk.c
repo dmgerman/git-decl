@@ -1,3 +1,4 @@
+DECL|function|basecmp
 DECL|function|check_entry_match
 DECL|function|decode_tree_entry
 DECL|function|entry_clear

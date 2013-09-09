@@ -149,9 +149,12 @@ DECL|macro|GET_SHA1_TREE
 DECL|macro|GET_SHA1_TREEISH
 DECL|macro|GITATTRIBUTES_FILE
 DECL|macro|GIT_DIR_ENVIRONMENT
+DECL|macro|GIT_GLOB_PATHSPECS_ENVIRONMENT
+DECL|macro|GIT_ICASE_PATHSPECS_ENVIRONMENT
 DECL|macro|GIT_IMPLICIT_WORK_TREE_ENVIRONMENT
 DECL|macro|GIT_LITERAL_PATHSPECS_ENVIRONMENT
 DECL|macro|GIT_NAMESPACE_ENVIRONMENT
+DECL|macro|GIT_NOGLOB_PATHSPECS_ENVIRONMENT
 DECL|macro|GIT_NOTES_DEFAULT_REF
 DECL|macro|GIT_NOTES_DISPLAY_REF_ENVIRONMENT
 DECL|macro|GIT_NOTES_REF_ENVIRONMENT
@@ -179,7 +182,6 @@ DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
 DECL|macro|NO_REPLACE_OBJECTS_ENVIRONMENT
 DECL|macro|OWNER_CHANGED
-DECL|macro|PATHSPEC_ONESTAR
 DECL|macro|READ_SHA1_FILE_REPLACE
 DECL|macro|REFRESH_IGNORE_MISSING
 DECL|macro|REFRESH_IGNORE_SUBMODULES
@@ -273,10 +275,8 @@ DECL|member|do_not_close
 DECL|member|fd
 DECL|member|filename
 DECL|member|flags
-DECL|member|flags
 DECL|member|fn
 DECL|member|force
-DECL|member|has_wildcard
 DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
@@ -287,15 +287,11 @@ DECL|member|index_version
 DECL|member|initialized
 DECL|member|inuse_cnt
 DECL|member|is_delta
-DECL|member|items
 DECL|member|last_used
-DECL|member|len
 DECL|member|len
 DECL|member|len
 DECL|member|mail_begin
 DECL|member|mail_end
-DECL|member|match
-DECL|member|max_depth
 DECL|member|mode
 DECL|member|mtime
 DECL|member|name
@@ -312,8 +308,6 @@ DECL|member|next
 DECL|member|next_in
 DECL|member|next_out
 DECL|member|not_new
-DECL|member|nowildcard_len
-DECL|member|nr
 DECL|member|nsec
 DECL|member|num_bad_objects
 DECL|member|num_objects
@@ -335,8 +329,6 @@ DECL|member|path
 DECL|member|prefix
 DECL|member|prefix_len_stat_func
 DECL|member|quiet
-DECL|member|raw
-DECL|member|recursive
 DECL|member|refresh_cache
 DECL|member|resolve_undo
 DECL|member|sd
@@ -381,8 +373,6 @@ DECL|struct|object_info
 DECL|struct|pack_entry
 DECL|struct|pack_window
 DECL|struct|packed_git
-DECL|struct|pathspec
-DECL|struct|pathspec_item
 DECL|struct|startup_info
 DECL|struct|stat_data
 DECL|struct|stat_validity
