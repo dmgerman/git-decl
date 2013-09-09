@@ -28,6 +28,7 @@ DECL|member|name
 DECL|member|name
 DECL|member|origin
 DECL|member|pattern
+DECL|member|prune
 DECL|member|push
 DECL|member|push_refspec
 DECL|member|push_refspec_alloc
