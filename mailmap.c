@@ -9,9 +9,9 @@ DECL|function|map_user
 DECL|function|parse_name_and_email
 DECL|function|read_mailmap
 DECL|function|read_mailmap_blob
-DECL|function|read_mailmap_buf
 DECL|function|read_mailmap_file
 DECL|function|read_mailmap_line
+DECL|function|read_mailmap_string
 DECL|macro|DEBUG_MAILMAP
 DECL|macro|debug_mm
 DECL|macro|debug_str
