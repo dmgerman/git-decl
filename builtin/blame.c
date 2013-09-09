@@ -3,7 +3,6 @@ DECL|function|add_prefix
 DECL|function|append_merge_parents
 DECL|function|append_parent
 DECL|function|assign_blame
-DECL|function|blame_bottomtop_callback
 DECL|function|blame_chunk
 DECL|function|blame_chunk_cb
 DECL|function|blame_copy_callback
@@ -54,7 +53,6 @@ DECL|function|parse_score
 DECL|function|pass_blame
 DECL|function|pass_blame_to_parent
 DECL|function|pass_whole_blame
-DECL|function|prepare_blame_range
 DECL|function|prepare_final
 DECL|function|prepare_initial
 DECL|function|prepare_lines
