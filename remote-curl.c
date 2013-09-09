@@ -27,6 +27,7 @@ DECL|member|argv
 DECL|member|buf
 DECL|member|buf
 DECL|member|buf_alloc
+DECL|member|check_self_contained_and_connected
 DECL|member|depth
 DECL|member|dry_run
 DECL|member|followtags
