@@ -37,7 +37,6 @@ DECL|function|filter_refs
 DECL|function|find_beginning_of_line
 DECL|function|find_containing_dir
 DECL|function|find_ref
-DECL|function|find_ref_by_name
 DECL|function|for_each_branch_ref
 DECL|function|for_each_branch_ref_submodule
 DECL|function|for_each_glob_ref

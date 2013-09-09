@@ -17,6 +17,7 @@ DECL|function|setup_default_push_refspecs
 DECL|function|setup_push_current
 DECL|function|setup_push_upstream
 DECL|function|warn_unspecified_push_default_configuration
+DECL|variable|cas
 DECL|variable|default_matching_used
 DECL|variable|deleterefs
 DECL|variable|message_advice_checkout_pull_push
