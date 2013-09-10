@@ -7,7 +7,6 @@ DECL|function|get_indexed_object
 DECL|function|get_max_object_index
 DECL|function|grow_object_hash
 DECL|function|hash_obj
-DECL|function|hashtable_index
 DECL|function|insert_obj_hash
 DECL|function|lookup_object
 DECL|function|lookup_unknown_object
