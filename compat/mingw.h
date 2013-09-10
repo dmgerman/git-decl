@@ -57,6 +57,8 @@ DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
 DECL|macro|WNOHANG
 DECL|macro|WTERMSIG
+DECL|macro|_stat32i64
+DECL|macro|_stat64
 DECL|macro|_stati64
 DECL|macro|accept
 DECL|macro|bind
