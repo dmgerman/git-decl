@@ -89,7 +89,6 @@ DECL|macro|fflush
 DECL|macro|fgetc
 DECL|macro|fopen
 DECL|macro|freopen
-DECL|macro|fstat
 DECL|macro|getcwd
 DECL|macro|getenv
 DECL|macro|gethostbyname

@@ -75,6 +75,7 @@ DECL|macro|fputs
 DECL|macro|freeaddrinfo
 DECL|macro|freopen
 DECL|macro|fstat
+DECL|macro|fstat
 DECL|macro|getaddrinfo
 DECL|macro|getcwd
 DECL|macro|getenv
@@ -88,6 +89,7 @@ DECL|macro|is_dir_sep
 DECL|macro|kill
 DECL|macro|listen
 DECL|macro|lseek
+DECL|macro|lstat
 DECL|macro|lstat
 DECL|macro|main
 DECL|macro|mkdir
@@ -104,6 +106,7 @@ DECL|macro|shutdown
 DECL|macro|sigemptyset
 DECL|macro|signal
 DECL|macro|socket
+DECL|macro|stat
 DECL|macro|stat
 DECL|macro|unlink
 DECL|macro|utime
