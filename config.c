@@ -9,7 +9,7 @@ DECL|function|config_error_nonbool
 DECL|function|config_file_fgetc
 DECL|function|config_file_ftell
 DECL|function|config_file_ungetc
-DECL|function|die_bad_config
+DECL|function|die_bad_number
 DECL|function|do_config_from
 DECL|function|find_beginning_of_line
 DECL|function|get_base_var
@@ -27,6 +27,7 @@ DECL|function|git_config_from_file
 DECL|function|git_config_from_parameters
 DECL|function|git_config_include
 DECL|function|git_config_int
+DECL|function|git_config_int64
 DECL|function|git_config_maybe_bool
 DECL|function|git_config_maybe_bool_text
 DECL|function|git_config_parse_key
@@ -51,9 +52,12 @@ DECL|function|git_default_mailmap_config
 DECL|function|git_default_push_config
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
-DECL|function|git_parse_long
+DECL|function|git_parse_int
+DECL|function|git_parse_int64
+DECL|function|git_parse_signed
 DECL|function|git_parse_source
 DECL|function|git_parse_ulong
+DECL|function|git_parse_unsigned
 DECL|function|handle_path_include
 DECL|function|iskeychar
 DECL|function|lowercase
