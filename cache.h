@@ -213,7 +213,9 @@ DECL|macro|add_file_to_cache
 DECL|macro|add_to_cache
 DECL|macro|alloc_nr
 DECL|macro|approxidate
+DECL|macro|cache_dir_exists
 DECL|macro|cache_entry_size
+DECL|macro|cache_file_exists
 DECL|macro|cache_name_exists
 DECL|macro|cache_name_is_other
 DECL|macro|cache_name_pos

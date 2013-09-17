@@ -7,6 +7,8 @@ DECL|function|hash_dir_entry
 DECL|function|hash_index_entry
 DECL|function|hash_name
 DECL|function|icase_hash
+DECL|function|index_dir_exists
+DECL|function|index_file_exists
 DECL|function|index_name_exists
 DECL|function|lazy_init_name_hash
 DECL|function|remove_dir_entry
