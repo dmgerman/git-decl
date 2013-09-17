@@ -1,6 +1,8 @@
 DECL|function|check_non_tip
 DECL|function|create_pack_file
 DECL|function|do_rev_list
+DECL|function|find_symref
+DECL|function|format_symref_info
 DECL|function|get_common_commits
 DECL|function|got_sha1
 DECL|function|is_our_ref
