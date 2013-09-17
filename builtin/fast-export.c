@@ -11,6 +11,7 @@ DECL|function|depth_first
 DECL|function|export_blob
 DECL|function|export_marks
 DECL|function|find_encoding
+DECL|function|get_commit
 DECL|function|get_object_mark
 DECL|function|get_tags_and_duplicates
 DECL|function|handle_commit
@@ -28,6 +29,7 @@ DECL|function|print_path
 DECL|function|ptr_to_mark
 DECL|function|show_filemodify
 DECL|function|show_progress
+DECL|variable|extra_refs
 DECL|variable|fake_missing_tagger
 DECL|variable|fast_export_usage
 DECL|variable|full_tree
