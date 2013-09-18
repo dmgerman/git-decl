@@ -4,6 +4,7 @@ DECL|enumerator|PROTO_SSH
 DECL|enum|protocol
 DECL|function|add_extra_have
 DECL|function|ai_name
+DECL|function|annotate_refs_with_symref_info
 DECL|function|check_ref
 DECL|function|check_ref_type
 DECL|function|die_initial_contact
@@ -23,6 +24,7 @@ DECL|function|git_tcp_connect_sock
 DECL|function|git_use_proxy
 DECL|function|parse_feature_request
 DECL|function|parse_feature_value
+DECL|function|parse_one_symref_info
 DECL|function|server_feature_value
 DECL|function|server_supports
 DECL|macro|MAX_CMD_LEN
