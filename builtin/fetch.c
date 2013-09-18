@@ -5,6 +5,7 @@ DECL|function|add_existing
 DECL|function|add_merge_config
 DECL|function|add_options_to_argv
 DECL|function|add_remote_or_group
+DECL|function|backfill_tags
 DECL|function|check_not_current_branch
 DECL|function|cmd_fetch
 DECL|function|do_fetch
@@ -17,6 +18,7 @@ DECL|function|get_ref_map
 DECL|function|get_remote_group
 DECL|function|iterate_ref_map
 DECL|function|option_parse_recurse_submodules
+DECL|function|prepare_transport
 DECL|function|prune_refs
 DECL|function|quickfetch
 DECL|function|s_update_ref
@@ -41,6 +43,8 @@ DECL|variable|default_rla
 DECL|variable|depth
 DECL|variable|dry_run
 DECL|variable|force
+DECL|variable|gsecondary
+DECL|variable|gtransport
 DECL|variable|keep
 DECL|variable|multiple
 DECL|variable|progress
@@ -49,7 +53,6 @@ DECL|variable|recurse_submodules
 DECL|variable|recurse_submodules_default
 DECL|variable|submodule_prefix
 DECL|variable|tags
-DECL|variable|transport
 DECL|variable|unshallow
 DECL|variable|update_head_ok
 DECL|variable|upload_pack
