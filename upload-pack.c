@@ -27,6 +27,7 @@ DECL|variable|allow_tip_sha1_in_want
 DECL|variable|daemon_mode
 DECL|variable|extra_edge_obj
 DECL|variable|have_obj
+DECL|variable|keepalive
 DECL|variable|multi_ack
 DECL|variable|no_done
 DECL|variable|no_progress
