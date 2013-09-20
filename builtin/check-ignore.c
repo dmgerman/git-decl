@@ -4,6 +4,7 @@ DECL|function|cmd_check_ignore
 DECL|function|output_exclude
 DECL|variable|check_ignore_options
 DECL|variable|check_ignore_usage
+DECL|variable|no_index
 DECL|variable|nul_term_line
 DECL|variable|quiet
 DECL|variable|show_non_matching
