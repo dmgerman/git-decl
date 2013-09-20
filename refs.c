@@ -24,6 +24,7 @@ DECL|function|create_ref_entry
 DECL|function|create_symref
 DECL|function|curate_packed_ref_fn
 DECL|function|delete_ref
+DECL|function|delete_ref_loose
 DECL|function|do_for_each_entry
 DECL|function|do_for_each_entry_in_dir
 DECL|function|do_for_each_entry_in_dirs
@@ -102,12 +103,15 @@ DECL|function|ref_exists
 DECL|function|ref_is_hidden
 DECL|function|ref_msg
 DECL|function|ref_resolves_to_object
+DECL|function|ref_update_compare
+DECL|function|ref_update_reject_duplicates
 DECL|function|refname_match
 DECL|function|release_packed_ref_cache
 DECL|function|remove_empty_directories
 DECL|function|remove_entry
 DECL|function|rename_ref
 DECL|function|repack_without_ref
+DECL|function|repack_without_refs
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
@@ -123,6 +127,9 @@ DECL|function|substitute_branch_name
 DECL|function|try_remove_empty_parents
 DECL|function|unlock_ref
 DECL|function|update_ref
+DECL|function|update_ref_lock
+DECL|function|update_ref_write
+DECL|function|update_refs
 DECL|function|verify_lock
 DECL|function|warn_dangling_symref
 DECL|function|warn_if_dangling_symref
