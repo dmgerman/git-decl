@@ -35,6 +35,7 @@ DECL|member|dirty_submodule
 DECL|member|display_comment_prefix
 DECL|member|fp
 DECL|member|head_path
+DECL|member|hints
 DECL|member|ignore_submodule_arg
 DECL|member|ignored
 DECL|member|index_file
