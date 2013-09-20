@@ -1,6 +1,7 @@
 DECL|function|add_domainname
 DECL|function|add_mailname_host
 DECL|function|author_ident_sufficiently_given
+DECL|function|buf_cmp
 DECL|function|committer_ident_sufficiently_given
 DECL|function|copy_email
 DECL|function|copy_gecos
@@ -10,6 +11,7 @@ DECL|function|fmt_name
 DECL|function|git_author_info
 DECL|function|git_committer_info
 DECL|function|git_ident_config
+DECL|function|ident_cmp
 DECL|function|ident_default_date
 DECL|function|ident_default_email
 DECL|function|ident_default_name
