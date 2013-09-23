@@ -29,4 +29,3 @@ DECL|struct|credential
 DECL|struct|credential_operation
 DECL|typedef|credential_op_cb
 DECL|variable|credential_helper_ops
-DECL|variable|credential_helper_ops
