@@ -5,7 +5,6 @@ DECL|function|credential_write
 DECL|function|credential_write_item
 DECL|function|die_errno
 DECL|function|error
-DECL|function|free_password
 DECL|function|keyring_erase
 DECL|function|keyring_get
 DECL|function|keyring_object
