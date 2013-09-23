@@ -3,7 +3,6 @@ DECL|function|credential_init
 DECL|function|credential_read
 DECL|function|credential_write
 DECL|function|credential_write_item
-DECL|function|die
 DECL|function|die_errno
 DECL|function|error
 DECL|function|free_password
