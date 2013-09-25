@@ -58,6 +58,8 @@ DECL|macro|WIFEXITED
 DECL|macro|WIFSIGNALED
 DECL|macro|WNOHANG
 DECL|macro|WTERMSIG
+DECL|macro|_stat32i64
+DECL|macro|_stat64
 DECL|macro|_stati64
 DECL|macro|accept
 DECL|macro|bind
@@ -74,6 +76,7 @@ DECL|macro|fputs
 DECL|macro|freeaddrinfo
 DECL|macro|freopen
 DECL|macro|fstat
+DECL|macro|fstat
 DECL|macro|getaddrinfo
 DECL|macro|getcwd
 DECL|macro|getenv
@@ -87,6 +90,7 @@ DECL|macro|is_dir_sep
 DECL|macro|kill
 DECL|macro|listen
 DECL|macro|lseek
+DECL|macro|lstat
 DECL|macro|lstat
 DECL|macro|main
 DECL|macro|mkdir
@@ -103,6 +107,7 @@ DECL|macro|shutdown
 DECL|macro|sigemptyset
 DECL|macro|signal
 DECL|macro|socket
+DECL|macro|stat
 DECL|macro|stat
 DECL|macro|unlink
 DECL|macro|utime
