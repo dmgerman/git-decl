@@ -43,6 +43,7 @@ DECL|function|run_active_slot
 DECL|function|set_from_env
 DECL|function|start_active_slot
 DECL|function|step_active_slots
+DECL|function|update_url_from_redirect
 DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|HTTP_REQUEST_FILE
