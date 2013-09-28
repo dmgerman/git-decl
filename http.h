@@ -5,10 +5,8 @@ DECL|macro|CURLUSESSL_TRY
 DECL|macro|DEFAULT_MAX_REQUESTS
 DECL|macro|HTTP_ERROR
 DECL|macro|HTTP_H
-DECL|macro|HTTP_KEEP_ERROR
 DECL|macro|HTTP_MISSING_TARGET
 DECL|macro|HTTP_NOAUTH
-DECL|macro|HTTP_NO_CACHE
 DECL|macro|HTTP_OK
 DECL|macro|HTTP_REAUTH
 DECL|macro|HTTP_START_FAILED
@@ -23,6 +21,7 @@ DECL|member|buf
 DECL|member|c
 DECL|member|callback_data
 DECL|member|callback_func
+DECL|member|content_type
 DECL|member|curl
 DECL|member|curl_result
 DECL|member|curl_result
@@ -33,9 +32,11 @@ DECL|member|http_code
 DECL|member|http_code
 DECL|member|http_code
 DECL|member|in_use
+DECL|member|keep_error
 DECL|member|localfile
 DECL|member|lst
 DECL|member|next
+DECL|member|no_cache
 DECL|member|packfile
 DECL|member|posn
 DECL|member|range_header
@@ -54,6 +55,7 @@ DECL|member|url
 DECL|member|zret
 DECL|struct|active_request_slot
 DECL|struct|buffer
+DECL|struct|http_get_options
 DECL|struct|http_object_request
 DECL|struct|http_pack_request
 DECL|struct|slot_results
