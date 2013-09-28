@@ -2,6 +2,7 @@ DECL|function|abort_http_object_request
 DECL|function|add_fill_function
 DECL|function|append_remote_object_url
 DECL|function|closedown_active_slot
+DECL|function|curlinfo_strbuf
 DECL|function|fetch_and_setup_pack_index
 DECL|function|fetch_pack_index
 DECL|function|fill_active_slots
