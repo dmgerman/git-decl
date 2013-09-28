@@ -26,6 +26,7 @@ DECL|member|curl
 DECL|member|curl_result
 DECL|member|curl_result
 DECL|member|curl_result
+DECL|member|effective_url
 DECL|member|errorstr
 DECL|member|finished
 DECL|member|http_code
