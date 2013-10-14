@@ -21,6 +21,7 @@ DECL|function|mksnpath
 DECL|function|normalize_path_copy
 DECL|function|offset_1st_component
 DECL|function|relative_path
+DECL|function|remove_leading_path
 DECL|function|strip_path_suffix
 DECL|function|validate_headref
 DECL|function|vsnpath
