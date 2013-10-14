@@ -25,6 +25,7 @@ DECL|member|bisect_in_progress
 DECL|member|branch
 DECL|member|branch
 DECL|member|change
+DECL|member|cherry_pick_head_sha1
 DECL|member|cherry_pick_in_progress
 DECL|member|colopts
 DECL|member|color_palette
