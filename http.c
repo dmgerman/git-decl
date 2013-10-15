@@ -40,6 +40,9 @@ DECL|function|release_active_slot
 DECL|function|release_http_object_request
 DECL|function|release_http_pack_request
 DECL|function|run_active_slot
+DECL|function|set_curl_keepalive
+DECL|function|set_curl_keepalive
+DECL|function|set_curl_keepalive
 DECL|function|set_from_env
 DECL|function|sockopt_callback
 DECL|function|start_active_slot
