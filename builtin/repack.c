@@ -1,0 +1,12 @@
+DECL|function|cmd_repack
+DECL|function|get_non_kept_pack_filenames
+DECL|function|remove_pack_on_signal
+DECL|function|remove_redundant_pack
+DECL|function|remove_temporary_files
+DECL|function|repack_config
+DECL|macro|ALL_INTO_ONE
+DECL|macro|LOOSEN_UNREACHABLE
+DECL|variable|delta_base_offset
+DECL|variable|git_repack_usage
+DECL|variable|packdir
+DECL|variable|packtmp
