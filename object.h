@@ -3,6 +3,7 @@ DECL|macro|OBJECT_ARRAY_INIT
 DECL|macro|OBJECT_H
 DECL|macro|TYPE_BITS
 DECL|member|alloc
+DECL|member|context
 DECL|member|flags
 DECL|member|item
 DECL|member|item
