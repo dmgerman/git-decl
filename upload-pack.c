@@ -1,6 +1,5 @@
 DECL|function|check_non_tip
 DECL|function|create_pack_file
-DECL|function|do_rev_list
 DECL|function|get_common_commits
 DECL|function|got_sha1
 DECL|function|is_our_ref
@@ -12,9 +11,6 @@ DECL|function|receive_needs
 DECL|function|reset_timeout
 DECL|function|send_client_data
 DECL|function|send_ref
-DECL|function|show_commit
-DECL|function|show_edge
-DECL|function|show_object
 DECL|function|upload_pack
 DECL|function|upload_pack_config
 DECL|macro|CLIENT_SHALLOW
@@ -36,7 +32,6 @@ DECL|variable|multi_ack
 DECL|variable|no_done
 DECL|variable|no_progress
 DECL|variable|oldest_have
-DECL|variable|pack_pipe
 DECL|variable|shallow_nr
 DECL|variable|stateless_rpc
 DECL|variable|timeout
