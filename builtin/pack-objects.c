@@ -37,7 +37,6 @@ DECL|function|loosen_unused_packed_objects
 DECL|function|mark_in_pack_object
 DECL|function|mark_tagged
 DECL|function|name_cmp_len
-DECL|function|name_hash
 DECL|function|no_try_delta
 DECL|function|ofscmp
 DECL|function|option_parse_index_version

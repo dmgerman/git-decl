@@ -1,3 +1,4 @@
+DECL|function|pack_name_hash
 DECL|macro|PACK_OBJECTS_H
 DECL|member|delta
 DECL|member|delta_child
