@@ -1,8 +1,10 @@
 DECL|function|create_pack_revindex
 DECL|function|discard_revindex
 DECL|function|find_pack_revindex
+DECL|function|find_revindex_position
 DECL|function|init_pack_revindex
 DECL|function|pack_revindex_ix
+DECL|function|revindex_for_pack
 DECL|function|sort_revindex
 DECL|macro|BUCKETS
 DECL|macro|BUCKETS
@@ -10,8 +12,5 @@ DECL|macro|BUCKET_FOR
 DECL|macro|BUCKET_FOR
 DECL|macro|DIGIT_SIZE
 DECL|macro|DIGIT_SIZE
-DECL|member|p
-DECL|member|revindex
-DECL|struct|pack_revindex
 DECL|variable|pack_revindex
 DECL|variable|pack_revindex_hashsz
