@@ -32,5 +32,6 @@ DECL|variable|builtin_rev_parse_usage
 DECL|variable|def
 DECL|variable|filter
 DECL|variable|output_sq
+DECL|variable|ref_excludes
 DECL|variable|show_type
 DECL|variable|symbolic
