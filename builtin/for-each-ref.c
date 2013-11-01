@@ -20,6 +20,7 @@ DECL|function|get_value
 DECL|function|grab_commit_values
 DECL|function|grab_common_values
 DECL|function|grab_date
+DECL|function|grab_objectname
 DECL|function|grab_person
 DECL|function|grab_single_ref
 DECL|function|grab_sub_body_contents
