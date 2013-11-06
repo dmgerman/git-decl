@@ -20,7 +20,6 @@ DECL|function|git_merge_config
 DECL|function|is_old_style_invocation
 DECL|function|merge_name
 DECL|function|merge_trivial
-DECL|function|option_parse_ff_only
 DECL|function|option_parse_message
 DECL|function|option_parse_n
 DECL|function|option_parse_strategy
