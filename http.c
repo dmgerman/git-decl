@@ -2,6 +2,7 @@ DECL|function|abort_http_object_request
 DECL|function|add_fill_function
 DECL|function|append_remote_object_url
 DECL|function|closedown_active_slot
+DECL|function|curlinfo_strbuf
 DECL|function|fetch_and_setup_pack_index
 DECL|function|fetch_pack_index
 DECL|function|fill_active_slots
@@ -42,6 +43,7 @@ DECL|function|run_active_slot
 DECL|function|set_from_env
 DECL|function|start_active_slot
 DECL|function|step_active_slots
+DECL|function|update_url_from_redirect
 DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|HTTP_REQUEST_FILE
