@@ -1,7 +1,6 @@
 DECL|function|check_argc
 DECL|function|check_blob_write
 DECL|function|cmd_config
-DECL|function|cmd_repo_config
 DECL|function|collect_config
 DECL|function|dup_downcase
 DECL|function|format_config
