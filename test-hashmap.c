@@ -2,7 +2,6 @@ DECL|function|alloc_test_entry
 DECL|function|get_value
 DECL|function|hash
 DECL|function|main
-DECL|function|perf_hash
 DECL|function|perf_hashmap
 DECL|function|test_entry_cmp
 DECL|function|test_entry_cmp_icase
@@ -17,7 +16,4 @@ DECL|macro|TEST_SIZE
 DECL|macro|TEST_SPARSE
 DECL|member|ent
 DECL|member|key
-DECL|member|key
-DECL|member|next
-DECL|struct|hash_entry
 DECL|struct|test_entry
