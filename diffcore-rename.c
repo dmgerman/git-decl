@@ -4,7 +4,6 @@ DECL|function|estimate_similarity
 DECL|function|find_exact_renames
 DECL|function|find_identical_files
 DECL|function|find_renames
-DECL|function|free_similarity_list
 DECL|function|hash_filespec
 DECL|function|insert_file_table
 DECL|function|locate_rename_dst
@@ -15,10 +14,10 @@ DECL|function|score_compare
 DECL|function|too_many_rename_candidates
 DECL|macro|NUM_CANDIDATE_PER_DST
 DECL|member|dst
+DECL|member|entry
 DECL|member|filespec
 DECL|member|index
 DECL|member|name_score
-DECL|member|next
 DECL|member|p
 DECL|member|pair
 DECL|member|score
