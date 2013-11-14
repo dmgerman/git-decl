@@ -274,6 +274,7 @@ DECL|member|depth
 DECL|member|dir_hash
 DECL|member|disk_sizep
 DECL|member|do_not_close
+DECL|member|ent
 DECL|member|fd
 DECL|member|filename
 DECL|member|flags
@@ -302,7 +303,6 @@ DECL|member|name_begin
 DECL|member|name_end
 DECL|member|name_hash
 DECL|member|name_hash_initialized
-DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|next
