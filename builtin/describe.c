@@ -1,5 +1,6 @@
 DECL|function|add_to_known_names
 DECL|function|cmd_describe
+DECL|function|commit_name_cmp
 DECL|function|compare_pt
 DECL|function|describe
 DECL|function|display_name
@@ -8,16 +9,15 @@ DECL|function|finish_depth_computation
 DECL|function|get_name
 DECL|function|hash_sha1
 DECL|function|replace_name
-DECL|function|set_util
 DECL|function|show_suffix
 DECL|macro|MAX_TAGS
 DECL|macro|SEEN
 DECL|member|depth
+DECL|member|entry
 DECL|member|flag_within
 DECL|member|found_order
 DECL|member|name
 DECL|member|name_checked
-DECL|member|next
 DECL|member|path
 DECL|member|peeled
 DECL|member|prio
