@@ -4,7 +4,6 @@ DECL|function|estimate_similarity
 DECL|function|find_exact_renames
 DECL|function|find_identical_files
 DECL|function|find_renames
-DECL|function|find_same_files
 DECL|function|free_similarity_list
 DECL|function|hash_filespec
 DECL|function|insert_file_table
@@ -25,7 +24,6 @@ DECL|member|pair
 DECL|member|score
 DECL|member|score
 DECL|member|src
-DECL|member|src_dst
 DECL|member|two
 DECL|struct|diff_rename_dst
 DECL|struct|diff_rename_src
