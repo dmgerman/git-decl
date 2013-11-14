@@ -1,0 +1,5 @@
+DECL|function|next_word
+DECL|function|rlwit_discard_first_words
+DECL|function|rlwit_discharge
+DECL|function|rlwit_discharge_empty
+DECL|function|rlwit_init
