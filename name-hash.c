@@ -1,5 +1,6 @@
 DECL|function|add_dir_entry
 DECL|function|add_name_hash
+DECL|function|cache_entry_cmp
 DECL|function|dir_entry_cmp
 DECL|function|find_dir_entry
 DECL|function|free_name_hash
