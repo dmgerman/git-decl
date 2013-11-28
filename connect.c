@@ -22,6 +22,7 @@ DECL|function|git_tcp_connect
 DECL|function|git_tcp_connect_sock
 DECL|function|git_tcp_connect_sock
 DECL|function|git_use_proxy
+DECL|function|parse_connect_url
 DECL|function|parse_feature_request
 DECL|function|parse_feature_value
 DECL|function|parse_one_symref_info
