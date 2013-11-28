@@ -27,7 +27,6 @@ DECL|function|parse_feature_value
 DECL|function|parse_one_symref_info
 DECL|function|server_feature_value
 DECL|function|server_supports
-DECL|macro|MAX_CMD_LEN
 DECL|macro|STR
 DECL|macro|STR_
 DECL|variable|git_proxy_command
