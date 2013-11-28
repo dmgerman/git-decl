@@ -11,7 +11,7 @@ DECL|function|die_initial_contact
 DECL|function|enable_keepalive
 DECL|function|finish_connect
 DECL|function|get_host_and_port
-DECL|function|get_port
+DECL|function|get_port_numeric
 DECL|function|get_protocol
 DECL|function|get_remote_heads
 DECL|function|git_connect
