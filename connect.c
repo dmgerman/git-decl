@@ -1,3 +1,4 @@
+DECL|enumerator|PROTO_FILE
 DECL|enumerator|PROTO_GIT
 DECL|enumerator|PROTO_LOCAL
 DECL|enumerator|PROTO_SSH
@@ -29,6 +30,7 @@ DECL|function|parse_one_symref_info
 DECL|function|prot_name
 DECL|function|server_feature_value
 DECL|function|server_supports
+DECL|function|url_is_local_not_ssh
 DECL|macro|STR
 DECL|macro|STR_
 DECL|variable|git_proxy_command
