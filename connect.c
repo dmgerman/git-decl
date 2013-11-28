@@ -26,6 +26,7 @@ DECL|function|parse_connect_url
 DECL|function|parse_feature_request
 DECL|function|parse_feature_value
 DECL|function|parse_one_symref_info
+DECL|function|prot_name
 DECL|function|server_feature_value
 DECL|function|server_supports
 DECL|macro|STR
