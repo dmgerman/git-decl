@@ -1,7 +1,6 @@
 DECL|function|apply_delta
 DECL|function|check_preimage_overflow
 DECL|function|die_short_read
-DECL|function|ends_with
 DECL|function|fast_export_begin_commit
 DECL|function|fast_export_begin_note
 DECL|function|fast_export_blob_delta
