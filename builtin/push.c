@@ -9,6 +9,7 @@ DECL|function|cmd_push
 DECL|function|die_push_simple
 DECL|function|do_push
 DECL|function|is_workflow_triangular
+DECL|function|map_refspec
 DECL|function|option_parse_recurse_submodules
 DECL|function|push_url_of_remote
 DECL|function|push_with_options
