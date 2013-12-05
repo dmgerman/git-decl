@@ -36,11 +36,13 @@ DECL|function|show_ref_cb
 DECL|function|unpack
 DECL|function|unpack_with_sideband
 DECL|function|update
+DECL|function|update_shallow_info
 DECL|function|write_head_info
 DECL|member|buf
 DECL|member|cmd
 DECL|member|did_not_exist
 DECL|member|error_string
+DECL|member|index
 DECL|member|new_sha1
 DECL|member|next
 DECL|member|old_sha1
@@ -50,6 +52,7 @@ DECL|member|skip_update
 DECL|struct|command
 DECL|struct|receive_hook_feed_state
 DECL|typedef|feed_fn
+DECL|variable|alt_shallow_file
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
 DECL|variable|deny_current_branch
