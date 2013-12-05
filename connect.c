@@ -2,7 +2,6 @@ DECL|enumerator|PROTO_GIT
 DECL|enumerator|PROTO_LOCAL
 DECL|enumerator|PROTO_SSH
 DECL|enum|protocol
-DECL|function|add_extra_have
 DECL|function|ai_name
 DECL|function|annotate_refs_with_symref_info
 DECL|function|check_ref

@@ -27,8 +27,6 @@ DECL|macro|REF_NORMAL
 DECL|macro|REF_TAGS
 DECL|macro|REMOTE_H
 DECL|member|alloc
-DECL|member|alloc
-DECL|member|array
 DECL|member|deletion
 DECL|member|dst
 DECL|member|entry
@@ -60,7 +58,6 @@ DECL|member|name
 DECL|member|new_sha1
 DECL|member|next
 DECL|member|nr
-DECL|member|nr
 DECL|member|old_sha1
 DECL|member|old_sha1_expect
 DECL|member|origin
@@ -91,7 +88,6 @@ DECL|member|url_nr
 DECL|member|use_tracking
 DECL|member|use_tracking_for_rest
 DECL|struct|branch
-DECL|struct|extra_have_objects
 DECL|struct|push_cas
 DECL|struct|push_cas_option
 DECL|struct|ref
