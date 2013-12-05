@@ -1,3 +1,5 @@
+DECL|function|advertise_shallow_grafts
+DECL|function|advertise_shallow_grafts_cb
 DECL|function|check_shallow_file_for_update
 DECL|function|get_shallow_commits
 DECL|function|is_repository_shallow
