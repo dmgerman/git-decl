@@ -17,6 +17,7 @@ DECL|macro|USE_CURL_MULTI
 DECL|macro|curl_global_cleanup
 DECL|macro|curl_global_init
 DECL|macro|missing_target
+DECL|member|auth_avail
 DECL|member|base_url
 DECL|member|buf
 DECL|member|c
