@@ -1,5 +1,6 @@
 DECL|macro|FETCH_PACK_H
 DECL|member|check_self_contained_and_connected
+DECL|member|cloning
 DECL|member|depth
 DECL|member|fetch_all
 DECL|member|include_tag

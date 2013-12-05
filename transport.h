@@ -27,6 +27,7 @@ DECL|macro|TRANS_OPT_UPLOADPACK
 DECL|member|cannot_reuse
 DECL|member|cas
 DECL|member|check_self_contained_and_connected
+DECL|member|cloning
 DECL|member|connect
 DECL|member|data
 DECL|member|depth
