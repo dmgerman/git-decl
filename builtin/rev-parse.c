@@ -33,4 +33,5 @@ DECL|variable|def
 DECL|variable|filter
 DECL|variable|output_sq
 DECL|variable|show_type
+DECL|variable|stuck_long
 DECL|variable|symbolic
