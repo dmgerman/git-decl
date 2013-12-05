@@ -4,6 +4,7 @@ DECL|function|advertise_shallow_grafts_cb
 DECL|function|assign_shallow_commits_to_refs
 DECL|function|check_shallow_file_for_update
 DECL|function|clear_shallow_info
+DECL|function|delayed_reachability_test
 DECL|function|get_shallow_commits
 DECL|function|is_repository_shallow
 DECL|function|mark_uninteresting
