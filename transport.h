@@ -23,6 +23,7 @@ DECL|macro|TRANS_OPT_FOLLOWTAGS
 DECL|macro|TRANS_OPT_KEEP
 DECL|macro|TRANS_OPT_RECEIVEPACK
 DECL|macro|TRANS_OPT_THIN
+DECL|macro|TRANS_OPT_UPDATE_SHALLOW
 DECL|macro|TRANS_OPT_UPLOADPACK
 DECL|member|cannot_reuse
 DECL|member|cas
@@ -48,6 +49,7 @@ DECL|member|self_contained_and_connected
 DECL|member|set_option
 DECL|member|smart_options
 DECL|member|thin
+DECL|member|update_shallow
 DECL|member|uploadpack
 DECL|member|url
 DECL|member|verbose

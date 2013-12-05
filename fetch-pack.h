@@ -12,6 +12,7 @@ DECL|member|self_contained_and_connected
 DECL|member|stateless_rpc
 DECL|member|stdin_refs
 DECL|member|unpacklimit
+DECL|member|update_shallow
 DECL|member|uploadpack
 DECL|member|use_thin_pack
 DECL|member|verbose
