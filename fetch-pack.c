@@ -28,6 +28,7 @@ DECL|function|rev_list_insert_ref
 DECL|function|rev_list_push
 DECL|function|send_request
 DECL|function|sideband_demux
+DECL|function|update_shallow
 DECL|macro|COMMON
 DECL|macro|COMMON_REF
 DECL|macro|COMPLETE
