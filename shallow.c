@@ -12,6 +12,7 @@ DECL|function|paint_alloc
 DECL|function|paint_down
 DECL|function|post_assign_shallow
 DECL|function|prepare_shallow_info
+DECL|function|prune_shallow
 DECL|function|register_shallow
 DECL|function|remove_nonexistent_ours_in_pack
 DECL|function|remove_nonexistent_theirs_shallow
@@ -21,11 +22,15 @@ DECL|function|setup_temporary_shallow
 DECL|function|update_refstatus
 DECL|function|write_one_shallow
 DECL|function|write_shallow_commits
+DECL|function|write_shallow_commits_1
+DECL|macro|SEEN_ONLY
 DECL|macro|TRACE_KEY
+DECL|macro|VERBOSE
 DECL|member|alloc
 DECL|member|commits
 DECL|member|count
 DECL|member|end
+DECL|member|flags
 DECL|member|free
 DECL|member|nr
 DECL|member|nr_bits
