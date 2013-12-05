@@ -29,6 +29,7 @@ DECL|function|wt_status_collect_changes_initial
 DECL|function|wt_status_collect_changes_worktree
 DECL|function|wt_status_collect_untracked
 DECL|function|wt_status_collect_updated_cb
+DECL|function|wt_status_diff_status_string
 DECL|function|wt_status_get_detached_from
 DECL|function|wt_status_get_state
 DECL|function|wt_status_prepare
