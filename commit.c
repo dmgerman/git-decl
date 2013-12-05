@@ -47,6 +47,7 @@ DECL|function|paint_down_to_common
 DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
+DECL|function|parse_commit_or_die
 DECL|function|parse_gpg_output
 DECL|function|parse_signed_commit
 DECL|function|pop_commit
