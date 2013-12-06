@@ -42,6 +42,7 @@ DECL|function|last_exclude_matching_from_lists
 DECL|function|match_basename
 DECL|function|match_pathname
 DECL|function|match_pathspec_depth
+DECL|function|match_pathspec_depth_1
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
 DECL|function|parse_exclude_pattern
