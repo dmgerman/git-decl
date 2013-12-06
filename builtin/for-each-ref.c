@@ -62,6 +62,7 @@ DECL|struct|ref_sort
 DECL|struct|refinfo
 DECL|typedef|cmp_type
 DECL|variable|for_each_ref_usage
+DECL|variable|need_color_reset_at_eol
 DECL|variable|need_symref
 DECL|variable|need_tagged
 DECL|variable|ref_sort
