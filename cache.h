@@ -63,6 +63,7 @@ DECL|function|is_absolute_path
 DECL|function|is_empty_blob_sha1
 DECL|function|is_null_sha1
 DECL|function|lookup_replace_object
+DECL|function|lookup_replace_object_extended
 DECL|function|object_type
 DECL|function|read_sha1_file
 DECL|function|write_str_in_full
