@@ -7,6 +7,8 @@ DECL|function|builtin_diff_tree
 DECL|function|cmd_diff
 DECL|function|refresh_index_quietly
 DECL|function|stuff_change
+DECL|macro|DIFF_NO_INDEX_EXPLICIT
+DECL|macro|DIFF_NO_INDEX_IMPLICIT
 DECL|member|mode
 DECL|member|name
 DECL|member|sha1
