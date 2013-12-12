@@ -46,6 +46,7 @@ DECL|function|get_stale_heads_cb
 DECL|function|guess_ref
 DECL|function|guess_remote_head
 DECL|function|handle_config
+DECL|function|handle_duplicate
 DECL|function|ignore_symref_update
 DECL|function|is_empty_cas
 DECL|function|make_branch
