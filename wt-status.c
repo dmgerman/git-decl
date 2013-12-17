@@ -49,8 +49,10 @@ DECL|function|wt_status_print_unmerged_data
 DECL|function|wt_status_print_unmerged_header
 DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_verbose
+DECL|function|wt_status_truncate_message_at_cut_line
 DECL|macro|quote_path
 DECL|member|buf
 DECL|member|nsha1
 DECL|struct|grab_1st_switch_cbdata
+DECL|variable|cut_line
 DECL|variable|default_wt_status_colors
