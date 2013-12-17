@@ -1,6 +1,7 @@
 DECL|macro|FETCH_PACK_H
 DECL|member|check_self_contained_and_connected
 DECL|member|depth
+DECL|member|diag_url
 DECL|member|fetch_all
 DECL|member|include_tag
 DECL|member|keep_pack
