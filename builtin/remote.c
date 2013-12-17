@@ -33,7 +33,6 @@ DECL|function|get_remote_ref_states
 DECL|function|migrate_file
 DECL|function|mv
 DECL|function|parse_mirror_opt
-DECL|function|postfixcmp
 DECL|function|prune
 DECL|function|prune_remote
 DECL|function|read_branches

@@ -1,9 +1,11 @@
 DECL|function|add_lines
+DECL|function|ends_with
 DECL|function|fprintf_ln
 DECL|function|is_rfc3986_reserved
 DECL|function|is_rfc3986_unreserved
 DECL|function|prefixcmp
 DECL|function|printf_ln
+DECL|function|starts_with
 DECL|function|strbuf_add
 DECL|function|strbuf_add_commented_lines
 DECL|function|strbuf_add_lines
