@@ -238,6 +238,7 @@ DECL|variable|diff_detect_rename_default
 DECL|variable|diff_dirstat_permille_default
 DECL|variable|diff_mnemonic_prefix
 DECL|variable|diff_no_prefix
+DECL|variable|diff_order_file_cfg
 DECL|variable|diff_queued_diff
 DECL|variable|diff_rename_limit_default
 DECL|variable|diff_stat_graph_width
