@@ -1,6 +1,7 @@
 DECL|function|color
 DECL|function|grab_1st_switch
 DECL|function|has_unmerged
+DECL|function|maxwidth
 DECL|function|read_and_strip_branch
 DECL|function|read_line_from_git_path
 DECL|function|show_am_in_progress
