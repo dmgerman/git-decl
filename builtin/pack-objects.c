@@ -6,6 +6,7 @@ DECL|enum|write_one_status
 DECL|function|add_descendants_to_write_order
 DECL|function|add_family_to_write_order
 DECL|function|add_object_entry
+DECL|function|add_object_entry_from_bitmap
 DECL|function|add_objects_in_unpacked_packs
 DECL|function|add_pbase_object
 DECL|function|add_preferred_base
@@ -30,6 +31,7 @@ DECL|function|free_unpacked
 DECL|function|get_delta
 DECL|function|get_object_details
 DECL|function|get_object_list
+DECL|function|get_object_list_from_bitmap
 DECL|function|git_pack_config
 DECL|function|has_sha1_pack_kept_or_nonlocal
 DECL|function|have_duplicate_entry
@@ -66,6 +68,7 @@ DECL|function|write_object
 DECL|function|write_one
 DECL|function|write_pack_file
 DECL|function|write_reuse_object
+DECL|function|write_reused_pack
 DECL|macro|OBJECT_ADDED
 DECL|macro|OPT_ULONG
 DECL|macro|cache_lock
@@ -150,11 +153,15 @@ DECL|variable|progress_state
 DECL|variable|read_mutex
 DECL|variable|reuse_delta
 DECL|variable|reuse_object
+DECL|variable|reuse_packfile
+DECL|variable|reuse_packfile_objects
+DECL|variable|reuse_packfile_offset
 DECL|variable|reused
 DECL|variable|reused_delta
 DECL|variable|to_pack
 DECL|variable|unpack_unreachable
 DECL|variable|unpack_unreachable_expiration
+DECL|variable|use_bitmap_index
 DECL|variable|window
 DECL|variable|window_memory_limit
 DECL|variable|written
