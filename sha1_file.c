@@ -30,6 +30,7 @@ DECL|function|foreach_alt_odb
 DECL|function|free_pack_by_name
 DECL|function|get_delta_base
 DECL|function|get_delta_base_cache_entry
+DECL|function|get_delta_base_sha1
 DECL|function|get_max_fd_limit
 DECL|function|get_size_from_delta
 DECL|function|git_open_noatime

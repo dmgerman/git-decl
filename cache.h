@@ -271,6 +271,7 @@ DECL|member|ce_stat_data
 DECL|member|data
 DECL|member|date_begin
 DECL|member|date_end
+DECL|member|delta_base_sha1
 DECL|member|depth
 DECL|member|dir_hash
 DECL|member|disk_sizep
