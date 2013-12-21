@@ -35,6 +35,7 @@ DECL|function|get_object_list_from_bitmap
 DECL|function|git_pack_config
 DECL|function|has_sha1_pack_kept_or_nonlocal
 DECL|function|have_duplicate_entry
+DECL|function|index_commit_for_bitmap
 DECL|function|init_threaded_search
 DECL|function|ll_find_deltas
 DECL|function|loosen_unused_packed_objects
@@ -130,6 +131,9 @@ DECL|variable|done_pbase_paths_num
 DECL|variable|ignore_packed_keep
 DECL|variable|include_tag
 DECL|variable|incremental
+DECL|variable|indexed_commits
+DECL|variable|indexed_commits_alloc
+DECL|variable|indexed_commits_nr
 DECL|variable|keep_unreachable
 DECL|variable|local
 DECL|variable|max_delta_cache_size
@@ -164,6 +168,7 @@ DECL|variable|unpack_unreachable_expiration
 DECL|variable|use_bitmap_index
 DECL|variable|window
 DECL|variable|window_memory_limit
+DECL|variable|write_bitmap_index
 DECL|variable|written
 DECL|variable|written_delta
 DECL|variable|written_list

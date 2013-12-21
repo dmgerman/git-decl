@@ -11,6 +11,7 @@ DECL|member|idx
 DECL|member|in_pack
 DECL|member|in_pack_header_size
 DECL|member|in_pack_offset
+DECL|member|in_pack_pos
 DECL|member|in_pack_type
 DECL|member|index
 DECL|member|index_size

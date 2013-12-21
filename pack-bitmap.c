@@ -17,6 +17,8 @@ DECL|function|pack_bitmap_filename
 DECL|function|prepare_bitmap_git
 DECL|function|prepare_bitmap_walk
 DECL|function|read_bitmap_1
+DECL|function|rebuild_bitmap
+DECL|function|rebuild_existing_bitmaps
 DECL|function|reuse_partial_packfile_from_bitmap
 DECL|function|should_include
 DECL|function|show_commit
