@@ -21,6 +21,7 @@ DECL|function|cleanup_threaded_search
 DECL|function|cmd_pack_objects
 DECL|function|compute_write_order
 DECL|function|copy_pack_data
+DECL|function|create_object_entry
 DECL|function|delta_cacheable
 DECL|function|do_compress
 DECL|function|done_pbase_path_pos
@@ -31,6 +32,7 @@ DECL|function|get_object_details
 DECL|function|get_object_list
 DECL|function|git_pack_config
 DECL|function|has_sha1_pack_kept_or_nonlocal
+DECL|function|have_duplicate_entry
 DECL|function|init_threaded_search
 DECL|function|ll_find_deltas
 DECL|function|loosen_unused_packed_objects
@@ -57,6 +59,7 @@ DECL|function|threaded_find_deltas
 DECL|function|try_delta
 DECL|function|try_to_free_from_threads
 DECL|function|type_size_sort
+DECL|function|want_object_in_pack
 DECL|function|write_large_blob_data
 DECL|function|write_no_reuse_object
 DECL|function|write_object
