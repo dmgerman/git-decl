@@ -20,6 +20,7 @@ DECL|function|sha1write_ewah_helper
 DECL|function|should_include
 DECL|function|show_commit
 DECL|function|show_object
+DECL|function|write_hash_cache
 DECL|function|write_selected_commits_v1
 DECL|member|bitmap
 DECL|member|bitmaps

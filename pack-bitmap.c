@@ -41,6 +41,7 @@ DECL|member|entry_count
 DECL|member|ext_index
 DECL|member|flags
 DECL|member|hashes
+DECL|member|hashes
 DECL|member|loaded
 DECL|member|map
 DECL|member|map_pos

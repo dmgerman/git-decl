@@ -1,5 +1,6 @@
 DECL|enumerator|BITMAP_FLAG_REUSE
 DECL|enumerator|BITMAP_OPT_FULL_DAG
+DECL|enumerator|BITMAP_OPT_HASH_CACHE
 DECL|enum|pack_bitmap_flags
 DECL|enum|pack_bitmap_opts
 DECL|macro|NEEDS_BITMAP
