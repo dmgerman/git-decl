@@ -7,4 +7,5 @@ DECL|function|show_bisect_vars
 DECL|function|show_commit
 DECL|function|show_edge
 DECL|function|show_object
+DECL|function|show_object_fast
 DECL|variable|rev_list_usage
