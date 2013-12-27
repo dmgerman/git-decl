@@ -98,6 +98,7 @@ DECL|member|close_file
 DECL|member|context
 DECL|member|degraded_cc_to_c
 DECL|member|detect_rename
+DECL|member|diff_path_counter
 DECL|member|dirstat_permille
 DECL|member|file
 DECL|member|filter
