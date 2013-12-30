@@ -65,7 +65,6 @@ DECL|variable|for_each_ref_usage
 DECL|variable|need_symref
 DECL|variable|need_tagged
 DECL|variable|ref_sort
-DECL|variable|sort_atom_limit
 DECL|variable|used_atom
 DECL|variable|used_atom_cnt
 DECL|variable|used_atom_type
