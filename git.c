@@ -1,7 +1,7 @@
 DECL|function|commit_pager_choice
 DECL|function|execv_dashed_external
 DECL|function|handle_alias
-DECL|function|handle_internal_command
+DECL|function|handle_builtin
 DECL|function|handle_options
 DECL|function|main
 DECL|function|run_argv
