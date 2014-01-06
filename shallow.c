@@ -14,7 +14,6 @@ DECL|function|post_assign_shallow
 DECL|function|prepare_shallow_info
 DECL|function|prune_shallow
 DECL|function|register_shallow
-DECL|function|remove_nonexistent_ours_in_pack
 DECL|function|remove_nonexistent_theirs_shallow
 DECL|function|set_alternate_shallow_file
 DECL|function|setup_alternate_shallow
