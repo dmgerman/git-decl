@@ -42,12 +42,17 @@ DECL|enumerator|PUSH_DEFAULT_NOTHING
 DECL|enumerator|PUSH_DEFAULT_SIMPLE
 DECL|enumerator|PUSH_DEFAULT_UNSPECIFIED
 DECL|enumerator|PUSH_DEFAULT_UPSTREAM
+DECL|enumerator|SCLD_EXISTS
+DECL|enumerator|SCLD_FAILED
+DECL|enumerator|SCLD_OK
+DECL|enumerator|SCLD_PERMS
 DECL|enum|branch_track
 DECL|enum|date_mode
 DECL|enum|object_creation_mode
 DECL|enum|object_type
 DECL|enum|push_default_type
 DECL|enum|rebase_setup_type
+DECL|enum|scld_error
 DECL|enum|sharedrepo
 DECL|function|canon_mode
 DECL|function|ce_mode_from_stat
