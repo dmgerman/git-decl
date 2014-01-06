@@ -46,6 +46,7 @@ DECL|enumerator|SCLD_EXISTS
 DECL|enumerator|SCLD_FAILED
 DECL|enumerator|SCLD_OK
 DECL|enumerator|SCLD_PERMS
+DECL|enumerator|SCLD_VANISHED
 DECL|enum|branch_track
 DECL|enum|date_mode
 DECL|enum|object_creation_mode
