@@ -6,6 +6,7 @@ DECL|function|get_pathspec
 DECL|function|parse_pathspec
 DECL|function|pathspec_item_cmp
 DECL|function|prefix_pathspec
+DECL|function|prefix_short_magic
 DECL|function|unsupported_magic
 DECL|member|bit
 DECL|member|mnemonic

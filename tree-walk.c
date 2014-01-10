@@ -1,6 +1,7 @@
 DECL|function|basecmp
 DECL|function|check_entry_match
 DECL|function|decode_tree_entry
+DECL|function|do_match
 DECL|function|entry_clear
 DECL|function|entry_extract
 DECL|function|extended_entry_extract
