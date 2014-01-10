@@ -63,6 +63,7 @@ DECL|function|is_absolute_path
 DECL|function|is_empty_blob_sha1
 DECL|function|is_null_sha1
 DECL|function|lookup_replace_object
+DECL|function|lookup_replace_object_extended
 DECL|function|object_type
 DECL|function|read_sha1_file
 DECL|function|write_str_in_full
@@ -177,12 +178,12 @@ DECL|macro|INIT_DB_QUIET
 DECL|macro|INODE_CHANGED
 DECL|macro|LOCK_DIE_ON_ERROR
 DECL|macro|LOCK_NODEREF
+DECL|macro|LOOKUP_REPLACE_OBJECT
 DECL|macro|MINIMUM_ABBREV
 DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
 DECL|macro|NO_REPLACE_OBJECTS_ENVIRONMENT
 DECL|macro|OWNER_CHANGED
-DECL|macro|READ_SHA1_FILE_REPLACE
 DECL|macro|REFRESH_IGNORE_MISSING
 DECL|macro|REFRESH_IGNORE_SUBMODULES
 DECL|macro|REFRESH_IN_PORCELAIN
