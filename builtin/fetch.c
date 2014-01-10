@@ -54,6 +54,7 @@ DECL|variable|progress
 DECL|variable|prune
 DECL|variable|recurse_submodules
 DECL|variable|recurse_submodules_default
+DECL|variable|shown_url
 DECL|variable|submodule_prefix
 DECL|variable|tags
 DECL|variable|unshallow
