@@ -8,6 +8,7 @@ DECL|function|expand_format
 DECL|function|git_cat_file_config
 DECL|function|is_atom
 DECL|function|print_object_or_die
+DECL|member|delta_base_sha1
 DECL|member|disk_size
 DECL|member|enabled
 DECL|member|format
