@@ -57,7 +57,6 @@ DECL|function|for_each_replace_ref
 DECL|function|for_each_tag_ref
 DECL|function|for_each_tag_ref_submodule
 DECL|function|free_ref_entry
-DECL|function|gen_scanf_fmt
 DECL|function|get_loose_refs
 DECL|function|get_packed_ref
 DECL|function|get_packed_ref_cache
