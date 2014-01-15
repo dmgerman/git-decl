@@ -51,6 +51,7 @@ DECL|function|limit_to_ancestry
 DECL|function|locate_simplify_state
 DECL|function|mark_blob_uninteresting
 DECL|function|mark_parents_uninteresting
+DECL|function|mark_tree_contents_uninteresting
 DECL|function|mark_tree_uninteresting
 DECL|function|parse_revision_opt
 DECL|function|path_name
