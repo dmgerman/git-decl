@@ -1,5 +1,4 @@
 DECL|function|create_pack_revindex
-DECL|function|discard_revindex
 DECL|function|find_pack_revindex
 DECL|function|find_revindex_position
 DECL|function|init_pack_revindex
