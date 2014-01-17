@@ -111,7 +111,6 @@ DECL|macro|stat
 DECL|macro|stat
 DECL|macro|unlink
 DECL|macro|utime
-DECL|macro|write
 DECL|member|it_interval
 DECL|member|it_value
 DECL|member|pw_dir
