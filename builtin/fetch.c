@@ -59,5 +59,6 @@ DECL|variable|submodule_prefix
 DECL|variable|tags
 DECL|variable|unshallow
 DECL|variable|update_head_ok
+DECL|variable|update_shallow
 DECL|variable|upload_pack
 DECL|variable|verbosity

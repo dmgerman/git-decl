@@ -1,5 +1,6 @@
 DECL|macro|FETCH_PACK_H
 DECL|member|check_self_contained_and_connected
+DECL|member|cloning
 DECL|member|depth
 DECL|member|diag_url
 DECL|member|fetch_all
@@ -12,6 +13,7 @@ DECL|member|self_contained_and_connected
 DECL|member|stateless_rpc
 DECL|member|stdin_refs
 DECL|member|unpacklimit
+DECL|member|update_shallow
 DECL|member|uploadpack
 DECL|member|use_thin_pack
 DECL|member|verbose

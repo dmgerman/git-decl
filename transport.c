@@ -53,6 +53,7 @@ DECL|member|fn
 DECL|member|got_remote_heads
 DECL|member|header
 DECL|member|options
+DECL|member|shallow
 DECL|struct|alternate_refs_data
 DECL|struct|bundle_transport_data
 DECL|struct|git_transport_data

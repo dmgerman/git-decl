@@ -28,6 +28,7 @@ DECL|member|buf
 DECL|member|buf
 DECL|member|buf_alloc
 DECL|member|check_self_contained_and_connected
+DECL|member|cloning
 DECL|member|depth
 DECL|member|dry_run
 DECL|member|followtags
@@ -47,8 +48,10 @@ DECL|member|result
 DECL|member|service
 DECL|member|service_name
 DECL|member|service_url
+DECL|member|shallow
 DECL|member|stdin_preamble
 DECL|member|thin
+DECL|member|update_shallow
 DECL|member|verbosity
 DECL|struct|discovery
 DECL|struct|options

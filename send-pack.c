@@ -1,3 +1,5 @@
+DECL|function|advertise_shallow_grafts_buf
+DECL|function|advertise_shallow_grafts_cb
 DECL|function|feed_object
 DECL|function|pack_objects
 DECL|function|receive_status
