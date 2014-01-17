@@ -43,7 +43,6 @@ DECL|member|should_munmap
 DECL|member|size
 DECL|member|status
 DECL|member|two
-DECL|member|xfrm_flags
 DECL|struct|diff_filepair
 DECL|struct|diff_filespec
 DECL|struct|diff_queue_struct
