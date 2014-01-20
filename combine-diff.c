@@ -22,6 +22,7 @@ DECL|function|interesting
 DECL|function|intersect_paths
 DECL|function|make_hunks
 DECL|function|match_string_spaces
+DECL|function|path_path
 DECL|function|reuse_combine_diff
 DECL|function|show_combined_diff
 DECL|function|show_combined_header
