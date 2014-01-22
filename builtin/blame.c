@@ -117,7 +117,6 @@ DECL|member|path
 DECL|member|path
 DECL|member|plno
 DECL|member|plno
-DECL|member|prev
 DECL|member|previous
 DECL|member|refcnt
 DECL|member|revs
