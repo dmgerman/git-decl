@@ -17,10 +17,6 @@ DECL|macro|T_20_39
 DECL|macro|T_40_59
 DECL|macro|T_60_79
 DECL|macro|W
-DECL|macro|get_be32
-DECL|macro|get_be32
-DECL|macro|put_be32
-DECL|macro|put_be32
 DECL|macro|setW
 DECL|macro|setW
 DECL|macro|setW
