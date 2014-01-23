@@ -12,6 +12,8 @@ DECL|macro|bswap32
 DECL|macro|bswap64
 DECL|macro|bswap64
 DECL|macro|bswap64
+DECL|macro|get_be16
+DECL|macro|get_be16
 DECL|macro|get_be32
 DECL|macro|get_be32
 DECL|macro|htonl

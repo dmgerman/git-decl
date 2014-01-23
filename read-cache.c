@@ -42,8 +42,6 @@ DECL|function|is_index_unborn
 DECL|function|is_racy_timestamp
 DECL|function|make_cache_entry
 DECL|function|match_stat_data
-DECL|function|ntoh_l_force_align
-DECL|function|ntoh_s_force_align
 DECL|function|read_blob_data_from_index
 DECL|function|read_index
 DECL|function|read_index_extension
@@ -78,10 +76,6 @@ DECL|macro|INDEX_FORMAT_DEFAULT
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|macro|WRITE_BUFFER_SIZE
 DECL|macro|align_flex_name
-DECL|macro|ntoh_l
-DECL|macro|ntoh_l
-DECL|macro|ntoh_s
-DECL|macro|ntoh_s
 DECL|macro|ondisk_cache_entry_extended_size
 DECL|macro|ondisk_cache_entry_size
 DECL|macro|ondisk_ce_size
