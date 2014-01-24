@@ -23,6 +23,7 @@ DECL|function|dir_entry_new
 DECL|function|dir_inside_of
 DECL|function|directory_exists_in_index
 DECL|function|directory_exists_in_index_icase
+DECL|function|do_match_pathspec
 DECL|function|exclude_matches_pathspec
 DECL|function|file_exists
 DECL|function|fill_directory
@@ -41,8 +42,7 @@ DECL|function|last_exclude_matching_from_list
 DECL|function|last_exclude_matching_from_lists
 DECL|function|match_basename
 DECL|function|match_pathname
-DECL|function|match_pathspec_depth
-DECL|function|match_pathspec_depth_1
+DECL|function|match_pathspec
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
 DECL|function|parse_exclude_pattern
