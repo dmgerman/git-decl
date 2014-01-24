@@ -18,6 +18,7 @@ DECL|member|allow_empty_message
 DECL|member|allow_ff
 DECL|member|allow_rerere_auto
 DECL|member|edit
+DECL|member|gpg_sign
 DECL|member|keep_redundant_commits
 DECL|member|mainline
 DECL|member|no_commit
