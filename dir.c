@@ -63,6 +63,7 @@ DECL|function|treat_leading_path
 DECL|function|treat_one_path
 DECL|function|treat_path
 DECL|function|within_depth
+DECL|macro|DO_MATCH_EXCLUDE
 DECL|member|len
 DECL|member|path
 DECL|struct|path_simplify
