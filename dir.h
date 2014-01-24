@@ -5,6 +5,7 @@ DECL|enumerator|DIR_NO_GITLINKS
 DECL|enumerator|DIR_SHOW_IGNORED
 DECL|enumerator|DIR_SHOW_IGNORED_TOO
 DECL|enumerator|DIR_SHOW_OTHER_DIRECTORIES
+DECL|function|ce_path_match
 DECL|function|is_dot_or_dotdot
 DECL|macro|DIR_H
 DECL|macro|EXC_CMDL
