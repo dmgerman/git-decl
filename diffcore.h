@@ -24,7 +24,6 @@ DECL|member|count
 DECL|member|data
 DECL|member|dirty_submodule
 DECL|member|driver
-DECL|member|funcname_pattern_ident
 DECL|member|has_more_entries
 DECL|member|is_binary
 DECL|member|is_stdin
@@ -44,7 +43,6 @@ DECL|member|should_munmap
 DECL|member|size
 DECL|member|status
 DECL|member|two
-DECL|member|xfrm_flags
 DECL|struct|diff_filepair
 DECL|struct|diff_filespec
 DECL|struct|diff_queue_struct
