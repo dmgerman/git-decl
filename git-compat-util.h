@@ -112,6 +112,7 @@ DECL|macro|sane_istest
 DECL|macro|setenv
 DECL|macro|signed_add_overflows
 DECL|macro|snprintf
+DECL|macro|snprintf
 DECL|macro|strcasestr
 DECL|macro|strchrnul
 DECL|macro|strlcpy
@@ -125,5 +126,6 @@ DECL|macro|unsetenv
 DECL|macro|unsigned_add_overflows
 DECL|macro|va_copy
 DECL|macro|va_copy
+DECL|macro|vsnprintf
 DECL|macro|vsnprintf
 DECL|typedef|try_to_free_t
