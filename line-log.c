@@ -27,7 +27,6 @@ DECL|function|line_log_filter
 DECL|function|line_log_init
 DECL|function|line_log_print
 DECL|function|line_log_rewrite_one
-DECL|function|load_tree_desc
 DECL|function|lookup_line_range
 DECL|function|move_diff_queue
 DECL|function|nth_line
