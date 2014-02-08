@@ -10,6 +10,7 @@ DECL|function|too_many_packs
 DECL|macro|FAILED_RUN
 DECL|variable|aggressive_window
 DECL|variable|builtin_gc_usage
+DECL|variable|detach_auto
 DECL|variable|gc_auto_pack_limit
 DECL|variable|gc_auto_threshold
 DECL|variable|pack_refs
