@@ -11,7 +11,6 @@ DECL|function|add_exclude
 DECL|function|add_exclude_list
 DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_to_list
-DECL|function|check_trailing_spaces
 DECL|function|clear_directory
 DECL|function|clear_exclude_list
 DECL|function|cmp_name
@@ -62,6 +61,7 @@ DECL|function|treat_directory
 DECL|function|treat_leading_path
 DECL|function|treat_one_path
 DECL|function|treat_path
+DECL|function|trim_trailing_spaces
 DECL|function|within_depth
 DECL|member|len
 DECL|member|path
