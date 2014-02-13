@@ -57,6 +57,7 @@ DECL|function|locate_simplify_state
 DECL|function|mark_blob_uninteresting
 DECL|function|mark_parents_uninteresting
 DECL|function|mark_redundant_parents
+DECL|function|mark_tree_contents_uninteresting
 DECL|function|mark_tree_uninteresting
 DECL|function|mark_treesame_root_parents
 DECL|function|one_relevant_parent
