@@ -21,6 +21,7 @@ DECL|function|wt_shortstatus_print
 DECL|function|wt_shortstatus_print_tracking
 DECL|function|wt_shortstatus_status
 DECL|function|wt_shortstatus_unmerged
+DECL|function|wt_status_add_cut_line
 DECL|function|wt_status_check_worktree_changes
 DECL|function|wt_status_collect
 DECL|function|wt_status_collect_changed_cb
