@@ -1,5 +1,5 @@
 DECL|function|check_argc
-DECL|function|check_blob_write
+DECL|function|check_write
 DECL|function|cmd_config
 DECL|function|collect_config
 DECL|function|dup_downcase
