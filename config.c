@@ -11,6 +11,7 @@ DECL|function|config_file_ftell
 DECL|function|config_file_ungetc
 DECL|function|die_bad_number
 DECL|function|do_config_from
+DECL|function|do_config_from_file
 DECL|function|find_beginning_of_line
 DECL|function|get_base_var
 DECL|function|get_extended_base_var
@@ -25,6 +26,7 @@ DECL|function|git_config_from_blob_sha1
 DECL|function|git_config_from_buf
 DECL|function|git_config_from_file
 DECL|function|git_config_from_parameters
+DECL|function|git_config_from_stdin
 DECL|function|git_config_include
 DECL|function|git_config_int
 DECL|function|git_config_int64

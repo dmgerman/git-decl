@@ -366,6 +366,7 @@ DECL|member|typep
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
+DECL|member|use_stdin
 DECL|member|version
 DECL|member|whence
 DECL|member|windows
