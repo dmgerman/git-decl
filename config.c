@@ -90,6 +90,7 @@ DECL|member|multi_replace
 DECL|member|name
 DECL|member|offset
 DECL|member|offset_alloc
+DECL|member|path
 DECL|member|pos
 DECL|member|prev
 DECL|member|seen
