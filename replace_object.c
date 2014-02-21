@@ -5,7 +5,8 @@ DECL|function|register_replace_ref
 DECL|function|replace_object_pos
 DECL|function|replace_sha1_access
 DECL|macro|MAXREPLACEDEPTH
-DECL|member|sha1
+DECL|member|original
+DECL|member|replacement
 DECL|struct|replace_object
 DECL|variable|replace_object
 DECL|variable|replace_object_alloc
