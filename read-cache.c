@@ -29,6 +29,7 @@ DECL|function|discard_index
 DECL|function|expand_name_field
 DECL|function|fill_stat_cache_info
 DECL|function|fill_stat_data
+DECL|function|get_index_format_default
 DECL|function|has_dir_name
 DECL|function|has_file_name
 DECL|function|has_racy_timestamp
