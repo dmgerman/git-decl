@@ -113,6 +113,7 @@ DECL|struct|rewrite
 DECL|struct|rewrites
 DECL|struct|stale_heads_info
 DECL|struct|tips
+DECL|variable|branch_pushremote_name
 DECL|variable|branches
 DECL|variable|branches_alloc
 DECL|variable|branches_nr
