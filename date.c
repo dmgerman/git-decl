@@ -8,6 +8,7 @@ DECL|function|date_midnight
 DECL|function|date_never
 DECL|function|date_noon
 DECL|function|date_now
+DECL|function|date_overflows
 DECL|function|date_pm
 DECL|function|date_string
 DECL|function|date_tea
