@@ -23,6 +23,7 @@ DECL|member|cnt_data
 DECL|member|count
 DECL|member|data
 DECL|member|dirty_submodule
+DECL|member|done_skip_stat_unmatch
 DECL|member|driver
 DECL|member|has_more_entries
 DECL|member|is_binary
@@ -41,6 +42,7 @@ DECL|member|sha1_valid
 DECL|member|should_free
 DECL|member|should_munmap
 DECL|member|size
+DECL|member|skip_stat_unmatch_result
 DECL|member|status
 DECL|member|two
 DECL|struct|diff_filepair

@@ -16,6 +16,7 @@ DECL|function|diff_change
 DECL|function|diff_debug_filepair
 DECL|function|diff_debug_filespec
 DECL|function|diff_debug_queue
+DECL|function|diff_filespec_check_stat_unmatch
 DECL|function|diff_filespec_is_binary
 DECL|function|diff_filespec_is_identical
 DECL|function|diff_filespec_load_driver
