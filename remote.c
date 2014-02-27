@@ -65,6 +65,7 @@ DECL|function|parseopt_push_cas_option
 DECL|function|prepare_ref_index
 DECL|function|pushremote_get
 DECL|function|query_refspecs
+DECL|function|query_refspecs_multiple
 DECL|function|read_branches_file
 DECL|function|read_config
 DECL|function|read_remotes_file
