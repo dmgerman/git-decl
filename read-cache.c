@@ -12,7 +12,6 @@ DECL|function|ce_compare_link
 DECL|function|ce_flush
 DECL|function|ce_match_stat_basic
 DECL|function|ce_modified_check_fs
-DECL|function|ce_path_match
 DECL|function|ce_same_name
 DECL|function|ce_smudge_racily_clean_entry
 DECL|function|ce_write
