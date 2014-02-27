@@ -106,8 +106,6 @@ DECL|macro|CE_REMOVE
 DECL|macro|CE_SKIP_WORKTREE
 DECL|macro|CE_STAGEMASK
 DECL|macro|CE_STAGESHIFT
-DECL|macro|CE_STATE_MASK
-DECL|macro|CE_UNHASHED
 DECL|macro|CE_UNPACKED
 DECL|macro|CE_UPDATE
 DECL|macro|CE_UPTODATE
@@ -225,7 +223,6 @@ DECL|macro|approxidate
 DECL|macro|cache_dir_exists
 DECL|macro|cache_entry_size
 DECL|macro|cache_file_exists
-DECL|macro|cache_name_exists
 DECL|macro|cache_name_is_other
 DECL|macro|cache_name_pos
 DECL|macro|ce_mark_uptodate
@@ -283,6 +280,7 @@ DECL|member|depth
 DECL|member|dir_hash
 DECL|member|disk_sizep
 DECL|member|do_not_close
+DECL|member|ent
 DECL|member|fd
 DECL|member|filename
 DECL|member|flags
@@ -311,7 +309,6 @@ DECL|member|name_begin
 DECL|member|name_end
 DECL|member|name_hash
 DECL|member|name_hash_initialized
-DECL|member|next
 DECL|member|next
 DECL|member|next
 DECL|member|next
