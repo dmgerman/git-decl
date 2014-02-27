@@ -58,7 +58,6 @@ DECL|function|prepare_initial
 DECL|function|prepare_lines
 DECL|function|read_ancestry
 DECL|function|reset_scanned_flag
-DECL|function|same_suspect
 DECL|function|sanity_check_refcnt
 DECL|function|setup_blame_list
 DECL|function|split_blame
@@ -117,7 +116,6 @@ DECL|member|path
 DECL|member|path
 DECL|member|plno
 DECL|member|plno
-DECL|member|prev
 DECL|member|previous
 DECL|member|refcnt
 DECL|member|revs
