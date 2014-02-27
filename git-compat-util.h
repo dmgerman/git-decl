@@ -137,6 +137,7 @@ DECL|macro|setenv
 DECL|macro|setitimer
 DECL|macro|signed_add_overflows
 DECL|macro|snprintf
+DECL|macro|snprintf
 DECL|macro|strcasestr
 DECL|macro|strchrnul
 DECL|macro|strlcpy
@@ -150,6 +151,7 @@ DECL|macro|unsetenv
 DECL|macro|unsigned_add_overflows
 DECL|macro|va_copy
 DECL|macro|va_copy
+DECL|macro|vsnprintf
 DECL|macro|vsnprintf
 DECL|member|it_interval
 DECL|member|it_value
