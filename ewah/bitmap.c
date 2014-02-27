@@ -1,0 +1,15 @@
+DECL|function|bitmap_and_not
+DECL|function|bitmap_clear
+DECL|function|bitmap_each_bit
+DECL|function|bitmap_equals
+DECL|function|bitmap_free
+DECL|function|bitmap_get
+DECL|function|bitmap_new
+DECL|function|bitmap_or_ewah
+DECL|function|bitmap_popcount
+DECL|function|bitmap_reset
+DECL|function|bitmap_set
+DECL|function|bitmap_to_ewah
+DECL|function|ewah_to_bitmap
+DECL|macro|BLOCK
+DECL|macro|MASK
