@@ -48,7 +48,6 @@ DECL|function|read_index
 DECL|function|read_index_extension
 DECL|function|read_index_from
 DECL|function|read_index_unmerged
-DECL|function|record_intent_to_add
 DECL|function|refresh_cache_ent
 DECL|function|refresh_cache_entry
 DECL|function|refresh_index
@@ -58,6 +57,7 @@ DECL|function|remove_marked_cache_entries
 DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_index_entry
+DECL|function|set_object_name_for_intent_to_add_entry
 DECL|function|show_file
 DECL|function|stat_validity_check
 DECL|function|stat_validity_clear
