@@ -1,5 +1,6 @@
 DECL|function|archive_format_from_filename
 DECL|function|format_subst
+DECL|function|git_default_archive_config
 DECL|function|lookup_archiver
 DECL|function|match_extension
 DECL|function|parse_archive_args
@@ -22,3 +23,4 @@ DECL|variable|alloc_archivers
 DECL|variable|archive_usage
 DECL|variable|archivers
 DECL|variable|nr_archivers
+DECL|variable|remote_allow_unreachable
