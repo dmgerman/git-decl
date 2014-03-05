@@ -5,8 +5,6 @@ DECL|function|child_handler
 DECL|function|copy_to_log
 DECL|function|daemon_die
 DECL|function|daemon_error
-DECL|function|daemonize
-DECL|function|daemonize
 DECL|function|drop_privileges
 DECL|function|drop_privileges
 DECL|function|enable_service

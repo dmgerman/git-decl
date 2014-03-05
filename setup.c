@@ -4,6 +4,7 @@ DECL|function|check_filename
 DECL|function|check_repository_format
 DECL|function|check_repository_format_gently
 DECL|function|check_repository_format_version
+DECL|function|daemonize
 DECL|function|die_verify_filename
 DECL|function|get_device_or_die
 DECL|function|git_config_perm
