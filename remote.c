@@ -23,6 +23,7 @@ DECL|function|apply_refspecs
 DECL|function|branch_get
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
+DECL|function|check_push_refs
 DECL|function|clear_cas_option
 DECL|function|copy_ref
 DECL|function|copy_ref_list
