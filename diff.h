@@ -109,7 +109,6 @@ DECL|member|found_changes
 DECL|member|found_follow
 DECL|member|interhunkcontext
 DECL|member|irreversible_delete
-DECL|member|len
 DECL|member|line_termination
 DECL|member|mode
 DECL|member|mode

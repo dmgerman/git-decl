@@ -31,7 +31,10 @@ DECL|member|is_stdin
 DECL|member|is_unmerged
 DECL|member|mode
 DECL|member|nr
+DECL|member|obj
 DECL|member|one
+DECL|member|order
+DECL|member|orig_order
 DECL|member|path
 DECL|member|queue
 DECL|member|rename_used
@@ -48,3 +51,5 @@ DECL|member|two
 DECL|struct|diff_filepair
 DECL|struct|diff_filespec
 DECL|struct|diff_queue_struct
+DECL|struct|obj_order
+DECL|typedef|obj_path_fn_t
