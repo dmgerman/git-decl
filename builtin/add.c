@@ -10,15 +10,11 @@ DECL|function|prune_directory
 DECL|function|refresh
 DECL|function|run_add_interactive
 DECL|function|update_callback
-DECL|function|update_files_in_cache
-DECL|function|warn_add_would_remove
 DECL|macro|ADDREMOVE_DEFAULT
 DECL|member|add_errors
 DECL|member|flags
-DECL|member|warn_add_would_remove
 DECL|struct|update_callback_data
 DECL|variable|add_interactive
-DECL|variable|add_would_remove_warning
 DECL|variable|addremove
 DECL|variable|addremove_explicit
 DECL|variable|builtin_add_options
