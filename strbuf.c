@@ -3,7 +3,6 @@ DECL|function|ends_with
 DECL|function|fprintf_ln
 DECL|function|is_rfc3986_reserved
 DECL|function|is_rfc3986_unreserved
-DECL|function|prefixcmp
 DECL|function|printf_ln
 DECL|function|starts_with
 DECL|function|strbuf_add
@@ -41,6 +40,5 @@ DECL|function|strbuf_splice
 DECL|function|strbuf_split_buf
 DECL|function|strbuf_trim
 DECL|function|strbuf_vaddf
-DECL|function|suffixcmp
 DECL|macro|STRBUF_MAXLINK
 DECL|variable|strbuf_slopbuf
