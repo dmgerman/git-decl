@@ -12,13 +12,9 @@ DECL|function|run_add_interactive
 DECL|function|update_callback
 DECL|function|update_files_in_cache
 DECL|function|warn_add_would_remove
-DECL|function|warn_pathless_add
 DECL|macro|ADDREMOVE_DEFAULT
-DECL|macro|WARN_IMPLICIT_DOT
 DECL|member|add_errors
 DECL|member|flags
-DECL|member|implicit_dot
-DECL|member|implicit_dot_len
 DECL|member|warn_add_would_remove
 DECL|struct|update_callback_data
 DECL|variable|add_interactive
@@ -34,10 +30,8 @@ DECL|variable|ignore_missing
 DECL|variable|ignored_too
 DECL|variable|intent_to_add
 DECL|variable|lock_file
-DECL|variable|option_with_implicit_dot
 DECL|variable|patch_interactive
 DECL|variable|refresh_only
-DECL|variable|short_option_with_implicit_dot
 DECL|variable|show_only
 DECL|variable|take_worktree_changes
 DECL|variable|verbose
