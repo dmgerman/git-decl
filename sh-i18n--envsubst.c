@@ -10,7 +10,6 @@ DECL|function|print_variables
 DECL|function|sorted_string_list_member
 DECL|function|string_list_append
 DECL|function|string_list_init
-DECL|function|string_list_member
 DECL|function|string_list_sort
 DECL|function|subst_from_stdin
 DECL|member|item
