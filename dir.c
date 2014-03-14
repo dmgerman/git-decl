@@ -62,6 +62,7 @@ DECL|function|treat_directory
 DECL|function|treat_leading_path
 DECL|function|treat_one_path
 DECL|function|treat_path
+DECL|function|trim_trailing_spaces
 DECL|function|within_depth
 DECL|macro|DO_MATCH_DIRECTORY
 DECL|macro|DO_MATCH_EXCLUDE
