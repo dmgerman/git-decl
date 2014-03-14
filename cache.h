@@ -264,6 +264,7 @@ DECL|member|base
 DECL|member|base
 DECL|member|base_dir
 DECL|member|base_dir_len
+DECL|member|blob
 DECL|member|cache
 DECL|member|cache_alloc
 DECL|member|cache_changed
@@ -283,6 +284,7 @@ DECL|member|disk_sizep
 DECL|member|do_not_close
 DECL|member|ent
 DECL|member|fd
+DECL|member|file
 DECL|member|filename
 DECL|member|flags
 DECL|member|fn
@@ -362,6 +364,7 @@ DECL|member|typep
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
+DECL|member|use_stdin
 DECL|member|version
 DECL|member|whence
 DECL|member|windows
@@ -373,6 +376,7 @@ DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|struct|checkout
 DECL|struct|config_include_data
+DECL|struct|git_config_source
 DECL|struct|git_zstream
 DECL|struct|ident_split
 DECL|struct|index_state

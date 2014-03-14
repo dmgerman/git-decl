@@ -1,5 +1,5 @@
 DECL|function|check_argc
-DECL|function|check_blob_write
+DECL|function|check_write
 DECL|function|cmd_config
 DECL|function|collect_config
 DECL|function|dup_downcase
@@ -55,8 +55,7 @@ DECL|variable|get_colorbool_found
 DECL|variable|get_colorbool_slot
 DECL|variable|get_colorbool_slot
 DECL|variable|get_diff_color_found
-DECL|variable|given_config_blob
-DECL|variable|given_config_file
+DECL|variable|given_config_source
 DECL|variable|key
 DECL|variable|key_delim
 DECL|variable|key_regexp
