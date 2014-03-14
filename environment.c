@@ -22,6 +22,7 @@ DECL|variable|assume_unchanged
 DECL|variable|auto_crlf
 DECL|variable|autorebase
 DECL|variable|big_file_threshold
+DECL|variable|check_replace_refs
 DECL|variable|check_stat
 DECL|variable|comment_line_char
 DECL|variable|core_apply_sparse_checkout
@@ -64,7 +65,6 @@ DECL|variable|pager_use_color
 DECL|variable|precomposed_unicode
 DECL|variable|prefer_symlink_refs
 DECL|variable|push_default
-DECL|variable|read_replace_refs
 DECL|variable|repository_format_version
 DECL|variable|safe_crlf
 DECL|variable|shared_repository
