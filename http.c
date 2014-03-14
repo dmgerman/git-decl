@@ -40,6 +40,7 @@ DECL|function|release_active_slot
 DECL|function|release_http_object_request
 DECL|function|release_http_pack_request
 DECL|function|run_active_slot
+DECL|function|run_one_slot
 DECL|function|set_curl_keepalive
 DECL|function|set_curl_keepalive
 DECL|function|set_curl_keepalive
