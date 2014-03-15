@@ -137,6 +137,7 @@ DECL|variable|indexed_commits_nr
 DECL|variable|keep_unreachable
 DECL|variable|local
 DECL|variable|max_delta_cache_size
+DECL|variable|no_closure_warning
 DECL|variable|non_empty
 DECL|variable|nr_result
 DECL|variable|nr_written
