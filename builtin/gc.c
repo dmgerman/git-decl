@@ -8,6 +8,7 @@ DECL|function|remove_pidfile_on_signal
 DECL|function|too_many_loose_objects
 DECL|function|too_many_packs
 DECL|macro|FAILED_RUN
+DECL|variable|aggressive_depth
 DECL|variable|aggressive_window
 DECL|variable|builtin_gc_usage
 DECL|variable|detach_auto
