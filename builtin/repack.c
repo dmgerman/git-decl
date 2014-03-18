@@ -8,5 +8,6 @@ DECL|macro|ALL_INTO_ONE
 DECL|macro|LOOSEN_UNREACHABLE
 DECL|variable|delta_base_offset
 DECL|variable|git_repack_usage
+DECL|variable|pack_kept_objects
 DECL|variable|packdir
 DECL|variable|packtmp
