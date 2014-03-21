@@ -15,6 +15,7 @@ DECL|function|send_client_data
 DECL|function|send_ref
 DECL|function|upload_pack
 DECL|function|upload_pack_config
+DECL|function|write_one_shallow
 DECL|macro|CLIENT_SHALLOW
 DECL|macro|COMMON_KNOWN
 DECL|macro|HIDDEN_REF
