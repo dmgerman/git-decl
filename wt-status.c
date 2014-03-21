@@ -1,6 +1,7 @@
 DECL|function|color
 DECL|function|grab_1st_switch
 DECL|function|has_unmerged
+DECL|function|maxwidth
 DECL|function|read_and_strip_branch
 DECL|function|read_line_from_git_path
 DECL|function|show_am_in_progress
@@ -50,6 +51,7 @@ DECL|function|wt_status_print_unmerged_header
 DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_verbose
 DECL|function|wt_status_truncate_message_at_cut_line
+DECL|function|wt_status_unmerged_status_string
 DECL|macro|quote_path
 DECL|member|buf
 DECL|member|nsha1
