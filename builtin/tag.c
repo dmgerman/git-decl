@@ -16,11 +16,17 @@ DECL|function|match_pattern
 DECL|function|match_points_at
 DECL|function|parse_msg_arg
 DECL|function|parse_opt_points_at
+DECL|function|parse_opt_sort
 DECL|function|show_reference
 DECL|function|show_tag_lines
+DECL|function|sort_by_version
 DECL|function|strbuf_check_tag_ref
 DECL|function|verify_tag
 DECL|function|write_tag_body
+DECL|macro|REVERSE_SORT
+DECL|macro|SORT_MASK
+DECL|macro|STRCMP_SORT
+DECL|macro|VERCMP_SORT
 DECL|member|buf
 DECL|member|cleanup_mode
 DECL|member|given
@@ -28,6 +34,8 @@ DECL|member|lines
 DECL|member|message_given
 DECL|member|patterns
 DECL|member|sign
+DECL|member|sort
+DECL|member|tags
 DECL|member|with_commit
 DECL|struct|create_tag_options
 DECL|struct|msg_arg
