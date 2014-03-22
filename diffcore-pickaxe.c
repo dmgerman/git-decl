@@ -1,8 +1,6 @@
 DECL|function|contains
 DECL|function|diff_grep
 DECL|function|diffcore_pickaxe
-DECL|function|diffcore_pickaxe_count
-DECL|function|diffcore_pickaxe_grep
 DECL|function|diffgrep_consume
 DECL|function|has_changes
 DECL|function|pickaxe
