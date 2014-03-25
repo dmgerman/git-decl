@@ -1,5 +1,6 @@
 DECL|enumerator|CLEANUP_ALL
 DECL|enumerator|CLEANUP_NONE
+DECL|enumerator|CLEANUP_SCISSORS
 DECL|enumerator|CLEANUP_SPACE
 DECL|enumerator|COMMIT_AS_IS
 DECL|enumerator|COMMIT_NORMAL
