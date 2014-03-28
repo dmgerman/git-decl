@@ -21,7 +21,9 @@ DECL|function|prepare_shell_cmd
 DECL|function|run_command
 DECL|function|run_command_v_opt
 DECL|function|run_command_v_opt_cd_env
-DECL|function|run_hook
+DECL|function|run_hook_le
+DECL|function|run_hook_ve
+DECL|function|run_hook_with_custom_index
 DECL|function|run_thread
 DECL|function|sane_execvp
 DECL|function|set_cloexec

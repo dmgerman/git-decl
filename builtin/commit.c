@@ -39,6 +39,7 @@ DECL|function|read_commit_message
 DECL|function|refresh_cache_or_die
 DECL|function|rest_is_empty
 DECL|function|rollback_index_files
+DECL|function|run_commit_hook
 DECL|function|run_rewrite_hook
 DECL|function|run_status
 DECL|function|sane_ident_split
