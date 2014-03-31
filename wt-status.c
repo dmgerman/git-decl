@@ -53,6 +53,7 @@ DECL|function|wt_status_print_updated
 DECL|function|wt_status_print_verbose
 DECL|function|wt_status_truncate_message_at_cut_line
 DECL|function|wt_status_unmerged_status_string
+DECL|macro|LABEL
 DECL|macro|quote_path
 DECL|member|buf
 DECL|member|nsha1

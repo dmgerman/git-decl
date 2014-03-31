@@ -44,6 +44,7 @@ DECL|member|index_status
 DECL|member|is_initial
 DECL|member|merge_in_progress
 DECL|member|new_submodule_commits
+DECL|member|no_gettext
 DECL|member|nowarn
 DECL|member|null_termination
 DECL|member|onto
