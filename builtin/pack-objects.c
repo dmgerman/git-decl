@@ -48,6 +48,7 @@ DECL|function|option_parse_index_version
 DECL|function|option_parse_ulong
 DECL|function|option_parse_unpack_unreachable
 DECL|function|pack_offset_sort
+DECL|function|pack_options_allow_reuse
 DECL|function|pbase_tree_cache_ix
 DECL|function|pbase_tree_cache_ix_incr
 DECL|function|pbase_tree_get
