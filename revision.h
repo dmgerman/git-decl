@@ -34,6 +34,7 @@ DECL|macro|SEEN
 DECL|macro|SHOWN
 DECL|macro|SYMMETRIC_LEFT
 DECL|macro|TMP_MARK
+DECL|macro|TRACK_LINEAR
 DECL|macro|TREESAME
 DECL|macro|UNINTERESTING
 DECL|member|abbrev
@@ -48,6 +49,7 @@ DECL|member|bisect
 DECL|member|blob_objects
 DECL|member|boundary
 DECL|member|boundary_commits
+DECL|member|break_bar
 DECL|member|cherry_mark
 DECL|member|cherry_pick
 DECL|member|children
@@ -90,6 +92,7 @@ DECL|member|left_right
 DECL|member|limited
 DECL|member|line_level_traverse
 DECL|member|line_log_data
+DECL|member|linear
 DECL|member|log_reencode
 DECL|member|loginfo
 DECL|member|mailmap
@@ -115,6 +118,7 @@ DECL|member|pending
 DECL|member|prefix
 DECL|member|preserve_subject
 DECL|member|pretty_given
+DECL|member|previous_parents
 DECL|member|print_parents
 DECL|member|prune
 DECL|member|prune_data
@@ -152,6 +156,8 @@ DECL|member|submodule
 DECL|member|tag_objects
 DECL|member|topo_order
 DECL|member|total
+DECL|member|track_first_time
+DECL|member|track_linear
 DECL|member|tree_objects
 DECL|member|treesame
 DECL|member|tweak

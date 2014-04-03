@@ -89,6 +89,7 @@ DECL|function|simplify_commit
 DECL|function|simplify_merges
 DECL|function|simplify_one
 DECL|function|still_interesting
+DECL|function|track_linear
 DECL|function|try_to_simplify_commit
 DECL|function|update_treesame
 DECL|function|want_ancestry
