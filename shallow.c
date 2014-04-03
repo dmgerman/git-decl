@@ -15,6 +15,8 @@ DECL|function|prepare_shallow_info
 DECL|function|prune_shallow
 DECL|function|register_shallow
 DECL|function|remove_nonexistent_theirs_shallow
+DECL|function|remove_temporary_shallow
+DECL|function|remove_temporary_shallow_on_signal
 DECL|function|set_alternate_shallow_file
 DECL|function|setup_alternate_shallow
 DECL|function|setup_temporary_shallow
@@ -44,3 +46,4 @@ DECL|struct|write_shallow_data
 DECL|variable|alternate_shallow_file
 DECL|variable|is_shallow
 DECL|variable|shallow_stat
+DECL|variable|temporary_shallow
