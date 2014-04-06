@@ -1,9 +1,14 @@
 DECL|function|diff_might_be_rename
 DECL|function|diff_root_tree_sha1
+DECL|function|diff_tree_paths
 DECL|function|diff_tree_sha1
-DECL|function|emit_diff
+DECL|function|emit_diff_first_parent_only
+DECL|function|emit_path
+DECL|function|ll_diff_tree_paths
 DECL|function|ll_diff_tree_sha1
-DECL|function|show_path
+DECL|function|path_appendnew
 DECL|function|skip_uninteresting
 DECL|function|tree_entry_pathcmp
 DECL|function|try_to_follow_renames
+DECL|function|update_tp_entries
+DECL|macro|S_IFXMIN_NEQ

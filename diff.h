@@ -121,6 +121,7 @@ DECL|member|output_prefix_data
 DECL|member|output_prefix_length
 DECL|member|parent
 DECL|member|path
+DECL|member|pathchange
 DECL|member|pathspec
 DECL|member|pickaxe
 DECL|member|pickaxe_opts
@@ -153,3 +154,4 @@ DECL|typedef|add_remove_fn_t
 DECL|typedef|change_fn_t
 DECL|typedef|diff_format_fn_t
 DECL|typedef|diff_prefix_fn_t
+DECL|typedef|pathchange_fn_t
