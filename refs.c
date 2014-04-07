@@ -167,6 +167,7 @@ DECL|member|fp
 DECL|member|have_old
 DECL|member|len
 DECL|member|lock
+DECL|member|lock
 DECL|member|loose
 DECL|member|msg_fmt
 DECL|member|name
