@@ -7,13 +7,10 @@ DECL|function|parse_cmd_update
 DECL|function|parse_cmd_verify
 DECL|function|parse_next_sha1
 DECL|function|parse_refname
-DECL|function|update_alloc
 DECL|function|update_refs_stdin
 DECL|macro|PARSE_SHA1_ALLOW_EMPTY
 DECL|macro|PARSE_SHA1_OLD
 DECL|variable|git_update_ref_usage
 DECL|variable|line_termination
+DECL|variable|transaction
 DECL|variable|update_flags
-DECL|variable|updates
-DECL|variable|updates_alloc
-DECL|variable|updates_count
