@@ -1,6 +1,6 @@
-DECL|enumerator|DIE_ON_ERR
-DECL|enumerator|MSG_ON_ERR
-DECL|enumerator|QUIET_ON_ERR
+DECL|enumerator|UPDATE_REFS_DIE_ON_ERR
+DECL|enumerator|UPDATE_REFS_MSG_ON_ERR
+DECL|enumerator|UPDATE_REFS_QUIET_ON_ERR
 DECL|enum|action_on_err
 DECL|function|has_glob_specials
 DECL|macro|PACK_REFS_ALL
