@@ -8,6 +8,7 @@ DECL|function|acquire_packed_ref_cache
 DECL|function|add_entry_to_dir
 DECL|function|add_packed_ref
 DECL|function|add_ref
+DECL|function|add_update
 DECL|function|bad_ref_char
 DECL|function|check_refname_component
 DECL|function|check_refname_format
@@ -101,6 +102,13 @@ DECL|function|ref_exists
 DECL|function|ref_is_hidden
 DECL|function|ref_msg
 DECL|function|ref_resolves_to_object
+DECL|function|ref_transaction_begin
+DECL|function|ref_transaction_commit
+DECL|function|ref_transaction_create
+DECL|function|ref_transaction_delete
+DECL|function|ref_transaction_free
+DECL|function|ref_transaction_rollback
+DECL|function|ref_transaction_update
 DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
 DECL|function|refname_match
@@ -144,6 +152,7 @@ DECL|macro|REF_INCOMPLETE
 DECL|macro|REF_KNOWS_PEELED
 DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc
+DECL|member|alloc
 DECL|member|base
 DECL|member|cb_data
 DECL|member|cb_data
@@ -165,6 +174,7 @@ DECL|member|name
 DECL|member|next
 DECL|member|next
 DECL|member|nr
+DECL|member|nr
 DECL|member|oldrefname
 DECL|member|packed
 DECL|member|packed_refs
@@ -183,6 +193,7 @@ DECL|member|str
 DECL|member|subdir
 DECL|member|trim
 DECL|member|u
+DECL|member|updates
 DECL|member|validity
 DECL|member|value
 DECL|struct|name_conflict_cb
@@ -194,6 +205,7 @@ DECL|struct|ref_entry
 DECL|struct|ref_entry_cb
 DECL|struct|ref_filter
 DECL|struct|ref_to_prune
+DECL|struct|ref_transaction
 DECL|struct|ref_value
 DECL|struct|string_slice
 DECL|struct|warn_if_dangling_data
