@@ -5,12 +5,12 @@ DECL|function|parse_cmd_delete
 DECL|function|parse_cmd_option
 DECL|function|parse_cmd_update
 DECL|function|parse_cmd_verify
-DECL|function|parse_next_arg
+DECL|function|parse_next_sha1
 DECL|function|parse_refname
 DECL|function|update_alloc
 DECL|function|update_refs_stdin
-DECL|function|update_store_new_sha1
-DECL|function|update_store_old_sha1
+DECL|macro|PARSE_SHA1_ALLOW_EMPTY
+DECL|macro|PARSE_SHA1_OLD
 DECL|variable|git_update_ref_usage
 DECL|variable|line_termination
 DECL|variable|update_flags
