@@ -184,9 +184,9 @@ DECL|member|packed_refs
 DECL|member|pattern
 DECL|member|peeled
 DECL|member|ref_cache
-DECL|member|ref_name
 DECL|member|ref_to_prune
 DECL|member|referrers
+DECL|member|refname
 DECL|member|refname
 DECL|member|refname
 DECL|member|root
