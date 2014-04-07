@@ -197,6 +197,7 @@ DECL|member|sorted
 DECL|member|str
 DECL|member|subdir
 DECL|member|trim
+DECL|member|type
 DECL|member|u
 DECL|member|updates
 DECL|member|validity
