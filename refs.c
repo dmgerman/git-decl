@@ -136,7 +136,6 @@ DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|update_ref_lock
 DECL|function|update_ref_write
-DECL|function|update_refs
 DECL|function|verify_lock
 DECL|function|warn_dangling_symref
 DECL|function|warn_if_dangling_symref
@@ -161,9 +160,11 @@ DECL|member|entries
 DECL|member|flag
 DECL|member|flags
 DECL|member|flags
+DECL|member|flags
 DECL|member|fn
 DECL|member|fn
 DECL|member|fp
+DECL|member|have_old
 DECL|member|len
 DECL|member|lock
 DECL|member|loose
@@ -171,16 +172,19 @@ DECL|member|msg_fmt
 DECL|member|name
 DECL|member|name
 DECL|member|name
+DECL|member|new_sha1
 DECL|member|next
 DECL|member|next
 DECL|member|nr
 DECL|member|nr
+DECL|member|old_sha1
 DECL|member|oldrefname
 DECL|member|packed
 DECL|member|packed_refs
 DECL|member|pattern
 DECL|member|peeled
 DECL|member|ref_cache
+DECL|member|ref_name
 DECL|member|ref_to_prune
 DECL|member|referrers
 DECL|member|refname
@@ -206,6 +210,7 @@ DECL|struct|ref_entry_cb
 DECL|struct|ref_filter
 DECL|struct|ref_to_prune
 DECL|struct|ref_transaction
+DECL|struct|ref_update
 DECL|struct|ref_value
 DECL|struct|string_slice
 DECL|struct|warn_if_dangling_data
