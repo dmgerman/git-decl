@@ -7,6 +7,7 @@ DECL|function|cmd_update_index
 DECL|function|do_reupdate
 DECL|function|do_unresolve
 DECL|function|mark_ce_flags
+DECL|function|parse_new_style_cacheinfo
 DECL|function|process_directory
 DECL|function|process_lstat_error
 DECL|function|process_path
