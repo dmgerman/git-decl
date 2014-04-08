@@ -83,6 +83,7 @@ DECL|member|graph
 DECL|member|grep_filter
 DECL|member|ignore_merges
 DECL|member|ignore_missing
+DECL|member|ignore_missing_links
 DECL|member|include_check
 DECL|member|include_check_data
 DECL|member|item
