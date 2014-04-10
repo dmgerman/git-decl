@@ -346,6 +346,7 @@ DECL|member|sec
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|sha1
 DECL|member|sizep
 DECL|member|timestamp
 DECL|member|total_in

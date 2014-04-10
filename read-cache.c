@@ -67,6 +67,8 @@ DECL|function|unmerged_index
 DECL|function|update_index_if_able
 DECL|function|verify_dotfile
 DECL|function|verify_hdr
+DECL|function|verify_index
+DECL|function|verify_index_from
 DECL|function|verify_path
 DECL|function|write_index
 DECL|function|write_index_ext_header
