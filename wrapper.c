@@ -25,6 +25,7 @@ DECL|function|xmallocz
 DECL|function|xmemdupz
 DECL|function|xmkstemp
 DECL|function|xmkstemp_mode
+DECL|function|xpread
 DECL|function|xread
 DECL|function|xrealloc
 DECL|function|xstrdup
