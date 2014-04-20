@@ -15,6 +15,7 @@ DECL|function|get_commit
 DECL|function|get_object_mark
 DECL|function|get_tags_and_duplicates
 DECL|function|handle_commit
+DECL|function|handle_deletes
 DECL|function|handle_tag
 DECL|function|handle_tags_and_duplicates
 DECL|function|handle_tail
