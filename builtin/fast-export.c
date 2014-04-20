@@ -37,6 +37,8 @@ DECL|variable|idnums
 DECL|variable|last_idnum
 DECL|variable|no_data
 DECL|variable|progress
+DECL|variable|refspecs
+DECL|variable|refspecs_nr
 DECL|variable|signed_tag_mode
 DECL|variable|tag_of_filtered_mode
 DECL|variable|use_done_feature
