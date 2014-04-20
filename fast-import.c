@@ -120,6 +120,7 @@ DECL|member|branch_tree
 DECL|member|buf
 DECL|member|data
 DECL|member|data
+DECL|member|delete
 DECL|member|delta_depth
 DECL|member|depth
 DECL|member|depth
