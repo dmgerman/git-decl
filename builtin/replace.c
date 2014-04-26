@@ -4,7 +4,10 @@ DECL|enumerator|REPLACE_FORMAT_SHORT
 DECL|enum|replace_format
 DECL|function|cmd_replace
 DECL|function|delete_replace_ref
+DECL|function|edit_and_replace
+DECL|function|export_object
 DECL|function|for_each_replace_name
+DECL|function|import_object
 DECL|function|list_replace_refs
 DECL|function|replace_object
 DECL|function|replace_object_sha1
