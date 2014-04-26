@@ -7,6 +7,7 @@ DECL|function|delete_replace_ref
 DECL|function|for_each_replace_name
 DECL|function|list_replace_refs
 DECL|function|replace_object
+DECL|function|replace_object_sha1
 DECL|function|show_reference
 DECL|member|format
 DECL|member|pattern
