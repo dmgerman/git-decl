@@ -3,7 +3,10 @@ DECL|enumerator|PEEL_INVALID
 DECL|enumerator|PEEL_IS_SYMREF
 DECL|enumerator|PEEL_NON_TAG
 DECL|enumerator|PEEL_PEELED
+DECL|enumerator|REF_TRANSACTION_CLOSED
+DECL|enumerator|REF_TRANSACTION_OPEN
 DECL|enum|peel_status
+DECL|enum|ref_transaction_state
 DECL|function|acquire_packed_ref_cache
 DECL|function|add_entry_to_dir
 DECL|function|add_packed_ref
@@ -210,6 +213,7 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sorted
+DECL|member|state
 DECL|member|str
 DECL|member|subdir
 DECL|member|trim
