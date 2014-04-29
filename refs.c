@@ -138,7 +138,6 @@ DECL|function|substitute_branch_name
 DECL|function|try_remove_empty_parents
 DECL|function|unlock_ref
 DECL|function|update_ref
-DECL|function|update_ref_write
 DECL|function|verify_lock
 DECL|function|warn_dangling_symref
 DECL|function|warn_dangling_symrefs
