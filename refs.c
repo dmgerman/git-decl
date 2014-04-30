@@ -180,6 +180,7 @@ DECL|member|lock
 DECL|member|lock
 DECL|member|loose
 DECL|member|msg
+DECL|member|msg
 DECL|member|msg_fmt
 DECL|member|name
 DECL|member|name
