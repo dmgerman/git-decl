@@ -119,6 +119,7 @@ DECL|function|release_packed_ref_cache
 DECL|function|remove_empty_directories
 DECL|function|remove_entry
 DECL|function|rename_ref
+DECL|function|rename_ref_available
 DECL|function|rename_tmp_log
 DECL|function|repack_without_refs
 DECL|function|report_refname_conflict
