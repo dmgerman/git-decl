@@ -31,6 +31,7 @@ DECL|function|list_paths
 DECL|function|message_is_empty
 DECL|function|opt_parse_m
 DECL|function|parse_and_validate_options
+DECL|function|parse_force_date
 DECL|function|parse_status_slot
 DECL|function|prepare_index
 DECL|function|prepare_to_commit
