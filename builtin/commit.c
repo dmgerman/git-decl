@@ -12,6 +12,7 @@ DECL|enumerator|STATUS_FORMAT_SHORT
 DECL|enumerator|STATUS_FORMAT_UNSPECIFIED
 DECL|enum|status_format
 DECL|function|add_remove_files
+DECL|function|author_date_is_interesting
 DECL|function|cmd_commit
 DECL|function|cmd_status
 DECL|function|commit_index_files
