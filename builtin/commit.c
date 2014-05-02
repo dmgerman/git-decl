@@ -16,7 +16,6 @@ DECL|function|cmd_commit
 DECL|function|cmd_status
 DECL|function|commit_index_files
 DECL|function|create_base_index
-DECL|function|cut_ident_timestamp_part
 DECL|function|determine_author_info
 DECL|function|determine_whence
 DECL|function|dry_run_commit
@@ -43,6 +42,7 @@ DECL|function|run_commit_hook
 DECL|function|run_rewrite_hook
 DECL|function|run_status
 DECL|function|sane_ident_split
+DECL|function|split_ident_or_die
 DECL|function|status_init_config
 DECL|function|template_untouched
 DECL|member|show_branch
