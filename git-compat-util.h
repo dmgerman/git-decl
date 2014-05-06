@@ -1,3 +1,4 @@
+DECL|function|const_error
 DECL|function|fnmatch
 DECL|function|gitmempcpy
 DECL|function|gitstrchrnul
