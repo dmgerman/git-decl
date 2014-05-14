@@ -36,6 +36,7 @@ DECL|function|udt_do_read
 DECL|function|udt_do_write
 DECL|function|udt_kill_transfer
 DECL|function|write_constant
+DECL|function|xchgline
 DECL|macro|BUFFERSIZE
 DECL|macro|PBUFFERSIZE
 DECL|macro|SSTATE_FINISHED
