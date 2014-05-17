@@ -2,6 +2,7 @@ DECL|enumerator|REPLACE_FORMAT_LONG
 DECL|enumerator|REPLACE_FORMAT_MEDIUM
 DECL|enumerator|REPLACE_FORMAT_SHORT
 DECL|enum|replace_format
+DECL|function|check_ref_valid
 DECL|function|cmd_replace
 DECL|function|delete_replace_ref
 DECL|function|edit_and_replace
