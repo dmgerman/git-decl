@@ -40,5 +40,6 @@ DECL|function|strbuf_split_buf
 DECL|function|strbuf_trim
 DECL|function|strbuf_vaddf
 DECL|function|suffixcmp
+DECL|function|xstrdup_tolower
 DECL|macro|STRBUF_MAXLINK
 DECL|variable|strbuf_slopbuf
