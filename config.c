@@ -62,7 +62,6 @@ DECL|function|git_parse_ulong
 DECL|function|git_parse_unsigned
 DECL|function|handle_path_include
 DECL|function|iskeychar
-DECL|function|lowercase
 DECL|function|matches
 DECL|function|parse_config_key
 DECL|function|parse_unit_factor
