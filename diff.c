@@ -1,3 +1,4 @@
+DECL|function|add_external_diff_name
 DECL|function|alloc_filespec
 DECL|function|builtin_checkdiff
 DECL|function|builtin_diff
