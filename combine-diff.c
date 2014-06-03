@@ -13,6 +13,8 @@ DECL|function|diff_tree_combined_merge
 DECL|function|dump_quoted_path
 DECL|function|dump_sline
 DECL|function|find_next
+DECL|function|find_paths_generic
+DECL|function|find_paths_multitree
 DECL|function|free_combined_pair
 DECL|function|give_context
 DECL|function|grab_blob

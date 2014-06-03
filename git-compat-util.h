@@ -151,6 +151,10 @@ DECL|macro|va_copy
 DECL|macro|va_copy
 DECL|macro|vsnprintf
 DECL|macro|vsnprintf
+DECL|macro|xalloca
+DECL|macro|xalloca
+DECL|macro|xalloca_free
+DECL|macro|xalloca_free
 DECL|member|it_interval
 DECL|member|it_value
 DECL|struct|itimerval
