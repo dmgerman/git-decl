@@ -52,7 +52,6 @@ DECL|function|use
 DECL|function|write_compressed
 DECL|macro|FLAG_CHECKED
 DECL|macro|FLAG_LINK
-DECL|macro|NO_PTHREADS
 DECL|macro|UNION_BASE_SZ
 DECL|macro|counter_lock
 DECL|macro|counter_lock
@@ -88,6 +87,7 @@ DECL|member|obj_no
 DECL|member|offset
 DECL|member|ofs_first
 DECL|member|ofs_last
+DECL|member|pack_fd
 DECL|member|real_type
 DECL|member|ref_first
 DECL|member|ref_last
@@ -106,6 +106,7 @@ DECL|union|delta_base
 DECL|variable|check_self_contained_and_connected
 DECL|variable|consumed_bytes
 DECL|variable|counter_mutex
+DECL|variable|curr_pack
 DECL|variable|deepest_delta
 DECL|variable|deepest_delta_mutex
 DECL|variable|deltas
@@ -127,7 +128,6 @@ DECL|variable|nr_resolved_deltas
 DECL|variable|nr_threads
 DECL|variable|objects
 DECL|variable|output_fd
-DECL|variable|pack_fd
 DECL|variable|progress
 DECL|variable|read_mutex
 DECL|variable|show_stat
