@@ -12,11 +12,11 @@ DECL|enumerator|STATUS_FORMAT_SHORT
 DECL|enumerator|STATUS_FORMAT_UNSPECIFIED
 DECL|enum|status_format
 DECL|function|add_remove_files
+DECL|function|author_date_is_interesting
 DECL|function|cmd_commit
 DECL|function|cmd_status
 DECL|function|commit_index_files
 DECL|function|create_base_index
-DECL|function|cut_ident_timestamp_part
 DECL|function|determine_author_info
 DECL|function|determine_whence
 DECL|function|dry_run_commit
@@ -31,6 +31,7 @@ DECL|function|list_paths
 DECL|function|message_is_empty
 DECL|function|opt_parse_m
 DECL|function|parse_and_validate_options
+DECL|function|parse_force_date
 DECL|function|parse_status_slot
 DECL|function|prepare_index
 DECL|function|prepare_to_commit
@@ -43,6 +44,7 @@ DECL|function|run_commit_hook
 DECL|function|run_rewrite_hook
 DECL|function|run_status
 DECL|function|sane_ident_split
+DECL|function|split_ident_or_die
 DECL|function|status_init_config
 DECL|function|template_untouched
 DECL|member|show_branch
