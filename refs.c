@@ -9,7 +9,6 @@ DECL|function|add_entry_to_dir
 DECL|function|add_packed_ref
 DECL|function|add_ref
 DECL|function|add_update
-DECL|function|bad_ref_char
 DECL|function|check_refname_component
 DECL|function|check_refname_format
 DECL|function|clear_loose_ref_cache
@@ -223,4 +222,5 @@ DECL|variable|hide_refs
 DECL|variable|packlock
 DECL|variable|ref_cache
 DECL|variable|ref_rev_parse_rules
+DECL|variable|refname_disposition
 DECL|variable|submodule_ref_caches
