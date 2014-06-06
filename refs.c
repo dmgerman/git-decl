@@ -26,6 +26,7 @@ DECL|function|create_symref
 DECL|function|curate_packed_ref_fn
 DECL|function|delete_ref
 DECL|function|delete_ref_loose
+DECL|function|delete_reflog
 DECL|function|do_for_each_entry
 DECL|function|do_for_each_entry_in_dir
 DECL|function|do_for_each_entry_in_dirs
@@ -111,6 +112,7 @@ DECL|function|ref_transaction_rollback
 DECL|function|ref_transaction_update
 DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
+DECL|function|reflog_exists
 DECL|function|refname_match
 DECL|function|release_packed_ref_cache
 DECL|function|remove_empty_directories
