@@ -19,6 +19,7 @@ DECL|variable|apply_default_ignorewhitespace
 DECL|variable|apply_default_whitespace
 DECL|variable|askpass_program
 DECL|variable|assume_unchanged
+DECL|variable|auto_comment_line_char
 DECL|variable|auto_crlf
 DECL|variable|autorebase
 DECL|variable|big_file_threshold
