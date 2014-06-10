@@ -77,8 +77,11 @@ DECL|macro|PARENT1
 DECL|macro|PARENT2
 DECL|macro|RESULT
 DECL|macro|STALE
+DECL|member|buffer
 DECL|member|check
 DECL|member|result
+DECL|member|size
+DECL|struct|commit_buffer
 DECL|variable|all_flags
 DECL|variable|buffer_slab
 DECL|variable|commit_graft
