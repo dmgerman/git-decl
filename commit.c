@@ -80,6 +80,7 @@ DECL|macro|STALE
 DECL|member|check
 DECL|member|result
 DECL|variable|all_flags
+DECL|variable|buffer_slab
 DECL|variable|commit_graft
 DECL|variable|commit_graft_alloc
 DECL|variable|commit_graft_nr
