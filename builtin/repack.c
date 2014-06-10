@@ -11,4 +11,4 @@ DECL|variable|git_repack_usage
 DECL|variable|pack_kept_objects
 DECL|variable|packdir
 DECL|variable|packtmp
-DECL|variable|write_bitmap
+DECL|variable|write_bitmaps
