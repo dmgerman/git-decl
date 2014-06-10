@@ -30,6 +30,8 @@ DECL|function|for_each_commit_graft
 DECL|function|free_commit_buffer
 DECL|function|free_commit_extra_headers
 DECL|function|free_commit_list
+DECL|function|get_cached_commit_buffer
+DECL|function|get_commit_buffer
 DECL|function|get_merge_bases
 DECL|function|get_merge_bases_many
 DECL|function|get_merge_parent
@@ -69,6 +71,7 @@ DECL|function|set_commit_buffer
 DECL|function|sort_in_topological_order
 DECL|function|standard_header_field
 DECL|function|unregister_shallow
+DECL|function|unuse_commit_buffer
 DECL|function|verify_utf8
 DECL|macro|PARENT1
 DECL|macro|PARENT2
