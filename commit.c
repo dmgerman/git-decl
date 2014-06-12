@@ -21,11 +21,13 @@ DECL|function|commit_tree_extended
 DECL|function|compare_commits_by_author_date
 DECL|function|compare_commits_by_commit_date
 DECL|function|copy_commit_list
+DECL|function|detach_commit_buffer
 DECL|function|do_sign_commit
 DECL|function|excluded_header_field
 DECL|function|find_commit_subject
 DECL|function|find_invalid_utf8
 DECL|function|for_each_commit_graft
+DECL|function|free_commit_buffer
 DECL|function|free_commit_extra_headers
 DECL|function|free_commit_list
 DECL|function|get_merge_bases
