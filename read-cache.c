@@ -25,6 +25,8 @@ DECL|function|create_from_disk
 DECL|function|df_name_compare
 DECL|function|different_name
 DECL|function|discard_index
+DECL|function|do_write_index
+DECL|function|do_write_locked_index
 DECL|function|expand_name_field
 DECL|function|fill_stat_cache_info
 DECL|function|fill_stat_data
@@ -67,8 +69,8 @@ DECL|function|update_index_if_able
 DECL|function|verify_dotfile
 DECL|function|verify_hdr
 DECL|function|verify_path
-DECL|function|write_index
 DECL|function|write_index_ext_header
+DECL|function|write_locked_index
 DECL|macro|CACHE_EXT
 DECL|macro|CACHE_EXT_RESOLVE_UNDO
 DECL|macro|CACHE_EXT_TREE

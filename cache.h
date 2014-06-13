@@ -112,6 +112,8 @@ DECL|macro|CE_UPDATE
 DECL|macro|CE_UPTODATE
 DECL|macro|CE_VALID
 DECL|macro|CE_WT_REMOVE
+DECL|macro|CLOSE_LOCK
+DECL|macro|COMMIT_LOCK
 DECL|macro|CONFIG_DATA_ENVIRONMENT
 DECL|macro|CONFIG_ENVIRONMENT
 DECL|macro|CONFIG_GENERIC_ERROR
@@ -255,7 +257,6 @@ DECL|macro|resolve_undo_clear
 DECL|macro|unmerge_cache
 DECL|macro|unmerge_cache_entry_at
 DECL|macro|unmerged_cache
-DECL|macro|write_cache
 DECL|macro|ws_tab_width
 DECL|member|avail_in
 DECL|member|avail_out
