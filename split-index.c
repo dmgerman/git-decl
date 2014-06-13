@@ -5,5 +5,6 @@ DECL|function|mark_base_index_entries
 DECL|function|merge_base_index
 DECL|function|prepare_to_write_split_index
 DECL|function|read_link_extension
+DECL|function|replace_index_entry_in_base
 DECL|function|save_or_free_index_entry
 DECL|function|write_link_extension
