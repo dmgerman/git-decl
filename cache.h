@@ -300,6 +300,7 @@ DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
 DECL|member|hdr_version
+DECL|member|index
 DECL|member|index_data
 DECL|member|index_size
 DECL|member|index_version
@@ -364,6 +365,7 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sizep
+DECL|member|split_index
 DECL|member|timestamp
 DECL|member|total_in
 DECL|member|total_out

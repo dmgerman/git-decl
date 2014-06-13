@@ -1,0 +1,8 @@
+DECL|function|discard_split_index
+DECL|function|finish_writing_split_index
+DECL|function|init_split_index
+DECL|function|mark_base_index_entries
+DECL|function|merge_base_index
+DECL|function|prepare_to_write_split_index
+DECL|function|read_link_extension
+DECL|function|write_link_extension

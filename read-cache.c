@@ -26,6 +26,7 @@ DECL|function|create_from_disk
 DECL|function|df_name_compare
 DECL|function|different_name
 DECL|function|discard_index
+DECL|function|do_read_index
 DECL|function|do_write_index
 DECL|function|do_write_locked_index
 DECL|function|expand_name_field
@@ -73,10 +74,13 @@ DECL|function|verify_hdr
 DECL|function|verify_path
 DECL|function|write_index_ext_header
 DECL|function|write_locked_index
+DECL|function|write_split_index
 DECL|macro|CACHE_EXT
+DECL|macro|CACHE_EXT_LINK
 DECL|macro|CACHE_EXT_RESOLVE_UNDO
 DECL|macro|CACHE_EXT_TREE
 DECL|macro|CE_NAMEMASK
+DECL|macro|EXTMASK
 DECL|macro|INDEX_FORMAT_DEFAULT
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|macro|WRITE_BUFFER_SIZE
