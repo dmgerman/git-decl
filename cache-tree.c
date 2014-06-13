@@ -9,6 +9,7 @@ DECL|function|cache_tree_sub
 DECL|function|cache_tree_update
 DECL|function|cache_tree_write
 DECL|function|discard_unused_subtrees
+DECL|function|do_invalidate_path
 DECL|function|find_cache_tree_from_traversal
 DECL|function|find_subtree
 DECL|function|prime_cache_tree
