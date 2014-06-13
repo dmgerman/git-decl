@@ -8,7 +8,6 @@ DECL|function|duplicate_handle
 DECL|function|erase_in_line
 DECL|function|init_sizeof_ioinfo
 DECL|function|is_console
-DECL|function|is_same_handle
 DECL|function|set_attr
 DECL|function|set_console_attr
 DECL|function|swap_osfhnd
@@ -45,8 +44,6 @@ DECL|variable|hconsole2
 DECL|variable|hread
 DECL|variable|hthread
 DECL|variable|hwrite
-DECL|variable|hwrite1
-DECL|variable|hwrite2
 DECL|variable|negative
 DECL|variable|non_ascii_used
 DECL|variable|plain_attr
