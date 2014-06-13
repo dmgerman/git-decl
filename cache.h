@@ -306,6 +306,7 @@ DECL|member|index_version
 DECL|member|initialized
 DECL|member|inuse_cnt
 DECL|member|is_delta
+DECL|member|istate
 DECL|member|last_used
 DECL|member|len
 DECL|member|len
