@@ -58,6 +58,8 @@ DECL|function|refresh_index
 DECL|function|remove_file_from_index
 DECL|function|remove_index_entry_at
 DECL|function|remove_marked_cache_entries
+DECL|function|remove_temporary_sharedindex
+DECL|function|remove_temporary_sharedindex_on_signal
 DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_alternate_index_output
@@ -74,6 +76,7 @@ DECL|function|verify_hdr
 DECL|function|verify_path
 DECL|function|write_index_ext_header
 DECL|function|write_locked_index
+DECL|function|write_shared_index
 DECL|function|write_split_index
 DECL|macro|CACHE_EXT
 DECL|macro|CACHE_EXT_LINK
@@ -114,6 +117,7 @@ DECL|member|uid
 DECL|struct|ondisk_cache_entry
 DECL|struct|ondisk_cache_entry_extended
 DECL|variable|alternate_index_output
+DECL|variable|temporary_sharedindex
 DECL|variable|the_index
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len
