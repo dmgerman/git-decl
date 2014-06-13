@@ -18,6 +18,7 @@ DECL|function|ce_write
 DECL|function|ce_write_entry
 DECL|function|ce_write_flush
 DECL|function|check_file_directory_conflict
+DECL|function|commit_locked_index
 DECL|function|compare_name
 DECL|function|copy_cache_entry_to_ondisk
 DECL|function|create_alias_ce
@@ -58,6 +59,7 @@ DECL|function|remove_index_entry_at
 DECL|function|remove_marked_cache_entries
 DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
+DECL|function|set_alternate_index_output
 DECL|function|set_index_entry
 DECL|function|set_object_name_for_intent_to_add_entry
 DECL|function|show_file
@@ -107,6 +109,7 @@ DECL|member|uid
 DECL|member|uid
 DECL|struct|ondisk_cache_entry
 DECL|struct|ondisk_cache_entry_extended
+DECL|variable|alternate_index_output
 DECL|variable|the_index
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len
