@@ -84,6 +84,7 @@ DECL|variable|outdir_offset
 DECL|variable|output_directory
 DECL|variable|realstdout
 DECL|variable|signature
+DECL|variable|signature_file
 DECL|variable|subject_prefix
 DECL|variable|thread
 DECL|variable|use_mailmap_config
