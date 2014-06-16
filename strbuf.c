@@ -38,6 +38,7 @@ DECL|function|strbuf_remove
 DECL|function|strbuf_rtrim
 DECL|function|strbuf_splice
 DECL|function|strbuf_split_buf
+DECL|function|strbuf_tolower
 DECL|function|strbuf_trim
 DECL|function|strbuf_vaddf
 DECL|function|xstrdup_tolower
