@@ -36,7 +36,6 @@ DECL|function|socksetup
 DECL|function|store_pid
 DECL|function|upload_archive
 DECL|function|upload_pack
-DECL|function|xstrdup_tolower
 DECL|macro|HOST_NAME_MAX
 DECL|macro|STRARG
 DECL|macro|STRARG
