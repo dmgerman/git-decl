@@ -124,6 +124,7 @@ DECL|macro|mkdtemp
 DECL|macro|mkstemps
 DECL|macro|mmap
 DECL|macro|munmap
+DECL|macro|offset_1st_component
 DECL|macro|on_disk_bytes
 DECL|macro|on_disk_bytes
 DECL|macro|pread

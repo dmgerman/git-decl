@@ -96,6 +96,7 @@ DECL|macro|main
 DECL|macro|mkdir
 DECL|macro|ntohl
 DECL|macro|off_t
+DECL|macro|offset_1st_component
 DECL|macro|open
 DECL|macro|open_html
 DECL|macro|printf

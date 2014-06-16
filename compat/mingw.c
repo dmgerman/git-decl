@@ -50,6 +50,7 @@ DECL|function|mingw_getpagesize
 DECL|function|mingw_kill
 DECL|function|mingw_listen
 DECL|function|mingw_lstat
+DECL|function|mingw_offset_1st_component
 DECL|function|mingw_open
 DECL|function|mingw_open_html
 DECL|function|mingw_raise
