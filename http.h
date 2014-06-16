@@ -23,6 +23,7 @@ DECL|member|buf
 DECL|member|c
 DECL|member|callback_data
 DECL|member|callback_func
+DECL|member|charset
 DECL|member|content_type
 DECL|member|curl
 DECL|member|curl_result
