@@ -140,6 +140,7 @@ DECL|function|update_ref_lock
 DECL|function|update_ref_write
 DECL|function|verify_lock
 DECL|function|warn_dangling_symref
+DECL|function|warn_dangling_symrefs
 DECL|function|warn_if_dangling_symref
 DECL|function|write_packed_entry
 DECL|function|write_packed_entry_fn
@@ -192,6 +193,7 @@ DECL|member|referrers
 DECL|member|refname
 DECL|member|refname
 DECL|member|refname
+DECL|member|refnames
 DECL|member|root
 DECL|member|sha1
 DECL|member|sha1
