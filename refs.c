@@ -11,6 +11,8 @@ DECL|function|add_ref
 DECL|function|add_update
 DECL|function|check_refname_component
 DECL|function|check_refname_format
+DECL|function|check_refname_format
+DECL|function|check_refname_format_bytewise
 DECL|function|clear_loose_ref_cache
 DECL|function|clear_packed_ref_cache
 DECL|function|clear_ref_dir
@@ -148,6 +150,7 @@ DECL|macro|PEELED_LINE_LENGTH
 DECL|macro|REF_DIR
 DECL|macro|REF_INCOMPLETE
 DECL|macro|REF_KNOWS_PEELED
+DECL|macro|SSE_VECTOR_BYTES
 DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc
 DECL|member|alloc
