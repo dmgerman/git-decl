@@ -5,6 +5,7 @@ DECL|enumerator|RENAME_ONE_FILE_TO_TWO
 DECL|enumerator|RENAME_TWO_FILES_TO_ONE
 DECL|enum|rename_type
 DECL|function|add_cacheinfo
+DECL|function|add_flattened_path
 DECL|function|blob_unchanged
 DECL|function|conflict_rename_delete
 DECL|function|conflict_rename_rename_1to2
