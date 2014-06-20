@@ -108,7 +108,6 @@ DECL|function|ref_transaction_commit
 DECL|function|ref_transaction_create
 DECL|function|ref_transaction_delete
 DECL|function|ref_transaction_free
-DECL|function|ref_transaction_rollback
 DECL|function|ref_transaction_update
 DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
