@@ -19,6 +19,7 @@ DECL|function|get_remote_group
 DECL|function|git_fetch_config
 DECL|function|iterate_ref_map
 DECL|function|option_parse_recurse_submodules
+DECL|function|parse_refmap_arg
 DECL|function|prepare_transport
 DECL|function|prune_refs
 DECL|function|quickfetch
@@ -54,6 +55,9 @@ DECL|variable|progress
 DECL|variable|prune
 DECL|variable|recurse_submodules
 DECL|variable|recurse_submodules_default
+DECL|variable|refmap_alloc
+DECL|variable|refmap_array
+DECL|variable|refmap_nr
 DECL|variable|shown_url
 DECL|variable|submodule_prefix
 DECL|variable|tags
