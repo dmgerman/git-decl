@@ -1,0 +1,5 @@
+DECL|function|cmd_verify_commit
+DECL|function|git_verify_commit_config
+DECL|function|run_gpg_verify
+DECL|function|verify_commit
+DECL|variable|verify_commit_usage
