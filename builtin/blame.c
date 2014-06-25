@@ -43,6 +43,7 @@ DECL|function|found_guilty_entry
 DECL|function|get_ac_line
 DECL|function|get_commit_info
 DECL|function|get_next_blame
+DECL|function|get_next_line
 DECL|function|get_origin
 DECL|function|git_blame_config
 DECL|function|handle_split
