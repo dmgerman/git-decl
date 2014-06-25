@@ -31,7 +31,6 @@ DECL|function|mark_ce_used
 DECL|function|mark_ce_used_same_name
 DECL|function|mark_new_skip_worktree
 DECL|function|merged_entry
-DECL|function|name_compare
 DECL|function|next_cache_entry
 DECL|function|oneway_merge
 DECL|function|reject_merge

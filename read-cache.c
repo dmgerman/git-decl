@@ -4,7 +4,6 @@ DECL|function|add_index_entry_with_check
 DECL|function|add_to_index
 DECL|function|base_name_compare
 DECL|function|cache_entry_from_ondisk
-DECL|function|cache_name_compare
 DECL|function|cache_name_stage_compare
 DECL|function|ce_compare_data
 DECL|function|ce_compare_gitlink
@@ -43,6 +42,7 @@ DECL|function|is_index_unborn
 DECL|function|is_racy_timestamp
 DECL|function|make_cache_entry
 DECL|function|match_stat_data
+DECL|function|name_compare
 DECL|function|read_blob_data_from_index
 DECL|function|read_index
 DECL|function|read_index_extension
