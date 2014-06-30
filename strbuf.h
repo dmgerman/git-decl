@@ -7,6 +7,7 @@ DECL|function|strbuf_setlen
 DECL|function|strbuf_split
 DECL|function|strbuf_split_max
 DECL|function|strbuf_split_str
+DECL|function|strbuf_strip_suffix
 DECL|function|strbuf_swap
 DECL|macro|STRBUF_H
 DECL|macro|STRBUF_INIT
