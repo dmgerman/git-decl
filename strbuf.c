@@ -1,5 +1,4 @@
 DECL|function|add_lines
-DECL|function|ends_with
 DECL|function|fprintf_ln
 DECL|function|is_rfc3986_reserved
 DECL|function|is_rfc3986_unreserved

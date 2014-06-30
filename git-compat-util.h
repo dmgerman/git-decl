@@ -1,3 +1,4 @@
+DECL|function|ends_with
 DECL|function|gitmempcpy
 DECL|function|gitstrchrnul
 DECL|function|has_extension
