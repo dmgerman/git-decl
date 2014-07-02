@@ -14,6 +14,8 @@ DECL|function|hashmap_put
 DECL|function|hashmap_remove
 DECL|function|memhash
 DECL|function|memihash
+DECL|function|memintern
+DECL|function|pool_entry_cmp
 DECL|function|rehash
 DECL|function|strhash
 DECL|function|strihash
@@ -22,3 +24,7 @@ DECL|macro|FNV32_PRIME
 DECL|macro|HASHMAP_INITIAL_SIZE
 DECL|macro|HASHMAP_LOAD_FACTOR
 DECL|macro|HASHMAP_RESIZE_BITS
+DECL|member|data
+DECL|member|ent
+DECL|member|len
+DECL|struct|pool_entry
