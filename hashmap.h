@@ -1,4 +1,5 @@
 DECL|function|hashmap_entry_init
+DECL|function|hashmap_get_from_hash
 DECL|function|hashmap_iter_first
 DECL|function|sha1hash
 DECL|macro|HASHMAP_H
