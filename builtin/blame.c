@@ -67,6 +67,7 @@ DECL|function|queue_blames
 DECL|function|read_ancestry
 DECL|function|reverse_blame
 DECL|function|sanity_check_refcnt
+DECL|function|set_commit_buffer_from_strbuf
 DECL|function|set_next_blame
 DECL|function|setup_blame_list
 DECL|function|split_blame

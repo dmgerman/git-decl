@@ -19,7 +19,6 @@ DECL|macro|INFINITE_DEPTH
 DECL|macro|merge_remote_util
 DECL|member|abbrev
 DECL|member|after_subject
-DECL|member|buffer
 DECL|member|color
 DECL|member|commits
 DECL|member|date

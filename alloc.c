@@ -1,3 +1,4 @@
+DECL|function|alloc_commit_node
 DECL|function|alloc_report
 DECL|function|report
 DECL|macro|BLOCKING
