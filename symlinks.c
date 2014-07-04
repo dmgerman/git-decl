@@ -18,8 +18,5 @@ DECL|macro|FL_LSTATERR
 DECL|macro|FL_NOENT
 DECL|macro|FL_SYMLINK
 DECL|macro|USE_ONLY_LSTAT
-DECL|member|len
-DECL|member|path
-DECL|struct|removal_def
 DECL|variable|default_cache
 DECL|variable|removal
