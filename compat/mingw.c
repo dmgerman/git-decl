@@ -1,6 +1,7 @@
 DECL|function|ask_yes_no_if_possible
 DECL|function|copy_environ
 DECL|function|ctrl_ignore
+DECL|function|die_startup
 DECL|function|do_lstat
 DECL|function|do_stat_internal
 DECL|function|ensure_socket_initialization
@@ -32,7 +33,6 @@ DECL|function|mingw_accept
 DECL|function|mingw_bind
 DECL|function|mingw_connect
 DECL|function|mingw_execv
-DECL|function|mingw_execve
 DECL|function|mingw_execvp
 DECL|function|mingw_fflush
 DECL|function|mingw_fgetc
@@ -60,7 +60,7 @@ DECL|function|mingw_setsockopt
 DECL|function|mingw_shutdown
 DECL|function|mingw_signal
 DECL|function|mingw_socket
-DECL|function|mingw_spawnve
+DECL|function|mingw_spawnv
 DECL|function|mingw_spawnve_fd
 DECL|function|mingw_spawnvpe
 DECL|function|mingw_startup
@@ -105,10 +105,13 @@ DECL|macro|setsockopt
 DECL|macro|shutdown
 DECL|macro|signal
 DECL|macro|unlink
+DECL|member|newmode
 DECL|member|next
 DECL|member|pid
 DECL|member|proc
 DECL|struct|pinfo_t
+DECL|typedef|_startupinfo
+DECL|variable|_CRT_glob
 DECL|variable|delay
 DECL|variable|ipv6_dll
 DECL|variable|ipv6_freeaddrinfo
