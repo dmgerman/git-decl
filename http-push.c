@@ -31,6 +31,7 @@ DECL|function|get_dav_remote_heads
 DECL|function|get_dav_token_headers
 DECL|function|get_delta
 DECL|function|get_remote_object_list
+DECL|function|get_sha1_hex_from_objpath
 DECL|function|handle_lockprop_ctx
 DECL|function|handle_new_lock_ctx
 DECL|function|handle_remote_ls_ctx
