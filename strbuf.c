@@ -43,5 +43,7 @@ DECL|function|strbuf_tolower
 DECL|function|strbuf_trim
 DECL|function|strbuf_vaddf
 DECL|function|xstrdup_tolower
+DECL|function|xstrfmt
+DECL|function|xstrvfmt
 DECL|macro|STRBUF_MAXLINK
 DECL|variable|strbuf_slopbuf
