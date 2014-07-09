@@ -83,6 +83,8 @@ DECL|function|ticktack
 DECL|function|time_t_to_filetime
 DECL|function|try_shell_exec
 DECL|function|waitpid
+DECL|function|xutftowcsn
+DECL|function|xwcstoutf
 DECL|macro|accept
 DECL|macro|bind
 DECL|macro|connect

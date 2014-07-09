@@ -16,6 +16,8 @@ DECL|function|mingw_mkdir
 DECL|function|readlink
 DECL|function|symlink
 DECL|function|sync
+DECL|function|xutftowcs
+DECL|function|xutftowcs_path
 DECL|macro|EAFNOSUPPORT
 DECL|macro|ECONNABORTED
 DECL|macro|EWOULDBLOCK
@@ -71,8 +73,6 @@ DECL|macro|fflush
 DECL|macro|fgetc
 DECL|macro|find_last_dir_sep
 DECL|macro|fopen
-DECL|macro|fprintf
-DECL|macro|fputs
 DECL|macro|freeaddrinfo
 DECL|macro|freopen
 DECL|macro|fstat
@@ -99,7 +99,6 @@ DECL|macro|off_t
 DECL|macro|offset_1st_component
 DECL|macro|open
 DECL|macro|open_html
-DECL|macro|printf
 DECL|macro|raise
 DECL|macro|rename
 DECL|macro|rmdir
