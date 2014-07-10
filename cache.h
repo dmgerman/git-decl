@@ -55,6 +55,7 @@ DECL|enum|push_default_type
 DECL|enum|rebase_setup_type
 DECL|enum|scld_error
 DECL|enum|sharedrepo
+DECL|function|cache_def_free
 DECL|function|canon_mode
 DECL|function|ce_mode_from_stat
 DECL|function|ce_to_dtype
@@ -86,6 +87,7 @@ DECL|macro|ADD_CACHE_VERBOSE
 DECL|macro|ALLOC_GROW
 DECL|macro|ALTERNATE_DB_ENVIRONMENT
 DECL|macro|ATTRIBUTE_MACRO_PREFIX
+DECL|macro|CACHE_DEF_INIT
 DECL|macro|CACHE_H
 DECL|macro|CACHE_SIGNATURE
 DECL|macro|CEILING_DIRECTORIES_ENVIRONMENT
@@ -301,7 +303,6 @@ DECL|member|initialized
 DECL|member|inuse_cnt
 DECL|member|is_delta
 DECL|member|last_used
-DECL|member|len
 DECL|member|len
 DECL|member|mail_begin
 DECL|member|mail_end
