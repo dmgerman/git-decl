@@ -2,6 +2,7 @@ DECL|function|get_signing_key
 DECL|function|git_gpg_config
 DECL|function|set_signing_key
 DECL|function|sign_buffer
+DECL|function|signature_check_clear
 DECL|function|verify_signed_buffer
 DECL|variable|configured_signing_key
 DECL|variable|gpg_program
