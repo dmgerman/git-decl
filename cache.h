@@ -55,7 +55,7 @@ DECL|enum|push_default_type
 DECL|enum|rebase_setup_type
 DECL|enum|scld_error
 DECL|enum|sharedrepo
-DECL|function|cache_def_free
+DECL|function|cache_def_clear
 DECL|function|canon_mode
 DECL|function|ce_mode_from_stat
 DECL|function|ce_to_dtype
