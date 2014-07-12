@@ -3,11 +3,15 @@ DECL|function|prepare_trace_line
 DECL|function|print_trace_line
 DECL|function|quote_crnl
 DECL|function|trace_argv_printf
+DECL|function|trace_argv_printf_fl
+DECL|function|trace_argv_vprintf_fl
 DECL|function|trace_disable
 DECL|function|trace_printf
 DECL|function|trace_printf_key
+DECL|function|trace_printf_key_fl
 DECL|function|trace_repo_setup
 DECL|function|trace_strbuf
-DECL|function|trace_vprintf
+DECL|function|trace_strbuf_fl
+DECL|function|trace_vprintf_fl
 DECL|function|trace_want
 DECL|variable|err_msg
