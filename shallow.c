@@ -25,7 +25,6 @@ DECL|function|write_one_shallow
 DECL|function|write_shallow_commits
 DECL|function|write_shallow_commits_1
 DECL|macro|SEEN_ONLY
-DECL|macro|TRACE_KEY
 DECL|macro|VERBOSE
 DECL|member|alloc
 DECL|member|commits
@@ -47,3 +46,4 @@ DECL|variable|alternate_shallow_file
 DECL|variable|is_shallow
 DECL|variable|shallow_stat
 DECL|variable|temporary_shallow
+DECL|variable|trace_shallow
