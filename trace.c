@@ -1,4 +1,8 @@
 DECL|function|get_trace_fd
+DECL|function|getnanotime
+DECL|function|gettimeofday_nanos
+DECL|function|highres_nanos
+DECL|function|highres_nanos
 DECL|function|prepare_trace_line
 DECL|function|print_trace_line
 DECL|function|quote_crnl
@@ -14,4 +18,5 @@ DECL|function|trace_strbuf
 DECL|function|trace_strbuf_fl
 DECL|function|trace_vprintf_fl
 DECL|function|trace_want
+DECL|macro|highres_nanos
 DECL|variable|err_msg
