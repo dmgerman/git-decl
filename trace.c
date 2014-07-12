@@ -4,11 +4,13 @@ DECL|function|gettimeofday_nanos
 DECL|function|highres_nanos
 DECL|function|highres_nanos
 DECL|function|prepare_trace_line
+DECL|function|print_command_performance_atexit
 DECL|function|print_trace_line
 DECL|function|quote_crnl
 DECL|function|trace_argv_printf
 DECL|function|trace_argv_printf_fl
 DECL|function|trace_argv_vprintf_fl
+DECL|function|trace_command_performance
 DECL|function|trace_disable
 DECL|function|trace_performance
 DECL|function|trace_performance_fl
@@ -23,5 +25,7 @@ DECL|function|trace_strbuf_fl
 DECL|function|trace_vprintf_fl
 DECL|function|trace_want
 DECL|macro|highres_nanos
+DECL|variable|command_line
+DECL|variable|command_start_time
 DECL|variable|err_msg
 DECL|variable|trace_perf_key
