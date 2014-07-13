@@ -1,9 +1,12 @@
+DECL|function|alloc_blob_node
 DECL|function|alloc_commit_node
 DECL|function|alloc_node
+DECL|function|alloc_object_node
 DECL|function|alloc_report
+DECL|function|alloc_tag_node
+DECL|function|alloc_tree_node
 DECL|function|report
 DECL|macro|BLOCKING
-DECL|macro|DEFINE_ALLOCATOR
 DECL|macro|REPORT
 DECL|member|blob
 DECL|member|commit
@@ -15,4 +18,8 @@ DECL|member|tag
 DECL|member|tree
 DECL|struct|alloc_state
 DECL|union|any_object
+DECL|variable|blob_state
 DECL|variable|commit_state
+DECL|variable|object_state
+DECL|variable|tag_state
+DECL|variable|tree_state
