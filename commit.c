@@ -1,6 +1,5 @@
 DECL|function|add_extra_header
 DECL|function|append_merge_tag_headers
-DECL|function|check_commit
 DECL|function|check_commit_signature
 DECL|function|clear_commit_marks
 DECL|function|clear_commit_marks_1

@@ -14,6 +14,7 @@ DECL|function|lookup_object
 DECL|function|lookup_unknown_object
 DECL|function|object_array_filter
 DECL|function|object_array_remove_duplicates
+DECL|function|object_as_type
 DECL|function|object_list_contains
 DECL|function|object_list_insert
 DECL|function|parse_object
