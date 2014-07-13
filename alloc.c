@@ -1,4 +1,5 @@
 DECL|function|alloc_blob_node
+DECL|function|alloc_commit_index
 DECL|function|alloc_commit_node
 DECL|function|alloc_node
 DECL|function|alloc_object_node
