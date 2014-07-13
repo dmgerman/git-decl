@@ -1,4 +1,5 @@
 DECL|function|alloc_commit_node
+DECL|function|alloc_node
 DECL|function|alloc_report
 DECL|function|report
 DECL|macro|BLOCKING
@@ -6,7 +7,12 @@ DECL|macro|DEFINE_ALLOCATOR
 DECL|macro|REPORT
 DECL|member|blob
 DECL|member|commit
+DECL|member|count
+DECL|member|nr
 DECL|member|object
+DECL|member|p
 DECL|member|tag
 DECL|member|tree
+DECL|struct|alloc_state
 DECL|union|any_object
+DECL|variable|commit_state
