@@ -7,6 +7,7 @@ DECL|function|last_path_elm
 DECL|function|lock_file
 DECL|function|remove_lock_file
 DECL|function|remove_lock_file_on_signal
+DECL|function|reopen_lock_file
 DECL|function|resolve_symlink
 DECL|function|rollback_lock_file
 DECL|function|unable_to_lock_error
