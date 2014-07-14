@@ -3,6 +3,10 @@ DECL|member|alloc
 DECL|member|array
 DECL|member|cb_data
 DECL|member|compare
+DECL|member|ctr
+DECL|member|data
+DECL|member|insertion_ctr
 DECL|member|nr
 DECL|struct|prio_queue
+DECL|struct|prio_queue_entry
 DECL|typedef|prio_queue_compare_fn
