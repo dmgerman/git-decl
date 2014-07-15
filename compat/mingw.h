@@ -20,6 +20,7 @@ DECL|function|xutftowcs
 DECL|function|xutftowcs_path
 DECL|macro|EAFNOSUPPORT
 DECL|macro|ECONNABORTED
+DECL|macro|ELOOP
 DECL|macro|EWOULDBLOCK
 DECL|macro|FD_CLOEXEC
 DECL|macro|F_GETFD
