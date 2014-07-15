@@ -18,7 +18,6 @@ DECL|function|fsck_sha1
 DECL|function|fsck_sha1_list
 DECL|function|get_default_heads
 DECL|function|ino_compare
-DECL|function|is_branch
 DECL|function|is_loose_object_file
 DECL|function|mark_object
 DECL|function|mark_object_reachable
