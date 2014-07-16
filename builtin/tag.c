@@ -21,6 +21,7 @@ DECL|function|match_points_at
 DECL|function|parse_msg_arg
 DECL|function|parse_opt_points_at
 DECL|function|parse_opt_sort
+DECL|function|parse_sort_string
 DECL|function|push_to_stack
 DECL|function|show_reference
 DECL|function|show_tag_lines
@@ -56,5 +57,6 @@ DECL|typedef|each_tag_name_fn
 DECL|variable|colopts
 DECL|variable|git_tag_usage
 DECL|variable|points_at
+DECL|variable|tag_sort
 DECL|variable|tag_template
 DECL|variable|tag_template_nocleanup
