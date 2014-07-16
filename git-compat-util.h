@@ -1,10 +1,12 @@
 DECL|function|const_error
+DECL|function|ends_with
 DECL|function|gitmempcpy
 DECL|function|gitstrchrnul
-DECL|function|has_extension
 DECL|function|sane_case
 DECL|function|sane_iscase
 DECL|function|skip_prefix
+DECL|function|strip_suffix
+DECL|function|strip_suffix_mem
 DECL|function|strtol_i
 DECL|function|strtoul_ui
 DECL|function|xsize_t
