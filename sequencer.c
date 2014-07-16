@@ -10,7 +10,6 @@ DECL|function|error_dirty_index
 DECL|function|fast_forward_to
 DECL|function|format_todo
 DECL|function|free_message
-DECL|function|get_encoding
 DECL|function|get_message
 DECL|function|has_conforming_footer
 DECL|function|is_cherry_picked_from_line
@@ -44,7 +43,6 @@ DECL|macro|GIT_REFLOG_ACTION
 DECL|member|label
 DECL|member|message
 DECL|member|parent_label
-DECL|member|reencoded_message
 DECL|member|subject
 DECL|struct|commit_message
 DECL|variable|cherry_picked_prefix

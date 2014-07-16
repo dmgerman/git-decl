@@ -1,4 +1,5 @@
 DECL|function|fsck_commit
+DECL|function|fsck_commit_buffer
 DECL|function|fsck_error_function
 DECL|function|fsck_ident
 DECL|function|fsck_object

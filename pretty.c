@@ -36,7 +36,6 @@ DECL|function|is_rfc2047_special
 DECL|function|is_rfc822_special
 DECL|function|istitlechar
 DECL|function|last_line_length
-DECL|function|logmsg_free
 DECL|function|logmsg_reencode
 DECL|function|mailmap_name
 DECL|function|needs_rfc2047_encoding

@@ -59,6 +59,7 @@ DECL|function|prepare_lines
 DECL|function|read_ancestry
 DECL|function|reset_scanned_flag
 DECL|function|sanity_check_refcnt
+DECL|function|set_commit_buffer_from_strbuf
 DECL|function|setup_blame_list
 DECL|function|split_blame
 DECL|function|split_overlap
