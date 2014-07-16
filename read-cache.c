@@ -17,6 +17,7 @@ DECL|function|ce_write
 DECL|function|ce_write_entry
 DECL|function|ce_write_flush
 DECL|function|check_file_directory_conflict
+DECL|function|commit_locked_index
 DECL|function|compare_name
 DECL|function|copy_cache_entry_to_ondisk
 DECL|function|create_alias_ce
@@ -24,6 +25,9 @@ DECL|function|create_from_disk
 DECL|function|df_name_compare
 DECL|function|different_name
 DECL|function|discard_index
+DECL|function|do_read_index
+DECL|function|do_write_index
+DECL|function|do_write_locked_index
 DECL|function|expand_name_field
 DECL|function|fill_stat_cache_info
 DECL|function|fill_stat_data
@@ -54,8 +58,11 @@ DECL|function|refresh_index
 DECL|function|remove_file_from_index
 DECL|function|remove_index_entry_at
 DECL|function|remove_marked_cache_entries
+DECL|function|remove_temporary_sharedindex
+DECL|function|remove_temporary_sharedindex_on_signal
 DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
+DECL|function|set_alternate_index_output
 DECL|function|set_index_entry
 DECL|function|set_object_name_for_intent_to_add_entry
 DECL|function|show_file
@@ -69,12 +76,16 @@ DECL|function|verify_hdr
 DECL|function|verify_index
 DECL|function|verify_index_from
 DECL|function|verify_path
-DECL|function|write_index
 DECL|function|write_index_ext_header
+DECL|function|write_locked_index
+DECL|function|write_shared_index
+DECL|function|write_split_index
 DECL|macro|CACHE_EXT
+DECL|macro|CACHE_EXT_LINK
 DECL|macro|CACHE_EXT_RESOLVE_UNDO
 DECL|macro|CACHE_EXT_TREE
 DECL|macro|CE_NAMEMASK
+DECL|macro|EXTMASK
 DECL|macro|INDEX_FORMAT_DEFAULT
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
 DECL|macro|WRITE_BUFFER_SIZE
@@ -107,6 +118,8 @@ DECL|member|uid
 DECL|member|uid
 DECL|struct|ondisk_cache_entry
 DECL|struct|ondisk_cache_entry_extended
+DECL|variable|alternate_index_output
+DECL|variable|temporary_sharedindex
 DECL|variable|the_index
 DECL|variable|write_buffer
 DECL|variable|write_buffer_len
