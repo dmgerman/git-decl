@@ -103,6 +103,7 @@ DECL|macro|off_t
 DECL|macro|offset_1st_component
 DECL|macro|open
 DECL|macro|open_html
+DECL|macro|putenv
 DECL|macro|raise
 DECL|macro|rename
 DECL|macro|rmdir

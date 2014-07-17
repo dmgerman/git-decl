@@ -57,6 +57,7 @@ DECL|function|mingw_mktemp
 DECL|function|mingw_offset_1st_component
 DECL|function|mingw_open
 DECL|function|mingw_open_html
+DECL|function|mingw_putenv
 DECL|function|mingw_raise
 DECL|function|mingw_rename
 DECL|function|mingw_rmdir
