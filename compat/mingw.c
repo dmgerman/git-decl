@@ -26,6 +26,7 @@ DECL|function|lookup_prog
 DECL|function|lookupenv
 DECL|function|make_backslash_path
 DECL|function|make_environment_block
+DECL|function|malloc_startup
 DECL|function|mingw_accept
 DECL|function|mingw_access
 DECL|function|mingw_bind
@@ -86,6 +87,7 @@ DECL|function|ticktack
 DECL|function|time_t_to_filetime
 DECL|function|try_shell_exec
 DECL|function|waitpid
+DECL|function|wcstoutfdup_startup
 DECL|function|xutftowcsn
 DECL|function|xwcstoutf
 DECL|macro|accept
