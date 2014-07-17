@@ -3,7 +3,6 @@ DECL|function|bsearchenv
 DECL|function|compareenv
 DECL|function|ctrl_ignore
 DECL|function|die_startup
-DECL|function|do_getenv
 DECL|function|do_lstat
 DECL|function|do_putenv
 DECL|function|do_stat_internal
