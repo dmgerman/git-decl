@@ -1,12 +1,12 @@
 DECL|function|ask_yes_no_if_possible
+DECL|function|compareenv
 DECL|function|copy_environ
 DECL|function|ctrl_ignore
 DECL|function|die_startup
 DECL|function|do_lstat
+DECL|function|do_putenv
 DECL|function|do_stat_internal
 DECL|function|ensure_socket_initialization
-DECL|function|env_compare
-DECL|function|env_setenv
 DECL|function|err_win_to_posix
 DECL|function|filetime_to_hnsec
 DECL|function|filetime_to_time_t
@@ -24,8 +24,8 @@ DECL|function|is_file_in_use_error
 DECL|function|is_timeval_eq
 DECL|function|link
 DECL|function|localtime_r
-DECL|function|lookup_env
 DECL|function|lookup_prog
+DECL|function|lookupenv
 DECL|function|make_augmented_environ
 DECL|function|make_backslash_path
 DECL|function|mingw_accept
