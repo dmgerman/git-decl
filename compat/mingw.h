@@ -115,6 +115,7 @@ DECL|macro|socket
 DECL|macro|stat
 DECL|macro|stat
 DECL|macro|unlink
+DECL|macro|unsetenv
 DECL|macro|utime
 DECL|member|it_interval
 DECL|member|it_value
