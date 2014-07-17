@@ -1,7 +1,9 @@
 DECL|function|ask_yes_no_if_possible
+DECL|function|bsearchenv
 DECL|function|compareenv
 DECL|function|ctrl_ignore
 DECL|function|die_startup
+DECL|function|do_getenv
 DECL|function|do_lstat
 DECL|function|do_putenv
 DECL|function|do_stat_internal
@@ -23,7 +25,6 @@ DECL|function|is_timeval_eq
 DECL|function|link
 DECL|function|localtime_r
 DECL|function|lookup_prog
-DECL|function|lookupenv
 DECL|function|make_backslash_path
 DECL|function|make_environment_block
 DECL|function|malloc_startup
@@ -96,7 +97,6 @@ DECL|macro|connect
 DECL|macro|fflush
 DECL|macro|fgetc
 DECL|macro|fopen
-DECL|macro|getenv
 DECL|macro|gethostbyname
 DECL|macro|gethostname
 DECL|macro|listen
