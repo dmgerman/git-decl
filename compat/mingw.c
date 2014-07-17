@@ -111,6 +111,8 @@ DECL|struct|pinfo_t
 DECL|typedef|_startupinfo
 DECL|variable|_CRT_glob
 DECL|variable|delay
+DECL|variable|environ_alloc
+DECL|variable|environ_size
 DECL|variable|ipv6_dll
 DECL|variable|ipv6_freeaddrinfo
 DECL|variable|ipv6_getaddrinfo
