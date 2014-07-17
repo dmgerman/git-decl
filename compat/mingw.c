@@ -28,6 +28,7 @@ DECL|function|lookup_prog
 DECL|function|lookupenv
 DECL|function|make_augmented_environ
 DECL|function|make_backslash_path
+DECL|function|make_environment_block
 DECL|function|mingw_accept
 DECL|function|mingw_access
 DECL|function|mingw_bind
