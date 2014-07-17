@@ -96,6 +96,7 @@ DECL|macro|lseek
 DECL|macro|lstat
 DECL|macro|lstat
 DECL|macro|main
+DECL|macro|mark_as_git_dir
 DECL|macro|mkdir
 DECL|macro|mktemp
 DECL|macro|ntohl
