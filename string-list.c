@@ -12,6 +12,7 @@ DECL|function|string_list_clear
 DECL|function|string_list_clear_func
 DECL|function|string_list_find_insert_index
 DECL|function|string_list_has_string
+DECL|function|string_list_init
 DECL|function|string_list_insert
 DECL|function|string_list_insert_at_index
 DECL|function|string_list_lookup
