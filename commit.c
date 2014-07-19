@@ -68,6 +68,7 @@ DECL|function|record_author_date
 DECL|function|reduce_heads
 DECL|function|register_commit_graft
 DECL|function|remove_redundant
+DECL|function|remove_signature
 DECL|function|set_commit_buffer
 DECL|function|sort_in_topological_order
 DECL|function|standard_header_field
