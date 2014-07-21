@@ -1,5 +1,4 @@
 DECL|function|__ac_X31_hash_string
-DECL|function|__kh_oid_hash
 DECL|macro|AC_VERSION_KHASH_H
 DECL|macro|KHASH_DECLARE
 DECL|macro|KHASH_INIT

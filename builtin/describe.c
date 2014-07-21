@@ -7,7 +7,6 @@ DECL|function|display_name
 DECL|function|find_commit_name
 DECL|function|finish_depth_computation
 DECL|function|get_name
-DECL|function|hash_sha1
 DECL|function|replace_name
 DECL|function|show_suffix
 DECL|macro|MAX_TAGS

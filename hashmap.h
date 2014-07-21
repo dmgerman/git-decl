@@ -1,5 +1,8 @@
 DECL|function|hashmap_entry_init
+DECL|function|hashmap_get_from_hash
 DECL|function|hashmap_iter_first
+DECL|function|sha1hash
+DECL|function|strintern
 DECL|macro|HASHMAP_H
 DECL|member|cmpfn
 DECL|member|grow_at
