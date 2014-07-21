@@ -12,7 +12,6 @@ DECL|function|mingw_SSL_set_fd
 DECL|function|mingw_SSL_set_rfd
 DECL|function|mingw_SSL_set_wfd
 DECL|function|mingw_find_last_dir_sep
-DECL|function|mingw_mkdir
 DECL|function|readlink
 DECL|function|symlink
 DECL|function|sync
@@ -65,7 +64,11 @@ DECL|macro|_stat32i64
 DECL|macro|_stat64
 DECL|macro|_stati64
 DECL|macro|accept
+DECL|macro|access
+DECL|macro|access
 DECL|macro|bind
+DECL|macro|chdir
+DECL|macro|chmod
 DECL|macro|connect
 DECL|macro|execv
 DECL|macro|execvp
@@ -95,6 +98,7 @@ DECL|macro|lstat
 DECL|macro|lstat
 DECL|macro|main
 DECL|macro|mkdir
+DECL|macro|mktemp
 DECL|macro|ntohl
 DECL|macro|off_t
 DECL|macro|offset_1st_component
