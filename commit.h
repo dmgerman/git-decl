@@ -75,3 +75,4 @@ DECL|struct|pretty_print_context
 DECL|struct|shallow_info
 DECL|struct|userformat_want
 DECL|typedef|each_commit_graft_fn
+DECL|typedef|each_mergetag_fn

@@ -27,6 +27,7 @@ DECL|function|excluded_header_field
 DECL|function|find_commit_subject
 DECL|function|find_invalid_utf8
 DECL|function|for_each_commit_graft
+DECL|function|for_each_mergetag
 DECL|function|free_commit_buffer
 DECL|function|free_commit_extra_headers
 DECL|function|free_commit_list
