@@ -10,6 +10,7 @@ DECL|function|parse_refname
 DECL|function|update_refs_stdin
 DECL|macro|PARSE_SHA1_ALLOW_EMPTY
 DECL|macro|PARSE_SHA1_OLD
+DECL|variable|err
 DECL|variable|git_update_ref_usage
 DECL|variable|line_termination
 DECL|variable|transaction
