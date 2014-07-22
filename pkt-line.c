@@ -15,4 +15,4 @@ DECL|macro|hex
 DECL|variable|buffer
 DECL|variable|packet_buffer
 DECL|variable|packet_trace_prefix
-DECL|variable|trace_key
+DECL|variable|trace_packet

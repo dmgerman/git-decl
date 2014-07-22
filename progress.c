@@ -21,8 +21,8 @@ DECL|member|last_bytes
 DECL|member|last_misecs
 DECL|member|last_percent
 DECL|member|last_value
+DECL|member|prev_ns
 DECL|member|prev_total
-DECL|member|prev_tv
 DECL|member|throughput
 DECL|member|title
 DECL|member|total
