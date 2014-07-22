@@ -3,7 +3,6 @@ DECL|function|check_single_commit
 DECL|function|clear_commit_line_range
 DECL|function|collect_diff
 DECL|function|collect_diff_cb
-DECL|function|count_parents
 DECL|function|diff_filepair_dup
 DECL|function|diff_might_be_rename
 DECL|function|diff_ranges_filter_touched
