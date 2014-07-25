@@ -26,6 +26,7 @@ DECL|function|find_author_by_nickname
 DECL|function|git_commit_config
 DECL|function|git_status_config
 DECL|function|handle_untracked_files_arg
+DECL|function|implicit_ident_advice
 DECL|function|is_a_merge
 DECL|function|list_paths
 DECL|function|message_is_empty
@@ -74,7 +75,8 @@ DECL|variable|force_author
 DECL|variable|force_date
 DECL|variable|have_option_m
 DECL|variable|ignore_submodule_arg
-DECL|variable|implicit_ident_advice
+DECL|variable|implicit_ident_advice_config
+DECL|variable|implicit_ident_advice_noconfig
 DECL|variable|include_status
 DECL|variable|index_lock
 DECL|variable|interactive
