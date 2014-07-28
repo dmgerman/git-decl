@@ -21,6 +21,7 @@ DECL|function|strbuf_detach
 DECL|function|strbuf_expand
 DECL|function|strbuf_expand_dict_cb
 DECL|function|strbuf_fread
+DECL|function|strbuf_getcwd
 DECL|function|strbuf_getline
 DECL|function|strbuf_getwholeline
 DECL|function|strbuf_getwholeline_fd
