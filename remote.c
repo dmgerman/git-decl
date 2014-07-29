@@ -49,6 +49,7 @@ DECL|function|guess_remote_head
 DECL|function|handle_config
 DECL|function|handle_duplicate
 DECL|function|ignore_symref_update
+DECL|function|init_remotes_hash
 DECL|function|is_empty_cas
 DECL|function|make_branch
 DECL|function|make_linked_ref
@@ -83,6 +84,7 @@ DECL|function|remote_get_1
 DECL|function|remote_has_url
 DECL|function|remote_is_configured
 DECL|function|remote_tracking
+DECL|function|remotes_hash_cmp
 DECL|function|resolve_remote_symref
 DECL|function|set_ref_status_for_push
 DECL|function|sort_ref_list
@@ -102,6 +104,7 @@ DECL|member|instead_of
 DECL|member|instead_of_alloc
 DECL|member|instead_of_nr
 DECL|member|len
+DECL|member|len
 DECL|member|nr
 DECL|member|ref_count
 DECL|member|ref_names
@@ -111,8 +114,10 @@ DECL|member|rewrite_alloc
 DECL|member|rewrite_nr
 DECL|member|s
 DECL|member|stale_refs_tail
+DECL|member|str
 DECL|member|tip
 DECL|struct|counted_string
+DECL|struct|remotes_hash_key
 DECL|struct|rewrite
 DECL|struct|rewrites
 DECL|struct|stale_heads_info
@@ -128,6 +133,7 @@ DECL|variable|explicit_default_remote_name
 DECL|variable|pushremote_name
 DECL|variable|remotes
 DECL|variable|remotes_alloc
+DECL|variable|remotes_hash
 DECL|variable|remotes_nr
 DECL|variable|rewrites
 DECL|variable|rewrites_push
