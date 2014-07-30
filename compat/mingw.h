@@ -97,6 +97,7 @@ DECL|macro|lseek
 DECL|macro|lstat
 DECL|macro|lstat
 DECL|macro|main
+DECL|macro|mark_as_git_dir
 DECL|macro|mkdir
 DECL|macro|mktemp
 DECL|macro|ntohl
@@ -104,6 +105,7 @@ DECL|macro|off_t
 DECL|macro|offset_1st_component
 DECL|macro|open
 DECL|macro|open_html
+DECL|macro|putenv
 DECL|macro|raise
 DECL|macro|rename
 DECL|macro|rmdir
@@ -115,6 +117,7 @@ DECL|macro|socket
 DECL|macro|stat
 DECL|macro|stat
 DECL|macro|unlink
+DECL|macro|unsetenv
 DECL|macro|utime
 DECL|member|it_interval
 DECL|member|it_value
