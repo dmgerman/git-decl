@@ -41,7 +41,6 @@ DECL|function|split_msg
 DECL|function|ssl_socket_connect
 DECL|function|ssl_socket_connect
 DECL|function|ssl_socket_perror
-DECL|function|v_issue_imap_cmd
 DECL|function|verify_hostname
 DECL|function|wrap_in_html
 DECL|macro|CAP
@@ -63,7 +62,6 @@ DECL|member|caps
 DECL|member|cb
 DECL|member|cmd
 DECL|member|cont
-DECL|member|create
 DECL|member|ctx
 DECL|member|data
 DECL|member|dlen
@@ -88,7 +86,6 @@ DECL|member|sock
 DECL|member|ssl
 DECL|member|ssl_verify
 DECL|member|tag
-DECL|member|trycreate
 DECL|member|tunnel
 DECL|member|uid
 DECL|member|uidnext
