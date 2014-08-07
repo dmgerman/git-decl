@@ -9,7 +9,6 @@ DECL|function|drop_privileges
 DECL|function|drop_privileges
 DECL|function|enable_service
 DECL|function|execute
-DECL|function|git_daemon_config
 DECL|function|handle
 DECL|function|ip2str
 DECL|function|kill_some_child
@@ -78,8 +77,6 @@ DECL|variable|max_connections
 DECL|variable|ok_paths
 DECL|variable|reuseaddr
 DECL|variable|saw_extended_args
-DECL|variable|service_enabled
-DECL|variable|service_looking_at
 DECL|variable|strict_paths
 DECL|variable|tcp_port
 DECL|variable|timeout
