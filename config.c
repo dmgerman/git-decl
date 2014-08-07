@@ -81,6 +81,8 @@ DECL|function|git_default_core_config
 DECL|function|git_default_i18n_config
 DECL|function|git_default_mailmap_config
 DECL|function|git_default_push_config
+DECL|function|git_die_config
+DECL|function|git_die_config_linenr
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
 DECL|function|git_parse_int
