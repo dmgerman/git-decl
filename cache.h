@@ -301,6 +301,7 @@ DECL|member|ent
 DECL|member|fd
 DECL|member|file
 DECL|member|filename
+DECL|member|filename
 DECL|member|flags
 DECL|member|fn
 DECL|member|force
@@ -319,6 +320,7 @@ DECL|member|is_delta
 DECL|member|istate
 DECL|member|last_used
 DECL|member|len
+DECL|member|linenr
 DECL|member|mail_begin
 DECL|member|mail_end
 DECL|member|mode
@@ -400,6 +402,7 @@ DECL|struct|git_config_source
 DECL|struct|git_zstream
 DECL|struct|ident_split
 DECL|struct|index_state
+DECL|struct|key_value_info
 DECL|struct|lock_file
 DECL|struct|object_context
 DECL|struct|object_info
