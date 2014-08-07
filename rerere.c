@@ -4,7 +4,6 @@ DECL|function|ferr_puts
 DECL|function|ferr_write
 DECL|function|find_conflict
 DECL|function|git_rerere_config
-DECL|function|git_rerere_gc_config
 DECL|function|handle_cache
 DECL|function|handle_file
 DECL|function|handle_path
@@ -34,8 +33,6 @@ DECL|function|write_rr
 DECL|macro|PUNTED
 DECL|macro|RESOLVED
 DECL|macro|THREE_STAGED
-DECL|member|cutoff_noresolve
-DECL|member|cutoff_resolve
 DECL|member|getline
 DECL|member|input
 DECL|member|input
@@ -43,7 +40,6 @@ DECL|member|io
 DECL|member|io
 DECL|member|output
 DECL|member|wrerror
-DECL|struct|rerere_gc_config_cb
 DECL|struct|rerere_io
 DECL|struct|rerere_io_file
 DECL|struct|rerere_io_mem
