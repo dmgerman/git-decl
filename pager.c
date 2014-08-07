@@ -1,16 +1,11 @@
 DECL|function|check_pager_config
 DECL|function|decimal_width
 DECL|function|git_pager
-DECL|function|pager_command_config
 DECL|function|pager_in_use
 DECL|function|setup_pager
 DECL|function|term_columns
 DECL|function|wait_for_pager
 DECL|function|wait_for_pager_signal
 DECL|macro|DEFAULT_PAGER
-DECL|member|cmd
-DECL|member|value
-DECL|member|want
-DECL|struct|pager_config
 DECL|variable|pager_argv
 DECL|variable|pager_process
