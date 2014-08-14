@@ -52,7 +52,6 @@ DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
 DECL|function|parse_commit_or_die
-DECL|function|parse_gpg_output
 DECL|function|parse_signed_commit
 DECL|function|pop_commit
 DECL|function|pop_most_recent_commit
@@ -79,8 +78,6 @@ DECL|macro|PARENT2
 DECL|macro|RESULT
 DECL|macro|STALE
 DECL|member|buffer
-DECL|member|check
-DECL|member|result
 DECL|member|size
 DECL|struct|commit_buffer
 DECL|variable|all_flags
@@ -93,4 +90,3 @@ DECL|variable|commit_utf8_warn
 DECL|variable|gpg_sig_header
 DECL|variable|gpg_sig_header_len
 DECL|variable|save_commit_buffer
-DECL|variable|sigcheck_gpg_status
