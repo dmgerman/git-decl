@@ -83,6 +83,7 @@ DECL|variable|refuse_unconfigured_deny_msg
 DECL|variable|report_status
 DECL|variable|sent_capabilities
 DECL|variable|shallow_update
+DECL|variable|sigcheck
 DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
