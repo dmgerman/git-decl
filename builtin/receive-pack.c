@@ -17,6 +17,7 @@ DECL|function|iterate_receive_command_list
 DECL|function|parse_deny_action
 DECL|function|parse_pack_header
 DECL|function|prepare_shallow_update
+DECL|function|queue_command
 DECL|function|read_head_info
 DECL|function|receive_pack_config
 DECL|function|refuse_unconfigured_deny
