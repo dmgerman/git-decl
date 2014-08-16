@@ -1,4 +1,8 @@
 DECL|function|fnmatch
+DECL|function|git_find_last_dir_sep
+DECL|function|git_has_dos_drive_prefix
+DECL|function|git_is_dir_sep
+DECL|function|git_offset_1st_component
 DECL|function|gitmempcpy
 DECL|function|gitstrchrnul
 DECL|function|has_extension
@@ -37,12 +41,19 @@ DECL|macro|HAS_MULTI_BITS
 DECL|macro|HAVE_MEMPCPY
 DECL|macro|HAVE_STRCHRNUL
 DECL|macro|LAST_ARG_MUST_BE_NULL
+DECL|macro|LAST_ARG_MUST_BE_NULL
 DECL|macro|MAP_FAILED
 DECL|macro|MAP_PRIVATE
 DECL|macro|MSB
 DECL|macro|NI_MAXHOST
 DECL|macro|NI_MAXSERV
 DECL|macro|NORETURN
+DECL|macro|NORETURN
+DECL|macro|NORETURN
+DECL|macro|NORETURN
+DECL|macro|NORETURN_PTR
+DECL|macro|NORETURN_PTR
+DECL|macro|NORETURN_PTR
 DECL|macro|NORETURN_PTR
 DECL|macro|PATH_MAX
 DECL|macro|PATH_SEP
@@ -79,6 +90,7 @@ DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
+DECL|macro|__attribute__
 DECL|macro|bitsizeof
 DECL|macro|decimal_length
 DECL|macro|error
