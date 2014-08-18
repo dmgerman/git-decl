@@ -19,6 +19,7 @@ DECL|function|parse_pack_header
 DECL|function|prepare_push_cert_sha1
 DECL|function|prepare_shallow_update
 DECL|function|queue_command
+DECL|function|queue_commands_from_cert
 DECL|function|read_head_info
 DECL|function|receive_pack_config
 DECL|function|refuse_unconfigured_deny
