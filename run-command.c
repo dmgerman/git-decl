@@ -17,7 +17,6 @@ DECL|function|finish_command
 DECL|function|locate_in_PATH
 DECL|function|mark_child_for_cleanup
 DECL|function|notify_parent
-DECL|function|prepare_run_command_v_opt
 DECL|function|prepare_shell_cmd
 DECL|function|run_command
 DECL|function|run_command_v_opt
