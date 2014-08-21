@@ -5,6 +5,7 @@ DECL|enumerator|DENY_WARN
 DECL|enum|deny_action
 DECL|function|check_aliased_update
 DECL|function|check_aliased_updates
+DECL|function|check_nonce
 DECL|function|cmd_receive_pack
 DECL|function|collect_one_alternate_ref
 DECL|function|command_singleton_iterator
@@ -12,10 +13,13 @@ DECL|function|copy_to_sideband
 DECL|function|delete_only
 DECL|function|execute_commands
 DECL|function|feed_receive_hook
+DECL|function|find_header
+DECL|function|hmac_sha1
 DECL|function|is_ref_checked_out
 DECL|function|iterate_receive_command_list
 DECL|function|parse_deny_action
 DECL|function|parse_pack_header
+DECL|function|prepare_push_cert_nonce
 DECL|function|prepare_push_cert_sha1
 DECL|function|prepare_shallow_update
 DECL|function|queue_command
@@ -43,6 +47,7 @@ DECL|function|update
 DECL|function|update_shallow_info
 DECL|function|update_shallow_ref
 DECL|function|write_head_info
+DECL|macro|HMAC_BLOCK_SIZE
 DECL|member|buf
 DECL|member|cmd
 DECL|member|cmds
@@ -60,10 +65,14 @@ DECL|struct|command
 DECL|struct|iterate_data
 DECL|struct|receive_hook_feed_state
 DECL|typedef|feed_fn
-DECL|variable|accept_push_cert
+DECL|variable|NONCE_BAD
+DECL|variable|NONCE_MISSING
+DECL|variable|NONCE_OK
+DECL|variable|NONCE_UNSOLICITED
 DECL|variable|alt_shallow_file
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
+DECL|variable|cert_nonce_seed
 DECL|variable|deny_current_branch
 DECL|variable|deny_delete_current
 DECL|variable|deny_deletes
@@ -71,9 +80,11 @@ DECL|variable|deny_non_fast_forwards
 DECL|variable|fix_thin
 DECL|variable|head_name
 DECL|variable|head_name_to_free
+DECL|variable|nonce_status
 DECL|variable|pack_lockfile
 DECL|variable|prefer_ofs_delta
 DECL|variable|push_cert
+DECL|variable|push_cert_nonce
 DECL|variable|push_cert_sha1
 DECL|variable|quiet
 DECL|variable|receive_fsck_objects
