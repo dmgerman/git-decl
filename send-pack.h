@@ -7,6 +7,7 @@ DECL|member|push_cert
 DECL|member|quiet
 DECL|member|send_mirror
 DECL|member|stateless_rpc
+DECL|member|url
 DECL|member|use_ofs_delta
 DECL|member|use_thin_pack
 DECL|member|verbose
