@@ -53,6 +53,7 @@ DECL|function|git_default_i18n_config
 DECL|function|git_default_mailmap_config
 DECL|function|git_default_push_config
 DECL|function|git_env_bool
+DECL|function|git_env_ulong
 DECL|function|git_etc_gitconfig
 DECL|function|git_parse_int
 DECL|function|git_parse_int64
