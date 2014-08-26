@@ -7,6 +7,7 @@ DECL|function|append_lost
 DECL|function|coalesce_lines
 DECL|function|combine_diff
 DECL|function|combined_pair
+DECL|function|compare_paths
 DECL|function|consume_line
 DECL|function|diff_tree_combined
 DECL|function|diff_tree_combined_merge
