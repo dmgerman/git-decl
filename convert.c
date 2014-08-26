@@ -12,12 +12,13 @@ DECL|function|cascade_free_fn
 DECL|function|check_safe_crlf
 DECL|function|convert_attrs
 DECL|function|convert_to_git
+DECL|function|convert_to_git_filter_fd
 DECL|function|convert_to_working_tree
 DECL|function|convert_to_working_tree_internal
 DECL|function|count_ident
 DECL|function|crlf_to_git
 DECL|function|crlf_to_worktree
-DECL|function|filter_buffer
+DECL|function|filter_buffer_or_fd
 DECL|function|free_stream_filter
 DECL|function|gather_stats
 DECL|function|get_stream_filter
@@ -45,6 +46,7 @@ DECL|function|output_eol
 DECL|function|read_convert_config
 DECL|function|renormalize_buffer
 DECL|function|stream_filter
+DECL|function|would_convert_to_git_filter_fd
 DECL|macro|FILTER_BUFFER
 DECL|macro|IDENT_DRAINING
 DECL|macro|IDENT_SKIPPING
@@ -58,6 +60,7 @@ DECL|member|crlf_action
 DECL|member|drv
 DECL|member|end
 DECL|member|eol_attr
+DECL|member|fd
 DECL|member|filter
 DECL|member|filter
 DECL|member|filter

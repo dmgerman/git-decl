@@ -50,6 +50,7 @@ DECL|function|index_mem
 DECL|function|index_path
 DECL|function|index_pipe
 DECL|function|index_stream
+DECL|function|index_stream_convert_blob
 DECL|function|install_packed_git
 DECL|function|is_pack_valid
 DECL|function|link_alt_odb_entries
