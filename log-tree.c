@@ -7,6 +7,7 @@ DECL|function|do_diff_combined
 DECL|function|fmt_output_commit
 DECL|function|fmt_output_subject
 DECL|function|format_decorations
+DECL|function|get_name_decoration
 DECL|function|is_common_merge
 DECL|function|load_ref_decorations
 DECL|function|log_tree_commit
