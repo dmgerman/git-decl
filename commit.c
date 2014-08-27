@@ -23,6 +23,7 @@ DECL|function|copy_commit_list
 DECL|function|detach_commit_buffer
 DECL|function|do_sign_commit
 DECL|function|excluded_header_field
+DECL|function|find_commit_header
 DECL|function|find_commit_subject
 DECL|function|find_invalid_utf8
 DECL|function|for_each_commit_graft
