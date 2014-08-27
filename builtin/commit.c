@@ -21,6 +21,7 @@ DECL|function|create_base_index
 DECL|function|determine_author_info
 DECL|function|determine_whence
 DECL|function|dry_run_commit
+DECL|function|envdup
 DECL|function|export_one
 DECL|function|finalize_deferred_config
 DECL|function|find_author_by_nickname
@@ -45,6 +46,7 @@ DECL|function|run_commit_hook
 DECL|function|run_rewrite_hook
 DECL|function|run_status
 DECL|function|sane_ident_split
+DECL|function|set_ident_var
 DECL|function|split_ident_or_die
 DECL|function|status_init_config
 DECL|function|template_untouched
