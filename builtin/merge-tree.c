@@ -6,7 +6,6 @@ DECL|function|explanation
 DECL|function|get_tree_descriptor
 DECL|function|link_entry
 DECL|function|merge_trees
-DECL|function|merge_trees_recursive
 DECL|function|origin
 DECL|function|resolve
 DECL|function|result
