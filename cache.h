@@ -288,6 +288,7 @@ DECL|member|ce_flags
 DECL|member|ce_mode
 DECL|member|ce_namelen
 DECL|member|ce_stat_data
+DECL|member|config_hash
 DECL|member|data
 DECL|member|date_begin
 DECL|member|date_end
@@ -303,6 +304,7 @@ DECL|member|filename
 DECL|member|flags
 DECL|member|fn
 DECL|member|force
+DECL|member|hash_initialized
 DECL|member|have_repository
 DECL|member|hdr_entries
 DECL|member|hdr_signature
@@ -393,6 +395,7 @@ DECL|struct|cache_header
 DECL|struct|cache_time
 DECL|struct|checkout
 DECL|struct|config_include_data
+DECL|struct|config_set
 DECL|struct|git_config_source
 DECL|struct|git_zstream
 DECL|struct|ident_split
