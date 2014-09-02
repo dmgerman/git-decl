@@ -16,6 +16,7 @@ DECL|function|add_again
 DECL|function|add_merge_info
 DECL|function|add_rfc2047
 DECL|function|add_rfc822_quoted
+DECL|function|commit_format_is_empty
 DECL|function|find_commit_format
 DECL|function|find_commit_format_recursive
 DECL|function|format_and_pad_commit
