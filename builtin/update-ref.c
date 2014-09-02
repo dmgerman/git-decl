@@ -12,5 +12,4 @@ DECL|macro|PARSE_SHA1_ALLOW_EMPTY
 DECL|macro|PARSE_SHA1_OLD
 DECL|variable|git_update_ref_usage
 DECL|variable|line_termination
-DECL|variable|transaction
 DECL|variable|update_flags
