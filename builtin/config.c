@@ -2,6 +2,7 @@ DECL|function|check_argc
 DECL|function|check_write
 DECL|function|cmd_config
 DECL|function|collect_config
+DECL|function|default_user_config
 DECL|function|format_config
 DECL|function|get_color
 DECL|function|get_colorbool
