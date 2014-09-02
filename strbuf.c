@@ -5,6 +5,7 @@ DECL|function|is_rfc3986_unreserved
 DECL|function|printf_ln
 DECL|function|starts_with
 DECL|function|strbuf_add
+DECL|function|strbuf_add_absolute_path
 DECL|function|strbuf_add_commented_lines
 DECL|function|strbuf_add_lines
 DECL|function|strbuf_add_urlencode
@@ -20,6 +21,7 @@ DECL|function|strbuf_detach
 DECL|function|strbuf_expand
 DECL|function|strbuf_expand_dict_cb
 DECL|function|strbuf_fread
+DECL|function|strbuf_getcwd
 DECL|function|strbuf_getline
 DECL|function|strbuf_getwholeline
 DECL|function|strbuf_getwholeline_fd
