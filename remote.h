@@ -30,6 +30,7 @@ DECL|macro|REMOTE_H
 DECL|member|alloc
 DECL|member|deletion
 DECL|member|dst
+DECL|member|ent
 DECL|member|entry
 DECL|member|exact_sha1
 DECL|member|expect
