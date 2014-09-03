@@ -69,7 +69,6 @@ DECL|function|get_packed_ref_dir
 DECL|function|get_packed_refs
 DECL|function|get_ref_cache
 DECL|function|get_ref_dir
-DECL|function|handle_missing_loose_ref
 DECL|function|head_ref
 DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
@@ -114,6 +113,7 @@ DECL|function|ref_transaction_update
 DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
 DECL|function|reflog_exists
+DECL|function|refname_is_safe
 DECL|function|refname_match
 DECL|function|release_packed_ref_cache
 DECL|function|remove_empty_directories
@@ -126,6 +126,7 @@ DECL|function|report_refname_conflict
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
+DECL|function|resolve_missing_loose_ref
 DECL|function|resolve_ref_unsafe
 DECL|function|resolve_refdup
 DECL|function|rollback_packed_refs
