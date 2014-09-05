@@ -68,6 +68,7 @@ DECL|typedef|feed_fn
 DECL|variable|NONCE_BAD
 DECL|variable|NONCE_MISSING
 DECL|variable|NONCE_OK
+DECL|variable|NONCE_SLOP
 DECL|variable|NONCE_UNSOLICITED
 DECL|variable|alt_shallow_file
 DECL|variable|auto_gc
@@ -80,6 +81,8 @@ DECL|variable|deny_non_fast_forwards
 DECL|variable|fix_thin
 DECL|variable|head_name
 DECL|variable|head_name_to_free
+DECL|variable|nonce_stamp_slop
+DECL|variable|nonce_stamp_slop_limit
 DECL|variable|nonce_status
 DECL|variable|pack_lockfile
 DECL|variable|prefer_ofs_delta
@@ -94,8 +97,10 @@ DECL|variable|refuse_unconfigured_deny_delete_current_msg
 DECL|variable|refuse_unconfigured_deny_msg
 DECL|variable|report_status
 DECL|variable|sent_capabilities
+DECL|variable|service_dir
 DECL|variable|shallow_update
 DECL|variable|sigcheck
+DECL|variable|stateless_rpc
 DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
