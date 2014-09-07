@@ -9,6 +9,7 @@ DECL|function|strbuf_add_commented_lines
 DECL|function|strbuf_add_lines
 DECL|function|strbuf_add_urlencode
 DECL|function|strbuf_addbuf_percentquote
+DECL|function|strbuf_addchars
 DECL|function|strbuf_adddup
 DECL|function|strbuf_addf
 DECL|function|strbuf_addstr_urlencode
