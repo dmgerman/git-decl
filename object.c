@@ -20,7 +20,7 @@ DECL|function|object_list_insert
 DECL|function|parse_object
 DECL|function|parse_object_buffer
 DECL|function|parse_object_or_die
-DECL|function|type_from_string
+DECL|function|type_from_string_gently
 DECL|function|typename
 DECL|variable|nr_objs
 DECL|variable|obj_hash

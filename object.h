@@ -2,6 +2,7 @@ DECL|macro|FLAG_BITS
 DECL|macro|OBJECT_ARRAY_INIT
 DECL|macro|OBJECT_H
 DECL|macro|TYPE_BITS
+DECL|macro|type_from_string
 DECL|member|alloc
 DECL|member|context
 DECL|member|flags
