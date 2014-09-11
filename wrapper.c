@@ -2,6 +2,8 @@ DECL|function|access_error_is_ok
 DECL|function|access_or_die
 DECL|function|access_or_warn
 DECL|function|do_nothing
+DECL|function|do_xmalloc
+DECL|function|do_xmallocz
 DECL|function|git_mkstemp
 DECL|function|git_mkstemp_mode
 DECL|function|git_mkstemps
@@ -24,6 +26,7 @@ DECL|function|xgetcwd
 DECL|function|xgetpwuid_self
 DECL|function|xmalloc
 DECL|function|xmallocz
+DECL|function|xmallocz_gently
 DECL|function|xmemdupz
 DECL|function|xmkstemp
 DECL|function|xmkstemp_mode
