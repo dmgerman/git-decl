@@ -9,6 +9,7 @@ DECL|function|fsck_walk
 DECL|function|fsck_walk_commit
 DECL|function|fsck_walk_tag
 DECL|function|fsck_walk_tree
+DECL|function|require_end_of_header
 DECL|function|verify_ordered
 DECL|macro|TREE_HAS_DUPS
 DECL|macro|TREE_UNORDERED
