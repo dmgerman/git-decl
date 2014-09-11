@@ -1,4 +1,5 @@
 DECL|function|async_die_is_recursing
+DECL|function|child_process_init
 DECL|function|cleanup_children
 DECL|function|cleanup_children_on_exit
 DECL|function|cleanup_children_on_signal
@@ -16,7 +17,6 @@ DECL|function|finish_command
 DECL|function|locate_in_PATH
 DECL|function|mark_child_for_cleanup
 DECL|function|notify_parent
-DECL|function|prepare_run_command_v_opt
 DECL|function|prepare_shell_cmd
 DECL|function|run_command
 DECL|function|run_command_v_opt
