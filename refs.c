@@ -3,7 +3,10 @@ DECL|enumerator|PEEL_INVALID
 DECL|enumerator|PEEL_IS_SYMREF
 DECL|enumerator|PEEL_NON_TAG
 DECL|enumerator|PEEL_PEELED
+DECL|enumerator|REF_TRANSACTION_CLOSED
+DECL|enumerator|REF_TRANSACTION_OPEN
 DECL|enum|peel_status
+DECL|enum|ref_transaction_state
 DECL|function|acquire_packed_ref_cache
 DECL|function|add_entry_to_dir
 DECL|function|add_packed_ref
@@ -74,7 +77,6 @@ DECL|function|is_dup_ref
 DECL|function|is_refname_available
 DECL|function|lock_any_ref_for_update
 DECL|function|lock_packed_refs
-DECL|function|lock_ref_sha1
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
 DECL|function|log_ref_write
@@ -118,7 +120,6 @@ DECL|function|remove_empty_directories
 DECL|function|remove_entry
 DECL|function|rename_ref
 DECL|function|rename_tmp_log
-DECL|function|repack_without_ref
 DECL|function|repack_without_refs
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
@@ -135,8 +136,6 @@ DECL|function|substitute_branch_name
 DECL|function|try_remove_empty_parents
 DECL|function|unlock_ref
 DECL|function|update_ref
-DECL|function|update_ref_lock
-DECL|function|update_ref_write
 DECL|function|verify_lock
 DECL|function|warn_dangling_symref
 DECL|function|warn_dangling_symrefs
@@ -150,6 +149,7 @@ DECL|macro|MAXREFLEN
 DECL|macro|PEELED_LINE_LENGTH
 DECL|macro|REF_DIR
 DECL|macro|REF_INCOMPLETE
+DECL|macro|REF_ISPRUNING
 DECL|macro|REF_KNOWS_PEELED
 DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc
@@ -210,6 +210,7 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sorted
+DECL|member|state
 DECL|member|str
 DECL|member|subdir
 DECL|member|trim
