@@ -271,6 +271,7 @@ DECL|macro|unmerge_cache
 DECL|macro|unmerge_cache_entry_at
 DECL|macro|unmerged_cache
 DECL|macro|ws_tab_width
+DECL|member|alloc
 DECL|member|avail_in
 DECL|member|avail_out
 DECL|member|bad_object_sha1
@@ -297,9 +298,12 @@ DECL|member|depth
 DECL|member|dir_hash
 DECL|member|disk_sizep
 DECL|member|do_not_close
+DECL|member|e
+DECL|member|ent
 DECL|member|ent
 DECL|member|fd
 DECL|member|file
+DECL|member|filename
 DECL|member|filename
 DECL|member|flags
 DECL|member|fn
@@ -317,8 +321,12 @@ DECL|member|initialized
 DECL|member|inuse_cnt
 DECL|member|is_delta
 DECL|member|istate
+DECL|member|items
+DECL|member|key
 DECL|member|last_used
 DECL|member|len
+DECL|member|linenr
+DECL|member|list
 DECL|member|mail_begin
 DECL|member|mail_end
 DECL|member|mode
@@ -336,6 +344,7 @@ DECL|member|next
 DECL|member|next_in
 DECL|member|next_out
 DECL|member|not_new
+DECL|member|nr
 DECL|member|nsec
 DECL|member|num_bad_objects
 DECL|member|num_objects
@@ -384,6 +393,8 @@ DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
 DECL|member|use_stdin
+DECL|member|value_index
+DECL|member|value_list
 DECL|member|version
 DECL|member|whence
 DECL|member|windows
@@ -396,10 +407,14 @@ DECL|struct|cache_time
 DECL|struct|checkout
 DECL|struct|config_include_data
 DECL|struct|config_set
+DECL|struct|config_set_element
+DECL|struct|configset_list
+DECL|struct|configset_list_item
 DECL|struct|git_config_source
 DECL|struct|git_zstream
 DECL|struct|ident_split
 DECL|struct|index_state
+DECL|struct|key_value_info
 DECL|struct|lock_file
 DECL|struct|object_context
 DECL|struct|object_info

@@ -13,6 +13,7 @@ DECL|function|config_set_callback
 DECL|function|config_set_element_cmp
 DECL|function|configset_add_value
 DECL|function|configset_find_element
+DECL|function|configset_iter
 DECL|function|die_bad_number
 DECL|function|do_config_from
 DECL|function|do_config_from_file
@@ -52,6 +53,7 @@ DECL|function|git_config_parse_key
 DECL|function|git_config_parse_parameter
 DECL|function|git_config_pathname
 DECL|function|git_config_push_parameter
+DECL|function|git_config_raw
 DECL|function|git_config_rename_section
 DECL|function|git_config_rename_section_in_file
 DECL|function|git_config_set
@@ -81,6 +83,8 @@ DECL|function|git_default_core_config
 DECL|function|git_default_i18n_config
 DECL|function|git_default_mailmap_config
 DECL|function|git_default_push_config
+DECL|function|git_die_config
+DECL|function|git_die_config_linenr
 DECL|function|git_env_bool
 DECL|function|git_etc_gitconfig
 DECL|function|git_parse_int
@@ -111,10 +115,8 @@ DECL|member|do_fgetc
 DECL|member|do_ftell
 DECL|member|do_not_match
 DECL|member|do_ungetc
-DECL|member|ent
 DECL|member|eof
 DECL|member|file
-DECL|member|key
 DECL|member|key
 DECL|member|len
 DECL|member|linenr
@@ -129,11 +131,9 @@ DECL|member|seen
 DECL|member|state
 DECL|member|u
 DECL|member|value
-DECL|member|value_list
 DECL|member|value_regex
 DECL|member|var
 DECL|struct|config_buf
-DECL|struct|config_set_element
 DECL|struct|config_source
 DECL|variable|cf
 DECL|variable|include_depth_advice
