@@ -67,6 +67,7 @@ DECL|member|data
 DECL|member|dlen
 DECL|member|done
 DECL|member|fd
+DECL|member|folder
 DECL|member|host
 DECL|member|imap
 DECL|member|in_progress
@@ -104,6 +105,5 @@ DECL|typedef|SSL
 DECL|variable|Quiet
 DECL|variable|Verbose
 DECL|variable|cap_list
-DECL|variable|imap_folder
 DECL|variable|imap_send_usage
 DECL|variable|server
