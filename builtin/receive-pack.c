@@ -16,6 +16,7 @@ DECL|function|is_ref_checked_out
 DECL|function|iterate_receive_command_list
 DECL|function|parse_deny_action
 DECL|function|parse_pack_header
+DECL|function|prepare_push_cert_sha1
 DECL|function|prepare_shallow_update
 DECL|function|queue_command
 DECL|function|read_head_info
@@ -58,6 +59,7 @@ DECL|struct|command
 DECL|struct|iterate_data
 DECL|struct|receive_hook_feed_state
 DECL|typedef|feed_fn
+DECL|variable|accept_push_cert
 DECL|variable|alt_shallow_file
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
@@ -70,6 +72,8 @@ DECL|variable|head_name
 DECL|variable|head_name_to_free
 DECL|variable|pack_lockfile
 DECL|variable|prefer_ofs_delta
+DECL|variable|push_cert
+DECL|variable|push_cert_sha1
 DECL|variable|quiet
 DECL|variable|receive_fsck_objects
 DECL|variable|receive_pack_usage
