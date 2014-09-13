@@ -1,9 +1,11 @@
 DECL|function|add_info_ref
 DECL|function|compare_info
 DECL|function|find_pack_by_name
+DECL|function|generate_info_refs
 DECL|function|init_pack_info
 DECL|function|parse_pack_def
 DECL|function|read_pack_info_file
+DECL|function|update_info_file
 DECL|function|update_info_packs
 DECL|function|update_info_refs
 DECL|function|update_server_info
@@ -16,7 +18,6 @@ DECL|member|old_num
 DECL|member|p
 DECL|struct|pack_info
 DECL|variable|info
-DECL|variable|info_ref_fp
 DECL|variable|num_pack
 DECL|variable|objdir
 DECL|variable|objdirlen
