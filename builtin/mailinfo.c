@@ -25,6 +25,7 @@ DECL|function|handle_from
 DECL|function|handle_header
 DECL|function|handle_info
 DECL|function|handle_patch
+DECL|function|is_format_patch_separator
 DECL|function|is_multipart_boundary
 DECL|function|is_rfc2822_header
 DECL|function|is_scissors_line
@@ -36,6 +37,7 @@ DECL|function|read_one_header_line
 DECL|function|slurp_attr
 DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
+DECL|macro|SAMPLE
 DECL|variable|charset
 DECL|variable|cmitmsg
 DECL|variable|content
