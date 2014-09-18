@@ -24,7 +24,6 @@ DECL|function|free_ref_list
 DECL|function|get_head_description
 DECL|function|git_branch_config
 DECL|function|match_patterns
-DECL|function|matches_merge_filter
 DECL|function|opt_parse_merge_filter
 DECL|function|parse_branch_color_slot
 DECL|function|print_ref_item
@@ -39,6 +38,7 @@ DECL|member|abbrev
 DECL|member|alloc
 DECL|member|commit
 DECL|member|dest
+DECL|member|ignore
 DECL|member|index
 DECL|member|kind
 DECL|member|kinds
