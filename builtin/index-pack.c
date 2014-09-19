@@ -7,6 +7,7 @@ DECL|function|check_objects
 DECL|function|cleanup_thread
 DECL|function|cmd_index_pack
 DECL|function|cmp_uint32
+DECL|function|compare_and_swap_type
 DECL|function|compare_delta_bases
 DECL|function|compare_delta_entry
 DECL|function|compare_objects
@@ -65,6 +66,8 @@ DECL|macro|read_lock
 DECL|macro|read_lock
 DECL|macro|read_unlock
 DECL|macro|read_unlock
+DECL|macro|type_cas_lock
+DECL|macro|type_cas_unlock
 DECL|macro|work_lock
 DECL|macro|work_lock
 DECL|macro|work_unlock
@@ -134,5 +137,6 @@ DECL|variable|show_stat
 DECL|variable|strict
 DECL|variable|thread_data
 DECL|variable|threads_active
+DECL|variable|type_cas_mutex
 DECL|variable|verbose
 DECL|variable|work_mutex
