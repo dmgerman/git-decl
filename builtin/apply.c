@@ -97,7 +97,7 @@ DECL|function|parse_traditional_patch
 DECL|function|parse_whitespace_option
 DECL|function|patch_stats
 DECL|function|prefix_one
-DECL|function|prefix_patches
+DECL|function|prefix_patch
 DECL|function|preimage_sha1_in_gitlink_patch
 DECL|function|prepare_fn_table
 DECL|function|prepare_image
