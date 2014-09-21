@@ -37,7 +37,6 @@ DECL|function|read_one_header_line
 DECL|function|slurp_attr
 DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
-DECL|macro|SAMPLE
 DECL|variable|charset
 DECL|variable|cmitmsg
 DECL|variable|content
