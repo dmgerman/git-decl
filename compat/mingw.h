@@ -13,6 +13,8 @@ DECL|function|mingw_SSL_set_rfd
 DECL|function|mingw_SSL_set_wfd
 DECL|function|mingw_find_last_dir_sep
 DECL|function|readlink
+DECL|function|sigaddset
+DECL|function|sigprocmask
 DECL|function|symlink
 DECL|function|sync
 DECL|function|xutftowcs
@@ -38,6 +40,7 @@ DECL|macro|SIGHUP
 DECL|macro|SIGKILL
 DECL|macro|SIGPIPE
 DECL|macro|SIGQUIT
+DECL|macro|SIG_UNBLOCK
 DECL|macro|SSL_set_fd
 DECL|macro|SSL_set_rfd
 DECL|macro|SSL_set_wfd
