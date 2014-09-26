@@ -38,6 +38,7 @@ DECL|function|do_head_ref
 DECL|function|do_one_ref
 DECL|function|dwim_log
 DECL|function|dwim_ref
+DECL|function|entry_matches
 DECL|function|filter_refs
 DECL|function|find_beginning_of_line
 DECL|function|find_containing_dir
@@ -80,8 +81,7 @@ DECL|function|lock_packed_refs
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
 DECL|function|log_ref_write
-DECL|function|name_conflict_fn
-DECL|function|names_conflict
+DECL|function|nonmatching_ref_fn
 DECL|function|pack_if_possible_fn
 DECL|function|pack_refs
 DECL|function|parse_hide_refs_config
@@ -121,6 +121,7 @@ DECL|function|remove_entry
 DECL|function|rename_ref
 DECL|function|rename_tmp_log
 DECL|function|repack_without_refs
+DECL|function|report_refname_conflict
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
@@ -159,7 +160,6 @@ DECL|member|base
 DECL|member|cb_data
 DECL|member|cb_data
 DECL|member|cnt
-DECL|member|conflicting_refname
 DECL|member|cutoff_cnt
 DECL|member|cutoff_time
 DECL|member|cutoff_tz
@@ -171,6 +171,7 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|fn
 DECL|member|fn
+DECL|member|found
 DECL|member|found_it
 DECL|member|fp
 DECL|member|have_old
@@ -190,7 +191,6 @@ DECL|member|nr
 DECL|member|nr
 DECL|member|nsha1
 DECL|member|old_sha1
-DECL|member|oldrefname
 DECL|member|osha1
 DECL|member|packed
 DECL|member|packed_refs
@@ -203,12 +203,12 @@ DECL|member|referrers
 DECL|member|refname
 DECL|member|refname
 DECL|member|refname
-DECL|member|refname
 DECL|member|refnames
 DECL|member|root
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|skip
 DECL|member|sorted
 DECL|member|state
 DECL|member|str
@@ -220,7 +220,7 @@ DECL|member|u
 DECL|member|updates
 DECL|member|validity
 DECL|member|value
-DECL|struct|name_conflict_cb
+DECL|struct|nonmatching_ref_data
 DECL|struct|pack_refs_cb_data
 DECL|struct|packed_ref_cache
 DECL|struct|read_ref_at_cb
