@@ -6,6 +6,7 @@ DECL|function|handle_options
 DECL|function|is_builtin
 DECL|function|main
 DECL|function|restore_env
+DECL|function|restore_sigpipe_to_default
 DECL|function|run_argv
 DECL|function|run_builtin
 DECL|function|save_env
