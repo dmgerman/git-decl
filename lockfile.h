@@ -1,0 +1,12 @@
+DECL|macro|LOCKFILE_H
+DECL|macro|LOCK_DIE_ON_ERROR
+DECL|macro|LOCK_NO_DEREF
+DECL|macro|LOCK_SUFFIX
+DECL|macro|LOCK_SUFFIX_LEN
+DECL|member|active
+DECL|member|fd
+DECL|member|filename
+DECL|member|next
+DECL|member|on_list
+DECL|member|owner
+DECL|struct|lock_file

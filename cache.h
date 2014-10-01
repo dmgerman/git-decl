@@ -195,10 +195,6 @@ DECL|macro|INDEX_FORMAT_UB
 DECL|macro|INFOATTRIBUTES_FILE
 DECL|macro|INIT_DB_QUIET
 DECL|macro|INODE_CHANGED
-DECL|macro|LOCK_DIE_ON_ERROR
-DECL|macro|LOCK_NO_DEREF
-DECL|macro|LOCK_SUFFIX
-DECL|macro|LOCK_SUFFIX_LEN
 DECL|macro|LOOKUP_REPLACE_OBJECT
 DECL|macro|MINIMUM_ABBREV
 DECL|macro|MODE_CHANGED
@@ -275,7 +271,6 @@ DECL|macro|unmerge_cache
 DECL|macro|unmerge_cache_entry_at
 DECL|macro|unmerged_cache
 DECL|macro|ws_tab_width
-DECL|member|active
 DECL|member|alloc
 DECL|member|avail_in
 DECL|member|avail_out
@@ -306,9 +301,7 @@ DECL|member|do_not_close
 DECL|member|e
 DECL|member|ent
 DECL|member|ent
-DECL|member|fd
 DECL|member|file
-DECL|member|filename
 DECL|member|filename
 DECL|member|flags
 DECL|member|fn
@@ -345,7 +338,6 @@ DECL|member|name_hash_initialized
 DECL|member|next
 DECL|member|next
 DECL|member|next
-DECL|member|next
 DECL|member|next_in
 DECL|member|next_out
 DECL|member|not_new
@@ -356,8 +348,6 @@ DECL|member|num_objects
 DECL|member|offset
 DECL|member|offset
 DECL|member|offset
-DECL|member|on_list
-DECL|member|owner
 DECL|member|p
 DECL|member|pack
 DECL|member|pack_fd
@@ -420,7 +410,6 @@ DECL|struct|git_zstream
 DECL|struct|ident_split
 DECL|struct|index_state
 DECL|struct|key_value_info
-DECL|struct|lock_file
 DECL|struct|object_context
 DECL|struct|object_info
 DECL|struct|pack_entry
