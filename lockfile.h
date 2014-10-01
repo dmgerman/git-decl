@@ -6,6 +6,7 @@ DECL|macro|LOCK_SUFFIX_LEN
 DECL|member|active
 DECL|member|fd
 DECL|member|filename
+DECL|member|fp
 DECL|member|next
 DECL|member|on_list
 DECL|member|owner
