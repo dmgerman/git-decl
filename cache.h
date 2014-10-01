@@ -275,6 +275,7 @@ DECL|macro|unmerge_cache
 DECL|macro|unmerge_cache_entry_at
 DECL|macro|unmerged_cache
 DECL|macro|ws_tab_width
+DECL|member|active
 DECL|member|alloc
 DECL|member|avail_in
 DECL|member|avail_out
