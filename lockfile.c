@@ -1,5 +1,6 @@
 DECL|function|close_lock_file
 DECL|function|commit_lock_file
+DECL|function|commit_lock_file_to
 DECL|function|hold_lock_file_for_append
 DECL|function|hold_lock_file_for_update
 DECL|function|hold_locked_index
