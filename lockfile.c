@@ -10,8 +10,8 @@ DECL|function|remove_lock_file_on_signal
 DECL|function|reopen_lock_file
 DECL|function|resolve_symlink
 DECL|function|rollback_lock_file
+DECL|function|unable_to_lock_die
 DECL|function|unable_to_lock_error
-DECL|function|unable_to_lock_index_die
 DECL|function|unable_to_lock_message
 DECL|macro|MAXDEPTH
 DECL|variable|lock_file_list
