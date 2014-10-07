@@ -25,6 +25,7 @@ DECL|function|handle_from
 DECL|function|handle_header
 DECL|function|handle_info
 DECL|function|handle_patch
+DECL|function|is_format_patch_separator
 DECL|function|is_multipart_boundary
 DECL|function|is_rfc2822_header
 DECL|function|is_scissors_line
