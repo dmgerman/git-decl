@@ -1,7 +1,10 @@
 DECL|function|advertise_shallow_grafts_buf
 DECL|function|advertise_shallow_grafts_cb
 DECL|function|feed_object
+DECL|function|generate_push_cert
+DECL|function|next_line
 DECL|function|pack_objects
 DECL|function|receive_status
+DECL|function|ref_update_to_be_sent
 DECL|function|send_pack
 DECL|function|sideband_demux

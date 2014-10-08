@@ -43,6 +43,7 @@ DECL|member|out
 DECL|member|pos
 DECL|member|progress
 DECL|member|proto_git
+DECL|member|push_cert
 DECL|member|refs
 DECL|member|result
 DECL|member|service
