@@ -67,6 +67,8 @@ DECL|macro|read_lock
 DECL|macro|read_unlock
 DECL|macro|read_unlock
 DECL|macro|type_cas_lock
+DECL|macro|type_cas_lock
+DECL|macro|type_cas_unlock
 DECL|macro|type_cas_unlock
 DECL|macro|work_lock
 DECL|macro|work_lock
