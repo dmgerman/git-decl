@@ -23,6 +23,8 @@ DECL|function|add_trailer_item
 DECL|function|after_or_end
 DECL|function|apply_arg_if_exists
 DECL|function|apply_arg_if_missing
+DECL|function|apply_command
+DECL|function|apply_item_command
 DECL|function|check_if_different
 DECL|function|contains_only_spaces
 DECL|function|create_trailer_item
@@ -46,6 +48,7 @@ DECL|function|process_command_line_args
 DECL|function|process_input_file
 DECL|function|process_trailers
 DECL|function|process_trailers_lists
+DECL|function|read_from_command
 DECL|function|read_input_file
 DECL|function|remove_first
 DECL|function|remove_from_list
@@ -55,11 +58,13 @@ DECL|function|same_value
 DECL|function|set_if_exists
 DECL|function|set_if_missing
 DECL|function|set_where
+DECL|function|strbuf_replace
 DECL|function|token_from_item
 DECL|function|token_len_without_separator
 DECL|function|token_matches_item
 DECL|function|update_first
 DECL|function|update_last
+DECL|macro|TRAILER_ARG_STRING
 DECL|member|command
 DECL|member|conf
 DECL|member|if_exists
