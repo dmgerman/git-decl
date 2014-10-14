@@ -7,6 +7,7 @@ DECL|function|clone_local
 DECL|function|cmd_clone
 DECL|function|copy_alternates
 DECL|function|copy_or_link_directory
+DECL|function|dissociate_from_references
 DECL|function|find_remote_branch
 DECL|function|get_repo_path
 DECL|function|guess_dir_name
@@ -36,6 +37,7 @@ DECL|variable|option_bare
 DECL|variable|option_branch
 DECL|variable|option_config
 DECL|variable|option_depth
+DECL|variable|option_dissociate
 DECL|variable|option_local
 DECL|variable|option_mirror
 DECL|variable|option_no_checkout
