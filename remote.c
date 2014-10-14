@@ -84,6 +84,7 @@ DECL|function|remote_has_url
 DECL|function|remote_is_configured
 DECL|function|remote_tracking
 DECL|function|resolve_remote_symref
+DECL|function|set_merge
 DECL|function|set_ref_status_for_push
 DECL|function|sort_ref_list
 DECL|function|stat_tracking_info
