@@ -36,6 +36,7 @@ DECL|function|get_index_format_default
 DECL|function|has_dir_name
 DECL|function|has_file_name
 DECL|function|has_racy_timestamp
+DECL|function|hold_locked_index
 DECL|function|ie_match_stat
 DECL|function|ie_modified
 DECL|function|index_name_is_other
