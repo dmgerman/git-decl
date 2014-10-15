@@ -9,6 +9,7 @@ DECL|function|add_parents_to_list
 DECL|function|add_pending_commit_list
 DECL|function|add_pending_object
 DECL|function|add_pending_object_with_mode
+DECL|function|add_pending_object_with_path
 DECL|function|add_pending_sha1
 DECL|function|add_ref_exclusion
 DECL|function|add_reflogs_to_pending
