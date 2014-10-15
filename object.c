@@ -12,6 +12,7 @@ DECL|function|hash_obj
 DECL|function|insert_obj_hash
 DECL|function|lookup_object
 DECL|function|lookup_unknown_object
+DECL|function|object_array_clear
 DECL|function|object_array_filter
 DECL|function|object_array_release_entry
 DECL|function|object_array_remove_duplicates
