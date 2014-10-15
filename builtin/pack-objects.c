@@ -56,6 +56,8 @@ DECL|function|pbase_tree_get
 DECL|function|pbase_tree_put
 DECL|function|prepare_pack
 DECL|function|read_object_list_from_stdin
+DECL|function|record_recent_commit
+DECL|function|record_recent_object
 DECL|function|setup_delta_attr_check
 DECL|function|show_commit
 DECL|function|show_edge
@@ -158,6 +160,7 @@ DECL|variable|progress_cond
 DECL|variable|progress_mutex
 DECL|variable|progress_state
 DECL|variable|read_mutex
+DECL|variable|recent_objects
 DECL|variable|reuse_delta
 DECL|variable|reuse_object
 DECL|variable|reuse_packfile
