@@ -1,6 +1,13 @@
 DECL|function|cmd_count_objects
-DECL|function|count_objects
+DECL|function|count_cruft
+DECL|function|count_loose
+DECL|function|loose_garbage
 DECL|function|real_report_garbage
 DECL|variable|count_objects_usage
 DECL|variable|garbage
+DECL|variable|loose
+DECL|variable|loose_size
+DECL|variable|packed
+DECL|variable|packed_loose
 DECL|variable|size_garbage
+DECL|variable|verbose
