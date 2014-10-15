@@ -27,6 +27,9 @@ DECL|function|find_pack_entry_one
 DECL|function|find_sha1_pack
 DECL|function|for_each_file_in_obj_subdir
 DECL|function|for_each_loose_file_in_objdir
+DECL|function|for_each_loose_object
+DECL|function|for_each_object_in_pack
+DECL|function|for_each_packed_object
 DECL|function|force_object_loose
 DECL|function|foreach_alt_odb
 DECL|function|free_pack_by_name
@@ -57,6 +60,7 @@ DECL|function|install_packed_git
 DECL|function|is_pack_valid
 DECL|function|link_alt_odb_entries
 DECL|function|link_alt_odb_entry
+DECL|function|loose_from_alt_odb
 DECL|function|map_sha1_file
 DECL|function|mark_bad_packed_object
 DECL|function|mkdir_in_gitdir
@@ -130,7 +134,9 @@ DECL|macro|SZ_FMT
 DECL|macro|UNPACK_ENTRY_STACK_PREALLOC
 DECL|member|base_offset
 DECL|member|buf
+DECL|member|cb
 DECL|member|curpos
+DECL|member|data
 DECL|member|data
 DECL|member|lru
 DECL|member|next
@@ -146,6 +152,7 @@ DECL|member|type
 DECL|struct|cached_object
 DECL|struct|delta_base_cache_entry
 DECL|struct|delta_base_cache_lru_list
+DECL|struct|loose_alt_odb_data
 DECL|struct|unpack_entry_stack_ent
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail

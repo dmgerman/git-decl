@@ -432,4 +432,5 @@ DECL|typedef|each_abbrev_fn
 DECL|typedef|each_loose_cruft_fn
 DECL|typedef|each_loose_object_fn
 DECL|typedef|each_loose_subdir_fn
+DECL|typedef|each_packed_object_fn
 DECL|typedef|git_zstream
