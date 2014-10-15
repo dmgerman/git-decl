@@ -1,7 +1,6 @@
 DECL|function|add_object_array
-DECL|function|add_object_array_with_context
 DECL|function|add_object_array_with_mode
-DECL|function|add_object_array_with_mode_context
+DECL|function|add_object_array_with_path
 DECL|function|clear_object_flags
 DECL|function|contains_name
 DECL|function|create_object
