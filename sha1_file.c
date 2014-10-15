@@ -4,6 +4,10 @@ DECL|function|add_to_alternates_file
 DECL|function|alloc_packed_git
 DECL|function|assert_sha1_type
 DECL|function|cache_or_unpack_entry
+DECL|function|check_and_freshen
+DECL|function|check_and_freshen_file
+DECL|function|check_and_freshen_local
+DECL|function|check_and_freshen_nonlocal
 DECL|function|check_commit
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
@@ -33,6 +37,9 @@ DECL|function|for_each_packed_object
 DECL|function|force_object_loose
 DECL|function|foreach_alt_odb
 DECL|function|free_pack_by_name
+DECL|function|freshen_file
+DECL|function|freshen_loose_object
+DECL|function|freshen_packed_object
 DECL|function|get_delta_base
 DECL|function|get_delta_base_cache_entry
 DECL|function|get_delta_base_sha1
@@ -40,7 +47,6 @@ DECL|function|get_max_fd_limit
 DECL|function|get_size_from_delta
 DECL|function|git_open_noatime
 DECL|function|has_loose_object
-DECL|function|has_loose_object_local
 DECL|function|has_loose_object_nonlocal
 DECL|function|has_pack_index
 DECL|function|has_packed_and_bad
