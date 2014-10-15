@@ -25,6 +25,8 @@ DECL|function|find_lru_pack
 DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_pack
+DECL|function|for_each_file_in_obj_subdir
+DECL|function|for_each_loose_file_in_objdir
 DECL|function|force_object_loose
 DECL|function|foreach_alt_odb
 DECL|function|free_pack_by_name
