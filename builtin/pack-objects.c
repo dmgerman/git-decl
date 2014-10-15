@@ -39,6 +39,7 @@ DECL|function|index_commit_for_bitmap
 DECL|function|init_threaded_search
 DECL|function|ll_find_deltas
 DECL|function|loosen_unused_packed_objects
+DECL|function|loosened_object_can_be_discarded
 DECL|function|mark_in_pack_object
 DECL|function|mark_tagged
 DECL|function|name_cmp_len
