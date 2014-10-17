@@ -1,7 +1,4 @@
-DECL|function|add_cache_refs
-DECL|function|add_cache_tree
 DECL|function|add_one_ref
-DECL|function|add_one_tree
 DECL|function|add_recent_loose
 DECL|function|add_recent_object
 DECL|function|add_recent_packed
