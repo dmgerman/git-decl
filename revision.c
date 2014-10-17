@@ -1,7 +1,9 @@
+DECL|function|add_cache_tree
 DECL|function|add_child
 DECL|function|add_grep
 DECL|function|add_head_to_pending
 DECL|function|add_header_grep
+DECL|function|add_index_objects_to_pending
 DECL|function|add_message_grep
 DECL|function|add_object
 DECL|function|add_parents_only
