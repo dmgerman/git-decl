@@ -30,7 +30,6 @@ DECL|variable|builtin_clone_usage
 DECL|variable|junk_git_dir
 DECL|variable|junk_leave_repo_msg
 DECL|variable|junk_mode
-DECL|variable|junk_pid
 DECL|variable|junk_work_tree
 DECL|variable|option_bare
 DECL|variable|option_branch

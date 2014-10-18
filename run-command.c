@@ -14,6 +14,9 @@ DECL|function|exists_in_PATH
 DECL|function|find_hook
 DECL|function|finish_async
 DECL|function|finish_command
+DECL|function|git_atexit
+DECL|function|git_atexit_clear
+DECL|function|git_atexit_dispatch
 DECL|function|locate_in_PATH
 DECL|function|mark_child_for_cleanup
 DECL|function|notify_parent
@@ -31,7 +34,12 @@ DECL|function|start_async
 DECL|function|start_command
 DECL|function|wait_or_whine
 DECL|macro|SHELL_PATH
+DECL|macro|atexit
+DECL|macro|atexit
+DECL|member|alloc
+DECL|member|handlers
 DECL|member|next
+DECL|member|nr
 DECL|member|pid
 DECL|struct|child_to_clean
 DECL|variable|async_die_counter
@@ -39,6 +47,8 @@ DECL|variable|async_key
 DECL|variable|child_err
 DECL|variable|child_notifier
 DECL|variable|children_to_clean
+DECL|variable|git_atexit_hdlrs
+DECL|variable|git_atexit_installed
 DECL|variable|installed_child_cleanup_handler
 DECL|variable|main_thread
 DECL|variable|main_thread_set
