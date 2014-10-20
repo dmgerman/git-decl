@@ -1,0 +1,2 @@
+DECL|function|cmd_interpret_trailers
+DECL|variable|git_interpret_trailers_usage
