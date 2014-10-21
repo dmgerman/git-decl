@@ -15,6 +15,7 @@ DECL|function|read_in_full
 DECL|function|remove_or_warn
 DECL|function|rmdir_or_warn
 DECL|function|set_try_to_free_routine
+DECL|function|unlink_or_msg
 DECL|function|unlink_or_warn
 DECL|function|warn_if_unremovable
 DECL|function|warn_on_inaccessible
