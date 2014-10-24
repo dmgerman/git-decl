@@ -12,6 +12,7 @@ DECL|member|clean_on_exit
 DECL|member|data
 DECL|member|dir
 DECL|member|env
+DECL|member|env_array
 DECL|member|err
 DECL|member|git_cmd
 DECL|member|in
