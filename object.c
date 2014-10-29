@@ -1,7 +1,5 @@
 DECL|function|add_object_array
-DECL|function|add_object_array_with_context
-DECL|function|add_object_array_with_mode
-DECL|function|add_object_array_with_mode_context
+DECL|function|add_object_array_with_path
 DECL|function|clear_object_flags
 DECL|function|contains_name
 DECL|function|create_object
@@ -12,7 +10,9 @@ DECL|function|hash_obj
 DECL|function|insert_obj_hash
 DECL|function|lookup_object
 DECL|function|lookup_unknown_object
+DECL|function|object_array_clear
 DECL|function|object_array_filter
+DECL|function|object_array_release_entry
 DECL|function|object_array_remove_duplicates
 DECL|function|object_as_type
 DECL|function|object_list_contains

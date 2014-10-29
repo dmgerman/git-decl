@@ -4,6 +4,10 @@ DECL|function|add_to_alternates_file
 DECL|function|alloc_packed_git
 DECL|function|assert_sha1_type
 DECL|function|cache_or_unpack_entry
+DECL|function|check_and_freshen
+DECL|function|check_and_freshen_file
+DECL|function|check_and_freshen_local
+DECL|function|check_and_freshen_nonlocal
 DECL|function|check_commit
 DECL|function|check_packed_git_idx
 DECL|function|check_sha1_signature
@@ -25,9 +29,17 @@ DECL|function|find_lru_pack
 DECL|function|find_pack_entry
 DECL|function|find_pack_entry_one
 DECL|function|find_sha1_pack
+DECL|function|for_each_file_in_obj_subdir
+DECL|function|for_each_loose_file_in_objdir
+DECL|function|for_each_loose_object
+DECL|function|for_each_object_in_pack
+DECL|function|for_each_packed_object
 DECL|function|force_object_loose
 DECL|function|foreach_alt_odb
 DECL|function|free_pack_by_name
+DECL|function|freshen_file
+DECL|function|freshen_loose_object
+DECL|function|freshen_packed_object
 DECL|function|get_delta_base
 DECL|function|get_delta_base_cache_entry
 DECL|function|get_delta_base_sha1
@@ -35,7 +47,6 @@ DECL|function|get_max_fd_limit
 DECL|function|get_size_from_delta
 DECL|function|git_open_noatime
 DECL|function|has_loose_object
-DECL|function|has_loose_object_local
 DECL|function|has_loose_object_nonlocal
 DECL|function|has_pack_index
 DECL|function|has_packed_and_bad
@@ -55,6 +66,7 @@ DECL|function|install_packed_git
 DECL|function|is_pack_valid
 DECL|function|link_alt_odb_entries
 DECL|function|link_alt_odb_entry
+DECL|function|loose_from_alt_odb
 DECL|function|map_sha1_file
 DECL|function|mark_bad_packed_object
 DECL|function|mkdir_in_gitdir
@@ -128,7 +140,9 @@ DECL|macro|SZ_FMT
 DECL|macro|UNPACK_ENTRY_STACK_PREALLOC
 DECL|member|base_offset
 DECL|member|buf
+DECL|member|cb
 DECL|member|curpos
+DECL|member|data
 DECL|member|data
 DECL|member|lru
 DECL|member|next
@@ -144,6 +158,7 @@ DECL|member|type
 DECL|struct|cached_object
 DECL|struct|delta_base_cache_entry
 DECL|struct|delta_base_cache_lru_list
+DECL|struct|loose_alt_odb_data
 DECL|struct|unpack_entry_stack_ent
 DECL|variable|alt_odb_list
 DECL|variable|alt_odb_tail

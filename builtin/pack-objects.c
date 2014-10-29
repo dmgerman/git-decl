@@ -39,6 +39,7 @@ DECL|function|index_commit_for_bitmap
 DECL|function|init_threaded_search
 DECL|function|ll_find_deltas
 DECL|function|loosen_unused_packed_objects
+DECL|function|loosened_object_can_be_discarded
 DECL|function|mark_in_pack_object
 DECL|function|mark_tagged
 DECL|function|name_cmp_len
@@ -55,6 +56,8 @@ DECL|function|pbase_tree_get
 DECL|function|pbase_tree_put
 DECL|function|prepare_pack
 DECL|function|read_object_list_from_stdin
+DECL|function|record_recent_commit
+DECL|function|record_recent_object
 DECL|function|setup_delta_attr_check
 DECL|function|show_commit
 DECL|function|show_edge
@@ -157,6 +160,7 @@ DECL|variable|progress_cond
 DECL|variable|progress_mutex
 DECL|variable|progress_state
 DECL|variable|read_mutex
+DECL|variable|recent_objects
 DECL|variable|reuse_delta
 DECL|variable|reuse_object
 DECL|variable|reuse_packfile

@@ -1,7 +1,7 @@
 DECL|function|cmd_prune
-DECL|function|prune_dir
+DECL|function|prune_cruft
 DECL|function|prune_object
-DECL|function|prune_object_dir
+DECL|function|prune_subdir
 DECL|function|prune_tmp_file
 DECL|function|remove_temporary_files
 DECL|variable|expire

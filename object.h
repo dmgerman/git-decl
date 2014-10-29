@@ -4,7 +4,6 @@ DECL|macro|OBJECT_H
 DECL|macro|TYPE_BITS
 DECL|macro|type_from_string
 DECL|member|alloc
-DECL|member|context
 DECL|member|flags
 DECL|member|item
 DECL|member|item
@@ -14,6 +13,7 @@ DECL|member|next
 DECL|member|nr
 DECL|member|objects
 DECL|member|parsed
+DECL|member|path
 DECL|member|sha1
 DECL|member|type
 DECL|member|used

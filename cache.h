@@ -424,4 +424,8 @@ DECL|struct|stat_validity
 DECL|typedef|alt_odb_fn
 DECL|typedef|config_fn_t
 DECL|typedef|each_abbrev_fn
+DECL|typedef|each_loose_cruft_fn
+DECL|typedef|each_loose_object_fn
+DECL|typedef|each_loose_subdir_fn
+DECL|typedef|each_packed_object_fn
 DECL|typedef|git_zstream
