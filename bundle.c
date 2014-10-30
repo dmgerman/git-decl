@@ -1,4 +1,5 @@
 DECL|function|add_to_ref_list
+DECL|function|compute_and_write_prerequisites
 DECL|function|create_bundle
 DECL|function|is_bundle
 DECL|function|is_tag_in_date_range
