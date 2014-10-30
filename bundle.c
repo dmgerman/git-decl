@@ -8,5 +8,6 @@ DECL|function|parse_bundle_header
 DECL|function|read_bundle_header
 DECL|function|unbundle
 DECL|function|verify_bundle
+DECL|function|write_pack_data
 DECL|macro|PREREQ_MARK
 DECL|variable|bundle_signature
