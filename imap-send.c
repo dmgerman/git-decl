@@ -102,8 +102,8 @@ DECL|struct|imap_server_conf
 DECL|struct|imap_socket
 DECL|struct|imap_store
 DECL|typedef|SSL
-DECL|variable|Quiet
-DECL|variable|Verbose
 DECL|variable|cap_list
+DECL|variable|imap_send_options
 DECL|variable|imap_send_usage
 DECL|variable|server
+DECL|variable|verbosity
