@@ -5,11 +5,13 @@ DECL|enumerator|NOLOGIN
 DECL|enumerator|STARTTLS
 DECL|enumerator|UIDPLUS
 DECL|enum|CAPABILITY
+DECL|function|append_msgs_to_imap
 DECL|function|auth_cram_md5
 DECL|function|buffer_gets
 DECL|function|count_messages
 DECL|function|cram
 DECL|function|cram
+DECL|function|curl_append_msgs_to_imap
 DECL|function|get_cmd_result
 DECL|function|git_imap_config
 DECL|function|hexchar
@@ -31,6 +33,7 @@ DECL|function|nfvasprintf
 DECL|function|parse_capability
 DECL|function|parse_response_code
 DECL|function|read_message
+DECL|function|setup_curl
 DECL|function|skip_imap_list_l
 DECL|function|skip_list
 DECL|function|socket_perror
@@ -106,4 +109,5 @@ DECL|variable|cap_list
 DECL|variable|imap_send_options
 DECL|variable|imap_send_usage
 DECL|variable|server
+DECL|variable|use_curl
 DECL|variable|verbosity
