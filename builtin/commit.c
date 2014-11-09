@@ -27,7 +27,6 @@ DECL|function|find_author_by_nickname
 DECL|function|git_commit_config
 DECL|function|git_status_config
 DECL|function|handle_untracked_files_arg
-DECL|function|ignore_non_trailer
 DECL|function|implicit_ident_advice
 DECL|function|is_a_merge
 DECL|function|list_paths
