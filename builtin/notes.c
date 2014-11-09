@@ -4,6 +4,7 @@ DECL|function|cmd_notes
 DECL|function|copy
 DECL|function|copy_obj_to_fd
 DECL|function|create_note
+DECL|function|free_note_data
 DECL|function|get_ref
 DECL|function|init_notes_check
 DECL|function|list
@@ -23,6 +24,7 @@ DECL|function|show
 DECL|function|write_commented_object
 DECL|macro|IGNORE_MISSING
 DECL|member|buf
+DECL|member|edit_path
 DECL|member|given
 DECL|member|use_editor
 DECL|struct|note_data
