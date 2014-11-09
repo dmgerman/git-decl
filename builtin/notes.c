@@ -2,6 +2,7 @@ DECL|function|add
 DECL|function|append_edit
 DECL|function|cmd_notes
 DECL|function|copy
+DECL|function|copy_obj_to_fd
 DECL|function|create_note
 DECL|function|get_ref
 DECL|function|init_notes_check
@@ -20,12 +21,11 @@ DECL|function|remove_cmd
 DECL|function|remove_one_note
 DECL|function|show
 DECL|function|write_commented_object
-DECL|function|write_note_data
 DECL|macro|IGNORE_MISSING
 DECL|member|buf
 DECL|member|given
 DECL|member|use_editor
-DECL|struct|msg_arg
+DECL|struct|note_data
 DECL|variable|git_notes_add_usage
 DECL|variable|git_notes_append_usage
 DECL|variable|git_notes_copy_usage
