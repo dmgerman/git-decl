@@ -1,5 +1,6 @@
 DECL|function|action_name
 DECL|function|allow_empty
+DECL|function|append_conflicts_hint
 DECL|function|append_signoff
 DECL|function|continue_single_pick
 DECL|function|create_seq_dir
