@@ -1,5 +1,6 @@
 DECL|function|commit_pager_choice
 DECL|function|execv_dashed_external
+DECL|function|get_builtin
 DECL|function|handle_alias
 DECL|function|handle_builtin
 DECL|function|handle_options
