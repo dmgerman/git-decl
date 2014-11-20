@@ -1,6 +1,7 @@
 DECL|enumerator|COLOR_256
 DECL|enumerator|COLOR_ANSI
 DECL|enumerator|COLOR_NORMAL
+DECL|enumerator|COLOR_RGB
 DECL|enumerator|COLOR_UNSPECIFIED
 DECL|function|check_auto_color
 DECL|function|color_empty
@@ -12,6 +13,7 @@ DECL|function|color_parse
 DECL|function|color_parse_mem
 DECL|function|color_print_strbuf
 DECL|function|color_vfprintf
+DECL|function|get_hex_color
 DECL|function|git_color_config
 DECL|function|git_color_default_config
 DECL|function|git_config_colorbool
@@ -21,6 +23,9 @@ DECL|function|parse_color
 DECL|function|want_color
 DECL|macro|COLOR_BACKGROUND
 DECL|macro|COLOR_FOREGROUND
+DECL|member|blue
+DECL|member|green
+DECL|member|red
 DECL|member|type
 DECL|member|value
 DECL|struct|color
