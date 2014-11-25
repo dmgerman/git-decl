@@ -24,6 +24,7 @@ DECL|function|handle_filter
 DECL|function|handle_from
 DECL|function|handle_header
 DECL|function|handle_info
+DECL|function|handle_message_id
 DECL|function|handle_patch
 DECL|function|is_format_patch_separator
 DECL|function|is_multipart_boundary
@@ -37,6 +38,7 @@ DECL|function|read_one_header_line
 DECL|function|slurp_attr
 DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
+DECL|variable|add_message_id
 DECL|variable|charset
 DECL|variable|cmitmsg
 DECL|variable|content
@@ -49,6 +51,7 @@ DECL|variable|keep_non_patch_brackets_in_subject
 DECL|variable|keep_subject
 DECL|variable|line
 DECL|variable|mailinfo_usage
+DECL|variable|message_id
 DECL|variable|metainfo_charset
 DECL|variable|name
 DECL|variable|p_hdr_data
