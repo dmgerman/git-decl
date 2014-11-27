@@ -1,3 +1,5 @@
+DECL|function|sha1write_be32
+DECL|function|sha1write_u8
 DECL|macro|CSUM_CLOSE
 DECL|macro|CSUM_FILE_H
 DECL|macro|CSUM_FSYNC
