@@ -19,6 +19,7 @@ DECL|function|unlink_or_msg
 DECL|function|unlink_or_warn
 DECL|function|warn_if_unremovable
 DECL|function|warn_on_inaccessible
+DECL|function|write_file
 DECL|function|write_in_full
 DECL|function|xcalloc
 DECL|function|xdup
