@@ -1,6 +1,7 @@
 DECL|function|abspath_part_inside_repo
 DECL|function|canonicalize_ceiling_entry
 DECL|function|check_filename
+DECL|function|check_repo_format
 DECL|function|check_repository_format
 DECL|function|check_repository_format_gently
 DECL|function|check_repository_format_version
