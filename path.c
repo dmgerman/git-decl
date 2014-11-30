@@ -3,6 +3,7 @@ DECL|function|calc_shared_perm
 DECL|function|chomp_trailing_dir_sep
 DECL|function|cleanup_path
 DECL|function|daemon_avoid_alias
+DECL|function|do_git_path
 DECL|function|enter_repo
 DECL|function|expand_user_path
 DECL|function|get_pathname
@@ -25,5 +26,4 @@ DECL|function|strbuf_cleanup_path
 DECL|function|strbuf_git_path
 DECL|function|strip_path_suffix
 DECL|function|validate_headref
-DECL|function|vsnpath
 DECL|variable|bad_path
