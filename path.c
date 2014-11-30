@@ -26,6 +26,7 @@ DECL|function|normalize_path_copy_len
 DECL|function|relative_path
 DECL|function|remove_leading_path
 DECL|function|replace_dir
+DECL|function|report_linked_checkout_garbage
 DECL|function|strbuf_cleanup_path
 DECL|function|strbuf_git_path
 DECL|function|strip_path_suffix
