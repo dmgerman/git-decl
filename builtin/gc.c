@@ -22,6 +22,8 @@ DECL|variable|pidfile
 DECL|variable|prune
 DECL|variable|prune_expire
 DECL|variable|prune_reflogs
+DECL|variable|prune_worktrees
+DECL|variable|prune_worktrees_expire
 DECL|variable|reflog
 DECL|variable|repack
 DECL|variable|rerere
