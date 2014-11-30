@@ -18,6 +18,8 @@ DECL|function|parse_branchname_arg
 DECL|function|post_checkout_hook
 DECL|function|prepare_linked_checkout
 DECL|function|read_tree_some
+DECL|function|remove_junk
+DECL|function|remove_junk_on_signal
 DECL|function|report_tracking
 DECL|function|reset_tree
 DECL|function|setup_branch_path
@@ -63,3 +65,7 @@ DECL|struct|branch_info
 DECL|struct|checkout_opts
 DECL|struct|tracking_name_data
 DECL|variable|checkout_usage
+DECL|variable|is_junk
+DECL|variable|junk_git_dir
+DECL|variable|junk_pid
+DECL|variable|junk_work_tree
