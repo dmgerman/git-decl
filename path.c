@@ -29,5 +29,7 @@ DECL|function|replace_dir
 DECL|function|strbuf_cleanup_path
 DECL|function|strbuf_git_path
 DECL|function|strip_path_suffix
+DECL|function|update_common_dir
 DECL|function|validate_headref
 DECL|variable|bad_path
+DECL|variable|common_list
