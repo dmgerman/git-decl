@@ -22,6 +22,7 @@ DECL|function|normalize_path_copy
 DECL|function|normalize_path_copy_len
 DECL|function|relative_path
 DECL|function|remove_leading_path
+DECL|function|strbuf_cleanup_path
 DECL|function|strip_path_suffix
 DECL|function|validate_headref
 DECL|function|vsnpath
