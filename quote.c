@@ -18,7 +18,6 @@ DECL|function|tcl_quote_buf
 DECL|function|unquote_c_style
 DECL|function|write_name_quoted
 DECL|function|write_name_quoted_relative
-DECL|function|write_name_quotedpfx
 DECL|macro|EMIT
 DECL|macro|EMIT
 DECL|macro|EMITBUF
