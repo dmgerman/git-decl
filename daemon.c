@@ -32,7 +32,6 @@ DECL|function|set_reuse_addr
 DECL|function|setup_named_sock
 DECL|function|setup_named_sock
 DECL|function|socksetup
-DECL|function|store_pid
 DECL|function|upload_archive
 DECL|function|upload_pack
 DECL|macro|HOST_NAME_MAX
