@@ -1,4 +1,6 @@
 DECL|function|add_pending_uninteresting_ref
+DECL|function|check_linked_checkout
+DECL|function|check_linked_checkouts
 DECL|function|check_stage
 DECL|function|check_stages
 DECL|function|check_tracking_name
@@ -29,6 +31,7 @@ DECL|function|update_refs_for_switch
 DECL|function|update_some
 DECL|macro|ORPHAN_CUTOFF
 DECL|member|branch_exists
+DECL|member|checkout
 DECL|member|commit
 DECL|member|diff_options
 DECL|member|dst_ref
