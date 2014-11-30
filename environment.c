@@ -40,8 +40,11 @@ DECL|variable|fsync_object_files
 DECL|variable|git_attributes_file
 DECL|variable|git_branch_track
 DECL|variable|git_commit_encoding
+DECL|variable|git_db_env
 DECL|variable|git_dir
+DECL|variable|git_graft_env
 DECL|variable|git_graft_file
+DECL|variable|git_index_env
 DECL|variable|git_index_file
 DECL|variable|git_log_output_encoding
 DECL|variable|git_object_dir
