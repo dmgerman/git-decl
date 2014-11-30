@@ -27,6 +27,7 @@ DECL|function|setup_git_directory_gently
 DECL|function|setup_git_directory_gently_1
 DECL|function|setup_nongit
 DECL|function|setup_work_tree
+DECL|function|update_linked_gitdir
 DECL|function|verify_filename
 DECL|function|verify_non_filename
 DECL|variable|inside_git_dir
