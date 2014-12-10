@@ -44,7 +44,6 @@ DECL|function|rollback_index_files
 DECL|function|run_commit_hook
 DECL|function|run_rewrite_hook
 DECL|function|run_status
-DECL|function|sane_ident_split
 DECL|function|status_init_config
 DECL|function|template_untouched
 DECL|member|show_branch
