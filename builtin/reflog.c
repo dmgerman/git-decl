@@ -44,6 +44,7 @@ DECL|member|newlog
 DECL|member|next
 DECL|member|nr
 DECL|member|pattern
+DECL|member|policy_cb
 DECL|member|recno
 DECL|member|reflog
 DECL|member|revs
@@ -57,6 +58,7 @@ DECL|member|verbose
 DECL|struct|cmd_reflog_expire_cb
 DECL|struct|collect_reflog_cb
 DECL|struct|collected_reflog
+DECL|struct|expire_reflog_cb
 DECL|struct|expire_reflog_policy_cb
 DECL|struct|reflog_expire_cfg
 DECL|variable|default_reflog_expire
