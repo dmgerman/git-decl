@@ -1,6 +1,8 @@
+DECL|enumerator|EXPIRE_REFLOGS_DRY_RUN
 DECL|enumerator|UE_ALWAYS
 DECL|enumerator|UE_HEAD
 DECL|enumerator|UE_NORMAL
+DECL|enum|expire_reflog_flags
 DECL|function|cmd_reflog
 DECL|function|cmd_reflog_delete
 DECL|function|cmd_reflog_expire
@@ -28,7 +30,6 @@ DECL|macro|REACHABLE
 DECL|macro|STUDYING
 DECL|member|alloc
 DECL|member|cmd
-DECL|member|dry_run
 DECL|member|e
 DECL|member|expire_total
 DECL|member|expire_total
