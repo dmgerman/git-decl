@@ -21,13 +21,6 @@ DECL|macro|REF_ISSYMREF
 DECL|macro|REF_NODEREF
 DECL|macro|TRANSACTION_GENERIC_ERROR
 DECL|macro|TRANSACTION_NAME_CONFLICT
-DECL|member|force_write
-DECL|member|lk
-DECL|member|lock_fd
-DECL|member|old_sha1
-DECL|member|orig_ref_name
-DECL|member|ref_name
-DECL|struct|ref_lock
 DECL|typedef|each_ref_fn
 DECL|typedef|each_reflog_ent_fn
 DECL|typedef|reflog_expiry_cleanup_fn

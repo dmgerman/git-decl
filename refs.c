@@ -176,14 +176,17 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|fn
 DECL|member|fn
+DECL|member|force_write
 DECL|member|found
 DECL|member|found_it
 DECL|member|fp
 DECL|member|have_old
 DECL|member|last_kept_sha1
 DECL|member|len
+DECL|member|lk
 DECL|member|lock
 DECL|member|lock
+DECL|member|lock_fd
 DECL|member|loose
 DECL|member|msg
 DECL|member|msg
@@ -199,6 +202,8 @@ DECL|member|nr
 DECL|member|nr
 DECL|member|nsha1
 DECL|member|old_sha1
+DECL|member|old_sha1
+DECL|member|orig_ref_name
 DECL|member|osha1
 DECL|member|packed
 DECL|member|packed_refs
@@ -207,6 +212,7 @@ DECL|member|peeled
 DECL|member|policy_cb
 DECL|member|reccnt
 DECL|member|ref_cache
+DECL|member|ref_name
 DECL|member|ref_to_prune
 DECL|member|referrers
 DECL|member|refname
@@ -240,6 +246,7 @@ DECL|struct|ref_dir
 DECL|struct|ref_entry
 DECL|struct|ref_entry_cb
 DECL|struct|ref_filter
+DECL|struct|ref_lock
 DECL|struct|ref_to_prune
 DECL|struct|ref_transaction
 DECL|struct|ref_update
