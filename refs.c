@@ -80,6 +80,7 @@ DECL|function|lock_packed_refs
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
 DECL|function|log_ref_write
+DECL|function|log_ref_write_fd
 DECL|function|nonmatching_ref_fn
 DECL|function|pack_if_possible_fn
 DECL|function|pack_refs
