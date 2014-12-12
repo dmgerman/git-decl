@@ -1,5 +1,6 @@
 DECL|enumerator|EXPIRE_REFLOGS_DRY_RUN
 DECL|enumerator|EXPIRE_REFLOGS_UPDATE_REF
+DECL|enumerator|EXPIRE_REFLOGS_VERBOSE
 DECL|enumerator|UE_ALWAYS
 DECL|enumerator|UE_HEAD
 DECL|enumerator|UE_NORMAL
@@ -55,7 +56,6 @@ DECL|member|stalefix
 DECL|member|tip_commit
 DECL|member|tips
 DECL|member|unreachable_expire_kind
-DECL|member|verbose
 DECL|struct|cmd_reflog_expire_cb
 DECL|struct|collect_reflog_cb
 DECL|struct|collected_reflog
