@@ -39,6 +39,7 @@ DECL|function|do_one_ref
 DECL|function|dwim_log
 DECL|function|dwim_ref
 DECL|function|entry_matches
+DECL|function|expire_reflog_ent
 DECL|function|filter_refs
 DECL|function|find_beginning_of_line
 DECL|function|find_containing_dir
@@ -114,6 +115,7 @@ DECL|function|ref_transaction_update
 DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
 DECL|function|reflog_exists
+DECL|function|reflog_expire
 DECL|function|refname_is_safe
 DECL|function|refname_match
 DECL|function|release_packed_ref_cache
@@ -172,12 +174,14 @@ DECL|member|flag
 DECL|member|flags
 DECL|member|flags
 DECL|member|flags
+DECL|member|flags
 DECL|member|fn
 DECL|member|fn
 DECL|member|found
 DECL|member|found_it
 DECL|member|fp
 DECL|member|have_old
+DECL|member|last_kept_sha1
 DECL|member|len
 DECL|member|lock
 DECL|member|lock
@@ -189,6 +193,7 @@ DECL|member|name
 DECL|member|name
 DECL|member|name
 DECL|member|new_sha1
+DECL|member|newlog
 DECL|member|next
 DECL|member|next
 DECL|member|nr
@@ -200,6 +205,7 @@ DECL|member|packed
 DECL|member|packed_refs
 DECL|member|pattern
 DECL|member|peeled
+DECL|member|policy_cb
 DECL|member|reccnt
 DECL|member|ref_cache
 DECL|member|ref_to_prune
@@ -212,6 +218,7 @@ DECL|member|root
 DECL|member|sha1
 DECL|member|sha1
 DECL|member|sha1
+DECL|member|should_prune_fn
 DECL|member|skip
 DECL|member|sorted
 DECL|member|state
@@ -224,6 +231,7 @@ DECL|member|u
 DECL|member|updates
 DECL|member|validity
 DECL|member|value
+DECL|struct|expire_reflog_cb
 DECL|struct|nonmatching_ref_data
 DECL|struct|pack_refs_cb_data
 DECL|struct|packed_ref_cache
