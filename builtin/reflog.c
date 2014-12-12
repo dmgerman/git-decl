@@ -1,4 +1,5 @@
 DECL|enumerator|EXPIRE_REFLOGS_DRY_RUN
+DECL|enumerator|EXPIRE_REFLOGS_REWRITE
 DECL|enumerator|EXPIRE_REFLOGS_UPDATE_REF
 DECL|enumerator|EXPIRE_REFLOGS_VERBOSE
 DECL|enumerator|UE_ALWAYS
@@ -50,7 +51,6 @@ DECL|member|policy_cb
 DECL|member|recno
 DECL|member|reflog
 DECL|member|revs
-DECL|member|rewrite
 DECL|member|sha1
 DECL|member|stalefix
 DECL|member|tip_commit
