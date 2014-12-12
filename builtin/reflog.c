@@ -16,6 +16,7 @@ DECL|function|parse_expire_cfg_value
 DECL|function|push_tip_to_list
 DECL|function|reflog_expire_config
 DECL|function|set_reflog_expiry_param
+DECL|function|should_expire_reflog_ent
 DECL|function|tree_is_complete
 DECL|function|unreachable
 DECL|macro|EXPIRE_TOTAL
