@@ -15,6 +15,8 @@ DECL|function|mark_reachable
 DECL|function|parse_expire_cfg_value
 DECL|function|push_tip_to_list
 DECL|function|reflog_expire_config
+DECL|function|reflog_expiry_cleanup
+DECL|function|reflog_expiry_prepare
 DECL|function|set_reflog_expiry_param
 DECL|function|should_expire_reflog_ent
 DECL|function|tree_is_complete
@@ -46,6 +48,8 @@ DECL|member|revs
 DECL|member|rewrite
 DECL|member|sha1
 DECL|member|stalefix
+DECL|member|tip_commit
+DECL|member|tips
 DECL|member|unreachable_expire_kind
 DECL|member|updateref
 DECL|member|verbose
