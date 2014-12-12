@@ -76,7 +76,6 @@ DECL|function|head_ref_submodule
 DECL|function|is_branch
 DECL|function|is_dup_ref
 DECL|function|is_refname_available
-DECL|function|lock_any_ref_for_update
 DECL|function|lock_packed_refs
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
