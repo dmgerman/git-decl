@@ -36,6 +36,7 @@ DECL|member|expire_total
 DECL|member|expire_total
 DECL|member|expire_unreachable
 DECL|member|expire_unreachable
+DECL|member|flags
 DECL|member|last_kept_sha1
 DECL|member|len
 DECL|member|mark_limit
