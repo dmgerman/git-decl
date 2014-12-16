@@ -16,6 +16,7 @@ DECL|function|setup_git_env
 DECL|function|strip_namespace
 DECL|macro|OBJECT_CREATION_MODE
 DECL|macro|PROTECT_HFS_DEFAULT
+DECL|macro|PROTECT_NTFS_DEFAULT
 DECL|variable|apply_default_ignorewhitespace
 DECL|variable|apply_default_whitespace
 DECL|variable|askpass_program
@@ -65,6 +66,7 @@ DECL|variable|pager_use_color
 DECL|variable|precomposed_unicode
 DECL|variable|prefer_symlink_refs
 DECL|variable|protect_hfs
+DECL|variable|protect_ntfs
 DECL|variable|push_default
 DECL|variable|read_replace_refs
 DECL|variable|repository_format_version
