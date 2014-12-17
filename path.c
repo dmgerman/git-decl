@@ -14,6 +14,7 @@ DECL|function|git_pathdup
 DECL|function|git_snpath
 DECL|function|have_same_root
 DECL|function|home_config_paths
+DECL|function|is_ntfs_dotgit
 DECL|function|longest_ancestor_length
 DECL|function|mkpath
 DECL|function|mkpathdup
@@ -21,6 +22,7 @@ DECL|function|mksnpath
 DECL|function|normalize_path_copy
 DECL|function|normalize_path_copy_len
 DECL|function|offset_1st_component
+DECL|function|only_spaces_and_periods
 DECL|function|relative_path
 DECL|function|remove_leading_path
 DECL|function|strip_path_suffix
