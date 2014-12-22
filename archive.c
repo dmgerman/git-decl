@@ -15,6 +15,7 @@ DECL|function|sha1_file_to_archive
 DECL|function|write_archive
 DECL|function|write_archive_entries
 DECL|function|write_archive_entry
+DECL|function|write_archive_entry_buf
 DECL|function|write_directory
 DECL|macro|OPT__COMPR
 DECL|macro|OPT__COMPR_HIDDEN
