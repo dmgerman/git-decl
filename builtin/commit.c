@@ -13,6 +13,7 @@ DECL|enumerator|STATUS_FORMAT_UNSPECIFIED
 DECL|enum|status_format
 DECL|function|add_remove_files
 DECL|function|adjust_comment_line_char
+DECL|function|assert_split_ident
 DECL|function|author_date_is_interesting
 DECL|function|cmd_commit
 DECL|function|cmd_status
@@ -46,9 +47,7 @@ DECL|function|rollback_index_files
 DECL|function|run_commit_hook
 DECL|function|run_rewrite_hook
 DECL|function|run_status
-DECL|function|sane_ident_split
 DECL|function|set_ident_var
-DECL|function|split_ident_or_die
 DECL|function|status_init_config
 DECL|function|template_untouched
 DECL|member|show_branch
