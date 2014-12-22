@@ -1,6 +1,7 @@
 DECL|enumerator|DENY_IGNORE
 DECL|enumerator|DENY_REFUSE
 DECL|enumerator|DENY_UNCONFIGURED
+DECL|enumerator|DENY_UPDATE_INSTEAD
 DECL|enumerator|DENY_WARN
 DECL|enum|deny_action
 DECL|function|check_aliased_update
@@ -46,6 +47,7 @@ DECL|function|unpack_with_sideband
 DECL|function|update
 DECL|function|update_shallow_info
 DECL|function|update_shallow_ref
+DECL|function|update_worktree
 DECL|function|write_head_info
 DECL|macro|HMAC_BLOCK_SIZE
 DECL|member|buf
