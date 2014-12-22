@@ -31,6 +31,7 @@ DECL|function|create_trailer_item
 DECL|function|duplicate_conf
 DECL|function|find_patch_start
 DECL|function|find_same_and_apply_arg
+DECL|function|find_trailer_end
 DECL|function|find_trailer_start
 DECL|function|free_all
 DECL|function|free_trailer_item
