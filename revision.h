@@ -72,6 +72,7 @@ DECL|member|diffopt
 DECL|member|disable_stdin
 DECL|member|early_output
 DECL|member|edge_hint
+DECL|member|edge_hint_aggressive
 DECL|member|elem
 DECL|member|elem_len
 DECL|member|extra_headers
