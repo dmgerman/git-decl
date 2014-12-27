@@ -46,6 +46,7 @@ DECL|member|attrs
 DECL|member|flags
 DECL|member|h
 DECL|member|is_macro
+DECL|member|maybe_macro
 DECL|member|name
 DECL|member|next
 DECL|member|nowildcardlen
