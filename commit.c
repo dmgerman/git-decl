@@ -35,6 +35,8 @@ DECL|function|get_cached_commit_buffer
 DECL|function|get_commit_buffer
 DECL|function|get_merge_bases
 DECL|function|get_merge_bases_many
+DECL|function|get_merge_bases_many_0
+DECL|function|get_merge_bases_many_dirty
 DECL|function|get_merge_parent
 DECL|function|get_octopus_merge_bases
 DECL|function|handle_signed_tag
