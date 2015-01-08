@@ -12,6 +12,7 @@ DECL|function|command_singleton_iterator
 DECL|function|copy_to_sideband
 DECL|function|delete_only
 DECL|function|execute_commands
+DECL|function|execute_commands_atomic
 DECL|function|execute_commands_non_atomic
 DECL|function|feed_receive_hook
 DECL|function|find_header
@@ -108,4 +109,5 @@ DECL|variable|transaction
 DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
+DECL|variable|use_atomic
 DECL|variable|use_sideband
