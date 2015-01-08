@@ -38,6 +38,7 @@ DECL|function|run_receive_hook
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
 DECL|function|set_connectivity_errors
+DECL|function|should_process_cmd
 DECL|function|show_one_alternate_sha1
 DECL|function|show_ref
 DECL|function|show_ref_cb
@@ -46,6 +47,7 @@ DECL|function|unpack_with_sideband
 DECL|function|update
 DECL|function|update_shallow_info
 DECL|function|update_shallow_ref
+DECL|function|warn_if_skipped_connectivity_check
 DECL|function|write_head_info
 DECL|macro|HMAC_BLOCK_SIZE
 DECL|member|buf
