@@ -74,6 +74,7 @@ DECL|variable|NONCE_MISSING
 DECL|variable|NONCE_OK
 DECL|variable|NONCE_SLOP
 DECL|variable|NONCE_UNSOLICITED
+DECL|variable|advertise_atomic_push
 DECL|variable|alt_shallow_file
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
