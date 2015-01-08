@@ -1,5 +1,6 @@
 DECL|function|advertise_shallow_grafts_buf
 DECL|function|advertise_shallow_grafts_cb
+DECL|function|atomic_push_failure
 DECL|function|check_to_send_update
 DECL|function|feed_object
 DECL|function|generate_push_cert
