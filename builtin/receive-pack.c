@@ -104,6 +104,7 @@ DECL|variable|service_dir
 DECL|variable|shallow_update
 DECL|variable|sigcheck
 DECL|variable|stateless_rpc
+DECL|variable|transaction
 DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
