@@ -5,6 +5,7 @@ DECL|function|git_setup_gettext
 DECL|macro|FORMAT_PRESERVING
 DECL|macro|GETTEXT_H
 DECL|macro|N_
+DECL|macro|N_
 DECL|macro|gettext
 DECL|macro|gettext
 DECL|macro|ngettext
