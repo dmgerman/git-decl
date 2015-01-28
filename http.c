@@ -16,8 +16,10 @@ DECL|function|fread_buffer
 DECL|function|fwrite_buffer
 DECL|function|fwrite_null
 DECL|function|fwrite_sha1_file
+DECL|function|get_accept_language
 DECL|function|get_active_slot
 DECL|function|get_curl_handle
+DECL|function|get_preferred_languages
 DECL|function|get_remote_object_url
 DECL|function|handle_curl_result
 DECL|function|has_cert_password
@@ -51,6 +53,7 @@ DECL|function|sockopt_callback
 DECL|function|start_active_slot
 DECL|function|step_active_slots
 DECL|function|update_url_from_redirect
+DECL|function|write_accept_language
 DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|CURLOPT_KEYPASSWD
 DECL|macro|HTTP_REQUEST_FILE
@@ -64,6 +67,7 @@ DECL|member|next
 DECL|struct|fill_chain
 DECL|variable|active_queue_head
 DECL|variable|active_requests
+DECL|variable|cached_accept_language
 DECL|variable|cert_auth
 DECL|variable|curl_cookie_file
 DECL|variable|curl_default
