@@ -30,6 +30,7 @@ DECL|function|count_slashes
 DECL|function|create_file
 DECL|function|create_one_file
 DECL|function|date_len
+DECL|function|die_on_unsafe_path
 DECL|function|diff_timestamp_len
 DECL|function|find_header
 DECL|function|find_name
@@ -248,6 +249,7 @@ DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
 DECL|variable|threeway
 DECL|variable|unidiff_zero
+DECL|variable|unsafe_paths
 DECL|variable|update_index
 DECL|variable|whitespace_error
 DECL|variable|ws_error_action
