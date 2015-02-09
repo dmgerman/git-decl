@@ -1,4 +1,5 @@
 DECL|macro|SEND_PACK_H
+DECL|member|atomic
 DECL|member|dry_run
 DECL|member|force_update
 DECL|member|porcelain
