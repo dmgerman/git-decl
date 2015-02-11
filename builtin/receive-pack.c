@@ -25,6 +25,8 @@ DECL|function|parse_pack_header
 DECL|function|prepare_push_cert_nonce
 DECL|function|prepare_push_cert_sha1
 DECL|function|prepare_shallow_update
+DECL|function|push_to_checkout
+DECL|function|push_to_deploy
 DECL|function|queue_command
 DECL|function|queue_commands_from_cert
 DECL|function|read_head_info
@@ -96,6 +98,7 @@ DECL|variable|prefer_ofs_delta
 DECL|variable|push_cert
 DECL|variable|push_cert_nonce
 DECL|variable|push_cert_sha1
+DECL|variable|push_to_checkout_hook
 DECL|variable|quiet
 DECL|variable|receive_fsck_objects
 DECL|variable|receive_pack_usage
