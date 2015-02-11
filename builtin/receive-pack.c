@@ -13,6 +13,8 @@ DECL|function|command_singleton_iterator
 DECL|function|copy_to_sideband
 DECL|function|delete_only
 DECL|function|execute_commands
+DECL|function|execute_commands_atomic
+DECL|function|execute_commands_non_atomic
 DECL|function|feed_receive_hook
 DECL|function|find_header
 DECL|function|hmac_sha1
@@ -39,6 +41,7 @@ DECL|function|run_receive_hook
 DECL|function|run_update_hook
 DECL|function|run_update_post_hook
 DECL|function|set_connectivity_errors
+DECL|function|should_process_cmd
 DECL|function|show_one_alternate_sha1
 DECL|function|show_ref
 DECL|function|show_ref_cb
@@ -48,6 +51,7 @@ DECL|function|update
 DECL|function|update_shallow_info
 DECL|function|update_shallow_ref
 DECL|function|update_worktree
+DECL|function|warn_if_skipped_connectivity_check
 DECL|function|write_head_info
 DECL|macro|HMAC_BLOCK_SIZE
 DECL|member|buf
@@ -72,6 +76,7 @@ DECL|variable|NONCE_MISSING
 DECL|variable|NONCE_OK
 DECL|variable|NONCE_SLOP
 DECL|variable|NONCE_UNSOLICITED
+DECL|variable|advertise_atomic_push
 DECL|variable|alt_shallow_file
 DECL|variable|auto_gc
 DECL|variable|auto_update_server_info
@@ -103,7 +108,9 @@ DECL|variable|service_dir
 DECL|variable|shallow_update
 DECL|variable|sigcheck
 DECL|variable|stateless_rpc
+DECL|variable|transaction
 DECL|variable|transfer_fsck_objects
 DECL|variable|transfer_unpack_limit
 DECL|variable|unpack_limit
+DECL|variable|use_atomic
 DECL|variable|use_sideband
