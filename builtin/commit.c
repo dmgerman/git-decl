@@ -22,7 +22,6 @@ DECL|function|create_base_index
 DECL|function|determine_author_info
 DECL|function|determine_whence
 DECL|function|dry_run_commit
-DECL|function|envdup
 DECL|function|export_one
 DECL|function|finalize_deferred_config
 DECL|function|find_author_by_nickname
