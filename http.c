@@ -79,6 +79,7 @@ DECL|variable|curl_ssl_verify
 DECL|variable|curlm
 DECL|variable|fill_cfg
 DECL|variable|http_auth
+DECL|variable|http_auth_methods
 DECL|variable|http_is_verbose
 DECL|variable|http_post_buffer
 DECL|variable|http_proactive_auth
