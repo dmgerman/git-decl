@@ -9,6 +9,7 @@ DECL|function|drop_privileges
 DECL|function|drop_privileges
 DECL|function|enable_service
 DECL|function|execute
+DECL|function|expand_path
 DECL|function|get_canon_hostname
 DECL|function|get_ip_address
 DECL|function|git_daemon_config
@@ -37,6 +38,7 @@ DECL|function|setup_named_sock
 DECL|function|setup_named_sock
 DECL|function|socksetup
 DECL|function|store_pid
+DECL|function|strbuf_addstr_or_null
 DECL|function|upload_archive
 DECL|function|upload_pack
 DECL|macro|HOST_NAME_MAX
@@ -47,6 +49,7 @@ DECL|member|address
 DECL|member|alloc
 DECL|member|cld
 DECL|member|config_name
+DECL|member|directory
 DECL|member|enabled
 DECL|member|fn
 DECL|member|gid
@@ -59,6 +62,7 @@ DECL|member|pass
 DECL|struct|child
 DECL|struct|credentials
 DECL|struct|daemon_service
+DECL|struct|expand_path_context
 DECL|struct|socketlist
 DECL|typedef|daemon_service_fn
 DECL|variable|access_hook
