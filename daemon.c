@@ -9,6 +9,8 @@ DECL|function|drop_privileges
 DECL|function|drop_privileges
 DECL|function|enable_service
 DECL|function|execute
+DECL|function|get_canon_hostname
+DECL|function|get_ip_address
 DECL|function|git_daemon_config
 DECL|function|handle
 DECL|function|ip2str
@@ -16,6 +18,7 @@ DECL|function|kill_some_child
 DECL|function|logerror
 DECL|function|loginfo
 DECL|function|logreport
+DECL|function|lookup_hostname
 DECL|function|main
 DECL|function|make_service_overridable
 DECL|function|parse_host_and_port
@@ -68,6 +71,7 @@ DECL|variable|daemon_usage
 DECL|variable|export_all_trees
 DECL|variable|firstborn
 DECL|variable|hostname
+DECL|variable|hostname_lookup_done
 DECL|variable|informative_errors
 DECL|variable|init_timeout
 DECL|variable|interpolated_path
