@@ -111,6 +111,7 @@ DECL|function|ref_transaction_create
 DECL|function|ref_transaction_delete
 DECL|function|ref_transaction_free
 DECL|function|ref_transaction_update
+DECL|function|ref_transaction_verify
 DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
 DECL|function|reflog_exists
@@ -154,6 +155,7 @@ DECL|macro|MAXREFLEN
 DECL|macro|PEELED_LINE_LENGTH
 DECL|macro|REF_DELETING
 DECL|macro|REF_DIR
+DECL|macro|REF_HAVE_NEW
 DECL|macro|REF_HAVE_OLD
 DECL|macro|REF_INCOMPLETE
 DECL|macro|REF_ISPRUNING
