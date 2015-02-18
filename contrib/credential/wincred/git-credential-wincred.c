@@ -5,9 +5,12 @@ DECL|function|load_cred_funcs
 DECL|function|main
 DECL|function|match_cred
 DECL|function|match_part
+DECL|function|match_part_last
+DECL|function|match_part_with_last
 DECL|function|read_credential
 DECL|function|store_credential
 DECL|function|utf8_to_utf16_dup
+DECL|function|wcsstr_last
 DECL|function|write_item
 DECL|function|xmalloc
 DECL|macro|ARRAY_SIZE
