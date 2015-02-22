@@ -31,6 +31,7 @@ DECL|function|find_pack_entry_one
 DECL|function|find_sha1_pack
 DECL|function|for_each_file_in_obj_subdir
 DECL|function|for_each_loose_file_in_objdir
+DECL|function|for_each_loose_file_in_objdir_buf
 DECL|function|for_each_loose_object
 DECL|function|for_each_object_in_pack
 DECL|function|for_each_packed_object
