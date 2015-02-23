@@ -76,8 +76,6 @@ DECL|macro|_WIN32_WINNT
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE
-DECL|macro|_XOPEN_SOURCE
-DECL|macro|_XOPEN_SOURCE
 DECL|macro|_XOPEN_SOURCE_EXTENDED
 DECL|macro|bitsizeof
 DECL|macro|decimal_length
