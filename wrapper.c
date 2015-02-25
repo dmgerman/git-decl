@@ -38,6 +38,8 @@ DECL|function|xstrdup
 DECL|function|xstrndup
 DECL|function|xwrite
 DECL|macro|MAX_IO_SIZE
+DECL|macro|MAX_IO_SIZE
+DECL|macro|MAX_IO_SIZE_DEFAULT
 DECL|macro|TMP_MAX
 DECL|macro|TMP_MAX
 DECL|variable|try_to_free_routine
