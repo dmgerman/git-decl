@@ -14,6 +14,7 @@ DECL|function|strip_suffix_mem
 DECL|function|strtol_i
 DECL|function|strtoul_ui
 DECL|function|xsize_t
+DECL|function|xstrdup_or_null
 DECL|macro|ACCESS_EACCES_OK
 DECL|macro|ARRAY_SIZE
 DECL|macro|DEFAULT_PACKED_GIT_LIMIT
