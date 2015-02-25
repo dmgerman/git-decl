@@ -1,5 +1,5 @@
 DECL|function|bootstrap_attr_stack
-DECL|function|collect_all_attrs
+DECL|function|collect_some_attrs
 DECL|function|debug_info
 DECL|function|debug_set
 DECL|function|drop_attr_stack
@@ -46,6 +46,8 @@ DECL|member|attrs
 DECL|member|flags
 DECL|member|h
 DECL|member|is_macro
+DECL|member|maybe_macro
+DECL|member|maybe_real
 DECL|member|name
 DECL|member|next
 DECL|member|nowildcardlen
@@ -69,6 +71,7 @@ DECL|variable|attr_nr
 DECL|variable|attr_stack
 DECL|variable|blank
 DECL|variable|builtin_attr
+DECL|variable|cannot_trust_maybe_real
 DECL|variable|check_all_attr
 DECL|variable|direction
 DECL|variable|git_attr__false
