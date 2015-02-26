@@ -106,6 +106,7 @@ DECL|struct|base_data
 DECL|struct|compare_data
 DECL|struct|delta_entry
 DECL|struct|object_entry
+DECL|struct|object_stat
 DECL|struct|thread_local
 DECL|union|delta_base
 DECL|variable|check_self_contained_and_connected
@@ -131,6 +132,7 @@ DECL|variable|nr_dispatched
 DECL|variable|nr_objects
 DECL|variable|nr_resolved_deltas
 DECL|variable|nr_threads
+DECL|variable|obj_stat
 DECL|variable|objects
 DECL|variable|output_fd
 DECL|variable|progress
