@@ -1,8 +1,10 @@
+DECL|function|add_rename_dst
 DECL|function|basename_same
 DECL|function|diffcore_rename
 DECL|function|estimate_similarity
 DECL|function|find_exact_renames
 DECL|function|find_identical_files
+DECL|function|find_rename_dst
 DECL|function|find_renames
 DECL|function|hash_filespec
 DECL|function|insert_file_table
