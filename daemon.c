@@ -1,5 +1,6 @@
 DECL|function|add_child
 DECL|function|addrcmp
+DECL|function|canonicalize_client
 DECL|function|check_dead_children
 DECL|function|child_handler
 DECL|function|copy_to_log
@@ -30,6 +31,8 @@ DECL|function|receive_pack
 DECL|function|run_access_hook
 DECL|function|run_service
 DECL|function|run_service_command
+DECL|function|sanitize_client
+DECL|function|sanitize_client_strbuf
 DECL|function|serve
 DECL|function|service_loop
 DECL|function|set_reuse_addr
