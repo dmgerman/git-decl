@@ -21,6 +21,7 @@ DECL|function|build_fake_ancestor
 DECL|function|check_patch
 DECL|function|check_patch_list
 DECL|function|check_preimage
+DECL|function|check_symlink_changes
 DECL|function|check_to_create
 DECL|function|check_whitespace
 DECL|function|checkout_target
@@ -30,6 +31,7 @@ DECL|function|count_slashes
 DECL|function|create_file
 DECL|function|create_one_file
 DECL|function|date_len
+DECL|function|die_on_unsafe_path
 DECL|function|diff_timestamp_len
 DECL|function|find_header
 DECL|function|find_name
@@ -95,11 +97,14 @@ DECL|function|parse_single_patch
 DECL|function|parse_traditional_patch
 DECL|function|parse_whitespace_option
 DECL|function|patch_stats
+DECL|function|path_is_beyond_symlink
+DECL|function|path_is_beyond_symlink_1
 DECL|function|prefix_one
 DECL|function|prefix_patch
 DECL|function|preimage_sha1_in_gitlink_patch
 DECL|function|prepare_fn_table
 DECL|function|prepare_image
+DECL|function|prepare_symlink_changes
 DECL|function|previous_patch
 DECL|function|read_blob_object
 DECL|function|read_file_or_gitlink
@@ -107,6 +112,7 @@ DECL|function|read_old_data
 DECL|function|read_patch_file
 DECL|function|record_ws_error
 DECL|function|recount_diff
+DECL|function|register_symlink_changes
 DECL|function|remove_file
 DECL|function|remove_first_line
 DECL|function|remove_last_line
@@ -151,6 +157,8 @@ DECL|macro|PATH_WAS_DELETED
 DECL|macro|RECOUNT
 DECL|macro|SLOP
 DECL|macro|SUBMODULE_PATCH_WITHOUT_INDEX
+DECL|macro|SYMLINK_GOES_AWAY
+DECL|macro|SYMLINK_IN_RESULT
 DECL|macro|TERM_SPACE
 DECL|macro|TERM_TAB
 DECL|macro|binary_patch_method
@@ -245,8 +253,10 @@ DECL|variable|root
 DECL|variable|root_len
 DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
+DECL|variable|symlink_changes
 DECL|variable|threeway
 DECL|variable|unidiff_zero
+DECL|variable|unsafe_paths
 DECL|variable|update_index
 DECL|variable|whitespace_error
 DECL|variable|ws_error_action
