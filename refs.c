@@ -176,7 +176,6 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|fn
 DECL|member|fn
-DECL|member|force_write
 DECL|member|found
 DECL|member|found_it
 DECL|member|fp
