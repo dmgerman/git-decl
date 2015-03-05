@@ -111,6 +111,7 @@ DECL|function|ref_transaction_create
 DECL|function|ref_transaction_delete
 DECL|function|ref_transaction_free
 DECL|function|ref_transaction_update
+DECL|function|ref_transaction_verify
 DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
 DECL|function|reflog_exists
@@ -152,7 +153,10 @@ DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
 DECL|macro|MAXREFLEN
 DECL|macro|PEELED_LINE_LENGTH
+DECL|macro|REF_DELETING
 DECL|macro|REF_DIR
+DECL|macro|REF_HAVE_NEW
+DECL|macro|REF_HAVE_OLD
 DECL|macro|REF_INCOMPLETE
 DECL|macro|REF_ISPRUNING
 DECL|macro|REF_KNOWS_PEELED
@@ -180,7 +184,6 @@ DECL|member|force_write
 DECL|member|found
 DECL|member|found_it
 DECL|member|fp
-DECL|member|have_old
 DECL|member|last_kept_sha1
 DECL|member|len
 DECL|member|lk
