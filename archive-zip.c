@@ -1,6 +1,7 @@
 DECL|function|copy_le16
 DECL|function|copy_le32
 DECL|function|dos_time
+DECL|function|entry_is_binary
 DECL|function|has_only_ascii
 DECL|function|init_zip_archiver
 DECL|function|set_zip_dir_data_desc
