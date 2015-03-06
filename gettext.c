@@ -1,3 +1,4 @@
+DECL|function|get_preferred_languages
 DECL|function|gettext_width
 DECL|function|git_setup_gettext
 DECL|function|init_gettext_charset
