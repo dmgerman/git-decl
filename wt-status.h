@@ -30,6 +30,7 @@ DECL|member|cherry_pick_in_progress
 DECL|member|colopts
 DECL|member|color_palette
 DECL|member|commitable
+DECL|member|detached_at
 DECL|member|detached_from
 DECL|member|detached_sha1
 DECL|member|dirty_submodule
