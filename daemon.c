@@ -32,7 +32,6 @@ DECL|function|run_access_hook
 DECL|function|run_service
 DECL|function|run_service_command
 DECL|function|sanitize_client
-DECL|function|sanitize_client_strbuf
 DECL|function|serve
 DECL|function|service_loop
 DECL|function|set_reuse_addr
@@ -40,12 +39,9 @@ DECL|function|setup_named_sock
 DECL|function|setup_named_sock
 DECL|function|socksetup
 DECL|function|store_pid
-DECL|function|strbuf_addstr_or_null
 DECL|function|upload_archive
 DECL|function|upload_pack
 DECL|macro|HOST_NAME_MAX
-DECL|macro|STRARG
-DECL|macro|STRARG
 DECL|macro|initgroups
 DECL|member|address
 DECL|member|alloc
