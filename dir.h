@@ -65,6 +65,7 @@ DECL|member|nr
 DECL|member|pattern
 DECL|member|patternlen
 DECL|member|prev
+DECL|member|recurse
 DECL|member|root
 DECL|member|sha1
 DECL|member|src
