@@ -84,6 +84,9 @@ DECL|function|treat_one_path
 DECL|function|treat_path
 DECL|function|treat_path_fast
 DECL|function|trim_trailing_spaces
+DECL|function|untracked_cache_add_to_index
+DECL|function|untracked_cache_invalidate_path
+DECL|function|untracked_cache_remove_from_index
 DECL|function|valid_cached_dir
 DECL|function|validate_untracked_cache
 DECL|function|within_depth
