@@ -52,6 +52,7 @@ DECL|member|filebuf
 DECL|member|flags
 DECL|member|flags
 DECL|member|gitignore_invalidated
+DECL|member|ident
 DECL|member|ignored
 DECL|member|ignored_alloc
 DECL|member|ignored_nr

@@ -14,6 +14,7 @@ DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_1
 DECL|function|add_excludes_from_file_to_list
 DECL|function|add_untracked
+DECL|function|add_untracked_ident
 DECL|function|clear_directory
 DECL|function|clear_exclude_list
 DECL|function|close_cached_dir
@@ -38,8 +39,10 @@ DECL|function|free_simplify
 DECL|function|free_untracked
 DECL|function|free_untracked_cache
 DECL|function|get_dtype
+DECL|function|get_ident_string
 DECL|function|get_index_dtype
 DECL|function|git_fnmatch
+DECL|function|ident_in_untracked
 DECL|function|invalidate_directory
 DECL|function|invalidate_gitignore
 DECL|function|is_empty_dir
