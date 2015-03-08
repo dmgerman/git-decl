@@ -29,6 +29,12 @@ DECL|member|base
 DECL|member|basebuf
 DECL|member|baselen
 DECL|member|baselen
+DECL|member|check_only
+DECL|member|dir_created
+DECL|member|dir_flags
+DECL|member|dirs
+DECL|member|dirs_alloc
+DECL|member|dirs_nr
 DECL|member|el
 DECL|member|el
 DECL|member|entries
@@ -36,6 +42,8 @@ DECL|member|exclude
 DECL|member|exclude_ix
 DECL|member|exclude_list_group
 DECL|member|exclude_per_dir
+DECL|member|exclude_per_dir
+DECL|member|exclude_sha1
 DECL|member|exclude_stack
 DECL|member|excludes
 DECL|member|filebuf
@@ -46,6 +54,7 @@ DECL|member|ignored_alloc
 DECL|member|ignored_nr
 DECL|member|len
 DECL|member|name
+DECL|member|name
 DECL|member|nowildcardlen
 DECL|member|nr
 DECL|member|nr
@@ -53,10 +62,21 @@ DECL|member|nr
 DECL|member|pattern
 DECL|member|patternlen
 DECL|member|prev
+DECL|member|root
 DECL|member|sha1
 DECL|member|src
 DECL|member|srcpos
+DECL|member|ss_excludes_file
+DECL|member|ss_excludes_file
+DECL|member|ss_info_exclude
+DECL|member|ss_info_exclude
 DECL|member|stat
+DECL|member|stat_data
+DECL|member|ucd
+DECL|member|untracked
+DECL|member|untracked
+DECL|member|untracked_alloc
+DECL|member|untracked_nr
 DECL|member|valid
 DECL|struct|dir_entry
 DECL|struct|dir_struct
@@ -65,3 +85,5 @@ DECL|struct|exclude_list
 DECL|struct|exclude_list_group
 DECL|struct|exclude_stack
 DECL|struct|sha1_stat
+DECL|struct|untracked_cache
+DECL|struct|untracked_cache_dir

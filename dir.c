@@ -11,7 +11,9 @@ DECL|function|add_exclude
 DECL|function|add_exclude_list
 DECL|function|add_excludes
 DECL|function|add_excludes_from_file
+DECL|function|add_excludes_from_file_1
 DECL|function|add_excludes_from_file_to_list
+DECL|function|add_untracked
 DECL|function|clear_directory
 DECL|function|clear_exclude_list
 DECL|function|cmp_name
@@ -41,6 +43,7 @@ DECL|function|is_inside_dir
 DECL|function|last_exclude_matching
 DECL|function|last_exclude_matching_from_list
 DECL|function|last_exclude_matching_from_lists
+DECL|function|lookup_untracked
 DECL|function|match_basename
 DECL|function|match_pathname
 DECL|function|match_pathspec
