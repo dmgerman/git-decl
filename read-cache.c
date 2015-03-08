@@ -48,6 +48,7 @@ DECL|function|is_racy_stat
 DECL|function|is_racy_timestamp
 DECL|function|make_cache_entry
 DECL|function|match_stat_data
+DECL|function|match_stat_data_racy
 DECL|function|name_compare
 DECL|function|read_blob_data_from_index
 DECL|function|read_index
