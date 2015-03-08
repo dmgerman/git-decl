@@ -390,6 +390,7 @@ DECL|member|typep
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
+DECL|member|untracked
 DECL|member|use_stdin
 DECL|member|value_index
 DECL|member|value_list
