@@ -32,6 +32,8 @@ DECL|member|baselen
 DECL|member|check_only
 DECL|member|dir_created
 DECL|member|dir_flags
+DECL|member|dir_invalidated
+DECL|member|dir_opened
 DECL|member|dirs
 DECL|member|dirs_alloc
 DECL|member|dirs_nr
