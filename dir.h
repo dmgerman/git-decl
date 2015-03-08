@@ -53,11 +53,15 @@ DECL|member|nr
 DECL|member|pattern
 DECL|member|patternlen
 DECL|member|prev
+DECL|member|sha1
 DECL|member|src
 DECL|member|srcpos
+DECL|member|stat
+DECL|member|valid
 DECL|struct|dir_entry
 DECL|struct|dir_struct
 DECL|struct|exclude
 DECL|struct|exclude_list
 DECL|struct|exclude_list_group
 DECL|struct|exclude_stack
+DECL|struct|sha1_stat

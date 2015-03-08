@@ -9,6 +9,7 @@ DECL|enum|exist_status
 DECL|enum|path_treatment
 DECL|function|add_exclude
 DECL|function|add_exclude_list
+DECL|function|add_excludes
 DECL|function|add_excludes_from_file
 DECL|function|add_excludes_from_file_to_list
 DECL|function|clear_directory
