@@ -49,6 +49,7 @@ DECL|member|excludes
 DECL|member|filebuf
 DECL|member|flags
 DECL|member|flags
+DECL|member|gitignore_invalidated
 DECL|member|ignored
 DECL|member|ignored_alloc
 DECL|member|ignored_nr
@@ -73,10 +74,12 @@ DECL|member|ss_info_exclude
 DECL|member|stat
 DECL|member|stat_data
 DECL|member|ucd
+DECL|member|unmanaged_exclude_files
 DECL|member|untracked
 DECL|member|untracked
 DECL|member|untracked_alloc
 DECL|member|untracked_nr
+DECL|member|valid
 DECL|member|valid
 DECL|struct|dir_entry
 DECL|struct|dir_struct

@@ -26,6 +26,7 @@ DECL|function|dir_entry_new
 DECL|function|dir_inside_of
 DECL|function|directory_exists_in_index
 DECL|function|directory_exists_in_index_icase
+DECL|function|do_invalidate_gitignore
 DECL|function|do_match_pathspec
 DECL|function|exclude_matches_pathspec
 DECL|function|file_exists
@@ -36,6 +37,7 @@ DECL|function|free_simplify
 DECL|function|get_dtype
 DECL|function|get_index_dtype
 DECL|function|git_fnmatch
+DECL|function|invalidate_gitignore
 DECL|function|is_empty_dir
 DECL|function|is_excluded
 DECL|function|is_excluded_from_list
@@ -67,6 +69,7 @@ DECL|function|treat_leading_path
 DECL|function|treat_one_path
 DECL|function|treat_path
 DECL|function|trim_trailing_spaces
+DECL|function|validate_untracked_cache
 DECL|function|within_depth
 DECL|macro|DO_MATCH_DIRECTORY
 DECL|macro|DO_MATCH_EXCLUDE
