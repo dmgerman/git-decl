@@ -16,6 +16,7 @@ DECL|function|add_excludes_from_file_to_list
 DECL|function|add_untracked
 DECL|function|clear_directory
 DECL|function|clear_exclude_list
+DECL|function|close_cached_dir
 DECL|function|cmp_name
 DECL|function|common_prefix
 DECL|function|common_prefix_len
@@ -51,8 +52,10 @@ DECL|function|match_pathname
 DECL|function|match_pathspec
 DECL|function|match_pathspec_item
 DECL|function|no_wildcard
+DECL|function|open_cached_dir
 DECL|function|parse_exclude_pattern
 DECL|function|prep_exclude
+DECL|function|read_cached_dir
 DECL|function|read_directory
 DECL|function|read_directory_recursive
 DECL|function|read_skip_worktree_file_from_index
@@ -73,6 +76,10 @@ DECL|function|validate_untracked_cache
 DECL|function|within_depth
 DECL|macro|DO_MATCH_DIRECTORY
 DECL|macro|DO_MATCH_EXCLUDE
+DECL|member|de
+DECL|member|fdir
 DECL|member|len
 DECL|member|path
+DECL|member|untracked
+DECL|struct|cached_dir
 DECL|struct|path_simplify
