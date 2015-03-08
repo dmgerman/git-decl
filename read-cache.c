@@ -44,6 +44,7 @@ DECL|function|index_name_pos
 DECL|function|index_name_pos_also_unmerged
 DECL|function|index_name_stage_pos
 DECL|function|is_index_unborn
+DECL|function|is_racy_stat
 DECL|function|is_racy_timestamp
 DECL|function|make_cache_entry
 DECL|function|match_stat_data
