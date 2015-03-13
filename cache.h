@@ -181,6 +181,8 @@ DECL|macro|GIT_NOTES_REWRITE_MODE_ENVIRONMENT
 DECL|macro|GIT_NOTES_REWRITE_REF_ENVIRONMENT
 DECL|macro|GIT_PREFIX_ENVIRONMENT
 DECL|macro|GIT_REPO_VERSION
+DECL|macro|GIT_SHA1_HEXSZ
+DECL|macro|GIT_SHA1_RAWSZ
 DECL|macro|GIT_SHALLOW_FILE_ENVIRONMENT
 DECL|macro|GIT_WORK_TREE_ENVIRONMENT
 DECL|macro|GRAFT_ENVIRONMENT
@@ -309,6 +311,7 @@ DECL|member|filename
 DECL|member|flags
 DECL|member|fn
 DECL|member|force
+DECL|member|hash
 DECL|member|hash_initialized
 DECL|member|have_repository
 DECL|member|hdr_entries
@@ -414,6 +417,7 @@ DECL|struct|ident_split
 DECL|struct|index_state
 DECL|struct|key_value_info
 DECL|struct|object_context
+DECL|struct|object_id
 DECL|struct|object_info
 DECL|struct|pack_entry
 DECL|struct|pack_window
