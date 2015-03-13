@@ -24,8 +24,8 @@ DECL|member|baselen
 DECL|member|bottom
 DECL|member|len
 DECL|member|mode
+DECL|member|oid
 DECL|member|path
-DECL|member|sha1
 DECL|member|stage
 DECL|member|up
 DECL|member|write_entry
