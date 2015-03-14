@@ -10,12 +10,16 @@ DECL|function|drop_privileges
 DECL|function|drop_privileges
 DECL|function|enable_service
 DECL|function|execute
+DECL|function|expand_path
+DECL|function|get_canon_hostname
+DECL|function|get_ip_address
 DECL|function|handle
 DECL|function|ip2str
 DECL|function|kill_some_child
 DECL|function|logerror
 DECL|function|loginfo
 DECL|function|logreport
+DECL|function|lookup_hostname
 DECL|function|main
 DECL|function|make_service_overridable
 DECL|function|parse_host_and_port
@@ -36,6 +40,7 @@ DECL|function|setup_named_sock
 DECL|function|setup_named_sock
 DECL|function|socksetup
 DECL|function|store_pid
+DECL|function|strbuf_addstr_or_null
 DECL|function|upload_archive
 DECL|function|upload_pack
 DECL|macro|HOST_NAME_MAX
@@ -46,6 +51,7 @@ DECL|member|address
 DECL|member|alloc
 DECL|member|cld
 DECL|member|config_name
+DECL|member|directory
 DECL|member|enabled
 DECL|member|fn
 DECL|member|gid
@@ -58,6 +64,7 @@ DECL|member|pass
 DECL|struct|child
 DECL|struct|credentials
 DECL|struct|daemon_service
+DECL|struct|expand_path_context
 DECL|struct|socketlist
 DECL|typedef|daemon_service_fn
 DECL|variable|access_hook
@@ -70,6 +77,7 @@ DECL|variable|daemon_usage
 DECL|variable|export_all_trees
 DECL|variable|firstborn
 DECL|variable|hostname
+DECL|variable|hostname_lookup_done
 DECL|variable|informative_errors
 DECL|variable|init_timeout
 DECL|variable|interpolated_path
