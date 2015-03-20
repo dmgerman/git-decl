@@ -1,6 +1,7 @@
 DECL|function|add_graft_decoration
 DECL|function|add_name_decoration
 DECL|function|add_ref_decoration
+DECL|function|current_pointed_by_HEAD
 DECL|function|decorate_get_color
 DECL|function|digits_in_number
 DECL|function|do_diff_combined
