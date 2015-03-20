@@ -57,6 +57,8 @@ DECL|macro|ENCODED_SIZE
 DECL|macro|RESP_BAD
 DECL|macro|RESP_NO
 DECL|macro|RESP_OK
+DECL|macro|USE_CURL_DEFAULT
+DECL|macro|USE_CURL_DEFAULT
 DECL|member|auth_method
 DECL|member|buf
 DECL|member|buf
