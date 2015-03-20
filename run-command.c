@@ -32,7 +32,6 @@ DECL|function|set_cloexec
 DECL|function|start_async
 DECL|function|start_command
 DECL|function|wait_or_whine
-DECL|macro|SHELL_PATH
 DECL|macro|atexit
 DECL|macro|atexit
 DECL|member|alloc
