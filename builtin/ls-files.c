@@ -6,7 +6,6 @@ DECL|function|option_parse_exclude_standard
 DECL|function|option_parse_z
 DECL|function|overlay_tree_on_cache
 DECL|function|prune_cache
-DECL|function|report_path_error
 DECL|function|show_ce_entry
 DECL|function|show_dir_entry
 DECL|function|show_files
