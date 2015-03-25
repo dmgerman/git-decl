@@ -49,7 +49,6 @@ DECL|function|process_command_line_args
 DECL|function|process_input_file
 DECL|function|process_trailers
 DECL|function|process_trailers_lists
-DECL|function|read_from_command
 DECL|function|read_input_file
 DECL|function|remove_first
 DECL|function|remove_from_list
