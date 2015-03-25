@@ -71,6 +71,7 @@ DECL|variable|prefer_symlink_refs
 DECL|variable|protect_hfs
 DECL|variable|protect_ntfs
 DECL|variable|push_default
+DECL|variable|ref_paranoia
 DECL|variable|repository_format_version
 DECL|variable|safe_crlf
 DECL|variable|shared_repository
