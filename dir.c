@@ -53,6 +53,7 @@ DECL|function|read_skip_worktree_file_from_index
 DECL|function|remove_dir_recurse
 DECL|function|remove_dir_recursively
 DECL|function|remove_path
+DECL|function|report_path_error
 DECL|function|setup_standard_excludes
 DECL|function|simple_length
 DECL|function|simplify_away
