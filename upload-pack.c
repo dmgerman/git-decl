@@ -1,4 +1,5 @@
 DECL|function|check_non_tip
+DECL|function|check_ref
 DECL|function|create_pack_file
 DECL|function|find_symref
 DECL|function|format_symref_info
