@@ -25,7 +25,6 @@ DECL|function|create_dir_entry
 DECL|function|create_ref_cache
 DECL|function|create_ref_entry
 DECL|function|create_symref
-DECL|function|curate_packed_ref_fn
 DECL|function|delete_ref
 DECL|function|delete_ref_loose
 DECL|function|delete_reflog
