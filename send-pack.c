@@ -6,5 +6,7 @@ DECL|function|next_line
 DECL|function|pack_objects
 DECL|function|receive_status
 DECL|function|ref_update_to_be_sent
+DECL|function|reject_invalid_nonce
 DECL|function|send_pack
 DECL|function|sideband_demux
+DECL|macro|NONCE_LEN_LIMIT
