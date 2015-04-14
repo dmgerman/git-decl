@@ -17,6 +17,7 @@ DECL|function|execute_commands_atomic
 DECL|function|execute_commands_non_atomic
 DECL|function|feed_receive_hook
 DECL|function|find_header
+DECL|function|head_has_history
 DECL|function|hmac_sha1
 DECL|function|is_ref_checked_out
 DECL|function|iterate_receive_command_list
