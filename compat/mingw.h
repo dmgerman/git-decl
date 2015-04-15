@@ -3,6 +3,7 @@ DECL|function|fchmod
 DECL|function|fcntl
 DECL|function|fork
 DECL|function|fsync
+DECL|function|getpgid
 DECL|function|getppid
 DECL|function|getpwnam
 DECL|function|getrlimit
@@ -17,6 +18,7 @@ DECL|function|sigaddset
 DECL|function|sigprocmask
 DECL|function|symlink
 DECL|function|sync
+DECL|function|tcgetpgrp
 DECL|function|xutftowcs
 DECL|function|xutftowcs_path
 DECL|macro|EAFNOSUPPORT
