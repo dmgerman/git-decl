@@ -187,7 +187,6 @@ DECL|member|len
 DECL|member|lk
 DECL|member|lock
 DECL|member|lock
-DECL|member|lock_fd
 DECL|member|loose
 DECL|member|msg
 DECL|member|msg
