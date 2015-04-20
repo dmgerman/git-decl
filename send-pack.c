@@ -7,8 +7,10 @@ DECL|function|generate_push_cert
 DECL|function|next_line
 DECL|function|pack_objects
 DECL|function|receive_status
+DECL|function|reject_invalid_nonce
 DECL|function|send_pack
 DECL|function|sideband_demux
 DECL|macro|CHECK_REF_NO_PUSH
 DECL|macro|CHECK_REF_STATUS_REJECTED
 DECL|macro|CHECK_REF_UPTODATE
+DECL|macro|NONCE_LEN_LIMIT
