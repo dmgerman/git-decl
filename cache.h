@@ -311,6 +311,7 @@ DECL|member|filename
 DECL|member|flags
 DECL|member|fn
 DECL|member|force
+DECL|member|freshened
 DECL|member|hash_initialized
 DECL|member|have_repository
 DECL|member|hdr_entries
