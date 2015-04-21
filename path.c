@@ -27,4 +27,5 @@ DECL|function|remove_leading_path
 DECL|function|strip_path_suffix
 DECL|function|validate_headref
 DECL|function|vsnpath
+DECL|function|xdg_config_home
 DECL|variable|bad_path
