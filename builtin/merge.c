@@ -29,6 +29,7 @@ DECL|function|prepare_to_commit
 DECL|function|read_empty
 DECL|function|read_merge_msg
 DECL|function|read_tree_trivial
+DECL|function|reduce_parents
 DECL|function|reset_hard
 DECL|function|restore_state
 DECL|function|save_state
