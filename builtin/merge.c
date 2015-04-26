@@ -17,6 +17,7 @@ DECL|function|finish_automerge
 DECL|function|finish_up_to_date
 DECL|function|get_strategy
 DECL|function|git_merge_config
+DECL|function|handle_fetch_head
 DECL|function|is_old_style_invocation
 DECL|function|merge_name
 DECL|function|merge_trivial
