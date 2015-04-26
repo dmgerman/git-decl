@@ -25,6 +25,7 @@ DECL|function|option_parse_n
 DECL|function|option_parse_strategy
 DECL|function|option_parse_x
 DECL|function|parse_branch_merge_options
+DECL|function|prepare_merge_message
 DECL|function|prepare_to_commit
 DECL|function|read_empty
 DECL|function|read_merge_msg
