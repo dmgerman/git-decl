@@ -129,8 +129,6 @@ DECL|variable|branches_alloc
 DECL|variable|branches_nr
 DECL|variable|buffer
 DECL|variable|current_branch
-DECL|variable|default_remote_name
-DECL|variable|explicit_default_remote_name
 DECL|variable|pushremote_name
 DECL|variable|remotes
 DECL|variable|remotes_alloc
