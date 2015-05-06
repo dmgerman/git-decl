@@ -163,6 +163,7 @@ DECL|macro|EMPTY_TREE_SHA1_BIN
 DECL|macro|EMPTY_TREE_SHA1_BIN_LITERAL
 DECL|macro|EMPTY_TREE_SHA1_HEX
 DECL|macro|EXEC_PATH_ENVIRONMENT
+DECL|macro|FOR_EACH_OBJECT_LOCAL_ONLY
 DECL|macro|GET_SHA1_BLOB
 DECL|macro|GET_SHA1_COMMIT
 DECL|macro|GET_SHA1_COMMITTISH
@@ -315,6 +316,7 @@ DECL|member|filename
 DECL|member|flags
 DECL|member|fn
 DECL|member|force
+DECL|member|freshened
 DECL|member|hash
 DECL|member|hash_initialized
 DECL|member|have_repository
