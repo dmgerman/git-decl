@@ -10,6 +10,7 @@ DECL|function|pick_one_utf8_char
 DECL|function|reencode_string_iconv
 DECL|function|reencode_string_len
 DECL|function|same_encoding
+DECL|function|skip_utf8_bom
 DECL|function|strbuf_add_indented_text
 DECL|function|strbuf_add_wrapped_bytes
 DECL|function|strbuf_add_wrapped_text
@@ -23,3 +24,4 @@ DECL|member|last
 DECL|struct|interval
 DECL|typedef|iconv_ibp
 DECL|typedef|iconv_ibp
+DECL|variable|utf8_bom
