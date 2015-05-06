@@ -6,6 +6,7 @@ DECL|function|create_object_directory
 DECL|function|git_init_db_config
 DECL|function|guess_repository_type
 DECL|function|init_db
+DECL|function|needs_work_tree_config
 DECL|function|safe_create_dir
 DECL|function|separate_git_dir
 DECL|function|set_git_dir_init
