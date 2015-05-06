@@ -13,7 +13,6 @@ DECL|function|git_path_submodule
 DECL|function|git_pathdup
 DECL|function|git_snpath
 DECL|function|have_same_root
-DECL|function|home_config_paths
 DECL|function|is_ntfs_dotgit
 DECL|function|longest_ancestor_length
 DECL|function|mkpath
