@@ -114,6 +114,8 @@ DECL|member|mode
 DECL|member|mode
 DECL|member|needed_rename_limit
 DECL|member|next
+DECL|member|oid
+DECL|member|oid
 DECL|member|orderfile
 DECL|member|output_format
 DECL|member|output_prefix
@@ -131,8 +133,6 @@ DECL|member|rename_limit
 DECL|member|rename_score
 DECL|member|set_default
 DECL|member|setup
-DECL|member|sha1
-DECL|member|sha1
 DECL|member|show_rename_progress
 DECL|member|single_follow
 DECL|member|skip_stat_unmatch

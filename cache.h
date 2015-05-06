@@ -69,10 +69,14 @@ DECL|function|hashcpy
 DECL|function|hexval
 DECL|function|is_absolute_path
 DECL|function|is_empty_blob_sha1
+DECL|function|is_null_oid
 DECL|function|is_null_sha1
 DECL|function|lookup_replace_object
 DECL|function|lookup_replace_object_extended
 DECL|function|object_type
+DECL|function|oidclr
+DECL|function|oidcmp
+DECL|function|oidcpy
 DECL|function|read_sha1_file
 DECL|function|write_str_in_full
 DECL|macro|ADD_CACHE_IGNORE_ERRORS
@@ -181,6 +185,8 @@ DECL|macro|GIT_NOTES_REWRITE_MODE_ENVIRONMENT
 DECL|macro|GIT_NOTES_REWRITE_REF_ENVIRONMENT
 DECL|macro|GIT_PREFIX_ENVIRONMENT
 DECL|macro|GIT_REPO_VERSION
+DECL|macro|GIT_SHA1_HEXSZ
+DECL|macro|GIT_SHA1_RAWSZ
 DECL|macro|GIT_SHALLOW_FILE_ENVIRONMENT
 DECL|macro|GIT_WORK_TREE_ENVIRONMENT
 DECL|macro|GRAFT_ENVIRONMENT
@@ -309,6 +315,7 @@ DECL|member|filename
 DECL|member|flags
 DECL|member|fn
 DECL|member|force
+DECL|member|hash
 DECL|member|hash_initialized
 DECL|member|have_repository
 DECL|member|hdr_entries
@@ -414,6 +421,7 @@ DECL|struct|ident_split
 DECL|struct|index_state
 DECL|struct|key_value_info
 DECL|struct|object_context
+DECL|struct|object_id
 DECL|struct|object_info
 DECL|struct|pack_entry
 DECL|struct|pack_window

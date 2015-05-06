@@ -55,6 +55,7 @@ DECL|member|nr_parent
 DECL|member|nr_theirs
 DECL|member|obj
 DECL|member|object
+DECL|member|oid
 DECL|member|ours
 DECL|member|output_encoding
 DECL|member|parent
@@ -63,7 +64,6 @@ DECL|member|preserve_subject
 DECL|member|reachable
 DECL|member|ref
 DECL|member|reflog_info
-DECL|member|sha1
 DECL|member|shallow
 DECL|member|shallow_ref
 DECL|member|subject

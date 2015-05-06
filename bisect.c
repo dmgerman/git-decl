@@ -47,6 +47,6 @@ DECL|struct|commit_dist
 DECL|variable|argv_checkout
 DECL|variable|argv_show_branch
 DECL|variable|argv_update_ref
-DECL|variable|current_bad_sha1
+DECL|variable|current_bad_oid
 DECL|variable|good_revs
 DECL|variable|skipped_revs
