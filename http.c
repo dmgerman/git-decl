@@ -91,5 +91,6 @@ DECL|variable|ssl_cainfo
 DECL|variable|ssl_capath
 DECL|variable|ssl_cert
 DECL|variable|ssl_cert_password_required
+DECL|variable|ssl_cipherlist
 DECL|variable|ssl_key
 DECL|variable|user_agent
