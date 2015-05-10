@@ -20,6 +20,7 @@ DECL|function|clear_ref_dir
 DECL|function|close_ref
 DECL|function|commit_packed_refs
 DECL|function|commit_ref
+DECL|function|commit_ref_update
 DECL|function|copy_msg
 DECL|function|create_dir_entry
 DECL|function|create_ref_cache
