@@ -73,7 +73,6 @@ DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
 DECL|function|is_branch
 DECL|function|is_dup_ref
-DECL|function|is_refname_available
 DECL|function|lock_packed_refs
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
@@ -139,6 +138,7 @@ DECL|function|try_remove_empty_parents
 DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|verify_lock
+DECL|function|verify_refname_available
 DECL|function|warn_dangling_symref
 DECL|function|warn_dangling_symrefs
 DECL|function|warn_if_dangling_symref
