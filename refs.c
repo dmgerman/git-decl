@@ -123,7 +123,6 @@ DECL|function|rename_ref
 DECL|function|rename_ref_available
 DECL|function|rename_tmp_log
 DECL|function|repack_without_refs
-DECL|function|report_refname_conflict
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
