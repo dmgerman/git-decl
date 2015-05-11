@@ -110,7 +110,6 @@ DECL|function|ref_transaction_delete
 DECL|function|ref_transaction_free
 DECL|function|ref_transaction_update
 DECL|function|ref_transaction_verify
-DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
 DECL|function|reflog_exists
 DECL|function|reflog_expire
