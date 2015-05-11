@@ -3,6 +3,8 @@ DECL|function|prune_cruft
 DECL|function|prune_object
 DECL|function|prune_subdir
 DECL|function|prune_tmp_file
+DECL|function|prune_worktree
+DECL|function|prune_worktrees
 DECL|function|remove_temporary_files
 DECL|variable|expire
 DECL|variable|prune_usage

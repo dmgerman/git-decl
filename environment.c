@@ -1,5 +1,6 @@
 DECL|function|expand_namespace
 DECL|function|get_commit_output_encoding
+DECL|function|get_git_common_dir
 DECL|function|get_git_dir
 DECL|function|get_git_namespace
 DECL|function|get_git_work_tree
@@ -42,8 +43,13 @@ DECL|variable|fsync_object_files
 DECL|variable|git_attributes_file
 DECL|variable|git_branch_track
 DECL|variable|git_commit_encoding
+DECL|variable|git_common_dir
+DECL|variable|git_common_dir_env
+DECL|variable|git_db_env
 DECL|variable|git_dir
+DECL|variable|git_graft_env
 DECL|variable|git_graft_file
+DECL|variable|git_index_env
 DECL|variable|git_index_file
 DECL|variable|git_log_output_encoding
 DECL|variable|git_object_dir

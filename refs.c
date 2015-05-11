@@ -79,6 +79,7 @@ DECL|function|lock_packed_refs
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
 DECL|function|log_ref_write
+DECL|function|log_ref_write_1
 DECL|function|log_ref_write_fd
 DECL|function|nonmatching_ref_fn
 DECL|function|pack_if_possible_fn
@@ -130,6 +131,7 @@ DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_missing_loose_ref
 DECL|function|resolve_ref_unsafe
+DECL|function|resolve_ref_unsafe_1
 DECL|function|resolve_refdup
 DECL|function|rollback_packed_refs
 DECL|function|search_for_subdir

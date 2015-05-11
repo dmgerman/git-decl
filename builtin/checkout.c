@@ -1,4 +1,6 @@
 DECL|function|add_pending_uninteresting_ref
+DECL|function|check_linked_checkout
+DECL|function|check_linked_checkouts
 DECL|function|check_stage
 DECL|function|check_stages
 DECL|function|check_tracking_name
@@ -14,7 +16,10 @@ DECL|function|merge_working_tree
 DECL|function|orphaned_commit_warning
 DECL|function|parse_branchname_arg
 DECL|function|post_checkout_hook
+DECL|function|prepare_linked_checkout
 DECL|function|read_tree_some
+DECL|function|remove_junk
+DECL|function|remove_junk_on_signal
 DECL|function|report_tracking
 DECL|function|reset_tree
 DECL|function|setup_branch_path
@@ -28,12 +33,14 @@ DECL|function|update_refs_for_switch
 DECL|function|update_some
 DECL|macro|ORPHAN_CUTOFF
 DECL|member|branch_exists
+DECL|member|checkout
 DECL|member|commit
 DECL|member|diff_options
 DECL|member|dst_ref
 DECL|member|dst_sha1
 DECL|member|force
 DECL|member|force_detach
+DECL|member|ignore_other_worktrees
 DECL|member|ignore_skipworktree
 DECL|member|merge
 DECL|member|name
@@ -41,12 +48,15 @@ DECL|member|new_branch
 DECL|member|new_branch_force
 DECL|member|new_branch_log
 DECL|member|new_orphan_branch
+DECL|member|new_worktree
+DECL|member|new_worktree_mode
 DECL|member|overwrite_ignore
 DECL|member|patch_mode
 DECL|member|path
 DECL|member|pathspec
 DECL|member|prefix
 DECL|member|quiet
+DECL|member|saved_argv
 DECL|member|source_tree
 DECL|member|src_ref
 DECL|member|track
@@ -56,3 +66,7 @@ DECL|struct|branch_info
 DECL|struct|checkout_opts
 DECL|struct|tracking_name_data
 DECL|variable|checkout_usage
+DECL|variable|is_junk
+DECL|variable|junk_git_dir
+DECL|variable|junk_pid
+DECL|variable|junk_work_tree

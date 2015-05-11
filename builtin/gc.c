@@ -2,6 +2,7 @@ DECL|function|add_repack_all_option
 DECL|function|cmd_gc
 DECL|function|gc_before_repack
 DECL|function|gc_config
+DECL|function|git_config_date_string
 DECL|function|lock_repo_for_gc
 DECL|function|need_to_gc
 DECL|function|remove_pidfile
@@ -21,6 +22,8 @@ DECL|variable|pidfile
 DECL|variable|prune
 DECL|variable|prune_expire
 DECL|variable|prune_reflogs
+DECL|variable|prune_worktrees
+DECL|variable|prune_worktrees_expire
 DECL|variable|reflog
 DECL|variable|repack
 DECL|variable|rerere
