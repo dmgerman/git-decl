@@ -121,12 +121,15 @@ DECL|macro|bitsizeof
 DECL|macro|decimal_length
 DECL|macro|error
 DECL|macro|find_last_dir_sep
+DECL|macro|flockfile
 DECL|macro|fopen
 DECL|macro|fopen
 DECL|macro|fstat
 DECL|macro|fstat
 DECL|macro|fstat_is_reliable
 DECL|macro|fstat_is_reliable
+DECL|macro|funlockfile
+DECL|macro|getc_unlocked
 DECL|macro|getpagesize
 DECL|macro|gmtime
 DECL|macro|gmtime_r

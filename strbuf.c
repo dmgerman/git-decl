@@ -25,6 +25,7 @@ DECL|function|strbuf_fread
 DECL|function|strbuf_getcwd
 DECL|function|strbuf_getline
 DECL|function|strbuf_getwholeline
+DECL|function|strbuf_getwholeline
 DECL|function|strbuf_getwholeline_fd
 DECL|function|strbuf_grow
 DECL|function|strbuf_humanise_bytes
