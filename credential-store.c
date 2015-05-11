@@ -6,4 +6,5 @@ DECL|function|print_line
 DECL|function|remove_credential
 DECL|function|rewrite_credential_file
 DECL|function|store_credential
+DECL|function|store_credential_file
 DECL|variable|credential_lock
