@@ -165,6 +165,7 @@ DECL|member|base
 DECL|member|cb_data
 DECL|member|cb_data
 DECL|member|cnt
+DECL|member|conflicting_refname
 DECL|member|cutoff_cnt
 DECL|member|cutoff_time
 DECL|member|cutoff_tz
@@ -177,7 +178,6 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|fn
 DECL|member|fn
-DECL|member|found
 DECL|member|found_it
 DECL|member|fp
 DECL|member|last_kept_sha1
