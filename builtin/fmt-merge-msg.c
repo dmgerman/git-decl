@@ -16,6 +16,7 @@ DECL|function|handle_line
 DECL|function|init_src_data
 DECL|function|print_joined
 DECL|function|record_person
+DECL|function|record_person_from_buf
 DECL|function|shortlog
 DECL|macro|util_as_integral
 DECL|member|alloc
