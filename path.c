@@ -15,7 +15,6 @@ DECL|function|git_path
 DECL|function|git_path_submodule
 DECL|function|git_pathdup
 DECL|function|have_same_root
-DECL|function|home_config_paths
 DECL|function|is_dir_file
 DECL|function|is_ntfs_dotgit
 DECL|function|longest_ancestor_length
@@ -34,5 +33,6 @@ DECL|function|strbuf_git_path
 DECL|function|strip_path_suffix
 DECL|function|update_common_dir
 DECL|function|validate_headref
+DECL|function|xdg_config_home
 DECL|variable|bad_path
 DECL|variable|common_list
