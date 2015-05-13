@@ -21,6 +21,7 @@ DECL|function|show_children
 DECL|function|show_decorations
 DECL|function|show_log
 DECL|function|show_mergetag
+DECL|function|show_name
 DECL|function|show_one_mergetag
 DECL|function|show_parents
 DECL|function|show_sig_lines
