@@ -28,4 +28,6 @@ DECL|function|show_signature
 DECL|function|which_parent
 DECL|macro|decorate_get_color_opt
 DECL|variable|decoration_colors
+DECL|variable|decoration_flags
+DECL|variable|decoration_loaded
 DECL|variable|name_decoration
