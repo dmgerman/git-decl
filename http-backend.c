@@ -1,5 +1,6 @@
 DECL|function|check_content_type
 DECL|function|die_webcgi
+DECL|function|die_webcgi_recursing
 DECL|function|end_headers
 DECL|function|forbidden
 DECL|function|format_write
@@ -41,6 +42,7 @@ DECL|struct|rpc_service
 DECL|struct|service_cmd
 DECL|variable|content_length
 DECL|variable|content_type
+DECL|variable|dead
 DECL|variable|getanyfile
 DECL|variable|last_modified
 DECL|variable|query_params
