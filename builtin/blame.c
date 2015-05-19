@@ -48,7 +48,6 @@ DECL|function|get_origin
 DECL|function|git_blame_config
 DECL|function|handle_split
 DECL|function|handle_split_cb
-DECL|function|has_string_in_work_tree
 DECL|function|make_origin
 DECL|function|nth_line
 DECL|function|nth_line_cb
