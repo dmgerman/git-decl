@@ -17,6 +17,7 @@ DECL|function|finish_automerge
 DECL|function|finish_up_to_date
 DECL|function|get_strategy
 DECL|function|git_merge_config
+DECL|function|handle_fetch_head
 DECL|function|is_old_style_invocation
 DECL|function|merge_name
 DECL|function|merge_trivial
@@ -25,10 +26,12 @@ DECL|function|option_parse_n
 DECL|function|option_parse_strategy
 DECL|function|option_parse_x
 DECL|function|parse_branch_merge_options
+DECL|function|prepare_merge_message
 DECL|function|prepare_to_commit
 DECL|function|read_empty
 DECL|function|read_merge_msg
 DECL|function|read_tree_trivial
+DECL|function|reduce_parents
 DECL|function|reset_hard
 DECL|function|restore_state
 DECL|function|save_state
