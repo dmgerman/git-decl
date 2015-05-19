@@ -204,6 +204,7 @@ DECL|macro|INFOATTRIBUTES_FILE
 DECL|macro|INIT_DB_QUIET
 DECL|macro|INODE_CHANGED
 DECL|macro|LOOKUP_REPLACE_OBJECT
+DECL|macro|LOOKUP_UNKNOWN_OBJECT
 DECL|macro|MINIMUM_ABBREV
 DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
@@ -396,6 +397,7 @@ DECL|member|total_in
 DECL|member|total_out
 DECL|member|track_flags
 DECL|member|tree
+DECL|member|typename
 DECL|member|typep
 DECL|member|tz_begin
 DECL|member|tz_end

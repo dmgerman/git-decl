@@ -86,6 +86,7 @@ DECL|function|packed_object_info
 DECL|function|packed_to_object_type
 DECL|function|parse_pack_index
 DECL|function|parse_sha1_header
+DECL|function|parse_sha1_header_extended
 DECL|function|prepare_alt_odb
 DECL|function|prepare_packed_git
 DECL|function|prepare_packed_git_one
@@ -123,6 +124,7 @@ DECL|function|unpack_object_header
 DECL|function|unpack_object_header_buffer
 DECL|function|unpack_sha1_file
 DECL|function|unpack_sha1_header
+DECL|function|unpack_sha1_header_to_strbuf
 DECL|function|unpack_sha1_rest
 DECL|function|unuse_one_window
 DECL|function|unuse_pack
