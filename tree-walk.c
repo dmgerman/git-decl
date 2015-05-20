@@ -10,6 +10,7 @@ DECL|function|find_tree_entry
 DECL|function|free_extended_entry
 DECL|function|get_mode
 DECL|function|get_tree_entry
+DECL|function|get_tree_entry_follow_symlinks
 DECL|function|init_tree_desc
 DECL|function|make_traverse_path
 DECL|function|match_dir_prefix
@@ -22,9 +23,14 @@ DECL|function|tree_entry
 DECL|function|tree_entry_interesting
 DECL|function|update_extended_entry
 DECL|function|update_tree_entry
+DECL|macro|GET_TREE_ENTRY_FOLLOW_SYMLINKS_MAX_LINKS
 DECL|member|d
 DECL|member|prev
 DECL|member|ptr
+DECL|member|sha1
+DECL|member|size
 DECL|member|skip
+DECL|member|tree
+DECL|struct|dir_state
 DECL|struct|tree_desc_skip
 DECL|struct|tree_desc_x

@@ -1,7 +1,13 @@
+DECL|enumerator|DANGLING_SYMLINK
+DECL|enumerator|FOUND
+DECL|enumerator|MISSING_OBJECT
+DECL|enumerator|NOT_DIR
+DECL|enumerator|SYMLINK_LOOP
 DECL|enumerator|all_entries_interesting
 DECL|enumerator|all_entries_not_interesting
 DECL|enumerator|entry_interesting
 DECL|enumerator|entry_not_interesting
+DECL|enum|follow_symlinks_result
 DECL|enum|interesting
 DECL|function|traverse_path_len
 DECL|function|tree_entry_extract
