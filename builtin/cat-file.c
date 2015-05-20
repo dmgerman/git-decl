@@ -11,6 +11,7 @@ DECL|function|print_object_or_die
 DECL|member|delta_base_sha1
 DECL|member|disk_size
 DECL|member|enabled
+DECL|member|follow_symlinks
 DECL|member|format
 DECL|member|info
 DECL|member|mark_query
