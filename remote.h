@@ -71,6 +71,7 @@ DECL|member|push
 DECL|member|push_refspec
 DECL|member|push_refspec_alloc
 DECL|member|push_refspec_nr
+DECL|member|push_tracking_ref
 DECL|member|pushremote_name
 DECL|member|pushurl
 DECL|member|pushurl_alloc

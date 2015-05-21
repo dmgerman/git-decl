@@ -21,6 +21,8 @@ DECL|function|apply_cas
 DECL|function|apply_push_cas
 DECL|function|apply_refspecs
 DECL|function|branch_get
+DECL|function|branch_get_push
+DECL|function|branch_get_push_1
 DECL|function|branch_get_upstream
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
@@ -96,6 +98,7 @@ DECL|function|sort_ref_list
 DECL|function|stat_tracking_info
 DECL|function|tail_link_ref
 DECL|function|tail_ref
+DECL|function|tracking_for_push_dest
 DECL|function|try_explicit_object_name
 DECL|function|unmark_and_free
 DECL|function|valid_fetch_refspec
