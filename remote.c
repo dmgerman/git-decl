@@ -67,6 +67,7 @@ DECL|function|parse_push_refspec
 DECL|function|parse_refspec_internal
 DECL|function|parseopt_push_cas_option
 DECL|function|prepare_ref_index
+DECL|function|pushremote_for_branch
 DECL|function|pushremote_get
 DECL|function|query_refspecs
 DECL|function|query_refspecs_multiple
@@ -124,7 +125,6 @@ DECL|struct|rewrite
 DECL|struct|rewrites
 DECL|struct|stale_heads_info
 DECL|struct|tips
-DECL|variable|branch_pushremote_name
 DECL|variable|branches
 DECL|variable|branches_alloc
 DECL|variable|branches_nr
