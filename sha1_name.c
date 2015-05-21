@@ -39,6 +39,7 @@ DECL|function|maybe_die_on_misspelt_object_name
 DECL|function|peel_onion
 DECL|function|peel_to_type
 DECL|function|prepare_prefixes
+DECL|function|push_mark
 DECL|function|reinterpret
 DECL|function|resolve_relative_path
 DECL|function|set_shortened_ref
