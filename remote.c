@@ -21,6 +21,7 @@ DECL|function|apply_cas
 DECL|function|apply_push_cas
 DECL|function|apply_refspecs
 DECL|function|branch_get
+DECL|function|branch_get_upstream
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
 DECL|function|check_push_refs
