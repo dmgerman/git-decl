@@ -29,6 +29,7 @@ DECL|function|clear_cas_option
 DECL|function|copy_ref
 DECL|function|copy_ref_list
 DECL|function|count_refspec_match
+DECL|function|error_buf
 DECL|function|find_ref_by_name
 DECL|function|find_ref_by_name_abbrev
 DECL|function|for_each_remote
