@@ -1,4 +1,5 @@
 DECL|function|ambiguous_path
+DECL|function|at_mark
 DECL|function|diagnose_invalid_index_path
 DECL|function|diagnose_invalid_sha1_path
 DECL|function|disambiguate_blob_only
