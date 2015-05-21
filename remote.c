@@ -79,6 +79,7 @@ DECL|function|ref_list_set_next
 DECL|function|ref_newer
 DECL|function|ref_remove_duplicates
 DECL|function|remote_find_tracking
+DECL|function|remote_for_branch
 DECL|function|remote_get
 DECL|function|remote_get_1
 DECL|function|remote_has_url
