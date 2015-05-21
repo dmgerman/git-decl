@@ -29,6 +29,7 @@ DECL|function|rev_list_push
 DECL|function|send_request
 DECL|function|sideband_demux
 DECL|function|update_shallow
+DECL|macro|ALLOW_REACHABLE_SHA1
 DECL|macro|ALLOW_TIP_SHA1
 DECL|macro|COMMON
 DECL|macro|COMMON_REF

@@ -17,6 +17,7 @@ DECL|function|send_ref
 DECL|function|upload_pack
 DECL|function|upload_pack_config
 DECL|function|write_one_shallow
+DECL|macro|ALLOW_REACHABLE_SHA1
 DECL|macro|ALLOW_TIP_SHA1
 DECL|macro|CLIENT_SHALLOW
 DECL|macro|COMMON_KNOWN
