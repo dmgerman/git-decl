@@ -17,6 +17,7 @@ DECL|function|send_ref
 DECL|function|upload_pack
 DECL|function|upload_pack_config
 DECL|function|write_one_shallow
+DECL|macro|ALLOW_TIP_SHA1
 DECL|macro|CLIENT_SHALLOW
 DECL|macro|COMMON_KNOWN
 DECL|macro|HIDDEN_REF
@@ -27,7 +28,7 @@ DECL|macro|SHALLOW
 DECL|macro|THEY_HAVE
 DECL|macro|WANTED
 DECL|variable|advertise_refs
-DECL|variable|allow_tip_sha1_in_want
+DECL|variable|allow_unadvertised_object_request
 DECL|variable|daemon_mode
 DECL|variable|extra_edge_obj
 DECL|variable|have_obj
