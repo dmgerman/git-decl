@@ -77,7 +77,6 @@ DECL|member|pushurl_nr
 DECL|member|receivepack
 DECL|member|refname
 DECL|member|refname
-DECL|member|remote
 DECL|member|remote_name
 DECL|member|remote_status
 DECL|member|skip_default_update
