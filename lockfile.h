@@ -1,3 +1,4 @@
+DECL|function|hold_lock_file_for_update
 DECL|macro|LOCKFILE_H
 DECL|macro|LOCK_DIE_ON_ERROR
 DECL|macro|LOCK_NO_DEREF
