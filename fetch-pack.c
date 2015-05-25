@@ -21,6 +21,7 @@ DECL|function|insert_one_alternate_ref
 DECL|function|mark_alternate_complete
 DECL|function|mark_common
 DECL|function|mark_complete
+DECL|function|mark_complete_oid
 DECL|function|mark_recent_complete_commits
 DECL|function|next_flush
 DECL|function|remove_duplicates_in_refs
