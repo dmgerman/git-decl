@@ -38,7 +38,6 @@ DECL|function|do_head_ref
 DECL|function|do_one_ref
 DECL|function|dwim_log
 DECL|function|dwim_ref
-DECL|function|each_ref_fn_adapter
 DECL|function|expire_reflog_ent
 DECL|function|filter_refs
 DECL|function|find_beginning_of_line
