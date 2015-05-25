@@ -203,7 +203,7 @@ DECL|member|nr
 DECL|member|nr
 DECL|member|nsha1
 DECL|member|oid
-DECL|member|old_sha1
+DECL|member|old_oid
 DECL|member|old_sha1
 DECL|member|orig_ref_name
 DECL|member|osha1
