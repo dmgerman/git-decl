@@ -20,7 +20,11 @@ DECL|macro|REF_ISSYMREF
 DECL|macro|REF_NODEREF
 DECL|macro|TRANSACTION_GENERIC_ERROR
 DECL|macro|TRANSACTION_NAME_CONFLICT
+DECL|member|original_cb_data
+DECL|member|original_fn
+DECL|struct|each_ref_fn_sha1_adapter
 DECL|typedef|each_ref_fn
+DECL|typedef|each_ref_sha1_fn
 DECL|typedef|each_reflog_ent_fn
 DECL|typedef|reflog_expiry_cleanup_fn
 DECL|typedef|reflog_expiry_prepare_fn
