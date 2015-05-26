@@ -86,6 +86,9 @@ DECL|macro|DIFF_WITH_ALG
 DECL|macro|DIFF_XDL_CLR
 DECL|macro|DIFF_XDL_SET
 DECL|macro|DIFF_XDL_TST
+DECL|macro|WSEH_CONTEXT
+DECL|macro|WSEH_NEW
+DECL|macro|WSEH_OLD
 DECL|macro|combine_diff_path_size
 DECL|macro|diff_get_color_opt
 DECL|member|a_prefix
@@ -146,6 +149,7 @@ DECL|member|touched_flags
 DECL|member|use_color
 DECL|member|word_diff
 DECL|member|word_regex
+DECL|member|ws_error_highlight
 DECL|member|xdl_opts
 DECL|struct|combine_diff_parent
 DECL|struct|combine_diff_path
