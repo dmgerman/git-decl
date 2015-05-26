@@ -68,6 +68,8 @@ DECL|function|dirstat_compare
 DECL|function|emit_add_line
 DECL|function|emit_binary_diff
 DECL|function|emit_binary_diff_body
+DECL|function|emit_context_line
+DECL|function|emit_del_line
 DECL|function|emit_hunk_header
 DECL|function|emit_line
 DECL|function|emit_line_0
