@@ -231,6 +231,7 @@ DECL|macro|S_ISGITLINK
 DECL|macro|TEMPLATE_DIR_ENVIRONMENT
 DECL|macro|TEMPORARY_FILENAME_LENGTH
 DECL|macro|TYPE_CHANGED
+DECL|macro|UNTRACKED_CHANGED
 DECL|macro|WS_BLANK_AT_EOF
 DECL|macro|WS_BLANK_AT_EOL
 DECL|macro|WS_CR_AT_EOL
@@ -404,6 +405,7 @@ DECL|member|typep
 DECL|member|tz_begin
 DECL|member|tz_end
 DECL|member|u
+DECL|member|untracked
 DECL|member|use_stdin
 DECL|member|value_index
 DECL|member|value_list

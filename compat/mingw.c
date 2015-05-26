@@ -86,6 +86,7 @@ DECL|function|stop_timer_thread
 DECL|function|ticktack
 DECL|function|time_t_to_filetime
 DECL|function|try_shell_exec
+DECL|function|uname
 DECL|function|waitpid
 DECL|function|wcstoutfdup_startup
 DECL|function|xutftowcsn

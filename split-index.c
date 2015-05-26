@@ -11,4 +11,3 @@ DECL|function|replace_entry
 DECL|function|replace_index_entry_in_base
 DECL|function|save_or_free_index_entry
 DECL|function|write_link_extension
-DECL|function|write_strbuf
