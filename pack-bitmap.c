@@ -32,6 +32,7 @@ DECL|function|test_bitmap_walk
 DECL|function|test_show_commit
 DECL|function|test_show_object
 DECL|function|traverse_bitmap_commit_list
+DECL|macro|MAX_XOR_OFFSET
 DECL|member|alloc
 DECL|member|base
 DECL|member|base
