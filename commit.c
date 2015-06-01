@@ -49,9 +49,9 @@ DECL|function|lookup_commit_reference_by_name
 DECL|function|lookup_commit_reference_gently
 DECL|function|merge_bases_many
 DECL|function|paint_down_to_common
-DECL|function|parse_commit
 DECL|function|parse_commit_buffer
 DECL|function|parse_commit_date
+DECL|function|parse_commit_gently
 DECL|function|parse_commit_or_die
 DECL|function|parse_signed_commit
 DECL|function|pop_commit
