@@ -29,6 +29,8 @@ DECL|function|rev_list_push
 DECL|function|send_request
 DECL|function|sideband_demux
 DECL|function|update_shallow
+DECL|macro|ALLOW_REACHABLE_SHA1
+DECL|macro|ALLOW_TIP_SHA1
 DECL|macro|COMMON
 DECL|macro|COMMON_REF
 DECL|macro|COMPLETE
@@ -39,7 +41,7 @@ DECL|macro|PIPESAFE_FLUSH
 DECL|macro|POPPED
 DECL|macro|SEEN
 DECL|variable|agent_supported
-DECL|variable|allow_tip_sha1_in_want
+DECL|variable|allow_unadvertised_object_request
 DECL|variable|alternate_shallow_file
 DECL|variable|complete
 DECL|variable|fetch_fsck_objects
