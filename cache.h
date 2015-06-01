@@ -169,6 +169,7 @@ DECL|macro|FOR_EACH_OBJECT_LOCAL_ONLY
 DECL|macro|GET_SHA1_BLOB
 DECL|macro|GET_SHA1_COMMIT
 DECL|macro|GET_SHA1_COMMITTISH
+DECL|macro|GET_SHA1_FOLLOW_SYMLINKS
 DECL|macro|GET_SHA1_ONLY_TO_DIE
 DECL|macro|GET_SHA1_QUIETLY
 DECL|macro|GET_SHA1_TREE
@@ -395,6 +396,7 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|member|sizep
 DECL|member|split_index
+DECL|member|symlink_path
 DECL|member|timestamp
 DECL|member|total_in
 DECL|member|total_out
