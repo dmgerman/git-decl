@@ -2,6 +2,7 @@ DECL|function|add_cmd_list
 DECL|function|add_cmdname
 DECL|function|append_similar_ref
 DECL|function|clean_cmdnames
+DECL|function|cmd_group_cmp
 DECL|function|cmd_version
 DECL|function|cmdname_compare
 DECL|function|exclude_cmds
