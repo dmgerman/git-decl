@@ -71,13 +71,14 @@ DECL|member|push
 DECL|member|push_refspec
 DECL|member|push_refspec_alloc
 DECL|member|push_refspec_nr
+DECL|member|push_tracking_ref
+DECL|member|pushremote_name
 DECL|member|pushurl
 DECL|member|pushurl_alloc
 DECL|member|pushurl_nr
 DECL|member|receivepack
 DECL|member|refname
 DECL|member|refname
-DECL|member|remote
 DECL|member|remote_name
 DECL|member|remote_status
 DECL|member|skip_default_update

@@ -1,4 +1,5 @@
 DECL|function|ambiguous_path
+DECL|function|at_mark
 DECL|function|diagnose_invalid_index_path
 DECL|function|diagnose_invalid_sha1_path
 DECL|function|disambiguate_blob_only
@@ -27,18 +28,18 @@ DECL|function|get_sha1_treeish
 DECL|function|get_sha1_with_context
 DECL|function|get_sha1_with_context_1
 DECL|function|get_short_sha1
-DECL|function|get_upstream_branch
 DECL|function|grab_nth_branch_switch
 DECL|function|handle_one_ref
+DECL|function|interpret_branch_mark
 DECL|function|interpret_branch_name
 DECL|function|interpret_empty_at
 DECL|function|interpret_nth_prior_checkout
-DECL|function|interpret_upstream_mark
 DECL|function|match_sha
 DECL|function|maybe_die_on_misspelt_object_name
 DECL|function|peel_onion
 DECL|function|peel_to_type
 DECL|function|prepare_prefixes
+DECL|function|push_mark
 DECL|function|reinterpret
 DECL|function|resolve_relative_path
 DECL|function|set_shortened_ref

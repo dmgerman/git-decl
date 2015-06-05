@@ -21,6 +21,9 @@ DECL|function|apply_cas
 DECL|function|apply_push_cas
 DECL|function|apply_refspecs
 DECL|function|branch_get
+DECL|function|branch_get_push
+DECL|function|branch_get_push_1
+DECL|function|branch_get_upstream
 DECL|function|branch_has_merge_config
 DECL|function|branch_merge_matches
 DECL|function|check_push_refs
@@ -28,6 +31,7 @@ DECL|function|clear_cas_option
 DECL|function|copy_ref
 DECL|function|copy_ref_list
 DECL|function|count_refspec_match
+DECL|function|error_buf
 DECL|function|find_ref_by_name
 DECL|function|find_ref_by_name_abbrev
 DECL|function|for_each_remote
@@ -67,6 +71,7 @@ DECL|function|parse_push_refspec
 DECL|function|parse_refspec_internal
 DECL|function|parseopt_push_cas_option
 DECL|function|prepare_ref_index
+DECL|function|pushremote_for_branch
 DECL|function|pushremote_get
 DECL|function|query_refspecs
 DECL|function|query_refspecs_multiple
@@ -79,6 +84,7 @@ DECL|function|ref_list_set_next
 DECL|function|ref_newer
 DECL|function|ref_remove_duplicates
 DECL|function|remote_find_tracking
+DECL|function|remote_for_branch
 DECL|function|remote_get
 DECL|function|remote_get_1
 DECL|function|remote_has_url
@@ -92,6 +98,7 @@ DECL|function|sort_ref_list
 DECL|function|stat_tracking_info
 DECL|function|tail_link_ref
 DECL|function|tail_ref
+DECL|function|tracking_for_push_dest
 DECL|function|try_explicit_object_name
 DECL|function|unmark_and_free
 DECL|function|valid_fetch_refspec
@@ -123,14 +130,11 @@ DECL|struct|rewrite
 DECL|struct|rewrites
 DECL|struct|stale_heads_info
 DECL|struct|tips
-DECL|variable|branch_pushremote_name
 DECL|variable|branches
 DECL|variable|branches_alloc
 DECL|variable|branches_nr
 DECL|variable|buffer
 DECL|variable|current_branch
-DECL|variable|default_remote_name
-DECL|variable|explicit_default_remote_name
 DECL|variable|pushremote_name
 DECL|variable|remotes
 DECL|variable|remotes_alloc
