@@ -21,10 +21,12 @@ DECL|function|insert_one_alternate_ref
 DECL|function|mark_alternate_complete
 DECL|function|mark_common
 DECL|function|mark_complete
+DECL|function|mark_complete_oid
 DECL|function|mark_recent_complete_commits
 DECL|function|next_flush
 DECL|function|remove_duplicates_in_refs
 DECL|function|rev_list_insert_ref
+DECL|function|rev_list_insert_ref_oid
 DECL|function|rev_list_push
 DECL|function|send_request
 DECL|function|sideband_demux

@@ -48,8 +48,8 @@ DECL|variable|default_refs
 DECL|variable|errors_found
 DECL|variable|fsck_opts
 DECL|variable|fsck_usage
+DECL|variable|head_oid
 DECL|variable|head_points_at
-DECL|variable|head_sha1
 DECL|variable|include_reflogs
 DECL|variable|keep_cache_objects
 DECL|variable|pending
