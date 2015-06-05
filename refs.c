@@ -37,7 +37,6 @@ DECL|function|do_head_ref
 DECL|function|do_one_ref
 DECL|function|dwim_log
 DECL|function|dwim_ref
-DECL|function|entry_matches
 DECL|function|expire_reflog_ent
 DECL|function|filter_refs
 DECL|function|find_beginning_of_line
@@ -74,7 +73,6 @@ DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
 DECL|function|is_branch
 DECL|function|is_dup_ref
-DECL|function|is_refname_available
 DECL|function|lock_packed_refs
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
@@ -111,7 +109,6 @@ DECL|function|ref_transaction_delete
 DECL|function|ref_transaction_free
 DECL|function|ref_transaction_update
 DECL|function|ref_transaction_verify
-DECL|function|ref_update_compare
 DECL|function|ref_update_reject_duplicates
 DECL|function|reflog_exists
 DECL|function|reflog_expire
@@ -124,7 +121,6 @@ DECL|function|rename_ref
 DECL|function|rename_ref_available
 DECL|function|rename_tmp_log
 DECL|function|repack_without_refs
-DECL|function|report_refname_conflict
 DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
@@ -142,6 +138,7 @@ DECL|function|try_remove_empty_parents
 DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|verify_lock
+DECL|function|verify_refname_available
 DECL|function|warn_dangling_symref
 DECL|function|warn_dangling_symrefs
 DECL|function|warn_if_dangling_symref
@@ -167,6 +164,7 @@ DECL|member|base
 DECL|member|cb_data
 DECL|member|cb_data
 DECL|member|cnt
+DECL|member|conflicting_refname
 DECL|member|cutoff_cnt
 DECL|member|cutoff_time
 DECL|member|cutoff_tz
@@ -179,7 +177,6 @@ DECL|member|flags
 DECL|member|flags
 DECL|member|fn
 DECL|member|fn
-DECL|member|found
 DECL|member|found_it
 DECL|member|fp
 DECL|member|last_kept_sha1
