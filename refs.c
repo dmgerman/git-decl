@@ -20,6 +20,7 @@ DECL|function|clear_ref_dir
 DECL|function|close_ref
 DECL|function|commit_packed_refs
 DECL|function|commit_ref
+DECL|function|commit_ref_update
 DECL|function|copy_msg
 DECL|function|create_dir_entry
 DECL|function|create_ref_cache
@@ -144,7 +145,7 @@ DECL|function|warn_dangling_symrefs
 DECL|function|warn_if_dangling_symref
 DECL|function|write_packed_entry
 DECL|function|write_packed_entry_fn
-DECL|function|write_ref_sha1
+DECL|function|write_ref_to_lockfile
 DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
 DECL|macro|MAXREFLEN
@@ -156,6 +157,7 @@ DECL|macro|REF_HAVE_OLD
 DECL|macro|REF_INCOMPLETE
 DECL|macro|REF_ISPRUNING
 DECL|macro|REF_KNOWS_PEELED
+DECL|macro|REF_NEEDS_COMMIT
 DECL|macro|TMP_RENAMED_LOG
 DECL|member|alloc
 DECL|member|alloc
