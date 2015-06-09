@@ -213,6 +213,13 @@ DECL|macro|MODE_CHANGED
 DECL|macro|MTIME_CHANGED
 DECL|macro|NO_REPLACE_OBJECTS_ENVIRONMENT
 DECL|macro|OWNER_CHANGED
+DECL|macro|READ_GITFILE_ERR_INVALID_FORMAT
+DECL|macro|READ_GITFILE_ERR_NOT_A_FILE
+DECL|macro|READ_GITFILE_ERR_NOT_A_REPO
+DECL|macro|READ_GITFILE_ERR_NO_PATH
+DECL|macro|READ_GITFILE_ERR_OPEN_FAILED
+DECL|macro|READ_GITFILE_ERR_READ_FAILED
+DECL|macro|READ_GITFILE_ERR_STAT_FAILED
 DECL|macro|REFRESH_IGNORE_MISSING
 DECL|macro|REFRESH_IGNORE_SUBMODULES
 DECL|macro|REFRESH_IN_PORCELAIN
@@ -278,6 +285,7 @@ DECL|macro|read_cache
 DECL|macro|read_cache_from
 DECL|macro|read_cache_preload
 DECL|macro|read_cache_unmerged
+DECL|macro|read_gitfile
 DECL|macro|refresh_cache
 DECL|macro|remove_cache_entry_at
 DECL|macro|remove_file_from_cache
