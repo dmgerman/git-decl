@@ -39,7 +39,7 @@ DECL|function|has_loose_object_local
 DECL|function|has_loose_object_nonlocal
 DECL|function|has_pack_index
 DECL|function|has_packed_and_bad
-DECL|function|has_sha1_file
+DECL|function|has_sha1_file_with_flags
 DECL|function|has_sha1_pack
 DECL|function|hash_sha1_file
 DECL|function|in_delta_base_cache
