@@ -135,6 +135,7 @@ DECL|function|write_pack_access_log
 DECL|function|write_sha1_file
 DECL|function|write_sha1_file_prepare
 DECL|function|xmmap
+DECL|function|xmmap_gently
 DECL|macro|MAX_DELTA_CACHE
 DECL|macro|O_NOATIME
 DECL|macro|O_NOATIME
