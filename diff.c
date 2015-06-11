@@ -68,9 +68,12 @@ DECL|function|dirstat_compare
 DECL|function|emit_add_line
 DECL|function|emit_binary_diff
 DECL|function|emit_binary_diff_body
+DECL|function|emit_context_line
+DECL|function|emit_del_line
 DECL|function|emit_hunk_header
 DECL|function|emit_line
 DECL|function|emit_line_0
+DECL|function|emit_line_checked
 DECL|function|emit_rewrite_diff
 DECL|function|emit_rewrite_lines
 DECL|function|enable_patch_output
@@ -108,9 +111,11 @@ DECL|function|parse_diff_filter_opt
 DECL|function|parse_dirstat_opt
 DECL|function|parse_dirstat_params
 DECL|function|parse_long_opt
+DECL|function|parse_one_token
 DECL|function|parse_rename_score
 DECL|function|parse_submodule_opt
 DECL|function|parse_submodule_params
+DECL|function|parse_ws_error_highlight
 DECL|function|patch_id_consume
 DECL|function|pprint_rename
 DECL|function|prep_temp_blob
