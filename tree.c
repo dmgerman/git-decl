@@ -1,8 +1,8 @@
 DECL|function|cmp_cache_name_compare
 DECL|function|free_tree_buffer
 DECL|function|lookup_tree
-DECL|function|parse_tree
 DECL|function|parse_tree_buffer
+DECL|function|parse_tree_gently
 DECL|function|parse_tree_indirect
 DECL|function|read_one_entry
 DECL|function|read_one_entry_opt
