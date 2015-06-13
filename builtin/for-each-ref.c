@@ -28,6 +28,8 @@ DECL|function|grab_tag_values
 DECL|function|grab_values
 DECL|function|hex1
 DECL|function|hex2
+DECL|function|match_name_as_path
+DECL|function|new_refinfo
 DECL|function|opt_parse_sort
 DECL|function|parse_atom
 DECL|function|populate_value
