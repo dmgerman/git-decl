@@ -15,6 +15,7 @@ DECL|function|fill_missing_values
 DECL|function|find_next
 DECL|function|find_subpos
 DECL|function|find_wholine
+DECL|function|free_array_item
 DECL|function|get_obj
 DECL|function|get_value
 DECL|function|grab_commit_values
@@ -34,6 +35,7 @@ DECL|function|opt_parse_sort
 DECL|function|parse_atom
 DECL|function|populate_value
 DECL|function|print_value
+DECL|function|ref_array_clear
 DECL|function|show_ref
 DECL|function|sort_refs
 DECL|function|verify_format
