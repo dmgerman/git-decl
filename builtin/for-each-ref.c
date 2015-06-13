@@ -29,7 +29,7 @@ DECL|function|grab_values
 DECL|function|hex1
 DECL|function|hex2
 DECL|function|match_name_as_path
-DECL|function|new_refinfo
+DECL|function|new_ref_array_item
 DECL|function|opt_parse_sort
 DECL|function|parse_atom
 DECL|function|populate_value
@@ -59,8 +59,8 @@ DECL|member|ul
 DECL|member|value
 DECL|struct|atom_value
 DECL|struct|grab_ref_cbdata
+DECL|struct|ref_array_item
 DECL|struct|ref_sort
-DECL|struct|refinfo
 DECL|typedef|cmp_type
 DECL|variable|for_each_ref_usage
 DECL|variable|need_color_reset_at_eol
