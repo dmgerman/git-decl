@@ -10,6 +10,7 @@ DECL|function|copy_name
 DECL|function|copy_subject
 DECL|function|emit
 DECL|function|fill_missing_values
+DECL|function|filter_refs
 DECL|function|find_next
 DECL|function|find_subpos
 DECL|function|find_wholine
