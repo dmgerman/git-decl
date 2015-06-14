@@ -5,4 +5,5 @@ DECL|function|argv_array_push
 DECL|function|argv_array_push_nodup
 DECL|function|argv_array_pushf
 DECL|function|argv_array_pushl
+DECL|function|argv_array_pushv
 DECL|variable|empty_argv
