@@ -3,7 +3,17 @@ DECL|function|cmd_pull
 DECL|function|parse_repo_refspecs
 DECL|function|run_fetch
 DECL|function|run_merge
+DECL|variable|opt_commit
+DECL|variable|opt_diffstat
+DECL|variable|opt_edit
+DECL|variable|opt_ff
+DECL|variable|opt_gpg_sign
+DECL|variable|opt_log
 DECL|variable|opt_progress
+DECL|variable|opt_squash
+DECL|variable|opt_strategies
+DECL|variable|opt_strategy_opts
 DECL|variable|opt_verbosity
+DECL|variable|opt_verify_signatures
 DECL|variable|pull_options
 DECL|variable|pull_usage
