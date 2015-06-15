@@ -19,6 +19,7 @@ DECL|function|find_unique
 DECL|function|git_clean_config
 DECL|function|help_cmd
 DECL|function|interactive_main_loop
+DECL|function|is_git_repository
 DECL|function|list_and_choose
 DECL|function|parse_choice
 DECL|function|parse_clean_color_slot
