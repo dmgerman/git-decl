@@ -10,8 +10,10 @@ DECL|function|packet_read_line_buf
 DECL|function|packet_read_line_generic
 DECL|function|packet_trace
 DECL|function|packet_trace_identity
+DECL|function|packet_trace_pack
 DECL|function|packet_write
 DECL|macro|hex
 DECL|variable|packet_buffer
 DECL|variable|packet_trace_prefix
+DECL|variable|trace_pack
 DECL|variable|trace_packet

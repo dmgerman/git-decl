@@ -22,6 +22,7 @@ DECL|function|trace_printf_key_fl
 DECL|function|trace_repo_setup
 DECL|function|trace_strbuf
 DECL|function|trace_strbuf_fl
+DECL|function|trace_verbatim
 DECL|function|trace_vprintf_fl
 DECL|function|trace_want
 DECL|macro|highres_nanos
