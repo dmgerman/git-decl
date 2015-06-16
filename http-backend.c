@@ -1,5 +1,7 @@
 DECL|function|check_content_type
+DECL|function|copy_request
 DECL|function|die_webcgi
+DECL|function|die_webcgi_recursing
 DECL|function|end_headers
 DECL|function|forbidden
 DECL|function|format_write
@@ -23,6 +25,7 @@ DECL|function|http_status
 DECL|function|inflate_request
 DECL|function|main
 DECL|function|not_found
+DECL|function|read_request
 DECL|function|run_service
 DECL|function|select_getanyfile
 DECL|function|select_service
@@ -31,6 +34,7 @@ DECL|function|send_strbuf
 DECL|function|service_rpc
 DECL|function|show_head_ref
 DECL|function|show_text_ref
+DECL|member|buffer_input
 DECL|member|config_name
 DECL|member|enabled
 DECL|member|imp
@@ -41,8 +45,10 @@ DECL|struct|rpc_service
 DECL|struct|service_cmd
 DECL|variable|content_length
 DECL|variable|content_type
+DECL|variable|dead
 DECL|variable|getanyfile
 DECL|variable|last_modified
+DECL|variable|max_request_buffer
 DECL|variable|query_params
 DECL|variable|rpc_service
 DECL|variable|services
