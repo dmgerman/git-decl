@@ -9,6 +9,7 @@ DECL|function|parse_repo_refspecs
 DECL|function|pull_into_void
 DECL|function|run_fetch
 DECL|function|run_merge
+DECL|function|set_reflog_message
 DECL|variable|opt_all
 DECL|variable|opt_append
 DECL|variable|opt_commit
