@@ -6,6 +6,7 @@ DECL|function|die_no_merge_candidates
 DECL|function|get_merge_heads
 DECL|function|get_only_remote
 DECL|function|parse_repo_refspecs
+DECL|function|pull_into_void
 DECL|function|run_fetch
 DECL|function|run_merge
 DECL|variable|opt_all
