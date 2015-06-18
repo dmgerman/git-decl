@@ -1,6 +1,7 @@
 DECL|function|argv_push_force
 DECL|function|argv_push_verbosity
 DECL|function|cmd_pull
+DECL|function|config_get_ff
 DECL|function|die_no_merge_candidates
 DECL|function|get_merge_heads
 DECL|function|get_only_remote
