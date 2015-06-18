@@ -9,12 +9,15 @@ DECL|function|cmd_pull
 DECL|function|config_get_ff
 DECL|function|config_get_rebase
 DECL|function|die_no_merge_candidates
+DECL|function|die_on_unclean_work_tree
 DECL|function|get_merge_heads
 DECL|function|get_octopus_merge_base
 DECL|function|get_only_remote
 DECL|function|get_rebase_fork_point
 DECL|function|get_tracking_branch
 DECL|function|get_upstream_branch
+DECL|function|has_uncommitted_changes
+DECL|function|has_unstaged_changes
 DECL|function|parse_config_rebase
 DECL|function|parse_opt_rebase
 DECL|function|parse_repo_refspecs
