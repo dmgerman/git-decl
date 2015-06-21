@@ -1,3 +1,4 @@
+DECL|function|check_signature
 DECL|function|get_signing_key
 DECL|function|git_gpg_config
 DECL|function|parse_gpg_output
