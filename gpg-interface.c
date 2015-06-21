@@ -3,6 +3,7 @@ DECL|function|get_signing_key
 DECL|function|git_gpg_config
 DECL|function|parse_gpg_output
 DECL|function|parse_signature
+DECL|function|print_signature_buffer
 DECL|function|set_signing_key
 DECL|function|sign_buffer
 DECL|function|signature_check_clear
