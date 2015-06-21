@@ -8,6 +8,7 @@ DECL|variable|dry_run
 DECL|variable|file
 DECL|variable|integer
 DECL|variable|list
+DECL|variable|magnitude
 DECL|variable|quiet
 DECL|variable|string
 DECL|variable|timestamp
