@@ -23,6 +23,7 @@ DECL|function|report
 DECL|function|require_end_of_header
 DECL|function|verify_ordered
 DECL|macro|FOREACH_MSG_ID
+DECL|macro|FSCK_FATAL
 DECL|macro|MSG_ID
 DECL|macro|MSG_ID
 DECL|macro|MSG_ID
