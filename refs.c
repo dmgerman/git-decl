@@ -105,6 +105,7 @@ DECL|function|ref_entry_cmp
 DECL|function|ref_entry_cmp_sslice
 DECL|function|ref_exists
 DECL|function|ref_is_hidden
+DECL|function|ref_present
 DECL|function|ref_resolves_to_object
 DECL|function|ref_transaction_begin
 DECL|function|ref_transaction_commit
