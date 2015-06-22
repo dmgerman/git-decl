@@ -6,6 +6,7 @@ DECL|macro|FSCK_WARN
 DECL|macro|GIT_FSCK_H
 DECL|member|error_func
 DECL|member|msg_type
+DECL|member|skiplist
 DECL|member|strict
 DECL|member|walk
 DECL|struct|fsck_options
