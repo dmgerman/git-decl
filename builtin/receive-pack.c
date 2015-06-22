@@ -89,6 +89,7 @@ DECL|variable|deny_delete_current
 DECL|variable|deny_deletes
 DECL|variable|deny_non_fast_forwards
 DECL|variable|fix_thin
+DECL|variable|fsck_msg_types
 DECL|variable|head_name
 DECL|variable|head_name_to_free
 DECL|variable|nonce_stamp_slop

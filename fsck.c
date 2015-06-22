@@ -15,6 +15,7 @@ DECL|function|fsck_walk
 DECL|function|fsck_walk_commit
 DECL|function|fsck_walk_tag
 DECL|function|fsck_walk_tree
+DECL|function|is_valid_msg_type
 DECL|function|parse_msg_id
 DECL|function|parse_msg_type
 DECL|function|report
