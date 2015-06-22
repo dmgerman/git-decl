@@ -45,6 +45,7 @@ DECL|member|sha1
 DECL|struct|sha1_entry
 DECL|variable|check_full
 DECL|variable|check_strict
+DECL|variable|connectivity_only
 DECL|variable|default_refs
 DECL|variable|errors_found
 DECL|variable|fsck_obj_options
