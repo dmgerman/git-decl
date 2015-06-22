@@ -1,3 +1,4 @@
+DECL|function|batch_object_write
 DECL|function|batch_objects
 DECL|function|batch_one_object
 DECL|function|batch_option_callback
