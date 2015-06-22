@@ -5,6 +5,7 @@ DECL|function|check_reachable_object
 DECL|function|check_unreachable_object
 DECL|function|cmd_fsck
 DECL|function|fsck_cache_tree
+DECL|function|fsck_config
 DECL|function|fsck_dir
 DECL|function|fsck_error_func
 DECL|function|fsck_handle_ref
