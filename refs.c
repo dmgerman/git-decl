@@ -29,6 +29,7 @@ DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|delete_ref_loose
 DECL|function|delete_reflog
+DECL|function|delete_refs
 DECL|function|do_for_each_entry
 DECL|function|do_for_each_entry_in_dir
 DECL|function|do_for_each_entry_in_dirs

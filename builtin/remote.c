@@ -38,7 +38,6 @@ DECL|function|prune_remote
 DECL|function|read_branches
 DECL|function|read_remote_branches
 DECL|function|remove_all_fetch_refspecs
-DECL|function|remove_branches
 DECL|function|rm
 DECL|function|set_branches
 DECL|function|set_head
