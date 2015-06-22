@@ -73,6 +73,7 @@ DECL|function|get_ref_dir
 DECL|function|head_ref
 DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
+DECL|function|initial_ref_transaction_commit
 DECL|function|is_branch
 DECL|function|is_dup_ref
 DECL|function|lock_packed_refs
