@@ -37,6 +37,7 @@ DECL|variable|consumed_bytes
 DECL|variable|ctx
 DECL|variable|delta_list
 DECL|variable|dry_run
+DECL|variable|fsck_options
 DECL|variable|has_errors
 DECL|variable|len
 DECL|variable|nr_objects
