@@ -1,6 +1,7 @@
 DECL|function|batch_objects
 DECL|function|batch_one_object
 DECL|function|batch_option_callback
+DECL|function|batch_write
 DECL|function|cat_one_file
 DECL|function|cmd_cat_file
 DECL|function|expand_atom
@@ -8,6 +9,7 @@ DECL|function|expand_format
 DECL|function|git_cat_file_config
 DECL|function|is_atom
 DECL|function|print_object_or_die
+DECL|member|buffer_output
 DECL|member|delta_base_sha1
 DECL|member|disk_size
 DECL|member|enabled
