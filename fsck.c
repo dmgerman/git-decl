@@ -13,6 +13,7 @@ DECL|function|fsck_walk
 DECL|function|fsck_walk_commit
 DECL|function|fsck_walk_tag
 DECL|function|fsck_walk_tree
+DECL|function|parse_msg_id
 DECL|function|report
 DECL|function|require_end_of_header
 DECL|function|verify_ordered
@@ -21,7 +22,10 @@ DECL|macro|MSG_ID
 DECL|macro|MSG_ID
 DECL|macro|MSG_ID
 DECL|macro|MSG_ID
+DECL|macro|STR
 DECL|macro|TREE_HAS_DUPS
 DECL|macro|TREE_UNORDERED
+DECL|member|downcased
+DECL|member|id_string
 DECL|member|msg_type
 DECL|variable|msg_id_info
