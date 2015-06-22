@@ -1,5 +1,6 @@
 DECL|enumerator|FOREACH_MSG_ID
 DECL|enum|fsck_msg_id
+DECL|function|append_msg_id
 DECL|function|fsck_commit
 DECL|function|fsck_commit_buffer
 DECL|function|fsck_error_function
