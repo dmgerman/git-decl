@@ -63,6 +63,7 @@ DECL|function|ce_to_dtype
 DECL|function|copy_cache_entry
 DECL|function|create_ce_flags
 DECL|function|create_ce_mode
+DECL|function|has_sha1_file
 DECL|function|hashclr
 DECL|function|hashcmp
 DECL|function|hashcpy
@@ -197,6 +198,7 @@ DECL|macro|GIT_WORK_TREE_ENVIRONMENT
 DECL|macro|GRAFT_ENVIRONMENT
 DECL|macro|HASH_FORMAT_CHECK
 DECL|macro|HASH_WRITE_OBJECT
+DECL|macro|HAS_SHA1_QUICK
 DECL|macro|IDENT_NO_DATE
 DECL|macro|IDENT_NO_NAME
 DECL|macro|IDENT_STRICT
