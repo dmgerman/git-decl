@@ -21,6 +21,7 @@ DECL|enumerator|REV_SORT_IN_GRAPH_ORDER
 DECL|enum|cmit_fmt
 DECL|enum|decoration_type
 DECL|enum|rev_sort_order
+DECL|function|parse_commit
 DECL|function|single_parent
 DECL|macro|COMMIT_H
 DECL|macro|INFINITE_DEPTH

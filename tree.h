@@ -1,3 +1,4 @@
+DECL|function|parse_tree
 DECL|macro|READ_TREE_RECURSIVE
 DECL|macro|TREE_H
 DECL|member|buffer
