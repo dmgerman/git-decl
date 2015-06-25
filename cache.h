@@ -16,6 +16,7 @@ DECL|enumerator|DATE_RAW
 DECL|enumerator|DATE_RELATIVE
 DECL|enumerator|DATE_RFC2822
 DECL|enumerator|DATE_SHORT
+DECL|enumerator|DATE_STRFTIME
 DECL|enumerator|OBJECT_CREATION_USES_HARDLINKS
 DECL|enumerator|OBJECT_CREATION_USES_RENAMES
 DECL|enumerator|OBJ_ANY
@@ -399,6 +400,7 @@ DECL|member|sha1
 DECL|member|sha1
 DECL|member|sizep
 DECL|member|split_index
+DECL|member|strftime_fmt
 DECL|member|symlink_path
 DECL|member|timestamp
 DECL|member|total_in

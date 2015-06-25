@@ -13,6 +13,7 @@ DECL|function|strbuf_addbuf_percentquote
 DECL|function|strbuf_addchars
 DECL|function|strbuf_adddup
 DECL|function|strbuf_addf
+DECL|function|strbuf_addftime
 DECL|function|strbuf_addstr_urlencode
 DECL|function|strbuf_addstr_xml_quoted
 DECL|function|strbuf_attach
