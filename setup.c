@@ -29,3 +29,4 @@ DECL|function|verify_filename
 DECL|function|verify_non_filename
 DECL|variable|inside_git_dir
 DECL|variable|inside_work_tree
+DECL|variable|work_tree_config_is_bogus
