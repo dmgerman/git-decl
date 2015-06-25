@@ -49,7 +49,7 @@ DECL|enumerator|SCLD_OK
 DECL|enumerator|SCLD_PERMS
 DECL|enumerator|SCLD_VANISHED
 DECL|enum|branch_track
-DECL|enum|date_mode
+DECL|enum|date_mode_type
 DECL|enum|object_creation_mode
 DECL|enum|object_type
 DECL|enum|push_default_type
@@ -145,6 +145,7 @@ DECL|macro|COPY_READ_ERROR
 DECL|macro|COPY_WRITE_ERROR
 DECL|macro|CTIME_CHANGED
 DECL|macro|DATA_CHANGED
+DECL|macro|DATE_MODE
 DECL|macro|DB_ENVIRONMENT
 DECL|macro|DEFAULT_ABBREV
 DECL|macro|DEFAULT_GIT_DIR_ENVIRONMENT
@@ -404,6 +405,7 @@ DECL|member|total_in
 DECL|member|total_out
 DECL|member|track_flags
 DECL|member|tree
+DECL|member|type
 DECL|member|typename
 DECL|member|typep
 DECL|member|tz_begin
@@ -428,6 +430,7 @@ DECL|struct|config_set
 DECL|struct|config_set_element
 DECL|struct|configset_list
 DECL|struct|configset_list_item
+DECL|struct|date_mode
 DECL|struct|git_config_source
 DECL|struct|git_zstream
 DECL|struct|ident_split

@@ -5,6 +5,7 @@ DECL|function|approxidate_relative
 DECL|function|approxidate_str
 DECL|function|date_am
 DECL|function|date_midnight
+DECL|function|date_mode_from_type
 DECL|function|date_never
 DECL|function|date_noon
 DECL|function|date_now
