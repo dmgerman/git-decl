@@ -30,6 +30,7 @@ DECL|function|managed_skipped
 DECL|function|mark_expected_rev
 DECL|function|read_bisect_paths
 DECL|function|read_bisect_refs
+DECL|function|read_bisect_terms
 DECL|function|register_ref
 DECL|function|show_diff_tree
 DECL|function|show_list

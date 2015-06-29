@@ -30,6 +30,7 @@ DECL|function|everybody_uninteresting
 DECL|function|file_add_remove
 DECL|function|file_change
 DECL|function|for_each_bad_bisect_ref
+DECL|function|for_each_bisect_ref
 DECL|function|for_each_good_bisect_ref
 DECL|function|free_saved_parents
 DECL|function|gc_boundary
@@ -112,4 +113,6 @@ DECL|struct|cmdline_pathspec
 DECL|struct|merge_simplify_state
 DECL|struct|treesame_state
 DECL|variable|show_early_output
+DECL|variable|term_bad
+DECL|variable|term_good
 DECL|variable|tree_difference
