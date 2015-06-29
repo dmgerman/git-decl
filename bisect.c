@@ -50,3 +50,5 @@ DECL|variable|argv_update_ref
 DECL|variable|current_bad_oid
 DECL|variable|good_revs
 DECL|variable|skipped_revs
+DECL|variable|term_bad
+DECL|variable|term_good
