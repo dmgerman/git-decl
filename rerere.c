@@ -1,5 +1,6 @@
 DECL|function|check_one_conflict
 DECL|function|do_plain_rerere
+DECL|function|do_rerere_one_path
 DECL|function|ferr_puts
 DECL|function|ferr_write
 DECL|function|find_conflict
