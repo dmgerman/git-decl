@@ -1,9 +1,11 @@
 DECL|function|check_one_conflict
+DECL|function|dirname_to_id
 DECL|function|do_plain_rerere
 DECL|function|do_rerere_one_path
 DECL|function|ferr_puts
 DECL|function|ferr_write
 DECL|function|find_conflict
+DECL|function|free_rerere_id
 DECL|function|git_rerere_config
 DECL|function|handle_cache
 DECL|function|handle_file
@@ -12,6 +14,8 @@ DECL|function|has_rerere_resolution
 DECL|function|is_cmarker
 DECL|function|is_rerere_enabled
 DECL|function|merge
+DECL|function|new_rerere_id
+DECL|function|new_rerere_id_hex
 DECL|function|read_rr
 DECL|function|rerere
 DECL|function|rerere_clear
@@ -20,6 +24,7 @@ DECL|function|rerere_file_getline
 DECL|function|rerere_forget
 DECL|function|rerere_forget_one_path
 DECL|function|rerere_gc
+DECL|function|rerere_id_hex
 DECL|function|rerere_io_putconflict
 DECL|function|rerere_io_putmem
 DECL|function|rerere_io_putstr
