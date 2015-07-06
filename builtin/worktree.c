@@ -1,9 +1,16 @@
 DECL|function|add
+DECL|function|add_worktree
 DECL|function|cmd_worktree
 DECL|function|prune
 DECL|function|prune_worktree
 DECL|function|prune_worktrees
+DECL|function|remove_junk
+DECL|function|remove_junk_on_signal
 DECL|variable|expire
+DECL|variable|is_junk
+DECL|variable|junk_git_dir
+DECL|variable|junk_pid
+DECL|variable|junk_work_tree
 DECL|variable|show_only
 DECL|variable|verbose
 DECL|variable|worktree_usage
