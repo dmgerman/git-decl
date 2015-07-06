@@ -37,7 +37,6 @@ DECL|member|dst_ref
 DECL|member|dst_sha1
 DECL|member|force
 DECL|member|force_detach
-DECL|member|ignore_other_worktrees
 DECL|member|ignore_skipworktree
 DECL|member|merge
 DECL|member|name
