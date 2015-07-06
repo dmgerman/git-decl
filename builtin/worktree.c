@@ -6,6 +6,7 @@ DECL|function|prune_worktree
 DECL|function|prune_worktrees
 DECL|function|remove_junk
 DECL|function|remove_junk_on_signal
+DECL|function|worktree_basename
 DECL|variable|expire
 DECL|variable|is_junk
 DECL|variable|junk_git_dir
