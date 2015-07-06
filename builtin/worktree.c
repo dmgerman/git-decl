@@ -1,3 +1,4 @@
+DECL|function|add
 DECL|function|cmd_worktree
 DECL|function|prune
 DECL|function|prune_worktree
