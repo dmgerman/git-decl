@@ -32,6 +32,8 @@ DECL|member|s
 DECL|member|symref
 DECL|member|ul
 DECL|member|value
+DECL|member|with_commit
+DECL|member|with_commit_tag_algo
 DECL|struct|atom_value
 DECL|struct|ref_array
 DECL|struct|ref_array_item
