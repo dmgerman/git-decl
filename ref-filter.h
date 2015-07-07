@@ -16,6 +16,7 @@ DECL|member|name_patterns
 DECL|member|next
 DECL|member|nr
 DECL|member|objectname
+DECL|member|points_at
 DECL|member|refname
 DECL|member|reverse
 DECL|member|s
