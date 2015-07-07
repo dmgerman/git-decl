@@ -30,6 +30,7 @@ DECL|function|hex2
 DECL|function|match_name_as_path
 DECL|function|match_points_at
 DECL|function|new_ref_array_item
+DECL|function|parse_opt_merge_filter
 DECL|function|parse_opt_ref_sorting
 DECL|function|parse_ref_filter_atom
 DECL|function|populate_value
