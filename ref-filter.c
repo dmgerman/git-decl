@@ -8,6 +8,7 @@ DECL|function|copy_email
 DECL|function|copy_line
 DECL|function|copy_name
 DECL|function|copy_subject
+DECL|function|do_merge_filter
 DECL|function|emit
 DECL|function|fill_missing_values
 DECL|function|filter_refs

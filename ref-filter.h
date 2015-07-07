@@ -1,3 +1,6 @@
+DECL|enumerator|REF_FILTER_MERGED_INCLUDE
+DECL|enumerator|REF_FILTER_MERGED_NONE
+DECL|enumerator|REF_FILTER_MERGED_OMIT
 DECL|macro|FILTER_REFS_ALL
 DECL|macro|FILTER_REFS_INCLUDE_BROKEN
 DECL|macro|OPT_MERGED
@@ -12,9 +15,12 @@ DECL|macro|_OPT_MERGED_NO_MERGED
 DECL|member|alloc
 DECL|member|array
 DECL|member|atom
+DECL|member|commit
 DECL|member|filter
 DECL|member|flag
 DECL|member|items
+DECL|member|merge
+DECL|member|merge_commit
 DECL|member|name_patterns
 DECL|member|next
 DECL|member|nr
