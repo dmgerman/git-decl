@@ -19,6 +19,7 @@ DECL|function|cmd_log_walk
 DECL|function|cmd_show
 DECL|function|cmd_whatchanged
 DECL|function|decorate_callback
+DECL|function|default_follow_tweak
 DECL|function|early_output
 DECL|function|estimate_commit_count
 DECL|function|find_branch_name
@@ -68,6 +69,7 @@ DECL|variable|decoration_style
 DECL|variable|default_abbrev_commit
 DECL|variable|default_attach
 DECL|variable|default_date_mode
+DECL|variable|default_follow
 DECL|variable|default_show_root
 DECL|variable|do_signoff
 DECL|variable|early_output_timer
