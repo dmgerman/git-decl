@@ -1,6 +1,6 @@
 DECL|function|ewah_bit_ctz64
 DECL|function|ewah_bit_popcount64
-DECL|macro|BITS_IN_WORD
+DECL|macro|BITS_IN_EWORD
 DECL|macro|__EWOK_BITMAP_H__
 DECL|macro|ewah_bit_ctz64
 DECL|macro|ewah_calloc

@@ -11,5 +11,5 @@ DECL|function|bitmap_reset
 DECL|function|bitmap_set
 DECL|function|bitmap_to_ewah
 DECL|function|ewah_to_bitmap
-DECL|macro|BLOCK
-DECL|macro|MASK
+DECL|macro|EWAH_BLOCK
+DECL|macro|EWAH_MASK
