@@ -1,5 +1,4 @@
 DECL|function|add_pending_uninteresting_ref
-DECL|function|check_linked_checkout
 DECL|function|check_stage
 DECL|function|check_stages
 DECL|function|check_tracking_name
@@ -10,7 +9,6 @@ DECL|function|checkout_stage
 DECL|function|cmd_checkout
 DECL|function|describe_detached_head
 DECL|function|describe_one_orphan
-DECL|function|die_if_checked_out
 DECL|function|git_checkout_config
 DECL|function|merge_working_tree
 DECL|function|orphaned_commit_warning
