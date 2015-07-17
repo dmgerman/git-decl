@@ -43,7 +43,6 @@ DECL|member|new_branch
 DECL|member|new_branch_force
 DECL|member|new_branch_log
 DECL|member|new_orphan_branch
-DECL|member|new_worktree_mode
 DECL|member|overwrite_ignore
 DECL|member|patch_mode
 DECL|member|path
