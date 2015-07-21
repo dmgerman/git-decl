@@ -131,6 +131,7 @@ DECL|function|resolve_ref_unsafe
 DECL|function|resolve_ref_unsafe_1
 DECL|function|resolve_refdup
 DECL|function|rollback_packed_refs
+DECL|function|safe_create_reflog
 DECL|function|search_for_subdir
 DECL|function|search_ref_dir
 DECL|function|shorten_unambiguous_ref
