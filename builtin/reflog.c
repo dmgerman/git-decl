@@ -3,6 +3,7 @@ DECL|enumerator|UE_HEAD
 DECL|enumerator|UE_NORMAL
 DECL|function|cmd_reflog
 DECL|function|cmd_reflog_delete
+DECL|function|cmd_reflog_exists
 DECL|function|cmd_reflog_expire
 DECL|function|collect_reflog
 DECL|function|commit_is_complete
@@ -53,6 +54,7 @@ DECL|struct|reflog_expire_cfg
 DECL|variable|default_reflog_expire
 DECL|variable|default_reflog_expire_unreachable
 DECL|variable|reflog_delete_usage
+DECL|variable|reflog_exists_usage
 DECL|variable|reflog_expire_cfg
 DECL|variable|reflog_expire_cfg_tail
 DECL|variable|reflog_expire_usage
