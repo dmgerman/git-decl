@@ -134,6 +134,7 @@ DECL|function|rollback_packed_refs
 DECL|function|search_for_subdir
 DECL|function|search_ref_dir
 DECL|function|shorten_unambiguous_ref
+DECL|function|should_autocreate_reflog
 DECL|function|show_one_reflog_ent
 DECL|function|sort_ref_dir
 DECL|function|substitute_branch_name
