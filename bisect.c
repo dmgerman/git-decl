@@ -27,7 +27,6 @@ DECL|function|is_expected_rev
 DECL|function|join_sha1_array_hex
 DECL|function|log2i
 DECL|function|managed_skipped
-DECL|function|mark_expected_rev
 DECL|function|read_bisect_paths
 DECL|function|read_bisect_refs
 DECL|function|register_ref
@@ -46,7 +45,6 @@ DECL|member|distance
 DECL|struct|commit_dist
 DECL|variable|argv_checkout
 DECL|variable|argv_show_branch
-DECL|variable|argv_update_ref
 DECL|variable|current_bad_oid
 DECL|variable|good_revs
 DECL|variable|skipped_revs
