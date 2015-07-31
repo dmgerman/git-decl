@@ -2,11 +2,15 @@ DECL|enumerator|EXPIRE_REFLOGS_DRY_RUN
 DECL|enumerator|EXPIRE_REFLOGS_REWRITE
 DECL|enumerator|EXPIRE_REFLOGS_UPDATE_REF
 DECL|enumerator|EXPIRE_REFLOGS_VERBOSE
+DECL|enumerator|REF_TYPE_NORMAL
+DECL|enumerator|REF_TYPE_PER_WORKTREE
+DECL|enumerator|REF_TYPE_PSEUDOREF
 DECL|enumerator|UPDATE_REFS_DIE_ON_ERR
 DECL|enumerator|UPDATE_REFS_MSG_ON_ERR
 DECL|enumerator|UPDATE_REFS_QUIET_ON_ERR
 DECL|enum|action_on_err
 DECL|enum|expire_reflog_flags
+DECL|enum|ref_type
 DECL|function|has_glob_specials
 DECL|macro|PACK_REFS_ALL
 DECL|macro|PACK_REFS_PRUNE
