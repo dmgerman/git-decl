@@ -38,7 +38,6 @@ DECL|function|sequencer_pick_revisions
 DECL|function|sequencer_rollback
 DECL|function|single_pick
 DECL|function|walk_revs_populate_todo
-DECL|function|write_cherry_pick_head
 DECL|function|write_message
 DECL|macro|GIT_REFLOG_ACTION
 DECL|member|label
