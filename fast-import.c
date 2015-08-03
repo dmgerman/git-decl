@@ -62,6 +62,7 @@ DECL|function|parse_feature
 DECL|function|parse_from
 DECL|function|parse_from_commit
 DECL|function|parse_from_existing
+DECL|function|parse_get_mark
 DECL|function|parse_ident
 DECL|function|parse_ls
 DECL|function|parse_mark
