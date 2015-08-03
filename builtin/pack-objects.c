@@ -46,7 +46,6 @@ DECL|function|name_cmp_len
 DECL|function|no_try_delta
 DECL|function|ofscmp
 DECL|function|option_parse_index_version
-DECL|function|option_parse_ulong
 DECL|function|option_parse_unpack_unreachable
 DECL|function|pack_offset_sort
 DECL|function|pack_options_allow_reuse
@@ -75,7 +74,6 @@ DECL|function|write_pack_file
 DECL|function|write_reuse_object
 DECL|function|write_reused_pack
 DECL|macro|OBJECT_ADDED
-DECL|macro|OPT_ULONG
 DECL|macro|cache_lock
 DECL|macro|cache_lock
 DECL|macro|cache_unlock
