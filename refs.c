@@ -29,6 +29,7 @@ DECL|function|create_symref
 DECL|function|delete_ref
 DECL|function|delete_ref_loose
 DECL|function|delete_reflog
+DECL|function|delete_refs
 DECL|function|do_for_each_entry
 DECL|function|do_for_each_entry_in_dir
 DECL|function|do_for_each_entry_in_dirs
@@ -72,6 +73,7 @@ DECL|function|get_ref_dir
 DECL|function|head_ref
 DECL|function|head_ref_namespaced
 DECL|function|head_ref_submodule
+DECL|function|initial_ref_transaction_commit
 DECL|function|is_branch
 DECL|function|is_dup_ref
 DECL|function|lock_packed_refs
@@ -103,6 +105,7 @@ DECL|function|ref_entry_cmp
 DECL|function|ref_entry_cmp_sslice
 DECL|function|ref_exists
 DECL|function|ref_is_hidden
+DECL|function|ref_present
 DECL|function|ref_resolves_to_object
 DECL|function|ref_transaction_begin
 DECL|function|ref_transaction_commit
