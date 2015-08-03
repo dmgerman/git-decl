@@ -120,6 +120,7 @@ DECL|variable|deepest_delta
 DECL|variable|deepest_delta_mutex
 DECL|variable|do_fsck_object
 DECL|variable|from_stdin
+DECL|variable|fsck_options
 DECL|variable|index_pack_usage
 DECL|variable|input_buffer
 DECL|variable|input_crc32

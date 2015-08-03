@@ -5,6 +5,7 @@ DECL|function|check_reachable_object
 DECL|function|check_unreachable_object
 DECL|function|cmd_fsck
 DECL|function|fsck_cache_tree
+DECL|function|fsck_config
 DECL|function|fsck_dir
 DECL|function|fsck_error_func
 DECL|function|fsck_handle_ref
@@ -45,10 +46,13 @@ DECL|member|sha1
 DECL|struct|sha1_entry
 DECL|variable|check_full
 DECL|variable|check_strict
+DECL|variable|connectivity_only
 DECL|variable|default_refs
 DECL|variable|errors_found
+DECL|variable|fsck_obj_options
 DECL|variable|fsck_opts
 DECL|variable|fsck_usage
+DECL|variable|fsck_walk_options
 DECL|variable|head_oid
 DECL|variable|head_points_at
 DECL|variable|include_reflogs
