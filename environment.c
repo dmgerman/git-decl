@@ -53,6 +53,7 @@ DECL|variable|git_index_env
 DECL|variable|git_index_file
 DECL|variable|git_log_output_encoding
 DECL|variable|git_object_dir
+DECL|variable|git_replace_ref_base
 DECL|variable|git_work_tree_cfg
 DECL|variable|git_work_tree_initialized
 DECL|variable|grafts_replace_parents
