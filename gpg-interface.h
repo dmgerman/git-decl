@@ -1,4 +1,6 @@
 DECL|macro|GPG_INTERFACE_H
+DECL|macro|GPG_VERIFY_RAW
+DECL|macro|GPG_VERIFY_VERBOSE
 DECL|member|gpg_output
 DECL|member|gpg_status
 DECL|member|key
