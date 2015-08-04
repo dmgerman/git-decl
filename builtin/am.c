@@ -52,6 +52,7 @@ DECL|function|read_shell_var
 DECL|function|read_state_file
 DECL|function|refresh_and_write_cache
 DECL|function|run_apply
+DECL|function|run_applypatch_msg_hook
 DECL|function|run_post_rewrite_hook
 DECL|function|safe_to_abort
 DECL|function|say
