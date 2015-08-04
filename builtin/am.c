@@ -1,5 +1,6 @@
 DECL|enumerator|PATCH_FORMAT_MBOX
 DECL|enumerator|PATCH_FORMAT_UNKNOWN
+DECL|enumerator|RESUME_APPLY
 DECL|enumerator|RESUME_FALSE
 DECL|enumerator|RESUME_RESOLVED
 DECL|enum|patch_format
