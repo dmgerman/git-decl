@@ -1,11 +1,15 @@
 DECL|enumerator|PATCH_FORMAT_MBOX
 DECL|enumerator|PATCH_FORMAT_UNKNOWN
+DECL|enumerator|RESUME_FALSE
+DECL|enumerator|RESUME_RESOLVED
 DECL|enum|patch_format
+DECL|enum|resume_mode
 DECL|function|am_destroy
 DECL|function|am_in_progress
 DECL|function|am_load
 DECL|function|am_next
 DECL|function|am_path
+DECL|function|am_resolve
 DECL|function|am_run
 DECL|function|am_setup
 DECL|function|am_state_init
@@ -29,6 +33,7 @@ DECL|function|run_apply
 DECL|function|split_mail
 DECL|function|split_mail_mbox
 DECL|function|strbuf_getline_crlf
+DECL|function|validate_resume_state
 DECL|function|write_author_script
 DECL|function|write_commit_msg
 DECL|member|author_date
