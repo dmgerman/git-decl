@@ -3,6 +3,7 @@ DECL|enumerator|KEEP_NON_PATCH
 DECL|enumerator|KEEP_TRUE
 DECL|enumerator|PATCH_FORMAT_MBOX
 DECL|enumerator|PATCH_FORMAT_STGIT
+DECL|enumerator|PATCH_FORMAT_STGIT_SERIES
 DECL|enumerator|PATCH_FORMAT_UNKNOWN
 DECL|enumerator|RESUME_ABORT
 DECL|enumerator|RESUME_APPLY
@@ -61,6 +62,7 @@ DECL|function|say
 DECL|function|split_mail
 DECL|function|split_mail_conv
 DECL|function|split_mail_mbox
+DECL|function|split_mail_stgit_series
 DECL|function|stgit_patch_to_mail
 DECL|function|str_isspace
 DECL|function|strbuf_getline_crlf
