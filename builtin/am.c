@@ -1,3 +1,6 @@
+DECL|enumerator|PATCH_FORMAT_MBOX
+DECL|enumerator|PATCH_FORMAT_UNKNOWN
+DECL|enum|patch_format
 DECL|function|am_destroy
 DECL|function|am_in_progress
 DECL|function|am_load
@@ -8,8 +11,12 @@ DECL|function|am_setup
 DECL|function|am_state_init
 DECL|function|am_state_release
 DECL|function|cmd_am
+DECL|function|parse_opt_patchformat
 DECL|function|read_state_file
+DECL|function|split_mail
+DECL|function|split_mail_mbox
 DECL|member|cur
 DECL|member|dir
 DECL|member|last
+DECL|member|prec
 DECL|struct|am_state
