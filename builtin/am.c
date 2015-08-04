@@ -38,6 +38,7 @@ DECL|function|copy_notes_for_rebase
 DECL|function|detect_patch_format
 DECL|function|die_user_resolve
 DECL|function|do_commit
+DECL|function|do_interactive
 DECL|function|fall_back_threeway
 DECL|function|fast_forward_to
 DECL|function|get_commit_info
@@ -72,6 +73,7 @@ DECL|function|validate_resume_state
 DECL|function|write_author_script
 DECL|function|write_commit_msg
 DECL|function|write_commit_patch
+DECL|function|write_index_patch
 DECL|member|allow_rerere_autoupdate
 DECL|member|author_date
 DECL|member|author_email
@@ -81,6 +83,7 @@ DECL|member|cur
 DECL|member|dir
 DECL|member|git_apply_opts
 DECL|member|ignore_date
+DECL|member|interactive
 DECL|member|keep
 DECL|member|last
 DECL|member|message_id
