@@ -30,6 +30,7 @@ DECL|function|am_state_release
 DECL|function|build_fake_ancestor
 DECL|function|clean_index
 DECL|function|cmd_am
+DECL|function|copy_notes_for_rebase
 DECL|function|detect_patch_format
 DECL|function|die_user_resolve
 DECL|function|do_commit
