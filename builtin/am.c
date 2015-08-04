@@ -22,6 +22,7 @@ DECL|function|am_state_release
 DECL|function|clean_index
 DECL|function|cmd_am
 DECL|function|detect_patch_format
+DECL|function|die_user_resolve
 DECL|function|do_commit
 DECL|function|fast_forward_to
 DECL|function|index_has_changes
@@ -55,4 +56,5 @@ DECL|member|msg
 DECL|member|msg_len
 DECL|member|prec
 DECL|member|quiet
+DECL|member|resolvemsg
 DECL|struct|am_state
