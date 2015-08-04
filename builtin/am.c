@@ -1,1 +1,15 @@
+DECL|function|am_destroy
+DECL|function|am_in_progress
+DECL|function|am_load
+DECL|function|am_next
+DECL|function|am_path
+DECL|function|am_run
+DECL|function|am_setup
+DECL|function|am_state_init
+DECL|function|am_state_release
 DECL|function|cmd_am
+DECL|function|read_state_file
+DECL|member|cur
+DECL|member|dir
+DECL|member|last
+DECL|struct|am_state
