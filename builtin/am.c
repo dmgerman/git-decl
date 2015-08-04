@@ -3,6 +3,7 @@ DECL|enumerator|PATCH_FORMAT_UNKNOWN
 DECL|enumerator|RESUME_APPLY
 DECL|enumerator|RESUME_FALSE
 DECL|enumerator|RESUME_RESOLVED
+DECL|enumerator|RESUME_SKIP
 DECL|enum|patch_format
 DECL|enum|resume_mode
 DECL|function|am_destroy
@@ -13,11 +14,14 @@ DECL|function|am_path
 DECL|function|am_resolve
 DECL|function|am_run
 DECL|function|am_setup
+DECL|function|am_skip
 DECL|function|am_state_init
 DECL|function|am_state_release
+DECL|function|clean_index
 DECL|function|cmd_am
 DECL|function|detect_patch_format
 DECL|function|do_commit
+DECL|function|fast_forward_to
 DECL|function|index_has_changes
 DECL|function|is_empty_file
 DECL|function|is_mail
