@@ -66,4 +66,5 @@ DECL|member|rebasing
 DECL|member|resolvemsg
 DECL|member|signoff
 DECL|member|threeway
+DECL|member|utf8
 DECL|struct|am_state
