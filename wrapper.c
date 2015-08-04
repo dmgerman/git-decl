@@ -33,6 +33,7 @@ DECL|function|xmallocz_gently
 DECL|function|xmemdupz
 DECL|function|xmkstemp
 DECL|function|xmkstemp_mode
+DECL|function|xopen
 DECL|function|xpread
 DECL|function|xread
 DECL|function|xrealloc
