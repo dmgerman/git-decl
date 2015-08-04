@@ -63,6 +63,7 @@ DECL|member|cur
 DECL|member|dir
 DECL|member|keep
 DECL|member|last
+DECL|member|message_id
 DECL|member|msg
 DECL|member|msg_len
 DECL|member|prec
