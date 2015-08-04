@@ -8,9 +8,13 @@ DECL|enumerator|RESUME_APPLY
 DECL|enumerator|RESUME_FALSE
 DECL|enumerator|RESUME_RESOLVED
 DECL|enumerator|RESUME_SKIP
+DECL|enumerator|SCISSORS_FALSE
+DECL|enumerator|SCISSORS_TRUE
+DECL|enumerator|SCISSORS_UNSET
 DECL|enum|keep_type
 DECL|enum|patch_format
 DECL|enum|resume_mode
+DECL|enum|scissors_type
 DECL|function|am_abort
 DECL|function|am_destroy
 DECL|function|am_in_progress
@@ -70,6 +74,7 @@ DECL|member|prec
 DECL|member|quiet
 DECL|member|rebasing
 DECL|member|resolvemsg
+DECL|member|scissors
 DECL|member|signoff
 DECL|member|threeway
 DECL|member|utf8
