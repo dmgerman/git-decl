@@ -1,3 +1,6 @@
+DECL|enumerator|KEEP_FALSE
+DECL|enumerator|KEEP_NON_PATCH
+DECL|enumerator|KEEP_TRUE
 DECL|enumerator|PATCH_FORMAT_MBOX
 DECL|enumerator|PATCH_FORMAT_UNKNOWN
 DECL|enumerator|RESUME_ABORT
@@ -5,6 +8,7 @@ DECL|enumerator|RESUME_APPLY
 DECL|enumerator|RESUME_FALSE
 DECL|enumerator|RESUME_RESOLVED
 DECL|enumerator|RESUME_SKIP
+DECL|enum|keep_type
 DECL|enum|patch_format
 DECL|enum|resume_mode
 DECL|function|am_abort
@@ -57,6 +61,7 @@ DECL|member|author_email
 DECL|member|author_name
 DECL|member|cur
 DECL|member|dir
+DECL|member|keep
 DECL|member|last
 DECL|member|msg
 DECL|member|msg_len
