@@ -58,6 +58,7 @@ DECL|member|msg
 DECL|member|msg_len
 DECL|member|prec
 DECL|member|quiet
+DECL|member|rebasing
 DECL|member|resolvemsg
 DECL|member|signoff
 DECL|member|threeway
