@@ -66,6 +66,7 @@ DECL|member|author_name
 DECL|member|cur
 DECL|member|dir
 DECL|member|git_apply_opts
+DECL|member|ignore_date
 DECL|member|keep
 DECL|member|last
 DECL|member|message_id
