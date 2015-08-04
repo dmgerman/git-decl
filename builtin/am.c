@@ -2,6 +2,7 @@ DECL|enumerator|KEEP_FALSE
 DECL|enumerator|KEEP_NON_PATCH
 DECL|enumerator|KEEP_TRUE
 DECL|enumerator|PATCH_FORMAT_MBOX
+DECL|enumerator|PATCH_FORMAT_STGIT
 DECL|enumerator|PATCH_FORMAT_UNKNOWN
 DECL|enumerator|RESUME_ABORT
 DECL|enumerator|RESUME_APPLY
@@ -58,7 +59,10 @@ DECL|function|run_post_rewrite_hook
 DECL|function|safe_to_abort
 DECL|function|say
 DECL|function|split_mail
+DECL|function|split_mail_conv
 DECL|function|split_mail_mbox
+DECL|function|stgit_patch_to_mail
+DECL|function|str_isspace
 DECL|function|strbuf_getline_crlf
 DECL|function|validate_resume_state
 DECL|function|write_author_script
@@ -89,3 +93,4 @@ DECL|member|signoff
 DECL|member|threeway
 DECL|member|utf8
 DECL|struct|am_state
+DECL|typedef|mail_conv_fn
