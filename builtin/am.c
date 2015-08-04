@@ -78,6 +78,7 @@ DECL|member|quiet
 DECL|member|rebasing
 DECL|member|resolvemsg
 DECL|member|scissors
+DECL|member|sign_commit
 DECL|member|signoff
 DECL|member|threeway
 DECL|member|utf8
