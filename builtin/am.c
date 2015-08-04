@@ -11,10 +11,13 @@ DECL|function|am_setup
 DECL|function|am_state_init
 DECL|function|am_state_release
 DECL|function|cmd_am
+DECL|function|detect_patch_format
+DECL|function|is_mail
 DECL|function|parse_opt_patchformat
 DECL|function|read_state_file
 DECL|function|split_mail
 DECL|function|split_mail_mbox
+DECL|function|strbuf_getline_crlf
 DECL|member|cur
 DECL|member|dir
 DECL|member|last
