@@ -1,11 +1,13 @@
 DECL|enumerator|PATCH_FORMAT_MBOX
 DECL|enumerator|PATCH_FORMAT_UNKNOWN
+DECL|enumerator|RESUME_ABORT
 DECL|enumerator|RESUME_APPLY
 DECL|enumerator|RESUME_FALSE
 DECL|enumerator|RESUME_RESOLVED
 DECL|enumerator|RESUME_SKIP
 DECL|enum|patch_format
 DECL|enum|resume_mode
+DECL|function|am_abort
 DECL|function|am_destroy
 DECL|function|am_in_progress
 DECL|function|am_load
@@ -35,6 +37,7 @@ DECL|function|read_shell_var
 DECL|function|read_state_file
 DECL|function|refresh_and_write_cache
 DECL|function|run_apply
+DECL|function|safe_to_abort
 DECL|function|split_mail
 DECL|function|split_mail_mbox
 DECL|function|strbuf_getline_crlf
