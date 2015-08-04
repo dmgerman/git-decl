@@ -63,6 +63,7 @@ DECL|function|write_commit_patch
 DECL|member|author_date
 DECL|member|author_email
 DECL|member|author_name
+DECL|member|committer_date_is_author_date
 DECL|member|cur
 DECL|member|dir
 DECL|member|git_apply_opts
