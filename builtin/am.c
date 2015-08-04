@@ -14,6 +14,7 @@ DECL|function|cmd_am
 DECL|function|detect_patch_format
 DECL|function|is_empty_file
 DECL|function|is_mail
+DECL|function|linelen
 DECL|function|msgnum
 DECL|function|parse_mail
 DECL|function|parse_opt_patchformat
@@ -21,6 +22,8 @@ DECL|function|read_author_script
 DECL|function|read_commit_msg
 DECL|function|read_shell_var
 DECL|function|read_state_file
+DECL|function|refresh_and_write_cache
+DECL|function|run_apply
 DECL|function|split_mail
 DECL|function|split_mail_mbox
 DECL|function|strbuf_getline_crlf
