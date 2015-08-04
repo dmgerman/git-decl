@@ -21,6 +21,7 @@ DECL|function|am_in_progress
 DECL|function|am_load
 DECL|function|am_next
 DECL|function|am_path
+DECL|function|am_rerere_clear
 DECL|function|am_resolve
 DECL|function|am_run
 DECL|function|am_setup
@@ -63,6 +64,7 @@ DECL|function|validate_resume_state
 DECL|function|write_author_script
 DECL|function|write_commit_msg
 DECL|function|write_commit_patch
+DECL|member|allow_rerere_autoupdate
 DECL|member|author_date
 DECL|member|author_email
 DECL|member|author_name
