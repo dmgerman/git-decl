@@ -38,6 +38,7 @@ DECL|function|read_state_file
 DECL|function|refresh_and_write_cache
 DECL|function|run_apply
 DECL|function|safe_to_abort
+DECL|function|say
 DECL|function|split_mail
 DECL|function|split_mail_mbox
 DECL|function|strbuf_getline_crlf
@@ -53,4 +54,5 @@ DECL|member|last
 DECL|member|msg
 DECL|member|msg_len
 DECL|member|prec
+DECL|member|quiet
 DECL|struct|am_state
