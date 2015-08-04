@@ -27,12 +27,15 @@ DECL|function|die_user_resolve
 DECL|function|do_commit
 DECL|function|fall_back_threeway
 DECL|function|fast_forward_to
+DECL|function|get_commit_info
+DECL|function|get_mail_commit_sha1
 DECL|function|index_has_changes
 DECL|function|is_empty_file
 DECL|function|is_mail
 DECL|function|linelen
 DECL|function|msgnum
 DECL|function|parse_mail
+DECL|function|parse_mail_rebase
 DECL|function|parse_opt_patchformat
 DECL|function|read_author_script
 DECL|function|read_commit_msg
@@ -48,6 +51,7 @@ DECL|function|strbuf_getline_crlf
 DECL|function|validate_resume_state
 DECL|function|write_author_script
 DECL|function|write_commit_msg
+DECL|function|write_commit_patch
 DECL|member|author_date
 DECL|member|author_email
 DECL|member|author_name
