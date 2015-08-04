@@ -13,6 +13,7 @@ DECL|function|am_state_release
 DECL|function|cmd_am
 DECL|function|detect_patch_format
 DECL|function|do_commit
+DECL|function|index_has_changes
 DECL|function|is_empty_file
 DECL|function|is_mail
 DECL|function|linelen
