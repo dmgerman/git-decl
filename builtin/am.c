@@ -57,4 +57,5 @@ DECL|member|msg_len
 DECL|member|prec
 DECL|member|quiet
 DECL|member|resolvemsg
+DECL|member|signoff
 DECL|struct|am_state
