@@ -51,6 +51,7 @@ DECL|function|read_shell_var
 DECL|function|read_state_file
 DECL|function|refresh_and_write_cache
 DECL|function|run_apply
+DECL|function|run_post_rewrite_hook
 DECL|function|safe_to_abort
 DECL|function|say
 DECL|function|split_mail
@@ -73,6 +74,7 @@ DECL|member|last
 DECL|member|message_id
 DECL|member|msg
 DECL|member|msg_len
+DECL|member|orig_commit
 DECL|member|prec
 DECL|member|quiet
 DECL|member|rebasing
