@@ -19,11 +19,13 @@ DECL|function|am_setup
 DECL|function|am_skip
 DECL|function|am_state_init
 DECL|function|am_state_release
+DECL|function|build_fake_ancestor
 DECL|function|clean_index
 DECL|function|cmd_am
 DECL|function|detect_patch_format
 DECL|function|die_user_resolve
 DECL|function|do_commit
+DECL|function|fall_back_threeway
 DECL|function|fast_forward_to
 DECL|function|index_has_changes
 DECL|function|is_empty_file
@@ -58,4 +60,5 @@ DECL|member|prec
 DECL|member|quiet
 DECL|member|resolvemsg
 DECL|member|signoff
+DECL|member|threeway
 DECL|struct|am_state
