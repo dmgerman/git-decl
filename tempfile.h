@@ -1,4 +1,11 @@
 DECL|function|is_tempfile_active
+DECL|function|mks_tempfile
+DECL|function|mks_tempfile_m
+DECL|function|mks_tempfile_s
+DECL|function|mks_tempfile_t
+DECL|function|mks_tempfile_tm
+DECL|function|mks_tempfile_ts
+DECL|function|xmks_tempfile
 DECL|macro|TEMPFILE_H
 DECL|member|active
 DECL|member|fd
