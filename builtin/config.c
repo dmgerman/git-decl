@@ -59,6 +59,7 @@ DECL|variable|given_config_source
 DECL|variable|key
 DECL|variable|key_delim
 DECL|variable|key_regexp
+DECL|variable|omit_values
 DECL|variable|parsed_color
 DECL|variable|regexp
 DECL|variable|respect_includes
