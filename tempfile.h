@@ -1,0 +1,10 @@
+DECL|function|is_tempfile_active
+DECL|macro|TEMPFILE_H
+DECL|member|active
+DECL|member|fd
+DECL|member|filename
+DECL|member|fp
+DECL|member|next
+DECL|member|on_list
+DECL|member|owner
+DECL|struct|tempfile

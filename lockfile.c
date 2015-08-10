@@ -1,21 +1,10 @@
-DECL|function|close_lock_file
 DECL|function|commit_lock_file
-DECL|function|commit_lock_file_to
-DECL|function|fdopen_lock_file
-DECL|function|get_lock_file_fd
-DECL|function|get_lock_file_fp
-DECL|function|get_lock_file_path
 DECL|function|get_locked_file_path
 DECL|function|hold_lock_file_for_append
 DECL|function|hold_lock_file_for_update_timeout
 DECL|function|lock_file
 DECL|function|lock_file_timeout
-DECL|function|remove_lock_files
-DECL|function|remove_lock_files_on_exit
-DECL|function|remove_lock_files_on_signal
-DECL|function|reopen_lock_file
 DECL|function|resolve_symlink
-DECL|function|rollback_lock_file
 DECL|function|sleep_microseconds
 DECL|function|trim_last_path_component
 DECL|function|unable_to_lock_die
@@ -23,4 +12,3 @@ DECL|function|unable_to_lock_message
 DECL|macro|BACKOFF_MAX_MULTIPLIER
 DECL|macro|INITIAL_BACKOFF_MS
 DECL|macro|MAXDEPTH
-DECL|variable|lock_file_list
