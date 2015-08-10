@@ -8,6 +8,7 @@ DECL|function|get_tempfile_path
 DECL|function|mks_tempfile_sm
 DECL|function|mks_tempfile_tsm
 DECL|function|prepare_tempfile_object
+DECL|function|register_tempfile
 DECL|function|remove_tempfiles
 DECL|function|remove_tempfiles_on_exit
 DECL|function|remove_tempfiles_on_signal
