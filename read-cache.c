@@ -61,8 +61,6 @@ DECL|function|refresh_index
 DECL|function|remove_file_from_index
 DECL|function|remove_index_entry_at
 DECL|function|remove_marked_cache_entries
-DECL|function|remove_temporary_sharedindex
-DECL|function|remove_temporary_sharedindex_on_signal
 DECL|function|rename_index_entry_at
 DECL|function|replace_index_entry
 DECL|function|set_alternate_index_output
