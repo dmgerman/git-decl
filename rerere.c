@@ -45,7 +45,6 @@ DECL|struct|rerere_io_file
 DECL|struct|rerere_io_mem
 DECL|variable|RERERE_RESOLVED
 DECL|variable|index_lock
-DECL|variable|merge_rr_path
 DECL|variable|rerere_autoupdate
 DECL|variable|rerere_enabled
 DECL|variable|write_lock
