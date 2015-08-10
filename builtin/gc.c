@@ -5,8 +5,6 @@ DECL|function|gc_config
 DECL|function|git_config_date_string
 DECL|function|lock_repo_for_gc
 DECL|function|need_to_gc
-DECL|function|remove_pidfile
-DECL|function|remove_pidfile_on_signal
 DECL|function|too_many_loose_objects
 DECL|function|too_many_packs
 DECL|macro|FAILED_RUN
