@@ -2,6 +2,8 @@ DECL|function|close_lock_file
 DECL|function|commit_lock_file
 DECL|function|commit_lock_file_to
 DECL|function|fdopen_lock_file
+DECL|function|get_lock_file_fd
+DECL|function|get_lock_file_fp
 DECL|function|get_locked_file_path
 DECL|function|hold_lock_file_for_append
 DECL|function|hold_lock_file_for_update_timeout
