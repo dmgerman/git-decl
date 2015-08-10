@@ -1,8 +1,6 @@
 DECL|function|cache_credential
 DECL|function|check_expirations
 DECL|function|check_socket_directory
-DECL|function|cleanup_socket
-DECL|function|cleanup_socket_on_signal
 DECL|function|lookup_credential
 DECL|function|main
 DECL|function|read_request
@@ -17,4 +15,4 @@ DECL|variable|entries
 DECL|variable|entries_alloc
 DECL|variable|entries_nr
 DECL|variable|permissions_advice
-DECL|variable|socket_path
+DECL|variable|socket_file
