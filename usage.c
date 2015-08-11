@@ -19,5 +19,6 @@ DECL|variable|die_is_recursing
 DECL|variable|die_routine
 DECL|variable|error_handle
 DECL|variable|error_routine
+DECL|variable|tweaked_error_buffering
 DECL|variable|usage_routine
 DECL|variable|warn_routine
