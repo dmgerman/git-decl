@@ -7,6 +7,11 @@ DECL|function|prune_worktrees
 DECL|function|remove_junk
 DECL|function|remove_junk_on_signal
 DECL|function|worktree_basename
+DECL|member|detach
+DECL|member|force
+DECL|member|force_new_branch
+DECL|member|new_branch
+DECL|struct|add_opts
 DECL|variable|expire
 DECL|variable|is_junk
 DECL|variable|junk_git_dir

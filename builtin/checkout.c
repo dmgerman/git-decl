@@ -1,6 +1,4 @@
 DECL|function|add_pending_uninteresting_ref
-DECL|function|check_linked_checkout
-DECL|function|check_linked_checkouts
 DECL|function|check_stage
 DECL|function|check_stages
 DECL|function|check_tracking_name
@@ -45,7 +43,6 @@ DECL|member|new_branch
 DECL|member|new_branch_force
 DECL|member|new_branch_log
 DECL|member|new_orphan_branch
-DECL|member|new_worktree_mode
 DECL|member|overwrite_ignore
 DECL|member|patch_mode
 DECL|member|path
