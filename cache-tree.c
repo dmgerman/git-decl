@@ -21,5 +21,6 @@ DECL|function|update_main_cache_tree
 DECL|function|update_one
 DECL|function|verify_cache
 DECL|function|write_cache_as_tree
+DECL|function|write_index_as_tree
 DECL|function|write_one
 DECL|macro|DEBUG

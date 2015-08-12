@@ -25,6 +25,7 @@ DECL|function|write_in_full
 DECL|function|xcalloc
 DECL|function|xdup
 DECL|function|xfdopen
+DECL|function|xfopen
 DECL|function|xgetcwd
 DECL|function|xgetpwuid_self
 DECL|function|xmalloc
@@ -33,6 +34,7 @@ DECL|function|xmallocz_gently
 DECL|function|xmemdupz
 DECL|function|xmkstemp
 DECL|function|xmkstemp_mode
+DECL|function|xopen
 DECL|function|xpread
 DECL|function|xread
 DECL|function|xrealloc
