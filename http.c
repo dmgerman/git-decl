@@ -62,7 +62,9 @@ DECL|macro|PREV_BUF_SIZE
 DECL|macro|RANGE_HEADER_SIZE
 DECL|member|data
 DECL|member|fill
+DECL|member|name
 DECL|member|next
+DECL|member|ssl_version
 DECL|struct|fill_chain
 DECL|variable|active_queue_head
 DECL|variable|active_requests
@@ -96,4 +98,6 @@ DECL|variable|ssl_cert
 DECL|variable|ssl_cert_password_required
 DECL|variable|ssl_cipherlist
 DECL|variable|ssl_key
+DECL|variable|ssl_version
+DECL|variable|sslversions
 DECL|variable|user_agent
