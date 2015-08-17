@@ -1,3 +1,9 @@
+DECL|enumerator|NOTES_MERGE_RESOLVE_CAT_SORT_UNIQ
+DECL|enumerator|NOTES_MERGE_RESOLVE_MANUAL
+DECL|enumerator|NOTES_MERGE_RESOLVE_OURS
+DECL|enumerator|NOTES_MERGE_RESOLVE_THEIRS
+DECL|enumerator|NOTES_MERGE_RESOLVE_UNION
+DECL|enum|notes_merge_strategy
 DECL|macro|NOTES_UTILS_H
 DECL|member|cmd
 DECL|member|combine
