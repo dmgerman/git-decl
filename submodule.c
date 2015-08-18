@@ -9,9 +9,6 @@ DECL|function|fetch_populated_submodules
 DECL|function|find_first_merges
 DECL|function|find_unpushed_submodule_commits
 DECL|function|find_unpushed_submodules
-DECL|function|get_fetch_recurse_for_name
-DECL|function|get_ignore_for_name
-DECL|function|get_name_for_path
 DECL|function|gitmodules_config
 DECL|function|handle_ignore_submodules_arg
 DECL|function|has_remote
@@ -21,7 +18,6 @@ DECL|function|is_submodule_modified
 DECL|function|merge_submodule
 DECL|function|ok_to_remove_submodule
 DECL|function|parse_fetch_recurse_submodules_arg
-DECL|function|parse_submodule_config_option
 DECL|function|prepare_submodule_summary
 DECL|function|print_commit
 DECL|function|print_submodule_summary
@@ -30,9 +26,6 @@ DECL|function|push_unpushed_submodules
 DECL|function|remove_path_from_gitmodules
 DECL|function|set_config_fetch_recurse_submodules
 DECL|function|set_diffopt_flags_from_submodule_config
-DECL|function|set_fetch_recurse_for_name
-DECL|function|set_ignore_for_name
-DECL|function|set_name_for_path
 DECL|function|show_submodule_summary
 DECL|function|stage_updated_gitmodules
 DECL|function|submodule_collect_changed_cb
@@ -43,9 +36,6 @@ DECL|function|update_path_in_gitmodules
 DECL|macro|MERGE_WARNING
 DECL|variable|changed_submodule_paths
 DECL|variable|config_fetch_recurse_submodules
-DECL|variable|config_fetch_recurse_submodules_for_name
-DECL|variable|config_ignore_for_name
-DECL|variable|config_name_for_path
 DECL|variable|gitmodules_is_modified
 DECL|variable|gitmodules_is_unmerged
 DECL|variable|initialized_fetch_ref_tips
