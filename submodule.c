@@ -9,6 +9,9 @@ DECL|function|fetch_populated_submodules
 DECL|function|find_first_merges
 DECL|function|find_unpushed_submodule_commits
 DECL|function|find_unpushed_submodules
+DECL|function|get_fetch_recurse_for_name
+DECL|function|get_ignore_for_name
+DECL|function|get_name_for_path
 DECL|function|gitmodules_config
 DECL|function|handle_ignore_submodules_arg
 DECL|function|has_remote
@@ -27,6 +30,9 @@ DECL|function|push_unpushed_submodules
 DECL|function|remove_path_from_gitmodules
 DECL|function|set_config_fetch_recurse_submodules
 DECL|function|set_diffopt_flags_from_submodule_config
+DECL|function|set_fetch_recurse_for_name
+DECL|function|set_ignore_for_name
+DECL|function|set_name_for_path
 DECL|function|show_submodule_summary
 DECL|function|stage_updated_gitmodules
 DECL|function|submodule_collect_changed_cb
