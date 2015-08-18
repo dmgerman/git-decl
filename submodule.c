@@ -17,7 +17,6 @@ DECL|function|is_submodule_commit_present
 DECL|function|is_submodule_modified
 DECL|function|merge_submodule
 DECL|function|ok_to_remove_submodule
-DECL|function|parse_fetch_recurse_submodules_arg
 DECL|function|prepare_submodule_summary
 DECL|function|print_commit
 DECL|function|print_submodule_summary
