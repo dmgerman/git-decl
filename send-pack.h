@@ -1,4 +1,7 @@
 DECL|macro|SEND_PACK_H
+DECL|macro|SEND_PACK_PUSH_CERT_ALWAYS
+DECL|macro|SEND_PACK_PUSH_CERT_IF_ASKED
+DECL|macro|SEND_PACK_PUSH_CERT_NEVER
 DECL|member|atomic
 DECL|member|dry_run
 DECL|member|force_update

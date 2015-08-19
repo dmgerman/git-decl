@@ -22,6 +22,7 @@ DECL|function|recvline_fh
 DECL|function|release_helper
 DECL|function|remove_ext_force
 DECL|function|sendline
+DECL|function|set_common_push_options
 DECL|function|set_helper_option
 DECL|function|standard_options
 DECL|function|tloop_join
