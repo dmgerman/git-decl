@@ -24,6 +24,7 @@ DECL|function|directory_size
 DECL|function|eq_delta_base_cache_entry
 DECL|function|fill_pack_entry
 DECL|function|fill_sha1_path
+DECL|function|finalize_object_file
 DECL|function|find_cached_object
 DECL|function|find_lru_pack
 DECL|function|find_pack_entry
@@ -73,7 +74,6 @@ DECL|function|map_sha1_file
 DECL|function|mark_bad_packed_object
 DECL|function|mkdir_in_gitdir
 DECL|function|mmap_limit_check
-DECL|function|move_temp_to_file
 DECL|function|nth_packed_object_offset
 DECL|function|nth_packed_object_sha1
 DECL|function|open_pack_index
