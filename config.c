@@ -48,7 +48,6 @@ DECL|function|git_config_include
 DECL|function|git_config_int
 DECL|function|git_config_int64
 DECL|function|git_config_maybe_bool
-DECL|function|git_config_maybe_bool_text
 DECL|function|git_config_parse_key
 DECL|function|git_config_parse_parameter
 DECL|function|git_config_pathname
@@ -90,6 +89,7 @@ DECL|function|git_env_ulong
 DECL|function|git_etc_gitconfig
 DECL|function|git_parse_int
 DECL|function|git_parse_int64
+DECL|function|git_parse_maybe_bool
 DECL|function|git_parse_signed
 DECL|function|git_parse_source
 DECL|function|git_parse_ulong
