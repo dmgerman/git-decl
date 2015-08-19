@@ -48,6 +48,7 @@ DECL|function|index_has_changes
 DECL|function|is_empty_file
 DECL|function|is_mail
 DECL|function|linelen
+DECL|function|merge_tree
 DECL|function|msgnum
 DECL|function|parse_mail
 DECL|function|parse_mail_rebase
