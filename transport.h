@@ -44,7 +44,6 @@ DECL|member|keep
 DECL|member|pack_lockfile
 DECL|member|progress
 DECL|member|push
-DECL|member|push_cert
 DECL|member|push_refs
 DECL|member|receivepack
 DECL|member|remote
