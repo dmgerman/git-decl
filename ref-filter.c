@@ -58,6 +58,9 @@ DECL|member|contains_stack
 DECL|member|name
 DECL|member|nr
 DECL|member|parents
+DECL|member|s
+DECL|member|ul
+DECL|struct|atom_value
 DECL|struct|contains_stack
 DECL|struct|contains_stack_entry
 DECL|typedef|cmp_type
