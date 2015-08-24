@@ -19,7 +19,6 @@ DECL|function|list_tags
 DECL|function|match_pattern
 DECL|function|match_points_at
 DECL|function|parse_msg_arg
-DECL|function|parse_opt_points_at
 DECL|function|parse_opt_sort
 DECL|function|parse_sort_string
 DECL|function|push_to_stack
