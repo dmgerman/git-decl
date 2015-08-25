@@ -7,9 +7,7 @@ DECL|function|cleanup_children_on_signal
 DECL|function|clear_child_for_cleanup
 DECL|function|close_pair
 DECL|function|die_async
-DECL|function|die_child
 DECL|function|dup_devnull
-DECL|function|error_child
 DECL|function|execv_shell_cmd
 DECL|function|exists_in_PATH
 DECL|function|find_hook
@@ -43,7 +41,6 @@ DECL|member|pid
 DECL|struct|child_to_clean
 DECL|variable|async_die_counter
 DECL|variable|async_key
-DECL|variable|child_err
 DECL|variable|child_notifier
 DECL|variable|children_to_clean
 DECL|variable|git_atexit_hdlrs
