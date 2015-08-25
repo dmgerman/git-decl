@@ -126,7 +126,6 @@ DECL|function|print_stat_summary
 DECL|function|quote_two
 DECL|function|remove_space
 DECL|function|remove_tempfile
-DECL|function|remove_tempfile_on_signal
 DECL|function|reuse_worktree_file
 DECL|function|run_checkdiff
 DECL|function|run_diff
@@ -212,8 +211,8 @@ DECL|member|print_name
 DECL|member|status
 DECL|member|style
 DECL|member|suffix
+DECL|member|tempfile
 DECL|member|text
-DECL|member|tmp_path
 DECL|member|truncate
 DECL|member|type
 DECL|member|type
@@ -257,6 +256,5 @@ DECL|variable|diff_words_styles
 DECL|variable|external_diff_cmd_cfg
 DECL|variable|filter_bit
 DECL|variable|mime_boundary_leader
-DECL|variable|remove_tempfile_installed
 DECL|variable|rename_limit_advice
 DECL|variable|rename_limit_warning
