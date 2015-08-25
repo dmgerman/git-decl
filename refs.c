@@ -26,6 +26,7 @@ DECL|function|create_dir_entry
 DECL|function|create_ref_cache
 DECL|function|create_ref_entry
 DECL|function|create_symref
+DECL|function|delete_pseudoref
 DECL|function|delete_ref
 DECL|function|delete_ref_loose
 DECL|function|delete_reflog
@@ -76,6 +77,8 @@ DECL|function|head_ref_submodule
 DECL|function|initial_ref_transaction_commit
 DECL|function|is_branch
 DECL|function|is_dup_ref
+DECL|function|is_per_worktree_ref
+DECL|function|is_pseudoref_syntax
 DECL|function|lock_packed_refs
 DECL|function|lock_ref_sha1_basic
 DECL|function|log_ref_setup
@@ -114,6 +117,7 @@ DECL|function|ref_transaction_delete
 DECL|function|ref_transaction_free
 DECL|function|ref_transaction_update
 DECL|function|ref_transaction_verify
+DECL|function|ref_type
 DECL|function|ref_update_reject_duplicates
 DECL|function|reflog_exists
 DECL|function|reflog_expire
@@ -152,6 +156,7 @@ DECL|function|warn_dangling_symrefs
 DECL|function|warn_if_dangling_symref
 DECL|function|write_packed_entry
 DECL|function|write_packed_entry_fn
+DECL|function|write_pseudoref
 DECL|function|write_ref_to_lockfile
 DECL|macro|DO_FOR_EACH_INCLUDE_BROKEN
 DECL|macro|MAXDEPTH
