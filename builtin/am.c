@@ -14,11 +14,16 @@ DECL|enumerator|RESUME_SKIP
 DECL|enumerator|SCISSORS_FALSE
 DECL|enumerator|SCISSORS_TRUE
 DECL|enumerator|SCISSORS_UNSET
+DECL|enumerator|SIGNOFF_EXPLICIT
+DECL|enumerator|SIGNOFF_FALSE
+DECL|enumerator|SIGNOFF_TRUE
 DECL|enum|keep_type
 DECL|enum|patch_format
 DECL|enum|resume_mode
 DECL|enum|scissors_type
+DECL|enum|signoff_type
 DECL|function|am_abort
+DECL|function|am_append_signoff
 DECL|function|am_destroy
 DECL|function|am_in_progress
 DECL|function|am_load
