@@ -45,6 +45,8 @@ DECL|function|git_fnmatch
 DECL|function|ident_in_untracked
 DECL|function|invalidate_directory
 DECL|function|invalidate_gitignore
+DECL|function|invalidate_one_component
+DECL|function|invalidate_one_directory
 DECL|function|is_empty_dir
 DECL|function|is_excluded
 DECL|function|is_excluded_from_list
