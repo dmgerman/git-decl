@@ -5,3 +5,4 @@ DECL|function|finish_copy_notes_for_rewrite
 DECL|function|init_copy_notes_for_rewrite
 DECL|function|notes_rewrite_config
 DECL|function|parse_combine_notes_fn
+DECL|function|parse_notes_merge_strategy

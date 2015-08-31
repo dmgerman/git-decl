@@ -5,6 +5,7 @@ DECL|function|copy
 DECL|function|copy_obj_to_fd
 DECL|function|free_note_data
 DECL|function|get_ref
+DECL|function|git_config_get_notes_strategy
 DECL|function|init_notes_check
 DECL|function|list
 DECL|function|list_each_note
