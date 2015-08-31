@@ -13,6 +13,7 @@ DECL|function|map_refspec
 DECL|function|option_parse_recurse_submodules
 DECL|function|push_url_of_remote
 DECL|function|push_with_options
+DECL|function|set_push_cert_flags
 DECL|function|set_refspecs
 DECL|function|setup_default_push_refspecs
 DECL|function|setup_push_current

@@ -6,7 +6,8 @@ DECL|macro|REJECT_NON_FF_OTHER
 DECL|macro|TRANSPORT_H
 DECL|macro|TRANSPORT_PUSH_ALL
 DECL|macro|TRANSPORT_PUSH_ATOMIC
-DECL|macro|TRANSPORT_PUSH_CERT
+DECL|macro|TRANSPORT_PUSH_CERT_ALWAYS
+DECL|macro|TRANSPORT_PUSH_CERT_IF_ASKED
 DECL|macro|TRANSPORT_PUSH_DRY_RUN
 DECL|macro|TRANSPORT_PUSH_FOLLOW_TAGS
 DECL|macro|TRANSPORT_PUSH_FORCE
@@ -44,7 +45,6 @@ DECL|member|keep
 DECL|member|pack_lockfile
 DECL|member|progress
 DECL|member|push
-DECL|member|push_cert
 DECL|member|push_refs
 DECL|member|receivepack
 DECL|member|remote

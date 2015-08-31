@@ -5,6 +5,7 @@ DECL|function|check_to_send_update
 DECL|function|feed_object
 DECL|function|generate_push_cert
 DECL|function|next_line
+DECL|function|option_parse_push_signed
 DECL|function|pack_objects
 DECL|function|receive_status
 DECL|function|reject_invalid_nonce
