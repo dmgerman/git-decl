@@ -80,6 +80,9 @@ DECL|function|write_author_script
 DECL|function|write_commit_msg
 DECL|function|write_commit_patch
 DECL|function|write_index_patch
+DECL|function|write_state_bool
+DECL|function|write_state_count
+DECL|function|write_state_text
 DECL|member|allow_rerere_autoupdate
 DECL|member|author_date
 DECL|member|author_email
