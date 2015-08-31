@@ -47,9 +47,11 @@ DECL|function|git_config_get_value_multi
 DECL|function|git_config_include
 DECL|function|git_config_int
 DECL|function|git_config_int64
+DECL|function|git_config_key_is_valid
 DECL|function|git_config_maybe_bool
 DECL|function|git_config_maybe_bool_text
 DECL|function|git_config_parse_key
+DECL|function|git_config_parse_key_1
 DECL|function|git_config_parse_parameter
 DECL|function|git_config_pathname
 DECL|function|git_config_push_parameter
