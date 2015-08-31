@@ -19,7 +19,6 @@ DECL|function|cmd_log_walk
 DECL|function|cmd_show
 DECL|function|cmd_whatchanged
 DECL|function|decorate_callback
-DECL|function|default_follow_tweak
 DECL|function|early_output
 DECL|function|estimate_commit_count
 DECL|function|find_branch_name
@@ -33,6 +32,7 @@ DECL|function|header_callback
 DECL|function|inline_callback
 DECL|function|keep_callback
 DECL|function|log_line_range_callback
+DECL|function|log_setup_revisions_tweak
 DECL|function|log_show_early
 DECL|function|make_cover_letter
 DECL|function|no_numbered_callback
@@ -46,7 +46,7 @@ DECL|function|set_outdir
 DECL|function|setup_early_output
 DECL|function|show_blob_object
 DECL|function|show_early_header
-DECL|function|show_rev_tweak_rev
+DECL|function|show_setup_revisions_tweak
 DECL|function|show_tag_object
 DECL|function|show_tagger
 DECL|function|show_tree_object
