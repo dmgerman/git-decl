@@ -1,6 +1,5 @@
 DECL|function|commit_lock_file
 DECL|function|get_locked_file_path
-DECL|function|hold_lock_file_for_append
 DECL|function|hold_lock_file_for_update_timeout
 DECL|function|lock_file
 DECL|function|lock_file_timeout
