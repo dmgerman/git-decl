@@ -36,5 +36,10 @@ DECL|function|strip_path_suffix
 DECL|function|update_common_dir
 DECL|function|validate_headref
 DECL|function|xdg_config_home
+DECL|member|dirname
+DECL|member|exclude
+DECL|member|ignore_garbage
+DECL|member|is_dir
+DECL|struct|common_dir
 DECL|variable|bad_path
 DECL|variable|common_list
