@@ -1,6 +1,7 @@
 DECL|function|cmd_submodule__helper
 DECL|function|module_list
 DECL|function|module_list_compute
+DECL|function|module_name
 DECL|macro|MODULE_LIST_INIT
 DECL|member|alloc
 DECL|member|cmd
