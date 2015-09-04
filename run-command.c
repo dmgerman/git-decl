@@ -15,6 +15,7 @@ DECL|function|exists_in_PATH
 DECL|function|find_hook
 DECL|function|finish_async
 DECL|function|finish_command
+DECL|function|finish_command_in_signal
 DECL|function|git_atexit
 DECL|function|git_atexit_clear
 DECL|function|git_atexit_dispatch
