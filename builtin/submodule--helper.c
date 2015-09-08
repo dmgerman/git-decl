@@ -1,4 +1,6 @@
+DECL|function|clone_submodule
 DECL|function|cmd_submodule__helper
+DECL|function|module_clone
 DECL|function|module_list
 DECL|function|module_list_compute
 DECL|function|module_name
