@@ -33,6 +33,7 @@ DECL|function|am_rerere_clear
 DECL|function|am_resolve
 DECL|function|am_run
 DECL|function|am_setup
+DECL|function|am_signoff
 DECL|function|am_skip
 DECL|function|am_state_init
 DECL|function|am_state_release
