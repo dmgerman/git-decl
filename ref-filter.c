@@ -47,6 +47,7 @@ DECL|function|pop_stack_element
 DECL|function|populate_value
 DECL|function|push_stack_element
 DECL|function|push_to_contains_stack
+DECL|function|quote_formatting
 DECL|function|ref_array_clear
 DECL|function|ref_array_sort
 DECL|function|ref_default_sorting
@@ -58,6 +59,7 @@ DECL|member|alloc
 DECL|member|cmp_type
 DECL|member|commit
 DECL|member|contains_stack
+DECL|member|handler
 DECL|member|name
 DECL|member|nr
 DECL|member|output
