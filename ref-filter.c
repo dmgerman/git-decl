@@ -22,6 +22,7 @@ DECL|function|do_merge_filter
 DECL|function|end_align_handler
 DECL|function|end_atom_handler
 DECL|function|fill_missing_values
+DECL|function|filter_ref_kind
 DECL|function|filter_refs
 DECL|function|find_next
 DECL|function|find_subpos

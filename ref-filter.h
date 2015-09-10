@@ -2,7 +2,13 @@ DECL|enumerator|REF_FILTER_MERGED_INCLUDE
 DECL|enumerator|REF_FILTER_MERGED_NONE
 DECL|enumerator|REF_FILTER_MERGED_OMIT
 DECL|macro|FILTER_REFS_ALL
+DECL|macro|FILTER_REFS_BRANCHES
+DECL|macro|FILTER_REFS_DETACHED_HEAD
 DECL|macro|FILTER_REFS_INCLUDE_BROKEN
+DECL|macro|FILTER_REFS_KIND_MASK
+DECL|macro|FILTER_REFS_OTHERS
+DECL|macro|FILTER_REFS_REMOTES
+DECL|macro|FILTER_REFS_TAGS
 DECL|macro|OPT_MERGED
 DECL|macro|OPT_NO_MERGED
 DECL|macro|QUOTE_NONE
@@ -19,6 +25,8 @@ DECL|member|commit
 DECL|member|filter
 DECL|member|flag
 DECL|member|items
+DECL|member|kind
+DECL|member|kind
 DECL|member|merge
 DECL|member|merge_commit
 DECL|member|name_patterns
