@@ -14,6 +14,7 @@ DECL|function|skip_utf8_bom
 DECL|function|strbuf_add_indented_text
 DECL|function|strbuf_add_wrapped_bytes
 DECL|function|strbuf_add_wrapped_text
+DECL|function|strbuf_utf8_align
 DECL|function|strbuf_utf8_replace
 DECL|function|utf8_fprintf
 DECL|function|utf8_strnwidth
