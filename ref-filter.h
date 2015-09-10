@@ -39,6 +39,7 @@ DECL|member|refname
 DECL|member|reverse
 DECL|member|symref
 DECL|member|value
+DECL|member|version
 DECL|member|with_commit
 DECL|member|with_commit_tag_algo
 DECL|struct|ref_array
