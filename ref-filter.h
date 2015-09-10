@@ -28,6 +28,7 @@ DECL|member|items
 DECL|member|kind
 DECL|member|kind
 DECL|member|lines
+DECL|member|match_as_path
 DECL|member|merge
 DECL|member|merge_commit
 DECL|member|name_patterns

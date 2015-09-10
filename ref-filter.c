@@ -23,6 +23,7 @@ DECL|function|do_merge_filter
 DECL|function|end_align_handler
 DECL|function|end_atom_handler
 DECL|function|fill_missing_values
+DECL|function|filter_pattern_match
 DECL|function|filter_ref_kind
 DECL|function|filter_refs
 DECL|function|find_next
@@ -44,6 +45,7 @@ DECL|function|hex2
 DECL|function|in_commit_list
 DECL|function|match_atom_name
 DECL|function|match_name_as_path
+DECL|function|match_pattern
 DECL|function|match_points_at
 DECL|function|new_ref_array_item
 DECL|function|parse_opt_merge_filter
