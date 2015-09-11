@@ -7,6 +7,7 @@ DECL|enumerator|FIELD_ULONG
 DECL|enum|contains_result
 DECL|function|align_atom_handler
 DECL|function|append_atom
+DECL|function|append_lines
 DECL|function|append_literal
 DECL|function|cmp_ref_sorting
 DECL|function|commit_contains
@@ -67,9 +68,12 @@ DECL|member|at_end_data
 DECL|member|cmp_type
 DECL|member|commit
 DECL|member|contains_stack
+DECL|member|contents
 DECL|member|handler
+DECL|member|lines
 DECL|member|name
 DECL|member|nr
+DECL|member|oid
 DECL|member|output
 DECL|member|parents
 DECL|member|position
@@ -84,6 +88,7 @@ DECL|struct|align
 DECL|struct|atom_value
 DECL|struct|contains_stack
 DECL|struct|contains_stack_entry
+DECL|struct|contents
 DECL|struct|ref_formatting_stack
 DECL|struct|ref_formatting_state
 DECL|typedef|cmp_type
