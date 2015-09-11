@@ -5,6 +5,7 @@ DECL|enumerator|FIELD_STR
 DECL|enumerator|FIELD_TIME
 DECL|enumerator|FIELD_ULONG
 DECL|enum|contains_result
+DECL|function|align_atom_handler
 DECL|function|append_atom
 DECL|function|append_literal
 DECL|function|cmp_ref_sorting
@@ -18,6 +19,8 @@ DECL|function|copy_line
 DECL|function|copy_name
 DECL|function|copy_subject
 DECL|function|do_merge_filter
+DECL|function|end_align_handler
+DECL|function|end_atom_handler
 DECL|function|fill_missing_values
 DECL|function|filter_refs
 DECL|function|find_next
@@ -56,7 +59,10 @@ DECL|function|ref_filter_handler
 DECL|function|show_ref_array_item
 DECL|function|verify_ref_format
 DECL|macro|REF_FORMATTING_STATE_INIT
+DECL|member|align
 DECL|member|alloc
+DECL|member|at_end
+DECL|member|at_end_data
 DECL|member|cmp_type
 DECL|member|commit
 DECL|member|contains_stack
@@ -65,11 +71,15 @@ DECL|member|name
 DECL|member|nr
 DECL|member|output
 DECL|member|parents
+DECL|member|position
 DECL|member|prev
 DECL|member|quote_style
 DECL|member|s
 DECL|member|stack
+DECL|member|u
 DECL|member|ul
+DECL|member|width
+DECL|struct|align
 DECL|struct|atom_value
 DECL|struct|contains_stack
 DECL|struct|contains_stack_entry
