@@ -37,6 +37,7 @@ DECL|function|grab_values
 DECL|function|hex1
 DECL|function|hex2
 DECL|function|in_commit_list
+DECL|function|match_atom_name
 DECL|function|match_name_as_path
 DECL|function|match_points_at
 DECL|function|new_ref_array_item
