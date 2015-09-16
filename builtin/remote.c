@@ -30,6 +30,7 @@ DECL|function|get_push_ref_states_noquery
 DECL|function|get_ref_states
 DECL|function|get_remote_default
 DECL|function|get_remote_ref_states
+DECL|function|get_url
 DECL|function|migrate_file
 DECL|function|mv
 DECL|function|parse_mirror_opt
@@ -97,6 +98,7 @@ DECL|struct|rename_info
 DECL|struct|show_info
 DECL|variable|branch_list
 DECL|variable|builtin_remote_add_usage
+DECL|variable|builtin_remote_geturl_usage
 DECL|variable|builtin_remote_prune_usage
 DECL|variable|builtin_remote_rename_usage
 DECL|variable|builtin_remote_rm_usage
