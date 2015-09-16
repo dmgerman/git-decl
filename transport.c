@@ -28,6 +28,7 @@ DECL|function|set_upstreams
 DECL|function|status_abbrev
 DECL|function|str_cmp
 DECL|function|transport_anonymize_url
+DECL|function|transport_check_allowed
 DECL|function|transport_connect
 DECL|function|transport_disconnect
 DECL|function|transport_fetch_refs
