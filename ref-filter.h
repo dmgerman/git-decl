@@ -18,12 +18,15 @@ DECL|macro|QUOTE_SHELL
 DECL|macro|QUOTE_TCL
 DECL|macro|REF_FILTER_H
 DECL|macro|_OPT_MERGED_NO_MERGED
+DECL|member|abbrev
 DECL|member|alloc
 DECL|member|array
 DECL|member|atom
 DECL|member|commit
+DECL|member|detached
 DECL|member|filter
 DECL|member|flag
+DECL|member|ignore
 DECL|member|items
 DECL|member|kind
 DECL|member|kind
@@ -38,8 +41,10 @@ DECL|member|objectname
 DECL|member|points_at
 DECL|member|refname
 DECL|member|reverse
+DECL|member|revs
 DECL|member|symref
 DECL|member|value
+DECL|member|verbose
 DECL|member|version
 DECL|member|with_commit
 DECL|member|with_commit_tag_algo
