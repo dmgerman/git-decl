@@ -26,7 +26,6 @@ DECL|member|commit
 DECL|member|detached
 DECL|member|filter
 DECL|member|flag
-DECL|member|ignore
 DECL|member|items
 DECL|member|kind
 DECL|member|kind
