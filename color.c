@@ -21,6 +21,9 @@ DECL|function|match_word
 DECL|function|parse_attr
 DECL|function|parse_color
 DECL|function|want_color
+DECL|macro|OUT
+DECL|macro|OUT
+DECL|macro|OUT
 DECL|member|blue
 DECL|member|green
 DECL|member|red
