@@ -13,6 +13,7 @@ DECL|function|get_pathname
 DECL|function|get_st_mode_bits
 DECL|function|getpw_str
 DECL|function|git_path
+DECL|function|git_path_buf
 DECL|function|git_pathdup
 DECL|function|git_pathdup_submodule
 DECL|function|have_same_root
