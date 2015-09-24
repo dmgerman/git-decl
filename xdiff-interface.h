@@ -1,2 +1,3 @@
+DECL|macro|MAX_XDIFF_SIZE
 DECL|macro|XDIFF_INTERFACE_H
 DECL|typedef|xdiff_emit_consume_fn
