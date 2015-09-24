@@ -12,6 +12,7 @@ DECL|function|color_output
 DECL|function|color_parse
 DECL|function|color_parse_mem
 DECL|function|color_print_strbuf
+DECL|function|color_set
 DECL|function|color_vfprintf
 DECL|function|get_hex_color
 DECL|function|git_color_config
