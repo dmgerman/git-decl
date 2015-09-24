@@ -1,4 +1,3 @@
-DECL|function|add_sha1_list
 DECL|function|check_connectivity
 DECL|function|check_object
 DECL|function|check_reachable_object
@@ -17,9 +16,7 @@ DECL|function|fsck_obj
 DECL|function|fsck_obj_buffer
 DECL|function|fsck_object_dir
 DECL|function|fsck_sha1
-DECL|function|fsck_sha1_list
 DECL|function|get_default_heads
-DECL|function|ino_compare
 DECL|function|is_loose_object_file
 DECL|function|mark_object
 DECL|function|mark_object_reachable
@@ -28,22 +25,12 @@ DECL|function|objerror
 DECL|function|objreport
 DECL|function|traverse_one_object
 DECL|function|traverse_reachable
-DECL|macro|DIRENT_SORT_HINT
-DECL|macro|DIRENT_SORT_HINT
 DECL|macro|ERROR_OBJECT
 DECL|macro|ERROR_PACK
 DECL|macro|ERROR_REACHABLE
 DECL|macro|HAS_OBJ
-DECL|macro|MAX_SHA1_ENTRIES
 DECL|macro|REACHABLE
 DECL|macro|SEEN
-DECL|macro|SORT_DIRENT
-DECL|macro|SORT_DIRENT
-DECL|member|entry
-DECL|member|ino
-DECL|member|nr
-DECL|member|sha1
-DECL|struct|sha1_entry
 DECL|variable|check_full
 DECL|variable|check_strict
 DECL|variable|connectivity_only
@@ -58,7 +45,6 @@ DECL|variable|head_points_at
 DECL|variable|include_reflogs
 DECL|variable|keep_cache_objects
 DECL|variable|pending
-DECL|variable|sha1_list
 DECL|variable|show_dangling
 DECL|variable|show_progress
 DECL|variable|show_root
