@@ -40,6 +40,7 @@ DECL|function|xopen
 DECL|function|xpread
 DECL|function|xread
 DECL|function|xrealloc
+DECL|function|xsnprintf
 DECL|function|xstrdup
 DECL|function|xstrndup
 DECL|function|xwrite
