@@ -14,9 +14,11 @@ DECL|function|get_refs_via_rsync
 DECL|function|git_transport_push
 DECL|function|insert_packed_refs
 DECL|function|is_file
+DECL|function|is_transport_allowed
 DECL|function|print_ok_ref_status
 DECL|function|print_one_push_status
 DECL|function|print_ref_status
+DECL|function|protocol_whitelist
 DECL|function|push_had_errors
 DECL|function|read_loose_refs
 DECL|function|refs_from_alternate_cb
@@ -37,6 +39,7 @@ DECL|function|transport_get_remote_refs
 DECL|function|transport_print_push_status
 DECL|function|transport_push
 DECL|function|transport_refs_pushed
+DECL|function|transport_restrict_protocols
 DECL|function|transport_set_option
 DECL|function|transport_set_verbosity
 DECL|function|transport_take_over
