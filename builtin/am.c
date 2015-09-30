@@ -43,6 +43,7 @@ DECL|function|fall_back_threeway
 DECL|function|fast_forward_to
 DECL|function|get_commit_info
 DECL|function|get_mail_commit_sha1
+DECL|function|git_am_config
 DECL|function|hg_patch_to_mail
 DECL|function|index_has_changes
 DECL|function|is_empty_file
