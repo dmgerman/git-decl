@@ -1,8 +1,6 @@
 DECL|function|check_tracking_branch
 DECL|function|create_branch
 DECL|function|die_if_checked_out
-DECL|function|find_linked_symref
-DECL|function|find_shared_symref
 DECL|function|find_tracked_branch
 DECL|function|install_branch_config
 DECL|function|read_branch_desc

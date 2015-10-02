@@ -1,0 +1,2 @@
+DECL|function|find_linked_symref
+DECL|function|find_shared_symref
