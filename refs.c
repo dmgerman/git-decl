@@ -47,6 +47,7 @@ DECL|function|find_containing_dir
 DECL|function|find_ref
 DECL|function|for_each_branch_ref
 DECL|function|for_each_branch_ref_submodule
+DECL|function|for_each_fullref_in
 DECL|function|for_each_glob_ref
 DECL|function|for_each_glob_ref_in
 DECL|function|for_each_namespaced_ref
