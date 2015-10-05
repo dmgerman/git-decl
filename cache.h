@@ -10,7 +10,6 @@ DECL|enumerator|BRANCH_TRACK_REMOTE
 DECL|enumerator|BRANCH_TRACK_UNSPECIFIED
 DECL|enumerator|DATE_ISO8601
 DECL|enumerator|DATE_ISO8601_STRICT
-DECL|enumerator|DATE_LOCAL
 DECL|enumerator|DATE_NORMAL
 DECL|enumerator|DATE_RAW
 DECL|enumerator|DATE_RELATIVE
@@ -355,6 +354,7 @@ DECL|member|last_used
 DECL|member|len
 DECL|member|linenr
 DECL|member|list
+DECL|member|local
 DECL|member|mail_begin
 DECL|member|mail_end
 DECL|member|mode
