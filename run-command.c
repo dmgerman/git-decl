@@ -16,6 +16,8 @@ DECL|function|finish_command
 DECL|function|git_atexit
 DECL|function|git_atexit_clear
 DECL|function|git_atexit_dispatch
+DECL|function|in_async
+DECL|function|in_async
 DECL|function|locate_in_PATH
 DECL|function|mark_child_for_cleanup
 DECL|function|notify_parent
@@ -48,3 +50,4 @@ DECL|variable|git_atexit_installed
 DECL|variable|installed_child_cleanup_handler
 DECL|variable|main_thread
 DECL|variable|main_thread_set
+DECL|variable|process_is_async

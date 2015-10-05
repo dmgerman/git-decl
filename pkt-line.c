@@ -1,5 +1,6 @@
 DECL|function|format_packet
 DECL|function|get_packet_data
+DECL|function|get_trace_prefix
 DECL|function|packet_buf_flush
 DECL|function|packet_buf_write
 DECL|function|packet_flush
