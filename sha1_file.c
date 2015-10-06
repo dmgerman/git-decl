@@ -15,7 +15,9 @@ DECL|function|check_tag
 DECL|function|check_tree
 DECL|function|clear_delta_base_cache
 DECL|function|clear_delta_base_cache_entry
+DECL|function|close_all_packs
 DECL|function|close_one_pack
+DECL|function|close_pack
 DECL|function|close_pack_fd
 DECL|function|close_pack_index
 DECL|function|close_pack_windows
