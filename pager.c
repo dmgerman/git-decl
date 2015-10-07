@@ -5,6 +5,7 @@ DECL|function|pager_in_use
 DECL|function|setup_pager
 DECL|function|term_columns
 DECL|function|wait_for_pager
+DECL|function|wait_for_pager_atexit
 DECL|function|wait_for_pager_signal
 DECL|macro|DEFAULT_PAGER
 DECL|variable|pager_argv
