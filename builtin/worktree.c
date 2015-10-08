@@ -1,11 +1,15 @@
 DECL|function|add
 DECL|function|add_worktree
 DECL|function|cmd_worktree
+DECL|function|list
+DECL|function|measure_widths
 DECL|function|prune
 DECL|function|prune_worktree
 DECL|function|prune_worktrees
 DECL|function|remove_junk
 DECL|function|remove_junk_on_signal
+DECL|function|show_worktree
+DECL|function|show_worktree_porcelain
 DECL|function|worktree_basename
 DECL|member|detach
 DECL|member|force
