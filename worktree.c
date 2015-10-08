@@ -1,4 +1,6 @@
-DECL|function|find_linked_symref
-DECL|function|find_main_symref
 DECL|function|find_shared_symref
+DECL|function|free_worktrees
+DECL|function|get_linked_worktree
+DECL|function|get_main_worktree
+DECL|function|get_worktrees
 DECL|function|parse_ref
