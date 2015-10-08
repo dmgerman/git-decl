@@ -1,2 +1,4 @@
 DECL|function|find_linked_symref
+DECL|function|find_main_symref
 DECL|function|find_shared_symref
+DECL|function|parse_ref
