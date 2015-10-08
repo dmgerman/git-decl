@@ -1,3 +1,4 @@
+DECL|function|add_head_info
 DECL|function|find_shared_symref
 DECL|function|free_worktrees
 DECL|function|get_linked_worktree
