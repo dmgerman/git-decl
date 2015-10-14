@@ -41,6 +41,7 @@ DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
 DECL|member|add_message_id
 DECL|member|charset
+DECL|member|cmitmsg
 DECL|member|email
 DECL|member|filter_stage
 DECL|member|header_stage
@@ -52,15 +53,14 @@ DECL|member|metainfo_charset
 DECL|member|name
 DECL|member|output
 DECL|member|patch_lines
+DECL|member|patchfile
 DECL|member|transfer_encoding
 DECL|member|use_inbody_headers
 DECL|member|use_scissors
 DECL|struct|mailinfo
-DECL|variable|cmitmsg
 DECL|variable|content
 DECL|variable|content_top
 DECL|variable|header
 DECL|variable|mailinfo_usage
 DECL|variable|p_hdr_data
-DECL|variable|patchfile
 DECL|variable|s_hdr_data
