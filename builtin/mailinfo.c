@@ -50,6 +50,8 @@ DECL|member|message_id
 DECL|member|name
 DECL|member|output
 DECL|member|patch_lines
+DECL|member|use_inbody_headers
+DECL|member|use_scissors
 DECL|struct|mailinfo
 DECL|variable|charset
 DECL|variable|cmitmsg
@@ -62,5 +64,3 @@ DECL|variable|p_hdr_data
 DECL|variable|patchfile
 DECL|variable|s_hdr_data
 DECL|variable|transfer_encoding
-DECL|variable|use_inbody_headers
-DECL|variable|use_scissors
