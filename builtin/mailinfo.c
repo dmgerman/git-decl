@@ -40,6 +40,8 @@ DECL|function|slurp_attr
 DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
 DECL|member|email
+DECL|member|filter_stage
+DECL|member|header_stage
 DECL|member|input
 DECL|member|keep_non_patch_brackets_in_subject
 DECL|member|keep_subject
