@@ -40,6 +40,8 @@ DECL|function|slurp_attr
 DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
 DECL|member|email
+DECL|member|keep_non_patch_brackets_in_subject
+DECL|member|keep_subject
 DECL|member|name
 DECL|struct|mailinfo
 DECL|variable|add_message_id
@@ -50,8 +52,6 @@ DECL|variable|content_top
 DECL|variable|fin
 DECL|variable|fout
 DECL|variable|header
-DECL|variable|keep_non_patch_brackets_in_subject
-DECL|variable|keep_subject
 DECL|variable|mailinfo_usage
 DECL|variable|message_id
 DECL|variable|metainfo_charset
