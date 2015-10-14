@@ -47,6 +47,7 @@ DECL|member|input
 DECL|member|keep_non_patch_brackets_in_subject
 DECL|member|keep_subject
 DECL|member|message_id
+DECL|member|metainfo_charset
 DECL|member|name
 DECL|member|output
 DECL|member|patch_lines
@@ -59,7 +60,6 @@ DECL|variable|content
 DECL|variable|content_top
 DECL|variable|header
 DECL|variable|mailinfo_usage
-DECL|variable|metainfo_charset
 DECL|variable|p_hdr_data
 DECL|variable|patchfile
 DECL|variable|s_hdr_data
