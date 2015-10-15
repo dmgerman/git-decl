@@ -52,8 +52,10 @@ DECL|member|message_id
 DECL|member|metainfo_charset
 DECL|member|name
 DECL|member|output
+DECL|member|p_hdr_data
 DECL|member|patch_lines
 DECL|member|patchfile
+DECL|member|s_hdr_data
 DECL|member|transfer_encoding
 DECL|member|use_inbody_headers
 DECL|member|use_scissors
@@ -62,5 +64,3 @@ DECL|variable|content
 DECL|variable|content_top
 DECL|variable|header
 DECL|variable|mailinfo_usage
-DECL|variable|p_hdr_data
-DECL|variable|s_hdr_data
