@@ -41,7 +41,6 @@ DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
 DECL|member|add_message_id
 DECL|member|charset
-DECL|member|cmitmsg
 DECL|member|content
 DECL|member|content_top
 DECL|member|email
@@ -50,6 +49,7 @@ DECL|member|header_stage
 DECL|member|input
 DECL|member|keep_non_patch_brackets_in_subject
 DECL|member|keep_subject
+DECL|member|log_message
 DECL|member|message_id
 DECL|member|metainfo_charset
 DECL|member|name
