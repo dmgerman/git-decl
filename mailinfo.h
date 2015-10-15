@@ -11,6 +11,7 @@ DECL|member|email
 DECL|member|filter_stage
 DECL|member|header_stage
 DECL|member|input
+DECL|member|input_error
 DECL|member|keep_non_patch_brackets_in_subject
 DECL|member|keep_subject
 DECL|member|log_message
