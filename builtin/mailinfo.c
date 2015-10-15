@@ -42,6 +42,8 @@ DECL|macro|MAX_HDR_PARSED
 DECL|member|add_message_id
 DECL|member|charset
 DECL|member|cmitmsg
+DECL|member|content
+DECL|member|content_top
 DECL|member|email
 DECL|member|filter_stage
 DECL|member|header_stage
@@ -60,7 +62,5 @@ DECL|member|transfer_encoding
 DECL|member|use_inbody_headers
 DECL|member|use_scissors
 DECL|struct|mailinfo
-DECL|variable|content
-DECL|variable|content_top
 DECL|variable|header
 DECL|variable|mailinfo_usage
