@@ -1,4 +1,5 @@
 DECL|function|add_lines
+DECL|function|cleanup
 DECL|function|fprintf_ln
 DECL|function|is_rfc3986_reserved
 DECL|function|is_rfc3986_unreserved
@@ -43,6 +44,7 @@ DECL|function|strbuf_remove
 DECL|function|strbuf_rtrim
 DECL|function|strbuf_splice
 DECL|function|strbuf_split_buf
+DECL|function|strbuf_stripspace
 DECL|function|strbuf_tolower
 DECL|function|strbuf_trim
 DECL|function|strbuf_vaddf
