@@ -18,6 +18,7 @@ DECL|function|add_untracked_ident
 DECL|function|clear_directory
 DECL|function|clear_exclude_list
 DECL|function|close_cached_dir
+DECL|function|cmp_icase
 DECL|function|cmp_name
 DECL|function|common_prefix
 DECL|function|common_prefix_len
