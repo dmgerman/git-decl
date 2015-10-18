@@ -48,7 +48,6 @@ DECL|variable|fout
 DECL|variable|header
 DECL|variable|keep_non_patch_brackets_in_subject
 DECL|variable|keep_subject
-DECL|variable|line
 DECL|variable|mailinfo_usage
 DECL|variable|message_id
 DECL|variable|metainfo_charset
