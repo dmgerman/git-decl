@@ -40,6 +40,7 @@ DECL|function|slurp_attr
 DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
 DECL|member|add_message_id
+DECL|member|charset
 DECL|member|email
 DECL|member|filter_stage
 DECL|member|header_stage
@@ -55,7 +56,6 @@ DECL|member|transfer_encoding
 DECL|member|use_inbody_headers
 DECL|member|use_scissors
 DECL|struct|mailinfo
-DECL|variable|charset
 DECL|variable|cmitmsg
 DECL|variable|content
 DECL|variable|content_top
