@@ -4,6 +4,7 @@ DECL|enumerator|TE_QP
 DECL|function|check_header
 DECL|function|cleanup_space
 DECL|function|cleanup_subject
+DECL|function|clear_mailinfo
 DECL|function|cmd_mailinfo
 DECL|function|cmp_header
 DECL|function|convert_to_utf8
@@ -34,15 +35,18 @@ DECL|function|output_header_lines
 DECL|function|parse_bogus_from
 DECL|function|patchbreak
 DECL|function|read_one_header_line
+DECL|function|setup_mailinfo
 DECL|function|slurp_attr
 DECL|macro|MAX_BOUNDARIES
 DECL|macro|MAX_HDR_PARSED
+DECL|member|email
+DECL|member|name
+DECL|struct|mailinfo
 DECL|variable|add_message_id
 DECL|variable|charset
 DECL|variable|cmitmsg
 DECL|variable|content
 DECL|variable|content_top
-DECL|variable|email
 DECL|variable|fin
 DECL|variable|fout
 DECL|variable|header
@@ -51,7 +55,6 @@ DECL|variable|keep_subject
 DECL|variable|mailinfo_usage
 DECL|variable|message_id
 DECL|variable|metainfo_charset
-DECL|variable|name
 DECL|variable|p_hdr_data
 DECL|variable|patch_lines
 DECL|variable|patchfile
