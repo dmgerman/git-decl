@@ -135,8 +135,8 @@ DECL|function|resolve_gitlink_packed_ref
 DECL|function|resolve_gitlink_ref
 DECL|function|resolve_gitlink_ref_recursive
 DECL|function|resolve_missing_loose_ref
+DECL|function|resolve_ref_1
 DECL|function|resolve_ref_unsafe
-DECL|function|resolve_ref_unsafe_1
 DECL|function|resolve_refdup
 DECL|function|rollback_packed_refs
 DECL|function|safe_create_reflog

@@ -8,6 +8,7 @@ DECL|function|strbuf_add
 DECL|function|strbuf_add_absolute_path
 DECL|function|strbuf_add_commented_lines
 DECL|function|strbuf_add_lines
+DECL|function|strbuf_add_unique_abbrev
 DECL|function|strbuf_add_urlencode
 DECL|function|strbuf_addbuf_percentquote
 DECL|function|strbuf_addchars

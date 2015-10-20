@@ -23,7 +23,6 @@ DECL|function|is_git_command
 DECL|function|list_common_guides_help
 DECL|function|open_html
 DECL|function|parse_help_format
-DECL|function|prepend
 DECL|function|setup_man_path
 DECL|function|show_html_page
 DECL|function|show_info_page

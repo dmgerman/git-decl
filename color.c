@@ -12,6 +12,7 @@ DECL|function|color_output
 DECL|function|color_parse
 DECL|function|color_parse_mem
 DECL|function|color_print_strbuf
+DECL|function|color_set
 DECL|function|color_vfprintf
 DECL|function|get_hex_color
 DECL|function|git_color_config
@@ -21,6 +22,9 @@ DECL|function|match_word
 DECL|function|parse_attr
 DECL|function|parse_color
 DECL|function|want_color
+DECL|macro|OUT
+DECL|macro|OUT
+DECL|macro|OUT
 DECL|member|blue
 DECL|member|green
 DECL|member|red

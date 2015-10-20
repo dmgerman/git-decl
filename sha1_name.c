@@ -10,6 +10,7 @@ DECL|function|disambiguate_treeish_only
 DECL|function|find_short_object_filename
 DECL|function|find_short_packed_object
 DECL|function|find_unique_abbrev
+DECL|function|find_unique_abbrev_r
 DECL|function|finish_object_disambiguation
 DECL|function|for_each_abbrev
 DECL|function|get_describe_name

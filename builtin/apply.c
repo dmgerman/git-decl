@@ -250,7 +250,6 @@ DECL|variable|prefix
 DECL|variable|prefix_length
 DECL|variable|read_stdin
 DECL|variable|root
-DECL|variable|root_len
 DECL|variable|squelch_whitespace_errors
 DECL|variable|summary
 DECL|variable|symlink_changes

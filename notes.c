@@ -45,6 +45,7 @@ DECL|function|write_each_note_helper
 DECL|function|write_notes_tree
 DECL|function|write_tree_entry
 DECL|macro|CLR_PTR_TYPE
+DECL|macro|FANOUT_PATH_MAX
 DECL|macro|GET_NIBBLE
 DECL|macro|GET_PTR_TYPE
 DECL|macro|PTR_TYPE_INTERNAL

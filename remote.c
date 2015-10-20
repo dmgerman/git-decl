@@ -94,6 +94,7 @@ DECL|function|remotes_hash_cmp
 DECL|function|resolve_remote_symref
 DECL|function|set_merge
 DECL|function|set_ref_status_for_push
+DECL|function|skip_spaces
 DECL|function|sort_ref_list
 DECL|function|stat_tracking_info
 DECL|function|tail_link_ref
@@ -104,7 +105,6 @@ DECL|function|unmark_and_free
 DECL|function|valid_fetch_refspec
 DECL|function|valid_remote
 DECL|function|valid_remote_nick
-DECL|macro|BUF_SIZE
 DECL|member|alloc
 DECL|member|base
 DECL|member|baselen
@@ -133,7 +133,6 @@ DECL|struct|tips
 DECL|variable|branches
 DECL|variable|branches_alloc
 DECL|variable|branches_nr
-DECL|variable|buffer
 DECL|variable|current_branch
 DECL|variable|pushremote_name
 DECL|variable|remotes
