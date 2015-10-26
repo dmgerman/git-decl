@@ -10,6 +10,7 @@ DECL|function|strbuf_split_max
 DECL|function|strbuf_split_str
 DECL|function|strbuf_strip_suffix
 DECL|function|strbuf_swap
+DECL|function|stripspace
 DECL|macro|STRBUF_H
 DECL|macro|STRBUF_INIT
 DECL|macro|strbuf_reset
