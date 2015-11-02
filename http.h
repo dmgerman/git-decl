@@ -43,7 +43,6 @@ DECL|member|next
 DECL|member|no_cache
 DECL|member|packfile
 DECL|member|posn
-DECL|member|range_header
 DECL|member|real_sha1
 DECL|member|rename
 DECL|member|results
