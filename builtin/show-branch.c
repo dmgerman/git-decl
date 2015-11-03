@@ -34,9 +34,7 @@ DECL|macro|UNINTERESTING
 DECL|member|generation
 DECL|member|head_name
 DECL|struct|commit_name
-DECL|variable|default_alloc
-DECL|variable|default_arg
-DECL|variable|default_num
+DECL|variable|default_args
 DECL|variable|match_ref_pattern
 DECL|variable|match_ref_slash
 DECL|variable|ref_name
