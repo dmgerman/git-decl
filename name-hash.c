@@ -1,5 +1,6 @@
 DECL|function|add_dir_entry
 DECL|function|add_name_hash
+DECL|function|adjust_dirname_case
 DECL|function|cache_entry_cmp
 DECL|function|dir_entry_cmp
 DECL|function|find_dir_entry
@@ -14,8 +15,8 @@ DECL|function|remove_name_hash
 DECL|function|same_name
 DECL|function|slow_same_name
 DECL|macro|NO_THE_INDEX_COMPATIBILITY_MACROS
-DECL|member|ce
 DECL|member|ent
+DECL|member|name
 DECL|member|namelen
 DECL|member|nr
 DECL|member|parent
