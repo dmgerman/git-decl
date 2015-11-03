@@ -1,5 +1,6 @@
 DECL|function|async_die_is_recursing
 DECL|function|capture_command
+DECL|function|child_process_clear
 DECL|function|child_process_init
 DECL|function|cleanup_children
 DECL|function|cleanup_children_on_exit
