@@ -37,6 +37,7 @@ DECL|function|find_copy_in_parent
 DECL|function|find_move_in_parent
 DECL|function|find_origin
 DECL|function|find_rename
+DECL|function|find_single_final
 DECL|function|first_scapegoat
 DECL|function|format_time
 DECL|function|found_guilty_entry
