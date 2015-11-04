@@ -1,4 +1,5 @@
 DECL|function|add_repack_all_option
+DECL|function|clean_pack_garbage
 DECL|function|cmd_gc
 DECL|function|gc_before_repack
 DECL|function|gc_config
@@ -7,6 +8,7 @@ DECL|function|lock_repo_for_gc
 DECL|function|need_to_gc
 DECL|function|remove_pidfile
 DECL|function|remove_pidfile_on_signal
+DECL|function|report_pack_garbage
 DECL|function|too_many_loose_objects
 DECL|function|too_many_packs
 DECL|macro|FAILED_RUN
@@ -16,6 +18,7 @@ DECL|variable|builtin_gc_usage
 DECL|variable|detach_auto
 DECL|variable|gc_auto_pack_limit
 DECL|variable|gc_auto_threshold
+DECL|variable|pack_garbage
 DECL|variable|pack_refs
 DECL|variable|pack_refs_cmd
 DECL|variable|pidfile
