@@ -49,6 +49,7 @@ DECL|member|path
 DECL|member|pathspec
 DECL|member|prefix
 DECL|member|quiet
+DECL|member|show_progress
 DECL|member|source_tree
 DECL|member|src_ref
 DECL|member|track
