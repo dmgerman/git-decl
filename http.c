@@ -28,6 +28,7 @@ DECL|function|http_get_file
 DECL|function|http_get_info_packs
 DECL|function|http_get_strbuf
 DECL|function|http_init
+DECL|function|http_opt_request_remainder
 DECL|function|http_options
 DECL|function|http_request
 DECL|function|http_request_reauth
@@ -59,7 +60,6 @@ DECL|macro|HTTP_REQUEST_FILE
 DECL|macro|HTTP_REQUEST_STRBUF
 DECL|macro|LIBCURL_CAN_HANDLE_AUTH_ANY
 DECL|macro|PREV_BUF_SIZE
-DECL|macro|RANGE_HEADER_SIZE
 DECL|member|data
 DECL|member|fill
 DECL|member|name
