@@ -13,9 +13,9 @@ DECL|member|name
 DECL|member|next
 DECL|member|nr
 DECL|member|objects
+DECL|member|oid
 DECL|member|parsed
 DECL|member|path
-DECL|member|sha1
 DECL|member|type
 DECL|member|used
 DECL|struct|object
