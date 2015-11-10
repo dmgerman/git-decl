@@ -151,6 +151,7 @@ DECL|function|try_remove_empty_parents
 DECL|function|unlock_ref
 DECL|function|update_ref
 DECL|function|verify_lock
+DECL|function|verify_refname_available
 DECL|function|verify_refname_available_dir
 DECL|function|warn_dangling_symref
 DECL|function|warn_dangling_symrefs
