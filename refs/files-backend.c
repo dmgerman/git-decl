@@ -24,6 +24,7 @@ DECL|function|do_for_each_reflog
 DECL|function|do_head_ref
 DECL|function|do_one_ref
 DECL|function|expire_reflog_ent
+DECL|function|files_log_ref_write
 DECL|function|find_beginning_of_line
 DECL|function|find_containing_dir
 DECL|function|find_ref
