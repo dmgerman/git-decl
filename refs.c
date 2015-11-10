@@ -7,6 +7,7 @@ DECL|function|delete_ref
 DECL|function|dwim_log
 DECL|function|dwim_ref
 DECL|function|filter_refs
+DECL|function|find_descendant_ref
 DECL|function|for_each_branch_ref
 DECL|function|for_each_branch_ref_submodule
 DECL|function|for_each_glob_ref
@@ -38,6 +39,7 @@ DECL|function|ref_transaction_verify
 DECL|function|ref_type
 DECL|function|refname_is_safe
 DECL|function|refname_match
+DECL|function|rename_ref_available
 DECL|function|resolve_refdup
 DECL|function|shorten_unambiguous_ref
 DECL|function|should_autocreate_reflog
