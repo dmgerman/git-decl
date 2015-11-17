@@ -84,6 +84,7 @@ DECL|member|opt
 DECL|member|out
 DECL|member|prefix
 DECL|member|short_name
+DECL|member|total
 DECL|member|type
 DECL|member|value
 DECL|struct|option
