@@ -1,3 +1,4 @@
+DECL|function|bits_to_msg
 DECL|function|cmd_count_objects
 DECL|function|count_cruft
 DECL|function|count_loose
