@@ -1,0 +1,1 @@
+DECL|function|git_SHA1_Update_Chunked
