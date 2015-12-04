@@ -12,7 +12,6 @@ DECL|function|parse_options_check
 DECL|function|parse_options_end
 DECL|function|parse_options_start
 DECL|function|parse_options_step
-DECL|function|parse_options_usage
 DECL|function|parse_short_opt
 DECL|function|usage_argh
 DECL|function|usage_msg_opt

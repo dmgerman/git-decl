@@ -3,7 +3,6 @@ DECL|function|cmd_show_ref
 DECL|function|exclude_existing
 DECL|function|exclude_existing_callback
 DECL|function|hash_callback
-DECL|function|help_callback
 DECL|function|show_one
 DECL|function|show_ref
 DECL|variable|abbrev

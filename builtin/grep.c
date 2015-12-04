@@ -16,7 +16,6 @@ DECL|function|grep_objects
 DECL|function|grep_sha1
 DECL|function|grep_tree
 DECL|function|grep_unlock
-DECL|function|help_callback
 DECL|function|lock_and_read_sha1_file
 DECL|function|not_callback
 DECL|function|open_callback
