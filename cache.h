@@ -286,8 +286,14 @@ DECL|macro|discard_cache
 DECL|macro|git_SHA1_Final
 DECL|macro|git_SHA1_Init
 DECL|macro|git_SHA1_Update
+DECL|macro|git_SHA1_Update
+DECL|macro|git_SHA1_Update
 DECL|macro|git_SHA_CTX
 DECL|macro|is_cache_unborn
+DECL|macro|platform_SHA1_Final
+DECL|macro|platform_SHA1_Init
+DECL|macro|platform_SHA1_Update
+DECL|macro|platform_SHA_CTX
 DECL|macro|read_blob_data_from_cache
 DECL|macro|read_cache
 DECL|macro|read_cache_from
