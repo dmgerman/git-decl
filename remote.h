@@ -58,11 +58,11 @@ DECL|member|mirror
 DECL|member|name
 DECL|member|name
 DECL|member|name
-DECL|member|new_sha1
+DECL|member|new_oid
 DECL|member|next
 DECL|member|nr
-DECL|member|old_sha1
-DECL|member|old_sha1_expect
+DECL|member|old_oid
+DECL|member|old_oid_expect
 DECL|member|origin
 DECL|member|pattern
 DECL|member|peer_ref
