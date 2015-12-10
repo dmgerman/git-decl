@@ -27,6 +27,7 @@ DECL|macro|get_gecos
 DECL|variable|author_ident_explicitly_given
 DECL|variable|committer_ident_explicitly_given
 DECL|variable|default_email_is_bogus
+DECL|variable|default_name_is_bogus
 DECL|variable|env_hint
 DECL|variable|git_default_date
 DECL|variable|git_default_email
