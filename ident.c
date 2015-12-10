@@ -18,6 +18,7 @@ DECL|function|ident_default_name
 DECL|function|ident_is_sufficient
 DECL|function|split_ident_line
 DECL|function|strbuf_addstr_without_crud
+DECL|function|xgetpwuid_self
 DECL|macro|IDENT_ALL_GIVEN
 DECL|macro|IDENT_MAIL_GIVEN
 DECL|macro|IDENT_NAME_GIVEN
