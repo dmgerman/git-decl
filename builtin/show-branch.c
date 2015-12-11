@@ -20,7 +20,6 @@ DECL|function|name_first_parent_chain
 DECL|function|name_parent
 DECL|function|omit_in_dense
 DECL|function|parse_reflog_param
-DECL|function|pop_one_commit
 DECL|function|rev_is_head
 DECL|function|show_independent
 DECL|function|show_merge_base
