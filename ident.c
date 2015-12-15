@@ -2,6 +2,7 @@ DECL|function|add_domainname
 DECL|function|add_mailname_host
 DECL|function|author_ident_sufficiently_given
 DECL|function|buf_cmp
+DECL|function|canonical_name
 DECL|function|committer_ident_sufficiently_given
 DECL|function|copy_email
 DECL|function|copy_gecos
