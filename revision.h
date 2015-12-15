@@ -170,6 +170,7 @@ DECL|member|use_terminator
 DECL|member|verbose_header
 DECL|member|verify_objects
 DECL|member|whence
+DECL|member|zero_commit
 DECL|struct|name_path
 DECL|struct|rev_cmdline_entry
 DECL|struct|rev_cmdline_info
