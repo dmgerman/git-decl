@@ -71,6 +71,7 @@ DECL|function|mingw_startup
 DECL|function|mingw_stat
 DECL|function|mingw_unlink
 DECL|function|mingw_utime
+DECL|function|mingw_write
 DECL|function|mkstemp
 DECL|function|parse_interpreter
 DECL|function|path_lookup
@@ -105,6 +106,7 @@ DECL|macro|rename
 DECL|macro|setsockopt
 DECL|macro|shutdown
 DECL|macro|signal
+DECL|macro|write
 DECL|member|newmode
 DECL|member|next
 DECL|member|pid
