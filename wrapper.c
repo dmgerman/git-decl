@@ -29,7 +29,6 @@ DECL|function|xdup
 DECL|function|xfdopen
 DECL|function|xfopen
 DECL|function|xgetcwd
-DECL|function|xgetpwuid_self
 DECL|function|xmalloc
 DECL|function|xmallocz
 DECL|function|xmallocz_gently

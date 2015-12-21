@@ -19,6 +19,7 @@ DECL|function|ident_default_name
 DECL|function|ident_is_sufficient
 DECL|function|split_ident_line
 DECL|function|strbuf_addstr_without_crud
+DECL|function|xgetpwuid_self
 DECL|macro|IDENT_ALL_GIVEN
 DECL|macro|IDENT_MAIL_GIVEN
 DECL|macro|IDENT_NAME_GIVEN
@@ -26,6 +27,8 @@ DECL|macro|get_gecos
 DECL|macro|get_gecos
 DECL|variable|author_ident_explicitly_given
 DECL|variable|committer_ident_explicitly_given
+DECL|variable|default_email_is_bogus
+DECL|variable|default_name_is_bogus
 DECL|variable|env_hint
 DECL|variable|git_default_date
 DECL|variable|git_default_email
