@@ -30,6 +30,7 @@ DECL|variable|message_detached_head_die
 DECL|variable|progress
 DECL|variable|push_usage
 DECL|variable|receivepack
+DECL|variable|recurse_submodules
 DECL|variable|refspec
 DECL|variable|refspec_alloc
 DECL|variable|refspec_nr

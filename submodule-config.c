@@ -22,6 +22,8 @@ DECL|function|name_and_item_from_var
 DECL|function|parse_config
 DECL|function|parse_fetch_recurse
 DECL|function|parse_fetch_recurse_submodules_arg
+DECL|function|parse_push_recurse
+DECL|function|parse_push_recurse_submodules_arg
 DECL|function|parse_submodule_config_option
 DECL|function|submodule_free
 DECL|function|submodule_from_name
